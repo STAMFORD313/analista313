@@ -1,91 +1,15 @@
 {
  "analyzed": [
-  "nba|2026-11-08|Atlanta Hawks|Brooklyn Nets",
-  "nba|2026-11-08|Cleveland Cavaliers|New York Knicks",
-  "nba|2026-11-08|Oklahoma City Thunder|Washington Wizards",
-  "nba|2026-11-08|Golden State Warriors|Orlando Magic",
-  "nba|2026-11-08|Phoenix Suns|Houston Rockets",
-  "nba|2026-11-08|Portland Trail Blazers|San Antonio Spurs",
-  "nhl|2026-11-08|Toronto Maple Leafs|Montreal Canadiens",
-  "nhl|2026-11-08|Ottawa Senators|Utah Mammoth",
-  "nhl|2026-11-08|New York Islanders|New Jersey Devils",
-  "nhl|2026-11-08|Carolina Hurricanes|Chicago Blackhawks",
-  "nhl|2026-11-08|Dallas Stars|San Jose Sharks",
-  "nhl|2026-11-08|Minnesota Wild|Tampa Bay Lightning",
-  "nhl|2026-11-08|Colorado Avalanche|Detroit Red Wings",
-  "nhl|2026-11-08|Los Angeles Kings|Pittsburgh Penguins",
-  "nhl|2026-11-08|Edmonton Oilers|Vancouver Canucks",
-  "ufc|2026-11-08|Mitch Raposo|Marcos Degli",
-  "ufc|2026-11-08|Priscila Cachoeira|Nina Milošević",
-  "ufc|2026-11-08|Billy Elekana|Lucas Fernando",
-  "ufc|2026-11-08|Davey Grant|Elijah Smith",
-  "ufc|2026-11-08|Tatiana Suarez|Virna Jandiroba",
-  "ufc|2026-11-08|Johnny Walker|Waldo Cortes Acosta",
-  "cfb|2026-11-08|Jacksonville State Gamecocks|Sam Houston Bearkats",
-  "cfb|2026-11-08|Notre Dame Fighting Irish|Miami Hurricanes",
-  "cfb|2026-11-08|Ole Miss Rebels|Georgia Bulldogs",
-  "cfb|2026-11-08|Northwestern Wildcats|Iowa Hawkeyes",
-  "cfb|2026-11-08|Arizona State Sun Devils|Colorado Buffaloes",
-  "cfb|2026-11-08|Georgia Tech Yellow Jackets|Louisville Cardinals",
-  "cfb|2026-11-08|Michigan Wolverines|Michigan State Spartans",
-  "cfb|2026-11-08|Army Black Knights|Air Force Falcons",
-  "cfb|2026-11-08|Florida Gators|Oklahoma Sooners",
-  "cfb|2026-11-08|New Mexico State Aggies|Liberty Flames",
-  "cfb|2026-11-08|Texas Tech Red Raiders|West Virginia Mountaineers",
-  "cfb|2026-11-08|Utah State Aggies|Fresno State Bulldogs",
-  "cfb|2026-11-08|UTEP Miners|Hawai'i Rainbow Warriors",
-  "cfb|2026-11-08|Oregon State Beavers|Texas State Bobcats",
-  "cfb|2026-11-08|UNLV Rebels|Wyoming Cowboys",
-  "cbb|2026-11-08|Purdue Fort Wayne Mastodons|Albion Britons",
-  "cbb|2026-11-08|Davidson Wildcats|Mercer Bears",
-  "cbb|2026-11-08|Western Illinois Leathernecks|Houston Christian Huskies",
-  "cbb|2026-11-08|Canisius Golden Griffins|St. Bonaventure Bonnies",
-  "cbb|2026-11-08|Dayton Flyers|Northern Illinois Huskies",
-  "cbb|2026-11-08|Nebraska Cornhuskers|Providence Friars",
-  "cbb|2026-11-08|UC Riverside Highlanders|Denver Pioneers",
-  "cbb|2026-11-08|Duquesne Dukes|Central State Marauders",
-  "cbb|2026-11-08|Georgetown Hoyas|Maryland Terrapins",
-  "cbb|2026-11-08|Oral Roberts Golden Eagles|Northwestern (OK) Rangers",
-  "cbb|2026-11-08|Murray State Racers|Northwestern State Demons",
-  "cbb|2026-11-08|Evansville Purple Aces|Southern Indiana Screaming Eagles",
-  "cbb|2026-11-08|Little Rock Trojans|SE Louisiana Lions",
-  "cbb|2026-11-08|Bradley Braves|Pacific Tigers",
-  "cbb|2026-11-08|Grand Canyon Lopes|Bethune-Cookman Wildcats",
-  "cbb|2026-11-08|Southern Utah Thunderbirds|Bethesda Flames",
-  "cbb|2026-11-08|Pepperdine Waves|Bethesda Flames",
-  "cbb|2026-11-08|Weber State Wildcats|Utah Valley Wolverines",
-  "cbb|2026-11-08|UC San Diego Tritons|Fresno State Bulldogs",
-  "cbb|2026-11-08|Santa Clara Broncos|Sacramento State Hornets",
-  "cbb|2026-11-08|Seattle U Redhawks|Portland State Vikings",
-  "cbb|2026-11-08|UC Irvine Anteaters|San José State Spartans",
-  "nba|2026-11-08|Chicago Bulls|Philadelphia 76ers",
-  "nba|2026-11-08|Detroit Pistons|Los Angeles Lakers",
   "nba|2026-11-09|Minnesota Timberwolves|Utah Jazz",
   "nba|2026-11-09|Dallas Mavericks|Brooklyn Nets",
   "nba|2026-11-09|Milwaukee Bucks|Boston Celtics",
   "nba|2026-11-09|LA Clippers|New Orleans Pelicans",
   "nba|2026-11-09|Sacramento Kings|Miami Heat",
-  "nfl|2026-11-08|Atlanta Falcons|Cincinnati Bengals",
-  "nfl|2026-11-08|Indianapolis Colts|Dallas Cowboys",
-  "nfl|2026-11-08|Kansas City Chiefs|New York Jets",
-  "nfl|2026-11-08|Miami Dolphins|Detroit Lions",
-  "nfl|2026-11-08|New Orleans Saints|Cleveland Browns",
-  "nfl|2026-11-08|Philadelphia Eagles|New York Giants",
-  "nfl|2026-11-08|Washington Commanders|Los Angeles Rams",
-  "nfl|2026-11-08|Carolina Panthers|Denver Broncos",
-  "nfl|2026-11-08|Los Angeles Chargers|Houston Texans",
-  "nfl|2026-11-08|New England Patriots|Green Bay Packers",
-  "nfl|2026-11-08|San Francisco 49ers|Las Vegas Raiders",
-  "nfl|2026-11-08|Seattle Seahawks|Arizona Cardinals",
   "nfl|2026-11-09|Chicago Bears|Tampa Bay Buccaneers",
-  "nhl|2026-11-08|Boston Bruins|Florida Panthers",
-  "nhl|2026-11-08|Buffalo Sabres|Vegas Golden Knights",
   "nhl|2026-11-09|Toronto Maple Leafs|New Jersey Devils",
   "nhl|2026-11-09|Winnipeg Jets|Tampa Bay Lightning",
   "nhl|2026-11-09|Calgary Flames|Philadelphia Flyers",
   "nhl|2026-11-09|Anaheim Ducks|Pittsburgh Penguins",
-  "wta|2026-11-08|Elena Rybakina|Linda Noskova",
-  "wta|2026-11-08|Coco Gauff|Jessica Pegula",
   "wta|2026-11-09|Aryna Sabalenka|Karolina Muchova",
   "wta|2026-11-09|Mirra Andreeva|Elina Svitolina",
   "wta|2026-11-10|Elena Rybakina|Jessica Pegula",
@@ -96,141 +20,12 @@
   "wta|2026-11-10|Jessica Pegula|Linda Noskova",
   "wta|2026-11-10|Coco Gauff|Linda Noskova",
   "wta|2026-11-10|Elena Rybakina|Coco Gauff",
-  "cbb|2026-11-08|St. John's Red Storm|Iona Gaels",
-  "cbb|2026-11-08|Virginia Cavaliers|Arkansas Razorbacks",
-  "cbb|2026-11-08|Milwaukee Panthers|Ripon Red Hawks",
-  "cbb|2026-11-08|Siena Saints|Princeton Tigers",
-  "cbb|2026-11-08|South Carolina Gamecocks|Southeast Missouri State Redhawks",
-  "cbb|2026-11-08|UMass Lowell River Hawks|Marist Red Foxes",
-  "cbb|2026-11-08|New Hampshire Wildcats|Sacred Heart Pioneers",
-  "cbb|2026-11-08|Maine Black Bears|Manhattan Jaspers",
-  "cbb|2026-11-08|Bryant Bulldogs|Fairfield Stags",
-  "cbb|2026-11-08|Navy Midshipmen|Central Penn Knights",
-  "cbb|2026-11-08|Chicago Maroons|Harvard Crimson",
-  "cbb|2026-11-08|Wofford Terriers|Allen Yellow Jackets",
-  "cbb|2026-11-08|Cornell Big Red|Keuka Storm",
-  "cbb|2026-11-08|UAlbany Great Danes|Merrimack Warriors",
-  "cbb|2026-11-08|St. Thomas Tommies|Green Bay Phoenix",
-  "cbb|2026-11-08|Western Michigan Broncos|Campbell Fighting Camels",
-  "cbb|2026-11-08|Vermont Catamounts|Quinnipiac Bobcats",
-  "cbb|2026-11-08|Dartmouth Big Green|Central Connecticut Blue Devils",
-  "cbb|2026-11-08|Lehigh Mountain Hawks|Brown Bears",
-  "cbb|2026-11-08|Boise State Broncos|Butler Bulldogs",
-  "cbb|2026-11-08|Drake Bulldogs|Southern Jaguars",
-  "cbb|2026-11-08|Tennessee Tech Golden Eagles|Western Kentucky Hilltoppers",
-  "cbb|2026-11-08|Air Force Falcons|Idaho State Bengals",
-  "cbb|2026-11-08|NJIT Highlanders|Saint Peter's Peacocks",
-  "cbb|2026-11-08|Binghamton Bearcats|Rider Broncs",
-  "cbb|2026-11-08|Nevada Wolf Pack|Saint Mary's Gaels",
-  "cbb|2026-11-08|Idaho Vandals|Lincoln (CA) Oaklanders",
-  "cbb|2026-11-08|Temple Owls|Richmond Spiders",
-  "cbb|2026-11-08|William & Mary Tribe|Norfolk State Spartans",
-  "cbb|2026-11-08|Cal State Bakersfield Roadrunners|North Dakota State Bison",
   "cbb|2026-11-09|UTEP Miners|Incarnate Word Cardinals",
   "cbb|2026-11-09|Bethesda Flames|Portland Pilots",
   "cbb|2026-11-09|Penn State Nittany Lions|Pittsburgh Panthers",
   "cbb|2026-11-09|California Golden Bears|Houston Cougars",
   "cbb|2026-11-09|Wichita State Shockers|USC Trojans",
   "cbb|2026-11-09|Hawai'i Rainbow Warriors|UT Arlington Mavericks",
-  "nhl|2026-11-08|Winnipeg Jets|Tampa Bay Lightning",
-  "USA|2026-11-08|Austin FC|Portland Timbers",
-  "USA|2026-11-08|FC Dallas|Colorado Rapids",
-  "USA|2026-11-08|Houston Dynamo|St. Louis City",
-  "USA|2026-11-08|Minnesota United|San Jose Earthquakes",
-  "USA|2026-11-08|Real Salt Lake|Los Angeles Galaxy",
-  "USA|2026-11-08|San Diego FC|Sporting Kansas City",
-  "USA|2026-11-08|Seattle Sounders|Los Angeles FC",
-  "ARG|2026-11-08|Instituto|Newells Old Boys",
-  "MEX|2026-11-08|Tigres UANL|Cruz Azul",
-  "MEX|2026-11-08|Toluca|Monterrey",
-  "MEX|2026-11-08|UNAM Pumas|Club America",
-  "JPN|2026-11-08|Machida|Sanfrecce Hiroshima",
-  "JPN|2026-11-08|Vissel Kobe|Urawa Reds",
-  "JPN|2026-11-08|Gamba Osaka|Cerezo Osaka",
-  "JPN|2026-11-08|Chiba|Mito",
-  "DNK|2026-11-08|FC Copenhagen|Brondby",
-  "DNK|2026-11-08|Aarhus|Horsens",
-  "SWE|2026-11-08|Goteborg|Malmo FF",
-  "SWE|2026-11-08|Halmstad|Djurgarden",
-  "SWZ|2026-11-08|St. Gallen|Lugano",
-  "AUT|2026-11-08|Hartberg|Altach",
-  "AUT|2026-11-08|Tirol|Austria Vienna",
-  "NOR|2026-11-08|Tromso|Bodo/Glimt",
-  "POL|2026-11-08|Jagiellonia|GKS Katowice",
-  "DNK|2026-11-08|Randers FC|Nordsjaelland",
-  "SWE|2026-11-08|AIK|Hacken",
-  "SWE|2026-11-08|Brommapojkarna|Mjallby",
-  "SWE|2026-11-08|Kalmar|Sirius",
-  "SWZ|2026-11-08|Servette|Zurich",
-  "SWZ|2026-11-08|Thun|Basel",
-  "AUT|2026-11-08|Sturm Graz|Salzburg",
-  "NOR|2026-11-08|HamKam|Sarpsborg 08",
-  "NOR|2026-11-08|Lillestrom|Aalesund",
-  "NOR|2026-11-08|Sandefjord|Molde",
-  "NOR|2026-11-08|Viking|KFUM Oslo",
-  "POL|2026-11-08|Legia|Rakow",
-  "DNK|2026-11-08|Midtjylland|Sonderjyske",
-  "NOR|2026-11-08|Fredrikstad|Brann",
-  "POL|2026-11-08|Lech Poznan|Zaglebie",
-  "ARG|2026-11-08|Central Cordoba|Lanus",
-  "T1|2026-11-08|Rizespor|Erzurumspor",
-  "N1|2026-11-08|Heerenveen|Feyenoord",
-  "I1|2026-11-08|Napoli|Lazio",
-  "B1|2026-11-08|Club Brugge|Anderlecht",
-  "D2|2026-11-08|Bochum|Karlsruhe",
-  "D2|2026-11-08|Heidenheim|Hannover",
-  "D2|2026-11-08|Magdeburg|St Pauli",
-  "SP1|2026-11-08|Elche|Betis",
-  "T1|2026-11-08|Corum|Fenerbahce",
-  "N1|2026-11-08|Twente|Ajax",
-  "E0|2026-11-08|Brighton|Brentford",
-  "E0|2026-11-08|Crystal Palace|Liverpool",
-  "E0|2026-11-08|Ipswich|Bournemouth",
-  "E0|2026-11-08|Sunderland|Chelsea",
-  "F1|2026-11-08|Rennes|Lille",
-  "I1|2026-11-08|Genoa|Milan",
-  "I1|2026-11-08|Monza|Atalanta",
-  "I2|2026-11-08|Virtus Entella|Modena",
-  "D1|2026-11-08|FC Koln|Leverkusen",
-  "B1|2026-11-08|Gent|Kortrijk",
-  "G1|2026-11-08|AEK|Levadeiakos",
-  "G1|2026-11-08|Asteras Tripolis|Kalamata",
-  "SC0|2026-11-08|Hearts|Falkirk",
-  "SP1|2026-11-08|Sociedad|Vallecano",
-  "SP2|2026-11-08|Girona|Almeria",
-  "G1|2026-11-08|Iraklis|Panathinaikos",
-  "P1|2026-11-08|Estoril|Maritimo",
-  "P1|2026-11-08|Santa Clara|Gil Vicente",
-  "T1|2026-11-08|Alanyaspor|Trabzonspor",
-  "N1|2026-11-08|AZ Alkmaar|Groningen",
-  "N1|2026-11-08|Cambuur|PSV Eindhoven",
-  "SC0|2026-11-08|Celtic|Kilmarnock",
-  "F1|2026-11-08|Angers|Nice",
-  "F1|2026-11-08|Brest|Lyon",
-  "F1|2026-11-08|Le Havre|Lorient",
-  "F1|2026-11-08|Le Mans|Monaco",
-  "I2|2026-11-08|Carrarese|Sampdoria",
-  "D1|2026-11-08|Freiburg|Union Berlin",
-  "E0|2026-11-08|Man United|Aston Villa",
-  "G1|2026-11-08|OFI Crete|Atromitos",
-  "I1|2026-11-08|Inter|Como",
-  "B1|2026-11-08|St. Gilloise|Genk",
-  "SP1|2026-11-08|Celta|Levante",
-  "SP1|2026-11-08|Villarreal|Getafe",
-  "SP2|2026-11-08|Las Palmas|Eldense",
-  "SP2|2026-11-08|Sp Gijon|Valladolid",
-  "P1|2026-11-08|Guimaraes|Porto",
-  "T1|2026-11-08|Besiktas|Genclerbirligi",
-  "B1|2026-11-08|St Truiden|Waregem",
-  "D1|2026-11-08|Hoffenheim|Schalke 04",
-  "I2|2026-11-08|Vicenza|Cremonese",
-  "G1|2026-11-08|Olympiakos|PAOK",
-  "N1|2026-11-08|Utrecht|Nijmegen",
-  "F1|2026-11-08|Lens|Marseille",
-  "I1|2026-11-08|Fiorentina|Juventus",
-  "SP1|2026-11-08|Ath Madrid|Barcelona",
-  "P1|2026-11-08|Estrela|Benfica",
-  "P1|2026-11-08|Rio Ave|Sp Braga",
   "MEX|2026-11-09|Queretaro|Puebla",
   "MEX|2026-11-09|Club Leon|Guadalajara Chivas",
   "SP2|2026-11-09|Sabadell|Sociedad B",
@@ -297,35 +92,14 @@
   "cbb|2026-11-10|Bethesda Flames|UT Arlington Mavericks",
   "cbb|2026-11-10|Hawai'i Rainbow Warriors|Portland Pilots",
   "cbb|2026-11-10|West Florida Argonauts|Baptist (Fl) Eagles",
-  "atp|2026-11-08|Holger Rune|Zizou Bergs",
-  "atp|2026-11-08|Arthur Rinderknech|Miomir Kecmanovic",
-  "atp|2026-11-08|Thiago Agustin Tirante|Jaume Munar",
-  "atp|2026-11-08|James Duckworth|Cameron Norrie",
-  "atp|2026-11-08|Tomas Martin Etcheverry|Max Dahlin",
-  "atp|2026-11-08|Elias Ymer|Juan Manuel Cerundolo",
-  "atp|2026-11-08|Alex Michelsen|Yannick Hanfmann",
-  "atp|2026-11-08|Adolfo Daniel Vallejo|Ugo Humbert",
-  "wta|2026-11-08|Claire Liu|Alexandra Eala",
-  "atp|2026-11-08|Nikoloz Basilashvili|Borna Gojo",
   "atp|2026-11-09|Adolfo Daniel Vallejo|Ugo Humbert",
   "atp|2026-11-09|Alex Michelsen|Yannick Hanfmann",
   "atp|2026-11-09|Tomas Martin Etcheverry|Max Dahlin",
   "atp|2026-11-09|James Duckworth|Cameron Norrie",
   "atp|2026-11-09|Arthur Rinderknech|Miomir Kecmanovic",
   "atp|2026-11-09|Holger Rune|Zizou Bergs",
-  "atp|2026-11-08|Inaki Montes-De La Torre|Lorenzo Sonego",
-  "wta|2026-11-08|Janice Tjen|Magda Linette",
-  "atp|2026-11-08|Adrian Mannarino|Toby Samuel",
-  "atp|2026-11-08|Jacob Fearnley|Aleksandr Shevchenko",
-  "atp|2026-11-08|Ben Shelton|Carlos Alcaraz",
-  "wta|2026-11-08|Anna Blinkova|Sofya Lansere",
-  "wta|2026-11-08|Marta Kostyuk|Linda Noskova",
   "wta|2026-11-10|Marta Kostyuk|Jessica Pegula",
   "wta|2026-11-10|Marta Kostyuk|Coco Gauff",
-  "wta|2026-11-08|Katrina Scott|Maria Camila Torres Murcia",
-  "wta|2026-11-08|Carolina Alves|Sara Alejandra Lozano Avellaneda",
-  "wta|2026-11-08|Maria Herazo Gonzalez|Maria Jose Sanchez Uribe",
-  "wta|2026-11-08|Dalila Jakupovic|Isabella Collazos",
   "nba|2026-11-11|New York Knicks|Milwaukee Bucks",
   "nba|2026-11-11|Philadelphia 76ers|Boston Celtics",
   "nba|2026-11-11|Phoenix Suns|LA Clippers",
@@ -1135,10 +909,6 @@
   "atp|2026-11-18|Carlos Alcaraz|Flavio Cobolli",
   "atp|2026-11-18|Carlos Alcaraz|Daniil Medvedev",
   "atp|2026-11-18|Ben Shelton|Rafael Jodar",
-  "fc|2374531",
-  "fc|2374675",
-  "fc|2374676",
-  "fc|2375244",
   "cs2|133337",
   "fc|2373763",
   "fc|2374283",
@@ -2138,7 +1908,110 @@
   "cs2|133939",
   "fc|2381850",
   "fc|2381998",
-  "fc|2380852"
+  "fc|2380852",
+  "nba|2026-11-19|Cleveland Cavaliers|Memphis Grizzlies",
+  "nba|2026-11-19|Indiana Pacers|Houston Rockets",
+  "nba|2026-11-19|Miami Heat|Milwaukee Bucks",
+  "nba|2026-11-19|Orlando Magic|Philadelphia 76ers",
+  "nba|2026-11-19|Brooklyn Nets|Chicago Bulls",
+  "nba|2026-11-19|Toronto Raptors|Washington Wizards",
+  "nba|2026-11-19|New Orleans Pelicans|Detroit Pistons",
+  "nba|2026-11-19|Oklahoma City Thunder|Atlanta Hawks",
+  "nba|2026-11-19|Dallas Mavericks|Golden State Warriors",
+  "nba|2026-11-19|Denver Nuggets|Boston Celtics",
+  "nba|2026-11-19|Los Angeles Lakers|Utah Jazz",
+  "nba|2026-11-19|Sacramento Kings|Phoenix Suns",
+  "nhl|2026-11-19|Detroit Red Wings|Boston Bruins",
+  "nhl|2026-11-19|New Jersey Devils|Montreal Canadiens",
+  "nhl|2026-11-19|Utah Mammoth|Colorado Avalanche",
+  "cfb|2026-11-19|Massachusetts Minutemen|Akron Zips",
+  "cfb|2026-11-19|Buffalo Bulls|Central Michigan Chippewas",
+  "cbb|2026-11-18|Baylor Bears|Jackson State Tigers",
+  "cbb|2026-11-18|UNC Asheville Bulldogs|Tennessee Tech Golden Eagles",
+  "cbb|2026-11-18|South Carolina Upstate Spartans|Samford Bulldogs",
+  "cbb|2026-11-18|Winthrop Eagles|Chattanooga Mocs",
+  "cbb|2026-11-18|Eastern Michigan Eagles|Detroit Mercy Titans",
+  "cbb|2026-11-18|Penn State Nittany Lions|IU Indianapolis Jaguars",
+  "cbb|2026-11-18|Georgetown Hoyas|Navy Midshipmen",
+  "cbb|2026-11-19|St. John's Red Storm|Siena Saints",
+  "cbb|2026-11-19|New Haven Chargers|MCLA Mohawks",
+  "cbb|2026-11-19|Miami (OH) RedHawks|Defiance Yellow Jackets",
+  "cbb|2026-11-19|Presbyterian Blue Hose|Mercer Bears",
+  "cbb|2026-11-19|Towson Tigers|James Madison Dukes",
+  "cbb|2026-11-19|Duquesne Dukes|Howard Bison",
+  "cbb|2026-11-19|La Salle Explorers|Coppin State Eagles",
+  "cbb|2026-11-19|Fairfield Stags|St. Joseph's Brooklyn Bears",
+  "cbb|2026-11-19|Merrimack Warriors|Boston University Terriers",
+  "cbb|2026-11-19|Florida Atlantic Owls|Florida Gulf Coast Eagles",
+  "cbb|2026-11-19|Radford Highlanders|Furman Paladins",
+  "cbb|2026-11-19|Longwood Lancers|VMI Keydets",
+  "cbb|2026-11-19|North Carolina A&T Aggies|Morgan State Bears",
+  "cbb|2026-11-19|South Carolina Gamecocks|Elon Phoenix",
+  "cbb|2026-11-19|Ohio Bobcats|Morehead State Eagles",
+  "cbb|2026-11-19|Colgate Raiders|Utica Pioneers",
+  "cbb|2026-11-19|Yale Bulldogs|Vermont Catamounts",
+  "cbb|2026-11-19|George Mason Patriots|North Carolina Central Eagles",
+  "cbb|2026-11-19|Long Island University Sharks|UNC Wilmington Seahawks",
+  "cbb|2026-11-19|Fairleigh Dickinson Knights|NJIT Highlanders",
+  "cbb|2026-11-19|UIC Flames|Chicago State Cougars",
+  "cbb|2026-11-19|West Georgia Wolves|Columbia (SC) Fighting Koalas",
+  "cbb|2026-11-19|Charleston Southern Buccaneers|Wofford Terriers",
+  "cbb|2026-11-19|Holy Cross Crusaders|Brown Bears",
+  "cbb|2026-11-19|Lafayette Leopards|Binghamton Bearcats",
+  "cbb|2026-11-19|Texas Tech Red Raiders|LSU New Orleans Privateers",
+  "cbb|2026-11-19|Wright State Raiders|Malone Pioneers",
+  "cbb|2026-11-19|UT Rio Grande Valley Vaqueros|College of Biblical Studies Ambassadors",
+  "cbb|2026-11-19|Belmont Bruins|Union Commonwealth (KY) Bulldogs",
+  "cbb|2026-11-19|Cincinnati Bearcats|Youngstown State Penguins",
+  "cbb|2026-11-19|Marquette Golden Eagles|Northern Illinois Huskies",
+  "cbb|2026-11-19|UTSA Roadrunners|Florida A&M Rattlers",
+  "cbb|2026-11-19|Texas State Bobcats|Incarnate Word Cardinals",
+  "cbb|2026-11-19|Arkansas State Red Wolves|Arkansas-Pine Bluff Golden Lions",
+  "cbb|2026-11-19|Bradley Braves|Purdue Fort Wayne Mastodons",
+  "cbb|2026-11-19|Syracuse Orange|Cornell Big Red",
+  "cbb|2026-11-19|Southern Indiana Screaming Eagles|Lindsey Wilson Blue Raiders",
+  "cbb|2026-11-19|Stonehill Skyhawks|New Hampshire Wildcats",
+  "cbb|2026-11-19|LSU Tigers|UL Monroe Warhawks",
+  "cbb|2026-11-19|Gardner-Webb Runnin' Bulldogs|UNC Greensboro Spartans",
+  "cbb|2026-11-19|Loyola Chicago Ramblers|Wichita State Shockers",
+  "cbb|2026-11-19|Harvard Crimson|Boston College Eagles",
+  "cbb|2026-11-19|Oklahoma Sooners|Campbell Fighting Camels",
+  "cbb|2026-11-19|Nebraska Cornhuskers|South Dakota Coyotes",
+  "cbb|2026-11-19|Arizona Wildcats|UConn Huskies",
+  "cbb|2026-11-19|BYU Cougars|Northern Colorado Bears",
+  "cbb|2026-11-19|Colorado State Rams|North Dakota State Bison",
+  "cbb|2026-11-19|Utah State Aggies|Weber State Wildcats",
+  "cbb|2026-11-19|Missouri Tigers|Alcorn State Braves",
+  "cbb|2026-11-19|Arizona State Sun Devils|Oakland Golden Grizzlies",
+  "cbb|2026-11-19|Abilene Christian Wildcats|McMurry War Hawks",
+  "cbb|2026-11-19|San José State Spartans|Fresno State Bulldogs",
+  "cbb|2026-11-19|Colorado Buffaloes|Portland Pilots",
+  "cbb|2026-11-19|Creighton Bluejays|Bethune-Cookman Wildcats",
+  "cbb|2026-11-19|San Diego Toreros|UC Riverside Highlanders",
+  "cbb|2026-11-19|San Diego State Aztecs|Texas Southern Tigers",
+  "cbb|2026-11-19|Hawai'i Rainbow Warriors|Washington State Cougars",
+  "cbb|2026-11-19|San Francisco Dons|Louisiana Ragin' Cajuns",
+  "cbb|2026-11-19|Nevada Wolf Pack|Idaho Vandals",
+  "cbb|2026-11-19|UCLA Bruins|Cal State Fullerton Titans",
+  "cs2|134283",
+  "cs2|134284",
+  "cs2|134285",
+  "cs2|134287",
+  "cs2|134286",
+  "cs2|134289",
+  "cs2|134288",
+  "cs2|134290",
+  "cs2|134291",
+  "cs2|133396",
+  "cs2|133861",
+  "cs2|133778",
+  "dota2|134292",
+  "dota2|134293",
+  "dota2|134294",
+  "dota2|134295",
+  "fc|2381866",
+  "fc|2381861",
+  "fc|2381867"
  ],
  "signals": [
   {
@@ -8555,7 +8428,11 @@
    "version": "6842c0e",
    "bajas": "Las Vegas Raiders: 0 fuera, 25 duda; Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-21",
+   "close_p": 0.5092,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8576,7 +8453,11 @@
    "version": "6842c0e",
    "bajas": "Las Vegas Raiders: 0 fuera, 25 duda; Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-21",
+   "close_p": 0.4942,
+   "logged": true
   },
   {
    "market": "home",
@@ -8596,7 +8477,11 @@
    "version": "6842c0e",
    "bajas": "Las Vegas Raiders: 0 fuera, 25 duda; Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-21",
+   "close_p": 0.2833,
+   "logged": true
   },
   {
    "market": "over",
@@ -8618,7 +8503,11 @@
    "version": "6842c0e",
    "bajas": "Arizona Cardinals: 4 fuera, 21 duda (Zachary Carter, Hunter Long, Gardner Minshew II); Los Angeles Rams: 4 fuera, 21 duda (Puka Nacua, Davante Adams, Jordan Whittington)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "6-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8639,7 +8528,11 @@
    "version": "6842c0e",
    "bajas": "Arizona Cardinals: 4 fuera, 21 duda (Zachary Carter, Hunter Long, Gardner Minshew II); Los Angeles Rams: 4 fuera, 21 duda (Puka Nacua, Davante Adams, Jordan Whittington)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "6-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -8659,7 +8552,11 @@
    "version": "6842c0e",
    "bajas": "Arizona Cardinals: 4 fuera, 21 duda (Zachary Carter, Hunter Long, Gardner Minshew II); Los Angeles Rams: 4 fuera, 21 duda (Puka Nacua, Davante Adams, Jordan Whittington)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "6-34",
+   "close_p": 0.7976,
+   "logged": true
   },
   {
    "market": "over",
@@ -15531,7 +15428,12 @@
    "version": "546cfe5",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -15552,7 +15454,12 @@
    "version": "546cfe5",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -15573,7 +15480,12 @@
    "version": "546cfe5",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -15594,7 +15506,12 @@
    "version": "546cfe5",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -15615,7 +15532,12 @@
    "version": "546cfe5",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -15636,7 +15558,12 @@
    "version": "546cfe5",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-14|RKC Waalwijk|Den Bosch",
@@ -16070,7 +15997,12 @@
    "version": "2300425",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -16091,7 +16023,12 @@
    "version": "2300425",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -16112,7 +16049,12 @@
    "version": "2300425",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -16133,7 +16075,12 @@
    "version": "2300425",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -16154,7 +16101,12 @@
    "version": "2300425",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -16175,7 +16127,12 @@
    "version": "2300425",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "over",
@@ -16530,7 +16487,12 @@
    "version": "cfc2a76",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -16551,7 +16513,12 @@
    "version": "cfc2a76",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -16572,7 +16539,12 @@
    "version": "cfc2a76",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -16593,7 +16565,12 @@
    "version": "cfc2a76",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -16614,7 +16591,12 @@
    "version": "cfc2a76",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -16635,7 +16617,12 @@
    "version": "cfc2a76",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -16656,7 +16643,12 @@
    "version": "cfc2a76",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -16677,7 +16669,12 @@
    "version": "cfc2a76",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -16698,7 +16695,12 @@
    "version": "cfc2a76",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -16719,7 +16721,12 @@
    "version": "cfc2a76",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -16740,7 +16747,12 @@
    "version": "cfc2a76",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -16761,7 +16773,12 @@
    "version": "cfc2a76",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-14|Deportivo Pereira|America de Cali",
@@ -20966,7 +20983,11 @@
    "version": "0601d47",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -20981,19 +21002,6 @@
    "start": "2026-11-16T00:17:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 69.496 partidos)",
-    "Goles esperados: kkikus 1.98 · Grellz 4.05",
-    "Ganador: kkikus 10% · empate 12% · Grellz 78%",
-    "Total: más de 6.5 goles 40% · menos 60%",
-    "Hándicap Grellz: −1.5 58% · −2.5 42%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ❌❌➖❌❌ | Grellz ❌✅❌✅❌",
-    "• Partidos: kkikus 1033 | Grellz 1215",
-    "• Liga: Serie A",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle kkikus vs Grellz (Serie A): goles esperados 1.98-4.05, 1X2 10%/12%/78%. Sin cuotas de casa.",
    "captured": "2026-11-15T22:40",
    "version": "0601d47",
@@ -21172,26 +21180,16 @@
    "start": "2026-11-16T00:05:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 69.546 partidos)",
-    "Goles esperados: Grellz 3.54 · Nightxx 3.12",
-    "Ganador: Grellz 49% · empate 18% · Nightxx 34%",
-    "Total: más de 6.5 goles 50% · menos 50%",
-    "Hándicap Grellz: −1.5 33% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Grellz ❌➖❌✅❌ | Nightxx ✅➖✅✅✅",
-    "• Partidos: Grellz 1219 | Nightxx 988",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.53 · X 5.10 · 2 3.50 (sin margen 58%/17%/25%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.50 (+18%) · Paf España 3.50 (+18%)"
-   ],
    "context": "EA FC Esoccer Battle Grellz vs Nightxx (Serie A): goles esperados 3.54-3.12, 1X2 49%/18%/34%. Sin cuotas de casa.",
    "captured": "2026-11-15T23:53",
    "version": "79ab6d8",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21207,23 +21205,380 @@
    "start": "2026-11-16T00:06:00+00:00",
    "league": "🎮⚽ FC 27 · Argentina Super League 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 69.546 partidos)",
-    "Goles esperados: k0mych 4.20 · URIST 3.99",
-    "Ganador: k0mych 44% · empate 16% · URIST 40%",
-    "Total: más de 8.5 goles 43% · menos 57%",
-    "Hándicap k0mych: −1.5 32% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: k0mych ✅➖✅✅❌ | URIST ❌❌➖✅❌",
-    "• Partidos: k0mych 392 | URIST 149",
-    "• Liga: Argentina Super League 2x6",
-    "• Unibet: 1 2.48 · X 4.70 · 2 1.90 (sin margen 35%/19%/46%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.48 (+10%) · Paf España 2.48 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle k0mych vs URIST (Argentina Super League 2x6): goles esperados 4.20-3.99, 1X2 44%/16%/40%. Sin cuotas de casa.",
    "captured": "2026-11-15T23:53",
    "version": "79ab6d8",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 46.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.5,
+   "implied": 0.5,
+   "edge": -0.045,
+   "expected": 50.1,
+   "key": "cfb|2026-11-19|Massachusetts Minutemen|Akron Zips",
+   "match": "Massachusetts Minutemen vs Akron Zips",
+   "start": "2026-11-19T00:00Z",
+   "pick": "Más de 46.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>50.1</b> puntos · línea 46.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Massachusetts Minutemen ❌❌❌✅❌ | Akron Zips ❌❌❌❌❌",
+    "• H2H: 2 desde 2019: 1-1",
+    "• Bajas: Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas"
+   ],
+   "context": "Massachusetts Minutemen vs Akron Zips (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 50.1 frente a línea 46.5. Forma Massachusetts Minutemen ❌❌❌✅❌, Akron Zips ❌❌❌❌❌. H2H 2 desde 2019: 1-1. Bajas: Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.847,
+   "book": "DraftKings",
+   "p": 0.517,
+   "implied": 0.517,
+   "edge": -0.044,
+   "line": -3.0,
+   "key": "cfb|2026-11-19|Massachusetts Minutemen|Akron Zips",
+   "match": "Massachusetts Minutemen vs Akron Zips",
+   "start": "2026-11-19T00:00Z",
+   "pick": "Massachusetts Minutemen -3",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Massachusetts Minutemen cubre -3 con prob. 52% (casas 52%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Massachusetts Minutemen ❌❌❌✅❌ | Akron Zips ❌❌❌❌❌",
+    "• H2H: 2 desde 2019: 1-1",
+    "• Bajas: Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas"
+   ],
+   "context": "Massachusetts Minutemen vs Akron Zips (🏈 NCAA Football). Hándicap Massachusetts Minutemen -3: margen esperado desde el Elo (gana Massachusetts Minutemen 67%). Forma Massachusetts Minutemen ❌❌❌✅❌, Akron Zips ❌❌❌❌❌. H2H 2 desde 2019: 1-1. Bajas: Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.676,
+   "book": "DraftKings",
+   "p": 0.572,
+   "implied": 0.572,
+   "edge": -0.041,
+   "key": "cfb|2026-11-19|Massachusetts Minutemen|Akron Zips",
+   "match": "Massachusetts Minutemen vs Akron Zips",
+   "pick": "Massachusetts Minutemen",
+   "start": "2026-11-19T00:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.585 partidos y bajas)",
+    "Gana Massachusetts Minutemen 67% · Gana Akron Zips 33%",
+    "Casas: Massachusetts Minutemen 57% · Akron Zips 43%",
+    "Hándicap MASS -3 · Total puntos 46.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Massachusetts Minutemen ❌❌❌✅❌ | Akron Zips ❌❌❌❌❌",
+    "• H2H: 2 desde 2019: 1-1",
+    "• Bajas: Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas",
+    "• Favorito de las casas: Massachusetts Minutemen @ 1.68"
+   ],
+   "context": "Massachusetts Minutemen vs Akron Zips (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Massachusetts Minutemen 67%, Akron Zips 33%. Cuotas DraftKings 1.676/2.24, hándicap MASS -3, total 46.5. Forma Massachusetts Minutemen ❌❌❌✅❌, Akron Zips ❌❌❌❌❌. H2H 2 desde 2019: 1-1. Bajas Massachusetts Minutemen: ninguna. Bajas Akron Zips: ninguna.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "Massachusetts Minutemen: sin bajas; Akron Zips: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 43.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.5,
+   "implied": 0.5,
+   "edge": -0.045,
+   "expected": 47.7,
+   "key": "cfb|2026-11-19|Buffalo Bulls|Central Michigan Chippewas",
+   "match": "Buffalo Bulls vs Central Michigan Chippewas",
+   "start": "2026-11-19T00:30Z",
+   "pick": "Más de 43.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>47.7</b> puntos · línea 43.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Buffalo Bulls ✅✅✅✅✅ | Central Michigan Chippewas ❌❌❌✅✅",
+    "• H2H: 5 desde 2018: 3-2",
+    "• Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas"
+   ],
+   "context": "Buffalo Bulls vs Central Michigan Chippewas (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 47.7 frente a línea 43.5. Forma Buffalo Bulls ✅✅✅✅✅, Central Michigan Chippewas ❌❌❌✅✅. H2H 5 desde 2018: 3-2. Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.87,
+   "book": "DraftKings",
+   "p": 0.511,
+   "implied": 0.511,
+   "edge": -0.045,
+   "line": -2.5,
+   "key": "cfb|2026-11-19|Buffalo Bulls|Central Michigan Chippewas",
+   "match": "Buffalo Bulls vs Central Michigan Chippewas",
+   "start": "2026-11-19T00:30Z",
+   "pick": "Buffalo Bulls -2.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Buffalo Bulls cubre -2.5 con prob. 51% (casas 51%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Buffalo Bulls ✅✅✅✅✅ | Central Michigan Chippewas ❌❌❌✅✅",
+    "• H2H: 5 desde 2018: 3-2",
+    "• Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas"
+   ],
+   "context": "Buffalo Bulls vs Central Michigan Chippewas (🏈 NCAA Football). Hándicap Buffalo Bulls -2.5: margen esperado desde el Elo (gana Buffalo Bulls 65%). Forma Buffalo Bulls ✅✅✅✅✅, Central Michigan Chippewas ❌❌❌✅✅. H2H 5 desde 2018: 3-2. Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.769,
+   "book": "DraftKings",
+   "p": 0.543,
+   "implied": 0.543,
+   "edge": -0.04,
+   "key": "cfb|2026-11-19|Buffalo Bulls|Central Michigan Chippewas",
+   "match": "Buffalo Bulls vs Central Michigan Chippewas",
+   "pick": "Buffalo Bulls",
+   "start": "2026-11-19T00:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.585 partidos y bajas)",
+    "Gana Buffalo Bulls 65% · Gana Central Michigan Chippewas 35%",
+    "Casas: Buffalo Bulls 54% · Central Michigan Chippewas 46%",
+    "Hándicap BUF -2.5 · Total puntos 43.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Buffalo Bulls ✅✅✅✅✅ | Central Michigan Chippewas ❌❌❌✅✅",
+    "• H2H: 5 desde 2018: 3-2",
+    "• Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas",
+    "• Favorito de las casas: Buffalo Bulls @ 1.77"
+   ],
+   "context": "Buffalo Bulls vs Central Michigan Chippewas (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Buffalo Bulls 65%, Central Michigan Chippewas 35%. Cuotas DraftKings 1.769/2.1, hándicap BUF -2.5, total 43.5. Forma Buffalo Bulls ✅✅✅✅✅, Central Michigan Chippewas ❌❌❌✅✅. H2H 5 desde 2018: 3-2. Bajas Buffalo Bulls: ninguna. Bajas Central Michigan Chippewas: ninguna.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 3022,
+   "pick": "Illyrians",
+   "odds": 2.35,
+   "book": "Thunderpick",
+   "p": 0.437,
+   "implied": 0.393,
+   "edge": 0.026,
+   "key": "cs2|133396",
+   "match": "ex-RUSTEC vs Illyrians",
+   "start": "2026-11-17T12:00:00+00:00",
+   "league": "🎮 CS2 · CCT Europe 2026 Series 14",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.902 partidos)",
+    "Mapa: ex-RUSTEC 54% · Serie BO3: ex-RUSTEC 52% - 48% Illyrians",
+    "Casas: ex-RUSTEC 61% · Illyrians 39%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: ex-RUSTEC 1691 (83 series) | Illyrians 1651 (64 series)",
+    "• Forma: ex-RUSTEC ❌✅❌✅✅ | Illyrians ❌❌✅✅❌",
+    "• H2H: 2: 1-1",
+    "• Torneo: CCT Europe 2026 Series 14 (nivel B)",
+    "• Cambios de plantilla: ninguno",
+    "• Jugadores en forma (rating últimos 10 mapas): ex-RUSTEC: youka 6.5, Mokuj1n 6.1 | Illyrians: Lewis 6.5, cerber 6.5",
+    "• Mapas (último año): ex-RUSTEC: fuerte inferno 67%, débil cache 45% | Illyrians: fuerte anubis 83%, débil dust2 33%",
+    "• Química de la plantilla: ex-RUSTEC: 47 mapas juntos de media | Illyrians: 74 mapas juntos de media",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• ex-RUSTEC gana 2-1: 23% → cuota justa 4.26 · casa 26%",
+    "• Illyrians gana 2-1: 20% → cuota justa 4.95 · casa 20%",
+    "",
+    "🔫 <b>Kills esperados en la serie</b> (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)",
+    "ex-RUSTEC: yiksrezo 37 (21-55) · youka 37 (21-54) · Mokuj1n 35 (20-52) · rehard 31 (18-47) · Brilliance 31 (18-46)",
+    "Illyrians: Lewis 37 (22-55) · BledarD 36 (20-53) · ammar 34 (19-50) · cerber 34 (19-50) · rosoneriii 30 (17-45)"
+   ],
+   "context": "CS2 ex-RUSTEC vs Illyrians, BO3, torneo CCT Europe 2026 Series 14 nivel b. Elo por mapa 1691 vs 1651 (prob. mapa 54%, serie 52%). Forma ❌✅❌✅✅ / ❌❌✅✅❌ (✅ victoria ❌ derrota). H2H 2: 1-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.52/2.35.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 786,
+   "pick": "fnatic",
+   "odds": 1.95,
+   "book": "Thunderpick",
+   "p": 0.505,
+   "implied": 0.473,
+   "edge": -0.016,
+   "key": "cs2|133778",
+   "match": "100 Thieves vs fnatic",
+   "start": "2026-11-17T12:00:00+00:00",
+   "league": "🎮 CS2 · PGL Cluj-Napoca 2027: Closed Qualifier",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.902 partidos)",
+    "Mapa: 100 Thieves 47% · Serie BO3: 100 Thieves 46% - 54% fnatic",
+    "Casas: 100 Thieves 53% · fnatic 47%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: 100 Thieves 1974 (98 series) | fnatic 2005 (402 series)",
+    "• Forma: 100 Thieves ✅✅✅✅✅ | fnatic ✅✅❌✅✅",
+    "• H2H: sin precedentes",
+    "• Torneo: PGL Cluj-Napoca 2027: Closed Qualifier (nivel B)",
+    "• Cambios de plantilla: ninguno",
+    "• Jugadores en forma (rating últimos 10 mapas): 100 Thieves: poiii 7.2, dev1ce 7.0 | fnatic: mazay 6.7, jambo 6.4",
+    "• Mapas (último año): 100 Thieves: fuerte dust2 83%, débil anubis 47% | fnatic: fuerte cache 77%, débil overpass 36%",
+    "• Química de la plantilla: 100 Thieves: 126 mapas juntos de media | fnatic: 221 mapas juntos de media",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• 100 Thieves gana 2-1: 21% → cuota justa 4.85 · casa 28%",
+    "• fnatic gana 2-1: 23% → cuota justa 4.31 · casa 18% ✔ el bot lo ve más probable que la casa",
+    "",
+    "🔫 <b>Kills esperados en la serie</b> (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)",
+    "100 Thieves: poiii 36 (21-53) · dev1ce 36 (20-52) · sirah 34 (20-51) · rain 33 (19-49) · Gizmy 31 (17-45)",
+    "fnatic: jambo 38 (22-56) · jackasmo 36 (21-53) · cairne 36 (21-53) · mazay 34 (19-50) · fEAR 30 (17-44)"
+   ],
+   "context": "CS2 100 Thieves vs fnatic, BO3, torneo PGL Cluj-Napoca 2027: Closed Qualifier nivel b. Elo por mapa 1974 vs 2005 (prob. mapa 47%, serie 46%). Forma ✅✅✅✅✅ / ✅✅❌✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.75/1.95.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Grellz",
+   "odds": 1.22,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.82,
+   "edge": 0.0,
+   "p": 0.82,
+   "key": "fc|2381866",
+   "match": "Grellz vs ssstasonn",
+   "start": "2026-11-16T01:51:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.569 partidos)",
+    "Goles esperados: Grellz 4.49 · ssstasonn 2.07",
+    "Ganador: Grellz 82% · empate 10% · ssstasonn 8%",
+    "Total: más de 6.5 goles 48% · menos 52%",
+    "Hándicap Grellz: −1.5 63% · −2.5 48%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Grellz ❌✅❌➖✅ | ssstasonn ✅❌➖❌➖",
+    "• Partidos: Grellz 1221 | ssstasonn 1108",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Grellz vs ssstasonn (Champions League B): goles esperados 4.49-2.07, 1X2 82%/10%/8%. Sin cuotas de casa.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Grellz",
+   "odds": 1.28,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.78,
+   "edge": 0.0,
+   "p": 0.78,
+   "key": "fc|2381861",
+   "match": "Grellz vs kkikus",
+   "start": "2026-11-16T01:27:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.569 partidos)",
+    "Goles esperados: Grellz 4.10 · kkikus 2.02",
+    "Ganador: Grellz 78% · empate 12% · kkikus 10%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap Grellz: −1.5 59% · −2.5 42%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Grellz ❌✅❌➖✅ | kkikus ❌❌❌❌➖",
+    "• Partidos: Grellz 1221 | kkikus 1039",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Grellz vs kkikus (Champions League B): goles esperados 4.10-2.02, 1X2 78%/12%/10%. Sin cuotas de casa.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Nightxx",
+   "odds": 1.28,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.779,
+   "edge": 0.0,
+   "p": 0.779,
+   "key": "fc|2381867",
+   "match": "ssstasonn vs Nightxx",
+   "start": "2026-11-16T02:03:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.569 partidos)",
+    "Goles esperados: ssstasonn 2.38 · Nightxx 4.52",
+    "Ganador: ssstasonn 11% · empate 11% · Nightxx 78%",
+    "Total: más de 6.5 goles 54% · menos 46%",
+    "Hándicap Nightxx: −1.5 59% · −2.5 44%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ✅❌➖❌➖ | Nightxx ✅✅❌✅❌",
+    "• Partidos: ssstasonn 1108 | Nightxx 991",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs Nightxx (Champions League B): goles esperados 2.38-4.52, 1X2 11%/11%/78%. Sin cuotas de casa.",
+   "captured": "2026-11-16T00:22",
+   "version": "0d37e67",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -21800,42 +22155,6 @@
     }
    ]
   },
-  "nfl|2026-11-15|Las Vegas Raiders|Seattle Seahawks": {
-   "match": "Las Vegas Raiders vs Seattle Seahawks",
-   "start": "2026-11-15T21:05Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1527,
-     "odds": 6.44,
-     "edge": -0.017,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.282,
-       "odds": 3.4,
-       "text": "Gana Las Vegas Raiders"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 40.5,
-       "p": 0.504,
-       "odds": 1.893,
-       "text": "Más de 40.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Las Vegas Raiders + Más de 40.5 puntos → prob. 15%, cuota justa 6.55",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.44 (producto de piernas) · prob. 15% · ventaja -2%"
-   ]
-  },
   "nfl|2026-11-15|Dallas Cowboys|San Francisco 49ers": {
    "match": "Dallas Cowboys vs San Francisco 49ers",
    "start": "2026-11-15T21:25Z",
@@ -22017,482 +22336,6 @@
     }
    ]
   },
-  "SP2|2026-11-15|Tenerife|Ceuta": {
-   "match": "Tenerife vs Ceuta",
-   "start": "2026-11-15T13:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.362,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8206,
-       "text": "Menos de 4.5 tiros a puerta de Ceuta",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.6929,
-       "text": "Más de 13.5 faltas de Tenerife",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6509,
-       "text": "Menos de 3.5 tarjetas de Ceuta",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1434,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8206,
-       "text": "Menos de 4.5 tiros a puerta de Ceuta",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.6929,
-       "text": "Más de 13.5 faltas de Tenerife",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6509,
-       "text": "Menos de 3.5 tarjetas de Ceuta",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6474,
-       "text": "Menos de 4.5 córners de Ceuta",
-       "odds": 1.42
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5584,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.78
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3574,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6474058080447277,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Ceuta",
-       "odds": 1.42
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.558394464223666,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.78
-      }
-     ],
-     "odds": 2.53,
-     "edge": -0.097,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8206210775008193,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Ceuta"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.692912014273523,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Tenerife"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6508687340849486,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Ceuta"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6474058080447277,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Ceuta"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.558394464223666,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ]
-  },
-  "SP2|2026-11-15|Granada|Las Palmas": {
-   "match": "Granada vs Las Palmas",
-   "start": "2026-11-15T15:15:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3703,
-     "legs": [
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7355,
-       "text": "Menos de 3.5 tarjetas de Las Palmas",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7303,
-       "text": "Menos de 4.5 tiros a puerta de Las Palmas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6695,
-       "text": "Menos de 4.5 córners de Las Palmas",
-       "odds": 1.54
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.7355358703132868,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Las Palmas"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7303494708101979,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Las Palmas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6694697433690386,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Las Palmas"
-    }
-   ]
-  },
-  "SP2|2026-11-15|Eibar|Cadiz": {
-   "match": "Eibar vs Cadiz",
-   "start": "2026-11-15T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4233,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8265,
-       "text": "Menos de 4.5 tiros a puerta de Cadiz",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.741,
-       "text": "Menos de 4.5 córners de Cadiz",
-       "odds": 1.43
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 26.5,
-       "p": 0.687,
-       "text": "Menos de 26.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3149,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8265,
-       "text": "Menos de 4.5 tiros a puerta de Cadiz",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.741,
-       "text": "Menos de 4.5 córners de Cadiz",
-       "odds": 1.43
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 26.5,
-       "p": 0.687,
-       "text": "Menos de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6862,
-       "text": "Menos de 2.5 tarjetas de Eibar",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8264596277166292,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Cadiz"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7410401789566571,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Cadiz"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.6870454832782253,
-     "line": 26.5,
-     "text": "Menos de 26.5 faltas"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6861908289945411,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Eibar"
-    }
-   ]
-  },
-  "SP2|2026-11-15|Eldense|Sabadell": {
-   "match": "Eldense vs Sabadell",
-   "start": "2026-11-15T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3499,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7334,
-       "text": "Más de 13.5 faltas de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7244,
-       "text": "Menos de 4.5 tiros a puerta de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7068,
-       "text": "Menos de 3.5 tarjetas de Sabadell",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1615,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7334,
-       "text": "Más de 13.5 faltas de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7244,
-       "text": "Menos de 4.5 tiros a puerta de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7068,
-       "text": "Menos de 3.5 tarjetas de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.654,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.53
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6041,
-       "text": "Menos de 4.5 córners de Sabadell",
-       "odds": 1.62
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3911,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.6540284930119769,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.53
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6040684876171559,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Sabadell",
-       "odds": 1.62
-      }
-     ],
-     "odds": 2.48,
-     "edge": -0.031,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": 1,
-     "p": 0.7334248986792774,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Sabadell"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7244049827092874,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Sabadell"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.706811536299029,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Sabadell"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.6540284930119769,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6040684876171559,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Sabadell"
-    }
-   ]
-  },
   "SP2|2026-11-16|Albacete|Celta B": {
    "match": "Albacete vs Celta B",
    "start": "2026-11-16T19:30:00+00:00",
@@ -22670,7 +22513,7 @@
   "SP2|2026-11-15|Eldense|Sabadell"
  ],
  "paper_sent": "2026-11-15T18:07:06.978759+00:00",
- "sgp_res_n": 429,
+ "sgp_res_n": 439,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

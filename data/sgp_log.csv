@@ -424,7 +424,17 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-14,Oviedo vs Girona,valor,2,0.4333,0,0,0.6614,2.82,0.22,1,-1.0,Menos de 4.5 córners de Girona + Menos de 2.5 goles,0
 2026-11-15,Detroit Lions vs New England Patriots,nfl,2,0.2299,0,1,0.4695,4.22,-0.031,0,,Gana New England Patriots + Menos de 51.5 puntos,1
 2026-11-15,Green Bay Packers vs Minnesota Vikings,nfl,2,0.2216,1,2,0.4585,4.37,-0.031,0,,Gana Minnesota Vikings + Menos de 41.5 puntos,11
-2026-11-15,Atlanta Falcons vs Kansas City Chiefs,nfl,2,0.2039,0,1,0.442,4.77,-0.027,0,,Gana Atlanta Falcons + Más de 46.5 puntos,01
+2026-11-15,Atlanta Falcons vs Kansas City Chiefs,nfl,2,0.2039,0,1,0.442,4.77,-0.027,0,,Gana Atlanta Falcons + Más de 46.5 puntos,1
 2026-11-15,Cleveland Browns vs Houston Texans,nfl,2,0.1781,1,2,0.416,5.49,-0.023,0,,Gana Cleveland Browns + Más de 40.5 puntos,11
-2026-11-15,Indianapolis Colts vs Miami Dolphins,nfl,2,0.193,0,0,0.433,5.05,-0.025,0,,Gana Miami Dolphins + Menos de 38.5 puntos,00
+2026-11-15,Indianapolis Colts vs Miami Dolphins,nfl,2,0.193,0,0,0.433,5.05,-0.025,0,,Gana Miami Dolphins + Menos de 38.5 puntos,0
 2026-11-15,New Orleans Saints vs Carolina Panthers,nfl,2,0.2391,1,2,0.4765,4.04,-0.033,0,,Gana Carolina Panthers + Menos de 48.5 puntos,11
+2026-11-15,Tenerife vs Ceuta,corta,3,0.362,0,2,0.7215,,,0,,Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta,101
+2026-11-15,Tenerife vs Ceuta,larga,5,0.1434,0,3,0.674,,,0,,Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles,10101
+2026-11-15,Tenerife vs Ceuta,valor,2,0.3574,0,1,0.6029,2.53,-0.097,0,,Menos de 4.5 córners de Ceuta + Menos de 2.5 goles,1
+2026-11-15,Granada vs Las Palmas,corta,3,0.3703,0,0,0.7118,,,0,,Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas,0
+2026-11-15,Eibar vs Cadiz,corta,3,0.4233,0,1,0.7515,,,0,,Menos de 4.5 tiros a puerta de Cadiz + Menos de 4.5 córners de Cadiz + Menos de 26.5 faltas,10
+2026-11-15,Eibar vs Cadiz,larga,4,0.3149,0,2,0.7352,,,0,,Menos de 4.5 tiros a puerta de Cadiz + Menos de 4.5 córners de Cadiz + Menos de 26.5 faltas + Menos de 2.5 tarjetas de Eibar,101
+2026-11-15,Eldense vs Sabadell,corta,3,0.3499,0,2,0.7215,,,0,,Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell,11
+2026-11-15,Eldense vs Sabadell,larga,5,0.1615,0,4,0.6845,,,0,,Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell + Menos de 2.5 goles + Menos de 4.5 córners de Sabadell,1111
+2026-11-15,Eldense vs Sabadell,valor,2,0.3911,1,2,0.629,2.48,-0.031,0,,Menos de 2.5 goles + Menos de 4.5 córners de Sabadell,11
+2026-11-15,Las Vegas Raiders vs Seattle Seahawks,nfl,2,0.1527,0,0,0.393,6.44,-0.017,0,,Gana Las Vegas Raiders + Más de 40.5 puntos,00

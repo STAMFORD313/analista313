@@ -69556,14 +69556,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2382000,262115,River Plate,Boca Juniors,,
 2382001,262115,Racing Club,Boca Juniors,,
 2382002,262115,Racing Club,River Plate,,
-2381839,262063,Juventus,Bologna,1,1
-2381840,262063,Napoli,Sassuolo,4,1
-2381841,262063,Sassuolo,Juventus,3,1
-2381842,262063,Bologna,Roma,0,3
-2381843,262063,Roma,Sassuolo,2,1
-2381844,262063,Juventus,Napoli,0,4
-2381845,262063,Napoli,Roma,3,2
-2381846,262063,Sassuolo,Bologna,2,1
+2381839,262063,Juventus,Bologna,1.0,1.0
+2381840,262063,Napoli,Sassuolo,4.0,1.0
+2381841,262063,Sassuolo,Juventus,3.0,1.0
+2381842,262063,Bologna,Roma,0.0,3.0
+2381843,262063,Roma,Sassuolo,2.0,1.0
+2381844,262063,Juventus,Napoli,0.0,4.0
+2381845,262063,Napoli,Roma,3.0,2.0
+2381846,262063,Sassuolo,Bologna,2.0,1.0
 2381847,262063,Bologna,Napoli,,
 2381848,262063,Roma,Juventus,,
 2381849,262063,Bologna,Juventus,,
@@ -69576,16 +69576,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2381856,262063,Bologna,Sassuolo,,
 2381857,262063,Napoli,Bologna,,
 2381858,262063,Juventus,Roma,,
-2381559,262104,Man City,Arsenal,1,1
-2381560,262104,Tottenham,Chelsea,1,0
-2381561,262104,Chelsea,Man City,1,1
-2381562,262104,Arsenal,Liverpool,1,4
-2381563,262104,Liverpool,Chelsea,0,1
-2381564,262104,Man City,Tottenham,0,3
-2381565,262104,Tottenham,Liverpool,2,2
-2381566,262104,Chelsea,Arsenal,1,2
-2381567,262104,Arsenal,Tottenham,1,0
-2381568,262104,Liverpool,Man City,2,2
+2381559,262104,Man City,Arsenal,1.0,1.0
+2381560,262104,Tottenham,Chelsea,1.0,0.0
+2381561,262104,Chelsea,Man City,1.0,1.0
+2381562,262104,Arsenal,Liverpool,1.0,4.0
+2381563,262104,Liverpool,Chelsea,0.0,1.0
+2381564,262104,Man City,Tottenham,0.0,3.0
+2381565,262104,Tottenham,Liverpool,2.0,2.0
+2381566,262104,Chelsea,Arsenal,1.0,2.0
+2381567,262104,Arsenal,Tottenham,1.0,0.0
+2381568,262104,Liverpool,Man City,2.0,2.0
 2381569,262104,Arsenal,Man City,,
 2381570,262104,Chelsea,Tottenham,,
 2381571,262104,Man City,Chelsea,,
@@ -69596,3 +69596,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2381576,262104,Arsenal,Chelsea,,
 2381577,262104,Tottenham,Arsenal,,
 2381578,262104,Man City,Liverpool,,
+2380845,262073,Spain,Brazil,1,2
+2380846,262073,France,Argentina,2,1
+2380847,262073,Argentina,Spain,1,2
+2380848,262073,Brazil,England,1,2
+2380849,262073,England,Argentina,2,2
+2380850,262073,Spain,France,1,2
+2380851,262073,France,England,2,1
+2380852,262073,Argentina,Brazil,2,0
+2380853,262073,Brazil,France,1,2
+2380854,262073,England,Spain,3,1
+2380855,262073,Brazil,Spain,,
+2380856,262073,Argentina,France,,
+2380857,262073,Spain,Argentina,,
+2380858,262073,England,Brazil,,
+2380859,262073,Argentina,England,,
+2380860,262073,France,Spain,,
+2380861,262073,England,France,,
+2380862,262073,Brazil,Argentina,,
+2380863,262073,France,Brazil,,
+2380864,262073,Spain,England,,

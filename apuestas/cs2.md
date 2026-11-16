@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 00:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 01:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 
@@ -201,4 +201,56 @@ Casas: INFINITE 67% · MOUZ NXT 33%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • INFINITE gana 2-1: 25% → cuota justa 4.06 · casa 28%  
 • MOUZ NXT gana 2-1: 18% → cuota justa 5.68 · casa 16%  
+
+## ex-RUSTEC vs Illyrians — 17/11 · 13:00
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Gana Illyrians** @ **2.35** (Thunderpick) · prob 44% vs casas 39% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.902 partidos)  
+Mapa: ex-RUSTEC 54% · Serie BO3: ex-RUSTEC 52% - 48% Illyrians  
+Casas: ex-RUSTEC 61% · Illyrians 39%  
+🔎 **Claves**  
+• Elo: ex-RUSTEC 1691 (83 series) | Illyrians 1651 (64 series)  
+• Forma: ex-RUSTEC ❌✅❌✅✅ | Illyrians ❌❌✅✅❌  
+• H2H: 2: 1-1  
+• Torneo: CCT Europe 2026 Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): ex-RUSTEC: youka 6.5, Mokuj1n 6.1 | Illyrians: Lewis 6.5, cerber 6.5  
+• Mapas (último año): ex-RUSTEC: fuerte inferno 67%, débil cache 45% | Illyrians: fuerte anubis 83%, débil dust2 33%  
+• Química de la plantilla: ex-RUSTEC: 47 mapas juntos de media | Illyrians: 74 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• ex-RUSTEC gana 2-1: 23% → cuota justa 4.26 · casa 26%  
+• Illyrians gana 2-1: 20% → cuota justa 4.95 · casa 20%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+ex-RUSTEC: yiksrezo 37 (21-55) · youka 37 (21-54) · Mokuj1n 35 (20-52) · rehard 31 (18-47) · Brilliance 31 (18-46)  
+Illyrians: Lewis 37 (22-55) · BledarD 36 (20-53) · ammar 34 (19-50) · cerber 34 (19-50) · rosoneriii 30 (17-45)  
+
+## 100 Thieves vs fnatic — 17/11 · 13:00
+
+👀 candidata · 🎮 CS2 · PGL Cluj-Napoca 2027: Closed Qualifier · **Gana fnatic** @ **1.95** (Thunderpick) · prob 50% vs casas 47% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.902 partidos)  
+Mapa: 100 Thieves 47% · Serie BO3: 100 Thieves 46% - 54% fnatic  
+Casas: 100 Thieves 53% · fnatic 47%  
+🔎 **Claves**  
+• Elo: 100 Thieves 1974 (98 series) | fnatic 2005 (402 series)  
+• Forma: 100 Thieves ✅✅✅✅✅ | fnatic ✅✅❌✅✅  
+• H2H: sin precedentes  
+• Torneo: PGL Cluj-Napoca 2027: Closed Qualifier (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): 100 Thieves: poiii 7.2, dev1ce 7.0 | fnatic: mazay 6.7, jambo 6.4  
+• Mapas (último año): 100 Thieves: fuerte dust2 83%, débil anubis 47% | fnatic: fuerte cache 77%, débil overpass 36%  
+• Química de la plantilla: 100 Thieves: 126 mapas juntos de media | fnatic: 221 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• 100 Thieves gana 2-1: 21% → cuota justa 4.85 · casa 28%  
+• fnatic gana 2-1: 23% → cuota justa 4.31 · casa 18% ✔ el bot lo ve más probable que la casa  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+100 Thieves: poiii 36 (21-53) · dev1ce 36 (20-52) · sirah 34 (20-51) · rain 33 (19-49) · Gizmy 31 (17-45)  
+fnatic: jambo 38 (22-56) · jackasmo 36 (21-53) · cairne 36 (21-53) · mazay 34 (19-50) · fEAR 30 (17-44)  
 
