@@ -1,42 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 03:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 03:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## kkikus vs Grellz — 16/11 · 03:27
+## URIST vs k0mych — 16/11 · 04:02
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.29** (cuota justa (sin casa)) · prob 78% vs casas 78% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana k0mych** @ **2.32** (Unibet) · prob 46% vs casas 38% · ventaja +6%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.589 partidos)  
-Goles esperados: kkikus 2.03 · Grellz 4.09  
-Ganador: kkikus 10% · empate 12% · Grellz 78%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Grellz: −1.5 58% · −2.5 42%  
+📊 **Escenarios** (Poisson por jugador, 69.664 partidos)  
+Goles esperados: URIST 3.95 · k0mych 4.24  
+Ganador: URIST 38% · empate 16% · k0mych 46%  
+Total: más de 8.5 goles 43% · menos 57%  
+Hándicap k0mych: −1.5 33% · −2.5 21%  
 🔎 **Claves**  
-• Forma: kkikus ❌❌➖➖❌ | Grellz ❌➖✅➖➖  
-• Partidos: kkikus 1041 | Grellz 1223  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## ssstasonn vs Grellz — 16/11 · 03:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.24** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.616 partidos)  
-Goles esperados: ssstasonn 2.07 · Grellz 4.37  
-Ganador: ssstasonn 8% · empate 11% · Grellz 81%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Grellz: −1.5 62% · −2.5 46%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌➖➖❌❌ | Grellz ➖✅➖➖✅  
-• Partidos: ssstasonn 1111 | Grellz 1224  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: URIST ✅❌✅❌❌ | k0mych ❌✅❌➖✅  
+• Partidos: URIST 154 | k0mych 398  
+• Liga: LaLiga 2x6  
+• Unibet: 1 1.96 · X 4.90 · 2 2.32 (sin margen 45%/18%/38%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.32 (+6%) · Paf España 2.32 (+6%)  
 
 ## Nightxx vs ssstasonn — 16/11 · 04:03
 
