@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-15 22:05",
+ "fecha": "2026-11-16 10:04",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -121,11 +121,16 @@
  },
  "kambi_esports": {
   "Esports / CS2 / PGL Major": 8,
+  "Esports / CS2 / NODWIN Clutch Series": 5,
+  "Esports / Dota 2 / 1w Essence": 4,
+  "Esports / CS2 / CCT European Series 14": 4,
+  "Esports / CS2 / European Pro League": 3,
+  "Esports / CS2 / PGL Cluj-Napoca": 3,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / CS2 / United21": 2,
+  "Esports / CS2 / CCT European Series 13": 2,
+  "Esports / Dota 2 / DreamLeague Div. 2": 2,
   "Esports / CS2 / RUSH:Brno": 2,
-  "Esports / Dota 2 / 1w Essence": 1,
-  "Esports / Dota 2 / DreamLeague Div. 2": 1,
-  "Esports / CS2 / PGL Cluj-Napoca": 1
+  "Esports / CS2 / United21": 1,
+  "Esports / Dota 2 / Esports Pro Circuit": 1
  }
 }
