@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 12:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs v1nn — 16/11 · 12:27
+## MeLToSik vs dm1trena — 16/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana v1nn** @ **2.00** (Unibet) · prob 52% vs casas 44% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **2.48** (Unibet) · prob 48% vs casas 35% · ventaja +18%
 
-- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.090 partidos)  
-Goles esperados: cl1vlind 2.90 · v1nn 3.54  
-Ganador: cl1vlind 30% · empate 18% · v1nn 53%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap v1nn: −1.5 36% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 70.122 partidos)  
+Goles esperados: MeLToSik 2.43 · dm1trena 2.07  
+Ganador: MeLToSik 48% · empate 22% · dm1trena 30%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap MeLToSik: −1.5 29% · −2.5 15%  
 🔎 **Claves**  
-• Forma: cl1vlind ❌➖❌➖➖ | v1nn ➖✅✅✅✅  
-• Partidos: cl1vlind 692 | v1nn 687  
-• Liga: World Cup B  
-• Unibet: 1 2.33 · X 4.60 · 2 2.00 (sin margen 37%/19%/44%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.00 (+5%) · Paf España 2.00 (+5%)  
+• Forma: MeLToSik ➖✅❌✅✅ | dm1trena ❌➖❌❌✅  
+• Partidos: MeLToSik 1309 | dm1trena 1154  
+• Liga: Bundesliga  
+• Unibet: 1 2.48 · X 3.50 · 2 2.16 (sin margen 35%/25%/40%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+18%) · Paf España 2.48 (+18%)  
 
-## A1ose vs cl1vlind — 16/11 · 12:39
+## Ganger_29 vs Pavlinho19 — 16/11 · 13:22
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **2.17** (Unibet) · prob 49% vs casas 40% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Pavlinho19** @ **2.04** (Unibet) · prob 56% vs casas 43% · ventaja +14%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.090 partidos)  
-Goles esperados: A1ose 3.24 · cl1vlind 2.77  
-Ganador: A1ose 49% · empate 19% · cl1vlind 32%  
-Total: más de 6.5 goles 39% · menos 61%  
-Hándicap A1ose: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 70.122 partidos)  
+Goles esperados: Ganger_29 2.16 · Pavlinho19 3.08  
+Ganador: Ganger_29 25% · empate 19% · Pavlinho19 56%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Pavlinho19: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: A1ose ✅❌➖➖➖ | cl1vlind ❌➖❌➖➖  
-• Partidos: A1ose 1034 | cl1vlind 692  
-• Liga: World Cup B  
-• Unibet: 1 2.17 · X 2.95 · 2 2.85 (sin margen 40%/29%/30%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.17 (+6%) · Paf España 2.17 (+6%)  
+• Forma: Ganger_29 ❌✅❌❌❌ | Pavlinho19 ❌✅✅✅❌  
+• Partidos: Ganger_29 982 | Pavlinho19 1096  
+• Liga: FA Cup  
+• Unibet: 1 2.48 · X 3.90 · 2 2.04 (sin margen 35%/22%/43%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.04 (+14%) · Paf España 2.04 (+14%)  
 

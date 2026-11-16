@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 12:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KAMUI vs Ducks — 16/11 · 13:00
 
