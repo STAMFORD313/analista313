@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 16/11/2026 10:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 10:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
 
