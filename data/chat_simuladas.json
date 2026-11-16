@@ -2327,7 +2327,9 @@
     "away": "Athletic Club",
     "txt": "Gana Sao Bernardo",
     "odds": 1.95,
-    "p": 0.5317
+    "p": 0.5317,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
