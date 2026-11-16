@@ -2961,5 +2961,51 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261116202653485478",
+  "creada": "2026-11-16 20:26:53.485563+00:00",
+  "titulo": "Barrido · Combinada cuota 6.1",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-16 23:45:00+00:00",
+    "home": "Mira",
+    "away": "RUSH",
+    "txt": "Gana Mira",
+    "odds": 1.62,
+    "p": 0.6356226337448558
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-17 21:00:00+00:00",
+    "home": "arroba",
+    "away": "RED Canids Academy",
+    "txt": "Gana RED Canids Academy",
+    "odds": 1.4,
+    "p": 0.7344904761904761
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-17 23:45:00+00:00",
+    "home": "DISFARÇADOS",
+    "away": "paiN Academy",
+    "txt": "Gana DISFARÇADOS",
+    "odds": 2.7,
+    "p": 0.4731135802469135
+   }
+  ],
+  "odds": 6.12,
+  "p": 0.2208772245875376,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
