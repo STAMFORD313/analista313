@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 02:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 02:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tulpar vs Revise — 16/11 · 10:00
 
@@ -359,4 +359,30 @@ Casas: Alliance 56% · Iberian Soul 44%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 Alliance: eraa 39 (22-57) · bobeksde 35 (20-52) · Avid 34 (20-51) · twist 32 (18-47) · upE 29 (17-44)  
 Iberian Soul: sausol 34 (20-51) · mopoz 34 (19-50) · dav1g 33 (19-48) · alex 33 (19-48) · Ag1l 32 (18-47)  
+
+## BIG vs Sangal — 17/11 · 14:30
+
+👀 candidata · 🎮 CS2 · Stake Ranked Episode 6 · **Gana BIG** @ **1.58** (Thunderpick) · prob 64% vs casas 58% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
+Mapa: BIG 57% · Serie BO3: BIG 69% - 31% Sangal  
+Casas: BIG 58% · Sangal 42%  
+🔎 **Claves**  
+• Elo: BIG 1885 (411 series) | Sangal 1814 (428 series)  
+• Forma: BIG ❌❌✅❌❌ | Sangal ✅❌✅✅✅  
+• H2H: 4: 3-1  
+• Torneo: Stake Ranked Episode 6 (nivel A)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): BIG: blameF 6.4, JDC 6.4 | Sangal: Joey 6.9, adamS 6.5  
+• Mapas (último año): BIG: fuerte anubis 71%, débil mirage 47% | Sangal: fuerte mirage 68%, débil inferno 20%  
+• Química de la plantilla: BIG: 181 mapas juntos de media | Sangal: 48 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• BIG gana 2-1: 24% → cuota justa 4.12 · casa 25%  
+• Sangal gana 2-1: 19% → cuota justa 5.37 · casa 21%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+BIG: blameF 38 (22-56) · gr1ks 37 (22-55) · JDC 35 (20-51) · faveN 34 (20-51) · tabseN 31 (17-46)  
+Sangal: adamS 35 (20-51) · bnox 34 (20-51) · Joey 34 (20-50) · R4DYX 33 (19-48) · puuha 30 (17-44)  
 
