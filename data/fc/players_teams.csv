@@ -69806,18 +69806,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2380902,262075,Juventus,Sassuolo,,
 2380903,262075,Bologna,Juventus,,
 2380904,262075,Roma,Napoli,,
-2382193,262157,Mexico,Denmark,2,0
-2382194,262157,USA,Ghana,1,2
-2382195,262157,Ghana,Mexico,2,1
-2382196,262157,Denmark,Sweden,3,2
-2382197,262157,Sweden,Ghana,2,2
-2382198,262157,Mexico,USA,4,1
-2382199,262157,USA,Sweden,0,2
-2382200,262157,Ghana,Denmark,3,4
-2382201,262157,Denmark,USA,4,1
-2382202,262157,Sweden,Mexico,4,0
-2382203,262157,Denmark,Mexico,0,1
-2382204,262157,Ghana,USA,1,1
+2382193,262157,Mexico,Denmark,2.0,0.0
+2382194,262157,USA,Ghana,1.0,2.0
+2382195,262157,Ghana,Mexico,2.0,1.0
+2382196,262157,Denmark,Sweden,3.0,2.0
+2382197,262157,Sweden,Ghana,2.0,2.0
+2382198,262157,Mexico,USA,4.0,1.0
+2382199,262157,USA,Sweden,0.0,2.0
+2382200,262157,Ghana,Denmark,3.0,4.0
+2382201,262157,Denmark,USA,4.0,1.0
+2382202,262157,Sweden,Mexico,4.0,0.0
+2382203,262157,Denmark,Mexico,0.0,1.0
+2382204,262157,Ghana,USA,1.0,1.0
 2382205,262157,Mexico,Ghana,,
 2382206,262157,Sweden,Denmark,,
 2382207,262157,Ghana,Sweden,,
@@ -69826,12 +69826,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2382210,262157,Denmark,Ghana,,
 2382211,262157,USA,Denmark,,
 2382212,262157,Mexico,Sweden,,
-2382893,262159,Chelsea,Tottenham,4,4
-2382894,262159,Arsenal,Liverpool,1,3
-2382895,262159,Liverpool,Chelsea,2,2
-2382896,262159,Tottenham,Man City,1,1
-2382897,262159,Man City,Liverpool,1,3
-2382898,262159,Chelsea,Arsenal,1,2
+2382893,262159,Chelsea,Tottenham,4.0,4.0
+2382894,262159,Arsenal,Liverpool,1.0,3.0
+2382895,262159,Liverpool,Chelsea,2.0,2.0
+2382896,262159,Tottenham,Man City,1.0,1.0
+2382897,262159,Man City,Liverpool,1.0,3.0
+2382898,262159,Chelsea,Arsenal,1.0,2.0
 2382899,262159,Arsenal,Man City,,
 2382900,262159,Liverpool,Tottenham,,
 2382901,262159,Tottenham,Arsenal,,
@@ -69846,3 +69846,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2382910,262159,Tottenham,Liverpool,,
 2382911,262159,Arsenal,Tottenham,,
 2382912,262159,Chelsea,Man City,,
+2382533,262149,Stuttgart,Frankfurt,4,1
+2382534,262149,B Dortmund,Bayern Munchen,3,2
+2382535,262149,Bayern Munchen,Stuttgart,3,2
+2382536,262149,Frankfurt,Leipzig,1,2
+2382537,262149,Leipzig,Bayern Munchen,0,0
+2382538,262149,Stuttgart,B Dortmund,2,2
+2382539,262149,B Dortmund,Leipzig,2,1
+2382540,262149,Bayern Munchen,Frankfurt,2,1
+2382541,262149,Frankfurt,B Dortmund,3,1
+2382542,262149,Leipzig,Stuttgart,1,1
+2382543,262149,Frankfurt,Stuttgart,3,0
+2382544,262149,Bayern Munchen,B Dortmund,1,1
+2382545,262149,Stuttgart,Bayern Munchen,2,0
+2382546,262149,Leipzig,Frankfurt,2,2
+2382547,262149,Bayern Munchen,Leipzig,,
+2382548,262149,B Dortmund,Stuttgart,,
+2382549,262149,Leipzig,B Dortmund,,
+2382550,262149,Frankfurt,Bayern Munchen,,
+2382551,262149,B Dortmund,Frankfurt,,
+2382552,262149,Stuttgart,Leipzig,,

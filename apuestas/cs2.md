@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 06:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 07:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tulpar vs Revise — 16/11 · 10:00
 
@@ -189,6 +189,26 @@ Casas: eSuba 47% · OldBoys FR 53%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## DISFARÇADOS vs ALKA — 16/11 · 21:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana DISFARÇADOS** @ **6.50** (Thunderpick) · prob 42% vs casas 14% · ventaja +170%
+
+- ❌ Valor: ventaja +170% (mín. 50% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: DISFARÇADOS 63% · Serie BO3: DISFARÇADOS 69% - 31% ALKA  
+Casas: DISFARÇADOS 14% · ALKA 86%  
+🔎 **Claves**  
+• Elo: DISFARÇADOS 1642 (1 series) | ALKA 1501 (103 series)  
+• Forma: DISFARÇADOS ✅ | ALKA ❌✅❌✅✅  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DISFARÇADOS gana 2-1: 25% → cuota justa 4.01  
+• ALKA gana 2-1: 15% → cuota justa 6.78  
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
@@ -547,6 +567,112 @@ Casas: ROUNDS 39% · JUMBO 61%
 • Elo: ROUNDS 1412 (186 series) | JUMBO 1459 (102 series)  
 • Forma: ROUNDS ✅❌❌❌✅ | JUMBO ✅❌❌❌✅  
 • H2H: 1: 0-1  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## SINQU vs boyband — 17/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana SINQU** @ **2.57** (Thunderpick) · prob 39% vs casas 36% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: SINQU 45% · Serie BO3: SINQU 43% - 57% boyband  
+Casas: SINQU 36% · boyband 64%  
+🔎 **Claves**  
+• Elo: SINQU 1443 (76 series) | boyband 1495 (20 series)  
+• Forma: SINQU ❌✅✅✅✅ | boyband ❌✅✅✅❌  
+• H2H: 1: 0-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• SINQU gana 2-1: 20% → cuota justa 5.09  
+• boyband gana 2-1: 24% → cuota justa 4.20  
+
+## Nexus vs Walczaki — 17/11 · 19:00
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Gana Walczaki** @ **3.20** (Thunderpick) · prob 31% vs casas 29% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: Nexus 61% · Serie BO3: Nexus 68% - 32% Walczaki  
+Casas: Nexus 71% · Walczaki 29%  
+🔎 **Claves**  
+• Elo: Nexus 1750 (710 series) | Walczaki 1633 (66 series)  
+• Forma: Nexus ✅✅❌✅❌ | Walczaki ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: CCT Europe 2026 Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Nexus: fNk 6.5, HOLY 6.4 | Walczaki: reiko 6.6, Eskyy 6.0  
+• Mapas (último año): Nexus: fuerte overpass 71%, débil inferno 40% | Walczaki: fuerte mirage 82%, débil cache 33%  
+• Química de la plantilla: Nexus: 70 mapas juntos de media | Walczaki: 88 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Nexus gana 2-1: 25% → cuota justa 4.02 · casa 26%  
+• Walczaki gana 2-1: 16% → cuota justa 6.23 · casa 14%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+Nexus: shield 36 (21-54) · s0und 36 (20-52) · HOLY 34 (20-51) · Nexius 34 (19-50) · fNk 33 (19-48)  
+Walczaki: reiko 37 (21-55) · mrouz 34 (19-50) · olimp 33 (19-49) · bajmi 32 (18-48) · Eskyy 32 (18-47)  
+
+## GamerLegion vs Luminosity — 17/11 · 19:30
+
+👀 candidata · 🎮 CS2 · Stake Ranked Episode 6 · **Gana GamerLegion** @ **1.65** (Thunderpick) · prob 58% vs casas 56% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: GamerLegion 58% · Serie BO3: GamerLegion 61% - 39% Luminosity  
+Casas: GamerLegion 56% · Luminosity 44%  
+🔎 **Claves**  
+• Elo: GamerLegion 1873 (338 series) | Luminosity 1790 (25 series)  
+• Forma: GamerLegion ✅❌✅✅❌ | Luminosity ❌❌❌❌❌  
+• H2H: 2: 2-0  
+• Torneo: Stake Ranked Episode 6 (nivel A)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): GamerLegion: REZ 6.8, FL4MUS 6.4 | Luminosity: Rainwaker 5.8, yxngstxr 5.8  
+• Mapas (último año): GamerLegion: fuerte cache 80%, débil dust2 28% | Luminosity: fuerte mirage 62%, débil dust2 17%  
+• Química de la plantilla: GamerLegion: 94 mapas juntos de media | Luminosity: 77 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• GamerLegion gana 2-1: 25% → cuota justa 4.08 · casa 24%  
+• Luminosity gana 2-1: 18% → cuota justa 5.56 · casa 20%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+GamerLegion: FL4MUS 36 (21-53) · REZ 36 (21-53) · shalfey 35 (20-52) · hypex 34 (19-50) · Tauson 33 (19-49)  
+Luminosity: afro 34 (20-51) · Rainwaker 34 (19-50) · yxngstxr 33 (19-49) · AZUWU 32 (18-47) · lux 32 (18-47)  
+
+## Young TigeRES vs OLDBOYS PL — 17/11 · 19:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **2.35** (Thunderpick) · prob 41% vs casas 39% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: Young TigeRES 43% · Serie BO1: Young TigeRES 43% - 57% OLDBOYS PL  
+Casas: Young TigeRES 39% · OLDBOYS PL 61%  
+🔎 **Claves**  
+• Elo: Young TigeRES 1682 (69 series) | OLDBOYS PL 1729 (84 series)  
+• Forma: Young TigeRES ✅✅✅✅✅ | OLDBOYS PL ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## eternal premium vs Falcons Force — 17/11 · 19:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Falcons Force** @ **1.54** (Thunderpick) · prob 61% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: eternal premium 38% · Serie BO1: eternal premium 38% - 62% Falcons Force  
+Casas: eternal premium 40% · Falcons Force 60%  
+🔎 **Claves**  
+• Elo: eternal premium 1509 (94 series) | Falcons Force 1596 (137 series)  
+• Forma: eternal premium ❌✅❌❌✅ | Falcons Force ❌❌❌✅✅  
+• H2H: 2: 1-1  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
 

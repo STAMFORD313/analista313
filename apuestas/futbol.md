@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 16/11/2026 06:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 07:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Albacete vs Celta B — 16/11 · 20:30
 
