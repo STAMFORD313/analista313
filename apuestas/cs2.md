@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 20:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 20:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## eSuba vs OldBoys FR — 16/11 · 21:00
 
