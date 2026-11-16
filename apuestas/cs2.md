@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 21:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 21:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 9z Academy vs street dogs — 16/11 · 22:00
 
@@ -205,6 +205,32 @@ Casas: 100 Thieves 53% · fnatic 47%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 100 Thieves: poiii 36 (21-53) · dev1ce 36 (20-52) · sirah 34 (20-51) · rain 33 (19-49) · Gizmy 31 (17-45)  
 fnatic: jambo 38 (22-56) · jackasmo 36 (21-53) · cairne 36 (21-53) · mazay 34 (19-50) · fEAR 30 (17-44)  
+
+## HEROIC vs magic — 17/11 · 13:00
+
+👀 candidata · 🎮 CS2 · PGL Cluj-Napoca 2027: Closed Qualifier · **Gana HEROIC** @ **1.68** (Thunderpick) · prob 62% vs casas 55% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.936 partidos)  
+Mapa: HEROIC 63% · Serie BO3: HEROIC 69% - 31% magic  
+Casas: HEROIC 55% · magic 45%  
+🔎 **Claves**  
+• Elo: HEROIC 2011 (342 series) | magic 1869 (88 series)  
+• Forma: HEROIC ❌❌❌✅✅ | magic ✅✅✅❌✅  
+• H2H: 3: 1-2  
+• Torneo: PGL Cluj-Napoca 2027: Closed Qualifier (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): HEROIC: nilo 6.1, Chr1zN 6.1 | magic: sFade8 6.0, tENZY 5.9  
+• Mapas (último año): HEROIC: fuerte ancient 66%, débil overpass 44% | magic: fuerte cache 69%, débil dust2 50%  
+• Química de la plantilla: HEROIC: 129 mapas juntos de media | magic: 133 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• HEROIC gana 2-1: 25% → cuota justa 4.01 · casa 31%  
+• magic gana 2-1: 15% → cuota justa 6.83 · casa 15%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.548 casos: log-loss 0.682→0.6558; sin cuotas de props, solo referencia)  
+HEROIC: nilo 38 (22-56) · MartinezSa 37 (21-55) · Chr1zN 33 (19-49) · Brollan 33 (19-48) · susp 32 (18-48)  
+magic: tENZY 35 (20-52) · lattykk 35 (20-51) · MaSvAl 33 (19-49) · AW 31 (18-46) · sFade8 30 (17-44)  
 
 ## Alliance vs Iberian Soul — 17/11 · 14:00
 
