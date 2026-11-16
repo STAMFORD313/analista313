@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 04:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 05:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Vanste vs Djape — 16/11 · 04:56
+## kirman vs curuza — 16/11 · 05:26
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Djape** @ **1.88** (Unibet) · prob 57% vs casas 46% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana curuza** @ **3.55** (Unibet) · prob 30% vs casas 25% · ventaja +6%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.732 partidos)  
+Goles esperados: kirman 3.38 · curuza 2.81  
+Ganador: kirman 52% · empate 18% · curuza 30%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap kirman: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: kirman ➖✅❌❌➖ | curuza ➖❌✅❌➖  
+• Partidos: kirman 759 | curuza 914  
+• Liga: Serie A  
+• Unibet: 1 1.60 · X 4.35 · 2 3.55 (sin margen 55%/20%/25%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+6%) · Paf España 3.55 (+6%)  
+
+## mixes vs Djape — 16/11 · 05:32
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Djape** @ **1.93** (Unibet) · prob 57% vs casas 45% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.710 partidos)  
-Goles esperados: Vanste 2.99 · Djape 3.83  
-Ganador: Vanste 26% · empate 17% · Djape 57%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap Djape: −1.5 39% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 69.732 partidos)  
+Goles esperados: mixes 3.23 · Djape 4.13  
+Ganador: mixes 27% · empate 16% · Djape 57%  
+Total: más de 7.5 goles 46% · menos 54%  
+Hándicap Djape: −1.5 41% · −2.5 27%  
 🔎 **Claves**  
-• Forma: Vanste ✅❌❌✅❌ | Djape ✅✅❌✅❌  
-• Partidos: Vanste 178 | Djape 218  
+• Forma: mixes ❌✅❌➖❌ | Djape ❌✅❌✅✅  
+• Partidos: mixes 219 | Djape 220  
 • Liga: Champions League B  
-• Unibet: 1 2.55 · X 4.50 · 2 1.88 (sin margen 34%/19%/46%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.88 (+7%) · Paf España 1.88 (+7%)  
-
-## k0mych vs URIST — 16/11 · 04:56
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana k0mych** @ **2.25** (Unibet) · prob 48% vs casas 39% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.710 partidos)  
-Goles esperados: k0mych 4.35 · URIST 3.97  
-Ganador: k0mych 48% · empate 16% · URIST 37%  
-Total: más de 8.5 goles 45% · menos 55%  
-Hándicap k0mych: −1.5 34% · −2.5 23%  
-🔎 **Claves**  
-• Forma: k0mych ❌➖✅❌✅ | URIST ❌❌❌❌❌  
-• Partidos: k0mych 400 | URIST 157  
-• Liga: LaLiga 2x6  
-• Unibet: 1 2.25 · X 4.90 · 2 2.02 (sin margen 39%/18%/43%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.25 (+7%) · Paf España 2.25 (+7%)  
-
-## KravaRK vs curuza — 16/11 · 05:02
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana curuza** @ **2.40** (Unibet) · prob 49% vs casas 36% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.710 partidos)  
-Goles esperados: KravaRK 2.47 · curuza 2.93  
-Ganador: KravaRK 31% · empate 20% · curuza 49%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap curuza: −1.5 32% · −2.5 18%  
-🔎 **Claves**  
-• Forma: KravaRK ❌❌➖❌✅ | curuza ✅➖❌✅❌  
-• Partidos: KravaRK 476 | curuza 913  
-• Liga: Serie A  
-• Unibet: 1 2.00 · X 4.30 · 2 2.40 (sin margen 44%/20%/36%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+17%) · Paf España 2.40 (+17%)  
+• Unibet: 1 2.43 · X 4.60 · 2 1.93 (sin margen 36%/19%/45%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.93 (+11%) · Paf España 1.93 (+11%)  
 
