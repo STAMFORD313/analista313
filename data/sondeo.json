@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-16 10:04",
+ "fecha": "2026-11-16 22:30",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "froglings-vs-inner-circle-16-11-2026",
-     "DreamLeague Division 2 Series 5"
-    ],
-    [
-     "zero-tenacity-dota-vs-playtime-16-11-2026",
-     "DreamLeague Division 2 Series 5"
-    ],
-    [
      "puckchamp-vs-nemiga-gaming-17-11-2026",
+     "DreamLeague Division 2 Series 5"
+    ],
+    [
+     "froglings-vs-playtime-17-11-2026",
+     "DreamLeague Division 2 Series 5"
+    ],
+    [
+     "l1ga-team-vs-2bb3a6c471-18-11-2026",
      "DreamLeague Division 2 Series 5"
     ]
    ]
@@ -121,16 +121,15 @@
  },
  "kambi_esports": {
   "Esports / CS2 / PGL Major": 8,
-  "Esports / CS2 / NODWIN Clutch Series": 5,
-  "Esports / Dota 2 / 1w Essence": 4,
-  "Esports / CS2 / CCT European Series 14": 4,
+  "Esports / CS2 / RUSH:Brno": 4,
+  "Esports / Dota 2 / BLAST Slam": 4,
   "Esports / CS2 / European Pro League": 3,
-  "Esports / CS2 / PGL Cluj-Napoca": 3,
+  "Esports / CS2 / CCT European Series 14": 3,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / CS2 / CCT European Series 13": 2,
-  "Esports / Dota 2 / DreamLeague Div. 2": 2,
-  "Esports / CS2 / RUSH:Brno": 2,
-  "Esports / CS2 / United21": 1,
-  "Esports / Dota 2 / Esports Pro Circuit": 1
+  "Esports / CS2 / NODWIN Clutch Series": 2,
+  "Esports / CS2 / PGL Cluj-Napoca": 2,
+  "Esports / Overwatch 2 / OWCS Asia": 2,
+  "Esports / Dota 2 / 1w Essence": 1,
+  "Esports / Dota 2 / DreamLeague Div. 2": 1
  }
 }
