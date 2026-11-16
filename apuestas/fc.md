@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 10:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Jekunam vs MeLToSik — 16/11 · 10:46
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana MeLToSik** @ **3.10** (Unibet) · prob 35% vs casas 28% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.012 partidos)  
-Goles esperados: Jekunam 2.22 · MeLToSik 2.12  
-Ganador: Jekunam 42% · empate 23% · MeLToSik 35%  
-Total: más de 4.5 goles 44% · menos 56%  
-Hándicap Jekunam: −1.5 24% · −2.5 12%  
-🔎 **Claves**  
-• Forma: Jekunam ✅✅❌➖✅ | MeLToSik ❌➖✅❌✅  
-• Partidos: Jekunam 1194 | MeLToSik 1301  
-• Liga: Champions League AFC  
-• Unibet: 1 1.72 · X 4.20 · 2 3.10 (sin margen 51%/21%/28%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.10 (+9%) · Paf España 3.10 (+9%)  
-
-## dm1trena vs Edwardson — 16/11 · 10:46
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **2.95** (Unibet) · prob 36% vs casas 29% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.012 partidos)  
-Goles esperados: dm1trena 1.92 · Edwardson 2.01  
-Ganador: dm1trena 36% · empate 24% · Edwardson 40%  
-Total: más de 3.5 goles 55% · menos 45%  
-Hándicap Edwardson: −1.5 23% · −2.5 11%  
-🔎 **Claves**  
-• Forma: dm1trena ❌➖✅❌❌ | Edwardson ➖❌➖❌✅  
-• Partidos: dm1trena 1147 | Edwardson 1270  
-• Liga: Champions League AFC  
-• Unibet: 1 2.95 · X 3.15 · 2 2.02 (sin margen 29%/28%/43%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.95 (+6%) · Paf España 2.95 (+6%)  
+Actualizado 16/11/2026 11:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## A1ose vs v1nn — 16/11 · 11:15
 
@@ -58,4 +20,61 @@ Hándicap A1ose: −1.5 29% · −2.5 18%
 • Liga: World Cup B  
 • Unibet: 1 2.63 · X 4.90 · 2 1.79 (sin margen 33%/18%/49%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.63 (+6%) · Paf España 2.63 (+6%)  
+
+## Loka vs spirtes — 16/11 · 11:20
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.32** (Unibet) · prob 81% vs casas 66% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.028 partidos)  
+Goles esperados: Loka 5.13 · spirtes 2.33  
+Ganador: Loka 81% · empate 10% · spirtes 10%  
+Total: más de 7.5 goles 47% · menos 53%  
+Hándicap Loka: −1.5 68% · −2.5 54%  
+🔎 **Claves**  
+• Forma: Loka ❌✅❌✅✅ | spirtes ❌❌❌❌❌  
+• Partidos: Loka 1312 | spirtes 1236  
+• Liga: CSL  
+• Unibet: 1 1.32 · X 7.00 · 2 3.95 (sin margen 66%/12%/22%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.32 (+7%) · Paf España 1.32 (+7%)  
+
+## zoyir vs why — 16/11 · 11:36
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.70** (Unibet) · prob 25% vs casas 18% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.028 partidos)  
+Goles esperados: zoyir 4.29 · why 3.22  
+Ganador: zoyir 60% · empate 15% · why 25%  
+Total: más de 7.5 goles 48% · menos 52%  
+Hándicap zoyir: −1.5 43% · −2.5 29%  
+🔎 **Claves**  
+• Forma: zoyir ✅❌✅✅➖ | why ❌❌❌➖✅  
+• Partidos: zoyir 599 | why 657  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.35 · X 4.90 · 2 4.70 (sin margen 64%/18%/18%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.70 (+16%) · Paf España 4.70 (+16%)  
+
+## RuBIX vs v1nn — 16/11 · 11:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana RuBIX** @ **2.65** (Unibet) · prob 47% vs casas 33% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.028 partidos)  
+Goles esperados: RuBIX 3.76 · v1nn 3.32  
+Ganador: RuBIX 47% · empate 17% · v1nn 36%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap RuBIX: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: RuBIX ✅✅❌❌✅ | v1nn ❌❌❌✅➖  
+• Partidos: RuBIX 240 | v1nn 683  
+• Liga: World Cup B  
+• Unibet: 1 2.65 · X 5.40 · 2 1.73 (sin margen 33%/16%/51%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.65 (+24%) · Paf España 2.65 (+24%)  
 
