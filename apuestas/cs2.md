@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 03:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 03:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tulpar vs Revise — 16/11 · 10:00
 

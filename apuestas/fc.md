@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 03:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## mixes vs Djape — 16/11 · 03:12
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Djape** @ **2.15** (Unibet) · prob 56% vs casas 41% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.639 partidos)  
-Goles esperados: mixes 3.15 · Djape 3.98  
-Ganador: mixes 27% · empate 16% · Djape 56%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Djape: −1.5 40% · −2.5 26%  
-🔎 **Claves**  
-• Forma: mixes ✅❌✅❌❌ | Djape ✅✅✅✅✅  
-• Partidos: mixes 211 | Djape 212  
-• Liga: World Cup B  
-• Unibet: 1 2.23 · X 4.30 · 2 2.15 (sin margen 39%/20%/41%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+21%) · Paf España 2.15 (+21%)  
+Actualizado 16/11/2026 03:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## kkikus vs Grellz — 16/11 · 03:27
 
