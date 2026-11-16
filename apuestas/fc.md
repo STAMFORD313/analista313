@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 14:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 15:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ramzes vs SDI — 16/11 · 15:04
+## MeLToSik vs dm1trena — 16/11 · 15:28
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana ramzes** @ **1.89** (Unibet) · prob 60% vs casas 46% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +7%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.230 partidos)  
-Goles esperados: ramzes 3.97 · SDI 2.99  
-Ganador: ramzes 60% · empate 16% · SDI 24%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap ramzes: −1.5 42% · −2.5 28%  
-🔎 **Claves**  
-• Forma: ramzes ❌✅✅❌❌ | SDI ❌❌➖➖✅  
-• Partidos: ramzes 1141 | SDI 617  
-• Liga: Eredivisie  
-• Unibet: 1 1.89 · X 5.40 · 2 2.35 (sin margen 46%/16%/37%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.89 (+13%) · Paf España 1.89 (+13%)  
-
-## MeLToSik vs DaVa — 16/11 · 15:04
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.85** (Unibet) · prob 59% vs casas 47% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.230 partidos)  
-Goles esperados: MeLToSik 1.85 · DaVa 2.74  
-Ganador: MeLToSik 21% · empate 20% · DaVa 59%  
+📊 **Escenarios** (Poisson por jugador, 70.257 partidos)  
+Goles esperados: MeLToSik 2.42 · dm1trena 2.15  
+Ganador: MeLToSik 43% · empate 22% · dm1trena 34%  
 Total: más de 4.5 goles 48% · menos 52%  
-Hándicap DaVa: −1.5 38% · −2.5 22%  
+Hándicap MeLToSik: −1.5 27% · −2.5 14%  
 🔎 **Claves**  
-• Forma: MeLToSik ✅❌✅➖❌ | DaVa ➖✅✅✅✅  
-• Partidos: MeLToSik 1317 | DaVa 1347  
+• Forma: MeLToSik ❌✅➖❌➖ | dm1trena ✅❌➖❌➖  
+• Partidos: MeLToSik 1318 | dm1trena 1163  
 • Liga: LaLiga  
-• Unibet: 1 3.25 · X 3.30 · 2 1.85 (sin margen 27%/26%/47%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.85 (+10%) · Paf España 1.85 (+10%)  
+• Unibet: 1 2.48 · X 3.20 · 2 2.28 (sin margen 35%/27%/38%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
+
+## Krkula vs hit — 16/11 · 15:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana hit** @ **2.50** (Unibet) · prob 43% vs casas 35% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.257 partidos)  
+Goles esperados: Krkula 2.62 · hit 2.83  
+Ganador: Krkula 37% · empate 20% · hit 43%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap hit: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Krkula ❌❌➖❌❌ | hit ✅➖✅❌❌  
+• Partidos: Krkula 768 | hit 838  
+• Liga: Champions League B  
+• Unibet: 1 2.15 · X 3.45 · 2 2.50 (sin margen 40%/25%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+7%) · Paf España 2.50 (+7%)  
 

@@ -34875,5 +34875,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193368,133857,ex-rustec-vs-butterfly-16-11-2026,2026-11-16T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,24855,ex-RUSTEC,Butterfly,3,de_dust2,24855,13.0,10.0
 193369,133857,ex-rustec-vs-butterfly-16-11-2026,2026-11-16T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,24855,ex-RUSTEC,Butterfly,2,de_ancient,24855,13.0,4.0
 193370,133857,ex-rustec-vs-butterfly-16-11-2026,2026-11-16T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,24855,ex-RUSTEC,Butterfly,1,de_nuke,24857,13.0,8.0
+192528,133258,virtus-pro-vs-team-aces-16-11-2026,2026-11-16T11:15:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,720,25564,Virtus.pro,Aces,3,de_cache,720,13.0,5.0
+192529,133258,virtus-pro-vs-team-aces-16-11-2026,2026-11-16T11:15:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,720,25564,Virtus.pro,Aces,2,de_dust2,25564,13.0,5.0
+192530,133258,virtus-pro-vs-team-aces-16-11-2026,2026-11-16T11:15:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,720,25564,Virtus.pro,Aces,1,de_mirage,720,13.0,11.0
 192890,133393,mouz-nxt-vs-azuolas-16-11-2026,2026-11-16T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,1455,25247,MOUZ NXT,Azuolas,2,de_mirage,1455,13.0,2.0
 192891,133393,mouz-nxt-vs-azuolas-16-11-2026,2026-11-16T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,1455,25247,MOUZ NXT,Azuolas,1,de_nuke,1455,13.0,3.0
