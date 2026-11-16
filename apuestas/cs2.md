@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 09:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Tulpar vs Revise — 16/11 · 10:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Tulpar** @ **2.00** (Thunderpick) · prob 50% vs casas 46% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
-Mapa: Tulpar 52% · Serie BO3: Tulpar 53% - 47% Revise  
-Casas: Tulpar 46% · Revise 54%  
-🔎 **Claves**  
-• Elo: Tulpar 1582 (2 series) | Revise 1559 (43 series)  
-• Forma: Tulpar ✅✅ | Revise ❌❌❌✅✅  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Tulpar gana 2-1: 23% → cuota justa 4.36  
-• Revise gana 2-1: 21% → cuota justa 4.76  
+Actualizado 16/11/2026 10:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KAMUI vs Ducks — 16/11 · 13:00
 
