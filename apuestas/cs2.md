@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 20:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 20:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BORRACHEIROS vs Hunters Rising — 17/11 · 21:00
 
