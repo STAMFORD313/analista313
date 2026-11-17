@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 13:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 13:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs Iberian Soul — 17/11 · 14:00
 
