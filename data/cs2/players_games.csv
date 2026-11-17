@@ -34911,3 +34911,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193571,134006,alliance-cs-vs-iberian-soul-17-11-2026,2026-11-17T12:35:00.000+00:00,b,3,6168,RUSH:Brno 2026,8221,19100,Alliance,Iberian Soul,2,de_anubis,8221,13.0,11.0
 193572,134006,alliance-cs-vs-iberian-soul-17-11-2026,2026-11-17T12:35:00.000+00:00,b,3,6168,RUSH:Brno 2026,8221,19100,Alliance,Iberian Soul,1,de_nuke,8221,13.0,10.0
 193072,133480,big-vs-sangal-17-11-2026,2026-11-17T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,756,36,BIG,Sangal,1,de_nuke,36,13.0,11.0
+192902,133397,hype-tech-vs-the-last-resort-17-11-2026,2026-11-17T15:20:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25790,2740,Hype Tech,The Last Resort,2,de_cache,25790,13.0,9.0
+192903,133397,hype-tech-vs-the-last-resort-17-11-2026,2026-11-17T15:20:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25790,2740,Hype Tech,The Last Resort,1,de_nuke,25790,13.0,11.0
+193074,133481,nip-vs-unity-17-11-2026,2026-11-17T15:20:00.000+00:00,a,3,6132,Stake Ranked Episode 6,785,3829,Ninjas in Pyjamas,UNiTY,2,de_cache,785,13.0,9.0
+193075,133481,nip-vs-unity-17-11-2026,2026-11-17T15:20:00.000+00:00,a,3,6132,Stake Ranked Episode 6,785,3829,Ninjas in Pyjamas,UNiTY,1,de_dust2,785,13.0,5.0
+193269,133779,fnatic-vs-magic-ru-17-11-2026,2026-11-17T15:30:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,786,22218,fnatic,magic,1,de_inferno,786,13.0,5.0
