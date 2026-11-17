@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 08:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 08:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
@@ -722,4 +722,21 @@ Casas: TROPA DO MICHA 47% · QUINTESSÊNCIA 53%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • TROPA DO MICHA gana 2-1: 25% → cuota justa 4.06  
 • QUINTESSÊNCIA gana 2-1: 18% → cuota justa 5.69  
+
+## OldBoys FR vs Fire Flux — 18/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **2.36** (Thunderpick) · prob 40% vs casas 39% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
+Mapa: OldBoys FR 40% · Serie BO1: OldBoys FR 40% - 60% Fire Flux  
+Casas: OldBoys FR 39% · Fire Flux 61%  
+🔎 **Claves**  
+• Elo: OldBoys FR 1567 (58 series) | Fire Flux 1634 (341 series)  
+• Forma: OldBoys FR ❌❌✅❌✅ | Fire Flux ❌✅✅❌❌  
+• H2H: 1: 1-0  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
