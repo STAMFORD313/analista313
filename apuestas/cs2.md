@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 06:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 06:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
@@ -665,4 +665,21 @@ Casas: FORZE Reload 74% · G2 Ares 26%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • FORZE Reload gana 2-1: 25% → cuota justa 4.04 · casa 26%  
 • G2 Ares gana 2-1: 13% → cuota justa 7.54 · casa 13%  
+
+## The Chosen Few vs Vitality Academy — 18/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Vitality Academy** @ **2.03** (Thunderpick) · prob 51% vs casas 46% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
+Mapa: The Chosen Few 44% · Serie BO1: The Chosen Few 44% - 56% Vitality Academy  
+Casas: The Chosen Few 54% · Vitality Academy 46%  
+🔎 **Claves**  
+• Elo: The Chosen Few 1470 (93 series) | Vitality Academy 1512 (34 series)  
+• Forma: The Chosen Few ❌✅✅❌❌ | Vitality Academy ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
