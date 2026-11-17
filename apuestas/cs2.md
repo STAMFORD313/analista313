@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 20:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## BORRACHEIROS vs Hunters Rising — 17/11 · 21:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Hunters Rising** @ **3.49** (Thunderpick) · prob 27% vs casas 26% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.956 partidos)  
-Mapa: BORRACHEIROS 65% · Serie BO3: BORRACHEIROS 72% - 28% Hunters Rising  
-Casas: BORRACHEIROS 74% · Hunters Rising 26%  
-🔎 **Claves**  
-• Elo: BORRACHEIROS 1528 (48 series) | Hunters Rising 1363 (18 series)  
-• Forma: BORRACHEIROS ✅❌❌❌❌ | Hunters Rising ❌✅❌❌❌  
-• H2H: 1: 1-0  
-• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• BORRACHEIROS gana 2-1: 25% → cuota justa 4.04  
-• Hunters Rising gana 2-1: 13% → cuota justa 7.48  
+Actualizado 17/11/2026 21:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## arroba vs RED Canids Academy — 17/11 · 22:00
 

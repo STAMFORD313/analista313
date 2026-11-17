@@ -71752,34 +71752,34 @@ id,tournament_id,club1,club2,ht1,ht2
 2384892,262279,Aston Villa,Roma,,
 2384893,262279,Fenerbahce,Aston Villa,,
 2384894,262279,Porto,Salzburg,,
-2384101,262232,Stuttgart,Leipzig,2,1
-2384102,262232,Bayern Munchen,B Dortmund,1,1
-2384103,262232,B Dortmund,Stuttgart,3,3
-2384104,262232,Leipzig,Frankfurt,1,2
-2384105,262232,Frankfurt,B Dortmund,3,0
-2384106,262232,Stuttgart,Bayern Munchen,0,0
-2384107,262232,Bayern Munchen,Frankfurt,1,0
-2384108,262232,B Dortmund,Leipzig,3,3
-2384109,262232,Leipzig,Bayern Munchen,2,1
-2384110,262232,Frankfurt,Stuttgart,4,1
-2384111,262232,Leipzig,Stuttgart,1,1
-2384112,262232,B Dortmund,Bayern Munchen,1,1
-2384113,262232,Stuttgart,B Dortmund,3,2
-2384114,262232,Frankfurt,Leipzig,1,1
+2384101,262232,Stuttgart,Leipzig,2.0,1.0
+2384102,262232,Bayern Munchen,B Dortmund,1.0,1.0
+2384103,262232,B Dortmund,Stuttgart,3.0,3.0
+2384104,262232,Leipzig,Frankfurt,1.0,2.0
+2384105,262232,Frankfurt,B Dortmund,3.0,0.0
+2384106,262232,Stuttgart,Bayern Munchen,0.0,0.0
+2384107,262232,Bayern Munchen,Frankfurt,1.0,0.0
+2384108,262232,B Dortmund,Leipzig,3.0,3.0
+2384109,262232,Leipzig,Bayern Munchen,2.0,1.0
+2384110,262232,Frankfurt,Stuttgart,4.0,1.0
+2384111,262232,Leipzig,Stuttgart,1.0,1.0
+2384112,262232,B Dortmund,Bayern Munchen,1.0,1.0
+2384113,262232,Stuttgart,B Dortmund,3.0,2.0
+2384114,262232,Frankfurt,Leipzig,1.0,1.0
 2384115,262232,B Dortmund,Frankfurt,,
 2384116,262232,Bayern Munchen,Stuttgart,,
 2384117,262232,Frankfurt,Bayern Munchen,,
 2384118,262232,Leipzig,B Dortmund,,
 2384119,262232,Bayern Munchen,Leipzig,,
 2384120,262232,Stuttgart,Frankfurt,,
-2384735,262246,Liverpool,Man City,1,1
-2384736,262246,Arsenal,Chelsea,2,1
-2384737,262246,Chelsea,Liverpool,2,2
-2384738,262246,Man City,Tottenham,2,2
-2384739,262246,Tottenham,Chelsea,1,1
-2384740,262246,Liverpool,Arsenal,2,0
-2384741,262246,Arsenal,Tottenham,0,0
-2384742,262246,Chelsea,Man City,1,1
+2384735,262246,Liverpool,Man City,1.0,1.0
+2384736,262246,Arsenal,Chelsea,2.0,1.0
+2384737,262246,Chelsea,Liverpool,2.0,2.0
+2384738,262246,Man City,Tottenham,2.0,2.0
+2384739,262246,Tottenham,Chelsea,1.0,1.0
+2384740,262246,Liverpool,Arsenal,2.0,0.0
+2384741,262246,Arsenal,Tottenham,0.0,0.0
+2384742,262246,Chelsea,Man City,1.0,1.0
 2384743,262246,Man City,Arsenal,,
 2384744,262246,Tottenham,Liverpool,,
 2384745,262246,Man City,Liverpool,,
@@ -71792,16 +71792,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2384752,262246,Man City,Chelsea,,
 2384753,262246,Arsenal,Man City,,
 2384754,262246,Liverpool,Tottenham,,
-2384503,262257,Sassuolo,Bologna,0,1
-2384504,262257,Napoli,Roma,3,2
-2384505,262257,Roma,Sassuolo,3,1
-2384506,262257,Bologna,Juventus,1,1
-2384507,262257,Juventus,Roma,3,2
-2384508,262257,Sassuolo,Napoli,0,3
-2384509,262257,Napoli,Juventus,1,3
-2384510,262257,Roma,Bologna,0,0
-2384511,262257,Bologna,Napoli,1,0
-2384512,262257,Juventus,Sassuolo,2,1
+2384503,262257,Sassuolo,Bologna,0.0,1.0
+2384504,262257,Napoli,Roma,3.0,2.0
+2384505,262257,Roma,Sassuolo,3.0,1.0
+2384506,262257,Bologna,Juventus,1.0,1.0
+2384507,262257,Juventus,Roma,3.0,2.0
+2384508,262257,Sassuolo,Napoli,0.0,3.0
+2384509,262257,Napoli,Juventus,1.0,3.0
+2384510,262257,Roma,Bologna,0.0,0.0
+2384511,262257,Bologna,Napoli,1.0,0.0
+2384512,262257,Juventus,Sassuolo,2.0,1.0
 2384513,262257,Bologna,Sassuolo,,
 2384514,262257,Roma,Napoli,,
 2384515,262257,Sassuolo,Roma,,
