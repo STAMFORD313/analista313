@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 17/11/2026 16:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 16:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## CyberHero vs Inner Circle x Insanity — 18/11 · 18:00
 

@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 17/11/2026 16:22
+Actualizado: 17/11/2026 16:52
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 
@@ -29,11 +29,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 941 | 28% | 20% | 0.168 | 0.164 | -15.1 % |
+| 0%-40% | 944 | 28% | 20% | 0.168 | 0.164 | -15.0 % |
 | 40%-55% | 1312 | 48% | 42% | 0.245 | 0.241 | -10.4 % |
 | 55%-70% | 875 | 62% | 59% | 0.241 | 0.240 | -5.4 % |
 | 70%-100% | 569 | 78% | 80% | 0.156 | 0.163 | -0.5 % |
-| Total | 3697 | 51% | 46% | 0.211 | 0.209 | -8.9 % |
+| Total | 3700 | 51% | 46% | 0.211 | 0.209 | -8.9 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -50,7 +50,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽💎⚽ | goles/totales | 11 | 50% | 73% | 0.253 | 0.253 | +52.9 % |
 | 🎮 | ganador | 126 | 58% | 52% | 0.214 | 0.208 | -14.8 % |
 | 🎮 | hándicap | 11 | 43% | 45% | 0.229 | 0.242 | +19.0 % |
-| 🎮⚽ | ganador | 1613 | 42% | 35% | 0.204 | 0.200 | -7.2 % |
+| 🎮⚽ | ganador | 1615 | 42% | 35% | 0.204 | 0.200 | -7.2 % |
 | 🏀 | ganador | 114 | 74% | 72% | 0.150 | 0.151 | -1.6 % |
 | 🏀 | goles/totales | 11 | 51% | 91% | 0.244 | 0.249 | +73.2 % |
 | 🏀 | hándicap | 8 | 50% | 38% | 0.254 | 0.254 | -27.9 % |
@@ -60,7 +60,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🏈 | hándicap | 150 | 50% | 40% | 0.249 | 0.248 | -23.7 % |
 | 🏒 | ganador | 6 | 51% | 50% | 0.258 | 0.267 | +0.1 % |
 | 🏒 | goles/totales | 6 | 54% | 83% | 0.200 | 0.217 | +50.6 % |
-| 🐉 | ganador | 29 | 55% | 55% | 0.182 | 0.195 | +4.5 % |
+| 🐉 | ganador | 30 | 54% | 53% | 0.179 | 0.192 | +1.0 % |
 | 🐉 | goles/totales | 2 | 48% | 50% | 0.424 | 0.422 | +74.0 % |
 | 🐉 | hándicap | 8 | 52% | 38% | 0.213 | 0.220 | -19.9 % |
 | 📱 | ganador | 3 | 52% | 33% | 0.180 | 0.171 | -51.3 % |
