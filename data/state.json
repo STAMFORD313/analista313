@@ -998,9 +998,6 @@
   "cbb|2026-11-20|California Golden Bears|East Texas A&M Lions",
   "cbb|2026-11-20|Santa Clara Broncos|VCU Rams",
   "cbb|2026-11-20|USC Trojans|Tarleton State Texans",
-  "fc|2376882",
-  "cs2|134083",
-  "cs2|134093",
   "cs2|134082",
   "cs2|134092",
   "fc|2376335",
@@ -21775,7 +21772,11 @@
    "version": "6710a2e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21796,7 +21797,11 @@
    "version": "6710a2e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-5",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21837,23 +21842,37 @@
    "start": "2026-11-17T09:07:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 71.163 partidos)",
-    "Goles esperados: Wboy 3.47 · LaikingDast 3.61",
-    "Ganador: Wboy 37% · empate 17% · LaikingDast 46%",
-    "Total: más de 7.5 goles 41% · menos 59%",
-    "Hándicap LaikingDast: −1.5 30% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wboy ✅✅❌❌❌ | LaikingDast ❌✅➖✅✅",
-    "• Partidos: Wboy 1200 | LaikingDast 490",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.85 · X 3.70 · 2 1.90 (sin margen 31%/24%/46%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.85 (+5%) · Paf España 2.85 (+5%)"
-   ],
    "context": "EA FC Esoccer Battle Wboy vs LaikingDast (Serie A): goles esperados 3.47-3.61, 1X2 37%/17%/46%. Sin cuotas de casa.",
    "captured": "2026-11-17T09:04",
    "version": "c00ea49",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "key": "vp|2026-11-18|Alianza Atletico|FBC Melgar",
+   "market": "H",
+   "pick": "Alianza Atletico",
+   "odds": 2.14,
+   "book": "Smarkets",
+   "p": 0.4843,
+   "implied": 0.4843,
+   "edge": 0.0349,
+   "match": "Alianza Atletico vs FBC Melgar",
+   "start": "2026-11-18T20:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Peru - Liga 1",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.14 y el precio justo de Pinnacle es 2.07 (ventaja +3.5%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Alianza Atletico vs FBC Melgar (Peru - Liga 1). Estrategia de valor: Smarkets 2.14 frente a Pinnacle justo 2.07.",
+   "captured": "2026-11-17T09:32",
+   "version": "fb5d9ae",
    "bajas": "",
    "considered": true,
    "placed": false

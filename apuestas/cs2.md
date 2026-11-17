@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 10:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 10:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINNERS vs Nexus — 17/11 · 11:00
 
