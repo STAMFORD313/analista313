@@ -3149,5 +3149,51 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261117221454109946",
+  "creada": "2026-11-17 22:14:54.109992+00:00",
+  "titulo": "Barrido · Combinada cuota 9.8",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-18 18:00:00+00:00",
+    "home": "TROPA DO MICHA",
+    "away": "QUINTESSÊNCIA",
+    "txt": "Gana TROPA DO MICHA",
+    "odds": 1.98,
+    "p": 0.5239003367003366
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-18 19:00:00+00:00",
+    "home": "Zero Tenacity",
+    "away": "Inner Circle x Insanity",
+    "txt": "Gana Zero Tenacity",
+    "odds": 2.46,
+    "p": 0.43060271002710027
+   },
+   {
+    "src": "espn:nhl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-19 00:30:00+00:00",
+    "home": "Detroit Red Wings",
+    "away": "Boston Bruins",
+    "txt": "Gana Boston Bruins",
+    "odds": 2.02,
+    "p": 0.51072300330033
+   }
+  ],
+  "odds": 9.84,
+  "p": 0.11521548584598816,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
