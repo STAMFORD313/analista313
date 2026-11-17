@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 08:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 09:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## LaikingDast vs Wboy — 17/11 · 08:33
+## flamez vs imagin — 17/11 · 09:20
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.20** (Unibet) · prob 39% vs casas 27% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **3.50** (Unibet) · prob 33% vs casas 25% · ventaja +17%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.063 partidos)  
-Goles esperados: LaikingDast 3.39 · Wboy 3.35  
-Ganador: LaikingDast 44% · empate 18% · Wboy 39%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap LaikingDast: −1.5 28% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 71.116 partidos)  
+Goles esperados: flamez 5.05 · imagin 4.48  
+Ganador: flamez 52% · empate 14% · imagin 33%  
+Total: más de 9.5 goles 48% · menos 52%  
+Hándicap flamez: −1.5 38% · −2.5 26%  
 🔎 **Claves**  
-• Forma: LaikingDast ✅❌➖❌❌ | Wboy ❌➖❌❌✅  
-• Partidos: LaikingDast 484 | Wboy 1193  
-• Liga: World Cup A  
-• Unibet: 1 1.81 · X 3.55 · 2 3.20 (sin margen 48%/25%/27%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.20 (+24%) · Paf España 3.20 (+24%)  
+• Forma: flamez ➖✅❌✅✅ | imagin ❌❌✅✅✅  
+• Partidos: flamez 823 | imagin 306  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.40 · X 6.40 · 2 3.50 (sin margen 62%/14%/25%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.50 (+17%) · Paf España 3.50 (+17%)  
 
-## dor1an vs v1nn — 17/11 · 08:36
+## v1nn vs cl1vlind — 17/11 · 09:22
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana v1nn** @ **1.71** (Unibet) · prob 65% vs casas 51% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana v1nn** @ **2.00** (Unibet) · prob 56% vs casas 44% · ventaja +12%
 
 - ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.063 partidos)  
-Goles esperados: dor1an 2.67 · v1nn 3.87  
-Ganador: dor1an 19% · empate 15% · v1nn 65%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap v1nn: −1.5 45% · −2.5 30%  
-🔎 **Claves**  
-• Forma: dor1an ❌❌✅❌✅ | v1nn ✅❌✅❌✅  
-• Partidos: dor1an 260 | v1nn 703  
-• Liga: Europa League  
-• Unibet: 1 3.10 · X 4.25 · 2 1.71 (sin margen 28%/21%/51%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.71 (+12%) · Paf España 1.71 (+12%)  
-
-## Tesla vs Taz — 17/11 · 08:40
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **3.55** (Unibet) · prob 33% vs casas 25% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.089 partidos)  
-Goles esperados: Tesla 3.98 · Taz 3.49  
-Ganador: Tesla 50% · empate 16% · Taz 33%  
-Total: más de 7.5 goles 47% · menos 53%  
-Hándicap Tesla: −1.5 35% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 71.116 partidos)  
+Goles esperados: v1nn 3.43 · cl1vlind 2.61  
+Ganador: v1nn 56% · empate 18% · cl1vlind 26%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap v1nn: −1.5 38% · −2.5 24%  
 🔎 **Claves**  
-• Forma: Tesla ➖✅✅❌✅ | Taz ✅❌➖❌✅  
-• Partidos: Tesla 1171 | Taz 1125  
-• Liga: Ligue 1  
-• Unibet: 1 1.66 · X 3.85 · 2 3.55 (sin margen 53%/23%/25%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.55 (+18%) · Paf España 3.55 (+18%)  
+• Forma: v1nn ✅❌➖➖➖ | cl1vlind ❌➖➖❌✅  
+• Partidos: v1nn 707 | cl1vlind 712  
+• Liga: Champions League AFC  
+• Unibet: 1 2.00 · X 4.70 · 2 2.32 (sin margen 44%/19%/38%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+12%) · Paf España 2.00 (+12%)  
 
-## mko1919 vs Wboy — 17/11 · 08:55
+## zoyir vs Frantsuz — 17/11 · 09:38
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **3.80** (Unibet) · prob 31% vs casas 23% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **2.35** (Unibet) · prob 49% vs casas 37% · ventaja +15%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.089 partidos)  
-Goles esperados: mko1919 3.26 · Wboy 3.93  
-Ganador: mko1919 31% · empate 17% · Wboy 52%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Wboy: −1.5 37% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 71.116 partidos)  
+Goles esperados: zoyir 4.48 · Frantsuz 4.15  
+Ganador: zoyir 49% · empate 15% · Frantsuz 36%  
+Total: más de 8.5 goles 49% · menos 51%  
+Hándicap zoyir: −1.5 34% · −2.5 23%  
 🔎 **Claves**  
-• Forma: mko1919 ✅➖➖❌✅ | Wboy ➖❌❌✅✅  
-• Partidos: mko1919 1285 | Wboy 1194  
-• Liga: Serie A  
-• Unibet: 1 3.80 · X 4.20 · 2 1.58 (sin margen 23%/21%/56%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+18%) · Paf España 3.80 (+18%)  
+• Forma: zoyir ➖❌➖❌❌ | Frantsuz ✅➖❌❌➖  
+• Partidos: zoyir 616 | Frantsuz 709  
+• Liga: Champions League A 2x6  
+• Unibet: 1 2.35 · X 4.80 · 2 1.96 (sin margen 37%/18%/45%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+15%) · Paf España 2.35 (+15%)  
 
