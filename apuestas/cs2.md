@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 12:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## INFINITE vs MOUZ NXT — 17/11 · 12:30
-
-👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana MOUZ NXT** @ **2.80** (Thunderpick) · prob 35% vs casas 33% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.902 partidos)  
-Mapa: INFINITE 58% · Serie BO3: INFINITE 62% - 38% MOUZ NXT  
-Casas: INFINITE 67% · MOUZ NXT 33%  
-🔎 **Claves**  
-• Elo: INFINITE 1635 (191 series) | MOUZ NXT 1546 (608 series)  
-• Forma: INFINITE ✅❌❌❌❌ | MOUZ NXT ✅❌❌✅❌  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 10 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• INFINITE gana 2-1: 25% → cuota justa 4.06 · casa 28%  
-• MOUZ NXT gana 2-1: 18% → cuota justa 5.68 · casa 16%  
+Actualizado 17/11/2026 12:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ex-RUSTEC vs Illyrians — 17/11 · 13:00
 
