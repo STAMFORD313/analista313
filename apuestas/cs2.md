@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 21:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## arroba vs RED Canids Academy — 17/11 · 22:00
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana RED Canids Academy** @ **1.40** (Thunderpick) · prob 76% vs casas 66% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: arroba 23% · Serie BO3: arroba 14% - 86% RED Canids Academy  
-Casas: arroba 34% · RED Canids Academy 66%  
-🔎 **Claves**  
-• Elo: arroba 1310 (1 series) | RED Canids Academy 1626 (138 series)  
-• Forma: arroba ❌ | RED Canids Academy ❌❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• arroba gana 2-1: 6% → cuota justa 16.22  
-• RED Canids Academy gana 2-1: 20% → cuota justa 4.96  
-
-## QUINTESSÊNCIA vs Underworld — 17/11 · 22:00
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Underworld** @ **2.90** (Thunderpick) · prob 33% vs casas 32% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: QUINTESSÊNCIA 61% · Serie BO3: QUINTESSÊNCIA 66% - 34% Underworld  
-Casas: QUINTESSÊNCIA 68% · Underworld 32%  
-🔎 **Claves**  
-• Elo: QUINTESSÊNCIA 1513 (70 series) | Underworld 1394 (19 series)  
-• Forma: QUINTESSÊNCIA ✅❌✅❌❌ | Underworld ❌✅❌❌❌  
-• H2H: 2: 1-1  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• QUINTESSÊNCIA gana 2-1: 25% → cuota justa 4.01  
-• Underworld gana 2-1: 16% → cuota justa 6.26  
+Actualizado 17/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ALKA vs Los Niños — 18/11 · 00:45
 
@@ -212,4 +172,24 @@ Casas: Al Ahli 54% · NoTime 46%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## Walczaki vs KUUSAMO — 19/11 · 10:00
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 15 Play-In · **Gana KUUSAMO** @ **4.00** (Thunderpick) · prob 25% vs casas 23% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.000 partidos)  
+Mapa: Walczaki 66% · Serie BO3: Walczaki 73% - 27% KUUSAMO  
+Casas: Walczaki 77% · KUUSAMO 23%  
+🔎 **Claves**  
+• Elo: Walczaki 1617 (67 series) | KUUSAMO 1441 (151 series)  
+• Forma: Walczaki ❌❌✅✅❌ | KUUSAMO ❌✅✅❌✅  
+• H2H: sin precedentes  
+• Torneo: CCT Europe 2026 Series 15 Play-In (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Walczaki gana 2-1: 25% → cuota justa 4.06 · casa 26%  
+• KUUSAMO gana 2-1: 13% → cuota justa 7.82 · casa 11%  
 

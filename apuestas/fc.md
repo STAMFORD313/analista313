@@ -1,82 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 21:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## believer vs Kavviro — 17/11 · 22:07
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Kavviro** @ **3.00** (Unibet) · prob 37% vs casas 29% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.800 partidos)  
-Goles esperados: believer 2.22 · Kavviro 2.15  
-Ganador: believer 40% · empate 23% · Kavviro 37%  
-Total: más de 4.5 goles 44% · menos 56%  
-Hándicap believer: −1.5 24% · −2.5 12%  
-🔎 **Claves**  
-• Forma: believer ✅✅✅✅✅ | Kavviro ❌✅✅❌❌  
-• Partidos: believer 1205 | Kavviro 946  
-• Liga: World Cup A  
-• Unibet: 1 1.87 · X 3.55 · 2 3.00 (sin margen 47%/24%/29%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+12%) · Paf España 3.00 (+12%)  
-
-## mPm vs Shinobu — 17/11 · 22:08
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.77** (Unibet) · prob 67% vs casas 50% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.788 partidos)  
-Goles esperados: mPm 3.74 · Shinobu 2.50  
-Ganador: mPm 67% · empate 15% · Shinobu 18%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap mPm: −1.5 45% · −2.5 30%  
-🔎 **Claves**  
-• Forma: mPm ✅✅❌✅✅ | Shinobu ➖❌❌➖➖  
-• Partidos: mPm 843 | Shinobu 1582  
-• Liga: Copa America  
-• Unibet: 1 1.77 · X 5.25 · 2 2.60 (sin margen 50%/17%/34%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.77 (+18%) · Paf España 1.77 (+18%)  
-
-## ramzes vs saportj — 17/11 · 22:08
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana saportj** @ **2.06** (Unibet) · prob 57% vs casas 42% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.800 partidos)  
-Goles esperados: ramzes 2.69 · saportj 3.53  
-Ganador: ramzes 26% · empate 17% · saportj 57%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap saportj: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: ramzes ❌✅❌➖❌ | saportj ✅✅✅➖✅  
-• Partidos: ramzes 1194 | saportj 994  
-• Liga: Copa America  
-• Unibet: 1 2.15 · X 5.20 · 2 2.06 (sin margen 41%/17%/42%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.06 (+17%) · Paf España 2.06 (+17%)  
-
-## Kavviro vs kkikus — 17/11 · 22:19
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **11.00** (Unibet) · prob 13% vs casas 8% · ventaja +44%
-
-- ❌ Valor: ventaja +44% (mín. 19% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.788 partidos)  
-Goles esperados: Kavviro 3.48 · kkikus 1.39  
-Ganador: Kavviro 78% · empate 13% · kkikus 9%  
-Total: más de 4.5 goles 54% · menos 46%  
-Hándicap Kavviro: −1.5 60% · −2.5 41%  
-🔎 **Claves**  
-• Forma: Kavviro ❌✅✅❌❌ | kkikus ➖❌❌✅➖  
-• Partidos: Kavviro 946 | kkikus 1090  
-• Liga: World Cup A  
-• Unibet: 1 1.04 · X 11.00 · 2 12.00 (sin margen 85%/8%/7%) · ventaja +44%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 11.00 (+44%) · Paf España 11.00 (+44%)  
+Actualizado 17/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RossFCDK vs OG — 17/11 · 22:34
 
@@ -96,4 +20,61 @@ Hándicap OG: −1.5 26% · −2.5 13%
 • Liga: Portugal Primera  
 • Unibet: 1 2.20 · X 2.85 · 2 2.85 (sin margen 39%/30%/30%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.85 (+20%) · Paf España 2.85 (+20%)  
+
+## OG vs hotShot — 17/11 · 22:46
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana hotShot** @ **2.40** (Unibet) · prob 49% vs casas 36% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.818 partidos)  
+Goles esperados: OG 2.17 · hotShot 2.56  
+Ganador: OG 29% · empate 22% · hotShot 49%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
+🔎 **Claves**  
+• Forma: OG ❌❌❌➖❌ | hotShot ❌✅❌➖✅  
+• Partidos: OG 616 | hotShot 612  
+• Liga: Portugal Primera  
+• Unibet: 1 3.25 · X 2.32 · 2 2.40 (sin margen 27%/37%/36%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+19%) · Paf España 2.40 (+19%)  
+
+## R0ge vs DangerDim77 — 17/11 · 22:46
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **5.30** (Unibet) · prob 20% vs casas 16% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.818 partidos)  
+Goles esperados: R0ge 2.61 · DangerDim77 2.75  
+Ganador: R0ge 38% · empate 21% · DangerDim77 42%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap DangerDim77: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: R0ge ❌✅❌✅✅ | DangerDim77 ✅✅❌❌✅  
+• Partidos: R0ge 638 | DangerDim77 632  
+• Liga: Portugal Primera  
+• Unibet: 1 2.02 · X 5.30 · 2 2.17 (sin margen 43%/16%/40%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.30 (+9%) · Paf España 5.30 (+9%)  
+
+## hotShot vs RossFCDK — 17/11 · 22:58
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana hotShot** @ **2.43** (Unibet) · prob 50% vs casas 36% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.818 partidos)  
+Goles esperados: hotShot 2.33 · RossFCDK 1.90  
+Ganador: hotShot 50% · empate 23% · RossFCDK 27%  
+Total: más de 4.5 goles 42% · menos 58%  
+Hándicap hotShot: −1.5 29% · −2.5 15%  
+🔎 **Claves**  
+• Forma: hotShot ❌✅❌➖✅ | RossFCDK ✅❌✅✅❌  
+• Partidos: hotShot 612 | RossFCDK 579  
+• Liga: Portugal Primera  
+• Unibet: 1 2.43 · X 2.10 · 2 3.75 (sin margen 36%/41%/23%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.43 (+22%) · Paf España 2.43 (+22%)  
 
