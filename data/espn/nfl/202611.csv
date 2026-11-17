@@ -1,43 +1,43 @@
 id,date,event,home,away,hs,as,res
-401873038,1993-01-31T23:30Z,Cincinnati Bengals at Atlanta Falcons,Atlanta Falcons,Cincinnati Bengals,17,34,0.0
-401873058,1993-01-31T23:30Z,Kansas City Chiefs at Atlanta Falcons,Atlanta Falcons,Kansas City Chiefs,13,35,0.0
-401873026,1993-01-31T23:30Z,Baltimore Ravens at Buffalo Bills,Buffalo Bills,Baltimore Ravens,36,10,1.0
-401873050,1993-01-31T23:30Z,Tampa Bay Buccaneers at Chicago Bears,Chicago Bears,Tampa Bay Buccaneers,27,24,1.0
-401873031,1993-01-31T23:30Z,Tennessee Titans at Cincinnati Bengals,Cincinnati Bengals,Tennessee Titans,43,36,1.0
-401873064,1993-01-31T23:30Z,Pittsburgh Steelers at Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers,38,18,1.0
-401873056,1993-01-31T23:30Z,Houston Texans at Cleveland Browns,Cleveland Browns,Houston Texans,27,24,1.0
+401873026,2026-11-01T18:00Z,Baltimore Ravens at Buffalo Bills,Buffalo Bills,Baltimore Ravens,36,10,1.0
+401873031,2026-11-01T18:00Z,Tennessee Titans at Cincinnati Bengals,Cincinnati Bengals,Tennessee Titans,43,36,1.0
 401873024,1993-01-31T23:30Z,Arizona Cardinals at Dallas Cowboys,Dallas Cowboys,Arizona Cardinals,30,33,0.0
-401873063,1993-01-31T23:30Z,San Francisco 49ers at Dallas Cowboys,Dallas Cowboys,San Francisco 49ers,40,46,0.0
-401873033,1993-01-31T23:30Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,28,24,1.0
 401873030,1993-01-31T23:30Z,Minnesota Vikings at Detroit Lions,Detroit Lions,Minnesota Vikings,19,15,1.0
-401873053,1993-01-31T23:30Z,New England Patriots at Detroit Lions,Detroit Lions,New England Patriots,35,10,1.0
-401873060,1993-01-31T23:30Z,Minnesota Vikings at Green Bay Packers,Green Bay Packers,Minnesota Vikings,10,30,0.0
-401873057,1993-01-31T23:30Z,Jacksonville Jaguars at Tennessee Titans,Tennessee Titans,Jacksonville Jaguars,23,40,0.0
-401873040,1993-01-31T23:30Z,Dallas Cowboys at Indianapolis Colts,Indianapolis Colts,Dallas Cowboys,23,27,0.0
-401873059,1993-01-31T23:30Z,Miami Dolphins at Indianapolis Colts,Indianapolis Colts,Miami Dolphins,24,22,1.0
-401873045,1993-01-31T23:30Z,New York Jets at Kansas City Chiefs,Kansas City Chiefs,New York Jets,35,12,1.0
-401873062,1993-01-31T23:30Z,Seattle Seahawks at Las Vegas Raiders,Las Vegas Raiders,Seattle Seahawks,13,21,0.0
-401873032,1993-01-31T23:30Z,Los Angeles Chargers at Los Angeles Rams,Los Angeles Rams,Los Angeles Chargers,24,9,1.0
-401873034,1993-01-31T23:30Z,New England Patriots at Miami Dolphins,Miami Dolphins,New England Patriots,19,24,0.0
-401873042,1993-01-31T23:30Z,Detroit Lions at Miami Dolphins,Miami Dolphins,Detroit Lions,9,19,0.0
-401873051,1993-01-31T23:30Z,Buffalo Bills at Minnesota Vikings,Minnesota Vikings,Buffalo Bills,6,23,0.0
-401873049,1993-01-31T23:30Z,Green Bay Packers at New England Patriots,New England Patriots,Green Bay Packers,27,45,0.0
-401873039,1993-01-31T23:30Z,Cleveland Browns at New Orleans Saints,New Orleans Saints,Cleveland Browns,23,22,1.0
-401873055,1993-01-31T23:30Z,Carolina Panthers at New Orleans Saints,New Orleans Saints,Carolina Panthers,17,20,0.0
-401873052,1993-01-31T23:30Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,21,24,0.0
 401873029,1993-01-31T23:30Z,Las Vegas Raiders at New York Jets,New York Jets,Las Vegas Raiders,33,38,0.0
-401873054,1993-01-31T23:30Z,Buffalo Bills at New York Jets,New York Jets,Buffalo Bills,12,31,0.0
-401873044,1993-01-31T23:30Z,New York Giants at Philadelphia Eagles,Philadelphia Eagles,New York Giants,11,19,0.0
-401873061,1993-01-31T23:30Z,Los Angeles Rams at Arizona Cardinals,Arizona Cardinals,Los Angeles Rams,6,34,0.0
-401873027,1993-01-31T23:30Z,Cleveland Browns at Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,27,6,1.0
-401873046,1993-01-31T23:30Z,Houston Texans at Los Angeles Chargers,Los Angeles Chargers,Houston Texans,22,44,0.0
-401873047,1993-01-31T23:30Z,Las Vegas Raiders at San Francisco 49ers,San Francisco 49ers,Las Vegas Raiders,38,17,1.0
-401873036,1993-01-31T23:30Z,Chicago Bears at Seattle Seahawks,Seattle Seahawks,Chicago Bears,17,34,0.0
-401873048,1993-01-31T23:30Z,Arizona Cardinals at Seattle Seahawks,Seattle Seahawks,Arizona Cardinals,17,3,1.0
+401873027,2026-11-01T18:00Z,Cleveland Browns at Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,27,6,1.0
 401873025,1993-01-31T23:30Z,Atlanta Falcons at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,16,0,1.0
-401873035,1993-01-31T23:30Z,Philadelphia Eagles at Washington Commanders,Washington Commanders,Philadelphia Eagles,27,10,1.0
-401873043,1993-01-31T23:30Z,Los Angeles Rams at Washington Commanders,Washington Commanders,Los Angeles Rams,13,20,0.0
-401873041,1993-01-31T23:30Z,Denver Broncos at Carolina Panthers,Carolina Panthers,Denver Broncos,21,26,0.0
 401873028,1993-01-31T23:30Z,Indianapolis Colts at Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts,42,7,1.0
+401873032,1993-01-31T23:30Z,Los Angeles Chargers at Los Angeles Rams,Los Angeles Rams,Los Angeles Chargers,24,9,1.0
+401873033,2026-11-01T21:25Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,28,24,1.0
+401873034,1993-01-31T23:30Z,New England Patriots at Miami Dolphins,Miami Dolphins,New England Patriots,19,24,0.0
+401873035,2026-11-02T01:20Z,Philadelphia Eagles at Washington Commanders,Washington Commanders,Philadelphia Eagles,27,10,1.0
+401873036,1993-01-31T23:30Z,Chicago Bears at Seattle Seahawks,Seattle Seahawks,Chicago Bears,17,34,0.0
 401873037,1993-01-31T23:30Z,Jacksonville Jaguars at Baltimore Ravens,Baltimore Ravens,Jacksonville Jaguars,10,33,0.0
-401873065,1993-01-31T23:30Z,Los Angeles Chargers at Baltimore Ravens,Baltimore Ravens,Los Angeles Chargers,20,23,0.0
+401873038,1993-01-31T23:30Z,Cincinnati Bengals at Atlanta Falcons,Atlanta Falcons,Cincinnati Bengals,17,34,0.0
+401873040,1993-01-31T23:30Z,Dallas Cowboys at Indianapolis Colts,Indianapolis Colts,Dallas Cowboys,23,27,0.0
+401873045,1993-01-31T23:30Z,New York Jets at Kansas City Chiefs,Kansas City Chiefs,New York Jets,35,12,1.0
+401873042,1993-01-31T23:30Z,Detroit Lions at Miami Dolphins,Miami Dolphins,Detroit Lions,9,19,0.0
+401873039,2026-11-08T18:00Z,Cleveland Browns at New Orleans Saints,New Orleans Saints,Cleveland Browns,23,22,1.0
+401873044,1993-01-31T23:30Z,New York Giants at Philadelphia Eagles,Philadelphia Eagles,New York Giants,11,19,0.0
+401873043,2026-11-08T18:00Z,Los Angeles Rams at Washington Commanders,Washington Commanders,Los Angeles Rams,13,20,0.0
+401873041,2026-11-08T18:00Z,Denver Broncos at Carolina Panthers,Carolina Panthers,Denver Broncos,21,26,0.0
+401873046,1993-01-31T23:30Z,Houston Texans at Los Angeles Chargers,Los Angeles Chargers,Houston Texans,22,44,0.0
+401873049,2026-11-08T21:25Z,Green Bay Packers at New England Patriots,New England Patriots,Green Bay Packers,27,45,0.0
+401873047,2026-11-08T21:25Z,Las Vegas Raiders at San Francisco 49ers,San Francisco 49ers,Las Vegas Raiders,38,17,1.0
+401873048,2026-11-08T21:25Z,Arizona Cardinals at Seattle Seahawks,Seattle Seahawks,Arizona Cardinals,17,3,1.0
+401873050,2026-11-09T01:20Z,Tampa Bay Buccaneers at Chicago Bears,Chicago Bears,Tampa Bay Buccaneers,27,24,1.0
+401873051,2026-11-10T01:15Z,Buffalo Bills at Minnesota Vikings,Minnesota Vikings,Buffalo Bills,6,23,0.0
+401873052,1993-01-31T23:30Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,21,24,0.0
+401873053,1993-01-31T23:30Z,New England Patriots at Detroit Lions,Detroit Lions,New England Patriots,35,10,1.0
+401873058,1993-01-31T23:30Z,Kansas City Chiefs at Atlanta Falcons,Atlanta Falcons,Kansas City Chiefs,13,35,0.0
+401873056,2026-11-15T18:00Z,Houston Texans at Cleveland Browns,Cleveland Browns,Houston Texans,27,24,1.0
+401873060,2026-11-15T18:00Z,Minnesota Vikings at Green Bay Packers,Green Bay Packers,Minnesota Vikings,10,30,0.0
+401873057,2026-11-15T18:00Z,Jacksonville Jaguars at Tennessee Titans,Tennessee Titans,Jacksonville Jaguars,23,40,0.0
+401873059,2026-11-15T18:00Z,Miami Dolphins at Indianapolis Colts,Indianapolis Colts,Miami Dolphins,24,22,1.0
+401873055,2026-11-15T18:00Z,Carolina Panthers at New Orleans Saints,New Orleans Saints,Carolina Panthers,17,20,0.0
+401873054,2026-11-15T18:00Z,Buffalo Bills at New York Jets,New York Jets,Buffalo Bills,12,31,0.0
+401873062,1993-01-31T23:30Z,Seattle Seahawks at Las Vegas Raiders,Las Vegas Raiders,Seattle Seahawks,13,21,0.0
+401873061,2026-11-15T21:05Z,Los Angeles Rams at Arizona Cardinals,Arizona Cardinals,Los Angeles Rams,6,34,0.0
+401873063,2026-11-15T21:25Z,San Francisco 49ers at Dallas Cowboys,Dallas Cowboys,San Francisco 49ers,40,46,0.0
+401873064,1993-01-31T23:30Z,Pittsburgh Steelers at Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers,38,18,1.0
+401873065,2026-11-17T01:15Z,Los Angeles Chargers at Baltimore Ravens,Baltimore Ravens,Los Angeles Chargers,20,23,0.0

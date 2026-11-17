@@ -71812,3 +71812,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2384520,262257,Bologna,Roma,,
 2384521,262257,Napoli,Bologna,,
 2384522,262257,Sassuolo,Juventus,,
+2384121,262235,Atleti,Paris,3,0
+2384122,262235,Real Madrid,Liverpool,1,3
+2384123,262235,Liverpool,Atleti,1,1
+2384124,262235,Paris,Bayern Munchen,2,4
+2384125,262235,Bayern Munchen,Liverpool,3,1
+2384126,262235,Atleti,Real Madrid,3,0
+2384127,262235,Real Madrid,Bayern Munchen,,
+2384128,262235,Liverpool,Paris,,
+2384129,262235,Paris,Real Madrid,,
+2384130,262235,Bayern Munchen,Atleti,,
+2384131,262235,Paris,Atleti,,
+2384132,262235,Liverpool,Real Madrid,,
+2384133,262235,Atleti,Liverpool,,
+2384134,262235,Bayern Munchen,Paris,,
+2384135,262235,Liverpool,Bayern Munchen,,
+2384136,262235,Real Madrid,Atleti,,
+2384137,262235,Bayern Munchen,Real Madrid,,
+2384138,262235,Paris,Liverpool,,
+2384139,262235,Real Madrid,Paris,,
+2384140,262235,Atleti,Bayern Munchen,,
+2384441,262267,Ecuador,Argentina,1,1
+2384442,262267,Colombia,Brazil,1,3
+2384443,262267,Brazil,Ecuador,2,1
+2384444,262267,Argentina,Uruguay,2,3
+2384445,262267,Uruguay,Brazil,3,1
+2384446,262267,Ecuador,Colombia,1,2
+2384447,262267,Colombia,Uruguay,,
+2384448,262267,Brazil,Argentina,,
+2384449,262267,Argentina,Colombia,,
+2384450,262267,Uruguay,Ecuador,,
+2384685,262293,Man City,Arsenal,3,4
+2384686,262293,B Dortmund,Juventus,4,1
+2384687,262293,Juventus,Man City,0,4
+2384688,262293,Arsenal,Sporting CP,3,2
+2384689,262293,Sporting CP,Juventus,,
+2384690,262293,Man City,B Dortmund,,
+2384691,262293,B Dortmund,Sporting CP,,
+2384692,262293,Juventus,Arsenal,,
+2384693,262293,Arsenal,B Dortmund,,
+2384694,262293,Sporting CP,Man City,,
