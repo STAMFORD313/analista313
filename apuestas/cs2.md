@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 00:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ALKA vs Los Niños — 18/11 · 00:45
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Los Niños** @ **2.50** (Thunderpick) · prob 42% vs casas 37% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: ALKA 53% · Serie BO3: ALKA 54% - 46% Los Niños  
-Casas: ALKA 63% · Los Niños 37%  
-🔎 **Claves**  
-• Elo: ALKA 1501 (103 series) | Los Niños 1473 (10 series)  
-• Forma: ALKA ❌✅❌✅✅ | Los Niños ✅✅❌✅✅  
-• H2H: 1: 0-1  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ALKA gana 2-1: 23% → cuota justa 4.33  
-• Los Niños gana 2-1: 21% → cuota justa 4.81  
-
-## DISFARÇADOS vs paiN Academy — 18/11 · 00:45
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana DISFARÇADOS** @ **2.70** (Thunderpick) · prob 55% vs casas 34% · ventaja +48%
-
-- ❌ Valor: ventaja +48% (mín. 19% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: DISFARÇADOS 68% · Serie BO3: DISFARÇADOS 75% - 25% paiN Academy  
-Casas: DISFARÇADOS 34% · paiN Academy 66%  
-🔎 **Claves**  
-• Elo: DISFARÇADOS 1642 (1 series) | paiN Academy 1445 (322 series)  
-• Forma: DISFARÇADOS ✅ | paiN Academy ❌❌❌❌✅  
-• H2H: sin precedentes  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• DISFARÇADOS gana 2-1: 24% → cuota justa 4.12  
-• paiN Academy gana 2-1: 12% → cuota justa 8.60  
+Actualizado 18/11/2026 00:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs PCIFIC — 18/11 · 10:00
 
@@ -192,4 +152,24 @@ Casas: Walczaki 77% · KUUSAMO 23%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Walczaki gana 2-1: 25% → cuota justa 4.06 · casa 26%  
 • KUUSAMO gana 2-1: 13% → cuota justa 7.82 · casa 11%  
+
+## WBT vs MOUZ NXT — 19/11 · 12:30
+
+👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana MOUZ NXT** @ **3.80** (Thunderpick) · prob 28% vs casas 24% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.003 partidos)  
+Mapa: WBT 63% · Serie BO3: WBT 69% - 31% MOUZ NXT  
+Casas: WBT 76% · MOUZ NXT 24%  
+🔎 **Claves**  
+• Elo: WBT 1720 (60 series) | MOUZ NXT 1576 (610 series)  
+• Forma: WBT ❌✅❌❌✅ | MOUZ NXT ❌✅❌✅✅  
+• H2H: 1: 1-0  
+• Torneo: European Pro League Series 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• WBT gana 2-1: 25% → cuota justa 4.01 · casa 27%  
+• MOUZ NXT gana 2-1: 15% → cuota justa 6.87 · casa 12%  
 
