@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 18:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 18:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## mPm vs saportj — 17/11 · 18:26
+## SDI vs Shinobu — 17/11 · 19:22
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **6.25** (Unibet) · prob 20% vs casas 14% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana SDI** @ **3.10** (Unibet) · prob 42% vs casas 28% · ventaja +29%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +29% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.603 partidos)  
-Goles esperados: mPm 2.94 · saportj 2.78  
-Ganador: mPm 37% · empate 20% · saportj 43%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap mPm: −1.5 28% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 71.635 partidos)  
+Goles esperados: SDI 3.09 · Shinobu 3.17  
+Ganador: SDI 42% · empate 19% · Shinobu 40%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Shinobu: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: mPm ✅❌✅✅❌ | saportj ✅❌❌❌✅  
-• Partidos: mPm 831 | saportj 981  
-• Liga: A-League  
-• Unibet: 1 2.04 · X 6.25 · 2 2.05 (sin margen 43%/14%/43%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.25 (+23%) · Paf España 6.25 (+23%)  
+• Forma: SDI ➖❌✅❌✅ | Shinobu ❌➖❌❌❌  
+• Partidos: SDI 660 | Shinobu 1572  
+• Liga: Copa America  
+• Unibet: 1 3.10 · X 5.60 · 2 1.58 (sin margen 28%/16%/56%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+29%) · Paf España 3.10 (+29%)  
 
-## Buu vs cappo — 17/11 · 18:26
+## ramzes vs mPm — 17/11 · 19:22
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Empate** @ **9.00** (Unibet) · prob 13% vs casas 10% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.80** (Unibet) · prob 61% vs casas 49% · ventaja +10%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.603 partidos)  
-Goles esperados: Buu 5.23 · cappo 3.87  
-Ganador: Buu 63% · empate 13% · cappo 24%  
-Total: más de 9.5 goles 43% · menos 57%  
-Hándicap Buu: −1.5 48% · −2.5 35%  
+📊 **Escenarios** (Poisson por jugador, 71.635 partidos)  
+Goles esperados: ramzes 2.98 · mPm 4.04  
+Ganador: ramzes 23% · empate 16% · mPm 61%  
+Total: más de 7.5 goles 40% · menos 60%  
+Hándicap mPm: −1.5 43% · −2.5 29%  
 🔎 **Claves**  
-• Forma: Buu ❌✅❌✅❌ | cappo ✅➖✅➖❌  
-• Partidos: Buu 863 | cappo 437  
-• Liga: Champions League B 2x6  
-• Unibet: 1 1.43 · X 9.00 · 2 3.00 (sin margen 61%/10%/29%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 9.00 (+19%) · Paf España 9.00 (+19%)  
-
-## Shinobu vs mPm — 17/11 · 18:38
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **6.25** (Unibet) · prob 19% vs casas 14% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.603 partidos)  
-Goles esperados: Shinobu 2.35 · mPm 3.33  
-Ganador: Shinobu 29% · empate 19% · mPm 52%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap mPm: −1.5 41% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Shinobu ❌✅❌➖❌ | mPm ✅❌✅✅❌  
-• Partidos: Shinobu 1570 | mPm 831  
-• Liga: A-League  
-• Unibet: 1 2.90 · X 6.25 · 2 1.54 (sin margen 30%/14%/56%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.25 (+18%) · Paf España 6.25 (+18%)  
+• Forma: ramzes ✅➖✅❌❌ | mPm ✅❌✅✅✅  
+• Partidos: ramzes 1184 | mPm 834  
+• Liga: Copa America  
+• Unibet: 1 2.50 · X 5.50 · 2 1.80 (sin margen 35%/16%/49%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.80 (+10%) · Paf España 1.80 (+10%)  
 

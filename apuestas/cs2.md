@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 18:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 18:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs boyband — 17/11 · 19:00
 
