@@ -70778,14 +70778,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2382710,262150,Man City,Liverpool,,
 2382711,262150,Arsenal,Man City,,
 2382712,262150,Chelsea,Tottenham,,
-2382473,262189,Spain,Brazil,0,1
-2382474,262189,France,Argentina,0,3
-2382475,262189,Argentina,Spain,2,0
-2382476,262189,Brazil,England,1,0
-2382477,262189,England,Argentina,2,2
-2382478,262189,Spain,France,1,2
-2382479,262189,France,England,2,3
-2382480,262189,Argentina,Brazil,2,0
+2382473,262189,Spain,Brazil,0.0,1.0
+2382474,262189,France,Argentina,0.0,3.0
+2382475,262189,Argentina,Spain,2.0,0.0
+2382476,262189,Brazil,England,1.0,0.0
+2382477,262189,England,Argentina,2.0,2.0
+2382478,262189,Spain,France,1.0,2.0
+2382479,262189,France,England,2.0,3.0
+2382480,262189,Argentina,Brazil,2.0,0.0
 2382481,262189,Brazil,France,,
 2382482,262189,England,Spain,,
 2382483,262189,Brazil,Spain,,
@@ -70798,16 +70798,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2382490,262189,Brazil,Argentina,,
 2382491,262189,France,Brazil,,
 2382492,262189,Spain,England,,
-2382833,262202,Bologna,Napoli,0,2
-2382834,262202,Juventus,Sassuolo,0,1
-2382835,262202,Sassuolo,Bologna,2,2
-2382836,262202,Napoli,Roma,1,1
-2382837,262202,Roma,Sassuolo,4,0
-2382838,262202,Bologna,Juventus,2,0
-2382839,262202,Juventus,Roma,0,2
-2382840,262202,Sassuolo,Napoli,0,0
-2382841,262202,Napoli,Juventus,2,2
-2382842,262202,Roma,Bologna,2,0
+2382833,262202,Bologna,Napoli,0.0,2.0
+2382834,262202,Juventus,Sassuolo,0.0,1.0
+2382835,262202,Sassuolo,Bologna,2.0,2.0
+2382836,262202,Napoli,Roma,1.0,1.0
+2382837,262202,Roma,Sassuolo,4.0,0.0
+2382838,262202,Bologna,Juventus,2.0,0.0
+2382839,262202,Juventus,Roma,0.0,2.0
+2382840,262202,Sassuolo,Napoli,0.0,0.0
+2382841,262202,Napoli,Juventus,2.0,2.0
+2382842,262202,Roma,Bologna,2.0,0.0
 2382843,262202,Napoli,Bologna,,
 2382844,262202,Sassuolo,Juventus,,
 2382845,262202,Bologna,Sassuolo,,
@@ -70818,3 +70818,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2382850,262202,Napoli,Sassuolo,,
 2382851,262202,Juventus,Napoli,,
 2382852,262202,Bologna,Roma,,
+2383415,262184,Boca Juniors,Paris,2,2
+2383416,262184,Man City,River Plate,4,2
+2383417,262184,River Plate,Boca Juniors,0,2
+2383418,262184,Paris,Real Madrid,1,0
+2383419,262184,Real Madrid,River Plate,2,2
+2383420,262184,Boca Juniors,Man City,3,2
+2383421,262184,Man City,Real Madrid,1,1
+2383422,262184,River Plate,Paris,1,0
+2383423,262184,Paris,Man City,0,1
+2383424,262184,Real Madrid,Boca Juniors,3,0
+2383425,262184,Paris,Boca Juniors,,
+2383426,262184,River Plate,Man City,,
+2383427,262184,Boca Juniors,River Plate,,
+2383428,262184,Real Madrid,Paris,,
+2383429,262184,River Plate,Real Madrid,,
+2383430,262184,Man City,Boca Juniors,,
+2383431,262184,Real Madrid,Man City,,
+2383432,262184,Paris,River Plate,,
+2383433,262184,Man City,Paris,,
+2383434,262184,Boca Juniors,Real Madrid,,
