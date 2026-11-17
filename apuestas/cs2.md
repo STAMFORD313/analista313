@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 12:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 12:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ex-RUSTEC vs Illyrians — 17/11 · 13:00
 

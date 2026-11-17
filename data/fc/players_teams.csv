@@ -71336,16 +71336,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2384812,262285,Argentina,Brazil,,
 2384813,262285,France,Argentina,,
 2384814,262285,England,Spain,,
-2383921,262245,Stuttgart,Leipzig,3,0
-2383922,262245,Frankfurt,Bayern Munchen,0,2
-2383923,262245,Bayern Munchen,Stuttgart,0,2
-2383924,262245,Leipzig,B Dortmund,2,3
-2383925,262245,B Dortmund,Bayern Munchen,0,2
-2383926,262245,Stuttgart,Frankfurt,2,1
-2383927,262245,Frankfurt,B Dortmund,0,2
-2383928,262245,Bayern Munchen,Leipzig,0,2
-2383929,262245,Leipzig,Frankfurt,1,3
-2383930,262245,B Dortmund,Stuttgart,3,0
+2383921,262245,Stuttgart,Leipzig,3.0,0.0
+2383922,262245,Frankfurt,Bayern Munchen,0.0,2.0
+2383923,262245,Bayern Munchen,Stuttgart,0.0,2.0
+2383924,262245,Leipzig,B Dortmund,2.0,3.0
+2383925,262245,B Dortmund,Bayern Munchen,0.0,2.0
+2383926,262245,Stuttgart,Frankfurt,2.0,1.0
+2383927,262245,Frankfurt,B Dortmund,0.0,2.0
+2383928,262245,Bayern Munchen,Leipzig,0.0,2.0
+2383929,262245,Leipzig,Frankfurt,1.0,3.0
+2383930,262245,B Dortmund,Stuttgart,3.0,0.0
 2383931,262245,Leipzig,Stuttgart,,
 2383932,262245,Bayern Munchen,Frankfurt,,
 2383933,262245,Stuttgart,Bayern Munchen,,
