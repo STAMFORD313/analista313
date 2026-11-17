@@ -3011,5 +3011,51 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261117075056392010",
+  "creada": "2026-11-17 07:50:56.392051+00:00",
+  "titulo": "Barrido · Combinada cuota 7.2",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-17 16:00:00+00:00",
+    "home": "Falcons Force",
+    "away": "Fire Flux",
+    "txt": "Gana Fire Flux",
+    "odds": 2.5,
+    "p": 0.4331666666666666
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-17 18:00:00+00:00",
+    "home": "Y23",
+    "away": "Fortress",
+    "txt": "Gana Y23",
+    "odds": 1.83,
+    "p": 0.6069987249544625
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-18 17:00:00+00:00",
+    "home": "CyberHero",
+    "away": "Inner Circle x Insanity",
+    "txt": "Gana CyberHero",
+    "odds": 1.58,
+    "p": 0.6565409282700421
+   }
+  ],
+  "odds": 7.23,
+  "p": 0.1726253661630883,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
