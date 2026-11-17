@@ -1,66 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 19:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## GamerLegion vs Luminosity — 17/11 · 19:30
-
-👀 candidata · 🎮 CS2 · Stake Ranked Episode 6 · **Gana GamerLegion** @ **1.65** (Thunderpick) · prob 58% vs casas 56% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: GamerLegion 58% · Serie BO3: GamerLegion 61% - 39% Luminosity  
-Casas: GamerLegion 56% · Luminosity 44%  
-🔎 **Claves**  
-• Elo: GamerLegion 1873 (338 series) | Luminosity 1790 (25 series)  
-• Forma: GamerLegion ✅❌✅✅❌ | Luminosity ❌❌❌❌❌  
-• H2H: 2: 2-0  
-• Torneo: Stake Ranked Episode 6 (nivel A)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): GamerLegion: REZ 6.8, FL4MUS 6.4 | Luminosity: Rainwaker 5.8, yxngstxr 5.8  
-• Mapas (último año): GamerLegion: fuerte cache 80%, débil dust2 28% | Luminosity: fuerte mirage 62%, débil dust2 17%  
-• Química de la plantilla: GamerLegion: 94 mapas juntos de media | Luminosity: 77 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• GamerLegion gana 2-1: 25% → cuota justa 4.08 · casa 24%  
-• Luminosity gana 2-1: 18% → cuota justa 5.56 · casa 20%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-GamerLegion: FL4MUS 36 (21-53) · REZ 36 (21-53) · shalfey 35 (20-52) · hypex 34 (19-50) · Tauson 33 (19-49)  
-Luminosity: afro 34 (20-51) · Rainwaker 34 (19-50) · yxngstxr 33 (19-49) · AZUWU 32 (18-47) · lux 32 (18-47)  
-
-## Young TigeRES vs OLDBOYS PL — 17/11 · 19:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **2.35** (Thunderpick) · prob 41% vs casas 39% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Young TigeRES 43% · Serie BO1: Young TigeRES 43% - 57% OLDBOYS PL  
-Casas: Young TigeRES 39% · OLDBOYS PL 61%  
-🔎 **Claves**  
-• Elo: Young TigeRES 1682 (69 series) | OLDBOYS PL 1729 (84 series)  
-• Forma: Young TigeRES ✅✅✅✅✅ | OLDBOYS PL ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## eternal premium vs Falcons Force — 17/11 · 19:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Falcons Force** @ **1.54** (Thunderpick) · prob 61% vs casas 60% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: eternal premium 38% · Serie BO1: eternal premium 38% - 62% Falcons Force  
-Casas: eternal premium 40% · Falcons Force 60%  
-🔎 **Claves**  
-• Elo: eternal premium 1509 (94 series) | Falcons Force 1596 (137 series)  
-• Forma: eternal premium ❌✅❌❌✅ | Falcons Force ❌❌❌✅✅  
-• H2H: 2: 1-1  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 17/11/2026 19:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Envy vs Metizport — 17/11 · 20:00
 

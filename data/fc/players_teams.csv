@@ -71712,10 +71712,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2384098,262231,England,Germany,,
 2384099,262231,Spain,England,,
 2384100,262231,Argentina,France,,
-2384421,262262,Ecuador,Argentina,2,2
-2384422,262262,Colombia,Brazil,4,2
-2384423,262262,Brazil,Ecuador,1,1
-2384424,262262,Argentina,Uruguay,2,0
+2384421,262262,Ecuador,Argentina,2.0,2.0
+2384422,262262,Colombia,Brazil,4.0,2.0
+2384423,262262,Brazil,Ecuador,1.0,1.0
+2384424,262262,Argentina,Uruguay,2.0,0.0
 2384425,262262,Uruguay,Brazil,,
 2384426,262262,Ecuador,Colombia,,
 2384427,262262,Colombia,Uruguay,,
