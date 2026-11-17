@@ -34897,3 +34897,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193379,133860,drama-esports-vs-tpudcatb-tpu-17-11-2026,2026-11-17T09:20:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22812,22191,Drama,33,1,de_dust2,22191,13.0,8.0
 193568,134005,sinners-vs-nexus-17-11-2026,2026-11-17T10:15:00.000+00:00,b,3,6168,RUSH:Brno 2026,200,326,SINNERS,Nexus,2,de_mirage,200,13.0,8.0
 193569,134005,sinners-vs-nexus-17-11-2026,2026-11-17T10:15:00.000+00:00,b,3,6168,RUSH:Brno 2026,200,326,SINNERS,Nexus,1,de_ancient,200,13.0,4.0
+193068,133479,inner-circle-esports-vs-betclic-apogee-esports-17-11-2026,2026-11-17T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,19186,11101,Inner Circle,Betclic,2,de_mirage,19186,13.0,9.0
+193069,133479,inner-circle-esports-vs-betclic-apogee-esports-17-11-2026,2026-11-17T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,19186,11101,Inner Circle,Betclic,1,de_nuke,19186,13.0,5.0

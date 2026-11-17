@@ -71356,3 +71356,53 @@ id,tournament_id,club1,club2,ht1,ht2
 2383938,262245,Leipzig,Bayern Munchen,,
 2383939,262245,Frankfurt,Leipzig,,
 2383940,262245,Stuttgart,B Dortmund,,
+2383781,262234,Roma,Juventus,2,4
+2383782,262234,Bologna,Sassuolo,1,1
+2383783,262234,Sassuolo,Roma,2,4
+2383784,262234,Juventus,Napoli,3,2
+2383785,262234,Napoli,Sassuolo,1,0
+2383786,262234,Roma,Bologna,1,1
+2383787,262234,Bologna,Napoli,0,2
+2383788,262234,Sassuolo,Juventus,2,5
+2383789,262234,Juventus,Bologna,1,1
+2383790,262234,Napoli,Roma,3,1
+2383791,262234,Juventus,Roma,1,5
+2383792,262234,Sassuolo,Bologna,0,1
+2383793,262234,Roma,Sassuolo,1,3
+2383794,262234,Napoli,Juventus,4,1
+2383795,262234,Sassuolo,Napoli,,
+2383796,262234,Bologna,Roma,,
+2383797,262234,Napoli,Bologna,,
+2383798,262234,Juventus,Sassuolo,,
+2383799,262234,Bologna,Juventus,,
+2383800,262234,Roma,Napoli,,
+2384815,262287,Man Utd,Newcastle,2,4
+2384816,262287,Brighton,Aston Villa,2,1
+2384817,262287,Aston Villa,Man Utd,1,4
+2384818,262287,Newcastle,Nottm Forest,3,3
+2384819,262287,Nottm Forest,Aston Villa,0,2
+2384820,262287,Man Utd,Brighton,2,1
+2384821,262287,Brighton,Nottm Forest,2,1
+2384822,262287,Aston Villa,Newcastle,4,3
+2384823,262287,Newcastle,Brighton,,
+2384824,262287,Nottm Forest,Man Utd,,
+2384825,262287,Newcastle,Man Utd,,
+2384826,262287,Aston Villa,Brighton,,
+2384827,262287,Man Utd,Aston Villa,,
+2384828,262287,Nottm Forest,Newcastle,,
+2384829,262287,Aston Villa,Nottm Forest,,
+2384830,262287,Brighton,Man Utd,,
+2384831,262287,Nottm Forest,Brighton,,
+2384832,262287,Newcastle,Aston Villa,,
+2384833,262287,Brighton,Newcastle,,
+2384834,262287,Man Utd,Nottm Forest,,
+2384635,262292,Bayern Munchen,Liverpool,1,3
+2384636,262292,Paris,Atleti,1,4
+2384637,262292,Atleti,Bayern Munchen,2,2
+2384638,262292,Liverpool,Real Madrid,0,1
+2384639,262292,Real Madrid,Atleti,0,3
+2384640,262292,Bayern Munchen,Paris,1,3
+2384641,262292,Paris,Real Madrid,2,2
+2384642,262292,Atleti,Liverpool,1,5
+2384643,262292,Liverpool,Paris,,
+2384644,262292,Real Madrid,Bayern Munchen,,

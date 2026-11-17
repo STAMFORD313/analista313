@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 13:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Alliance vs Iberian Soul — 17/11 · 14:00
-
-👀 candidata · 🎮 CS2 · RUSH:Brno 2026 · **Gana Iberian Soul** @ **2.10** (Thunderpick) · prob 44% vs casas 44% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
-Mapa: Alliance 53% · Serie BO3: Alliance 55% - 45% Iberian Soul  
-Casas: Alliance 56% · Iberian Soul 44%  
-🔎 **Claves**  
-• Elo: Alliance 1824 (407 series) | Iberian Soul 1788 (137 series)  
-• Forma: Alliance ❌✅✅✅❌ | Iberian Soul ✅❌✅✅❌  
-• H2H: 4: 0-4  
-• Torneo: RUSH:Brno 2026 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Alliance: eraa 6.2, Avid 6.0 | Iberian Soul: Ag1l 6.0, alex 6.0  
-• Mapas (último año): Alliance: fuerte inferno 70%, débil mirage 0% | Iberian Soul: fuerte inferno 78%, débil ancient 33%  
-• Química de la plantilla: Alliance: 236 mapas juntos de media | Iberian Soul: 256 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Alliance gana 2-1: 23% → cuota justa 4.28 · casa 26%  
-• Iberian Soul gana 2-1: 20% → cuota justa 4.91 · casa 20%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Alliance: eraa 39 (22-57) · bobeksde 35 (20-52) · Avid 34 (20-51) · twist 32 (18-47) · upE 29 (17-44)  
-Iberian Soul: sausol 34 (20-51) · mopoz 34 (19-50) · dav1g 33 (19-48) · alex 33 (19-48) · Ag1l 32 (18-47)  
+Actualizado 17/11/2026 14:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BIG vs Sangal — 17/11 · 14:30
 
