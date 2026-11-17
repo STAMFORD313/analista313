@@ -70758,14 +70758,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2383402,262181,Morocco,Norway,,
 2383403,262181,Czechia,Morocco,,
 2383404,262181,Germany,Netherlands,,
-2382693,262150,Chelsea,Man City,3,0
-2382694,262150,Arsenal,Liverpool,0,1
-2382695,262150,Liverpool,Chelsea,1,1
-2382696,262150,Man City,Tottenham,1,3
-2382697,262150,Tottenham,Liverpool,1,3
-2382698,262150,Chelsea,Arsenal,2,1
-2382699,262150,Arsenal,Tottenham,1,0
-2382700,262150,Liverpool,Man City,2,2
+2382693,262150,Chelsea,Man City,3.0,0.0
+2382694,262150,Arsenal,Liverpool,0.0,1.0
+2382695,262150,Liverpool,Chelsea,1.0,1.0
+2382696,262150,Man City,Tottenham,1.0,3.0
+2382697,262150,Tottenham,Liverpool,1.0,3.0
+2382698,262150,Chelsea,Arsenal,2.0,1.0
+2382699,262150,Arsenal,Tottenham,1.0,0.0
+2382700,262150,Liverpool,Man City,2.0,2.0
 2382701,262150,Man City,Arsenal,,
 2382702,262150,Tottenham,Chelsea,,
 2382703,262150,Man City,Chelsea,,
@@ -70778,3 +70778,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2382710,262150,Man City,Liverpool,,
 2382711,262150,Arsenal,Man City,,
 2382712,262150,Chelsea,Tottenham,,
+2382473,262189,Spain,Brazil,0,1
+2382474,262189,France,Argentina,0,3
+2382475,262189,Argentina,Spain,2,0
+2382476,262189,Brazil,England,1,0
+2382477,262189,England,Argentina,2,2
+2382478,262189,Spain,France,1,2
+2382479,262189,France,England,2,3
+2382480,262189,Argentina,Brazil,2,0
+2382481,262189,Brazil,France,,
+2382482,262189,England,Spain,,
+2382483,262189,Brazil,Spain,,
+2382484,262189,Argentina,France,,
+2382485,262189,Spain,Argentina,,
+2382486,262189,England,Brazil,,
+2382487,262189,Argentina,England,,
+2382488,262189,France,Spain,,
+2382489,262189,England,France,,
+2382490,262189,Brazil,Argentina,,
+2382491,262189,France,Brazil,,
+2382492,262189,Spain,England,,
+2382833,262202,Bologna,Napoli,0,2
+2382834,262202,Juventus,Sassuolo,0,1
+2382835,262202,Sassuolo,Bologna,2,2
+2382836,262202,Napoli,Roma,1,1
+2382837,262202,Roma,Sassuolo,4,0
+2382838,262202,Bologna,Juventus,2,0
+2382839,262202,Juventus,Roma,0,2
+2382840,262202,Sassuolo,Napoli,0,0
+2382841,262202,Napoli,Juventus,2,2
+2382842,262202,Roma,Bologna,2,0
+2382843,262202,Napoli,Bologna,,
+2382844,262202,Sassuolo,Juventus,,
+2382845,262202,Bologna,Sassuolo,,
+2382846,262202,Roma,Napoli,,
+2382847,262202,Sassuolo,Roma,,
+2382848,262202,Juventus,Bologna,,
+2382849,262202,Roma,Juventus,,
+2382850,262202,Napoli,Sassuolo,,
+2382851,262202,Juventus,Napoli,,
+2382852,262202,Bologna,Roma,,

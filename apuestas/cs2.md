@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 00:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Mira vs RUSH — 17/11 · 00:45
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Mira** @ **1.75** (Thunderpick) · prob 64% vs casas 53% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: Mira 67% · Serie BO3: Mira 75% - 25% RUSH  
-Casas: Mira 53% · RUSH 47%  
-🔎 **Claves**  
-• Elo: Mira 1660 (5 series) | RUSH 1469 (30 series)  
-• Forma: Mira ✅✅❌✅✅ | RUSH ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Mira gana 2-1: 24% → cuota justa 4.10  
-• RUSH gana 2-1: 12% → cuota justa 8.39  
-
-## AXORFY vs MEIA NOITE — 17/11 · 00:45
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana MEIA NOITE** @ **3.20** (Thunderpick) · prob 30% vs casas 29% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: AXORFY 63% · Serie BO3: AXORFY 69% - 31% MEIA NOITE  
-Casas: AXORFY 71% · MEIA NOITE 29%  
-🔎 **Claves**  
-• Elo: AXORFY 1682 (4 series) | MEIA NOITE 1542 (47 series)  
-• Forma: AXORFY ✅✅❌✅ | MEIA NOITE ✅✅✅❌✅  
-• H2H: 1: 1-0  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• AXORFY gana 2-1: 25% → cuota justa 4.01  
-• MEIA NOITE gana 2-1: 15% → cuota justa 6.77  
+Actualizado 17/11/2026 01:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
