@@ -3118,7 +3118,9 @@
     "away": "DimoniX",
     "txt": "Gana DimoniX",
     "odds": 2.05,
-    "p": 0.5106032520325203
+    "p": 0.5106032520325203,
+    "ok": false,
+    "por": "ganó Glitchtech 1-0"
    },
    {
     "code": null,
@@ -3144,8 +3146,8 @@
   "odds": 13.26,
   "p": 0.08827665834565228,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
