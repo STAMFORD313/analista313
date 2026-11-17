@@ -1,58 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 19:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Envy vs Metizport — 17/11 · 20:00
-
-👀 candidata · 🎮 CS2 · RUSH:Brno 2026 · **Gana Metizport** @ **2.10** (Thunderpick) · prob 51% vs casas 44% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Envy 41% · Serie BO3: Envy 42% - 58% Metizport  
-Casas: Envy 56% · Metizport 44%  
-🔎 **Claves**  
-• Elo: Envy 1700 (8 series) | Metizport 1799 (370 series)  
-• Forma: Envy ✅❌❌✅❌ | Metizport ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Torneo: RUSH:Brno 2026 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Envy: Maka 6.4, misutaaa 5.7 | Metizport: Plopski 6.2, forsyy 6.2  
-• Mapas (último año): Envy: fuerte ancient 43%, débil dust2 40% | Metizport: fuerte ancient 67%, débil dust2 38%  
-• Química de la plantilla: Envy: 256 mapas juntos de media | Metizport: 88 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Envy gana 2-1: 17% → cuota justa 5.86 · casa 24%  
-• Metizport gana 2-1: 25% → cuota justa 4.04 · casa 20% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Envy: Kursy 34 (19-50) · Maka 34 (19-50) · misutaaa 33 (19-48) · Lucky 32 (18-47) · Graviti 30 (17-45)  
-Metizport: forsyy 36 (21-54) · MaiL09 36 (21-53) · Plopski 36 (21-53) · F1KU 35 (20-51) · stanislaw 29 (16-43)  
-
-## Envy vs Metizport — 17/11 · 20:00
-
-👀 candidata · 🎮 CS2 · RUSH:Brno 2026 · **Metizport -1.5 mapas** @ **3.80** (Thunderpick) · prob 32% vs casas 24% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Envy 41% · Serie BO3: Envy 42% - 58% Metizport  
-Casas: Envy 56% · Metizport 44%  
-🔎 **Claves**  
-• Elo: Envy 1700 (8 series) | Metizport 1799 (370 series)  
-• Forma: Envy ✅❌❌✅❌ | Metizport ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Torneo: RUSH:Brno 2026 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Envy: Maka 6.4, misutaaa 5.7 | Metizport: Plopski 6.2, forsyy 6.2  
-• Mapas (último año): Envy: fuerte ancient 43%, débil dust2 40% | Metizport: fuerte ancient 67%, débil dust2 38%  
-• Química de la plantilla: Envy: 256 mapas juntos de media | Metizport: 88 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Envy gana 2-1: 17% → cuota justa 5.86 · casa 24%  
-• Metizport gana 2-1: 25% → cuota justa 4.04 · casa 20% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Envy: Kursy 34 (19-50) · Maka 34 (19-50) · misutaaa 33 (19-48) · Lucky 32 (18-47) · Graviti 30 (17-45)  
-Metizport: forsyy 36 (21-54) · MaiL09 36 (21-53) · Plopski 36 (21-53) · F1KU 35 (20-51) · stanislaw 29 (16-43)  
+Actualizado 17/11/2026 20:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BORRACHEIROS vs Hunters Rising — 17/11 · 21:00
 
