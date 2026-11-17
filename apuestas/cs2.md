@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 22:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ALKA vs Los Niños — 18/11 · 00:45
 
