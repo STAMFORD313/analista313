@@ -1,58 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 16:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Ninjas in Pyjamas vs UNiTY — 17/11 · 17:00
-
-👀 candidata · 🎮 CS2 · Stake Ranked Episode 6 · **Gana Ninjas in Pyjamas** @ **1.15** (Thunderpick) · prob 76% vs casas 81% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Ninjas in Pyjamas 65% · Serie BO3: Ninjas in Pyjamas 72% - 28% UNiTY  
-Casas: Ninjas in Pyjamas 81% · UNiTY 19%  
-🔎 **Claves**  
-• Elo: Ninjas in Pyjamas 1989 (349 series) | UNiTY 1828 (567 series)  
-• Forma: Ninjas in Pyjamas ❌❌✅✅✅ | UNiTY ✅✅✅✅✅  
-• H2H: 1: 1-0  
-• Torneo: Stake Ranked Episode 6 (nivel A)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Ninjas in Pyjamas: xKacpersky 6.6, adamb 6.3 | UNiTY: M1key 6.2, 2high 6.1  
-• Mapas (último año): Ninjas in Pyjamas: fuerte nuke 73%, débil overpass 17% | UNiTY: fuerte inferno 59%, débil overpass 25%  
-• Química de la plantilla: Ninjas in Pyjamas: 89 mapas juntos de media | UNiTY: 69 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Ninjas in Pyjamas gana 2-1: 25% → cuota justa 4.03 · casa 26%  
-• UNiTY gana 2-1: 14% → cuota justa 7.34 · casa 8% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Ninjas in Pyjamas: stavn 37 (21-54) · xKacpersky 36 (21-53) · adamb 35 (20-52) · sjuush 33 (19-49) · Krimbo 33 (19-48)  
-UNiTY: KWERTZZ 35 (20-51) · M1key 33 (19-49) · 2high 32 (18-48) · Sn0w 32 (18-47) · Dytor 31 (18-46)  
-
-## BBL vs Phantom — 17/11 · 17:00
-
-👀 candidata · 🎮 CS2 · RUSH:Brno 2026 · **Gana Phantom** @ **2.60** (Thunderpick) · prob 42% vs casas 36% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: BBL 54% · Serie BO3: BBL 52% - 48% Phantom  
-Casas: BBL 64% · Phantom 36%  
-🔎 **Claves**  
-• Elo: BBL 1860 (40 series) | Phantom 1812 (214 series)  
-• Forma: BBL ✅✅❌✅❌ | Phantom ✅❌✅✅✅  
-• H2H: sin precedentes  
-• Torneo: RUSH:Brno 2026 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): BBL: Leakz 6.4, salazar 6.0 | Phantom: nicoodoz 6.7, Kunai 6.6  
-• Mapas (último año): BBL: fuerte ancient 67%, débil cache 29% | Phantom: fuerte mirage 65%, débil anubis 39%  
-• Química de la plantilla: BBL: 143 mapas juntos de media | Phantom: 110 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• BBL gana 2-1: 24% → cuota justa 4.22 · casa 26%  
-• Phantom gana 2-1: 20% → cuota justa 5.05 · casa 17%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-BBL: Leakz 37 (21-55) · NickyB 33 (19-49) · MistR 33 (19-48) · salazar 32 (18-47) · IceBerg 30 (17-44)  
-Phantom: nicoodoz 39 (22-57) · KEi 35 (20-51) · Kylar 34 (19-50) · Kunai 34 (19-50) · TMB 30 (17-45)  
+Actualizado 17/11/2026 17:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## aimers vs Banger Gang — 17/11 · 18:00
 
