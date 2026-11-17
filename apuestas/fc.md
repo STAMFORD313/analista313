@@ -1,99 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 06:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 07:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Frantsuz vs imagin — 17/11 · 06:36
+## Bomb1to vs Wboy — 17/11 · 07:21
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana imagin** @ **3.85** (Unibet) · prob 30% vs casas 22% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.60** (Unibet) · prob 34% vs casas 24% · ventaja +24%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.964 partidos)  
-Goles esperados: Frantsuz 5.32 · imagin 4.39  
-Ganador: Frantsuz 56% · empate 14% · imagin 30%  
-Total: más de 9.5 goles 51% · menos 49%  
-Hándicap Frantsuz: −1.5 42% · −2.5 30%  
+📊 **Escenarios** (Poisson por jugador, 71.007 partidos)  
+Goles esperados: Bomb1to 3.64 · Wboy 3.38  
+Ganador: Bomb1to 48% · empate 17% · Wboy 34%  
+Total: más de 7.5 goles 40% · menos 60%  
+Hándicap Bomb1to: −1.5 31% · −2.5 19%  
 🔎 **Claves**  
-• Forma: Frantsuz ✅❌❌✅✅ | imagin ❌❌✅❌❌  
-• Partidos: Frantsuz 701 | imagin 298  
-• Liga: Premier League 2x6  
-• Unibet: 1 1.30 · X 8.00 · 2 3.85 (sin margen 67%/11%/23%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+16%) · Paf España 3.85 (+16%)  
-
-## TikitakaMaster vs flamez — 17/11 · 06:36
-
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana TikitakaMaster** @ **2.08** (Unibet) · prob 56% vs casas 42% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.964 partidos)  
-Goles esperados: TikitakaMaster 5.01 · flamez 3.99  
-Ganador: TikitakaMaster 56% · empate 14% · flamez 30%  
-Total: más de 9.5 goles 41% · menos 59%  
-Hándicap TikitakaMaster: −1.5 43% · −2.5 31%  
-🔎 **Claves**  
-• Forma: TikitakaMaster ✅✅✅✅✅ | flamez ✅✅✅✅➖  
-• Partidos: TikitakaMaster 753 | flamez 815  
-• Liga: Premier League 2x6  
-• Unibet: 1 2.08 · X 5.80 · 2 2.05 (sin margen 42%/15%/43%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.08 (+15%) · Paf España 2.08 (+15%)  
-
-## RossFCDK vs hotShot — 17/11 · 06:38
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RossFCDK** @ **4.35** (Unibet) · prob 28% vs casas 20% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.984 partidos)  
-Goles esperados: RossFCDK 1.96 · hotShot 2.38  
-Ganador: RossFCDK 28% · empate 22% · hotShot 50%  
-Total: más de 4.5 goles 44% · menos 56%  
-Hándicap hotShot: −1.5 29% · −2.5 15%  
-🔎 **Claves**  
-• Forma: RossFCDK ❌✅❌✅✅ | hotShot ➖✅❌✅❌  
-• Partidos: RossFCDK 578 | hotShot 610  
-• Liga: Serie A  
-• Unibet: 1 4.35 · X 2.20 · 2 2.15 (sin margen 20%/40%/40%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.35 (+20%) · Paf España 4.35 (+20%)  
-
-## Uncle vs Wboy — 17/11 · 06:45
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.70** (Unibet) · prob 33% vs casas 24% · ventaja +23%
-
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.984 partidos)  
-Goles esperados: Uncle 3.15 · Wboy 2.88  
-Ganador: Uncle 48% · empate 19% · Wboy 33%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Uncle: −1.5 30% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Uncle ❌✅✅➖➖ | Wboy ✅❌➖❌➖  
-• Partidos: Uncle 801 | Wboy 1190  
+• Forma: Bomb1to ✅➖❌➖✅ | Wboy ✅❌➖❌➖  
+• Partidos: Bomb1to 1351 | Wboy 1190  
 • Liga: World Cup A  
-• Unibet: 1 1.74 · X 3.35 · 2 3.70 (sin margen 50%/26%/24%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.70 (+23%) · Paf España 3.70 (+23%)  
+• Unibet: 1 1.60 · X 4.20 · 2 3.60 (sin margen 55%/21%/24%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+24%) · Paf España 3.60 (+24%)  
 
-## Wboy vs mko1919 — 17/11 · 06:57
+## Taz vs Tesla — 17/11 · 07:30
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **3.95** (Unibet) · prob 28% vs casas 22% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **3.85** (Unibet) · prob 36% vs casas 23% · ventaja +37%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +37% (mín. 17% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.984 partidos)  
-Goles esperados: Wboy 3.84 · mko1919 3.11  
-Ganador: Wboy 55% · empate 17% · mko1919 29%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Wboy: −1.5 38% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 71.007 partidos)  
+Goles esperados: Taz 3.43 · Tesla 3.88  
+Ganador: Taz 36% · empate 17% · Tesla 47%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap Tesla: −1.5 34% · −2.5 22%  
 🔎 **Claves**  
-• Forma: Wboy ✅❌➖❌➖ | mko1919 ❌❌➖✅✅  
-• Partidos: Wboy 1190 | mko1919 1280  
+• Forma: Taz ✅✅❌➖❌ | Tesla ❌✅✅➖➖  
+• Partidos: Taz 1119 | Tesla 1165  
+• Liga: Bundesliga  
+• Unibet: 1 3.85 · X 3.90 · 2 1.60 (sin margen 23%/22%/55%) · ventaja +37%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.85 (+37%) · Paf España 3.85 (+37%)  
+
+## Wboy vs LaikingDast — 17/11 · 07:33
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.15** (Unibet) · prob 39% vs casas 28% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.007 partidos)  
+Goles esperados: Wboy 3.31 · LaikingDast 3.32  
+Ganador: Wboy 39% · empate 18% · LaikingDast 43%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap LaikingDast: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Wboy ✅❌➖❌➖ | LaikingDast ✅❌➖✅❌  
+• Partidos: Wboy 1190 | LaikingDast 481  
 • Liga: World Cup A  
-• Unibet: 1 1.54 · X 4.25 · 2 3.95 (sin margen 57%/21%/22%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.95 (+13%) · Paf España 3.95 (+13%)  
+• Unibet: 1 3.15 · X 4.00 · 2 1.73 (sin margen 28%/22%/50%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.15 (+22%) · Paf España 3.15 (+22%)  
 
