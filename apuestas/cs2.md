@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 11:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Inner Circle vs Betclic — 17/11 · 12:00
-
-👀 candidata · 🎮 CS2 · Stake Ranked Episode 6 · **Gana Inner Circle** @ **1.75** (Thunderpick) · prob 56% vs casas 53% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.902 partidos)  
-Mapa: Inner Circle 56% · Serie BO3: Inner Circle 59% - 41% Betclic  
-Casas: Inner Circle 53% · Betclic 47%  
-🔎 **Claves**  
-• Elo: Inner Circle 1902 (182 series) | Betclic 1841 (262 series)  
-• Forma: Inner Circle ❌❌✅❌❌ | Betclic ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Torneo: Stake Ranked Episode 6 (nivel A)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Inner Circle: headtr1ck 6.8, Dawy 6.5 | Betclic: ultimate 6.8, Demho 6.7  
-• Mapas (último año): Inner Circle: fuerte dust2 64%, débil nuke 42% | Betclic: fuerte cache 71%, débil overpass 33%  
-• Química de la plantilla: Inner Circle: 181 mapas juntos de media | Betclic: 98 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Inner Circle gana 2-1: 24% → cuota justa 4.15 · casa 23%  
-• Betclic gana 2-1: 19% → cuota justa 5.23 · casa 23%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Inner Circle: Dawy 38 (22-56) · headtr1ck 35 (20-52) · cptkurtka023 34 (19-50) · zeRRoFIX 33 (19-49) · onic 29 (16-43)  
-Betclic: ultimate 35 (20-52) · Ex1st 34 (20-51) · Qlocuu 33 (19-49) · Prism 33 (19-48) · Demho 32 (18-47)  
+Actualizado 17/11/2026 12:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## INFINITE vs MOUZ NXT — 17/11 · 12:30
 
