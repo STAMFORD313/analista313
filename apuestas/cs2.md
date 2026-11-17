@@ -1,52 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 18:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SINQU vs boyband — 17/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana SINQU** @ **2.57** (Thunderpick) · prob 39% vs casas 36% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: SINQU 45% · Serie BO3: SINQU 43% - 57% boyband  
-Casas: SINQU 36% · boyband 64%  
-🔎 **Claves**  
-• Elo: SINQU 1443 (76 series) | boyband 1495 (20 series)  
-• Forma: SINQU ❌✅✅✅✅ | boyband ❌✅✅✅❌  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• SINQU gana 2-1: 20% → cuota justa 5.09  
-• boyband gana 2-1: 24% → cuota justa 4.20  
-
-## Nexus vs Walczaki — 17/11 · 19:00
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Gana Walczaki** @ **3.20** (Thunderpick) · prob 31% vs casas 29% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Nexus 61% · Serie BO3: Nexus 68% - 32% Walczaki  
-Casas: Nexus 71% · Walczaki 29%  
-🔎 **Claves**  
-• Elo: Nexus 1750 (710 series) | Walczaki 1633 (66 series)  
-• Forma: Nexus ✅✅❌✅❌ | Walczaki ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Nexus: fNk 6.5, HOLY 6.4 | Walczaki: reiko 6.6, Eskyy 6.0  
-• Mapas (último año): Nexus: fuerte overpass 71%, débil inferno 40% | Walczaki: fuerte mirage 82%, débil cache 33%  
-• Química de la plantilla: Nexus: 70 mapas juntos de media | Walczaki: 88 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Nexus gana 2-1: 25% → cuota justa 4.02 · casa 26%  
-• Walczaki gana 2-1: 16% → cuota justa 6.23 · casa 14%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Nexus: shield 36 (21-54) · s0und 36 (20-52) · HOLY 34 (20-51) · Nexius 34 (19-50) · fNk 33 (19-48)  
-Walczaki: reiko 37 (21-55) · mrouz 34 (19-50) · olimp 33 (19-49) · bajmi 32 (18-48) · Eskyy 32 (18-47)  
+Actualizado 17/11/2026 19:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GamerLegion vs Luminosity — 17/11 · 19:30
 
