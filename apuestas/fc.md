@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 07:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 07:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bomb1to vs Wboy — 17/11 · 07:21
+## Smetana vs crinner — 17/11 · 07:38
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.60** (Unibet) · prob 34% vs casas 24% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · MLS · **Gana crinner** @ **2.02** (Unibet) · prob 53% vs casas 43% · ventaja +7%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.007 partidos)  
-Goles esperados: Bomb1to 3.64 · Wboy 3.38  
-Ganador: Bomb1to 48% · empate 17% · Wboy 34%  
-Total: más de 7.5 goles 40% · menos 60%  
-Hándicap Bomb1to: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 71.033 partidos)  
+Goles esperados: Smetana 2.41 · crinner 3.11  
+Ganador: Smetana 28% · empate 19% · crinner 53%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap crinner: −1.5 36% · −2.5 22%  
 🔎 **Claves**  
-• Forma: Bomb1to ✅➖❌➖✅ | Wboy ✅❌➖❌➖  
-• Partidos: Bomb1to 1351 | Wboy 1190  
+• Forma: Smetana ✅✅✅❌❌ | crinner ❌✅✅❌✅  
+• Partidos: Smetana 1310 | crinner 1085  
+• Liga: MLS  
+• Unibet: 1 2.25 · X 4.90 · 2 2.02 (sin margen 39%/18%/43%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.02 (+7%) · Paf España 2.02 (+7%)  
+
+## Frantsuz vs zoyir — 17/11 · 07:48
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **2.17** (Unibet) · prob 50% vs casas 40% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.033 partidos)  
+Goles esperados: Frantsuz 4.01 · zoyir 4.50  
+Ganador: Frantsuz 34% · empate 15% · zoyir 50%  
+Total: más de 8.5 goles 48% · menos 52%  
+Hándicap zoyir: −1.5 36% · −2.5 24%  
+🔎 **Claves**  
+• Forma: Frantsuz ✅✅❌✅✅ | zoyir ❌✅❌✅➖  
+• Partidos: Frantsuz 705 | zoyir 612  
+• Liga: Premier League 2x6  
+• Unibet: 1 2.08 · X 4.90 · 2 2.17 (sin margen 42%/18%/40%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.17 (+9%) · Paf España 2.17 (+9%)  
+
+## mko1919 vs Wboy — 17/11 · 07:57
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **3.60** (Unibet) · prob 30% vs casas 24% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.033 partidos)  
+Goles esperados: mko1919 3.13 · Wboy 3.76  
+Ganador: mko1919 30% · empate 17% · Wboy 53%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap Wboy: −1.5 36% · −2.5 23%  
+🔎 **Claves**  
+• Forma: mko1919 ➖✅✅✅➖ | Wboy ❌➖❌➖❌  
+• Partidos: mko1919 1282 | Wboy 1191  
 • Liga: World Cup A  
-• Unibet: 1 1.60 · X 4.20 · 2 3.60 (sin margen 55%/21%/24%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+24%) · Paf España 3.60 (+24%)  
-
-## Taz vs Tesla — 17/11 · 07:30
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **3.85** (Unibet) · prob 36% vs casas 23% · ventaja +37%
-
-- ❌ Valor: ventaja +37% (mín. 17% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.007 partidos)  
-Goles esperados: Taz 3.43 · Tesla 3.88  
-Ganador: Taz 36% · empate 17% · Tesla 47%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap Tesla: −1.5 34% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Taz ✅✅❌➖❌ | Tesla ❌✅✅➖➖  
-• Partidos: Taz 1119 | Tesla 1165  
-• Liga: Bundesliga  
-• Unibet: 1 3.85 · X 3.90 · 2 1.60 (sin margen 23%/22%/55%) · ventaja +37%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+37%) · Paf España 3.85 (+37%)  
-
-## Wboy vs LaikingDast — 17/11 · 07:33
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.15** (Unibet) · prob 39% vs casas 28% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.007 partidos)  
-Goles esperados: Wboy 3.31 · LaikingDast 3.32  
-Ganador: Wboy 39% · empate 18% · LaikingDast 43%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap LaikingDast: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Wboy ✅❌➖❌➖ | LaikingDast ✅❌➖✅❌  
-• Partidos: Wboy 1190 | LaikingDast 481  
-• Liga: World Cup A  
-• Unibet: 1 3.15 · X 4.00 · 2 1.73 (sin margen 28%/22%/50%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.15 (+22%) · Paf España 3.15 (+22%)  
+• Unibet: 1 3.60 · X 4.50 · 2 1.56 (sin margen 24%/19%/56%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+8%) · Paf España 3.60 (+8%)  
 

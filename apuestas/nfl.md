@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 17/11/2026 07:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 07:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Massachusetts Minutemen vs Akron Zips — 19/11 · 01:00
 

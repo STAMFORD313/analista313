@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 07:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 07:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
@@ -682,4 +682,44 @@ Casas: The Chosen Few 54% · Vitality Academy 46%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## Curralzinho vs Underworld — 18/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Curralzinho** @ **3.56** (Thunderpick) · prob 32% vs casas 26% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
+Mapa: Curralzinho 42% · Serie BO3: Curralzinho 39% - 61% Underworld  
+Casas: Curralzinho 26% · Underworld 74%  
+🔎 **Claves**  
+• Elo: Curralzinho 1311 (10 series) | Underworld 1392 (19 series)  
+• Forma: Curralzinho ❌✅❌❌❌ | Underworld ❌✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Curralzinho gana 2-1: 18% → cuota justa 5.53  
+• Underworld gana 2-1: 24% → cuota justa 4.09  
+
+## TROPA DO MICHA vs QUINTESSÊNCIA — 18/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana TROPA DO MICHA** @ **1.96** (Thunderpick) · prob 55% vs casas 47% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
+Mapa: TROPA DO MICHA 58% · Serie BO3: TROPA DO MICHA 62% - 38% QUINTESSÊNCIA  
+Casas: TROPA DO MICHA 47% · QUINTESSÊNCIA 53%  
+🔎 **Claves**  
+• Elo: TROPA DO MICHA 1601 (1 series) | QUINTESSÊNCIA 1511 (70 series)  
+• Forma: TROPA DO MICHA ✅ | QUINTESSÊNCIA ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• TROPA DO MICHA gana 2-1: 25% → cuota justa 4.06  
+• QUINTESSÊNCIA gana 2-1: 18% → cuota justa 5.69  
 
