@@ -71890,23 +71890,55 @@ id,tournament_id,club1,club2,ht1,ht2
 2384538,262258,Brazil,Argentina,,
 2384539,262258,Argentina,Spain,,
 2384540,262258,Brazil,England,,
-2383961,262244,Braga,Benfica,1,1
-2383962,262244,Vitoria SC,Sporting CP,0,2
-2383963,262244,Sporting CP,Braga,1,0
-2383964,262244,Benfica,Porto,2,1
-2383965,262244,Porto,Sporting CP,1,0
-2383966,262244,Braga,Vitoria SC,2,1
-2383967,262244,Vitoria SC,Porto,2,1
-2383968,262244,Sporting CP,Benfica,1,4
-2383969,262244,Benfica,Vitoria SC,3,2
-2383970,262244,Porto,Braga,1,0
-2383971,262244,Benfica,Braga,1,2
-2383972,262244,Sporting CP,Vitoria SC,0,0
-2383973,262244,Braga,Sporting CP,1,1
-2383974,262244,Porto,Benfica,1,1
-2383975,262244,Sporting CP,Porto,1,1
-2383976,262244,Vitoria SC,Braga,2,0
-2383977,262244,Porto,Vitoria SC,1,0
-2383978,262244,Benfica,Sporting CP,0,0
+2383961,262244,Braga,Benfica,1.0,1.0
+2383962,262244,Vitoria SC,Sporting CP,0.0,2.0
+2383963,262244,Sporting CP,Braga,1.0,0.0
+2383964,262244,Benfica,Porto,2.0,1.0
+2383965,262244,Porto,Sporting CP,1.0,0.0
+2383966,262244,Braga,Vitoria SC,2.0,1.0
+2383967,262244,Vitoria SC,Porto,2.0,1.0
+2383968,262244,Sporting CP,Benfica,1.0,4.0
+2383969,262244,Benfica,Vitoria SC,3.0,2.0
+2383970,262244,Porto,Braga,1.0,0.0
+2383971,262244,Benfica,Braga,1.0,2.0
+2383972,262244,Sporting CP,Vitoria SC,0.0,0.0
+2383973,262244,Braga,Sporting CP,1.0,1.0
+2383974,262244,Porto,Benfica,1.0,1.0
+2383975,262244,Sporting CP,Porto,1.0,1.0
+2383976,262244,Vitoria SC,Braga,2.0,0.0
+2383977,262244,Porto,Vitoria SC,1.0,0.0
+2383978,262244,Benfica,Sporting CP,0.0,0.0
 2383979,262244,Vitoria SC,Benfica,,
 2383980,262244,Braga,Porto,,
+2384141,262236,Netherlands,Norway,1,1
+2384142,262236,Germany,Czechia,2,0
+2384143,262236,Czechia,Netherlands,2,3
+2384144,262236,Norway,Morocco,3,2
+2384145,262236,Morocco,Czechia,1,3
+2384146,262236,Netherlands,Germany,1,0
+2384147,262236,Germany,Morocco,1,2
+2384148,262236,Czechia,Norway,4,2
+2384149,262236,Norway,Germany,1,2
+2384150,262236,Morocco,Netherlands,1,1
+2384151,262236,Norway,Netherlands,1,2
+2384152,262236,Czechia,Germany,3,4
+2384153,262236,Netherlands,Czechia,4,0
+2384154,262236,Morocco,Norway,1,2
+2384155,262236,Czechia,Morocco,4,2
+2384156,262236,Germany,Netherlands,0,0
+2384157,262236,Morocco,Germany,,
+2384158,262236,Norway,Czechia,,
+2384159,262236,Germany,Norway,,
+2384160,262236,Netherlands,Morocco,,
+2384289,262270,Boca Juniors,River Plate,5,2
+2384290,262270,Boca Juniors,Racing Club,2,2
+2384291,262270,River Plate,Racing Club,1,2
+2384292,262270,River Plate,Boca Juniors,2,6
+2384293,262270,Racing Club,Boca Juniors,2,3
+2384294,262270,Racing Club,River Plate,,
+2384295,262270,Boca Juniors,River Plate,,
+2384296,262270,Boca Juniors,Racing Club,,
+2384297,262270,River Plate,Racing Club,,
+2384298,262270,River Plate,Boca Juniors,,
+2384299,262270,Racing Club,Boca Juniors,,
+2384300,262270,Racing Club,River Plate,,

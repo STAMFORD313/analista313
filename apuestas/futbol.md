@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 17/11/2026 23:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 00:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Coritiba vs Santos — 18/11 · 23:30
 
