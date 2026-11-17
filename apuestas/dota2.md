@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 17/11/2026 03:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 04:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PuckChamp vs Nemiga Gaming — 17/11 · 14:30
 
