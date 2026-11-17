@@ -2978,7 +2978,9 @@
     "away": "RUSH",
     "txt": "Gana Mira",
     "odds": 1.62,
-    "p": 0.6356226337448558
+    "p": 0.6356226337448558,
+    "ok": false,
+    "por": "ganó RUSH 2-0"
    },
    {
     "src": "esports:cs2",
@@ -3006,8 +3008,8 @@
   "odds": 6.12,
   "p": 0.2208772245875376,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
