@@ -34922,5 +34922,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193579,134009,bbl-vs-phantom-esports-17-11-2026,2026-11-17T15:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,25251,19204,BBL,Phantom,3,de_mirage,25251,19.0,16.0
 193580,134009,bbl-vs-phantom-esports-17-11-2026,2026-11-17T15:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,25251,19204,BBL,Phantom,2,de_inferno,25251,13.0,6.0
 193581,134009,bbl-vs-phantom-esports-17-11-2026,2026-11-17T15:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,25251,19204,BBL,Phantom,1,de_ancient,19204,13.0,8.0
+193076,133482,gamerlegion-vs-luminosity-cs-go-17-11-2026,2026-11-17T17:30:00.000+00:00,a,3,6132,Stake Ranked Episode 6,594,776,GamerLegion,Luminosity,3,de_cache,776,13.0,9.0
+193077,133482,gamerlegion-vs-luminosity-cs-go-17-11-2026,2026-11-17T17:30:00.000+00:00,a,3,6132,Stake Ranked Episode 6,594,776,GamerLegion,Luminosity,2,de_nuke,594,13.0,7.0
+193078,133482,gamerlegion-vs-luminosity-cs-go-17-11-2026,2026-11-17T17:30:00.000+00:00,a,3,6132,Stake Ranked Episode 6,594,776,GamerLegion,Luminosity,1,de_mirage,776,16.0,14.0
 192905,133398,nexus-vs-walczaki-17-11-2026,2026-11-17T18:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,326,23286,Nexus,Walczaki,2,de_anubis,326,13.0,6.0
 192906,133398,nexus-vs-walczaki-17-11-2026,2026-11-17T18:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,326,23286,Nexus,Walczaki,1,de_ancient,326,13.0,9.0

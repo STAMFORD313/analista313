@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 21:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 21:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## arroba vs RED Canids Academy — 17/11 · 22:00
 
