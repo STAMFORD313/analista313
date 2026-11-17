@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 07:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 08:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
