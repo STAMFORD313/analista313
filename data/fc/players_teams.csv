@@ -71356,34 +71356,34 @@ id,tournament_id,club1,club2,ht1,ht2
 2383938,262245,Leipzig,Bayern Munchen,,
 2383939,262245,Frankfurt,Leipzig,,
 2383940,262245,Stuttgart,B Dortmund,,
-2383781,262234,Roma,Juventus,2,4
-2383782,262234,Bologna,Sassuolo,1,1
-2383783,262234,Sassuolo,Roma,2,4
-2383784,262234,Juventus,Napoli,3,2
-2383785,262234,Napoli,Sassuolo,1,0
-2383786,262234,Roma,Bologna,1,1
-2383787,262234,Bologna,Napoli,0,2
-2383788,262234,Sassuolo,Juventus,2,5
-2383789,262234,Juventus,Bologna,1,1
-2383790,262234,Napoli,Roma,3,1
-2383791,262234,Juventus,Roma,1,5
-2383792,262234,Sassuolo,Bologna,0,1
-2383793,262234,Roma,Sassuolo,1,3
-2383794,262234,Napoli,Juventus,4,1
+2383781,262234,Roma,Juventus,2.0,4.0
+2383782,262234,Bologna,Sassuolo,1.0,1.0
+2383783,262234,Sassuolo,Roma,2.0,4.0
+2383784,262234,Juventus,Napoli,3.0,2.0
+2383785,262234,Napoli,Sassuolo,1.0,0.0
+2383786,262234,Roma,Bologna,1.0,1.0
+2383787,262234,Bologna,Napoli,0.0,2.0
+2383788,262234,Sassuolo,Juventus,2.0,5.0
+2383789,262234,Juventus,Bologna,1.0,1.0
+2383790,262234,Napoli,Roma,3.0,1.0
+2383791,262234,Juventus,Roma,1.0,5.0
+2383792,262234,Sassuolo,Bologna,0.0,1.0
+2383793,262234,Roma,Sassuolo,1.0,3.0
+2383794,262234,Napoli,Juventus,4.0,1.0
 2383795,262234,Sassuolo,Napoli,,
 2383796,262234,Bologna,Roma,,
 2383797,262234,Napoli,Bologna,,
 2383798,262234,Juventus,Sassuolo,,
 2383799,262234,Bologna,Juventus,,
 2383800,262234,Roma,Napoli,,
-2384815,262287,Man Utd,Newcastle,2,4
-2384816,262287,Brighton,Aston Villa,2,1
-2384817,262287,Aston Villa,Man Utd,1,4
-2384818,262287,Newcastle,Nottm Forest,3,3
-2384819,262287,Nottm Forest,Aston Villa,0,2
-2384820,262287,Man Utd,Brighton,2,1
-2384821,262287,Brighton,Nottm Forest,2,1
-2384822,262287,Aston Villa,Newcastle,4,3
+2384815,262287,Man Utd,Newcastle,2.0,4.0
+2384816,262287,Brighton,Aston Villa,2.0,1.0
+2384817,262287,Aston Villa,Man Utd,1.0,4.0
+2384818,262287,Newcastle,Nottm Forest,3.0,3.0
+2384819,262287,Nottm Forest,Aston Villa,0.0,2.0
+2384820,262287,Man Utd,Brighton,2.0,1.0
+2384821,262287,Brighton,Nottm Forest,2.0,1.0
+2384822,262287,Aston Villa,Newcastle,4.0,3.0
 2384823,262287,Newcastle,Brighton,,
 2384824,262287,Nottm Forest,Man Utd,,
 2384825,262287,Newcastle,Man Utd,,
@@ -71396,13 +71396,61 @@ id,tournament_id,club1,club2,ht1,ht2
 2384832,262287,Newcastle,Aston Villa,,
 2384833,262287,Brighton,Newcastle,,
 2384834,262287,Man Utd,Nottm Forest,,
-2384635,262292,Bayern Munchen,Liverpool,1,3
-2384636,262292,Paris,Atleti,1,4
-2384637,262292,Atleti,Bayern Munchen,2,2
-2384638,262292,Liverpool,Real Madrid,0,1
-2384639,262292,Real Madrid,Atleti,0,3
-2384640,262292,Bayern Munchen,Paris,1,3
-2384641,262292,Paris,Real Madrid,2,2
-2384642,262292,Atleti,Liverpool,1,5
+2384635,262292,Bayern Munchen,Liverpool,1.0,3.0
+2384636,262292,Paris,Atleti,1.0,4.0
+2384637,262292,Atleti,Bayern Munchen,2.0,2.0
+2384638,262292,Liverpool,Real Madrid,0.0,1.0
+2384639,262292,Real Madrid,Atleti,0.0,3.0
+2384640,262292,Bayern Munchen,Paris,1.0,3.0
+2384641,262292,Paris,Real Madrid,2.0,2.0
+2384642,262292,Atleti,Liverpool,1.0,5.0
 2384643,262292,Liverpool,Paris,,
 2384644,262292,Real Madrid,Bayern Munchen,,
+2383941,262250,Real Madrid,Atleti,4,3
+2383942,262250,Barcelona,Villarreal,3,1
+2383943,262250,Villarreal,Real Madrid,2,1
+2383944,262250,Atleti,Athletic Club,2,1
+2383945,262250,Athletic Club,Villarreal,2,0
+2383946,262250,Real Madrid,Barcelona,1,3
+2383947,262250,Barcelona,Athletic Club,2,1
+2383948,262250,Villarreal,Atleti,3,3
+2383949,262250,Atleti,Barcelona,2,2
+2383950,262250,Athletic Club,Real Madrid,1,1
+2383951,262250,Atleti,Real Madrid,0,0
+2383952,262250,Villarreal,Barcelona,0,0
+2383953,262250,Real Madrid,Villarreal,,
+2383954,262250,Athletic Club,Atleti,,
+2383955,262250,Villarreal,Athletic Club,,
+2383956,262250,Barcelona,Real Madrid,,
+2383957,262250,Athletic Club,Barcelona,,
+2383958,262250,Atleti,Villarreal,,
+2383959,262250,Barcelona,Atleti,,
+2383960,262250,Real Madrid,Athletic Club,,
+2383862,262254,Man City,Sporting CP,1,1
+2385457,262254,Juventus,B Dortmund,0,2
+2385458,262254,Juventus,Man City,0,2
+2385459,262254,B Dortmund,Sporting CP,1,3
+2385460,262254,Sporting CP,Juventus,2,2
+2385461,262254,B Dortmund,Man City,1,3
+2385462,262254,Man City,Sporting CP,2,1
+2385463,262254,Juventus,B Dortmund,0,1
+2385464,262254,Juventus,Man City,2,2
+2385465,262254,B Dortmund,Sporting CP,1,3
+2385466,262254,Sporting CP,Juventus,0,2
+2385467,262254,B Dortmund,Man City,2,0
+2385468,262254,Man City,Sporting CP,,
+2385469,262254,Juventus,B Dortmund,,
+2383877,262254,Juventus,Man City,,
+2383878,262254,B Dortmund,Sporting CP,,
+2385470,262254,Sporting CP,Juventus,,
+2385471,262254,B Dortmund,Man City,,
+2384371,262265,Chengdu Rongcheng,Shanghai Shenhua,2,0
+2384372,262265,Shandong Taishan,Shanghai Port,0,2
+2384373,262265,Shanghai Port,Chengdu Rongcheng,0,1
+2384374,262265,Shanghai Shenhua,Beijing Guoan,4,4
+2384375,262265,Beijing Guoan,Shanghai Port,1,3
+2384376,262265,Chengdu Rongcheng,Shandong Taishan,2,1
+2384377,262265,Shandong Taishan,Beijing Guoan,2,1
+2384378,262265,Shanghai Port,Shanghai Shenhua,3,2
+2384379,262265,Shanghai Shenhua,Shandong Taishan,2,2
+2384380,262265,Beijing Guoan,Chengdu Rongcheng,0,2
