@@ -12542,488 +12542,503 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1638153524,2026-11-17 19:45:00+00:00,England - National League North,Spalding United,Hebburn Town,moneyline,,1.8772,3.48,3.51,,,2026-11-17 19:18:21.529867+00:00
 1638153524,2026-11-17 19:45:00+00:00,England - National League North,Spalding United,Hebburn Town,spread,-0.5,1.9174,1.9009,,,,2026-11-17 19:18:21.529867+00:00
 1638153524,2026-11-17 19:45:00+00:00,England - National League North,Spalding United,Hebburn Town,total,2.75,,,,1.8547,1.9524,2026-11-17 19:18:21.529867+00:00
-1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,moneyline,,5.49,1.5882,3.66,,,2026-11-17 19:48:40.377305+00:00
-1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,spread,1.0,1.8403,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,total,2.5,,,,1.9524,1.8333,2026-11-17 19:48:40.377305+00:00
-1640432796,2026-11-20 19:30:00+00:00,Spain - Segunda Division,FC Andorra,Leganes,moneyline,,1.885,4.11,3.62,,,2026-11-17 19:48:40.377305+00:00
-1640432796,2026-11-20 19:30:00+00:00,Spain - Segunda Division,FC Andorra,Leganes,spread,-0.5,1.8929,1.9615,,,,2026-11-17 19:48:40.377305+00:00
-1640432796,2026-11-20 19:30:00+00:00,Spain - Segunda Division,FC Andorra,Leganes,total,2.5,,,,1.8264,2.02,2026-11-17 19:48:40.377305+00:00
-1640357007,2026-11-18 18:00:00+00:00,Germany - Regionalliga North,Jeddeloh,Phonix Lubeck,moneyline,,3.71,1.7576,4.05,,,2026-11-17 19:48:40.377305+00:00
-1640357007,2026-11-18 18:00:00+00:00,Germany - Regionalliga North,Jeddeloh,Phonix Lubeck,spread,0.75,1.8475,1.9434,,,,2026-11-17 19:48:40.377305+00:00
-1640357007,2026-11-18 18:00:00+00:00,Germany - Regionalliga North,Jeddeloh,Phonix Lubeck,total,3.5,,,,1.9346,1.8547,2026-11-17 19:48:40.377305+00:00
-1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,moneyline,,1.1391,18.66,8.34,,,2026-11-17 19:48:40.377305+00:00
-1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,spread,-2.0,1.8547,1.9804,,,,2026-11-17 19:48:40.377305+00:00
-1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,total,3.0,,,,2.01,1.8197,2026-11-17 19:48:40.377305+00:00
-1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,moneyline,,2.49,2.54,3.97,,,2026-11-17 19:48:40.377305+00:00
-1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,spread,0.0,1.9009,1.9434,,,,2026-11-17 19:48:40.377305+00:00
-1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,total,3.75,,,,1.9259,1.9091,2026-11-17 19:48:40.377305+00:00
-1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,moneyline,,1.3185,7.71,5.59,,,2026-11-17 19:48:40.377305+00:00
-1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,spread,-1.5,1.9009,1.9009,,,,2026-11-17 19:48:40.377305+00:00
-1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,total,3.25,,,,1.8547,1.9346,2026-11-17 19:48:40.377305+00:00
-1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,moneyline,,1.8772,4.41,2.78,,,2026-11-17 19:48:40.377305+00:00
-1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,spread,-0.5,1.8772,1.8333,,,,2026-11-17 19:48:40.377305+00:00
-1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,total,2.0,,,,2.02,1.7143,2026-11-17 19:48:40.377305+00:00
-1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,moneyline,,2.62,2.7,3.42,,,2026-11-17 19:48:40.377305+00:00
-1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,spread,0.0,1.8929,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,total,2.75,,,,2.03,1.8197,2026-11-17 19:48:40.377305+00:00
-1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,moneyline,,1.8696,4.22,3.19,,,2026-11-17 19:48:40.377305+00:00
-1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,spread,-0.5,1.8696,1.9174,,,,2026-11-17 19:48:40.377305+00:00
-1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,total,2.25,,,,1.9434,1.8475,2026-11-17 19:48:40.377305+00:00
-1639799128,2026-11-20 16:30:00+00:00,Russia - Premier League,Rostov,Krylia Sovetov,moneyline,,1.9259,4.13,3.47,,,2026-11-17 19:48:40.377305+00:00
-1639799128,2026-11-20 16:30:00+00:00,Russia - Premier League,Rostov,Krylia Sovetov,spread,-0.5,1.9346,1.9174,,,,2026-11-17 19:48:40.377305+00:00
-1639799128,2026-11-20 16:30:00+00:00,Russia - Premier League,Rostov,Krylia Sovetov,total,2.25,,,,1.8475,2.0,2026-11-17 19:48:40.377305+00:00
-1640521848,2026-11-19 01:30:00+00:00,Panama - Primera Division,Independiente de La Chorrera,Tauro,moneyline,,2.4,2.76,3.27,,,2026-11-17 19:48:40.377305+00:00
-1640521848,2026-11-19 01:30:00+00:00,Panama - Primera Division,Independiente de La Chorrera,Tauro,spread,0.0,1.7634,2.04,,,,2026-11-17 19:48:40.377305+00:00
-1640521848,2026-11-19 01:30:00+00:00,Panama - Primera Division,Independiente de La Chorrera,Tauro,total,2.75,,,,1.9804,1.813,2026-11-17 19:48:40.377305+00:00
-1640315173,2026-11-20 18:00:00+00:00,Denmark - Division 1,Kolding,AaB,moneyline,,2.93,2.34,3.43,,,2026-11-17 19:48:40.377305+00:00
-1640315173,2026-11-20 18:00:00+00:00,Denmark - Division 1,Kolding,AaB,spread,0.25,1.7874,2.03,,,,2026-11-17 19:48:40.377305+00:00
-1640315173,2026-11-20 18:00:00+00:00,Denmark - Division 1,Kolding,AaB,total,2.75,,,,1.8621,1.9259,2026-11-17 19:48:40.377305+00:00
-1640277299,2026-11-20 19:30:00+00:00,Poland - 1st Liga,Miedz Legnica,LKS Lodz,moneyline,,2.3,2.94,3.5,,,2026-11-17 19:48:40.377305+00:00
-1640277299,2026-11-20 19:30:00+00:00,Poland - 1st Liga,Miedz Legnica,LKS Lodz,spread,-0.25,2.0,1.813,,,,2026-11-17 19:48:40.377305+00:00
-1640277299,2026-11-20 19:30:00+00:00,Poland - 1st Liga,Miedz Legnica,LKS Lodz,total,2.75,,,,1.8696,1.9174,2026-11-17 19:48:40.377305+00:00
-1640148876,2026-11-20 19:45:00+00:00,England - National League,Southend United,Boreham Wood,moneyline,,2.96,2.08,4.12,,,2026-11-17 19:48:40.377305+00:00
-1640148876,2026-11-20 19:45:00+00:00,England - National League,Southend United,Boreham Wood,spread,0.25,1.9615,1.8475,,,,2026-11-17 19:48:40.377305+00:00
-1640148876,2026-11-20 19:45:00+00:00,England - National League,Southend United,Boreham Wood,total,3.5,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640367722,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Atletico Saguntino,Jove Espanol,moneyline,,1.8696,4.11,3.13,,,2026-11-17 19:48:40.377305+00:00
-1640367722,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Atletico Saguntino,Jove Espanol,spread,-0.5,1.8696,1.885,,,,2026-11-17 19:48:40.377305+00:00
-1640367722,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Atletico Saguntino,Jove Espanol,total,2.25,,,,1.9524,1.8065,2026-11-17 19:48:40.377305+00:00
-1640567101,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MB Rouisset,Belouizdad,moneyline,,4.79,1.8929,2.99,,,2026-11-17 19:48:40.377305+00:00
-1640567101,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MB Rouisset,Belouizdad,spread,0.5,1.9259,1.8929,,,,2026-11-17 19:48:40.377305+00:00
-1640567101,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MB Rouisset,Belouizdad,total,1.75,,,,1.7752,2.04,2026-11-17 19:48:40.377305+00:00
-1640432776,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Almere City,NAC Breda,moneyline,,2.72,2.21,4.14,,,2026-11-17 19:48:40.377305+00:00
-1640432776,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Almere City,NAC Breda,spread,0.25,1.8403,1.9615,,,,2026-11-17 19:48:40.377305+00:00
-1640432776,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Almere City,NAC Breda,total,3.5,,,,1.9709,1.8197,2026-11-17 19:48:40.377305+00:00
-1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,moneyline,,6.28,1.4651,4.45,,,2026-11-17 19:48:40.377305+00:00
-1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,spread,1.0,2.02,1.7937,,,,2026-11-17 19:48:40.377305+00:00
-1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,total,2.75,,,,1.8264,1.9709,2026-11-17 19:48:40.377305+00:00
-1640277289,2026-11-20 19:00:00+00:00,France - Ligue 2,Metz,Boulogne,moneyline,,2.11,3.54,3.36,,,2026-11-17 19:48:40.377305+00:00
-1640277289,2026-11-20 19:00:00+00:00,France - Ligue 2,Metz,Boulogne,spread,-0.25,1.8197,2.02,,,,2026-11-17 19:48:40.377305+00:00
-1640277289,2026-11-20 19:00:00+00:00,France - Ligue 2,Metz,Boulogne,total,2.5,,,,1.9615,1.8547,2026-11-17 19:48:40.377305+00:00
-1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,moneyline,,4.4,1.7353,3.83,,,2026-11-17 19:48:40.377305+00:00
-1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,spread,0.75,1.8547,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,total,2.5,,,,1.813,1.9804,2026-11-17 19:48:40.377305+00:00
-1640278615,2026-11-20 19:30:00+00:00,Poland - Ekstraklasa,Pogon Szczecin,Slask Wroclaw,moneyline,,1.7752,4.19,3.93,,,2026-11-17 19:48:40.377305+00:00
-1640278615,2026-11-20 19:30:00+00:00,Poland - Ekstraklasa,Pogon Szczecin,Slask Wroclaw,spread,-0.75,2.0,1.8475,,,,2026-11-17 19:48:40.377305+00:00
-1640278615,2026-11-20 19:30:00+00:00,Poland - Ekstraklasa,Pogon Szczecin,Slask Wroclaw,total,3.0,,,,2.02,1.813,2026-11-17 19:48:40.377305+00:00
-1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,moneyline,,2.28,3.01,3.65,,,2026-11-17 19:48:40.377305+00:00
-1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,spread,-0.25,2.0,1.8772,,,,2026-11-17 19:48:40.377305+00:00
-1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,total,2.75,,,,1.885,1.9709,2026-11-17 19:48:40.377305+00:00
-1640278612,2026-11-20 19:00:00+00:00,France - Ligue 2,Nancy,Dijon,moneyline,,1.7576,4.34,3.89,,,2026-11-17 19:48:40.377305+00:00
-1640278612,2026-11-20 19:00:00+00:00,France - Ligue 2,Nancy,Dijon,spread,-0.75,2.02,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1640278612,2026-11-20 19:00:00+00:00,France - Ligue 2,Nancy,Dijon,total,2.75,,,,1.9259,1.8929,2026-11-17 19:48:40.377305+00:00
-1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,moneyline,,1.7519,3.63,3.94,,,2026-11-17 19:48:40.377305+00:00
-1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,spread,-0.75,1.9524,1.8065,,,,2026-11-17 19:48:40.377305+00:00
-1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,total,3.0,,,,1.7937,1.9709,2026-11-17 19:48:40.377305+00:00
-1640443100,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,TOP Oss,Roda JC,moneyline,,3.46,1.9091,4.01,,,2026-11-17 19:48:40.377305+00:00
-1640443100,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,TOP Oss,Roda JC,spread,0.5,1.8929,1.9091,,,,2026-11-17 19:48:40.377305+00:00
-1640443100,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,TOP Oss,Roda JC,total,2.75,,,,1.8065,1.9901,2026-11-17 19:48:40.377305+00:00
-1640570297,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Neo Pipil,AD SESA,spread,-0.5,1.9259,1.8197,,,,2026-11-17 19:48:40.377305+00:00
-1640570297,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Neo Pipil,AD SESA,total,2.75,,,,1.7874,1.9615,2026-11-17 19:48:40.377305+00:00
-1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,moneyline,,1.4464,5.84,4.24,,,2026-11-17 19:48:40.377305+00:00
-1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,spread,-1.25,1.9709,1.7937,,,,2026-11-17 19:48:40.377305+00:00
-1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,total,3.0,,,,1.9901,1.7752,2026-11-17 19:48:40.377305+00:00
-1640469784,2026-11-18 01:00:00+00:00,Mexico - Liga TDP,Formacion Metropolitana,Conejos de Tuxtepec,moneyline,,1.8696,2.73,4.6,,,2026-11-17 19:48:40.377305+00:00
-1640469784,2026-11-18 01:00:00+00:00,Mexico - Liga TDP,Formacion Metropolitana,Conejos de Tuxtepec,spread,-0.5,1.8696,1.8403,,,,2026-11-17 19:48:40.377305+00:00
-1640469784,2026-11-18 01:00:00+00:00,Mexico - Liga TDP,Formacion Metropolitana,Conejos de Tuxtepec,total,3.25,,,,1.8065,1.9009,2026-11-17 19:48:40.377305+00:00
-1640621531,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Academia BP,Marte Soyapango,spread,0.75,1.9901,1.7634,,,,2026-11-17 19:48:40.377305+00:00
-1640621531,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Academia BP,Marte Soyapango,total,3.0,,,,1.8403,1.9009,2026-11-17 19:48:40.377305+00:00
-1640469811,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CS Constantine,Ben Aknoun,moneyline,,2.14,3.63,3.04,,,2026-11-17 19:48:40.377305+00:00
-1640469811,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CS Constantine,Ben Aknoun,spread,-0.25,1.8264,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640469811,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CS Constantine,Ben Aknoun,total,2.0,,,,1.8197,1.9901,2026-11-17 19:48:40.377305+00:00
-1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,moneyline,,1.6452,5.11,4.09,,,2026-11-17 19:48:40.377305+00:00
-1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,spread,-0.75,1.8197,2.04,,,,2026-11-17 19:48:40.377305+00:00
-1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,total,2.75,,,,1.9615,1.8772,2026-11-17 19:48:40.377305+00:00
-1640428840,2026-11-20 15:25:00+00:00,UAE - Pro League,Shabab Al Ahli,Ajman,moneyline,,1.4545,5.69,4.87,,,2026-11-17 19:48:40.377305+00:00
-1640428840,2026-11-20 15:25:00+00:00,UAE - Pro League,Shabab Al Ahli,Ajman,spread,-1.25,2.02,1.7937,,,,2026-11-17 19:48:40.377305+00:00
-1640428840,2026-11-20 15:25:00+00:00,UAE - Pro League,Shabab Al Ahli,Ajman,total,3.0,,,,1.8,2.0,2026-11-17 19:48:40.377305+00:00
-1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,moneyline,,2.12,3.32,3.35,,,2026-11-17 19:48:40.377305+00:00
-1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,spread,-0.25,1.8403,1.9804,,,,2026-11-17 19:48:40.377305+00:00
-1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,total,2.5,,,,1.8403,1.9615,2026-11-17 19:48:40.377305+00:00
-1640349186,2026-11-18 13:00:00+00:00,India - I-League,FC Bengaluru United,Sreenidi Deccan,moneyline,,3.26,2.02,3.53,,,2026-11-17 19:48:40.377305+00:00
-1640349186,2026-11-18 13:00:00+00:00,India - I-League,FC Bengaluru United,Sreenidi Deccan,spread,0.5,1.7812,2.02,,,,2026-11-17 19:48:40.377305+00:00
-1640349186,2026-11-18 13:00:00+00:00,India - I-League,FC Bengaluru United,Sreenidi Deccan,total,2.75,,,,1.9524,1.8403,2026-11-17 19:48:40.377305+00:00
-1640403536,2026-11-20 19:45:00+00:00,Northern Ireland - Premiership,Cliftonville,Glentoran,moneyline,,2.85,2.35,3.5,,,2026-11-17 19:48:40.377305+00:00
-1640403536,2026-11-20 19:45:00+00:00,Northern Ireland - Premiership,Cliftonville,Glentoran,spread,0.25,1.7752,2.04,,,,2026-11-17 19:48:40.377305+00:00
-1640403536,2026-11-20 19:45:00+00:00,Northern Ireland - Premiership,Cliftonville,Glentoran,total,2.75,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640358388,2026-11-18 22:00:00+00:00,Venezuela - Cup,Deportivo Tachira,Academia Puerto Cabello,moneyline,,1.6667,4.29,3.48,,,2026-11-17 19:48:40.377305+00:00
-1640358388,2026-11-18 22:00:00+00:00,Venezuela - Cup,Deportivo Tachira,Academia Puerto Cabello,spread,-0.75,1.8696,1.8403,,,,2026-11-17 19:48:40.377305+00:00
-1640358388,2026-11-18 22:00:00+00:00,Venezuela - Cup,Deportivo Tachira,Academia Puerto Cabello,total,2.5,,,,1.8621,1.8475,2026-11-17 19:48:40.377305+00:00
-1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,moneyline,,1.2725,7.76,6.2,,,2026-11-17 19:48:40.377305+00:00
-1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,spread,-1.75,1.9259,1.8621,,,,2026-11-17 19:48:40.377305+00:00
-1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,total,3.75,,,,1.9009,1.8696,2026-11-17 19:48:40.377305+00:00
-1640441927,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Heracles Almelo,Jong PSV,moneyline,,1.1381,11.88,9.29,,,2026-11-17 19:48:40.377305+00:00
-1640441927,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Heracles Almelo,Jong PSV,spread,-2.25,1.8264,1.9615,,,,2026-11-17 19:48:40.377305+00:00
-1640441927,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Heracles Almelo,Jong PSV,total,4.25,,,,1.9901,1.7874,2026-11-17 19:48:40.377305+00:00
-1640443095,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,De Graafschap,Maastricht,moneyline,,1.7519,3.99,4.09,,,2026-11-17 19:48:40.377305+00:00
-1640443095,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,De Graafschap,Maastricht,spread,-0.75,1.9434,1.8621,,,,2026-11-17 19:48:40.377305+00:00
-1640443095,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,De Graafschap,Maastricht,total,3.25,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,moneyline,,3.24,2.41,2.77,,,2026-11-17 19:48:40.377305+00:00
-1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,spread,0.25,1.7692,2.03,,,,2026-11-17 19:48:40.377305+00:00
-1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,total,2.0,,,,1.9346,1.8547,2026-11-17 19:48:40.377305+00:00
-1640372971,2026-11-19 08:30:00+00:00,Australia - Championship,Queensland Lions,Wollongong Wolves,moneyline,,1.5435,4.92,4.54,,,2026-11-17 19:48:40.377305+00:00
-1640372971,2026-11-19 08:30:00+00:00,Australia - Championship,Queensland Lions,Wollongong Wolves,spread,-1.0,1.8475,1.9709,,,,2026-11-17 19:48:40.377305+00:00
-1640372971,2026-11-19 08:30:00+00:00,Australia - Championship,Queensland Lions,Wollongong Wolves,total,3.25,,,,1.813,2.0,2026-11-17 19:48:40.377305+00:00
-1640441923,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Den Bosch,VVV Venlo,moneyline,,2.05,3.18,3.87,,,2026-11-17 19:48:40.377305+00:00
-1640441923,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Den Bosch,VVV Venlo,spread,-0.25,1.8,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1640441923,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Den Bosch,VVV Venlo,total,3.5,,,,1.8264,1.9615,2026-11-17 19:48:40.377305+00:00
-1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,moneyline,,1.5618,5.35,4.44,,,2026-11-17 19:48:40.377305+00:00
-1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,spread,-1.0,1.9434,1.9091,,,,2026-11-17 19:48:40.377305+00:00
-1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,total,3.0,,,,2.01,1.8403,2026-11-17 19:48:40.377305+00:00
-1640413760,2026-11-18 18:00:00+00:00,Spain - Copa Catalunya,Can Vidalet,Barcelona Atletic,moneyline,,7.32,1.2358,5.57,,,2026-11-17 19:48:40.377305+00:00
-1640413760,2026-11-18 18:00:00+00:00,Spain - Copa Catalunya,Can Vidalet,Barcelona Atletic,spread,1.75,1.813,1.885,,,,2026-11-17 19:48:40.377305+00:00
-1640413760,2026-11-18 18:00:00+00:00,Spain - Copa Catalunya,Can Vidalet,Barcelona Atletic,total,3.25,,,,1.7937,1.9009,2026-11-17 19:48:40.377305+00:00
-1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,moneyline,,3.61,2.11,3.39,,,2026-11-17 19:48:40.377305+00:00
-1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,spread,0.25,2.05,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,total,2.75,,,,1.9259,1.9259,2026-11-17 19:48:40.377305+00:00
-1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,moneyline,,1.2725,8.4,5.85,,,2026-11-17 19:48:40.377305+00:00
-1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,spread,-1.5,1.8403,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,total,3.0,,,,1.9615,1.8333,2026-11-17 19:48:40.377305+00:00
-1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,moneyline,,3.79,1.8197,3.51,,,2026-11-17 19:48:40.377305+00:00
-1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,spread,0.5,1.9434,1.8197,,,,2026-11-17 19:48:40.377305+00:00
-1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,total,2.75,,,,1.885,1.8621,2026-11-17 19:48:40.377305+00:00
-1640278611,2026-11-20 19:00:00+00:00,France - Ligue 2,Annecy,Clermont,moneyline,,2.11,3.55,3.34,,,2026-11-17 19:48:40.377305+00:00
-1640278611,2026-11-20 19:00:00+00:00,France - Ligue 2,Annecy,Clermont,spread,-0.25,1.8197,2.03,,,,2026-11-17 19:48:40.377305+00:00
-1640278611,2026-11-20 19:00:00+00:00,France - Ligue 2,Annecy,Clermont,total,2.5,,,,2.01,1.8197,2026-11-17 19:48:40.377305+00:00
-1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,moneyline,,2.63,2.39,3.48,,,2026-11-17 19:48:40.377305+00:00
-1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,spread,0.0,1.9901,1.8065,,,,2026-11-17 19:48:40.377305+00:00
-1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,total,2.75,,,,1.885,1.9009,2026-11-17 19:48:40.377305+00:00
-1640459402,2026-11-20 19:30:00+00:00,Scotland - Championship,Inverness CT,Ayr United,moneyline,,1.6024,5.26,3.96,,,2026-11-17 19:48:40.377305+00:00
-1640459402,2026-11-20 19:30:00+00:00,Scotland - Championship,Inverness CT,Ayr United,spread,-0.75,1.7812,2.04,,,,2026-11-17 19:48:40.377305+00:00
-1640459402,2026-11-20 19:30:00+00:00,Scotland - Championship,Inverness CT,Ayr United,total,2.5,,,,1.8475,1.9434,2026-11-17 19:48:40.377305+00:00
-1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,moneyline,,1.2481,10.65,6.5,,,2026-11-17 19:48:40.377305+00:00
-1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,spread,-1.75,1.9346,1.9346,,,,2026-11-17 19:48:40.377305+00:00
-1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,total,3.25,,,,2.05,1.813,2026-11-17 19:48:40.377305+00:00
-1640277285,2026-11-20 19:00:00+00:00,France - Ligue 2,Guingamp,Rodez,moneyline,,2.04,3.42,3.68,,,2026-11-17 19:48:40.377305+00:00
-1640277285,2026-11-20 19:00:00+00:00,France - Ligue 2,Guingamp,Rodez,spread,-0.5,2.05,1.8,,,,2026-11-17 19:48:40.377305+00:00
-1640277285,2026-11-20 19:00:00+00:00,France - Ligue 2,Guingamp,Rodez,total,2.75,,,,1.8,2.03,2026-11-17 19:48:40.377305+00:00
-1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,moneyline,,1.8547,4.09,3.78,,,2026-11-17 19:48:40.377305+00:00
-1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,spread,-0.5,1.8696,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,total,2.5,,,,1.8929,1.9615,2026-11-17 19:48:40.377305+00:00
-1640391783,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Rapperswil-Jona,Aarau,moneyline,,3.16,2.07,3.81,,,2026-11-17 19:48:40.377305+00:00
-1640391783,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Rapperswil-Jona,Aarau,spread,0.25,1.9901,1.8197,,,,2026-11-17 19:48:40.377305+00:00
-1640391783,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Rapperswil-Jona,Aarau,total,3.25,,,,1.9346,1.8547,2026-11-17 19:48:40.377305+00:00
-1640443098,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,K. Lierse SK,Lokeren-Temse,moneyline,,3.91,1.8403,3.76,,,2026-11-17 19:48:40.377305+00:00
-1640443098,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,K. Lierse SK,Lokeren-Temse,spread,0.5,1.9615,1.8403,,,,2026-11-17 19:48:40.377305+00:00
-1640443098,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,K. Lierse SK,Lokeren-Temse,total,3.0,,,,1.8547,1.9346,2026-11-17 19:48:40.377305+00:00
-1640441924,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Volendam,Jong Ajax,moneyline,,1.8,3.48,4.49,,,2026-11-17 19:48:40.377305+00:00
-1640441924,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Volendam,Jong Ajax,spread,-0.75,1.9804,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1640441924,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Volendam,Jong Ajax,total,4.0,,,,1.9259,1.8621,2026-11-17 19:48:40.377305+00:00
-1640367731,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Club Atletico Pulpileno,Deportivo Maritimo,moneyline,,1.8197,4.0,3.34,,,2026-11-17 19:48:40.377305+00:00
-1640367731,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Club Atletico Pulpileno,Deportivo Maritimo,spread,-0.5,1.8197,1.9434,,,,2026-11-17 19:48:40.377305+00:00
-1640367731,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Club Atletico Pulpileno,Deportivo Maritimo,total,2.5,,,,1.9259,1.8264,2026-11-17 19:48:40.377305+00:00
-1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,moneyline,,2.88,2.47,3.42,,,2026-11-17 19:48:40.377305+00:00
-1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,spread,0.0,2.1,1.7874,,,,2026-11-17 19:48:40.377305+00:00
-1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,total,2.75,,,,2.0,1.8547,2026-11-17 19:48:40.377305+00:00
-1640358391,2026-11-18 23:00:00+00:00,Venezuela - Cup,UCV,Caracas,moneyline,,2.4,2.73,3.0,,,2026-11-17 19:48:40.377305+00:00
-1640358391,2026-11-18 23:00:00+00:00,Venezuela - Cup,UCV,Caracas,spread,0.0,1.7407,1.9901,,,,2026-11-17 19:48:40.377305+00:00
-1640358391,2026-11-18 23:00:00+00:00,Venezuela - Cup,UCV,Caracas,total,2.25,,,,1.7812,1.9346,2026-11-17 19:48:40.377305+00:00
-1640410841,2026-11-19 15:00:00+00:00,Egypt - Cup,Al Mokawloon Al Arab,El Qanah,moneyline,,1.8,4.07,3.15,,,2026-11-17 19:48:40.377305+00:00
-1640410841,2026-11-19 15:00:00+00:00,Egypt - Cup,Al Mokawloon Al Arab,El Qanah,spread,-0.5,1.8,1.9174,,,,2026-11-17 19:48:40.377305+00:00
-1640410841,2026-11-19 15:00:00+00:00,Egypt - Cup,Al Mokawloon Al Arab,El Qanah,total,2.25,,,,1.9434,1.7752,2026-11-17 19:48:40.377305+00:00
-1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,moneyline,,1.4167,5.87,5.18,,,2026-11-17 19:48:40.377305+00:00
-1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,spread,-1.25,1.8547,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,total,3.25,,,,1.9709,1.8197,2026-11-17 19:48:40.377305+00:00
-1639776936,2026-11-20 19:30:00+00:00,Germany - Bundesliga,Bayern Munich,FC Koln,moneyline,,1.0906,20.16,13.86,,,2026-11-17 19:48:40.377305+00:00
-1639776936,2026-11-20 19:30:00+00:00,Germany - Bundesliga,Bayern Munich,FC Koln,spread,-2.75,1.8621,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1639776936,2026-11-20 19:30:00+00:00,Germany - Bundesliga,Bayern Munich,FC Koln,total,4.25,,,,1.9009,1.9524,2026-11-17 19:48:40.377305+00:00
-1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,moneyline,,5.26,1.5464,3.82,,,2026-11-17 19:48:40.377305+00:00
-1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,spread,1.0,1.8333,1.9259,,,,2026-11-17 19:48:40.377305+00:00
-1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,total,2.5,,,,1.8,1.9615,2026-11-17 19:48:40.377305+00:00
-1640570231,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MC Alger,Olympique Akbou,moneyline,,1.4739,7.8,3.79,,,2026-11-17 19:48:40.377305+00:00
-1640570231,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MC Alger,Olympique Akbou,spread,-1.0,1.8264,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640570231,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MC Alger,Olympique Akbou,total,2.25,,,,2.04,1.7812,2026-11-17 19:48:40.377305+00:00
-1640278578,2026-11-20 16:00:00+00:00,Bulgaria - First League,Septemvri Sofia,Lokomotiv Plovdiv,moneyline,,2.5,2.96,3.11,,,2026-11-17 19:48:40.377305+00:00
-1640278578,2026-11-20 16:00:00+00:00,Bulgaria - First League,Septemvri Sofia,Lokomotiv Plovdiv,spread,0.0,1.7463,2.08,,,,2026-11-17 19:48:40.377305+00:00
-1640278578,2026-11-20 16:00:00+00:00,Bulgaria - First League,Septemvri Sofia,Lokomotiv Plovdiv,total,2.0,,,,1.7576,2.05,2026-11-17 19:48:40.377305+00:00
-1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,moneyline,,2.42,3.07,3.27,,,2026-11-17 19:48:40.377305+00:00
-1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,spread,-0.25,2.07,1.8,,,,2026-11-17 19:48:40.377305+00:00
-1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,total,2.25,,,,1.8621,1.9804,2026-11-17 19:48:40.377305+00:00
-1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,moneyline,,4.05,2.06,3.2,,,2026-11-17 19:48:40.377305+00:00
-1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,spread,0.5,1.813,2.06,,,,2026-11-17 19:48:40.377305+00:00
-1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,total,2.25,,,,2.05,1.8,2026-11-17 19:48:40.377305+00:00
-1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,moneyline,,4.28,1.7812,3.45,,,2026-11-17 19:48:40.377305+00:00
-1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,spread,0.75,1.7874,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,total,2.5,,,,2.02,1.7812,2026-11-17 19:48:40.377305+00:00
-1640391782,2026-11-20 19:15:00+00:00,Switzerland - Challenge League,Yverdon-Sport,Winterthur,moneyline,,2.12,3.1,3.74,,,2026-11-17 19:48:40.377305+00:00
-1640391782,2026-11-20 19:15:00+00:00,Switzerland - Challenge League,Yverdon-Sport,Winterthur,spread,-0.25,1.8547,1.9434,,,,2026-11-17 19:48:40.377305+00:00
-1640391782,2026-11-20 19:15:00+00:00,Switzerland - Challenge League,Yverdon-Sport,Winterthur,total,3.0,,,,1.9259,1.8621,2026-11-17 19:48:40.377305+00:00
-1640406555,2026-11-19 18:00:00+00:00,Egypt - Cup,ZED,Smouha,moneyline,,2.55,3.74,2.18,,,2026-11-17 19:48:40.377305+00:00
-1640406555,2026-11-19 18:00:00+00:00,Egypt - Cup,ZED,Smouha,spread,-0.25,2.06,1.6897,,,,2026-11-17 19:48:40.377305+00:00
-1640406555,2026-11-19 18:00:00+00:00,Egypt - Cup,ZED,Smouha,total,2.0,,,,1.9901,1.7407,2026-11-17 19:48:40.377305+00:00
-1640432728,2026-11-20 17:00:00+00:00,Turkey - 1st League,Igdir Belediyespor,Umraniyespor,moneyline,,1.8,4.12,3.76,,,2026-11-17 19:48:40.377305+00:00
-1640432728,2026-11-20 17:00:00+00:00,Turkey - 1st League,Igdir Belediyespor,Umraniyespor,spread,-0.5,1.8,2.02,,,,2026-11-17 19:48:40.377305+00:00
-1640432728,2026-11-20 17:00:00+00:00,Turkey - 1st League,Igdir Belediyespor,Umraniyespor,total,2.5,,,,1.9346,1.8547,2026-11-17 19:48:40.377305+00:00
-1640392606,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Neuchatel Xamax,Etoile Carouge,moneyline,,2.18,3.06,3.64,,,2026-11-17 19:48:40.377305+00:00
-1640392606,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Neuchatel Xamax,Etoile Carouge,spread,-0.25,1.9009,1.9009,,,,2026-11-17 19:48:40.377305+00:00
-1640392606,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Neuchatel Xamax,Etoile Carouge,total,3.0,,,,1.8475,1.9346,2026-11-17 19:48:40.377305+00:00
-1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,moneyline,,1.5917,5.12,4.44,,,2026-11-17 19:48:40.377305+00:00
-1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,spread,-1.0,2.01,1.8696,,,,2026-11-17 19:48:40.377305+00:00
-1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,total,3.0,,,,1.9615,1.8929,2026-11-17 19:48:40.377305+00:00
-1640326028,2026-11-18 03:00:00+00:00,CONCACAF - Nations League,Nicaragua,Montserrat,moneyline,,1.2028,9.53,6.65,,,2026-11-17 19:48:40.377305+00:00
-1640326028,2026-11-18 03:00:00+00:00,CONCACAF - Nations League,Nicaragua,Montserrat,spread,-1.75,1.8,1.9804,,,,2026-11-17 19:48:40.377305+00:00
-1640326028,2026-11-18 03:00:00+00:00,CONCACAF - Nations League,Nicaragua,Montserrat,total,3.0,,,,1.7752,2.01,2026-11-17 19:48:40.377305+00:00
-1639768423,2026-11-20 19:45:00+00:00,France - Ligue 1,Troyes,Le Havre,moneyline,,2.16,3.49,3.56,,,2026-11-17 19:48:40.377305+00:00
-1639768423,2026-11-20 19:45:00+00:00,France - Ligue 1,Troyes,Le Havre,spread,-0.5,2.16,1.7812,,,,2026-11-17 19:48:40.377305+00:00
-1639768423,2026-11-20 19:45:00+00:00,France - Ligue 1,Troyes,Le Havre,total,2.5,,,,1.885,2.0,2026-11-17 19:48:40.377305+00:00
-1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,moneyline,,3.15,2.13,3.2,,,2026-11-17 19:48:40.377305+00:00
-1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,spread,0.25,1.9009,1.8547,,,,2026-11-17 19:48:40.377305+00:00
-1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,total,2.75,,,,1.9524,1.8065,2026-11-17 19:48:40.377305+00:00
-1640441925,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Jong Utrecht,Emmen,moneyline,,3.09,2.0,4.19,,,2026-11-17 19:48:40.377305+00:00
-1640441925,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Jong Utrecht,Emmen,spread,0.5,1.813,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640441925,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Jong Utrecht,Emmen,total,3.5,,,,1.9804,1.813,2026-11-17 19:48:40.377305+00:00
-1640551635,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,CA Cerro,Nacional de Football,moneyline,,4.61,1.7143,3.79,,,2026-11-17 19:48:40.377305+00:00
-1640551635,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,CA Cerro,Nacional de Football,spread,0.75,1.8772,1.9259,,,,2026-11-17 19:48:40.377305+00:00
-1640551635,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,CA Cerro,Nacional de Football,total,2.5,,,,1.9174,1.8696,2026-11-17 19:48:40.377305+00:00
-1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,moneyline,,3.0,2.29,3.06,,,2026-11-17 19:48:40.377305+00:00
-1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,spread,0.25,1.7937,1.9709,,,,2026-11-17 19:48:40.377305+00:00
-1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,total,2.25,,,,1.7576,2.01,2026-11-17 19:48:40.377305+00:00
-1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,moneyline,,2.82,2.77,2.71,,,2026-11-17 19:48:40.377305+00:00
-1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,spread,0.0,1.9091,1.8772,,,,2026-11-17 19:48:40.377305+00:00
-1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,total,2.0,,,,2.04,1.7692,2026-11-17 19:48:40.377305+00:00
-1640357019,2026-11-18 19:00:00+00:00,Spain - Segunda Federacion,Bergantinos,Sestao River,moneyline,,2.54,2.58,3.3,,,2026-11-17 19:48:40.377305+00:00
-1640357019,2026-11-18 19:00:00+00:00,Spain - Segunda Federacion,Bergantinos,Sestao River,spread,0.0,1.8772,1.9091,,,,2026-11-17 19:48:40.377305+00:00
-1640357019,2026-11-18 19:00:00+00:00,Spain - Segunda Federacion,Bergantinos,Sestao River,total,2.5,,,,2.02,1.7812,2026-11-17 19:48:40.377305+00:00
-1640357020,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Bunol,Hercules CF II,moneyline,,2.31,3.17,2.87,,,2026-11-17 19:48:40.377305+00:00
-1640357020,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Bunol,Hercules CF II,spread,-0.25,1.9615,1.8,,,,2026-11-17 19:48:40.377305+00:00
-1640357020,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Bunol,Hercules CF II,total,2.0,,,,1.813,1.9434,2026-11-17 19:48:40.377305+00:00
-1640403535,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Nyonnais,FC Wil,moneyline,,4.16,1.7042,4.17,,,2026-11-17 19:48:40.377305+00:00
-1640403535,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Nyonnais,FC Wil,spread,0.75,1.9009,1.9009,,,,2026-11-17 19:48:40.377305+00:00
-1640403535,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Nyonnais,FC Wil,total,3.25,,,,2.0,1.7937,2026-11-17 19:48:40.377305+00:00
-1640331122,2026-11-18 12:00:00+00:00,ASEAN - Club Championship,Borneo Samarinda,Manila Digger,moneyline,,1.5208,5.63,4.01,,,2026-11-17 19:48:40.377305+00:00
-1640331122,2026-11-18 12:00:00+00:00,ASEAN - Club Championship,Borneo Samarinda,Manila Digger,spread,-1.0,1.885,1.9009,,,,2026-11-17 19:48:40.377305+00:00
-1640331122,2026-11-18 12:00:00+00:00,ASEAN - Club Championship,Borneo Samarinda,Manila Digger,total,2.75,,,,1.9259,1.8621,2026-11-17 19:48:40.377305+00:00
-1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,moneyline,,1.5348,5.92,3.98,,,2026-11-17 19:48:40.377305+00:00
-1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,spread,-1.0,1.8929,1.9259,,,,2026-11-17 19:48:40.377305+00:00
-1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,total,2.75,,,,1.9091,1.8929,2026-11-17 19:48:40.377305+00:00
-1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,moneyline,,1.0902,16.08,8.77,,,2026-11-17 19:48:40.377305+00:00
-1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,spread,-2.5,1.9615,1.7576,,,,2026-11-17 19:48:40.377305+00:00
-1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,total,3.5,,,,1.813,1.9009,2026-11-17 19:48:40.377305+00:00
-1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,moneyline,,2.48,2.54,3.66,,,2026-11-17 19:48:40.377305+00:00
-1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,spread,0.0,1.885,1.9346,,,,2026-11-17 19:48:40.377305+00:00
-1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,total,3.25,,,,1.9174,1.885,2026-11-17 19:48:40.377305+00:00
-1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,moneyline,,1.5319,5.99,4.28,,,2026-11-17 19:48:40.377305+00:00
-1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,spread,-1.0,1.9009,1.9434,,,,2026-11-17 19:48:40.377305+00:00
-1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,total,2.5,,,,1.8264,2.02,2026-11-17 19:48:40.377305+00:00
-1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,moneyline,,1.1266,14.04,9.07,,,2026-11-17 19:48:40.377305+00:00
-1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,spread,-2.25,1.8333,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,total,3.75,,,,1.813,1.9615,2026-11-17 19:48:40.377305+00:00
-1640278588,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Floridsdorfer AC,Austria Vienna II,moneyline,,2.19,3.14,3.49,,,2026-11-17 19:48:40.377305+00:00
-1640278588,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Floridsdorfer AC,Austria Vienna II,spread,-0.25,1.9009,1.9009,,,,2026-11-17 19:48:40.377305+00:00
-1640278588,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Floridsdorfer AC,Austria Vienna II,total,2.5,,,,1.8333,1.9524,2026-11-17 19:48:40.377305+00:00
-1640560400,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Racing Club de Montevideo,Central Espanol,moneyline,,1.625,5.31,3.82,,,2026-11-17 19:48:40.377305+00:00
-1640560400,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Racing Club de Montevideo,Central Espanol,spread,-0.75,1.8065,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640560400,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Racing Club de Montevideo,Central Espanol,total,2.5,,,,2.02,1.7812,2026-11-17 19:48:40.377305+00:00
-1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,moneyline,,1.0669,30.69,12.89,,,2026-11-17 19:48:40.377305+00:00
-1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,spread,-2.75,1.9901,1.8333,,,,2026-11-17 19:48:40.377305+00:00
-1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,total,3.5,,,,1.9901,1.8197,2026-11-17 19:48:40.377305+00:00
-1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,moneyline,,3.68,2.02,3.15,,,2026-11-17 19:48:40.377305+00:00
-1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,spread,0.5,1.7812,2.02,,,,2026-11-17 19:48:40.377305+00:00
-1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,total,2.25,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640356977,2026-11-18 17:00:00+00:00,Spain - Tercera Division,Cartagena II,Santomera,moneyline,,3.8,1.8264,3.46,,,2026-11-17 19:48:40.377305+00:00
-1640356977,2026-11-18 17:00:00+00:00,Spain - Tercera Division,Cartagena II,Santomera,spread,0.5,1.9259,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1640356977,2026-11-18 17:00:00+00:00,Spain - Tercera Division,Cartagena II,Santomera,total,2.75,,,,1.9709,1.7874,2026-11-17 19:48:40.377305+00:00
-1640392664,2026-11-18 19:30:00+00:00,Uruguay - Segunda Division,Atenas,Fenix,moneyline,,2.35,3.07,3.01,,,2026-11-17 19:48:40.377305+00:00
-1640392664,2026-11-18 19:30:00+00:00,Uruguay - Segunda Division,Atenas,Fenix,spread,-0.25,2.01,1.7874,,,,2026-11-17 19:48:40.377305+00:00
-1640392664,2026-11-18 19:30:00+00:00,Uruguay - Segunda Division,Atenas,Fenix,total,2.25,,,,2.02,1.7874,2026-11-17 19:48:40.377305+00:00
-1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,moneyline,,1.4065,7.86,4.63,,,2026-11-17 19:48:40.377305+00:00
-1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,spread,-1.25,1.9901,1.8621,,,,2026-11-17 19:48:40.377305+00:00
-1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,total,2.5,,,,1.8333,2.01,2026-11-17 19:48:40.377305+00:00
-1640277306,2026-11-20 18:00:00+00:00,Germany - 3. Liga,Havelse,Viktoria Koln,moneyline,,5.53,1.4464,5.08,,,2026-11-17 19:48:40.377305+00:00
-1640277306,2026-11-20 18:00:00+00:00,Germany - 3. Liga,Havelse,Viktoria Koln,spread,1.25,1.9174,1.885,,,,2026-11-17 19:48:40.377305+00:00
-1640277306,2026-11-20 18:00:00+00:00,Germany - 3. Liga,Havelse,Viktoria Koln,total,3.5,,,,1.885,1.9009,2026-11-17 19:48:40.377305+00:00
-1640277248,2026-11-20 18:00:00+00:00,Denmark - Superliga,AGF,Lyngby,moneyline,,1.7463,4.28,4.08,,,2026-11-17 19:48:40.377305+00:00
-1640277248,2026-11-20 18:00:00+00:00,Denmark - Superliga,AGF,Lyngby,spread,-0.75,1.9615,1.8929,,,,2026-11-17 19:48:40.377305+00:00
-1640277248,2026-11-20 18:00:00+00:00,Denmark - Superliga,AGF,Lyngby,total,3.0,,,,1.9434,1.8929,2026-11-17 19:48:40.377305+00:00
-1640368758,2026-11-18 20:30:00+00:00,Venezuela - Cup,Carabobo,Zamora,moneyline,,1.5128,5.28,3.71,,,2026-11-17 19:48:40.377305+00:00
-1640368758,2026-11-18 20:30:00+00:00,Venezuela - Cup,Carabobo,Zamora,spread,-1.0,1.8929,1.8197,,,,2026-11-17 19:48:40.377305+00:00
-1640368758,2026-11-18 20:30:00+00:00,Venezuela - Cup,Carabobo,Zamora,total,2.5,,,,1.9091,1.8,2026-11-17 19:48:40.377305+00:00
-1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,moneyline,,2.68,2.82,2.8,,,2026-11-17 19:48:40.377305+00:00
-1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,spread,0.0,1.8475,1.9434,,,,2026-11-17 19:48:40.377305+00:00
-1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,total,1.75,,,,1.8333,1.9524,2026-11-17 19:48:40.377305+00:00
-1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,moneyline,,2.01,3.39,3.91,,,2026-11-17 19:48:40.377305+00:00
-1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,spread,-0.5,2.02,1.8475,,,,2026-11-17 19:48:40.377305+00:00
-1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,total,3.0,,,,1.8621,1.9804,2026-11-17 19:48:40.377305+00:00
-1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,moneyline,,1.0706,22.85,12.19,,,2026-11-17 19:48:40.377305+00:00
-1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,spread,-3.0,1.9434,1.8475,,,,2026-11-17 19:48:40.377305+00:00
-1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,total,4.0,,,,1.7874,2.01,2026-11-17 19:48:40.377305+00:00
-1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,moneyline,,1.6849,4.44,4.28,,,2026-11-17 19:48:40.377305+00:00
-1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,spread,-0.75,1.8696,1.9901,,,,2026-11-17 19:48:40.377305+00:00
-1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,total,3.25,,,,1.9524,1.8772,2026-11-17 19:48:40.377305+00:00
-1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,moneyline,,3.01,2.13,3.85,,,2026-11-17 19:48:40.377305+00:00
-1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,spread,0.25,1.9346,1.8696,,,,2026-11-17 19:48:40.377305+00:00
-1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,total,3.25,,,,1.9091,1.8772,2026-11-17 19:48:40.377305+00:00
-1640443097,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Vitesse Arnhem,Jong AZ Alkmaar,moneyline,,1.9259,3.42,3.97,,,2026-11-17 19:48:40.377305+00:00
-1640443097,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Vitesse Arnhem,Jong AZ Alkmaar,spread,-0.5,1.9259,1.8772,,,,2026-11-17 19:48:40.377305+00:00
-1640443097,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Vitesse Arnhem,Jong AZ Alkmaar,total,3.25,,,,1.8065,1.9901,2026-11-17 19:48:40.377305+00:00
-1640620908,2026-11-18 01:00:00+00:00,Panama - Liga Prom,Chorrillo,Academia Costa del Este,spread,0.0,1.9091,1.8065,,,,2026-11-17 19:48:40.377305+00:00
-1640620908,2026-11-18 01:00:00+00:00,Panama - Liga Prom,Chorrillo,Academia Costa del Este,total,3.0,,,,1.7812,1.9346,2026-11-17 19:48:40.377305+00:00
-1640270741,2026-11-20 17:00:00+00:00,Ecuador - Serie A,Independiente del Valle,Macara,moneyline,,1.495,7.25,3.82,,,2026-11-17 19:48:40.377305+00:00
-1640270741,2026-11-20 17:00:00+00:00,Ecuador - Serie A,Independiente del Valle,Macara,spread,-1.0,1.8065,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1640270741,2026-11-20 17:00:00+00:00,Ecuador - Serie A,Independiente del Valle,Macara,total,2.75,,,,1.8621,1.9259,2026-11-17 19:48:40.377305+00:00
-1640406517,2026-11-20 17:30:00+00:00,Saudi Arabia - Pro League,Al-Ahli,Al-Nassr,moneyline,,3.21,2.0,3.95,,,2026-11-17 19:48:40.377305+00:00
-1640406517,2026-11-20 17:30:00+00:00,Saudi Arabia - Pro League,Al-Ahli,Al-Nassr,spread,0.5,1.8065,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640406517,2026-11-20 17:30:00+00:00,Saudi Arabia - Pro League,Al-Ahli,Al-Nassr,total,3.25,,,,1.9901,1.8065,2026-11-17 19:48:40.377305+00:00
-1640546360,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Dragon,Tenancingo,spread,-0.5,1.9174,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1640546360,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Dragon,Tenancingo,total,2.75,,,,1.8621,1.8772,2026-11-17 19:48:40.377305+00:00
-1640278150,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Darmstadt,Heidenheim,moneyline,,3.45,2.0,3.88,,,2026-11-17 19:48:40.377305+00:00
-1640278150,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Darmstadt,Heidenheim,spread,0.5,1.8475,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1640278150,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Darmstadt,Heidenheim,total,3.0,,,,1.8547,1.9804,2026-11-17 19:48:40.377305+00:00
-1640357003,2026-11-18 18:00:00+00:00,Spain - Tercera Division,Vall de Uxo,Torrent,moneyline,,2.38,3.1,2.81,,,2026-11-17 19:48:40.377305+00:00
-1640357003,2026-11-18 18:00:00+00:00,Spain - Tercera Division,Vall de Uxo,Torrent,spread,-0.25,2.02,1.7519,,,,2026-11-17 19:48:40.377305+00:00
-1640357003,2026-11-18 18:00:00+00:00,Spain - Tercera Division,Vall de Uxo,Torrent,total,2.0,,,,1.8929,1.8621,2026-11-17 19:48:40.377305+00:00
-1640278109,2026-11-20 19:45:00+00:00,Belgium - Pro League,Cercle Brugge,KVC Westerlo,moneyline,,2.05,3.23,4.0,,,2026-11-17 19:48:40.377305+00:00
-1640278109,2026-11-20 19:45:00+00:00,Belgium - Pro League,Cercle Brugge,KVC Westerlo,spread,-0.5,2.05,1.813,,,,2026-11-17 19:48:40.377305+00:00
-1640278109,2026-11-20 19:45:00+00:00,Belgium - Pro League,Cercle Brugge,KVC Westerlo,total,3.25,,,,1.9524,1.885,2026-11-17 19:48:40.377305+00:00
-1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,moneyline,,3.24,2.02,3.39,,,2026-11-17 19:48:40.377305+00:00
-1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,spread,0.25,2.0,1.7692,,,,2026-11-17 19:48:40.377305+00:00
-1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,total,2.75,,,,1.8264,1.9259,2026-11-17 19:48:40.377305+00:00
-1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,moneyline,,1.1433,12.78,8.49,,,2026-11-17 19:48:40.377305+00:00
-1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,spread,-2.25,1.9091,1.8696,,,,2026-11-17 19:48:40.377305+00:00
-1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,total,3.5,,,,1.8475,1.9174,2026-11-17 19:48:40.377305+00:00
-1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,moneyline,,2.3,2.65,3.5,,,2026-11-17 19:48:40.377305+00:00
-1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,spread,0.0,1.7519,2.03,,,,2026-11-17 19:48:40.377305+00:00
-1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,total,3.0,,,,1.8772,1.8772,2026-11-17 19:48:40.377305+00:00
-1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,moneyline,,1.4651,5.53,4.25,,,2026-11-17 19:48:40.377305+00:00
-1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,spread,-1.25,1.9901,1.7752,,,,2026-11-17 19:48:40.377305+00:00
-1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,total,3.0,,,,1.9091,1.8475,2026-11-17 19:48:40.377305+00:00
-1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,moneyline,,5.85,1.5435,3.76,,,2026-11-17 19:48:40.377305+00:00
-1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,spread,1.0,1.8696,1.9174,,,,2026-11-17 19:48:40.377305+00:00
-1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,total,2.5,,,,1.9901,1.8065,2026-11-17 19:48:40.377305+00:00
-1640369121,2026-11-19 10:30:00+00:00,India - I-League,Dempo,Shillong Lajong,moneyline,,2.71,2.39,3.37,,,2026-11-17 19:48:40.377305+00:00
-1640369121,2026-11-19 10:30:00+00:00,India - I-League,Dempo,Shillong Lajong,spread,0.0,2.03,1.7752,,,,2026-11-17 19:48:40.377305+00:00
-1640369121,2026-11-19 10:30:00+00:00,India - I-League,Dempo,Shillong Lajong,total,2.75,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640391781,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Lausanne Ouchy,Kriens,moneyline,,1.4237,6.11,4.91,,,2026-11-17 19:48:40.377305+00:00
-1640391781,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Lausanne Ouchy,Kriens,spread,-1.25,1.9259,1.8772,,,,2026-11-17 19:48:40.377305+00:00
-1640391781,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Lausanne Ouchy,Kriens,total,3.25,,,,1.9259,1.8621,2026-11-17 19:48:40.377305+00:00
-1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,moneyline,,2.3,3.19,3.21,,,2026-11-17 19:48:40.377305+00:00
-1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,spread,-0.25,1.9615,1.8403,,,,2026-11-17 19:48:40.377305+00:00
-1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,total,2.5,,,,1.9434,1.8403,2026-11-17 19:48:40.377305+00:00
-1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,moneyline,,1.6579,4.56,4.01,,,2026-11-17 19:48:40.377305+00:00
-1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,spread,-0.75,1.8264,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,total,2.75,,,,1.8065,2.0,2026-11-17 19:48:40.377305+00:00
-1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,moneyline,,1.5814,4.77,3.88,,,2026-11-17 19:48:40.377305+00:00
-1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,spread,-1.0,2.03,1.7519,,,,2026-11-17 19:48:40.377305+00:00
-1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,total,3.0,,,,1.8475,1.9091,2026-11-17 19:48:40.377305+00:00
-1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,moneyline,,2.81,2.32,3.21,,,2026-11-17 19:48:40.377305+00:00
-1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,spread,0.25,1.7576,2.02,,,,2026-11-17 19:48:40.377305+00:00
-1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,total,2.75,,,,1.9615,1.8,2026-11-17 19:48:40.377305+00:00
-1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,moneyline,,2.15,3.12,3.61,,,2026-11-17 19:48:40.377305+00:00
-1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,spread,-0.25,1.8772,1.9259,,,,2026-11-17 19:48:40.377305+00:00
-1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,total,2.75,,,,1.8333,1.9615,2026-11-17 19:48:40.377305+00:00
-1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,moneyline,,2.07,3.36,3.29,,,2026-11-17 19:48:40.377305+00:00
-1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,spread,-0.25,1.7937,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,total,2.5,,,,1.9434,1.8475,2026-11-17 19:48:40.377305+00:00
-1640277286,2026-11-20 19:00:00+00:00,France - Ligue 2,Red Star,Pau FC,moneyline,,2.01,3.78,3.42,,,2026-11-17 19:48:40.377305+00:00
-1640277286,2026-11-20 19:00:00+00:00,France - Ligue 2,Red Star,Pau FC,spread,-0.5,2.02,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1640277286,2026-11-20 19:00:00+00:00,France - Ligue 2,Red Star,Pau FC,total,2.5,,,,1.8475,1.9804,2026-11-17 19:48:40.377305+00:00
-1640277290,2026-11-20 17:00:00+00:00,Poland - Ekstraklasa,Piast Gliwice,Korona Kielce,moneyline,,2.54,2.63,3.6,,,2026-11-17 19:48:40.377305+00:00
-1640277290,2026-11-20 17:00:00+00:00,Poland - Ekstraklasa,Piast Gliwice,Korona Kielce,spread,0.0,1.885,1.9524,,,,2026-11-17 19:48:40.377305+00:00
-1640277290,2026-11-20 17:00:00+00:00,Poland - Ekstraklasa,Piast Gliwice,Korona Kielce,total,2.75,,,,1.8696,1.9434,2026-11-17 19:48:40.377305+00:00
-1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,moneyline,,4.21,1.7937,3.74,,,2026-11-17 19:48:40.377305+00:00
-1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,spread,0.5,2.03,1.7874,,,,2026-11-17 19:48:40.377305+00:00
-1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,total,2.5,,,,1.8621,1.9174,2026-11-17 19:48:40.377305+00:00
-1640443099,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,Club NXT,Royal Excelsior Virton,moneyline,,2.43,2.7,3.6,,,2026-11-17 19:48:40.377305+00:00
-1640443099,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,Club NXT,Royal Excelsior Virton,spread,0.0,1.8,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1640443099,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,Club NXT,Royal Excelsior Virton,total,3.0,,,,1.8547,1.9346,2026-11-17 19:48:40.377305+00:00
-1640432764,2026-11-20 18:30:00+00:00,Romania - Liga 1,Farul Constanta,Universitatea Cluj,moneyline,,2.73,2.39,3.64,,,2026-11-17 19:48:40.377305+00:00
-1640432764,2026-11-20 18:30:00+00:00,Romania - Liga 1,Farul Constanta,Universitatea Cluj,spread,0.0,2.03,1.7874,,,,2026-11-17 19:48:40.377305+00:00
-1640432764,2026-11-20 18:30:00+00:00,Romania - Liga 1,Farul Constanta,Universitatea Cluj,total,2.75,,,,1.9009,1.885,2026-11-17 19:48:40.377305+00:00
-1640278156,2026-11-20 17:00:00+00:00,Poland - 1st Liga,Chrobry Glogow,Puszcza Niepolomice,moneyline,,2.23,3.17,3.38,,,2026-11-17 19:48:40.377305+00:00
-1640278156,2026-11-20 17:00:00+00:00,Poland - 1st Liga,Chrobry Glogow,Puszcza Niepolomice,spread,-0.25,1.9174,1.885,,,,2026-11-17 19:48:40.377305+00:00
-1640278156,2026-11-20 17:00:00+00:00,Poland - 1st Liga,Chrobry Glogow,Puszcza Niepolomice,total,2.5,,,,1.885,1.9009,2026-11-17 19:48:40.377305+00:00
-1640277265,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Rapid Vienna II,BW Linz,moneyline,,6.09,1.3891,5.39,,,2026-11-17 19:48:40.377305+00:00
-1640277265,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Rapid Vienna II,BW Linz,spread,1.25,1.9804,1.8264,,,,2026-11-17 19:48:40.377305+00:00
-1640277265,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Rapid Vienna II,BW Linz,total,3.25,,,,1.8,2.0,2026-11-17 19:48:40.377305+00:00
-1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,moneyline,,2.96,2.36,3.09,,,2026-11-17 19:48:40.377305+00:00
-1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,spread,0.25,1.7692,2.03,,,,2026-11-17 19:48:40.377305+00:00
-1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,total,2.25,,,,1.8475,1.9346,2026-11-17 19:48:40.377305+00:00
-1640403586,2026-11-18 22:30:00+00:00,Uruguay - Segunda Division,Colon,Club Oriental de La Paz,moneyline,,2.43,2.98,2.96,,,2026-11-17 19:48:40.377305+00:00
-1640403586,2026-11-18 22:30:00+00:00,Uruguay - Segunda Division,Colon,Club Oriental de La Paz,spread,-0.25,2.08,1.7407,,,,2026-11-17 19:48:40.377305+00:00
-1640403586,2026-11-18 22:30:00+00:00,Uruguay - Segunda Division,Colon,Club Oriental de La Paz,total,2.25,,,,2.05,1.7576,2026-11-17 19:48:40.377305+00:00
-1640443096,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Helmond Sport,Dordrecht,moneyline,,2.25,3.0,3.54,,,2026-11-17 19:48:40.377305+00:00
-1640443096,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Helmond Sport,Dordrecht,spread,-0.25,1.9524,1.8547,,,,2026-11-17 19:48:40.377305+00:00
-1640443096,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Helmond Sport,Dordrecht,total,3.0,,,,1.885,1.9009,2026-11-17 19:48:40.377305+00:00
-1640278619,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Arminia Bielefeld,FC Magdeburg,moneyline,,2.35,2.93,3.59,,,2026-11-17 19:48:40.377305+00:00
-1640278619,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Arminia Bielefeld,FC Magdeburg,spread,-0.25,2.04,1.8197,,,,2026-11-17 19:48:40.377305+00:00
-1640278619,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Arminia Bielefeld,FC Magdeburg,total,2.75,,,,1.885,1.9524,2026-11-17 19:48:40.377305+00:00
-1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,moneyline,,1.0756,22.52,14.18,,,2026-11-17 19:48:40.377305+00:00
-1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,spread,-2.5,1.8333,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,total,3.5,,,,1.8197,2.01,2026-11-17 19:48:40.377305+00:00
-1640278121,2026-11-20 17:30:00+00:00,Austria - 2. Liga,St. Polten,Voitsberg,moneyline,,1.9346,3.62,3.72,,,2026-11-17 19:48:40.377305+00:00
-1640278121,2026-11-20 17:30:00+00:00,Austria - 2. Liga,St. Polten,Voitsberg,spread,-0.5,1.9346,1.8696,,,,2026-11-17 19:48:40.377305+00:00
-1640278121,2026-11-20 17:30:00+00:00,Austria - 2. Liga,St. Polten,Voitsberg,total,3.0,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640315423,2026-11-20 18:00:00+00:00,Denmark - Division 1,Aarhus Fremad,Hobro,moneyline,,1.9091,3.85,3.58,,,2026-11-17 19:48:40.377305+00:00
-1640315423,2026-11-20 18:00:00+00:00,Denmark - Division 1,Aarhus Fremad,Hobro,spread,-0.5,1.9091,1.8929,,,,2026-11-17 19:48:40.377305+00:00
-1640315423,2026-11-20 18:00:00+00:00,Denmark - Division 1,Aarhus Fremad,Hobro,total,2.5,,,,1.8333,1.9524,2026-11-17 19:48:40.377305+00:00
-1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,moneyline,,2.04,3.49,3.4,,,2026-11-17 19:48:40.377305+00:00
-1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,spread,-0.5,2.04,1.7937,,,,2026-11-17 19:48:40.377305+00:00
-1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,total,2.75,,,,1.8772,1.9259,2026-11-17 19:48:40.377305+00:00
 1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,moneyline,,30.47,1.073,11.39,,,2026-11-17 19:48:40.377305+00:00
 1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,spread,2.75,1.813,2.02,,,,2026-11-17 19:48:40.377305+00:00
 1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,total,3.25,,,,1.813,2.0,2026-11-17 19:48:40.377305+00:00
-1640357013,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Soneja,Atzeneta,moneyline,,2.96,2.31,3.06,,,2026-11-17 19:48:40.377305+00:00
-1640357013,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Soneja,Atzeneta,spread,0.25,1.7752,1.9901,,,,2026-11-17 19:48:40.377305+00:00
-1640357013,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Soneja,Atzeneta,total,2.0,,,,1.7634,2.01,2026-11-17 19:48:40.377305+00:00
-1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,moneyline,,2.09,3.15,3.77,,,2026-11-17 19:48:40.377305+00:00
-1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,spread,-0.25,1.8264,1.9804,,,,2026-11-17 19:48:40.377305+00:00
-1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,total,3.0,,,,1.8547,1.9346,2026-11-17 19:48:40.377305+00:00
-1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,moneyline,,1.4785,6.75,4.13,,,2026-11-17 19:48:40.377305+00:00
-1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,spread,-1.0,1.8197,1.9901,,,,2026-11-17 19:48:40.377305+00:00
-1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,total,2.25,,,,1.8065,1.9901,2026-11-17 19:48:40.377305+00:00
-1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,moneyline,,5.39,1.5405,3.78,,,2026-11-17 19:48:40.377305+00:00
-1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,spread,1.0,1.8929,1.8547,,,,2026-11-17 19:48:40.377305+00:00
-1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,total,2.75,,,,1.9524,1.8065,2026-11-17 19:48:40.377305+00:00
-1640474257,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CR Temouchent,JS El Biar,moneyline,,2.49,3.37,2.69,,,2026-11-17 19:48:40.377305+00:00
-1640474257,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CR Temouchent,JS El Biar,spread,-0.25,2.07,1.7692,,,,2026-11-17 19:48:40.377305+00:00
-1640474257,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CR Temouchent,JS El Biar,total,2.0,,,,2.01,1.8065,2026-11-17 19:48:40.377305+00:00
-1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,moneyline,,2.8,2.58,2.94,,,2026-11-17 19:48:40.377305+00:00
-1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,spread,0.0,1.9804,1.813,,,,2026-11-17 19:48:40.377305+00:00
-1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,total,2.0,,,,1.7519,2.06,2026-11-17 19:48:40.377305+00:00
-1640570230,2026-11-19 19:00:00+00:00,Algeria - Ligue 1,JS Kabylie,USM Alger,moneyline,,2.21,3.75,2.85,,,2026-11-17 19:48:40.377305+00:00
-1640570230,2026-11-19 19:00:00+00:00,Algeria - Ligue 1,JS Kabylie,USM Alger,spread,-0.25,1.8621,1.9615,,,,2026-11-17 19:48:40.377305+00:00
-1640570230,2026-11-19 19:00:00+00:00,Algeria - Ligue 1,JS Kabylie,USM Alger,total,2.0,,,,1.9709,1.8333,2026-11-17 19:48:40.377305+00:00
-1640277268,2026-11-20 19:30:00+00:00,Austria - 2. Liga,Austria Salzburg,Admira Wacker,moneyline,,2.41,2.71,3.62,,,2026-11-17 19:48:40.377305+00:00
-1640277268,2026-11-20 19:30:00+00:00,Austria - 2. Liga,Austria Salzburg,Admira Wacker,spread,0.0,1.7937,2.03,,,,2026-11-17 19:48:40.377305+00:00
-1640277268,2026-11-20 19:30:00+00:00,Austria - 2. Liga,Austria Salzburg,Admira Wacker,total,3.0,,,,1.9615,1.8264,2026-11-17 19:48:40.377305+00:00
-1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,moneyline,,1.4926,5.88,4.36,,,2026-11-17 19:48:40.377305+00:00
-1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,spread,-1.0,1.8264,1.9804,,,,2026-11-17 19:48:40.377305+00:00
-1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,total,3.0,,,,1.9709,1.8264,2026-11-17 19:48:40.377305+00:00
-1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,moneyline,,2.48,3.65,2.46,,,2026-11-17 19:48:40.377305+00:00
-1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,spread,-0.25,2.04,1.7692,,,,2026-11-17 19:48:40.377305+00:00
-1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,total,1.75,,,,1.8333,1.9615,2026-11-17 19:48:40.377305+00:00
-1640278124,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Kapfenberger SV,Hertha Wels,moneyline,,2.74,2.33,3.74,,,2026-11-17 19:48:40.377305+00:00
-1640278124,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Kapfenberger SV,Hertha Wels,spread,0.25,1.7752,2.05,,,,2026-11-17 19:48:40.377305+00:00
-1640278124,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Kapfenberger SV,Hertha Wels,total,3.0,,,,1.9434,1.8475,2026-11-17 19:48:40.377305+00:00
-1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,moneyline,,1.625,4.5,3.82,,,2026-11-17 19:48:40.377305+00:00
-1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,spread,-0.75,1.7874,1.9804,,,,2026-11-17 19:48:40.377305+00:00
-1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,total,2.75,,,,1.7937,1.9709,2026-11-17 19:48:40.377305+00:00
-1640294219,2026-11-20 18:00:00+00:00,Norway - Eliteserien,Molde,Bodo Glimt,moneyline,,3.34,1.8547,4.77,,,2026-11-17 19:48:40.377305+00:00
-1640294219,2026-11-20 18:00:00+00:00,Norway - Eliteserien,Molde,Bodo Glimt,spread,0.5,2.0,1.8621,,,,2026-11-17 19:48:40.377305+00:00
-1640294219,2026-11-20 18:00:00+00:00,Norway - Eliteserien,Molde,Bodo Glimt,total,3.75,,,,1.8264,2.02,2026-11-17 19:48:40.377305+00:00
-1640278133,2026-11-20 19:30:00+00:00,Italy - Serie B,Hellas Verona,Cesena,moneyline,,1.6849,5.15,3.78,,,2026-11-17 19:48:40.377305+00:00
-1640278133,2026-11-20 19:30:00+00:00,Italy - Serie B,Hellas Verona,Cesena,spread,-0.75,1.885,1.9709,,,,2026-11-17 19:48:40.377305+00:00
-1640278133,2026-11-20 19:30:00+00:00,Italy - Serie B,Hellas Verona,Cesena,total,2.75,,,,1.9434,1.8929,2026-11-17 19:48:40.377305+00:00
-1640329802,2026-11-18 11:30:00+00:00,ASEAN - Club Championship,Tampines Rovers,Ratchaburi,moneyline,,3.1,2.0,3.8,,,2026-11-17 19:48:40.377305+00:00
-1640329802,2026-11-18 11:30:00+00:00,ASEAN - Club Championship,Tampines Rovers,Ratchaburi,spread,0.5,1.7937,2.0,,,,2026-11-17 19:48:40.377305+00:00
-1640329802,2026-11-18 11:30:00+00:00,ASEAN - Club Championship,Tampines Rovers,Ratchaburi,total,3.0,,,,1.8065,1.9901,2026-11-17 19:48:40.377305+00:00
-1640375861,2026-11-18 11:00:00+00:00,ASEAN - Club Championship,Cong An Ho Chi Minh City,Buriram United,moneyline,,3.43,1.8333,3.63,,,2026-11-17 19:48:40.377305+00:00
-1640375861,2026-11-18 11:00:00+00:00,ASEAN - Club Championship,Cong An Ho Chi Minh City,Buriram United,spread,0.5,1.8929,1.8333,,,,2026-11-17 19:48:40.377305+00:00
-1640375861,2026-11-18 11:00:00+00:00,ASEAN - Club Championship,Cong An Ho Chi Minh City,Buriram United,total,2.5,,,,1.9174,1.813,2026-11-17 19:48:40.377305+00:00
-1640420580,2026-11-20 15:30:00+00:00,Romania - Liga 1,Botosani,Voluntari,moneyline,,1.7576,4.31,3.79,,,2026-11-17 19:48:40.377305+00:00
-1640420580,2026-11-20 15:30:00+00:00,Romania - Liga 1,Botosani,Voluntari,spread,-0.75,2.0,1.813,,,,2026-11-17 19:48:40.377305+00:00
-1640420580,2026-11-20 15:30:00+00:00,Romania - Liga 1,Botosani,Voluntari,total,2.75,,,,1.9174,1.8621,2026-11-17 19:48:40.377305+00:00
-1640560405,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Liverpool Montevideo,Montevideo Wanderers,moneyline,,2.13,3.56,3.24,,,2026-11-17 19:48:40.377305+00:00
-1640560405,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Liverpool Montevideo,Montevideo Wanderers,spread,-0.25,1.8197,1.9901,,,,2026-11-17 19:48:40.377305+00:00
-1640560405,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Liverpool Montevideo,Montevideo Wanderers,total,2.5,,,,2.03,1.7752,2026-11-17 19:48:40.377305+00:00
-1640356968,2026-11-18 17:00:00+00:00,Spain - Tercera Division,CD Roda,Torrellano,moneyline,,1.9615,3.62,3.18,,,2026-11-17 19:48:40.377305+00:00
-1640356968,2026-11-18 17:00:00+00:00,Spain - Tercera Division,CD Roda,Torrellano,spread,-0.5,1.9615,1.8,,,,2026-11-17 19:48:40.377305+00:00
-1640356968,2026-11-18 17:00:00+00:00,Spain - Tercera Division,CD Roda,Torrellano,total,2.25,,,,1.8547,1.9009,2026-11-17 19:48:40.377305+00:00
-1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,moneyline,,1.6329,5.48,3.61,,,2026-11-17 19:48:40.377305+00:00
-1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,spread,-0.75,1.8197,2.01,,,,2026-11-17 19:48:40.377305+00:00
-1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,total,2.5,,,,1.9804,1.8264,2026-11-17 19:48:40.377305+00:00
-1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,moneyline,,1.6897,4.47,3.72,,,2026-11-17 19:48:40.377305+00:00
-1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,spread,-0.75,1.8696,1.9174,,,,2026-11-17 19:48:40.377305+00:00
-1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,total,2.75,,,,1.9524,1.8403,2026-11-17 19:48:40.377305+00:00
-1640406556,2026-11-18 15:00:00+00:00,Egypt - Cup,El Gounah,Al Ittihad Al Sakandary,moneyline,,3.9,2.24,2.63,,,2026-11-17 19:48:40.377305+00:00
-1640406556,2026-11-18 15:00:00+00:00,Egypt - Cup,El Gounah,Al Ittihad Al Sakandary,spread,0.25,1.9259,1.8621,,,,2026-11-17 19:48:40.377305+00:00
-1640406556,2026-11-18 15:00:00+00:00,Egypt - Cup,El Gounah,Al Ittihad Al Sakandary,total,1.75,,,,1.7752,2.03,2026-11-17 19:48:40.377305+00:00
+1640358391,2026-11-18 23:00:00+00:00,Venezuela - Cup,UCV,Caracas,moneyline,,2.43,2.76,2.9,,,2026-11-17 20:18:43.031081+00:00
+1640358391,2026-11-18 23:00:00+00:00,Venezuela - Cup,UCV,Caracas,spread,0.0,1.7407,1.9901,,,,2026-11-17 20:18:43.031081+00:00
+1640358391,2026-11-18 23:00:00+00:00,Venezuela - Cup,UCV,Caracas,total,2.25,,,,1.9259,1.7874,2026-11-17 20:18:43.031081+00:00
+1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,moneyline,,2.28,3.01,3.65,,,2026-11-17 20:18:43.031081+00:00
+1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,spread,-0.25,2.0,1.8772,,,,2026-11-17 20:18:43.031081+00:00
+1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,total,2.75,,,,1.885,1.9709,2026-11-17 20:18:43.031081+00:00
+1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,moneyline,,2.88,2.47,3.42,,,2026-11-17 20:18:43.031081+00:00
+1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,spread,0.0,2.1,1.7874,,,,2026-11-17 20:18:43.031081+00:00
+1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,total,2.75,,,,2.0,1.8547,2026-11-17 20:18:43.031081+00:00
+1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,moneyline,,3.24,2.41,2.77,,,2026-11-17 20:18:43.031081+00:00
+1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,spread,0.25,1.7692,2.03,,,,2026-11-17 20:18:43.031081+00:00
+1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,total,2.0,,,,1.9346,1.8547,2026-11-17 20:18:43.031081+00:00
+1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,moneyline,,2.42,3.07,3.27,,,2026-11-17 20:18:43.031081+00:00
+1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,spread,-0.25,2.07,1.8,,,,2026-11-17 20:18:43.031081+00:00
+1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,total,2.25,,,,1.8621,1.9804,2026-11-17 20:18:43.031081+00:00
+1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,moneyline,,2.96,2.36,3.09,,,2026-11-17 20:18:43.031081+00:00
+1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,spread,0.25,1.7692,2.03,,,,2026-11-17 20:18:43.031081+00:00
+1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,total,2.25,,,,1.8475,1.9346,2026-11-17 20:18:43.031081+00:00
+1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,moneyline,,2.0,3.56,3.42,,,2026-11-17 20:18:43.031081+00:00
+1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,spread,-0.5,2.0,1.8197,,,,2026-11-17 20:18:43.031081+00:00
+1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,total,2.75,,,,1.8696,1.9346,2026-11-17 20:18:43.031081+00:00
+1640375861,2026-11-18 11:00:00+00:00,ASEAN - Club Championship,Cong An Ho Chi Minh City,Buriram United,moneyline,,3.97,1.8264,3.19,,,2026-11-17 20:18:43.031081+00:00
+1640375861,2026-11-18 11:00:00+00:00,ASEAN - Club Championship,Cong An Ho Chi Minh City,Buriram United,spread,0.5,1.9009,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640375861,2026-11-18 11:00:00+00:00,ASEAN - Club Championship,Cong An Ho Chi Minh City,Buriram United,total,2.5,,,,1.9615,1.7692,2026-11-17 20:18:43.031081+00:00
+1640443097,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Vitesse Arnhem,Jong AZ Alkmaar,moneyline,,1.9259,3.42,3.97,,,2026-11-17 20:18:43.031081+00:00
+1640443097,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Vitesse Arnhem,Jong AZ Alkmaar,spread,-0.5,1.9259,1.8772,,,,2026-11-17 20:18:43.031081+00:00
+1640443097,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Vitesse Arnhem,Jong AZ Alkmaar,total,3.25,,,,1.8065,1.9901,2026-11-17 20:18:43.031081+00:00
+1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,moneyline,,4.4,1.7353,3.83,,,2026-11-17 20:18:43.031081+00:00
+1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,spread,0.75,1.8547,1.9524,,,,2026-11-17 20:18:43.031081+00:00
+1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,total,2.5,,,,1.813,1.9804,2026-11-17 20:18:43.031081+00:00
+1640277299,2026-11-20 19:30:00+00:00,Poland - 1st Liga,Miedz Legnica,LKS Lodz,moneyline,,2.3,2.94,3.5,,,2026-11-17 20:18:43.031081+00:00
+1640277299,2026-11-20 19:30:00+00:00,Poland - 1st Liga,Miedz Legnica,LKS Lodz,spread,-0.25,2.0,1.813,,,,2026-11-17 20:18:43.031081+00:00
+1640277299,2026-11-20 19:30:00+00:00,Poland - 1st Liga,Miedz Legnica,LKS Lodz,total,2.75,,,,1.8696,1.9174,2026-11-17 20:18:43.031081+00:00
+1640278588,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Floridsdorfer AC,Austria Vienna II,moneyline,,2.19,3.14,3.49,,,2026-11-17 20:18:43.031081+00:00
+1640278588,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Floridsdorfer AC,Austria Vienna II,spread,-0.25,1.9009,1.9009,,,,2026-11-17 20:18:43.031081+00:00
+1640278588,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Floridsdorfer AC,Austria Vienna II,total,2.5,,,,1.8333,1.9524,2026-11-17 20:18:43.031081+00:00
+1640349701,2026-11-18 19:30:00+00:00,Spain - Tercera Division,Alcantarilla,Minerva,moneyline,,1.6993,4.61,3.4,,,2026-11-17 20:18:43.031081+00:00
+1640349701,2026-11-18 19:30:00+00:00,Spain - Tercera Division,Alcantarilla,Minerva,spread,-0.75,1.9174,1.8403,,,,2026-11-17 20:18:43.031081+00:00
+1640349701,2026-11-18 19:30:00+00:00,Spain - Tercera Division,Alcantarilla,Minerva,total,2.25,,,,1.8065,1.9524,2026-11-17 20:18:43.031081+00:00
+1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,moneyline,,2.3,2.65,3.5,,,2026-11-17 20:18:43.031081+00:00
+1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,spread,0.0,1.7519,2.03,,,,2026-11-17 20:18:43.031081+00:00
+1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,total,3.0,,,,1.8772,1.8772,2026-11-17 20:18:43.031081+00:00
+1639776936,2026-11-20 19:30:00+00:00,Germany - Bundesliga,Bayern Munich,FC Koln,moneyline,,1.0906,20.16,13.86,,,2026-11-17 20:18:43.031081+00:00
+1639776936,2026-11-20 19:30:00+00:00,Germany - Bundesliga,Bayern Munich,FC Koln,spread,-2.75,1.8621,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1639776936,2026-11-20 19:30:00+00:00,Germany - Bundesliga,Bayern Munich,FC Koln,total,4.25,,,,1.9009,1.9524,2026-11-17 20:18:43.031081+00:00
+1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,moneyline,,1.2725,7.76,6.2,,,2026-11-17 20:18:43.031081+00:00
+1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,spread,-1.75,1.9259,1.8621,,,,2026-11-17 20:18:43.031081+00:00
+1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,total,3.75,,,,1.9009,1.8696,2026-11-17 20:18:43.031081+00:00
+1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,moneyline,,1.2481,10.65,6.5,,,2026-11-17 20:18:43.031081+00:00
+1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,spread,-1.75,1.9346,1.9346,,,,2026-11-17 20:18:43.031081+00:00
+1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,total,3.25,,,,2.05,1.813,2026-11-17 20:18:43.031081+00:00
+1640278124,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Kapfenberger SV,Hertha Wels,moneyline,,2.74,2.33,3.74,,,2026-11-17 20:18:43.031081+00:00
+1640278124,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Kapfenberger SV,Hertha Wels,spread,0.25,1.7752,2.05,,,,2026-11-17 20:18:43.031081+00:00
+1640278124,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Kapfenberger SV,Hertha Wels,total,3.0,,,,1.9434,1.8475,2026-11-17 20:18:43.031081+00:00
+1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,moneyline,,1.6897,4.47,3.72,,,2026-11-17 20:18:43.031081+00:00
+1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,spread,-0.75,1.8696,1.9174,,,,2026-11-17 20:18:43.031081+00:00
+1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,total,2.75,,,,1.9524,1.8403,2026-11-17 20:18:43.031081+00:00
+1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,moneyline,,2.09,3.15,3.77,,,2026-11-17 20:18:43.031081+00:00
+1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,spread,-0.25,1.8264,1.9804,,,,2026-11-17 20:18:43.031081+00:00
+1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,total,3.0,,,,1.8547,1.9346,2026-11-17 20:18:43.031081+00:00
+1640406555,2026-11-19 18:00:00+00:00,Egypt - Cup,ZED,Smouha,moneyline,,2.55,3.74,2.18,,,2026-11-17 20:18:43.031081+00:00
+1640406555,2026-11-19 18:00:00+00:00,Egypt - Cup,ZED,Smouha,spread,-0.25,2.06,1.6897,,,,2026-11-17 20:18:43.031081+00:00
+1640406555,2026-11-19 18:00:00+00:00,Egypt - Cup,ZED,Smouha,total,2.0,,,,1.9901,1.7407,2026-11-17 20:18:43.031081+00:00
+1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,moneyline,,5.39,1.5405,3.78,,,2026-11-17 20:18:43.031081+00:00
+1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,spread,1.0,1.8929,1.8547,,,,2026-11-17 20:18:43.031081+00:00
+1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,total,2.75,,,,1.9524,1.8065,2026-11-17 20:18:43.031081+00:00
+1640459402,2026-11-20 19:30:00+00:00,Scotland - Championship,Inverness CT,Ayr United,moneyline,,1.6024,5.26,3.96,,,2026-11-17 20:18:43.031081+00:00
+1640459402,2026-11-20 19:30:00+00:00,Scotland - Championship,Inverness CT,Ayr United,spread,-0.75,1.7812,2.04,,,,2026-11-17 20:18:43.031081+00:00
+1640459402,2026-11-20 19:30:00+00:00,Scotland - Championship,Inverness CT,Ayr United,total,2.5,,,,1.8475,1.9434,2026-11-17 20:18:43.031081+00:00
+1640357020,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Bunol,Hercules CF II,moneyline,,2.31,3.17,2.87,,,2026-11-17 20:18:43.031081+00:00
+1640357020,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Bunol,Hercules CF II,spread,-0.25,1.9615,1.8,,,,2026-11-17 20:18:43.031081+00:00
+1640357020,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Bunol,Hercules CF II,total,2.0,,,,1.813,1.9434,2026-11-17 20:18:43.031081+00:00
+1640403536,2026-11-20 19:45:00+00:00,Northern Ireland - Premiership,Cliftonville,Glentoran,moneyline,,2.85,2.35,3.5,,,2026-11-17 20:18:43.031081+00:00
+1640403536,2026-11-20 19:45:00+00:00,Northern Ireland - Premiership,Cliftonville,Glentoran,spread,0.25,1.7752,2.04,,,,2026-11-17 20:18:43.031081+00:00
+1640403536,2026-11-20 19:45:00+00:00,Northern Ireland - Premiership,Cliftonville,Glentoran,total,2.75,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,moneyline,,1.8547,4.09,3.78,,,2026-11-17 20:18:43.031081+00:00
+1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,spread,-0.5,1.8696,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,total,2.5,,,,1.8929,1.9615,2026-11-17 20:18:43.031081+00:00
+1640277285,2026-11-20 19:00:00+00:00,France - Ligue 2,Guingamp,Rodez,moneyline,,2.04,3.42,3.68,,,2026-11-17 20:18:43.031081+00:00
+1640277285,2026-11-20 19:00:00+00:00,France - Ligue 2,Guingamp,Rodez,spread,-0.5,2.05,1.8,,,,2026-11-17 20:18:43.031081+00:00
+1640277285,2026-11-20 19:00:00+00:00,France - Ligue 2,Guingamp,Rodez,total,2.75,,,,1.8,2.03,2026-11-17 20:18:43.031081+00:00
+1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,moneyline,,1.4651,5.53,4.25,,,2026-11-17 20:18:43.031081+00:00
+1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,spread,-1.25,1.9901,1.7752,,,,2026-11-17 20:18:43.031081+00:00
+1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,total,3.0,,,,1.9091,1.8475,2026-11-17 20:18:43.031081+00:00
+1640277290,2026-11-20 17:00:00+00:00,Poland - Ekstraklasa,Piast Gliwice,Korona Kielce,moneyline,,2.54,2.63,3.6,,,2026-11-17 20:18:43.031081+00:00
+1640277290,2026-11-20 17:00:00+00:00,Poland - Ekstraklasa,Piast Gliwice,Korona Kielce,spread,0.0,1.885,1.9524,,,,2026-11-17 20:18:43.031081+00:00
+1640277290,2026-11-20 17:00:00+00:00,Poland - Ekstraklasa,Piast Gliwice,Korona Kielce,total,2.75,,,,1.8696,1.9434,2026-11-17 20:18:43.031081+00:00
+1640413760,2026-11-18 18:00:00+00:00,Spain - Copa Catalunya,Can Vidalet,Barcelona Atletic,moneyline,,7.32,1.2358,5.57,,,2026-11-17 20:18:43.031081+00:00
+1640413760,2026-11-18 18:00:00+00:00,Spain - Copa Catalunya,Can Vidalet,Barcelona Atletic,spread,1.75,1.813,1.885,,,,2026-11-17 20:18:43.031081+00:00
+1640413760,2026-11-18 18:00:00+00:00,Spain - Copa Catalunya,Can Vidalet,Barcelona Atletic,total,3.25,,,,1.7937,1.9009,2026-11-17 20:18:43.031081+00:00
+1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,moneyline,,1.1266,14.04,9.07,,,2026-11-17 20:18:43.031081+00:00
+1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,spread,-2.25,1.8333,1.9524,,,,2026-11-17 20:18:43.031081+00:00
+1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,total,3.75,,,,1.813,1.9615,2026-11-17 20:18:43.031081+00:00
+1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,moneyline,,2.62,2.7,3.42,,,2026-11-17 20:18:43.031081+00:00
+1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,spread,0.0,1.8929,1.9524,,,,2026-11-17 20:18:43.031081+00:00
+1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,total,2.75,,,,2.03,1.8197,2026-11-17 20:18:43.031081+00:00
+1640621531,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Academia BP,Marte Soyapango,spread,0.75,1.9901,1.7634,,,,2026-11-17 20:18:43.031081+00:00
+1640621531,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Academia BP,Marte Soyapango,total,3.0,,,,1.8403,1.9009,2026-11-17 20:18:43.031081+00:00
+1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,moneyline,,1.5618,5.35,4.44,,,2026-11-17 20:18:43.031081+00:00
+1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,spread,-1.0,1.9434,1.9091,,,,2026-11-17 20:18:43.031081+00:00
+1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,total,3.0,,,,2.01,1.8403,2026-11-17 20:18:43.031081+00:00
+1640326028,2026-11-18 03:00:00+00:00,CONCACAF - Nations League,Nicaragua,Montserrat,moneyline,,1.2028,9.53,6.65,,,2026-11-17 20:18:43.031081+00:00
+1640326028,2026-11-18 03:00:00+00:00,CONCACAF - Nations League,Nicaragua,Montserrat,spread,-1.75,1.8,1.9804,,,,2026-11-17 20:18:43.031081+00:00
+1640326028,2026-11-18 03:00:00+00:00,CONCACAF - Nations League,Nicaragua,Montserrat,total,3.0,,,,1.7752,2.01,2026-11-17 20:18:43.031081+00:00
+1640441923,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Den Bosch,VVV Venlo,moneyline,,2.05,3.18,3.87,,,2026-11-17 20:18:43.031081+00:00
+1640441923,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Den Bosch,VVV Venlo,spread,-0.25,1.8,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640441923,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Den Bosch,VVV Venlo,total,3.5,,,,1.8264,1.9615,2026-11-17 20:18:43.031081+00:00
+1640469784,2026-11-18 01:00:00+00:00,Mexico - Liga TDP,Formacion Metropolitana,Conejos de Tuxtepec,moneyline,,1.8696,2.73,4.6,,,2026-11-17 20:18:43.031081+00:00
+1640469784,2026-11-18 01:00:00+00:00,Mexico - Liga TDP,Formacion Metropolitana,Conejos de Tuxtepec,spread,-0.5,1.8696,1.8403,,,,2026-11-17 20:18:43.031081+00:00
+1640469784,2026-11-18 01:00:00+00:00,Mexico - Liga TDP,Formacion Metropolitana,Conejos de Tuxtepec,total,3.25,,,,1.8065,1.9009,2026-11-17 20:18:43.031081+00:00
+1640392648,2026-11-20 20:00:00+00:00,England - League 1,Barnsley,Sheffield Wednesday,moneyline,,2.9,2.22,3.88,,,2026-11-17 20:18:43.031081+00:00
+1640392648,2026-11-20 20:00:00+00:00,England - League 1,Barnsley,Sheffield Wednesday,spread,0.25,1.8772,1.9615,,,,2026-11-17 20:18:43.031081+00:00
+1640392648,2026-11-20 20:00:00+00:00,England - League 1,Barnsley,Sheffield Wednesday,total,3.0,,,,1.7937,2.04,2026-11-17 20:18:43.031081+00:00
+1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,moneyline,,2.49,2.54,3.97,,,2026-11-17 20:18:43.031081+00:00
+1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,spread,0.0,1.9009,1.9434,,,,2026-11-17 20:18:43.031081+00:00
+1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,total,3.75,,,,1.9259,1.9091,2026-11-17 20:18:43.031081+00:00
+1640358388,2026-11-18 22:00:00+00:00,Venezuela - Cup,Deportivo Tachira,Academia Puerto Cabello,moneyline,,1.6667,4.29,3.48,,,2026-11-17 20:18:43.031081+00:00
+1640358388,2026-11-18 22:00:00+00:00,Venezuela - Cup,Deportivo Tachira,Academia Puerto Cabello,spread,-0.75,1.8696,1.8403,,,,2026-11-17 20:18:43.031081+00:00
+1640358388,2026-11-18 22:00:00+00:00,Venezuela - Cup,Deportivo Tachira,Academia Puerto Cabello,total,2.5,,,,1.8621,1.8475,2026-11-17 20:18:43.031081+00:00
+1640278612,2026-11-20 19:00:00+00:00,France - Ligue 2,Nancy,Dijon,moneyline,,1.7576,4.34,3.89,,,2026-11-17 20:18:43.031081+00:00
+1640278612,2026-11-20 19:00:00+00:00,France - Ligue 2,Nancy,Dijon,spread,-0.75,2.02,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640278612,2026-11-20 19:00:00+00:00,France - Ligue 2,Nancy,Dijon,total,2.75,,,,1.9259,1.8929,2026-11-17 20:18:43.031081+00:00
+1640357030,2026-11-18 19:30:00+00:00,Spain - Tercera Division,Aguilas II,UCAM Murcia II,moneyline,,2.3,2.97,3.06,,,2026-11-17 20:18:43.031081+00:00
+1640357030,2026-11-18 19:30:00+00:00,Spain - Tercera Division,Aguilas II,UCAM Murcia II,spread,-0.25,1.9804,1.7812,,,,2026-11-17 20:18:43.031081+00:00
+1640357030,2026-11-18 19:30:00+00:00,Spain - Tercera Division,Aguilas II,UCAM Murcia II,total,2.25,,,,1.7752,1.9901,2026-11-17 20:18:43.031081+00:00
+1640278133,2026-11-20 19:30:00+00:00,Italy - Serie B,Hellas Verona,Cesena,moneyline,,1.6623,5.28,3.84,,,2026-11-17 20:18:43.031081+00:00
+1640278133,2026-11-20 19:30:00+00:00,Italy - Serie B,Hellas Verona,Cesena,spread,-0.75,1.8475,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640278133,2026-11-20 19:30:00+00:00,Italy - Serie B,Hellas Verona,Cesena,total,2.75,,,,1.9346,1.9009,2026-11-17 20:18:43.031081+00:00
+1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,moneyline,,1.8772,4.41,2.78,,,2026-11-17 20:18:43.031081+00:00
+1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,spread,-0.5,1.8772,1.8333,,,,2026-11-17 20:18:43.031081+00:00
+1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,total,2.0,,,,2.02,1.7143,2026-11-17 20:18:43.031081+00:00
+1640469811,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CS Constantine,Ben Aknoun,moneyline,,2.14,3.63,3.04,,,2026-11-17 20:18:43.031081+00:00
+1640469811,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CS Constantine,Ben Aknoun,spread,-0.25,1.8264,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640469811,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CS Constantine,Ben Aknoun,total,2.0,,,,1.8197,1.9901,2026-11-17 20:18:43.031081+00:00
+1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,moneyline,,5.49,1.5882,3.66,,,2026-11-17 20:18:43.031081+00:00
+1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,spread,1.0,1.8403,1.9524,,,,2026-11-17 20:18:43.031081+00:00
+1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,total,2.5,,,,1.9524,1.8333,2026-11-17 20:18:43.031081+00:00
+1640443096,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Helmond Sport,Dordrecht,moneyline,,2.25,3.0,3.54,,,2026-11-17 20:18:43.031081+00:00
+1640443096,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Helmond Sport,Dordrecht,spread,-0.25,1.9524,1.8547,,,,2026-11-17 20:18:43.031081+00:00
+1640443096,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Helmond Sport,Dordrecht,total,3.0,,,,1.885,1.9009,2026-11-17 20:18:43.031081+00:00
+1640391782,2026-11-20 19:15:00+00:00,Switzerland - Challenge League,Yverdon-Sport,Winterthur,moneyline,,2.12,3.1,3.74,,,2026-11-17 20:18:43.031081+00:00
+1640391782,2026-11-20 19:15:00+00:00,Switzerland - Challenge League,Yverdon-Sport,Winterthur,spread,-0.25,1.8547,1.9434,,,,2026-11-17 20:18:43.031081+00:00
+1640391782,2026-11-20 19:15:00+00:00,Switzerland - Challenge League,Yverdon-Sport,Winterthur,total,3.0,,,,1.9259,1.8621,2026-11-17 20:18:43.031081+00:00
+1640420580,2026-11-20 15:30:00+00:00,Romania - Liga 1,Botosani,Voluntari,moneyline,,1.7576,4.31,3.79,,,2026-11-17 20:18:43.031081+00:00
+1640420580,2026-11-20 15:30:00+00:00,Romania - Liga 1,Botosani,Voluntari,spread,-0.75,2.0,1.813,,,,2026-11-17 20:18:43.031081+00:00
+1640420580,2026-11-20 15:30:00+00:00,Romania - Liga 1,Botosani,Voluntari,total,2.75,,,,1.9174,1.8621,2026-11-17 20:18:43.031081+00:00
+1640443098,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,K. Lierse SK,Lokeren-Temse,moneyline,,3.91,1.8403,3.76,,,2026-11-17 20:18:43.031081+00:00
+1640443098,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,K. Lierse SK,Lokeren-Temse,spread,0.5,1.9615,1.8403,,,,2026-11-17 20:18:43.031081+00:00
+1640443098,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,K. Lierse SK,Lokeren-Temse,total,3.0,,,,1.8547,1.9346,2026-11-17 20:18:43.031081+00:00
+1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,moneyline,,4.28,1.7812,3.45,,,2026-11-17 20:18:43.031081+00:00
+1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,spread,0.75,1.7874,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,total,2.5,,,,2.02,1.7812,2026-11-17 20:18:43.031081+00:00
+1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,moneyline,,1.5814,4.77,3.88,,,2026-11-17 20:18:43.031081+00:00
+1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,spread,-1.0,2.03,1.7519,,,,2026-11-17 20:18:43.031081+00:00
+1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,total,3.0,,,,1.8475,1.9091,2026-11-17 20:18:43.031081+00:00
+1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,moneyline,,2.64,2.4,3.45,,,2026-11-17 20:18:43.031081+00:00
+1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,spread,0.0,1.9901,1.8065,,,,2026-11-17 20:18:43.031081+00:00
+1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,total,2.75,,,,1.9259,1.8621,2026-11-17 20:18:43.031081+00:00
+1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,moneyline,,2.8,2.58,2.94,,,2026-11-17 20:18:43.031081+00:00
+1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,spread,0.0,1.9804,1.813,,,,2026-11-17 20:18:43.031081+00:00
+1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,total,2.0,,,,1.7519,2.06,2026-11-17 20:18:43.031081+00:00
+1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,moneyline,,3.24,2.02,3.39,,,2026-11-17 20:18:43.031081+00:00
+1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,spread,0.25,2.0,1.7692,,,,2026-11-17 20:18:43.031081+00:00
+1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,total,2.75,,,,1.8264,1.9259,2026-11-17 20:18:43.031081+00:00
+1640441927,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Heracles Almelo,Jong PSV,moneyline,,1.1381,11.88,9.29,,,2026-11-17 20:18:43.031081+00:00
+1640441927,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Heracles Almelo,Jong PSV,spread,-2.25,1.8264,1.9615,,,,2026-11-17 20:18:43.031081+00:00
+1640441927,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Heracles Almelo,Jong PSV,total,4.25,,,,1.9901,1.7874,2026-11-17 20:18:43.031081+00:00
+1640560400,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Racing Club de Montevideo,Central Espanol,moneyline,,1.625,5.31,3.82,,,2026-11-17 20:18:43.031081+00:00
+1640560400,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Racing Club de Montevideo,Central Espanol,spread,-0.75,1.8065,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640560400,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Racing Club de Montevideo,Central Espanol,total,2.5,,,,2.02,1.7812,2026-11-17 20:18:43.031081+00:00
+1640441925,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Jong Utrecht,Emmen,moneyline,,3.09,2.0,4.19,,,2026-11-17 20:18:43.031081+00:00
+1640441925,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Jong Utrecht,Emmen,spread,0.5,1.813,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640441925,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Jong Utrecht,Emmen,total,3.5,,,,1.9804,1.813,2026-11-17 20:18:43.031081+00:00
+1640567101,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MB Rouisset,Belouizdad,moneyline,,4.79,1.8929,2.99,,,2026-11-17 20:18:43.031081+00:00
+1640567101,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MB Rouisset,Belouizdad,spread,0.5,1.9259,1.8929,,,,2026-11-17 20:18:43.031081+00:00
+1640567101,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MB Rouisset,Belouizdad,total,1.75,,,,1.7752,2.04,2026-11-17 20:18:43.031081+00:00
+1640474257,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CR Temouchent,JS El Biar,moneyline,,2.49,3.37,2.69,,,2026-11-17 20:18:43.031081+00:00
+1640474257,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CR Temouchent,JS El Biar,spread,-0.25,2.07,1.7692,,,,2026-11-17 20:18:43.031081+00:00
+1640474257,2026-11-18 16:45:00+00:00,Algeria - Ligue 1,CR Temouchent,JS El Biar,total,2.0,,,,2.01,1.8065,2026-11-17 20:18:43.031081+00:00
+1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,moneyline,,5.26,1.5464,3.82,,,2026-11-17 20:18:43.031081+00:00
+1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,spread,1.0,1.8333,1.9259,,,,2026-11-17 20:18:43.031081+00:00
+1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,total,2.5,,,,1.8,1.9615,2026-11-17 20:18:43.031081+00:00
+1640441924,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Volendam,Jong Ajax,moneyline,,1.8,3.48,4.49,,,2026-11-17 20:18:43.031081+00:00
+1640441924,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Volendam,Jong Ajax,spread,-0.75,1.9804,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640441924,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Volendam,Jong Ajax,total,4.0,,,,1.9259,1.8621,2026-11-17 20:18:43.031081+00:00
+1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,moneyline,,1.4167,5.87,5.18,,,2026-11-17 20:18:43.031081+00:00
+1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,spread,-1.25,1.8547,1.9524,,,,2026-11-17 20:18:43.031081+00:00
+1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,total,3.25,,,,1.9709,1.8197,2026-11-17 20:18:43.031081+00:00
+1640277289,2026-11-20 19:00:00+00:00,France - Ligue 2,Metz,Boulogne,moneyline,,2.11,3.54,3.36,,,2026-11-17 20:18:43.031081+00:00
+1640277289,2026-11-20 19:00:00+00:00,France - Ligue 2,Metz,Boulogne,spread,-0.25,1.8197,2.02,,,,2026-11-17 20:18:43.031081+00:00
+1640277289,2026-11-20 19:00:00+00:00,France - Ligue 2,Metz,Boulogne,total,2.5,,,,1.9615,1.8547,2026-11-17 20:18:43.031081+00:00
+1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,moneyline,,2.06,3.35,3.31,,,2026-11-17 20:18:43.031081+00:00
+1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,spread,-0.25,1.7937,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,total,2.5,,,,1.9434,1.8475,2026-11-17 20:18:43.031081+00:00
+1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,moneyline,,2.81,2.32,3.21,,,2026-11-17 20:18:43.031081+00:00
+1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,spread,0.25,1.7576,2.02,,,,2026-11-17 20:18:43.031081+00:00
+1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,total,2.75,,,,1.9615,1.8,2026-11-17 20:18:43.031081+00:00
+1640315423,2026-11-20 18:00:00+00:00,Denmark - Division 1,Aarhus Fremad,Hobro,moneyline,,1.9091,3.85,3.58,,,2026-11-17 20:18:43.031081+00:00
+1640315423,2026-11-20 18:00:00+00:00,Denmark - Division 1,Aarhus Fremad,Hobro,spread,-0.5,1.9091,1.8929,,,,2026-11-17 20:18:43.031081+00:00
+1640315423,2026-11-20 18:00:00+00:00,Denmark - Division 1,Aarhus Fremad,Hobro,total,2.5,,,,1.8333,1.9524,2026-11-17 20:18:43.031081+00:00
+1640443100,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,TOP Oss,Roda JC,moneyline,,3.46,1.9091,4.01,,,2026-11-17 20:18:43.031081+00:00
+1640443100,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,TOP Oss,Roda JC,spread,0.5,1.8929,1.9091,,,,2026-11-17 20:18:43.031081+00:00
+1640443100,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,TOP Oss,Roda JC,total,2.75,,,,1.8065,1.9901,2026-11-17 20:18:43.031081+00:00
+1640392606,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Neuchatel Xamax,Etoile Carouge,moneyline,,2.18,3.06,3.64,,,2026-11-17 20:18:43.031081+00:00
+1640392606,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Neuchatel Xamax,Etoile Carouge,spread,-0.25,1.9009,1.9009,,,,2026-11-17 20:18:43.031081+00:00
+1640392606,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Neuchatel Xamax,Etoile Carouge,total,3.0,,,,1.8475,1.9346,2026-11-17 20:18:43.031081+00:00
+1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,moneyline,,2.48,2.54,3.66,,,2026-11-17 20:18:43.031081+00:00
+1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,spread,0.0,1.885,1.9346,,,,2026-11-17 20:18:43.031081+00:00
+1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,total,3.25,,,,1.9174,1.885,2026-11-17 20:18:43.031081+00:00
+1640428840,2026-11-20 15:25:00+00:00,UAE - Pro League,Shabab Al Ahli,Ajman,moneyline,,1.4545,5.69,4.87,,,2026-11-17 20:18:43.031081+00:00
+1640428840,2026-11-20 15:25:00+00:00,UAE - Pro League,Shabab Al Ahli,Ajman,spread,-1.25,2.02,1.7937,,,,2026-11-17 20:18:43.031081+00:00
+1640428840,2026-11-20 15:25:00+00:00,UAE - Pro League,Shabab Al Ahli,Ajman,total,3.0,,,,1.8,2.0,2026-11-17 20:18:43.031081+00:00
+1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,moneyline,,2.82,2.77,2.71,,,2026-11-17 20:18:43.031081+00:00
+1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,spread,0.0,1.9091,1.8772,,,,2026-11-17 20:18:43.031081+00:00
+1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,total,2.0,,,,2.04,1.7692,2026-11-17 20:18:43.031081+00:00
+1640278578,2026-11-20 16:00:00+00:00,Bulgaria - First League,Septemvri Sofia,Lokomotiv Plovdiv,moneyline,,2.5,2.96,3.11,,,2026-11-17 20:18:43.031081+00:00
+1640278578,2026-11-20 16:00:00+00:00,Bulgaria - First League,Septemvri Sofia,Lokomotiv Plovdiv,spread,0.0,1.7463,2.08,,,,2026-11-17 20:18:43.031081+00:00
+1640278578,2026-11-20 16:00:00+00:00,Bulgaria - First League,Septemvri Sofia,Lokomotiv Plovdiv,total,2.0,,,,1.7576,2.05,2026-11-17 20:18:43.031081+00:00
+1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,moneyline,,1.0706,22.85,12.19,,,2026-11-17 20:18:43.031081+00:00
+1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,spread,-3.0,1.9434,1.8475,,,,2026-11-17 20:18:43.031081+00:00
+1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,total,4.0,,,,1.7874,2.01,2026-11-17 20:18:43.031081+00:00
+1640349232,2026-11-18 19:30:00+00:00,Spain - Tercera Division,San Javier-Mar Menor CF,Bullas Deportivo,moneyline,,1.5587,5.08,3.84,,,2026-11-17 20:18:43.031081+00:00
+1640349232,2026-11-18 19:30:00+00:00,Spain - Tercera Division,San Javier-Mar Menor CF,Bullas Deportivo,spread,-1.0,1.9259,1.8333,,,,2026-11-17 20:18:43.031081+00:00
+1640349232,2026-11-18 19:30:00+00:00,Spain - Tercera Division,San Javier-Mar Menor CF,Bullas Deportivo,total,2.75,,,,1.9009,1.8547,2026-11-17 20:18:43.031081+00:00
+1640277306,2026-11-20 18:00:00+00:00,Germany - 3. Liga,Havelse,Viktoria Koln,moneyline,,5.53,1.4464,5.08,,,2026-11-17 20:18:43.031081+00:00
+1640277306,2026-11-20 18:00:00+00:00,Germany - 3. Liga,Havelse,Viktoria Koln,spread,1.25,1.9174,1.885,,,,2026-11-17 20:18:43.031081+00:00
+1640277306,2026-11-20 18:00:00+00:00,Germany - 3. Liga,Havelse,Viktoria Koln,total,3.5,,,,1.885,1.9009,2026-11-17 20:18:43.031081+00:00
+1640372971,2026-11-19 08:30:00+00:00,Australia - Championship,Queensland Lions,Wollongong Wolves,moneyline,,1.5435,4.92,4.54,,,2026-11-17 20:18:43.031081+00:00
+1640372971,2026-11-19 08:30:00+00:00,Australia - Championship,Queensland Lions,Wollongong Wolves,spread,-1.0,1.8475,1.9709,,,,2026-11-17 20:18:43.031081+00:00
+1640372971,2026-11-19 08:30:00+00:00,Australia - Championship,Queensland Lions,Wollongong Wolves,total,3.25,,,,1.813,2.0,2026-11-17 20:18:43.031081+00:00
+1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,moneyline,,1.6452,5.11,4.09,,,2026-11-17 20:18:43.031081+00:00
+1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,spread,-0.75,1.8197,2.04,,,,2026-11-17 20:18:43.031081+00:00
+1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,total,2.75,,,,1.9615,1.8772,2026-11-17 20:18:43.031081+00:00
+1640278150,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Darmstadt,Heidenheim,moneyline,,3.45,2.0,3.88,,,2026-11-17 20:18:43.031081+00:00
+1640278150,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Darmstadt,Heidenheim,spread,0.5,1.8475,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640278150,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Darmstadt,Heidenheim,total,3.0,,,,1.8547,1.9804,2026-11-17 20:18:43.031081+00:00
+1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,moneyline,,1.4926,5.88,4.36,,,2026-11-17 20:18:43.031081+00:00
+1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,spread,-1.0,1.8264,1.9804,,,,2026-11-17 20:18:43.031081+00:00
+1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,total,3.0,,,,1.9709,1.8264,2026-11-17 20:18:43.031081+00:00
+1640546360,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Dragon,Tenancingo,spread,-0.5,1.9174,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640546360,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Dragon,Tenancingo,total,2.75,,,,1.8621,1.8772,2026-11-17 20:18:43.031081+00:00
+1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,moneyline,,1.7519,3.63,3.94,,,2026-11-17 20:18:43.031081+00:00
+1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,spread,-0.75,1.9524,1.8065,,,,2026-11-17 20:18:43.031081+00:00
+1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,total,3.0,,,,1.7937,1.9709,2026-11-17 20:18:43.031081+00:00
+1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,moneyline,,5.85,1.5435,3.76,,,2026-11-17 20:18:43.031081+00:00
+1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,spread,1.0,1.8696,1.9174,,,,2026-11-17 20:18:43.031081+00:00
+1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,total,2.5,,,,1.9901,1.8065,2026-11-17 20:18:43.031081+00:00
+1639768423,2026-11-20 19:45:00+00:00,France - Ligue 1,Troyes,Le Havre,moneyline,,2.16,3.49,3.56,,,2026-11-17 20:18:43.031081+00:00
+1639768423,2026-11-20 19:45:00+00:00,France - Ligue 1,Troyes,Le Havre,spread,-0.5,2.16,1.7812,,,,2026-11-17 20:18:43.031081+00:00
+1639768423,2026-11-20 19:45:00+00:00,France - Ligue 1,Troyes,Le Havre,total,2.5,,,,1.885,2.0,2026-11-17 20:18:43.031081+00:00
+1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,moneyline,,1.6849,4.44,4.28,,,2026-11-17 20:18:43.031081+00:00
+1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,spread,-0.75,1.8696,1.9901,,,,2026-11-17 20:18:43.031081+00:00
+1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,total,3.25,,,,1.9524,1.8772,2026-11-17 20:18:43.031081+00:00
+1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,moneyline,,2.3,3.19,3.21,,,2026-11-17 20:18:43.031081+00:00
+1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,spread,-0.25,1.9615,1.8403,,,,2026-11-17 20:18:43.031081+00:00
+1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,total,2.5,,,,1.9434,1.8403,2026-11-17 20:18:43.031081+00:00
+1640357013,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Soneja,Atzeneta,moneyline,,2.96,2.31,3.06,,,2026-11-17 20:18:43.031081+00:00
+1640357013,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Soneja,Atzeneta,spread,0.25,1.7752,1.9901,,,,2026-11-17 20:18:43.031081+00:00
+1640357013,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Soneja,Atzeneta,total,2.0,,,,1.7634,2.01,2026-11-17 20:18:43.031081+00:00
+1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,moneyline,,4.05,2.06,3.2,,,2026-11-17 20:18:43.031081+00:00
+1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,spread,0.5,1.813,2.06,,,,2026-11-17 20:18:43.031081+00:00
+1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,total,2.25,,,,2.05,1.8,2026-11-17 20:18:43.031081+00:00
+1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,moneyline,,1.8696,4.22,3.19,,,2026-11-17 20:18:43.031081+00:00
+1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,spread,-0.5,1.8696,1.9174,,,,2026-11-17 20:18:43.031081+00:00
+1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,total,2.25,,,,1.9434,1.8475,2026-11-17 20:18:43.031081+00:00
+1640521848,2026-11-19 01:30:00+00:00,Panama - Primera Division,Independiente de La Chorrera,Tauro,moneyline,,2.4,2.76,3.27,,,2026-11-17 20:18:43.031081+00:00
+1640521848,2026-11-19 01:30:00+00:00,Panama - Primera Division,Independiente de La Chorrera,Tauro,spread,0.0,1.7634,2.04,,,,2026-11-17 20:18:43.031081+00:00
+1640521848,2026-11-19 01:30:00+00:00,Panama - Primera Division,Independiente de La Chorrera,Tauro,total,2.75,,,,1.9804,1.813,2026-11-17 20:18:43.031081+00:00
+1640443099,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,Club NXT,Royal Excelsior Virton,moneyline,,2.43,2.7,3.6,,,2026-11-17 20:18:43.031081+00:00
+1640443099,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,Club NXT,Royal Excelsior Virton,spread,0.0,1.8,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640443099,2026-11-20 19:00:00+00:00,Belgium - Challenger Pro League,Club NXT,Royal Excelsior Virton,total,3.0,,,,1.8547,1.9346,2026-11-17 20:18:43.031081+00:00
+1640391781,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Lausanne Ouchy,Kriens,moneyline,,1.4237,6.11,4.91,,,2026-11-17 20:18:43.031081+00:00
+1640391781,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Lausanne Ouchy,Kriens,spread,-1.25,1.9259,1.8772,,,,2026-11-17 20:18:43.031081+00:00
+1640391781,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Lausanne Ouchy,Kriens,total,3.25,,,,1.9259,1.8621,2026-11-17 20:18:43.031081+00:00
+1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,moneyline,,2.01,3.39,3.91,,,2026-11-17 20:18:43.031081+00:00
+1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,spread,-0.5,2.02,1.8475,,,,2026-11-17 20:18:43.031081+00:00
+1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,total,3.0,,,,1.8621,1.9804,2026-11-17 20:18:43.031081+00:00
+1640367722,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Atletico Saguntino,Jove Espanol,moneyline,,1.8696,4.11,3.13,,,2026-11-17 20:18:43.031081+00:00
+1640367722,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Atletico Saguntino,Jove Espanol,spread,-0.5,1.8696,1.885,,,,2026-11-17 20:18:43.031081+00:00
+1640367722,2026-11-18 18:30:00+00:00,Spain - Tercera Division,Atletico Saguntino,Jove Espanol,total,2.25,,,,1.9524,1.8065,2026-11-17 20:18:43.031081+00:00
+1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,moneyline,,1.625,4.5,3.82,,,2026-11-17 20:18:43.031081+00:00
+1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,spread,-0.75,1.7874,1.9804,,,,2026-11-17 20:18:43.031081+00:00
+1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,total,2.75,,,,1.7937,1.9709,2026-11-17 20:18:43.031081+00:00
+1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,moneyline,,1.4065,7.86,4.63,,,2026-11-17 20:18:43.031081+00:00
+1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,spread,-1.25,1.9901,1.8621,,,,2026-11-17 20:18:43.031081+00:00
+1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,total,2.5,,,,1.8333,2.01,2026-11-17 20:18:43.031081+00:00
+1640356977,2026-11-18 17:00:00+00:00,Spain - Tercera Division,Cartagena II,Santomera,moneyline,,3.8,1.8264,3.46,,,2026-11-17 20:18:43.031081+00:00
+1640356977,2026-11-18 17:00:00+00:00,Spain - Tercera Division,Cartagena II,Santomera,spread,0.5,1.9259,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640356977,2026-11-18 17:00:00+00:00,Spain - Tercera Division,Cartagena II,Santomera,total,2.75,,,,1.9709,1.7874,2026-11-17 20:18:43.031081+00:00
+1640403586,2026-11-18 22:30:00+00:00,Uruguay - Segunda Division,Colon,Club Oriental de La Paz,moneyline,,2.43,2.98,2.96,,,2026-11-17 20:18:43.031081+00:00
+1640403586,2026-11-18 22:30:00+00:00,Uruguay - Segunda Division,Colon,Club Oriental de La Paz,spread,-0.25,2.08,1.7407,,,,2026-11-17 20:18:43.031081+00:00
+1640403586,2026-11-18 22:30:00+00:00,Uruguay - Segunda Division,Colon,Club Oriental de La Paz,total,2.25,,,,2.05,1.7576,2026-11-17 20:18:43.031081+00:00
+1640392664,2026-11-18 19:30:00+00:00,Uruguay - Segunda Division,Atenas,Fenix,moneyline,,2.35,3.07,3.01,,,2026-11-17 20:18:43.031081+00:00
+1640392664,2026-11-18 19:30:00+00:00,Uruguay - Segunda Division,Atenas,Fenix,spread,-0.25,2.01,1.7874,,,,2026-11-17 20:18:43.031081+00:00
+1640392664,2026-11-18 19:30:00+00:00,Uruguay - Segunda Division,Atenas,Fenix,total,2.25,,,,2.02,1.7874,2026-11-17 20:18:43.031081+00:00
+1640148876,2026-11-20 19:45:00+00:00,England - National League,Southend United,Boreham Wood,moneyline,,2.96,2.08,4.12,,,2026-11-17 20:18:43.031081+00:00
+1640148876,2026-11-20 19:45:00+00:00,England - National League,Southend United,Boreham Wood,spread,0.25,1.9615,1.8475,,,,2026-11-17 20:18:43.031081+00:00
+1640148876,2026-11-20 19:45:00+00:00,England - National League,Southend United,Boreham Wood,total,3.5,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,moneyline,,1.0756,22.52,14.18,,,2026-11-17 20:18:43.031081+00:00
+1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,spread,-2.5,1.8333,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,total,3.5,,,,1.8197,2.01,2026-11-17 20:18:43.031081+00:00
+1640620908,2026-11-18 01:00:00+00:00,Panama - Liga Prom,Chorrillo,Academia Costa del Este,spread,0.0,1.9091,1.8065,,,,2026-11-17 20:18:43.031081+00:00
+1640620908,2026-11-18 01:00:00+00:00,Panama - Liga Prom,Chorrillo,Academia Costa del Este,total,3.0,,,,1.7812,1.9346,2026-11-17 20:18:43.031081+00:00
+1640443095,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,De Graafschap,Maastricht,moneyline,,1.7519,3.99,4.09,,,2026-11-17 20:18:43.031081+00:00
+1640443095,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,De Graafschap,Maastricht,spread,-0.75,1.9434,1.8621,,,,2026-11-17 20:18:43.031081+00:00
+1640443095,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,De Graafschap,Maastricht,total,3.25,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1640278156,2026-11-20 17:00:00+00:00,Poland - 1st Liga,Chrobry Glogow,Puszcza Niepolomice,moneyline,,2.23,3.17,3.38,,,2026-11-17 20:18:43.031081+00:00
+1640278156,2026-11-20 17:00:00+00:00,Poland - 1st Liga,Chrobry Glogow,Puszcza Niepolomice,spread,-0.25,1.9174,1.885,,,,2026-11-17 20:18:43.031081+00:00
+1640278156,2026-11-20 17:00:00+00:00,Poland - 1st Liga,Chrobry Glogow,Puszcza Niepolomice,total,2.5,,,,1.885,1.9009,2026-11-17 20:18:43.031081+00:00
+1640331122,2026-11-18 12:00:00+00:00,ASEAN - Club Championship,Borneo Samarinda,Manila Digger,moneyline,,1.5556,6.28,3.53,,,2026-11-17 20:18:43.031081+00:00
+1640331122,2026-11-18 12:00:00+00:00,ASEAN - Club Championship,Borneo Samarinda,Manila Digger,spread,-1.0,1.9615,1.8333,,,,2026-11-17 20:18:43.031081+00:00
+1640331122,2026-11-18 12:00:00+00:00,ASEAN - Club Championship,Borneo Samarinda,Manila Digger,total,2.75,,,,1.9709,1.8197,2026-11-17 20:18:43.031081+00:00
+1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,moneyline,,1.4464,5.84,4.24,,,2026-11-17 20:18:43.031081+00:00
+1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,spread,-1.25,1.9709,1.7937,,,,2026-11-17 20:18:43.031081+00:00
+1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,total,3.0,,,,1.9901,1.7752,2026-11-17 20:18:43.031081+00:00
+1640349186,2026-11-18 13:00:00+00:00,India - I-League,FC Bengaluru United,Sreenidi Deccan,moneyline,,3.26,2.02,3.53,,,2026-11-17 20:18:43.031081+00:00
+1640349186,2026-11-18 13:00:00+00:00,India - I-League,FC Bengaluru United,Sreenidi Deccan,spread,0.5,1.7812,2.02,,,,2026-11-17 20:18:43.031081+00:00
+1640349186,2026-11-18 13:00:00+00:00,India - I-League,FC Bengaluru United,Sreenidi Deccan,total,2.75,,,,1.9524,1.8403,2026-11-17 20:18:43.031081+00:00
+1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,moneyline,,3.01,2.13,3.85,,,2026-11-17 20:18:43.031081+00:00
+1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,spread,0.25,1.9346,1.8696,,,,2026-11-17 20:18:43.031081+00:00
+1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,total,3.25,,,,1.9091,1.8772,2026-11-17 20:18:43.031081+00:00
+1640278121,2026-11-20 17:30:00+00:00,Austria - 2. Liga,St. Polten,Voitsberg,moneyline,,1.9346,3.62,3.72,,,2026-11-17 20:18:43.031081+00:00
+1640278121,2026-11-20 17:30:00+00:00,Austria - 2. Liga,St. Polten,Voitsberg,spread,-0.5,1.9346,1.8696,,,,2026-11-17 20:18:43.031081+00:00
+1640278121,2026-11-20 17:30:00+00:00,Austria - 2. Liga,St. Polten,Voitsberg,total,3.0,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1640315173,2026-11-20 18:00:00+00:00,Denmark - Division 1,Kolding,AaB,moneyline,,2.93,2.34,3.43,,,2026-11-17 20:18:43.031081+00:00
+1640315173,2026-11-20 18:00:00+00:00,Denmark - Division 1,Kolding,AaB,spread,0.25,1.7874,2.03,,,,2026-11-17 20:18:43.031081+00:00
+1640315173,2026-11-20 18:00:00+00:00,Denmark - Division 1,Kolding,AaB,total,2.75,,,,1.8621,1.9259,2026-11-17 20:18:43.031081+00:00
+1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,moneyline,,3.15,2.13,3.2,,,2026-11-17 20:18:43.031081+00:00
+1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,spread,0.25,1.9009,1.8547,,,,2026-11-17 20:18:43.031081+00:00
+1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,total,2.75,,,,1.9524,1.8065,2026-11-17 20:18:43.031081+00:00
+1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,moneyline,,3.79,1.8197,3.51,,,2026-11-17 20:18:43.031081+00:00
+1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,spread,0.5,1.9434,1.8197,,,,2026-11-17 20:18:43.031081+00:00
+1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,total,2.75,,,,1.885,1.8621,2026-11-17 20:18:43.031081+00:00
+1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,moneyline,,1.5348,5.92,3.98,,,2026-11-17 20:18:43.031081+00:00
+1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,spread,-1.0,1.8929,1.9259,,,,2026-11-17 20:18:43.031081+00:00
+1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,total,2.75,,,,1.9091,1.8929,2026-11-17 20:18:43.031081+00:00
+1640357003,2026-11-18 18:00:00+00:00,Spain - Tercera Division,Vall de Uxo,Torrent,moneyline,,2.38,3.1,2.81,,,2026-11-17 20:18:43.031081+00:00
+1640357003,2026-11-18 18:00:00+00:00,Spain - Tercera Division,Vall de Uxo,Torrent,spread,-0.25,2.02,1.7519,,,,2026-11-17 20:18:43.031081+00:00
+1640357003,2026-11-18 18:00:00+00:00,Spain - Tercera Division,Vall de Uxo,Torrent,total,2.0,,,,1.8929,1.8621,2026-11-17 20:18:43.031081+00:00
+1640277286,2026-11-20 19:00:00+00:00,France - Ligue 2,Red Star,Pau FC,moneyline,,2.02,3.74,3.45,,,2026-11-17 20:18:43.031081+00:00
+1640277286,2026-11-20 19:00:00+00:00,France - Ligue 2,Red Star,Pau FC,spread,-0.5,2.02,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640277286,2026-11-20 19:00:00+00:00,France - Ligue 2,Red Star,Pau FC,total,2.5,,,,1.8264,2.0,2026-11-17 20:18:43.031081+00:00
+1640551635,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,CA Cerro,Nacional de Football,moneyline,,4.61,1.7143,3.79,,,2026-11-17 20:18:43.031081+00:00
+1640551635,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,CA Cerro,Nacional de Football,spread,0.75,1.8772,1.9259,,,,2026-11-17 20:18:43.031081+00:00
+1640551635,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,CA Cerro,Nacional de Football,total,2.5,,,,1.9174,1.8696,2026-11-17 20:18:43.031081+00:00
+1640570231,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MC Alger,Olympique Akbou,moneyline,,1.4739,7.8,3.79,,,2026-11-17 20:18:43.031081+00:00
+1640570231,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MC Alger,Olympique Akbou,spread,-1.0,1.8264,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640570231,2026-11-19 16:45:00+00:00,Algeria - Ligue 1,MC Alger,Olympique Akbou,total,2.25,,,,2.04,1.7812,2026-11-17 20:18:43.031081+00:00
+1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,moneyline,,1.1391,18.66,8.34,,,2026-11-17 20:18:43.031081+00:00
+1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,spread,-2.0,1.8547,1.9804,,,,2026-11-17 20:18:43.031081+00:00
+1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,total,3.0,,,,2.01,1.8197,2026-11-17 20:18:43.031081+00:00
+1640432764,2026-11-20 18:30:00+00:00,Romania - Liga 1,Farul Constanta,Universitatea Cluj,moneyline,,2.73,2.39,3.64,,,2026-11-17 20:18:43.031081+00:00
+1640432764,2026-11-20 18:30:00+00:00,Romania - Liga 1,Farul Constanta,Universitatea Cluj,spread,0.0,2.03,1.7874,,,,2026-11-17 20:18:43.031081+00:00
+1640432764,2026-11-20 18:30:00+00:00,Romania - Liga 1,Farul Constanta,Universitatea Cluj,total,2.75,,,,1.9009,1.885,2026-11-17 20:18:43.031081+00:00
+1640570230,2026-11-19 19:00:00+00:00,Algeria - Ligue 1,JS Kabylie,USM Alger,moneyline,,2.21,3.75,2.85,,,2026-11-17 20:18:43.031081+00:00
+1640570230,2026-11-19 19:00:00+00:00,Algeria - Ligue 1,JS Kabylie,USM Alger,spread,-0.25,1.8621,1.9615,,,,2026-11-17 20:18:43.031081+00:00
+1640570230,2026-11-19 19:00:00+00:00,Algeria - Ligue 1,JS Kabylie,USM Alger,total,2.0,,,,1.9709,1.8333,2026-11-17 20:18:43.031081+00:00
+1640391783,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Rapperswil-Jona,Aarau,moneyline,,3.16,2.07,3.81,,,2026-11-17 20:18:43.031081+00:00
+1640391783,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Rapperswil-Jona,Aarau,spread,0.25,1.9901,1.8197,,,,2026-11-17 20:18:43.031081+00:00
+1640391783,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Rapperswil-Jona,Aarau,total,3.25,,,,1.9346,1.8547,2026-11-17 20:18:43.031081+00:00
+1640278611,2026-11-20 19:00:00+00:00,France - Ligue 2,Annecy,Clermont,moneyline,,2.11,3.55,3.34,,,2026-11-17 20:18:43.031081+00:00
+1640278611,2026-11-20 19:00:00+00:00,France - Ligue 2,Annecy,Clermont,spread,-0.25,1.8197,2.03,,,,2026-11-17 20:18:43.031081+00:00
+1640278611,2026-11-20 19:00:00+00:00,France - Ligue 2,Annecy,Clermont,total,2.5,,,,2.01,1.8197,2026-11-17 20:18:43.031081+00:00
+1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,moneyline,,1.4785,6.75,4.13,,,2026-11-17 20:18:43.031081+00:00
+1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,spread,-1.0,1.8197,1.9901,,,,2026-11-17 20:18:43.031081+00:00
+1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,total,2.25,,,,1.8065,1.9901,2026-11-17 20:18:43.031081+00:00
+1639848676,2026-11-20 20:00:00+00:00,Spain - La Liga,Athletic Bilbao,Espanyol,moneyline,,1.4831,6.99,4.59,,,2026-11-17 20:18:43.031081+00:00
+1639848676,2026-11-20 20:00:00+00:00,Spain - La Liga,Athletic Bilbao,Espanyol,spread,-1.0,1.8,2.13,,,,2026-11-17 20:18:43.031081+00:00
+1639848676,2026-11-20 20:00:00+00:00,Spain - La Liga,Athletic Bilbao,Espanyol,total,2.5,,,,1.8197,2.08,2026-11-17 20:18:43.031081+00:00
+1640294219,2026-11-20 18:00:00+00:00,Norway - Eliteserien,Molde,Bodo Glimt,moneyline,,3.34,1.8547,4.77,,,2026-11-17 20:18:43.031081+00:00
+1640294219,2026-11-20 18:00:00+00:00,Norway - Eliteserien,Molde,Bodo Glimt,spread,0.5,2.0,1.8621,,,,2026-11-17 20:18:43.031081+00:00
+1640294219,2026-11-20 18:00:00+00:00,Norway - Eliteserien,Molde,Bodo Glimt,total,3.75,,,,1.8264,2.02,2026-11-17 20:18:43.031081+00:00
+1640406556,2026-11-18 15:00:00+00:00,Egypt - Cup,El Gounah,Al Ittihad Al Sakandary,moneyline,,3.9,2.24,2.63,,,2026-11-17 20:18:43.031081+00:00
+1640406556,2026-11-18 15:00:00+00:00,Egypt - Cup,El Gounah,Al Ittihad Al Sakandary,spread,0.25,1.9259,1.8621,,,,2026-11-17 20:18:43.031081+00:00
+1640406556,2026-11-18 15:00:00+00:00,Egypt - Cup,El Gounah,Al Ittihad Al Sakandary,total,1.75,,,,1.7752,2.03,2026-11-17 20:18:43.031081+00:00
+1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,moneyline,,2.48,3.65,2.46,,,2026-11-17 20:18:43.031081+00:00
+1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,spread,-0.25,2.04,1.7692,,,,2026-11-17 20:18:43.031081+00:00
+1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,total,1.75,,,,1.8333,1.9615,2026-11-17 20:18:43.031081+00:00
+1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,moneyline,,3.61,2.11,3.39,,,2026-11-17 20:18:43.031081+00:00
+1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,spread,0.25,2.05,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,total,2.75,,,,1.9259,1.9259,2026-11-17 20:18:43.031081+00:00
+1640432796,2026-11-20 19:30:00+00:00,Spain - Segunda Division,FC Andorra,Leganes,moneyline,,1.885,4.11,3.62,,,2026-11-17 20:18:43.031081+00:00
+1640432796,2026-11-20 19:30:00+00:00,Spain - Segunda Division,FC Andorra,Leganes,spread,-0.5,1.8929,1.9615,,,,2026-11-17 20:18:43.031081+00:00
+1640432796,2026-11-20 19:30:00+00:00,Spain - Segunda Division,FC Andorra,Leganes,total,2.5,,,,1.8264,2.02,2026-11-17 20:18:43.031081+00:00
+1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,moneyline,,2.12,3.32,3.35,,,2026-11-17 20:18:43.031081+00:00
+1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,spread,-0.25,1.8403,1.9804,,,,2026-11-17 20:18:43.031081+00:00
+1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,total,2.5,,,,1.8403,1.9615,2026-11-17 20:18:43.031081+00:00
+1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,moneyline,,3.0,2.29,3.06,,,2026-11-17 20:18:43.031081+00:00
+1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,spread,0.25,1.7937,1.9709,,,,2026-11-17 20:18:43.031081+00:00
+1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,total,2.25,,,,1.7576,2.01,2026-11-17 20:18:43.031081+00:00
+1639799128,2026-11-20 16:30:00+00:00,Russia - Premier League,Rostov,Krylia Sovetov,moneyline,,1.9259,4.13,3.47,,,2026-11-17 20:18:43.031081+00:00
+1639799128,2026-11-20 16:30:00+00:00,Russia - Premier League,Rostov,Krylia Sovetov,spread,-0.5,1.9346,1.9174,,,,2026-11-17 20:18:43.031081+00:00
+1639799128,2026-11-20 16:30:00+00:00,Russia - Premier League,Rostov,Krylia Sovetov,total,2.25,,,,1.8475,2.0,2026-11-17 20:18:43.031081+00:00
+1640278109,2026-11-20 19:45:00+00:00,Belgium - Pro League,Cercle Brugge,KVC Westerlo,moneyline,,2.05,3.23,4.0,,,2026-11-17 20:18:43.031081+00:00
+1640278109,2026-11-20 19:45:00+00:00,Belgium - Pro League,Cercle Brugge,KVC Westerlo,spread,-0.5,2.05,1.813,,,,2026-11-17 20:18:43.031081+00:00
+1640278109,2026-11-20 19:45:00+00:00,Belgium - Pro League,Cercle Brugge,KVC Westerlo,total,3.25,,,,1.9524,1.885,2026-11-17 20:18:43.031081+00:00
+1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,moneyline,,1.6579,4.56,4.01,,,2026-11-17 20:18:43.031081+00:00
+1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,spread,-0.75,1.8264,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,total,2.75,,,,1.8065,2.0,2026-11-17 20:18:43.031081+00:00
+1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,moneyline,,1.3185,7.71,5.59,,,2026-11-17 20:18:43.031081+00:00
+1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,spread,-1.5,1.9009,1.9009,,,,2026-11-17 20:18:43.031081+00:00
+1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,total,3.25,,,,1.8547,1.9346,2026-11-17 20:18:43.031081+00:00
+1640277268,2026-11-20 19:30:00+00:00,Austria - 2. Liga,Austria Salzburg,Admira Wacker,moneyline,,2.41,2.71,3.62,,,2026-11-17 20:18:43.031081+00:00
+1640277268,2026-11-20 19:30:00+00:00,Austria - 2. Liga,Austria Salzburg,Admira Wacker,spread,0.0,1.7937,2.03,,,,2026-11-17 20:18:43.031081+00:00
+1640277268,2026-11-20 19:30:00+00:00,Austria - 2. Liga,Austria Salzburg,Admira Wacker,total,3.0,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1640560405,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Liverpool Montevideo,Montevideo Wanderers,moneyline,,2.13,3.56,3.24,,,2026-11-17 20:18:43.031081+00:00
+1640560405,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Liverpool Montevideo,Montevideo Wanderers,spread,-0.25,1.8197,1.9901,,,,2026-11-17 20:18:43.031081+00:00
+1640560405,2026-11-20 19:30:00+00:00,Uruguay - Primera Division,Liverpool Montevideo,Montevideo Wanderers,total,2.5,,,,2.03,1.7752,2026-11-17 20:18:43.031081+00:00
+1640406517,2026-11-20 17:30:00+00:00,Saudi Arabia - Pro League,Al-Ahli,Al-Nassr,moneyline,,3.21,2.0,3.95,,,2026-11-17 20:18:43.031081+00:00
+1640406517,2026-11-20 17:30:00+00:00,Saudi Arabia - Pro League,Al-Ahli,Al-Nassr,spread,0.5,1.8065,2.0,,,,2026-11-17 20:18:43.031081+00:00
+1640406517,2026-11-20 17:30:00+00:00,Saudi Arabia - Pro League,Al-Ahli,Al-Nassr,total,3.25,,,,1.9901,1.8065,2026-11-17 20:18:43.031081+00:00
+1640432728,2026-11-20 17:00:00+00:00,Turkey - 1st League,Igdir Belediyespor,Umraniyespor,moneyline,,1.8,4.12,3.76,,,2026-11-17 20:18:43.031081+00:00
+1640432728,2026-11-20 17:00:00+00:00,Turkey - 1st League,Igdir Belediyespor,Umraniyespor,spread,-0.5,1.8,2.02,,,,2026-11-17 20:18:43.031081+00:00
+1640432728,2026-11-20 17:00:00+00:00,Turkey - 1st League,Igdir Belediyespor,Umraniyespor,total,2.5,,,,1.9346,1.8547,2026-11-17 20:18:43.031081+00:00
+1640270741,2026-11-20 17:00:00+00:00,Ecuador - Serie A,Independiente del Valle,Macara,moneyline,,1.495,7.25,3.82,,,2026-11-17 20:18:43.031081+00:00
+1640270741,2026-11-20 17:00:00+00:00,Ecuador - Serie A,Independiente del Valle,Macara,spread,-1.0,1.8065,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640270741,2026-11-20 17:00:00+00:00,Ecuador - Serie A,Independiente del Valle,Macara,total,2.75,,,,1.8621,1.9259,2026-11-17 20:18:43.031081+00:00
+1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,moneyline,,1.0909,15.68,8.82,,,2026-11-17 20:18:43.031081+00:00
+1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,spread,-2.5,1.9615,1.7634,,,,2026-11-17 20:18:43.031081+00:00
+1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,total,3.5,,,,1.813,1.9009,2026-11-17 20:18:43.031081+00:00
+1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,moneyline,,1.1433,12.78,8.49,,,2026-11-17 20:18:43.031081+00:00
+1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,spread,-2.25,1.9091,1.8696,,,,2026-11-17 20:18:43.031081+00:00
+1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,total,3.5,,,,1.8475,1.9174,2026-11-17 20:18:43.031081+00:00
+1640368758,2026-11-18 20:30:00+00:00,Venezuela - Cup,Carabobo,Zamora,moneyline,,1.5128,5.28,3.71,,,2026-11-17 20:18:43.031081+00:00
+1640368758,2026-11-18 20:30:00+00:00,Venezuela - Cup,Carabobo,Zamora,spread,-1.0,1.8929,1.8197,,,,2026-11-17 20:18:43.031081+00:00
+1640368758,2026-11-18 20:30:00+00:00,Venezuela - Cup,Carabobo,Zamora,total,2.5,,,,1.9091,1.8,2026-11-17 20:18:43.031081+00:00
+1640329802,2026-11-18 11:30:00+00:00,ASEAN - Club Championship,Tampines Rovers,Ratchaburi,moneyline,,3.25,2.12,3.28,,,2026-11-17 20:18:43.031081+00:00
+1640329802,2026-11-18 11:30:00+00:00,ASEAN - Club Championship,Tampines Rovers,Ratchaburi,spread,0.25,1.9524,1.8403,,,,2026-11-17 20:18:43.031081+00:00
+1640329802,2026-11-18 11:30:00+00:00,ASEAN - Club Championship,Tampines Rovers,Ratchaburi,total,3.0,,,,1.8621,1.9259,2026-11-17 20:18:43.031081+00:00
+1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,moneyline,,2.68,2.82,2.8,,,2026-11-17 20:18:43.031081+00:00
+1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,spread,0.0,1.8475,1.9434,,,,2026-11-17 20:18:43.031081+00:00
+1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,total,1.75,,,,1.8333,1.9524,2026-11-17 20:18:43.031081+00:00
+1640367731,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Club Atletico Pulpileno,Deportivo Maritimo,moneyline,,1.8197,4.0,3.34,,,2026-11-17 20:18:43.031081+00:00
+1640367731,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Club Atletico Pulpileno,Deportivo Maritimo,spread,-0.5,1.8197,1.9434,,,,2026-11-17 20:18:43.031081+00:00
+1640367731,2026-11-18 19:00:00+00:00,Spain - Tercera Division,Club Atletico Pulpileno,Deportivo Maritimo,total,2.5,,,,1.9259,1.8264,2026-11-17 20:18:43.031081+00:00
+1640410841,2026-11-19 15:00:00+00:00,Egypt - Cup,Al Mokawloon Al Arab,El Qanah,moneyline,,1.8,4.07,3.15,,,2026-11-17 20:18:43.031081+00:00
+1640410841,2026-11-19 15:00:00+00:00,Egypt - Cup,Al Mokawloon Al Arab,El Qanah,spread,-0.5,1.8,1.9174,,,,2026-11-17 20:18:43.031081+00:00
+1640410841,2026-11-19 15:00:00+00:00,Egypt - Cup,Al Mokawloon Al Arab,El Qanah,total,2.25,,,,1.9434,1.7752,2026-11-17 20:18:43.031081+00:00
+1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,moneyline,,4.21,1.7937,3.74,,,2026-11-17 20:18:43.031081+00:00
+1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,spread,0.5,2.03,1.7874,,,,2026-11-17 20:18:43.031081+00:00
+1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,total,2.5,,,,1.8621,1.9174,2026-11-17 20:18:43.031081+00:00
+1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,moneyline,,3.68,2.02,3.15,,,2026-11-17 20:18:43.031081+00:00
+1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,spread,0.5,1.7812,2.02,,,,2026-11-17 20:18:43.031081+00:00
+1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,total,2.25,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,moneyline,,6.28,1.4651,4.45,,,2026-11-17 20:18:43.031081+00:00
+1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,spread,1.0,2.02,1.7937,,,,2026-11-17 20:18:43.031081+00:00
+1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,total,2.75,,,,1.8264,1.9709,2026-11-17 20:18:43.031081+00:00
+1640432776,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Almere City,NAC Breda,moneyline,,2.72,2.21,4.14,,,2026-11-17 20:18:43.031081+00:00
+1640432776,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Almere City,NAC Breda,spread,0.25,1.8403,1.9615,,,,2026-11-17 20:18:43.031081+00:00
+1640432776,2026-11-20 19:00:00+00:00,Netherlands - Eerste Divisie,Almere City,NAC Breda,total,3.5,,,,1.9709,1.8197,2026-11-17 20:18:43.031081+00:00
+1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,moneyline,,1.5917,5.12,4.44,,,2026-11-17 20:18:43.031081+00:00
+1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,spread,-1.0,2.01,1.8696,,,,2026-11-17 20:18:43.031081+00:00
+1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,total,3.0,,,,1.9615,1.8929,2026-11-17 20:18:43.031081+00:00
+1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,moneyline,,1.4292,6.08,4.72,,,2026-11-17 20:18:43.031081+00:00
+1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,spread,-1.25,2.0,1.8,,,,2026-11-17 20:18:43.031081+00:00
+1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,total,2.75,,,,1.8772,1.9091,2026-11-17 20:18:43.031081+00:00
+1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,moneyline,,2.15,3.12,3.61,,,2026-11-17 20:18:43.031081+00:00
+1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,spread,-0.25,1.8772,1.9259,,,,2026-11-17 20:18:43.031081+00:00
+1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,total,2.75,,,,1.8333,1.9615,2026-11-17 20:18:43.031081+00:00
+1640403535,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Nyonnais,FC Wil,moneyline,,4.16,1.7042,4.17,,,2026-11-17 20:18:43.031081+00:00
+1640403535,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Nyonnais,FC Wil,spread,0.75,1.9009,1.9009,,,,2026-11-17 20:18:43.031081+00:00
+1640403535,2026-11-20 18:30:00+00:00,Switzerland - Challenge League,Stade Nyonnais,FC Wil,total,3.25,,,,2.0,1.7937,2026-11-17 20:18:43.031081+00:00
+1640357019,2026-11-18 19:00:00+00:00,Spain - Segunda Federacion,Bergantinos,Sestao River,moneyline,,2.54,2.58,3.3,,,2026-11-17 20:18:43.031081+00:00
+1640357019,2026-11-18 19:00:00+00:00,Spain - Segunda Federacion,Bergantinos,Sestao River,spread,0.0,1.8772,1.9091,,,,2026-11-17 20:18:43.031081+00:00
+1640357019,2026-11-18 19:00:00+00:00,Spain - Segunda Federacion,Bergantinos,Sestao River,total,2.5,,,,2.02,1.7812,2026-11-17 20:18:43.031081+00:00
+1640278619,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Arminia Bielefeld,FC Magdeburg,moneyline,,2.35,2.93,3.59,,,2026-11-17 20:18:43.031081+00:00
+1640278619,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Arminia Bielefeld,FC Magdeburg,spread,-0.25,2.04,1.8197,,,,2026-11-17 20:18:43.031081+00:00
+1640278619,2026-11-20 17:30:00+00:00,Germany - Bundesliga 2,Arminia Bielefeld,FC Magdeburg,total,2.75,,,,1.885,1.9524,2026-11-17 20:18:43.031081+00:00
+1640369121,2026-11-19 10:30:00+00:00,India - I-League,Dempo,Shillong Lajong,moneyline,,2.71,2.39,3.37,,,2026-11-17 20:18:43.031081+00:00
+1640369121,2026-11-19 10:30:00+00:00,India - I-League,Dempo,Shillong Lajong,spread,0.0,2.03,1.7752,,,,2026-11-17 20:18:43.031081+00:00
+1640369121,2026-11-19 10:30:00+00:00,India - I-League,Dempo,Shillong Lajong,total,2.75,,,,1.9615,1.8264,2026-11-17 20:18:43.031081+00:00
+1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,moneyline,,1.5319,5.99,4.28,,,2026-11-17 20:18:43.031081+00:00
+1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,spread,-1.0,1.9009,1.9434,,,,2026-11-17 20:18:43.031081+00:00
+1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,total,2.5,,,,1.8264,2.02,2026-11-17 20:18:43.031081+00:00
+1640570297,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Neo Pipil,AD SESA,spread,-0.5,1.9259,1.8197,,,,2026-11-17 20:18:43.031081+00:00
+1640570297,2026-11-17 21:00:00+00:00,El Salvador - Liga de Ascenso,Neo Pipil,AD SESA,total,2.75,,,,1.7874,1.9615,2026-11-17 20:18:43.031081+00:00
+1640357007,2026-11-18 18:00:00+00:00,Germany - Regionalliga North,Jeddeloh,Phonix Lubeck,moneyline,,3.71,1.7576,4.05,,,2026-11-17 20:18:43.031081+00:00
+1640357007,2026-11-18 18:00:00+00:00,Germany - Regionalliga North,Jeddeloh,Phonix Lubeck,spread,0.75,1.8475,1.9434,,,,2026-11-17 20:18:43.031081+00:00
+1640357007,2026-11-18 18:00:00+00:00,Germany - Regionalliga North,Jeddeloh,Phonix Lubeck,total,3.5,,,,1.9346,1.8547,2026-11-17 20:18:43.031081+00:00
+1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,moneyline,,1.6329,5.48,3.61,,,2026-11-17 20:18:43.031081+00:00
+1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,spread,-0.75,1.8197,2.01,,,,2026-11-17 20:18:43.031081+00:00
+1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,total,2.5,,,,1.9804,1.8264,2026-11-17 20:18:43.031081+00:00
+1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,moneyline,,1.0669,30.69,12.89,,,2026-11-17 20:18:43.031081+00:00
+1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,spread,-2.75,1.9901,1.8333,,,,2026-11-17 20:18:43.031081+00:00
+1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,total,3.5,,,,1.9901,1.8197,2026-11-17 20:18:43.031081+00:00
+1640277248,2026-11-20 18:00:00+00:00,Denmark - Superliga,AGF,Lyngby,moneyline,,1.7463,4.28,4.08,,,2026-11-17 20:18:43.031081+00:00
+1640277248,2026-11-20 18:00:00+00:00,Denmark - Superliga,AGF,Lyngby,spread,-0.75,1.9615,1.8929,,,,2026-11-17 20:18:43.031081+00:00
+1640277248,2026-11-20 18:00:00+00:00,Denmark - Superliga,AGF,Lyngby,total,3.0,,,,1.9434,1.8929,2026-11-17 20:18:43.031081+00:00
+1640356968,2026-11-18 17:00:00+00:00,Spain - Tercera Division,CD Roda,Torrellano,moneyline,,1.9615,3.62,3.18,,,2026-11-17 20:18:43.031081+00:00
+1640356968,2026-11-18 17:00:00+00:00,Spain - Tercera Division,CD Roda,Torrellano,spread,-0.5,1.9615,1.8,,,,2026-11-17 20:18:43.031081+00:00
+1640356968,2026-11-18 17:00:00+00:00,Spain - Tercera Division,CD Roda,Torrellano,total,2.25,,,,1.8547,1.9009,2026-11-17 20:18:43.031081+00:00
+1640278615,2026-11-20 19:30:00+00:00,Poland - Ekstraklasa,Pogon Szczecin,Slask Wroclaw,moneyline,,1.7752,4.19,3.93,,,2026-11-17 20:18:43.031081+00:00
+1640278615,2026-11-20 19:30:00+00:00,Poland - Ekstraklasa,Pogon Szczecin,Slask Wroclaw,spread,-0.75,2.0,1.8475,,,,2026-11-17 20:18:43.031081+00:00
+1640278615,2026-11-20 19:30:00+00:00,Poland - Ekstraklasa,Pogon Szczecin,Slask Wroclaw,total,3.0,,,,2.02,1.813,2026-11-17 20:18:43.031081+00:00
+1640277265,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Rapid Vienna II,BW Linz,moneyline,,6.09,1.3891,5.39,,,2026-11-17 20:18:43.031081+00:00
+1640277265,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Rapid Vienna II,BW Linz,spread,1.25,1.9804,1.8264,,,,2026-11-17 20:18:43.031081+00:00
+1640277265,2026-11-20 17:30:00+00:00,Austria - 2. Liga,Rapid Vienna II,BW Linz,total,3.25,,,,1.8,2.0,2026-11-17 20:18:43.031081+00:00
