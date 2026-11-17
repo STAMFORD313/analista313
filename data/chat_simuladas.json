@@ -2340,15 +2340,17 @@
     "away": "BAKS",
     "txt": "Gana BAKS",
     "odds": 1.72,
-    "p": 0.6173968992248062
+    "p": 0.6173968992248062,
+    "ok": "nula",
+    "por": "sin resultado"
    }
   ],
   "odds": 7.08,
   "p": 0.16201951746960713,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261112181758353865",
@@ -3026,7 +3028,9 @@
     "away": "Fire Flux",
     "txt": "Gana Fire Flux",
     "odds": 2.5,
-    "p": 0.4331666666666666
+    "p": 0.4331666666666666,
+    "ok": true,
+    "por": "ganó Fire Flux 1-0"
    },
    {
     "src": "esports:cs2",
@@ -3037,7 +3041,9 @@
     "away": "Fortress",
     "txt": "Gana Y23",
     "odds": 1.83,
-    "p": 0.6069987249544625
+    "p": 0.6069987249544625,
+    "ok": true,
+    "por": "ganó Y23 1-0"
    },
    {
     "src": "esports:dota2",
