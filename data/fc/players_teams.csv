@@ -71140,16 +71140,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2383738,262228,Newcastle,Brighton,,
 2383739,262228,Aston Villa,Newcastle,,
 2383740,262228,Nottm Forest,Man Utd,,
-2384775,262283,Lyon,Monaco,5,1
-2384776,262283,Paris,Marseille,0,1
-2384777,262283,Marseille,Lyon,3,1
-2384778,262283,Monaco,Nice,2,1
-2384779,262283,Nice,Marseille,1,0
-2384780,262283,Lyon,Paris,1,1
-2384781,262283,Paris,Nice,1,1
-2384782,262283,Marseille,Monaco,5,1
-2384783,262283,Monaco,Paris,0,0
-2384784,262283,Nice,Lyon,0,0
+2384775,262283,Lyon,Monaco,5.0,1.0
+2384776,262283,Paris,Marseille,0.0,1.0
+2384777,262283,Marseille,Lyon,3.0,1.0
+2384778,262283,Monaco,Nice,2.0,1.0
+2384779,262283,Nice,Marseille,1.0,0.0
+2384780,262283,Lyon,Paris,1.0,1.0
+2384781,262283,Paris,Nice,1.0,1.0
+2384782,262283,Marseille,Monaco,5.0,1.0
+2384783,262283,Monaco,Paris,0.0,0.0
+2384784,262283,Nice,Lyon,0.0,0.0
 2384785,262283,Monaco,Lyon,,
 2384786,262283,Marseille,Paris,,
 2384787,262283,Lyon,Marseille,,
@@ -71160,3 +71160,61 @@ id,tournament_id,club1,club2,ht1,ht2
 2384792,262283,Monaco,Marseille,,
 2384793,262283,Paris,Monaco,,
 2384794,262283,Lyon,Nice,,
+2383901,262243,Al Ahli,Al Ittihad,1,0
+2383902,262243,Al Hilal,FC Seoul,0,2
+2383903,262243,FC Seoul,Al Ahli,1,2
+2383904,262243,Al Ittihad,Gangwon FC,2,0
+2383905,262243,Gangwon FC,FC Seoul,1,0
+2383906,262243,Al Ahli,Al Hilal,1,3
+2383907,262243,Al Hilal,Gangwon FC,1,1
+2383908,262243,FC Seoul,Al Ittihad,1,1
+2383909,262243,Al Ittihad,Al Hilal,0,0
+2383910,262243,Gangwon FC,Al Ahli,0,1
+2383911,262243,Al Ittihad,Al Ahli,,
+2383912,262243,FC Seoul,Al Hilal,,
+2383913,262243,Al Ahli,FC Seoul,,
+2383914,262243,Gangwon FC,Al Ittihad,,
+2383915,262243,FC Seoul,Gangwon FC,,
+2383916,262243,Al Hilal,Al Ahli,,
+2383917,262243,Gangwon FC,Al Hilal,,
+2383918,262243,Al Ittihad,FC Seoul,,
+2383919,262243,Al Hilal,Al Ittihad,,
+2383920,262243,Al Ahli,Gangwon FC,,
+2383822,262252,Bologna,Sassuolo,1,1
+2385427,262252,Napoli,Juventus,0,3
+2385428,262252,Napoli,Bologna,3,2
+2385429,262252,Juventus,Sassuolo,2,4
+2385430,262252,Sassuolo,Napoli,3,1
+2385431,262252,Juventus,Bologna,1,2
+2385432,262252,Bologna,Sassuolo,2,0
+2385433,262252,Napoli,Juventus,4,1
+2385434,262252,Napoli,Bologna,1,2
+2385435,262252,Juventus,Sassuolo,1,3
+2385436,262252,Sassuolo,Napoli,,
+2385437,262252,Juventus,Bologna,,
+2385438,262252,Bologna,Sassuolo,,
+2385439,262252,Napoli,Juventus,,
+2383837,262252,Napoli,Bologna,,
+2383838,262252,Juventus,Sassuolo,,
+2385440,262252,Sassuolo,Napoli,,
+2385441,262252,Juventus,Bologna,,
+2384331,262264,Middlesbrough,Wolves,3,2
+2384332,262264,West Ham,Burnley,1,2
+2384333,262264,Burnley,Middlesbrough,0,1
+2384334,262264,Wolves,Southampton,1,2
+2384335,262264,Southampton,Burnley,0,0
+2384336,262264,Middlesbrough,West Ham,2,1
+2384337,262264,West Ham,Southampton,1,2
+2384338,262264,Burnley,Wolves,3,1
+2384339,262264,Wolves,West Ham,1,3
+2384340,262264,Southampton,Middlesbrough,2,0
+2384341,262264,Wolves,Middlesbrough,,
+2384342,262264,Burnley,West Ham,,
+2384343,262264,Middlesbrough,Burnley,,
+2384344,262264,Southampton,Wolves,,
+2384345,262264,Burnley,Southampton,,
+2384346,262264,West Ham,Middlesbrough,,
+2384347,262264,Southampton,West Ham,,
+2384348,262264,Wolves,Burnley,,
+2384349,262264,West Ham,Wolves,,
+2384350,262264,Middlesbrough,Southampton,,

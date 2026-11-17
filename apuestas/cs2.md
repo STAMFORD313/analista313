@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 09:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## WBT vs ex-ENCE — 17/11 · 10:00
-
-👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana WBT** @ **1.50** (Thunderpick) · prob 64% vs casas 62% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.897 partidos)  
-Mapa: WBT 62% · Serie BO3: WBT 67% - 33% ex-ENCE  
-Casas: WBT 62% · ex-ENCE 38%  
-🔎 **Claves**  
-• Elo: WBT 1707 (59 series) | ex-ENCE 1578 (5 series)  
-• Forma: WBT ✅❌✅❌❌ | ex-ENCE ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 10 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• WBT gana 2-1: 25% → cuota justa 4.01 · casa 27%  
-• ex-ENCE gana 2-1: 15% → cuota justa 6.51 · casa 19%  
+Actualizado 17/11/2026 10:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINNERS vs Nexus — 17/11 · 11:00
 
