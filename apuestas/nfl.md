@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 17/11/2026 02:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Más de 38.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **40.4** puntos · línea 38.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Baltimore Ravens ✅❌❌❌❌ | Los Angeles Chargers ❌❌❌❌❌  
-• H2H: 5 desde 2018: 4-1  
-• Bajas: Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)  
-🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62  
-🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%  
-
-## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Baltimore Ravens -4.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Baltimore Ravens cubre -4.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Baltimore Ravens ✅❌❌❌❌ | Los Angeles Chargers ❌❌❌❌❌  
-• H2H: 5 desde 2018: 4-1  
-• Bajas: Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)  
-🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62  
-🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%  
-
-## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Gana Baltimore Ravens** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.275 partidos y bajas)  
-Gana Baltimore Ravens 75% · Gana Los Angeles Chargers 25%  
-Casas: Baltimore Ravens 66% · Los Angeles Chargers 34%  
-Hándicap BAL -4.5 · Total puntos 38.5  
-🔎 **Claves**  
-• Forma: Baltimore Ravens ✅❌❌❌❌ | Los Angeles Chargers ❌❌❌❌❌  
-• H2H: 5 desde 2018: 4-1  
-• Bajas: Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)  
-• Favorito de las casas: Baltimore Ravens @ 1.44  
-🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62  
-🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%  
+Actualizado 17/11/2026 02:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Massachusetts Minutemen vs Akron Zips — 19/11 · 01:00
 
