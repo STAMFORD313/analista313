@@ -998,10 +998,6 @@
   "cbb|2026-11-20|California Golden Bears|East Texas A&M Lions",
   "cbb|2026-11-20|Santa Clara Broncos|VCU Rams",
   "cbb|2026-11-20|USC Trojans|Tarleton State Texans",
-  "fc|2376450",
-  "fc|2376278",
-  "fc|2375584",
-  "fc|2377009",
   "fc|2375587",
   "fc|2376802",
   "fc|2375589",
@@ -2001,7 +1997,11 @@
   "cs2|132983",
   "fc|2382742",
   "fc|2382879",
-  "fc|2382741"
+  "fc|2382741",
+  "dota2|134130",
+  "fc|2382522",
+  "fc|2382884",
+  "fc|2382750"
  ],
  "signals": [
   {
@@ -9117,7 +9117,11 @@
    "version": "7bc9776",
    "bajas": "Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "20-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -9138,7 +9142,11 @@
    "version": "7bc9776",
    "bajas": "Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-23",
+   "close_p": 0.4977,
+   "logged": true
   },
   {
    "market": "home",
@@ -9158,7 +9166,11 @@
    "version": "7bc9776",
    "bajas": "Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-23",
+   "close_p": 0.6644,
+   "logged": true
   },
   {
    "market": "t1",
@@ -9301,31 +9313,6 @@
    "considered": true,
    "placed": false,
    "score": "2-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 6.1,
-   "book": "Unibet",
-   "implied": 0.142,
-   "edge": 0.06,
-   "sin_stake": true,
-   "p": 0.174,
-   "key": "fc|2378296",
-   "match": "Simaponika vs believer",
-   "start": "2026-11-14T04:11:00+00:00",
-   "league": "🎮⚽ FC 27 · Club World Cup",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Simaponika vs believer (Club World Cup): goles esperados 1.97-3.15, 1X2 17%/17%/66%. Sin cuotas de casa.",
-   "captured": "2026-11-14T03:37",
-   "version": "0e1520f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-4",
    "result": false,
    "close_p": null,
    "logged": true
@@ -9551,31 +9538,6 @@
    "considered": true,
    "placed": false,
    "score": "9-4",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "kirman",
-   "odds": 1.65,
-   "book": "Unibet",
-   "implied": 0.53,
-   "edge": 0.052,
-   "sin_stake": true,
-   "p": 0.637,
-   "key": "fc|2377384",
-   "match": "Skif vs kirman",
-   "start": "2026-11-14T04:14:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Skif vs kirman (Serie A): goles esperados 2.61-3.75, 1X2 20%/16%/64%. Sin cuotas de casa.",
-   "captured": "2026-11-14T04:08",
-   "version": "4f8e011",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "5-4",
    "result": false,
    "close_p": null,
    "logged": true
@@ -21483,6 +21445,135 @@
    "result": false,
    "close_p": null,
    "logged": true
+  },
+  {
+   "key": "vp|2026-11-17|Bosnia and Herzegovina|Romania",
+   "market": "H",
+   "pick": "Bosnia and Herzegovina",
+   "odds": 2.1,
+   "book": "Smarkets",
+   "p": 0.4959,
+   "implied": 0.4959,
+   "edge": 0.0405,
+   "match": "Bosnia and Herzegovina vs Romania",
+   "start": "2026-11-17T19:45:00+00:00",
+   "league": "💎 Valor vs Pinnacle · UEFA - Nations League B",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.10 y el precio justo de Pinnacle es 2.02 (ventaja +4.0%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Bosnia and Herzegovina vs Romania (UEFA - Nations League B). Estrategia de valor: Smarkets 2.10 frente a Pinnacle justo 2.02.",
+   "captured": "2026-11-17T04:34",
+   "version": "b450fc6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "hotShot",
+   "odds": 2.38,
+   "book": "Unibet",
+   "implied": 0.365,
+   "edge": 0.191,
+   "sin_stake": true,
+   "p": 0.5,
+   "key": "fc|2382522",
+   "match": "hotShot vs RossFCDK",
+   "start": "2026-11-17T04:38:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 70.941 partidos)",
+    "Goles esperados: hotShot 2.35 · RossFCDK 1.94",
+    "Ganador: hotShot 50% · empate 23% · RossFCDK 27%",
+    "Total: más de 4.5 goles 43% · menos 57%",
+    "Hándicap hotShot: −1.5 29% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hotShot ✅❌❌❌➖ | RossFCDK ➖✅✅❌❌",
+    "• Partidos: hotShot 606 | RossFCDK 574",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.38 · X 2.15 · 2 3.75 (sin margen 36%/40%/23%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.38 (+19%) · Paf España 2.38 (+19%)"
+   ],
+   "context": "EA FC Esoccer Battle hotShot vs RossFCDK (Serie A): goles esperados 2.35-1.94, 1X2 50%/23%/27%. Sin cuotas de casa.",
+   "captured": "2026-11-17T04:34",
+   "version": "b450fc6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Simaponika",
+   "odds": 1.67,
+   "book": "Unibet",
+   "implied": 0.526,
+   "edge": 0.184,
+   "sin_stake": true,
+   "p": 0.709,
+   "key": "fc|2382884",
+   "match": "ssstasonn vs Simaponika",
+   "start": "2026-11-17T04:35:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 70.941 partidos)",
+    "Goles esperados: ssstasonn 2.13 · Simaponika 3.66",
+    "Ganador: ssstasonn 14% · empate 15% · Simaponika 71%",
+    "Total: más de 5.5 goles 52% · menos 48%",
+    "Hándicap Simaponika: −1.5 50% · −2.5 33%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌❌❌✅ | Simaponika ❌✅✅✅❌",
+    "• Partidos: ssstasonn 1155 | Simaponika 1299",
+    "• Liga: Club World Cup",
+    "• Unibet: 1 2.95 · X 5.00 · 2 1.67 (sin margen 30%/18%/53%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.67 (+18%) · Paf España 1.67 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs Simaponika (Club World Cup): goles esperados 2.13-3.66, 1X2 14%/15%/71%. Sin cuotas de casa.",
+   "captured": "2026-11-17T04:34",
+   "version": "b450fc6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Djape",
+   "odds": 1.91,
+   "book": "Unibet",
+   "implied": 0.459,
+   "edge": 0.184,
+   "sin_stake": true,
+   "p": 0.62,
+   "key": "fc|2382750",
+   "match": "mixes vs Djape",
+   "start": "2026-11-17T04:56:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 70.941 partidos)",
+    "Goles esperados: mixes 2.94 · Djape 4.14",
+    "Ganador: mixes 23% · empate 15% · Djape 62%",
+    "Total: más de 7.5 goles 41% · menos 59%",
+    "Hándicap Djape: −1.5 45% · −2.5 31%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mixes ❌❌❌❌❌ | Djape ✅➖❌✅✅",
+    "• Partidos: mixes 251 | Djape 252",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.33 · X 5.30 · 2 1.91 (sin margen 38%/17%/46%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.91 (+18%) · Paf España 1.91 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle mixes vs Djape (Champions League B): goles esperados 2.94-4.14, 1X2 23%/15%/62%. Sin cuotas de casa.",
+   "captured": "2026-11-17T04:34",
+   "version": "b450fc6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -22055,42 +22146,6 @@
      "text": "Más de 4.5 tiros a puerta de Estoril"
     }
    ]
-  },
-  "nfl|2026-11-17|Baltimore Ravens|Los Angeles Chargers": {
-   "match": "Baltimore Ravens vs Los Angeles Chargers",
-   "start": "2026-11-17T01:15Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.178,
-     "odds": 5.44,
-     "edge": -0.032,
-     "legs": [
-      {
-       "var": "win_away",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.336,
-       "odds": 2.85,
-       "text": "Gana Los Angeles Chargers"
-      },
-      {
-       "var": "total_t",
-       "sign": -1,
-       "line": 38.5,
-       "p": 0.5,
-       "odds": 1.909,
-       "text": "Menos de 38.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%"
-   ]
   }
  },
  "combo_sent": "2026-11-13T20:49:12.026242+00:00",
@@ -22107,7 +22162,7 @@
   "SP2|2026-11-15|Eldense|Sabadell"
  ],
  "paper_sent": "2026-11-16T18:28:55.985594+00:00",
- "sgp_res_n": 445,
+ "sgp_res_n": 446,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

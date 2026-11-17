@@ -442,5 +442,6 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-16,Cincinnati Bengals vs Pittsburgh Steelers,nfl,2,0.2055,0,0,0.444,4.73,-0.028,0,,Gana Pittsburgh Steelers + Menos de 49.5 puntos,0
 2026-11-14,Sociedad B vs Sp Gijon,corta,3,0.3453,0,2,0.68,,,0,,Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon,110
 2026-11-14,Sociedad B vs Sp Gijon,larga,4,0.1984,0,2,0.6663,,,0,,Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon + Menos de 4.5 córners de Sp Gijon,1100
-2026-11-16,Albacete vs Celta B,corta,3,0.3748,0,1,0.7127,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Celta B + Menos de 3.5 tarjetas de Celta B,010
-2026-11-16,Albacete vs Celta B,larga,5,0.1349,0,1,0.6765,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Celta B + Menos de 3.5 tarjetas de Celta B + Menos de 4.5 córners de Celta B + Más de 2.5 goles,01000
+2026-11-16,Albacete vs Celta B,corta,3,0.3748,0,1,0.7127,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Celta B + Menos de 3.5 tarjetas de Celta B,10
+2026-11-16,Albacete vs Celta B,larga,5,0.1349,0,1,0.6765,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Celta B + Menos de 3.5 tarjetas de Celta B + Menos de 4.5 córners de Celta B + Más de 2.5 goles,1000
+2026-11-17,Baltimore Ravens vs Los Angeles Chargers,nfl,2,0.178,0,1,0.418,5.44,-0.032,0,,Gana Los Angeles Chargers + Menos de 38.5 puntos,10
