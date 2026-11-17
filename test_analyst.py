@@ -1688,3 +1688,19 @@ try:
     assert not _calls
 finally: _ESO.requests.get = _rg0; _ESO._T.update(spent=0.0, down=False)
 print("ok esportsbattle colgado no alarga el run")
+
+# played() rápido: índices por jugador/pareja dan lo mismo que recent()/h2h() filtrando el historial por fecha
+import pandas as _pdx, random as _rnd
+_rnd.seed(3); _pl = ["ana", "bo", "cy", "di"]
+_rows = [{"date": f"2026-10-{1 + i // 40:02d}T{i % 24:02d}:{i % 60:02d}:00Z", "p1": (p := _rnd.sample(_pl, 2))[0], "p2": p[1],
+          "s1": _rnd.randint(0, 5), "s2": _rnd.randint(0, 5)} for i in range(400)]
+_hx = _pdx.DataFrame(_rows).sort_values("date", kind="mergesort").reset_index(drop=True)
+_rec, _hh = _FCC.past_index(_hx)
+for _d in ("2026-10-02T05:00:00Z", "2026-10-06T00:00:00Z", "2026-10-11T00:00:00Z"):
+    _past = _hx[_hx.date < _d]
+    for _a in _pl:
+        assert _rec(_a, _d) == _FCC.recent(_past, _a) or (_rec(_a, _d) and abs(_rec(_a, _d)["gf"] - _FCC.recent(_past, _a)["gf"]) < 1e-9)
+        for _b in _pl:
+            if _a != _b: assert _hh(_a, _b, _d) == _FCC.h2h(_past, _a, _b), (_a, _b, _d)
+assert _rec("nadie", "2026-10-05") is None and _hh("ana", "nadie", "2026-10-05") is None
+print("ok historial indexado para played() rápido")

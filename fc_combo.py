@@ -223,6 +223,27 @@ def merge_log(old, new):
     return c.drop(columns=["seen0", "odds0", "p_casa0"]).drop_duplicates(KEY, keep="last").merge(first, on=KEY, how="left")
 
 
+def past_index(h, n_rec=30, n_h2h=8):
+    """recent()/h2h() «antes de la fecha d» sin filtrar el historial entero por partido (con 71 000 partidos y ~6 000
+    con cuota, played() pasaba de 2 min por run): índices por jugador y por pareja ordenados por fecha + búsqueda binaria."""
+    h = h.sort_values("date", kind="mergesort")
+    side = pd.concat([pd.DataFrame({"pl": h.p1.values, "date": h.date.values, "gf": h.s1.values, "ga": h.s2.values}),
+                      pd.DataFrame({"pl": h.p2.values, "date": h.date.values, "gf": h.s2.values, "ga": h.s1.values})]).sort_values("date", kind="mergesort")
+    by = {k: (g.date.to_numpy(), g.gf.to_numpy(float), g.ga.to_numpy(float)) for k, g in side.groupby("pl", sort=False)}
+    key = np.where(h.p1.values < h.p2.values, h.p1.values + "\t" + h.p2.values, h.p2.values + "\t" + h.p1.values)
+    pairs = {k: (g.date.to_numpy(), g.p1.to_numpy(), g.s1.to_numpy(), g.s2.to_numpy()) for k, g in h.assign(_k=key).groupby("_k", sort=False)}
+    def rec(nick, d):
+        if nick not in by: return None
+        ds, gf, ga = by[nick]; i = np.searchsorted(ds, d, "left"); j = max(0, i - n_rec)
+        return None if i - j < 3 else {"gf": float(gf[j:i].mean()), "ga": float(ga[j:i].mean()), "n": int(i - j)}
+    def hh(a, b, d):
+        k = a + "\t" + b if a < b else b + "\t" + a
+        if k not in pairs: return None
+        ds, p1, s1, s2 = pairs[k]; i = np.searchsorted(ds, d, "left"); j = max(0, i - n_h2h)
+        return None if i - j < 4 else [(s1[t], s2[t]) if p1[t] == a else (s2[t], s1[t]) for t in range(j, i)]
+    return rec, hh
+
+
 def played(veto=True):
     """Piernas con lógica (medias, cara a cara, vetos) de los partidos ya jugados con cuota de LeoVegas.
     DataFrame: date, id, k, s, ok, pc (prob. de la casa sin margen), odds. None si no hay registro."""
@@ -231,11 +252,12 @@ def played(veto=True):
         h = pd.read_csv(E.HIST).dropna(subset=["s1", "s2"])
     except (OSError, ValueError): return None
     o = o.drop(columns=["p1", "p2"], errors="ignore").merge(h[["id", "s1", "s2", "p1", "p2", "date"]], on="id")
+    rec, h2h_at = past_index(h[["date", "p1", "p2", "s1", "s2"]].astype({"p1": str, "p2": str}))
     rows = []
     for gid, g in o.groupby("id"):
-        r0 = g.iloc[0]; past = h[h.date < r0.date]; same = str(r0.kh) == str(r0.p1).lower()
+        r0 = g.iloc[0]; same = str(r0.kh) == str(r0.p1).lower()
         a, b = (r0.p1, r0.p2) if same else (r0.p2, r0.p1)
-        r1, r2, hh = recent(past, a), recent(past, b), h2h(past, a, b)
+        r1, r2, hh = rec(a, r0.date), rec(b, r0.date), h2h_at(a, b, r0.date)
         hs, as_ = (r0.s1, r0.s2) if same else (r0.s2, r0.s1)
         for r in g.itertuples():
             if veto and (r.k, r.s) in VETO: continue
