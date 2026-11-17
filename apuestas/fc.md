@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 15:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## mPm vs Shinobu — 17/11 · 15:28
+## Shinobu vs SDI — 17/11 · 15:52
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **6.25** (Unibet) · prob 18% vs casas 14% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **6.40** (Unibet) · prob 19% vs casas 14% · ventaja +22%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.438 partidos)  
-Goles esperados: mPm 3.36 · Shinobu 2.39  
-Ganador: mPm 55% · empate 18% · Shinobu 27%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap mPm: −1.5 40% · −2.5 25%  
-🔎 **Claves**  
-• Forma: mPm ➖✅✅✅✅ | Shinobu ✅✅➖❌❌  
-• Partidos: mPm 820 | Shinobu 1559  
-• Liga: Eredivisie  
-• Unibet: 1 1.43 · X 6.25 · 2 3.40 (sin margen 61%/14%/25%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.25 (+15%) · Paf España 6.25 (+15%)  
-
-## ramzes vs saportj — 17/11 · 15:28
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana saportj** @ **2.02** (Unibet) · prob 55% vs casas 43% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 71.438 partidos)  
-Goles esperados: ramzes 2.58 · saportj 3.31  
-Ganador: ramzes 27% · empate 18% · saportj 55%  
+📊 **Escenarios** (Poisson por jugador, 71.464 partidos)  
+Goles esperados: Shinobu 3.10 · SDI 2.81  
+Ganador: Shinobu 49% · empate 19% · SDI 32%  
 Total: más de 5.5 goles 54% · menos 46%  
-Hándicap saportj: −1.5 37% · −2.5 23%  
+Hándicap Shinobu: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: ramzes ❌➖❌➖❌ | saportj ✅❌✅❌✅  
-• Partidos: ramzes 1170 | saportj 970  
+• Forma: Shinobu ✅➖❌❌➖ | SDI ❌✅✅❌❌  
+• Partidos: Shinobu 1560 | SDI 648  
 • Liga: Eredivisie  
-• Unibet: 1 2.18 · X 5.30 · 2 2.02 (sin margen 40%/17%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+10%) · Paf España 2.02 (+10%)  
+• Unibet: 1 1.61 · X 6.40 · 2 2.80 (sin margen 55%/14%/31%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.40 (+22%) · Paf España 6.40 (+22%)  
 
-## lzrn vs hit — 17/11 · 15:40
+## hit vs Krkula — 17/11 · 15:52
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana hit** @ **2.12** (Unibet) · prob 53% vs casas 41% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana hit** @ **2.48** (Unibet) · prob 48% vs casas 35% · ventaja +20%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 71.438 partidos)  
-Goles esperados: lzrn 2.23 · hit 2.91  
-Ganador: lzrn 27% · empate 20% · hit 53%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap hit: −1.5 35% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 71.464 partidos)  
+Goles esperados: hit 2.85 · Krkula 2.49  
+Ganador: hit 48% · empate 20% · Krkula 32%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap hit: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: lzrn ✅➖❌❌✅ | hit ➖➖✅➖✅  
-• Partidos: lzrn 935 | hit 862  
+• Forma: hit ➖➖✅➖✅ | Krkula ➖❌➖❌➖  
+• Partidos: hit 862 | Krkula 792  
 • Liga: Champions League B  
-• Unibet: 1 2.95 · X 2.95 · 2 2.12 (sin margen 29%/29%/41%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.12 (+12%) · Paf España 2.12 (+12%)  
+• Unibet: 1 2.48 · X 4.10 · 2 1.98 (sin margen 35%/21%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+20%) · Paf España 2.48 (+20%)  
+
+## maggett0 vs Paka — 17/11 · 15:58
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Paka** @ **2.40** (Unibet) · prob 50% vs casas 36% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.464 partidos)  
+Goles esperados: maggett0 2.59 · Paka 3.10  
+Ganador: maggett0 31% · empate 19% · Paka 50%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Paka: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: maggett0 ✅➖❌❌➖ | Paka ✅✅❌➖❌  
+• Partidos: maggett0 1048 | Paka 1013  
+• Liga: Serie A  
+• Unibet: 1 1.96 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+20%) · Paf España 2.40 (+20%)  
 
