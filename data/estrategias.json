@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-17 17:52",
- "n": 3711,
+ "fecha": "2026-11-17 18:23",
+ "n": 3715,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5",
@@ -330,8 +330,8 @@
    "n": 583,
    "roi": -0.1189,
    "se": 0.0454,
-   "roi_antigua": -0.0788,
-   "roi_nueva": -0.1487,
+   "roi_antigua": -0.078,
+   "roi_nueva": -0.1497,
    "clv": -0.005,
    "clv_se": 0.0093,
    "clv_n": 74
@@ -435,6 +435,17 @@
    "clv_n": 196
   },
   {
+   "segmento": "cuota=>2.5",
+   "n": 1139,
+   "roi": -0.1169,
+   "se": 0.0514,
+   "roi_antigua": -0.182,
+   "roi_nueva": -0.0634,
+   "clv": 0.0216,
+   "clv_se": 0.015,
+   "clv_n": 129
+  },
+  {
    "segmento": "cuota=≤1.5",
    "n": 844,
    "roi": -0.0528,
@@ -457,23 +468,23 @@
    "clv_n": 10
   },
   {
-   "segmento": "cuota=>2.5",
-   "n": 1135,
-   "roi": -0.1138,
-   "se": 0.0516,
-   "roi_antigua": -0.182,
+   "segmento": "mercado=1X2",
+   "n": 1837,
+   "roi": -0.0752,
+   "se": 0.0342,
+   "roi_antigua": -0.0969,
    "roi_nueva": -0.0573,
-   "clv": 0.0216,
-   "clv_se": 0.015,
-   "clv_n": 129
+   "clv": 0.0147,
+   "clv_se": 0.0063,
+   "clv_n": 210
   },
   {
    "segmento": "mercado=1X2 · ventaja=0-5%",
    "n": 108,
    "roi": -0.2394,
    "se": 0.1166,
-   "roi_antigua": -0.186,
-   "roi_nueva": -0.6667,
+   "roi_antigua": -0.1944,
+   "roi_nueva": -0.6364,
    "clv": -0.0085,
    "clv_se": 0.0156,
    "clv_n": 43
@@ -488,17 +499,6 @@
    "clv": -0.0171,
    "clv_se": 0.0239,
    "clv_n": 15
-  },
-  {
-   "segmento": "mercado=1X2",
-   "n": 1833,
-   "roi": -0.0732,
-   "se": 0.0342,
-   "roi_antigua": -0.0972,
-   "roi_nueva": -0.0534,
-   "clv": 0.0147,
-   "clv_se": 0.0063,
-   "clv_n": 210
   },
   {
    "segmento": "mercado=total · ventaja=<0",
@@ -612,8 +612,8 @@
    "n": 43,
    "roi": -0.084,
    "se": 0.1554,
-   "roi_antigua": -0.0171,
-   "roi_nueva": -0.3367,
+   "roi_antigua": -0.0451,
+   "roi_nueva": -0.2538,
    "clv": -0.0354,
    "clv_se": 0.0079,
    "clv_n": 43
@@ -623,8 +623,8 @@
    "n": 43,
    "roi": -0.084,
    "se": 0.1554,
-   "roi_antigua": -0.0171,
-   "roi_nueva": -0.3367,
+   "roi_antigua": -0.0451,
+   "roi_nueva": -0.2538,
    "clv": -0.0354,
    "clv_se": 0.0079,
    "clv_n": 43
