@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 19:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 19:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## lzrn vs Maki — 17/11 · 19:38
 

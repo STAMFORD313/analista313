@@ -1009,9 +1009,6 @@
   "wta|2026-11-18|Anastasia Zolotareva|Irene Burillo",
   "wta|2026-11-18|Leyre Romero Gormaz|Nadia Podoroska",
   "wta|2026-11-18|Lucia Bronzetti|Carole Monnet",
-  "cs2|133250",
-  "fc|2376187",
-  "fc|2376037",
   "fc|2376196",
   "fc|2376579",
   "fc|2376715",
@@ -2011,7 +2008,11 @@
   "fc|2384873",
   "fc|2384733",
   "fc|2384731",
-  "fc|2384426"
+  "fc|2384426",
+  "wta|2026-11-18|Rebeka Masarova|Polona Hercog",
+  "fc|2384427",
+  "fc|2384504",
+  "fc|2384734"
  ],
  "signals": [
   {
@@ -20652,7 +20653,7 @@
   "SP2|2026-11-15|Eibar|Cadiz",
   "SP2|2026-11-15|Eldense|Sabadell"
  ],
- "paper_sent": "2026-11-16T18:28:55.985594+00:00",
+ "paper_sent": "2026-11-17T18:29:44.070565+00:00",
  "sgp_res_n": 446,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
