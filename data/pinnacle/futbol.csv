@@ -12278,424 +12278,454 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640535719,2026-11-17 12:30:00+00:00,International - Kings Cup,Thailand,Tajikistan,moneyline,,1.7353,4.65,3.76,,,2026-11-17 12:01:21.614506+00:00
 1640535719,2026-11-17 12:30:00+00:00,International - Kings Cup,Thailand,Tajikistan,spread,-0.75,1.9524,1.9009,,,,2026-11-17 12:01:21.614506+00:00
 1640535719,2026-11-17 12:30:00+00:00,International - Kings Cup,Thailand,Tajikistan,total,2.5,,,,1.9346,1.9009,2026-11-17 12:01:21.614506+00:00
-1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,moneyline,,3.24,2.02,3.39,,,2026-11-17 12:30:29.831823+00:00
-1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,spread,0.25,2.0,1.7692,,,,2026-11-17 12:30:29.831823+00:00
-1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,total,2.75,,,,1.8264,1.9259,2026-11-17 12:30:29.831823+00:00
-1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,moneyline,,1.3185,7.71,5.59,,,2026-11-17 12:30:29.831823+00:00
-1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,spread,-1.5,1.9009,1.9009,,,,2026-11-17 12:30:29.831823+00:00
-1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,total,3.25,,,,1.8547,1.9346,2026-11-17 12:30:29.831823+00:00
-1640385186,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Hayes and Yeading United,Ashford Town,moneyline,,1.9434,3.01,3.67,,,2026-11-17 12:30:29.831823+00:00
-1640385186,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Hayes and Yeading United,Ashford Town,spread,-0.5,1.9434,1.7752,,,,2026-11-17 12:30:29.831823+00:00
-1640385186,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Hayes and Yeading United,Ashford Town,total,3.0,,,,1.885,1.8264,2026-11-17 12:30:29.831823+00:00
-1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,moneyline,,1.7576,3.98,3.58,,,2026-11-17 12:30:29.831823+00:00
-1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,spread,-0.75,1.9901,1.7752,,,,2026-11-17 12:30:29.831823+00:00
-1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,total,2.75,,,,1.8197,1.9346,2026-11-17 12:30:29.831823+00:00
-1640549843,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Warrenpoint Town,Glenavon,moneyline,,5.39,1.4329,4.23,,,2026-11-17 12:30:29.831823+00:00
-1640549843,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Warrenpoint Town,Glenavon,spread,1.25,1.7874,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640549843,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Warrenpoint Town,Glenavon,total,3.0,,,,1.8475,1.8621,2026-11-17 12:30:29.831823+00:00
 1640294389,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Burundi,Zambia,moneyline,,2.41,3.29,2.94,,,2026-11-17 12:30:29.831823+00:00
 1640294389,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Burundi,Zambia,spread,-0.25,2.04,1.8197,,,,2026-11-17 12:30:29.831823+00:00
 1640294389,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Burundi,Zambia,total,2.0,,,,2.03,1.813,2026-11-17 12:30:29.831823+00:00
-1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,moneyline,,3.68,2.02,3.15,,,2026-11-17 12:30:29.831823+00:00
-1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,spread,0.5,1.7812,2.02,,,,2026-11-17 12:30:29.831823+00:00
-1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,total,2.25,,,,1.9615,1.8264,2026-11-17 12:30:29.831823+00:00
-1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,moneyline,,1.4202,7.26,4.38,,,2026-11-17 12:30:29.831823+00:00
-1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,spread,-1.25,1.9091,1.9091,,,,2026-11-17 12:30:29.831823+00:00
-1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,total,2.75,,,,1.8547,1.9434,2026-11-17 12:30:29.831823+00:00
-1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,moneyline,,2.96,2.24,3.18,,,2026-11-17 12:30:29.831823+00:00
-1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,spread,0.25,1.813,1.9434,,,,2026-11-17 12:30:29.831823+00:00
-1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,total,2.75,,,,1.9615,1.8,2026-11-17 12:30:29.831823+00:00
-1640324286,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Rwanda,Mali,moneyline,,5.66,1.8772,2.77,,,2026-11-17 12:30:29.831823+00:00
-1640324286,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Rwanda,Mali,spread,0.5,1.9434,1.8772,,,,2026-11-17 12:30:29.831823+00:00
-1640324286,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Rwanda,Mali,total,2.0,,,,1.8547,1.9524,2026-11-17 12:30:29.831823+00:00
-1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,moneyline,,5.73,1.565,3.68,,,2026-11-17 12:30:29.831823+00:00
-1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,spread,1.0,1.8333,1.9615,,,,2026-11-17 12:30:29.831823+00:00
-1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,total,2.5,,,,2.0,1.7937,2026-11-17 12:30:29.831823+00:00
-1640324287,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Mauritania,Burkina Faso,moneyline,,3.26,2.63,2.61,,,2026-11-17 12:30:29.831823+00:00
-1640324287,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Mauritania,Burkina Faso,spread,0.0,2.15,1.7194,,,,2026-11-17 12:30:29.831823+00:00
-1640324287,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Mauritania,Burkina Faso,total,2.0,,,,2.08,1.7519,2026-11-17 12:30:29.831823+00:00
-1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,moneyline,,1.5882,5.86,3.69,,,2026-11-17 12:30:29.831823+00:00
-1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,spread,-1.0,2.04,1.7937,,,,2026-11-17 12:30:29.831823+00:00
-1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,total,2.5,,,,1.9615,1.8475,2026-11-17 12:30:29.831823+00:00
-1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,moneyline,,1.2809,8.3,5.72,,,2026-11-17 12:30:29.831823+00:00
-1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,spread,-1.5,1.8696,1.9091,,,,2026-11-17 12:30:29.831823+00:00
-1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,total,2.75,,,,1.7874,2.01,2026-11-17 12:30:29.831823+00:00
-1640324212,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leamington,Halesowen Town,moneyline,,2.85,2.19,3.45,,,2026-11-17 12:30:29.831823+00:00
-1640324212,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leamington,Halesowen Town,spread,0.25,1.8333,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640324212,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leamington,Halesowen Town,total,3.0,,,,1.9434,1.8197,2026-11-17 12:30:29.831823+00:00
-1640324213,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Chippenham Town,Sholing,moneyline,,2.52,2.5,3.31,,,2026-11-17 12:30:29.831823+00:00
-1640324213,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Chippenham Town,Sholing,spread,0.0,1.885,1.8696,,,,2026-11-17 12:30:29.831823+00:00
-1640324213,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Chippenham Town,Sholing,total,2.5,,,,1.8264,1.9259,2026-11-17 12:30:29.831823+00:00
-1640324312,2026-11-17 19:45:00+00:00,England - Northern Premier League,Cleethorpes Town,FC United of Manchester,moneyline,,1.7874,3.53,3.8,,,2026-11-17 12:30:29.831823+00:00
-1640324312,2026-11-17 19:45:00+00:00,England - Northern Premier League,Cleethorpes Town,FC United of Manchester,spread,-0.5,1.7874,1.9615,,,,2026-11-17 12:30:29.831823+00:00
-1640324312,2026-11-17 19:45:00+00:00,England - Northern Premier League,Cleethorpes Town,FC United of Manchester,total,2.75,,,,1.8621,1.8772,2026-11-17 12:30:29.831823+00:00
-1640349078,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Wales,Portugal,moneyline,,6.9,1.4202,5.38,,,2026-11-17 12:30:29.831823+00:00
-1640349078,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Wales,Portugal,spread,1.25,2.0,1.9009,,,,2026-11-17 12:30:29.831823+00:00
-1640349078,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Wales,Portugal,total,3.25,,,,2.01,1.885,2026-11-17 12:30:29.831823+00:00
-1640388591,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Felixstowe and Walton United,Wroxham,moneyline,,1.9901,2.75,3.87,,,2026-11-17 12:30:29.831823+00:00
-1640388591,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Felixstowe and Walton United,Wroxham,spread,-0.25,1.7874,1.9091,,,,2026-11-17 12:30:29.831823+00:00
-1640388591,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Felixstowe and Walton United,Wroxham,total,3.0,,,,1.9524,1.7519,2026-11-17 12:30:29.831823+00:00
-1640307293,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Kenya,South Africa,moneyline,,5.36,1.7407,3.22,,,2026-11-17 12:30:29.831823+00:00
-1640307293,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Kenya,South Africa,spread,0.75,1.8264,2.0,,,,2026-11-17 12:30:29.831823+00:00
-1640307293,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Kenya,South Africa,total,2.0,,,,1.9174,1.885,2026-11-17 12:30:29.831823+00:00
-1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,moneyline,,2.04,3.24,3.81,,,2026-11-17 12:30:29.831823+00:00
-1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,spread,-0.25,1.7874,2.03,,,,2026-11-17 12:30:29.831823+00:00
-1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,total,3.0,,,,1.8475,1.9434,2026-11-17 12:30:29.831823+00:00
-1640385189,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bourne Town,Coventry United,moneyline,,2.28,2.46,3.67,,,2026-11-17 12:30:29.831823+00:00
-1640385189,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bourne Town,Coventry United,spread,0.0,1.7874,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640385189,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bourne Town,Coventry United,total,3.25,,,,1.9174,1.7937,2026-11-17 12:30:29.831823+00:00
-1640324305,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Worcester City,Kettering Town,moneyline,,2.67,2.3,3.45,,,2026-11-17 12:30:29.831823+00:00
-1640324305,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Worcester City,Kettering Town,spread,0.25,1.7463,2.03,,,,2026-11-17 12:30:29.831823+00:00
-1640324305,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Worcester City,Kettering Town,total,2.75,,,,1.7812,1.9804,2026-11-17 12:30:29.831823+00:00
-1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,moneyline,,3.38,2.11,3.6,,,2026-11-17 12:30:29.831823+00:00
-1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,spread,0.25,2.03,1.8475,,,,2026-11-17 12:30:29.831823+00:00
-1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,total,2.75,,,,1.9009,1.9524,2026-11-17 12:30:29.831823+00:00
-1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,moneyline,,2.96,2.36,3.09,,,2026-11-17 12:30:29.831823+00:00
-1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,spread,0.25,1.7692,2.03,,,,2026-11-17 12:30:29.831823+00:00
-1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,total,2.25,,,,1.8475,1.9346,2026-11-17 12:30:29.831823+00:00
-1640324422,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Bosnia and Herzegovina,Romania,moneyline,,2.21,3.29,3.64,,,2026-11-17 12:30:29.831823+00:00
-1640324422,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Bosnia and Herzegovina,Romania,spread,-0.25,1.9259,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1640324422,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Bosnia and Herzegovina,Romania,total,2.75,,,,1.9901,1.9009,2026-11-17 12:30:29.831823+00:00
-1640324221,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Denmark,Norway,moneyline,,2.56,2.48,4.21,,,2026-11-17 12:30:29.831823+00:00
-1640324221,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Denmark,Norway,spread,0.0,1.9804,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640324221,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Denmark,Norway,total,3.25,,,,1.9174,1.9709,2026-11-17 12:30:29.831823+00:00
-1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,moneyline,,1.6849,4.44,4.28,,,2026-11-17 12:30:29.831823+00:00
-1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,spread,-0.75,1.8696,1.9901,,,,2026-11-17 12:30:29.831823+00:00
-1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,total,3.25,,,,1.9524,1.8772,2026-11-17 12:30:29.831823+00:00
-1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,moneyline,,1.4167,5.87,5.18,,,2026-11-17 12:30:29.831823+00:00
-1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,spread,-1.25,1.8547,1.9524,,,,2026-11-17 12:30:29.831823+00:00
-1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,total,3.25,,,,1.9709,1.8197,2026-11-17 12:30:29.831823+00:00
 1640307203,2026-11-17 13:00:00+00:00,Uganda - Premier League,Kitara,Blacks Power FC,moneyline,,1.3086,9.56,4.27,,,2026-11-17 12:30:29.831823+00:00
 1640307203,2026-11-17 13:00:00+00:00,Uganda - Premier League,Kitara,Blacks Power FC,spread,-1.25,1.8696,1.8696,,,,2026-11-17 12:30:29.831823+00:00
 1640307203,2026-11-17 13:00:00+00:00,Uganda - Premier League,Kitara,Blacks Power FC,total,2.25,,,,1.9901,1.7634,2026-11-17 12:30:29.831823+00:00
-1640413748,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Dominica,Cayman Islands,moneyline,,1.3436,7.46,5.06,,,2026-11-17 12:30:29.831823+00:00
-1640413748,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Dominica,Cayman Islands,spread,-1.25,1.7874,2.01,,,,2026-11-17 12:30:29.831823+00:00
-1640413748,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Dominica,Cayman Islands,total,2.75,,,,1.9009,1.885,2026-11-17 12:30:29.831823+00:00
 1640295273,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Lesotho,Gabon,moneyline,,8.24,1.4651,3.97,,,2026-11-17 12:30:29.831823+00:00
 1640295273,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Lesotho,Gabon,spread,1.0,2.09,1.7874,,,,2026-11-17 12:30:29.831823+00:00
 1640295273,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Lesotho,Gabon,total,2.25,,,,1.9524,1.885,2026-11-17 12:30:29.831823+00:00
-1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,moneyline,,4.51,1.7246,3.53,,,2026-11-17 12:30:29.831823+00:00
-1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,spread,0.75,1.8547,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,total,2.5,,,,2.0,1.8,2026-11-17 12:30:29.831823+00:00
-1639892954,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Havant and Waterlooville,Bracknell Town,moneyline,,1.8547,3.48,3.68,,,2026-11-17 12:30:29.831823+00:00
-1639892954,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Havant and Waterlooville,Bracknell Town,spread,-0.5,1.8547,1.9009,,,,2026-11-17 12:30:29.831823+00:00
-1639892954,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Havant and Waterlooville,Bracknell Town,total,3.0,,,,1.813,1.9434,2026-11-17 12:30:29.831823+00:00
-1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,moneyline,,2.3,3.19,3.21,,,2026-11-17 12:30:29.831823+00:00
-1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,spread,-0.25,1.9615,1.8403,,,,2026-11-17 12:30:29.831823+00:00
-1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,total,2.5,,,,1.9434,1.8403,2026-11-17 12:30:29.831823+00:00
-1640413747,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Lucia,Barbados,moneyline,,1.6173,4.56,4.24,,,2026-11-17 12:30:29.831823+00:00
-1640413747,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Lucia,Barbados,spread,-0.75,1.7874,2.01,,,,2026-11-17 12:30:29.831823+00:00
-1640413747,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Lucia,Barbados,total,3.25,,,,2.02,1.7812,2026-11-17 12:30:29.831823+00:00
-1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,moneyline,,5.26,1.5464,3.82,,,2026-11-17 12:30:29.831823+00:00
-1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,spread,1.0,1.8333,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,total,2.5,,,,1.8,1.9615,2026-11-17 12:30:29.831823+00:00
-1640570391,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Rathfriland Rangers,Moyola Park,moneyline,,2.15,2.75,3.44,,,2026-11-17 12:30:29.831823+00:00
-1640570391,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Rathfriland Rangers,Moyola Park,spread,-0.25,1.9009,1.8065,,,,2026-11-17 12:30:29.831823+00:00
-1640570391,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Rathfriland Rangers,Moyola Park,total,2.75,,,,1.8065,1.9009,2026-11-17 12:30:29.831823+00:00
-1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,moneyline,,2.62,2.7,3.42,,,2026-11-17 12:30:29.831823+00:00
-1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,spread,0.0,1.8929,1.9524,,,,2026-11-17 12:30:29.831823+00:00
-1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,total,2.75,,,,2.03,1.8197,2026-11-17 12:30:29.831823+00:00
-1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,moneyline,,2.31,2.97,3.63,,,2026-11-17 12:30:29.831823+00:00
-1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,spread,-0.25,2.01,1.8475,,,,2026-11-17 12:30:29.831823+00:00
-1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,total,2.75,,,,1.8772,1.9615,2026-11-17 12:30:29.831823+00:00
-1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,moneyline,,2.11,3.43,3.27,,,2026-11-17 12:30:29.831823+00:00
-1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,spread,-0.25,1.8264,2.0,,,,2026-11-17 12:30:29.831823+00:00
-1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,total,2.75,,,,1.8929,1.9091,2026-11-17 12:30:29.831823+00:00
-1640406576,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Kitts and Nevis,Bonaire,moneyline,,1.641,3.59,4.82,,,2026-11-17 12:30:29.831823+00:00
-1640406576,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Kitts and Nevis,Bonaire,spread,-0.75,1.7937,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640406576,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Kitts and Nevis,Bonaire,total,3.75,,,,1.8621,1.8621,2026-11-17 12:30:29.831823+00:00
-1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,moneyline,,1.0524,20.87,15.89,,,2026-11-17 12:30:29.831823+00:00
-1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,spread,-3.0,1.9174,1.8547,,,,2026-11-17 12:30:29.831823+00:00
-1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,total,4.0,,,,1.7812,2.0,2026-11-17 12:30:29.831823+00:00
-1640324214,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Brechin City,Stirling University,moneyline,,1.1036,11.66,8.19,,,2026-11-17 12:30:29.831823+00:00
-1640324214,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Brechin City,Stirling University,spread,-2.5,1.9009,1.7937,,,,2026-11-17 12:30:29.831823+00:00
-1640324214,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Brechin City,Stirling University,total,3.75,,,,1.7692,1.9346,2026-11-17 12:30:29.831823+00:00
-1640377111,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bridlington Town,Dunston,moneyline,,3.35,1.813,3.7,,,2026-11-17 12:30:29.831823+00:00
-1640377111,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bridlington Town,Dunston,spread,0.5,1.8929,1.813,,,,2026-11-17 12:30:29.831823+00:00
-1640377111,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bridlington Town,Dunston,total,3.0,,,,1.9009,1.813,2026-11-17 12:30:29.831823+00:00
-1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,moneyline,,1.1271,14.0,9.05,,,2026-11-17 12:30:29.831823+00:00
-1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,spread,-2.25,1.8403,1.9524,,,,2026-11-17 12:30:29.831823+00:00
-1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,total,3.75,,,,1.813,1.9709,2026-11-17 12:30:29.831823+00:00
-1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,moneyline,,2.42,3.07,3.27,,,2026-11-17 12:30:29.831823+00:00
-1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,spread,-0.25,2.07,1.8,,,,2026-11-17 12:30:29.831823+00:00
-1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,total,2.25,,,,1.8621,1.9804,2026-11-17 12:30:29.831823+00:00
-1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,moneyline,,1.0778,21.7,14.07,,,2026-11-17 12:30:29.831823+00:00
-1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,spread,-2.5,1.8621,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,total,3.5,,,,1.8333,1.9901,2026-11-17 12:30:29.831823+00:00
-1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,moneyline,,1.1629,15.83,7.69,,,2026-11-17 12:30:29.831823+00:00
-1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,spread,-2.0,1.9524,1.8772,,,,2026-11-17 12:30:29.831823+00:00
-1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,total,3.0,,,,1.9709,1.8547,2026-11-17 12:30:29.831823+00:00
-1640377114,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Hallam,Blyth Spartans,moneyline,,4.24,1.5464,4.1,,,2026-11-17 12:30:29.831823+00:00
-1640377114,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Hallam,Blyth Spartans,spread,1.0,1.8065,1.8929,,,,2026-11-17 12:30:29.831823+00:00
-1640377114,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Hallam,Blyth Spartans,total,3.0,,,,1.8197,1.8772,2026-11-17 12:30:29.831823+00:00
 1640385175,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,South Sudan,Angola,moneyline,,15.01,1.2288,5.6,,,2026-11-17 12:30:29.831823+00:00
 1640385175,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,South Sudan,Angola,spread,1.75,1.8264,2.02,,,,2026-11-17 12:30:29.831823+00:00
 1640385175,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,South Sudan,Angola,total,2.5,,,,1.9804,1.8403,2026-11-17 12:30:29.831823+00:00
-1639894873,2026-11-17 16:00:00+00:00,International - Friendlies,Russia,Venezuela,moneyline,,1.4673,6.56,4.62,,,2026-11-17 12:30:29.831823+00:00
-1639894873,2026-11-17 16:00:00+00:00,International - Friendlies,Russia,Venezuela,spread,-1.0,1.7874,2.08,,,,2026-11-17 12:30:29.831823+00:00
-1639894873,2026-11-17 16:00:00+00:00,International - Friendlies,Russia,Venezuela,total,2.75,,,,1.9174,1.9174,2026-11-17 12:30:29.831823+00:00
-1640324207,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Dartford,Three Bridges,moneyline,,1.2571,6.97,6.04,,,2026-11-17 12:30:29.831823+00:00
-1640324207,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Dartford,Three Bridges,spread,-1.75,1.9615,1.7812,,,,2026-11-17 12:30:29.831823+00:00
-1640324207,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Dartford,Three Bridges,total,3.25,,,,1.8,1.9434,2026-11-17 12:30:29.831823+00:00
-1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,moneyline,,1.6897,4.47,3.72,,,2026-11-17 12:30:29.831823+00:00
-1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,spread,-0.75,1.8696,1.9174,,,,2026-11-17 12:30:29.831823+00:00
-1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,total,2.75,,,,1.9524,1.8403,2026-11-17 12:30:29.831823+00:00
-1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,moneyline,,1.5618,5.35,4.44,,,2026-11-17 12:30:29.831823+00:00
-1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,spread,-1.0,1.9434,1.9091,,,,2026-11-17 12:30:29.831823+00:00
-1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,total,3.0,,,,2.01,1.8403,2026-11-17 12:30:29.831823+00:00
-1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,moneyline,,26.19,1.0735,10.5,,,2026-11-17 12:30:29.831823+00:00
-1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,spread,2.5,1.9524,1.8333,,,,2026-11-17 12:30:29.831823+00:00
-1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,total,3.25,,,,1.8547,1.9174,2026-11-17 12:30:29.831823+00:00
-1638153531,2026-11-17 19:45:00+00:00,England - National League South,Tonbridge Angels,Chesham United,moneyline,,1.7692,4.0,3.9,,,2026-11-17 12:30:29.831823+00:00
-1638153531,2026-11-17 19:45:00+00:00,England - National League South,Tonbridge Angels,Chesham United,spread,-0.75,1.9804,1.8403,,,,2026-11-17 12:30:29.831823+00:00
-1638153531,2026-11-17 19:45:00+00:00,England - National League South,Tonbridge Angels,Chesham United,total,3.0,,,,1.9434,1.8621,2026-11-17 12:30:29.831823+00:00
-1640324216,2026-11-17 19:45:00+00:00,England - National League North,Spennymoor Town,Chester,moneyline,,4.31,1.7353,3.81,,,2026-11-17 12:30:29.831823+00:00
-1640324216,2026-11-17 19:45:00+00:00,England - National League North,Spennymoor Town,Chester,spread,0.75,1.8772,1.9434,,,,2026-11-17 12:30:29.831823+00:00
-1640324216,2026-11-17 19:45:00+00:00,England - National League North,Spennymoor Town,Chester,total,2.75,,,,2.01,1.8,2026-11-17 12:30:29.831823+00:00
-1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,moneyline,,6.1,1.4808,4.4,,,2026-11-17 12:30:29.831823+00:00
-1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,spread,1.0,1.9804,1.8264,,,,2026-11-17 12:30:29.831823+00:00
-1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,total,2.75,,,,1.8333,1.9615,2026-11-17 12:30:29.831823+00:00
-1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,moneyline,,1.8333,4.18,3.8,,,2026-11-17 12:30:29.831823+00:00
-1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,spread,-0.5,1.8403,2.02,,,,2026-11-17 12:30:29.831823+00:00
-1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,total,2.5,,,,1.8772,1.9615,2026-11-17 12:30:29.831823+00:00
-1640512332,2026-11-17 14:00:00+00:00,SAFF - Championship,India,Pakistan,moneyline,,2.22,3.46,3.01,,,2026-11-17 12:30:29.831823+00:00
-1640512332,2026-11-17 14:00:00+00:00,SAFF - Championship,India,Pakistan,spread,-0.25,1.8929,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640512332,2026-11-17 14:00:00+00:00,SAFF - Championship,India,Pakistan,total,2.25,,,,1.8547,1.9709,2026-11-17 12:30:29.831823+00:00
-1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,moneyline,,1.4926,5.88,4.36,,,2026-11-17 12:30:29.831823+00:00
-1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,spread,-1.0,1.8264,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,total,3.0,,,,1.9709,1.8264,2026-11-17 12:30:29.831823+00:00
-1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,moneyline,,2.11,3.31,3.39,,,2026-11-17 12:30:29.831823+00:00
-1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,spread,-0.25,1.8333,1.9901,,,,2026-11-17 12:30:29.831823+00:00
-1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,total,2.5,,,,1.8065,2.01,2026-11-17 12:30:29.831823+00:00
-1640324413,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Burgess Hill Town,Brentwood Town,moneyline,,2.18,2.64,3.82,,,2026-11-17 12:30:29.831823+00:00
-1640324413,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Burgess Hill Town,Brentwood Town,spread,-0.25,1.9434,1.813,,,,2026-11-17 12:30:29.831823+00:00
-1640324413,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Burgess Hill Town,Brentwood Town,total,3.25,,,,1.8696,1.885,2026-11-17 12:30:29.831823+00:00
-1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,moneyline,,1.6579,4.56,4.01,,,2026-11-17 12:30:29.831823+00:00
-1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,spread,-0.75,1.8264,2.0,,,,2026-11-17 12:30:29.831823+00:00
-1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,total,2.75,,,,1.8065,2.0,2026-11-17 12:30:29.831823+00:00
-1640324314,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Clydebank,Albion Rovers,moneyline,,1.2183,7.67,5.77,,,2026-11-17 12:30:29.831823+00:00
-1640324314,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Clydebank,Albion Rovers,spread,-2.0,1.9615,1.7519,,,,2026-11-17 12:30:29.831823+00:00
-1640324314,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Clydebank,Albion Rovers,total,3.75,,,,1.9009,1.7937,2026-11-17 12:30:29.831823+00:00
-1640385187,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Cambridge City,Concord Rangers,moneyline,,1.3717,5.44,4.82,,,2026-11-17 12:30:29.831823+00:00
-1640385187,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Cambridge City,Concord Rangers,spread,-1.5,1.9615,1.7634,,,,2026-11-17 12:30:29.831823+00:00
-1640385187,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Cambridge City,Concord Rangers,total,3.25,,,,1.9259,1.7874,2026-11-17 12:30:29.831823+00:00
-1640324417,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Bonnyrigg Rose,Gala Fairydean Rovers,moneyline,,1.3534,5.68,4.88,,,2026-11-17 12:30:29.831823+00:00
-1640324417,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Bonnyrigg Rose,Gala Fairydean Rovers,spread,-1.25,1.7634,1.9615,,,,2026-11-17 12:30:29.831823+00:00
-1640324417,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Bonnyrigg Rose,Gala Fairydean Rovers,total,3.5,,,,1.9174,1.7937,2026-11-17 12:30:29.831823+00:00
-1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,moneyline,,5.71,1.495,3.93,,,2026-11-17 12:30:29.831823+00:00
-1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,spread,1.0,1.9804,1.7874,,,,2026-11-17 12:30:29.831823+00:00
-1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,total,2.5,,,,1.7874,1.9804,2026-11-17 12:30:29.831823+00:00
-1638153523,2026-11-17 19:45:00+00:00,England - National League North,Bedford Town,Chorley,moneyline,,2.25,3.0,3.4,,,2026-11-17 12:30:29.831823+00:00
-1638153523,2026-11-17 19:45:00+00:00,England - National League North,Bedford Town,Chorley,spread,-0.25,1.9615,1.8547,,,,2026-11-17 12:30:29.831823+00:00
-1638153523,2026-11-17 19:45:00+00:00,England - National League North,Bedford Town,Chorley,total,2.75,,,,1.9346,1.8696,2026-11-17 12:30:29.831823+00:00
-1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,moneyline,,2.49,2.54,3.97,,,2026-11-17 12:30:29.831823+00:00
-1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,spread,0.0,1.9009,1.9434,,,,2026-11-17 12:30:29.831823+00:00
-1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,total,3.75,,,,1.9259,1.9091,2026-11-17 12:30:29.831823+00:00
-1640377113,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Rushden and Diamonds,Mickleover,moneyline,,2.01,2.91,3.6,,,2026-11-17 12:30:29.831823+00:00
-1640377113,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Rushden and Diamonds,Mickleover,spread,-0.25,1.7874,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640377113,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Rushden and Diamonds,Mickleover,total,2.75,,,,1.7463,1.9804,2026-11-17 12:30:29.831823+00:00
-1640388585,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Windsor & Eton,Egham Town,moneyline,,3.4,1.7353,4.0,,,2026-11-17 12:30:29.831823+00:00
-1640388585,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Windsor & Eton,Egham Town,spread,0.75,1.7812,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640388585,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Windsor & Eton,Egham Town,total,3.25,,,,1.9091,1.8,2026-11-17 12:30:29.831823+00:00
 1640295274,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Tanzania,Nigeria,moneyline,,9.83,1.339,4.84,,,2026-11-17 12:30:29.831823+00:00
 1640295274,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Tanzania,Nigeria,spread,1.25,2.01,1.8475,,,,2026-11-17 12:30:29.831823+00:00
 1640295274,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Tanzania,Nigeria,total,2.25,,,,1.8264,2.01,2026-11-17 12:30:29.831823+00:00
-1639870270,2026-11-17 14:00:00+00:00,International - Friendlies,Qatar,South Korea,moneyline,,7.77,1.3717,5.18,,,2026-11-17 12:30:29.831823+00:00
-1639870270,2026-11-17 14:00:00+00:00,International - Friendlies,Qatar,South Korea,spread,1.25,1.9709,1.8772,,,,2026-11-17 12:30:29.831823+00:00
-1639870270,2026-11-17 14:00:00+00:00,International - Friendlies,Qatar,South Korea,total,2.75,,,,1.9174,1.9174,2026-11-17 12:30:29.831823+00:00
-1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,moneyline,,2.8,2.58,2.94,,,2026-11-17 12:30:29.831823+00:00
-1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,spread,0.0,1.9804,1.813,,,,2026-11-17 12:30:29.831823+00:00
-1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,total,2.0,,,,1.7519,2.06,2026-11-17 12:30:29.831823+00:00
-1640504932,2026-11-17 19:00:00+00:00,England - EFL Trophy,Luton Town,Peterborough United,moneyline,,1.5405,4.67,4.8,,,2026-11-17 12:30:29.831823+00:00
-1640504932,2026-11-17 19:00:00+00:00,England - EFL Trophy,Luton Town,Peterborough United,spread,-1.0,1.8403,1.9901,,,,2026-11-17 12:30:29.831823+00:00
-1640504932,2026-11-17 19:00:00+00:00,England - EFL Trophy,Luton Town,Peterborough United,total,3.75,,,,2.0,1.813,2026-11-17 12:30:29.831823+00:00
-1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,moneyline,,2.15,3.12,3.61,,,2026-11-17 12:30:29.831823+00:00
-1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,spread,-0.25,1.8772,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,total,2.75,,,,1.8333,1.9615,2026-11-17 12:30:29.831823+00:00
-1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,moneyline,,2.48,2.54,3.66,,,2026-11-17 12:30:29.831823+00:00
-1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,spread,0.0,1.885,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,total,3.25,,,,1.9174,1.885,2026-11-17 12:30:29.831823+00:00
-1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,moneyline,,1.4065,7.86,4.63,,,2026-11-17 12:30:29.831823+00:00
-1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,spread,-1.25,1.9901,1.8621,,,,2026-11-17 12:30:29.831823+00:00
-1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,total,2.5,,,,1.8333,2.01,2026-11-17 12:30:29.831823+00:00
-1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,moneyline,,1.9259,3.17,3.79,,,2026-11-17 12:30:29.831823+00:00
-1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,spread,-0.5,1.9259,1.8333,,,,2026-11-17 12:30:29.831823+00:00
-1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,total,3.0,,,,1.8264,1.9346,2026-11-17 12:30:29.831823+00:00
-1640324219,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Poole Town,Wimborne Town,moneyline,,2.24,2.89,3.26,,,2026-11-17 12:30:29.831823+00:00
-1640324219,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Poole Town,Wimborne Town,spread,-0.25,1.9524,1.8065,,,,2026-11-17 12:30:29.831823+00:00
-1640324219,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Poole Town,Wimborne Town,total,2.75,,,,1.9804,1.7874,2026-11-17 12:30:29.831823+00:00
-1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,moneyline,,1.6452,5.11,4.09,,,2026-11-17 12:30:29.831823+00:00
-1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,spread,-0.75,1.8197,2.04,,,,2026-11-17 12:30:29.831823+00:00
-1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,total,2.75,,,,1.9615,1.8772,2026-11-17 12:30:29.831823+00:00
-1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,moneyline,,2.81,2.28,3.45,,,2026-11-17 12:30:29.831823+00:00
-1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,spread,0.25,1.8,2.0,,,,2026-11-17 12:30:29.831823+00:00
-1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,total,2.75,,,,1.885,1.9009,2026-11-17 12:30:29.831823+00:00
-1640324420,2026-11-17 19:45:00+00:00,England - Northern Premier League,Quorn,Bury FC,moneyline,,3.35,1.7874,4.13,,,2026-11-17 12:30:29.831823+00:00
-1640324420,2026-11-17 19:45:00+00:00,England - Northern Premier League,Quorn,Bury FC,spread,0.5,1.9709,1.7874,,,,2026-11-17 12:30:29.831823+00:00
-1640324420,2026-11-17 19:45:00+00:00,England - Northern Premier League,Quorn,Bury FC,total,3.25,,,,1.8929,1.8621,2026-11-17 12:30:29.831823+00:00
-1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,moneyline,,3.92,2.13,3.12,,,2026-11-17 12:30:29.831823+00:00
-1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,spread,0.25,2.06,1.8065,,,,2026-11-17 12:30:29.831823+00:00
-1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,total,2.25,,,,2.06,1.7937,2026-11-17 12:30:29.831823+00:00
-1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,moneyline,,1.5319,5.99,4.28,,,2026-11-17 12:30:29.831823+00:00
-1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,spread,-1.0,1.9009,1.9434,,,,2026-11-17 12:30:29.831823+00:00
-1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,total,2.5,,,,1.8264,2.02,2026-11-17 12:30:29.831823+00:00
-1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,moneyline,,2.07,3.36,3.29,,,2026-11-17 12:30:29.831823+00:00
-1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,spread,-0.25,1.7937,2.0,,,,2026-11-17 12:30:29.831823+00:00
-1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,total,2.5,,,,1.9434,1.8475,2026-11-17 12:30:29.831823+00:00
-1639870262,2026-11-17 13:10:00+00:00,International - Friendlies,Japan,Paraguay,moneyline,,1.5556,5.41,4.51,,,2026-11-17 12:30:29.831823+00:00
-1639870262,2026-11-17 13:10:00+00:00,International - Friendlies,Japan,Paraguay,spread,-1.0,1.9901,1.8696,,,,2026-11-17 12:30:29.831823+00:00
-1639870262,2026-11-17 13:10:00+00:00,International - Friendlies,Japan,Paraguay,total,2.75,,,,1.8772,1.9615,2026-11-17 12:30:29.831823+00:00
-1640315165,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Libya,Tunisia,moneyline,,3.77,2.17,2.89,,,2026-11-17 12:30:29.831823+00:00
-1640315165,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Libya,Tunisia,spread,0.25,1.9901,1.8403,,,,2026-11-17 12:30:29.831823+00:00
-1640315165,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Libya,Tunisia,total,2.0,,,,1.8772,1.9259,2026-11-17 12:30:29.831823+00:00
-1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,moneyline,,1.625,4.5,3.82,,,2026-11-17 12:30:29.831823+00:00
-1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,spread,-0.75,1.7874,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,total,2.75,,,,1.7937,1.9709,2026-11-17 12:30:29.831823+00:00
-1640324388,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Liberia,Cape Verde,moneyline,,4.85,1.7576,3.09,,,2026-11-17 12:30:29.831823+00:00
-1640324388,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Liberia,Cape Verde,spread,0.75,1.7874,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1640324388,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Liberia,Cape Verde,total,2.25,,,,1.9346,1.8065,2026-11-17 12:30:29.831823+00:00
-1640388588,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Boldmere St. Michaels,Loughborough University,moneyline,,2.7,2.06,3.81,,,2026-11-17 12:30:29.831823+00:00
-1640388588,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Boldmere St. Michaels,Loughborough University,spread,0.25,1.8621,1.8475,,,,2026-11-17 12:30:29.831823+00:00
-1640388588,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Boldmere St. Michaels,Loughborough University,total,3.0,,,,1.7463,1.9804,2026-11-17 12:30:29.831823+00:00
-1640315273,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Guinea-Bissau,Madagascar,moneyline,,1.4505,8.36,3.84,,,2026-11-17 12:30:29.831823+00:00
-1640315273,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Guinea-Bissau,Madagascar,spread,-1.0,1.7692,2.07,,,,2026-11-17 12:30:29.831823+00:00
-1640315273,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Guinea-Bissau,Madagascar,total,2.25,,,,1.8696,1.9346,2026-11-17 12:30:29.831823+00:00
-1640278608,2026-11-17 16:15:00+00:00,International - Friendlies,Iraq,Iran,moneyline,,4.31,1.9901,3.22,,,2026-11-17 12:30:29.831823+00:00
-1640278608,2026-11-17 16:15:00+00:00,International - Friendlies,Iraq,Iran,spread,0.5,1.8696,1.9901,,,,2026-11-17 12:30:29.831823+00:00
-1640278608,2026-11-17 16:15:00+00:00,International - Friendlies,Iraq,Iran,total,2.0,,,,1.8264,2.02,2026-11-17 12:30:29.831823+00:00
-1640306638,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Togo,Algeria,moneyline,,5.06,1.6711,3.64,,,2026-11-17 12:30:29.831823+00:00
-1640306638,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Togo,Algeria,spread,0.75,1.9434,1.8772,,,,2026-11-17 12:30:29.831823+00:00
-1640306638,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Togo,Algeria,total,2.0,,,,1.8,2.01,2026-11-17 12:30:29.831823+00:00
-1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,moneyline,,2.88,2.47,3.42,,,2026-11-17 12:30:29.831823+00:00
-1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,spread,0.0,2.1,1.7874,,,,2026-11-17 12:30:29.831823+00:00
-1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,total,2.75,,,,2.0,1.8547,2026-11-17 12:30:29.831823+00:00
-1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,moneyline,,1.1221,13.15,7.59,,,2026-11-17 12:30:29.831823+00:00
-1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,spread,-2.25,1.9346,1.7812,,,,2026-11-17 12:30:29.831823+00:00
-1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,total,3.5,,,,1.9174,1.7937,2026-11-17 12:30:29.831823+00:00
-1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,moneyline,,3.01,2.13,3.85,,,2026-11-17 12:30:29.831823+00:00
-1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,spread,0.25,1.9346,1.8696,,,,2026-11-17 12:30:29.831823+00:00
-1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,total,3.25,,,,1.9091,1.8772,2026-11-17 12:30:29.831823+00:00
-1640546236,2026-11-17 16:00:00+00:00,Croatia - 3. NL,HNK Hajduk Split II,Jadran Kastel Sucurac,spread,-0.25,1.8929,1.7634,,,,2026-11-17 12:30:29.831823+00:00
-1640546236,2026-11-17 16:00:00+00:00,Croatia - 3. NL,HNK Hajduk Split II,Jadran Kastel Sucurac,total,2.5,,,,1.7353,1.9259,2026-11-17 12:30:29.831823+00:00
-1640315275,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Gambia,Ivory Coast,moneyline,,6.41,1.6329,3.31,,,2026-11-17 12:30:29.831823+00:00
-1640315275,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Gambia,Ivory Coast,spread,0.75,2.01,1.8197,,,,2026-11-17 12:30:29.831823+00:00
-1640315275,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Gambia,Ivory Coast,total,2.25,,,,1.9615,1.8475,2026-11-17 12:30:29.831823+00:00
-1638153522,2026-11-17 19:45:00+00:00,England - National League North,South Shields,Harborough Town,moneyline,,1.5714,5.03,4.23,,,2026-11-17 12:30:29.831823+00:00
-1638153522,2026-11-17 19:45:00+00:00,England - National League North,South Shields,Harborough Town,spread,-1.0,1.9615,1.8621,,,,2026-11-17 12:30:29.831823+00:00
-1638153522,2026-11-17 19:45:00+00:00,England - National League North,South Shields,Harborough Town,total,3.0,,,,1.8197,1.9901,2026-11-17 12:30:29.831823+00:00
-1640324423,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Hungary,Northern Ireland,moneyline,,1.9709,4.37,3.38,,,2026-11-17 12:30:29.831823+00:00
-1640324423,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Hungary,Northern Ireland,spread,-0.5,1.9804,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640324423,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Hungary,Northern Ireland,total,2.25,,,,2.07,1.8333,2026-11-17 12:30:29.831823+00:00
-1640349207,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Israel,Austria,moneyline,,4.1,1.8475,4.06,,,2026-11-17 12:30:29.831823+00:00
-1640349207,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Israel,Austria,spread,0.5,2.07,1.8475,,,,2026-11-17 12:30:29.831823+00:00
-1640349207,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Israel,Austria,total,3.0,,,,1.9009,1.9901,2026-11-17 12:30:29.831823+00:00
-1638158220,2026-11-17 19:45:00+00:00,England - National League North,Oxford City,Macclesfield,moneyline,,2.26,2.82,3.56,,,2026-11-17 12:30:29.831823+00:00
-1638158220,2026-11-17 19:45:00+00:00,England - National League North,Oxford City,Macclesfield,spread,-0.25,1.9901,1.8197,,,,2026-11-17 12:30:29.831823+00:00
-1638158220,2026-11-17 19:45:00+00:00,England - National League North,Oxford City,Macclesfield,total,3.0,,,,1.9901,1.8065,2026-11-17 12:30:29.831823+00:00
-1640324424,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Poland,Sweden,moneyline,,2.15,3.22,3.91,,,2026-11-17 12:30:29.831823+00:00
-1640324424,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Poland,Sweden,spread,-0.25,1.8929,2.02,,,,2026-11-17 12:30:29.831823+00:00
-1640324424,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Poland,Sweden,total,3.0,,,,1.8403,2.06,2026-11-17 12:30:29.831823+00:00
-1640324425,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ukraine,Georgia,moneyline,,2.15,3.75,3.36,,,2026-11-17 12:30:29.831823+00:00
-1640324425,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ukraine,Georgia,spread,-0.25,1.8403,2.08,,,,2026-11-17 12:30:29.831823+00:00
-1640324425,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ukraine,Georgia,total,2.25,,,,2.05,1.8475,2026-11-17 12:30:29.831823+00:00
-1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,moneyline,,2.01,3.39,3.91,,,2026-11-17 12:30:29.831823+00:00
-1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,spread,-0.5,2.02,1.8475,,,,2026-11-17 12:30:29.831823+00:00
-1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,total,3.0,,,,1.8621,1.9804,2026-11-17 12:30:29.831823+00:00
-1640324419,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leiston,Stratford Town,moneyline,,2.05,2.97,3.63,,,2026-11-17 12:30:29.831823+00:00
-1640324419,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leiston,Stratford Town,spread,-0.25,1.8197,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640324419,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leiston,Stratford Town,total,3.25,,,,1.9615,1.8,2026-11-17 12:30:29.831823+00:00
-1640546356,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Belize,Sint Maarten,moneyline,,1.8547,3.76,3.56,,,2026-11-17 12:30:29.831823+00:00
-1640546356,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Belize,Sint Maarten,spread,-0.5,1.8547,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640546356,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Belize,Sint Maarten,total,2.75,,,,1.8772,1.9091,2026-11-17 12:30:29.831823+00:00
 1640295272,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Malawi,Egypt,moneyline,,23.67,1.1252,7.8,,,2026-11-17 12:30:29.831823+00:00
 1640295272,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Malawi,Egypt,spread,2.25,1.7874,2.05,,,,2026-11-17 12:30:29.831823+00:00
 1640295272,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Malawi,Egypt,total,2.75,,,,1.7937,2.02,2026-11-17 12:30:29.831823+00:00
-1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,moneyline,,1.25,10.61,6.47,,,2026-11-17 12:30:29.831823+00:00
-1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,spread,-1.75,1.9346,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,total,3.25,,,,2.06,1.8065,2026-11-17 12:30:29.831823+00:00
-1640324306,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Ramsgate,Cray Wanderers,moneyline,,2.44,2.47,3.53,,,2026-11-17 12:30:29.831823+00:00
-1640324306,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Ramsgate,Cray Wanderers,spread,0.0,1.8621,1.8929,,,,2026-11-17 12:30:29.831823+00:00
-1640324306,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Ramsgate,Cray Wanderers,total,3.0,,,,1.8264,1.9259,2026-11-17 12:30:29.831823+00:00
-1640324416,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Leatherhead,Wingate and Finchley,moneyline,,1.9009,3.16,3.92,,,2026-11-17 12:30:29.831823+00:00
-1640324416,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Leatherhead,Wingate and Finchley,spread,-0.5,1.9009,1.8547,,,,2026-11-17 12:30:29.831823+00:00
-1640324416,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Leatherhead,Wingate and Finchley,total,3.25,,,,1.8929,1.8621,2026-11-17 12:30:29.831823+00:00
-1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,moneyline,,1.1433,12.78,8.49,,,2026-11-17 12:30:29.831823+00:00
-1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,spread,-2.25,1.9091,1.8696,,,,2026-11-17 12:30:29.831823+00:00
-1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,total,3.5,,,,1.8475,1.9174,2026-11-17 12:30:29.831823+00:00
-1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,moneyline,,3.01,2.3,3.02,,,2026-11-17 12:30:29.831823+00:00
-1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,spread,0.25,1.7874,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,total,2.25,,,,1.8065,1.9524,2026-11-17 12:30:29.831823+00:00
-1639870321,2026-11-17 16:00:00+00:00,International - Friendlies,Jordan,Australia,moneyline,,4.74,1.7143,3.93,,,2026-11-17 12:30:29.831823+00:00
-1639870321,2026-11-17 16:00:00+00:00,International - Friendlies,Jordan,Australia,spread,0.75,1.8929,1.9615,,,,2026-11-17 12:30:29.831823+00:00
-1639870321,2026-11-17 16:00:00+00:00,International - Friendlies,Jordan,Australia,total,2.5,,,,1.9804,1.8547,2026-11-17 12:30:29.831823+00:00
-1640546239,2026-11-17 16:30:00+00:00,Croatia - 2. NL,Koprivnica,Solin,spread,0.75,1.9259,1.7937,,,,2026-11-17 12:30:29.831823+00:00
-1640546239,2026-11-17 16:30:00+00:00,Croatia - 2. NL,Koprivnica,Solin,total,3.0,,,,1.9259,1.7937,2026-11-17 12:30:29.831823+00:00
-1640324389,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Botswana,Uganda,moneyline,,2.6,3.46,2.51,,,2026-11-17 12:30:29.831823+00:00
-1640324389,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Botswana,Uganda,spread,-0.25,2.14,1.7246,,,,2026-11-17 12:30:29.831823+00:00
-1640324389,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Botswana,Uganda,total,2.0,,,,2.08,1.7519,2026-11-17 12:30:29.831823+00:00
-1640324304,2026-11-17 19:45:00+00:00,England - Northern Premier League,Guiseley,Ashton United,moneyline,,1.4505,5.1,4.52,,,2026-11-17 12:30:29.831823+00:00
-1640324304,2026-11-17 19:45:00+00:00,England - Northern Premier League,Guiseley,Ashton United,spread,-1.25,2.0,1.7576,,,,2026-11-17 12:30:29.831823+00:00
-1640324304,2026-11-17 19:45:00+00:00,England - Northern Premier League,Guiseley,Ashton United,total,3.0,,,,1.9804,1.7692,2026-11-17 12:30:29.831823+00:00
 1640307482,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Ethiopia,Mozambique,moneyline,,2.63,3.38,2.62,,,2026-11-17 12:30:29.831823+00:00
 1640307482,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Ethiopia,Mozambique,spread,-0.25,2.17,1.7299,,,,2026-11-17 12:30:29.831823+00:00
 1640307482,2026-11-17 13:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Ethiopia,Mozambique,total,2.0,,,,1.9524,1.885,2026-11-17 12:30:29.831823+00:00
 1640278606,2026-11-17 13:00:00+00:00,International - Friendlies,Lebanon,Palestine,moneyline,,4.08,2.06,3.17,,,2026-11-17 12:30:29.831823+00:00
 1640278606,2026-11-17 13:00:00+00:00,International - Friendlies,Lebanon,Palestine,spread,0.5,1.8065,2.06,,,,2026-11-17 12:30:29.831823+00:00
 1640278606,2026-11-17 13:00:00+00:00,International - Friendlies,Lebanon,Palestine,total,2.25,,,,2.05,1.8065,2026-11-17 12:30:29.831823+00:00
-1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,moneyline,,5.33,1.6061,3.63,,,2026-11-17 12:30:29.831823+00:00
-1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,spread,1.0,1.813,1.9804,,,,2026-11-17 12:30:29.831823+00:00
-1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,total,2.5,,,,1.9709,1.8197,2026-11-17 12:30:29.831823+00:00
-1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,moneyline,,1.9804,4.06,2.72,,,2026-11-17 12:30:29.831823+00:00
-1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,spread,-0.5,1.9804,1.7463,,,,2026-11-17 12:30:29.831823+00:00
-1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,total,1.75,,,,1.7299,2.0,2026-11-17 12:30:29.831823+00:00
-1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,moneyline,,3.33,1.9901,3.36,,,2026-11-17 12:30:29.831823+00:00
-1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,spread,0.5,1.7752,1.9901,,,,2026-11-17 12:30:29.831823+00:00
-1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,total,2.75,,,,1.9259,1.8333,2026-11-17 12:30:29.831823+00:00
-1640324215,2026-11-17 19:45:00+00:00,England - Northern Premier League,Hyde United,Warrington Rylands,moneyline,,2.88,2.06,3.75,,,2026-11-17 12:30:29.831823+00:00
-1640324215,2026-11-17 19:45:00+00:00,England - Northern Premier League,Hyde United,Warrington Rylands,spread,0.25,1.9259,1.8333,,,,2026-11-17 12:30:29.831823+00:00
-1640324215,2026-11-17 19:45:00+00:00,England - Northern Premier League,Hyde United,Warrington Rylands,total,3.0,,,,1.9091,1.8475,2026-11-17 12:30:29.831823+00:00
-1640388587,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Moneyfields,Hendon,moneyline,,1.8065,3.14,4.03,,,2026-11-17 12:30:29.831823+00:00
-1640388587,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Moneyfields,Hendon,spread,-0.5,1.8065,1.9009,,,,2026-11-17 12:30:29.831823+00:00
-1640388587,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Moneyfields,Hendon,total,3.25,,,,1.7692,1.9524,2026-11-17 12:30:29.831823+00:00
-1639862840,2026-11-17 14:10:00+00:00,International - Friendlies,United Arab Emirates,Syria,moneyline,,1.3636,8.7,4.93,,,2026-11-17 12:30:29.831823+00:00
-1639862840,2026-11-17 14:10:00+00:00,International - Friendlies,United Arab Emirates,Syria,spread,-1.25,1.8333,2.03,,,,2026-11-17 12:30:29.831823+00:00
-1639862840,2026-11-17 14:10:00+00:00,International - Friendlies,United Arab Emirates,Syria,total,2.5,,,,1.8929,1.9434,2026-11-17 12:30:29.831823+00:00
-1640388590,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Stafford Rangers,Atherton Collieries,moneyline,,1.6211,3.82,4.14,,,2026-11-17 12:30:29.831823+00:00
-1640388590,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Stafford Rangers,Atherton Collieries,spread,-0.75,1.7874,1.9259,,,,2026-11-17 12:30:29.831823+00:00
-1640388590,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Stafford Rangers,Atherton Collieries,total,3.25,,,,1.8696,1.8403,2026-11-17 12:30:29.831823+00:00
-1640324184,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Congo Republic,Comoros,moneyline,,1.9091,4.94,2.9,,,2026-11-17 12:30:29.831823+00:00
-1640324184,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Congo Republic,Comoros,spread,-0.5,1.9091,1.9091,,,,2026-11-17 12:30:29.831823+00:00
-1640324184,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Congo Republic,Comoros,total,2.0,,,,1.8696,1.9259,2026-11-17 12:30:29.831823+00:00
-1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,moneyline,,4.05,1.8333,3.69,,,2026-11-17 12:30:29.831823+00:00
-1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,spread,0.5,1.9709,1.8403,,,,2026-11-17 12:30:29.831823+00:00
-1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,total,2.5,,,,1.8772,1.9091,2026-11-17 12:30:29.831823+00:00
-1640315274,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Sierra Leone,DR Congo,moneyline,,9.74,1.3676,4.26,,,2026-11-17 12:30:29.831823+00:00
-1640315274,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Sierra Leone,DR Congo,spread,1.25,1.885,1.9346,,,,2026-11-17 12:30:29.831823+00:00
-1640315274,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Sierra Leone,DR Congo,total,2.25,,,,1.885,1.9174,2026-11-17 12:30:29.831823+00:00
-1640388586,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Prescot Cables,Witton Albion,moneyline,,1.8547,3.15,3.81,,,2026-11-17 12:30:29.831823+00:00
-1640388586,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Prescot Cables,Witton Albion,spread,-0.5,1.8547,1.8547,,,,2026-11-17 12:30:29.831823+00:00
-1640388586,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Prescot Cables,Witton Albion,total,3.0,,,,1.8696,1.8403,2026-11-17 12:30:29.831823+00:00
-1640324412,2026-11-17 19:45:00+00:00,England - National League South,Truro City,Billericay Town,moneyline,,1.7874,3.9,3.9,,,2026-11-17 12:30:29.831823+00:00
-1640324412,2026-11-17 19:45:00+00:00,England - National League South,Truro City,Billericay Town,spread,-0.75,2.01,1.813,,,,2026-11-17 12:30:29.831823+00:00
-1640324412,2026-11-17 19:45:00+00:00,England - National League South,Truro City,Billericay Town,total,3.25,,,,2.02,1.7937,2026-11-17 12:30:29.831823+00:00
-1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,moneyline,,1.0797,29.15,11.92,,,2026-11-17 12:30:29.831823+00:00
-1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,spread,-2.5,1.9615,1.8772,,,,2026-11-17 12:30:29.831823+00:00
-1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,total,3.25,,,,2.03,1.8,2026-11-17 12:30:29.831823+00:00
-1639891293,2026-11-17 15:30:00+00:00,International - Friendlies,Saudi Arabia,Uzbekistan,moneyline,,2.44,2.97,3.37,,,2026-11-17 12:30:29.831823+00:00
-1639891293,2026-11-17 15:30:00+00:00,International - Friendlies,Saudi Arabia,Uzbekistan,spread,-0.25,2.1,1.7812,,,,2026-11-17 12:30:29.831823+00:00
-1639891293,2026-11-17 15:30:00+00:00,International - Friendlies,Saudi Arabia,Uzbekistan,total,2.25,,,,1.9346,1.9009,2026-11-17 12:30:29.831823+00:00
-1640324220,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ireland,Kosovo,moneyline,,2.05,4.21,3.27,,,2026-11-17 12:30:29.831823+00:00
-1640324220,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ireland,Kosovo,spread,-0.5,2.05,1.8621,,,,2026-11-17 12:30:29.831823+00:00
-1640324220,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ireland,Kosovo,total,2.0,,,,1.8065,2.1,2026-11-17 12:30:29.831823+00:00
-1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,moneyline,,1.5291,6.22,3.96,,,2026-11-17 12:30:29.831823+00:00
-1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,spread,-1.0,1.9346,1.8696,,,,2026-11-17 12:30:29.831823+00:00
-1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,total,2.25,,,,1.8475,1.9434,2026-11-17 12:30:29.831823+00:00
-1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,moneyline,,1.4464,5.84,4.24,,,2026-11-17 12:30:29.831823+00:00
-1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,spread,-1.25,1.9709,1.7937,,,,2026-11-17 12:30:29.831823+00:00
-1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,total,3.0,,,,1.9901,1.7752,2026-11-17 12:30:29.831823+00:00
-1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,moneyline,,1.578,5.29,4.42,,,2026-11-17 12:30:29.831823+00:00
-1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,spread,-1.0,1.9901,1.885,,,,2026-11-17 12:30:29.831823+00:00
-1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,total,3.0,,,,1.9709,1.885,2026-11-17 12:30:29.831823+00:00
-1639870255,2026-11-17 16:30:00+00:00,International - Friendlies,Kuwait,Honduras,moneyline,,4.1,1.9434,3.47,,,2026-11-17 12:30:29.831823+00:00
-1639870255,2026-11-17 16:30:00+00:00,International - Friendlies,Kuwait,Honduras,spread,0.5,1.9091,1.9434,,,,2026-11-17 12:30:29.831823+00:00
-1639870255,2026-11-17 16:30:00+00:00,International - Friendlies,Kuwait,Honduras,total,2.25,,,,1.8197,2.03,2026-11-17 12:30:29.831823+00:00
+1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,moneyline,,2.48,2.54,3.66,,,2026-11-17 13:00:30.737162+00:00
+1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,spread,0.0,1.885,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1640410914,2026-11-20 11:35:00+00:00,China - FA Cup,Beijing Guoan,Shanghai Port,total,3.25,,,,1.9174,1.885,2026-11-17 13:00:30.737162+00:00
+1640512332,2026-11-17 14:00:00+00:00,SAFF - Championship,India,Pakistan,moneyline,,2.11,3.72,3.05,,,2026-11-17 13:00:30.737162+00:00
+1640512332,2026-11-17 14:00:00+00:00,SAFF - Championship,India,Pakistan,spread,-0.25,1.8,2.03,,,,2026-11-17 13:00:30.737162+00:00
+1640512332,2026-11-17 14:00:00+00:00,SAFF - Championship,India,Pakistan,total,2.25,,,,1.8403,1.9804,2026-11-17 13:00:30.737162+00:00
+1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,moneyline,,2.63,2.77,2.75,,,2026-11-17 13:00:30.737162+00:00
+1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,spread,0.0,1.8197,1.9174,,,,2026-11-17 13:00:30.737162+00:00
+1640375831,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Baladiyyat Al Mehalla,Haras El Hodood,total,1.75,,,,1.813,1.9259,2026-11-17 13:00:30.737162+00:00
+1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,moneyline,,1.4651,5.53,4.25,,,2026-11-17 13:00:30.737162+00:00
+1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,spread,-1.25,1.9901,1.7752,,,,2026-11-17 13:00:30.737162+00:00
+1640472737,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Sanliurfaspor,Erbaaspor,total,3.0,,,,1.9091,1.8475,2026-11-17 13:00:30.737162+00:00
+1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,moneyline,,3.01,2.13,3.85,,,2026-11-17 13:00:30.737162+00:00
+1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,spread,0.25,1.9346,1.8696,,,,2026-11-17 13:00:30.737162+00:00
+1640523263,2026-11-19 15:30:00+00:00,Qatar - Stars League,Al Ahli Doha,Al-Shamal,total,3.25,,,,1.9091,1.8772,2026-11-17 13:00:30.737162+00:00
+1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,moneyline,,1.1271,14.0,9.05,,,2026-11-17 13:00:30.737162+00:00
+1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,spread,-2.25,1.8403,1.9524,,,,2026-11-17 13:00:30.737162+00:00
+1640375838,2026-11-19 12:45:00+00:00,UAE - Pro League,Al Wasl,Hatta,total,3.75,,,,1.813,1.9709,2026-11-17 13:00:30.737162+00:00
+1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,moneyline,,5.61,1.5051,3.9,,,2026-11-17 13:00:30.737162+00:00
+1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,spread,1.0,1.9524,1.8065,,,,2026-11-17 13:00:30.737162+00:00
+1640472691,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Hatayspor,Inegol Kafkasspor,total,2.5,,,,1.7937,1.9709,2026-11-17 13:00:30.737162+00:00
+1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,moneyline,,1.1182,13.45,7.71,,,2026-11-17 13:00:30.737162+00:00
+1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,spread,-2.25,1.9091,1.8,,,,2026-11-17 13:00:30.737162+00:00
+1640325610,2026-11-18 02:30:00+00:00,CONCACAF - Nations League,Mexico,Jamaica,total,3.5,,,,1.9091,1.8,2026-11-17 13:00:30.737162+00:00
+1640324215,2026-11-17 19:45:00+00:00,England - Northern Premier League,Hyde United,Warrington Rylands,moneyline,,2.88,2.06,3.75,,,2026-11-17 13:00:30.737162+00:00
+1640324215,2026-11-17 19:45:00+00:00,England - Northern Premier League,Hyde United,Warrington Rylands,spread,0.25,1.9259,1.8333,,,,2026-11-17 13:00:30.737162+00:00
+1640324215,2026-11-17 19:45:00+00:00,England - Northern Premier League,Hyde United,Warrington Rylands,total,3.0,,,,1.9091,1.8475,2026-11-17 13:00:30.737162+00:00
+1640324416,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Leatherhead,Wingate and Finchley,moneyline,,1.9009,3.16,3.92,,,2026-11-17 13:00:30.737162+00:00
+1640324416,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Leatherhead,Wingate and Finchley,spread,-0.5,1.9009,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1640324416,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Leatherhead,Wingate and Finchley,total,3.25,,,,1.8929,1.8621,2026-11-17 13:00:30.737162+00:00
+1640388590,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Stafford Rangers,Atherton Collieries,moneyline,,1.6211,3.82,4.14,,,2026-11-17 13:00:30.737162+00:00
+1640388590,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Stafford Rangers,Atherton Collieries,spread,-0.75,1.7874,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640388590,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Stafford Rangers,Atherton Collieries,total,3.25,,,,1.8696,1.8403,2026-11-17 13:00:30.737162+00:00
+1638153531,2026-11-17 19:45:00+00:00,England - National League South,Tonbridge Angels,Chesham United,moneyline,,1.7692,4.0,3.9,,,2026-11-17 13:00:30.737162+00:00
+1638153531,2026-11-17 19:45:00+00:00,England - National League South,Tonbridge Angels,Chesham United,spread,-0.75,1.9804,1.8403,,,,2026-11-17 13:00:30.737162+00:00
+1638153531,2026-11-17 19:45:00+00:00,England - National League South,Tonbridge Angels,Chesham United,total,3.0,,,,1.9434,1.8621,2026-11-17 13:00:30.737162+00:00
+1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,moneyline,,1.6579,4.56,4.01,,,2026-11-17 13:00:30.737162+00:00
+1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,spread,-0.75,1.8264,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640403623,2026-11-20 08:30:00+00:00,Australia - Championship,Sydney United,Sutherland Sharks,total,2.75,,,,1.8065,2.0,2026-11-17 13:00:30.737162+00:00
+1640324212,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leamington,Halesowen Town,moneyline,,2.85,2.19,3.45,,,2026-11-17 13:00:30.737162+00:00
+1640324212,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leamington,Halesowen Town,spread,0.25,1.8333,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640324212,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leamington,Halesowen Town,total,3.0,,,,1.9434,1.8197,2026-11-17 13:00:30.737162+00:00
+1640307293,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Kenya,South Africa,moneyline,,5.36,1.7407,3.22,,,2026-11-17 13:00:30.737162+00:00
+1640307293,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Kenya,South Africa,spread,0.75,1.8264,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640307293,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Kenya,South Africa,total,2.0,,,,1.9174,1.885,2026-11-17 13:00:30.737162+00:00
+1640388586,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Prescot Cables,Witton Albion,moneyline,,1.8547,3.15,3.81,,,2026-11-17 13:00:30.737162+00:00
+1640388586,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Prescot Cables,Witton Albion,spread,-0.5,1.8547,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1640388586,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Prescot Cables,Witton Albion,total,3.0,,,,1.8696,1.8403,2026-11-17 13:00:30.737162+00:00
+1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,moneyline,,1.6849,4.44,4.28,,,2026-11-17 13:00:30.737162+00:00
+1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,spread,-0.75,1.8696,1.9901,,,,2026-11-17 13:00:30.737162+00:00
+1639795931,2026-11-20 08:40:00+00:00,Australia - A League,Western Sydney Wanderers,Adelaide United,total,3.25,,,,1.9524,1.8772,2026-11-17 13:00:30.737162+00:00
+1640388591,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Felixstowe and Walton United,Wroxham,moneyline,,1.9901,2.75,3.87,,,2026-11-17 13:00:30.737162+00:00
+1640388591,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Felixstowe and Walton United,Wroxham,spread,-0.25,1.7874,1.9091,,,,2026-11-17 13:00:30.737162+00:00
+1640388591,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Felixstowe and Walton United,Wroxham,total,3.0,,,,1.9524,1.7519,2026-11-17 13:00:30.737162+00:00
+1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,moneyline,,26.19,1.0735,10.5,,,2026-11-17 13:00:30.737162+00:00
+1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,spread,2.5,1.9524,1.8333,,,,2026-11-17 13:00:30.737162+00:00
+1640324318,2026-11-17 20:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Niger,Morocco,total,3.25,,,,1.8547,1.9174,2026-11-17 13:00:30.737162+00:00
+1638158220,2026-11-17 19:45:00+00:00,England - National League North,Oxford City,Macclesfield,moneyline,,2.26,2.82,3.56,,,2026-11-17 13:00:30.737162+00:00
+1638158220,2026-11-17 19:45:00+00:00,England - National League North,Oxford City,Macclesfield,spread,-0.25,1.9901,1.8197,,,,2026-11-17 13:00:30.737162+00:00
+1638158220,2026-11-17 19:45:00+00:00,England - National League North,Oxford City,Macclesfield,total,3.0,,,,1.9901,1.8065,2026-11-17 13:00:30.737162+00:00
+1640377111,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bridlington Town,Dunston,moneyline,,3.35,1.813,3.7,,,2026-11-17 13:00:30.737162+00:00
+1640377111,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bridlington Town,Dunston,spread,0.5,1.8929,1.813,,,,2026-11-17 13:00:30.737162+00:00
+1640377111,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bridlington Town,Dunston,total,3.0,,,,1.9009,1.813,2026-11-17 13:00:30.737162+00:00
+1640385189,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bourne Town,Coventry United,moneyline,,2.28,2.46,3.67,,,2026-11-17 13:00:30.737162+00:00
+1640385189,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bourne Town,Coventry United,spread,0.0,1.7874,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640385189,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Bourne Town,Coventry United,total,3.25,,,,1.9174,1.7937,2026-11-17 13:00:30.737162+00:00
+1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,moneyline,,1.5464,5.45,4.57,,,2026-11-17 13:00:30.737162+00:00
+1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,spread,-1.0,1.9174,1.9524,,,,2026-11-17 13:00:30.737162+00:00
+1639791205,2026-11-18 23:00:00+00:00,Brazil - Serie A,Remo,Chapecoense,total,3.0,,,,1.9434,1.9091,2026-11-17 13:00:30.737162+00:00
+1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,moneyline,,2.81,2.32,3.21,,,2026-11-17 13:00:30.737162+00:00
+1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,spread,0.25,1.7576,2.02,,,,2026-11-17 13:00:30.737162+00:00
+1640472676,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Karacabey Belediyespor,Beyoglu Yeni Carsi,total,2.75,,,,1.9615,1.8,2026-11-17 13:00:30.737162+00:00
+1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,moneyline,,1.7576,3.98,3.58,,,2026-11-17 13:00:30.737162+00:00
+1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,spread,-0.75,1.9901,1.7752,,,,2026-11-17 13:00:30.737162+00:00
+1640410886,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Gebzespor,Ankaraspor,total,2.75,,,,1.8197,1.9346,2026-11-17 13:00:30.737162+00:00
+1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,moneyline,,3.24,2.02,3.39,,,2026-11-17 13:00:30.737162+00:00
+1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,spread,0.25,2.0,1.7692,,,,2026-11-17 13:00:30.737162+00:00
+1640472674,2026-11-18 10:00:00+00:00,Turkey - 2nd League,1461 Trabzon,Kahramanmaras Istiklal,total,2.75,,,,1.8264,1.9259,2026-11-17 13:00:30.737162+00:00
+1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,moneyline,,4.51,1.7246,3.53,,,2026-11-17 13:00:30.737162+00:00
+1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,spread,0.75,1.8547,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1640324444,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Badajoz,Tenerife,total,2.5,,,,2.0,1.8,2026-11-17 13:00:30.737162+00:00
+1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,moneyline,,4.4,1.7353,3.83,,,2026-11-17 13:00:30.737162+00:00
+1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,spread,0.75,1.8547,1.9524,,,,2026-11-17 13:00:30.737162+00:00
+1640420616,2026-11-20 12:45:00+00:00,UAE - Pro League,Al Ittihad Kalba,Sharjah FC,total,2.5,,,,1.813,1.9804,2026-11-17 13:00:30.737162+00:00
+1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,moneyline,,2.96,2.24,3.18,,,2026-11-17 13:00:30.737162+00:00
+1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,spread,0.25,1.813,1.9434,,,,2026-11-17 13:00:30.737162+00:00
+1640441873,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Serik Belediyespor,24 Erzincanspor,total,2.75,,,,1.9615,1.8,2026-11-17 13:00:30.737162+00:00
+1640324306,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Ramsgate,Cray Wanderers,moneyline,,2.44,2.47,3.53,,,2026-11-17 13:00:30.737162+00:00
+1640324306,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Ramsgate,Cray Wanderers,spread,0.0,1.8621,1.8929,,,,2026-11-17 13:00:30.737162+00:00
+1640324306,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Ramsgate,Cray Wanderers,total,3.0,,,,1.8264,1.9259,2026-11-17 13:00:30.737162+00:00
+1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,moneyline,,1.0738,30.66,12.57,,,2026-11-17 13:00:30.737162+00:00
+1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,spread,-2.5,1.8547,1.9901,,,,2026-11-17 13:00:30.737162+00:00
+1639904594,2026-11-17 23:00:00+00:00,International - Friendlies,Argentina,Costa Rica,total,3.25,,,,1.8621,1.9615,2026-11-17 13:00:30.737162+00:00
+1640324314,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Clydebank,Albion Rovers,moneyline,,1.2183,7.67,5.77,,,2026-11-17 13:00:30.737162+00:00
+1640324314,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Clydebank,Albion Rovers,spread,-2.0,1.9615,1.7519,,,,2026-11-17 13:00:30.737162+00:00
+1640324314,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Clydebank,Albion Rovers,total,3.75,,,,1.9009,1.7937,2026-11-17 13:00:30.737162+00:00
+1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,moneyline,,1.7519,3.63,3.95,,,2026-11-17 13:00:30.737162+00:00
+1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,spread,-0.75,1.9524,1.8065,,,,2026-11-17 13:00:30.737162+00:00
+1640441874,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Adana Demirspor,Kastamonuspor,total,3.0,,,,1.7937,1.9709,2026-11-17 13:00:30.737162+00:00
+1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,moneyline,,1.4065,7.86,4.63,,,2026-11-17 13:00:30.737162+00:00
+1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,spread,-1.25,1.9901,1.8621,,,,2026-11-17 13:00:30.737162+00:00
+1640410878,2026-11-20 10:00:00+00:00,Japan - J League,Vissel Kobe,Mito HollyHock,total,2.5,,,,1.8333,2.01,2026-11-17 13:00:30.737162+00:00
+1639870262,2026-11-17 13:10:00+00:00,International - Friendlies,Japan,Paraguay,moneyline,,1.813,4.18,3.88,,,2026-11-17 13:00:30.737162+00:00
+1639870262,2026-11-17 13:10:00+00:00,International - Friendlies,Japan,Paraguay,spread,-0.5,1.813,2.05,,,,2026-11-17 13:00:30.737162+00:00
+1639870262,2026-11-17 13:10:00+00:00,International - Friendlies,Japan,Paraguay,total,2.75,,,,1.9709,1.8621,2026-11-17 13:00:30.737162+00:00
+1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,moneyline,,2.11,3.31,3.39,,,2026-11-17 13:00:30.737162+00:00
+1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,spread,-0.25,1.8333,1.9901,,,,2026-11-17 13:00:30.737162+00:00
+1640349208,2026-11-18 14:30:00+00:00,Saudi Arabia - Division 1,Al-Adalah,Al Orubah,total,2.5,,,,1.8065,2.01,2026-11-17 13:00:30.737162+00:00
+1640377113,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Rushden and Diamonds,Mickleover,moneyline,,2.01,2.91,3.6,,,2026-11-17 13:00:30.737162+00:00
+1640377113,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Rushden and Diamonds,Mickleover,spread,-0.25,1.7874,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640377113,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Rushden and Diamonds,Mickleover,total,2.75,,,,1.7463,1.9804,2026-11-17 13:00:30.737162+00:00
+1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,moneyline,,3.01,2.3,3.02,,,2026-11-17 13:00:30.737162+00:00
+1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,spread,0.25,1.7874,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640428878,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Corluspor 1947,Mus Spor,total,2.25,,,,1.8065,1.9524,2026-11-17 13:00:30.737162+00:00
+1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,moneyline,,2.81,2.28,3.45,,,2026-11-17 13:00:30.737162+00:00
+1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,spread,0.25,1.8,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640546357,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,French Guiana,Saint Vincent and the Grenadines,total,2.75,,,,1.885,1.9009,2026-11-17 13:00:30.737162+00:00
+1640549843,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Warrenpoint Town,Glenavon,moneyline,,5.39,1.4329,4.23,,,2026-11-17 13:00:30.737162+00:00
+1640549843,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Warrenpoint Town,Glenavon,spread,1.25,1.7874,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1640549843,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Warrenpoint Town,Glenavon,total,3.0,,,,1.8475,1.8621,2026-11-17 13:00:30.737162+00:00
+1640324424,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Poland,Sweden,moneyline,,2.19,3.15,3.88,,,2026-11-17 13:00:30.737162+00:00
+1640324424,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Poland,Sweden,spread,-0.25,1.9259,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640324424,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Poland,Sweden,total,3.0,,,,1.8403,2.06,2026-11-17 13:00:30.737162+00:00
+1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,moneyline,,1.5882,5.86,3.69,,,2026-11-17 13:00:30.737162+00:00
+1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,spread,-1.0,2.04,1.7937,,,,2026-11-17 13:00:30.737162+00:00
+1640325344,2026-11-17 23:30:00+00:00,Colombia - Cup,Atletico Nacional,Once Caldas,total,2.5,,,,1.9615,1.8475,2026-11-17 13:00:30.737162+00:00
+1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,moneyline,,2.49,2.54,3.97,,,2026-11-17 13:00:30.737162+00:00
+1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,spread,0.0,1.9009,1.9434,,,,2026-11-17 13:00:30.737162+00:00
+1640265019,2026-11-20 00:30:00+00:00,USA - Major League Soccer,Orlando City,FC Cincinnati,total,3.75,,,,1.9259,1.9091,2026-11-17 13:00:30.737162+00:00
+1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,moneyline,,1.3185,7.71,5.59,,,2026-11-17 13:00:30.737162+00:00
+1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,spread,-1.5,1.9009,1.9009,,,,2026-11-17 13:00:30.737162+00:00
+1640326003,2026-11-19 18:00:00+00:00,Denmark - Division 1,Fredericia,Hillerod Fodbold,total,3.25,,,,1.8547,1.9346,2026-11-17 13:00:30.737162+00:00
+1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,moneyline,,1.1629,15.83,7.69,,,2026-11-17 13:00:30.737162+00:00
+1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,spread,-2.0,1.9524,1.8772,,,,2026-11-17 13:00:30.737162+00:00
+1639904617,2026-11-17 23:30:00+00:00,International - Friendlies,Ecuador,Bolivia,total,3.0,,,,1.9709,1.8547,2026-11-17 13:00:30.737162+00:00
+1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,moneyline,,1.8475,4.1,3.12,,,2026-11-17 13:00:30.737162+00:00
+1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,spread,-0.5,1.8475,1.8929,,,,2026-11-17 13:00:30.737162+00:00
+1640377065,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Pharco FC,El-Entag El-Harby,total,2.25,,,,1.9174,1.8264,2026-11-17 13:00:30.737162+00:00
+1638153522,2026-11-17 19:45:00+00:00,England - National League North,South Shields,Harborough Town,moneyline,,1.5051,5.55,4.41,,,2026-11-17 13:00:30.737162+00:00
+1638153522,2026-11-17 19:45:00+00:00,England - National League North,South Shields,Harborough Town,spread,-1.0,1.8264,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1638153522,2026-11-17 19:45:00+00:00,England - National League North,South Shields,Harborough Town,total,3.25,,,,2.03,1.7874,2026-11-17 13:00:30.737162+00:00
+1640324213,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Chippenham Town,Sholing,moneyline,,2.52,2.5,3.31,,,2026-11-17 13:00:30.737162+00:00
+1640324213,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Chippenham Town,Sholing,spread,0.0,1.885,1.8696,,,,2026-11-17 13:00:30.737162+00:00
+1640324213,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Chippenham Town,Sholing,total,2.5,,,,1.8264,1.9259,2026-11-17 13:00:30.737162+00:00
+1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,moneyline,,2.31,2.97,3.63,,,2026-11-17 13:00:30.737162+00:00
+1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,spread,-0.25,2.02,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1639796542,2026-11-19 00:30:00+00:00,Brazil - Serie A,Gremio,Bahia,total,2.75,,,,1.885,1.9709,2026-11-17 13:00:30.737162+00:00
+1640324305,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Worcester City,Kettering Town,moneyline,,2.67,2.3,3.45,,,2026-11-17 13:00:30.737162+00:00
+1640324305,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Worcester City,Kettering Town,spread,0.25,1.7463,2.03,,,,2026-11-17 13:00:30.737162+00:00
+1640324305,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Worcester City,Kettering Town,total,2.75,,,,1.7812,1.9804,2026-11-17 13:00:30.737162+00:00
+1640324216,2026-11-17 19:45:00+00:00,England - National League North,Spennymoor Town,Chester,moneyline,,4.31,1.7353,3.81,,,2026-11-17 13:00:30.737162+00:00
+1640324216,2026-11-17 19:45:00+00:00,England - National League North,Spennymoor Town,Chester,spread,0.75,1.8772,1.9434,,,,2026-11-17 13:00:30.737162+00:00
+1640324216,2026-11-17 19:45:00+00:00,England - National League North,Spennymoor Town,Chester,total,2.75,,,,2.01,1.8,2026-11-17 13:00:30.737162+00:00
+1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,moneyline,,1.4464,5.84,4.24,,,2026-11-17 13:00:30.737162+00:00
+1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,spread,-1.25,1.9709,1.7937,,,,2026-11-17 13:00:30.737162+00:00
+1640472657,2026-11-18 12:00:00+00:00,Turkey - 2nd League,Inegolspor,Iskenderunspor,total,3.0,,,,1.9901,1.7752,2026-11-17 13:00:30.737162+00:00
+1639891293,2026-11-17 15:30:00+00:00,International - Friendlies,Saudi Arabia,Uzbekistan,moneyline,,2.43,2.97,3.38,,,2026-11-17 13:00:30.737162+00:00
+1639891293,2026-11-17 15:30:00+00:00,International - Friendlies,Saudi Arabia,Uzbekistan,spread,-0.25,2.09,1.7874,,,,2026-11-17 13:00:30.737162+00:00
+1639891293,2026-11-17 15:30:00+00:00,International - Friendlies,Saudi Arabia,Uzbekistan,total,2.25,,,,1.9259,1.9091,2026-11-17 13:00:30.737162+00:00
+1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,moneyline,,2.31,2.66,3.44,,,2026-11-17 13:00:30.737162+00:00
+1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,spread,0.0,1.7519,2.02,,,,2026-11-17 13:00:30.737162+00:00
+1640420534,2026-11-18 12:30:00+00:00,Turkey - 2nd League,Aliaga,Sebat Genclikspor,total,3.0,,,,1.9524,1.8065,2026-11-17 13:00:30.737162+00:00
+1640324184,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Congo Republic,Comoros,moneyline,,1.9091,4.94,2.9,,,2026-11-17 13:00:30.737162+00:00
+1640324184,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Congo Republic,Comoros,spread,-0.5,1.9091,1.9091,,,,2026-11-17 13:00:30.737162+00:00
+1640324184,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Congo Republic,Comoros,total,2.0,,,,1.8696,1.9259,2026-11-17 13:00:30.737162+00:00
+1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,moneyline,,3.51,2.05,3.65,,,2026-11-17 13:00:30.737162+00:00
+1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,spread,0.5,1.8197,2.06,,,,2026-11-17 13:00:30.737162+00:00
+1639795934,2026-11-18 22:30:00+00:00,Brazil - Serie A,Coritiba,Santos,total,2.75,,,,1.9009,1.9524,2026-11-17 13:00:30.737162+00:00
+1640324286,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Rwanda,Mali,moneyline,,5.53,1.8929,2.77,,,2026-11-17 13:00:30.737162+00:00
+1640324286,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Rwanda,Mali,spread,0.5,1.9259,1.8929,,,,2026-11-17 13:00:30.737162+00:00
+1640324286,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Rwanda,Mali,total,2.0,,,,1.8547,1.9434,2026-11-17 13:00:30.737162+00:00
+1640570391,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Rathfriland Rangers,Moyola Park,moneyline,,2.15,2.75,3.44,,,2026-11-17 13:00:30.737162+00:00
+1640570391,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Rathfriland Rangers,Moyola Park,spread,-0.25,1.9009,1.8065,,,,2026-11-17 13:00:30.737162+00:00
+1640570391,2026-11-17 19:45:00+00:00,Northern Ireland - Championship,Rathfriland Rangers,Moyola Park,total,2.75,,,,1.8065,1.9009,2026-11-17 13:00:30.737162+00:00
+1640324304,2026-11-17 19:45:00+00:00,England - Northern Premier League,Guiseley,Ashton United,moneyline,,1.4505,5.1,4.52,,,2026-11-17 13:00:30.737162+00:00
+1640324304,2026-11-17 19:45:00+00:00,England - Northern Premier League,Guiseley,Ashton United,spread,-1.25,2.0,1.7576,,,,2026-11-17 13:00:30.737162+00:00
+1640324304,2026-11-17 19:45:00+00:00,England - Northern Premier League,Guiseley,Ashton United,total,3.0,,,,1.9804,1.7692,2026-11-17 13:00:30.737162+00:00
+1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,moneyline,,1.4926,5.88,4.36,,,2026-11-17 13:00:30.737162+00:00
+1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,spread,-1.0,1.8264,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640406608,2026-11-20 12:00:00+00:00,Indonesia - Super League,Dewa United,Persita Tangerang,total,3.0,,,,1.9709,1.8264,2026-11-17 13:00:30.737162+00:00
+1640388588,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Boldmere St. Michaels,Loughborough University,moneyline,,2.7,2.06,3.81,,,2026-11-17 13:00:30.737162+00:00
+1640388588,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Boldmere St. Michaels,Loughborough University,spread,0.25,1.8621,1.8475,,,,2026-11-17 13:00:30.737162+00:00
+1640388588,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Boldmere St. Michaels,Loughborough University,total,3.0,,,,1.7463,1.9804,2026-11-17 13:00:30.737162+00:00
+1640315275,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Gambia,Ivory Coast,moneyline,,6.74,1.6494,3.17,,,2026-11-17 13:00:30.737162+00:00
+1640315275,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Gambia,Ivory Coast,spread,0.75,1.9901,1.8403,,,,2026-11-17 13:00:30.737162+00:00
+1640315275,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Gambia,Ivory Coast,total,2.25,,,,1.9709,1.8403,2026-11-17 13:00:30.737162+00:00
+1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,moneyline,,2.62,2.94,2.62,,,2026-11-17 13:00:30.737162+00:00
+1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,spread,0.0,1.7634,1.9901,,,,2026-11-17 13:00:30.737162+00:00
+1640385153,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,Tersana,WE SC,total,1.75,,,,1.7812,1.9709,2026-11-17 13:00:30.737162+00:00
+1640504932,2026-11-17 19:00:00+00:00,England - EFL Trophy,Luton Town,Peterborough United,moneyline,,1.5348,4.68,4.85,,,2026-11-17 13:00:30.737162+00:00
+1640504932,2026-11-17 19:00:00+00:00,England - EFL Trophy,Luton Town,Peterborough United,spread,-1.0,1.8264,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640504932,2026-11-17 19:00:00+00:00,England - EFL Trophy,Luton Town,Peterborough United,total,3.75,,,,1.9434,1.8547,2026-11-17 13:00:30.737162+00:00
+1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,moneyline,,5.33,1.6061,3.63,,,2026-11-17 13:00:30.737162+00:00
+1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,spread,1.0,1.813,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640325354,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Utebo,Sabadell,total,2.5,,,,1.9709,1.8197,2026-11-17 13:00:30.737162+00:00
+1640546239,2026-11-17 16:30:00+00:00,Croatia - 2. NL,Koprivnica,Solin,spread,0.75,1.9259,1.7937,,,,2026-11-17 13:00:30.737162+00:00
+1640546239,2026-11-17 16:30:00+00:00,Croatia - 2. NL,Koprivnica,Solin,total,3.0,,,,1.9259,1.7937,2026-11-17 13:00:30.737162+00:00
+1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,moneyline,,1.0524,20.87,15.89,,,2026-11-17 13:00:30.737162+00:00
+1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,spread,-3.0,1.9174,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1640413749,2026-11-18 00:00:00+00:00,CONCACAF - Nations League,USA,Haiti,total,4.0,,,,1.7812,2.0,2026-11-17 13:00:30.737162+00:00
+1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,moneyline,,1.2809,8.3,5.72,,,2026-11-17 13:00:30.737162+00:00
+1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,spread,-1.5,1.8696,1.9091,,,,2026-11-17 13:00:30.737162+00:00
+1640325594,2026-11-18 01:00:00+00:00,CONCACAF - Nations League,El Salvador,Saint Martin,total,2.75,,,,1.7874,2.01,2026-11-17 13:00:30.737162+00:00
+1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,moneyline,,2.96,2.36,3.09,,,2026-11-17 13:00:30.737162+00:00
+1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,spread,0.25,1.7692,2.03,,,,2026-11-17 13:00:30.737162+00:00
+1640324239,2026-11-18 18:00:00+00:00,Spain - Copa del Rey,Club Portugalete,Real Union,total,2.25,,,,1.8475,1.9346,2026-11-17 13:00:30.737162+00:00
+1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,moneyline,,2.42,3.07,3.27,,,2026-11-17 13:00:30.737162+00:00
+1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,spread,-0.25,2.07,1.8,,,,2026-11-17 13:00:30.737162+00:00
+1639796541,2026-11-20 00:30:00+00:00,Brazil - Serie A,Sao Paulo,Fluminense,total,2.25,,,,1.8621,1.9804,2026-11-17 13:00:30.737162+00:00
+1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,moneyline,,1.25,10.61,6.47,,,2026-11-17 13:00:30.737162+00:00
+1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,spread,-1.75,1.9346,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1639795933,2026-11-18 23:30:00+00:00,Brazil - Serie A,Flamengo,Athletico Paranaense,total,3.25,,,,2.06,1.8065,2026-11-17 13:00:30.737162+00:00
+1640546356,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Belize,Sint Maarten,moneyline,,1.8696,3.72,3.54,,,2026-11-17 13:00:30.737162+00:00
+1640546356,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Belize,Sint Maarten,spread,-0.5,1.8696,1.9174,,,,2026-11-17 13:00:30.737162+00:00
+1640546356,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Belize,Sint Maarten,total,2.75,,,,1.8772,1.9091,2026-11-17 13:00:30.737162+00:00
+1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,moneyline,,2.04,3.24,3.81,,,2026-11-17 13:00:30.737162+00:00
+1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,spread,-0.25,1.7874,2.03,,,,2026-11-17 13:00:30.737162+00:00
+1640410850,2026-11-20 08:30:00+00:00,Indonesia - Super League,PSS Sleman,Arema FC,total,3.0,,,,1.8475,1.9434,2026-11-17 13:00:30.737162+00:00
+1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,moneyline,,6.21,1.4695,4.43,,,2026-11-17 13:00:30.737162+00:00
+1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,spread,1.0,2.01,1.8065,,,,2026-11-17 13:00:30.737162+00:00
+1640567035,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,CA Progreso,Montevideo City Torque,total,2.75,,,,1.8264,1.9615,2026-11-17 13:00:30.737162+00:00
+1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,moneyline,,1.8696,4.39,2.81,,,2026-11-17 13:00:30.737162+00:00
+1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,spread,-0.5,1.8696,1.8403,,,,2026-11-17 13:00:30.737162+00:00
+1640270708,2026-11-17 23:15:00+00:00,Argentina - Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,total,2.0,,,,2.0,1.7299,2026-11-17 13:00:30.737162+00:00
+1640406576,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Kitts and Nevis,Bonaire,moneyline,,1.7576,3.17,4.76,,,2026-11-17 13:00:30.737162+00:00
+1640406576,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Kitts and Nevis,Bonaire,spread,-0.75,1.9434,1.7874,,,,2026-11-17 13:00:30.737162+00:00
+1640406576,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Kitts and Nevis,Bonaire,total,4.0,,,,1.9091,1.8197,2026-11-17 13:00:30.737162+00:00
+1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,moneyline,,1.4464,6.91,4.27,,,2026-11-17 13:00:30.737162+00:00
+1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,spread,-1.25,1.9615,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1640329712,2026-11-18 01:30:00+00:00,Colombia - Cup,America de Cali,Inter Bogota,total,2.75,,,,1.8772,1.9259,2026-11-17 13:00:30.737162+00:00
+1639870255,2026-11-17 16:30:00+00:00,International - Friendlies,Kuwait,Honduras,moneyline,,4.1,1.9434,3.47,,,2026-11-17 13:00:30.737162+00:00
+1639870255,2026-11-17 16:30:00+00:00,International - Friendlies,Kuwait,Honduras,spread,0.5,1.9091,1.9434,,,,2026-11-17 13:00:30.737162+00:00
+1639870255,2026-11-17 16:30:00+00:00,International - Friendlies,Kuwait,Honduras,total,2.25,,,,1.8197,2.03,2026-11-17 13:00:30.737162+00:00
+1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,moneyline,,3.33,1.9901,3.36,,,2026-11-17 13:00:30.737162+00:00
+1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,spread,0.5,1.7752,1.9901,,,,2026-11-17 13:00:30.737162+00:00
+1640469774,2026-11-18 10:00:00+00:00,Turkey - 2nd League,12 Bingol Spor,Sakaryaspor,total,2.75,,,,1.9259,1.8333,2026-11-17 13:00:30.737162+00:00
+1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,moneyline,,2.86,2.58,2.72,,,2026-11-17 13:00:30.737162+00:00
+1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,spread,0.0,1.9804,1.7752,,,,2026-11-17 13:00:30.737162+00:00
+1640385152,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,El Daklyeh,Ismaily,total,2.0,,,,1.9174,1.8264,2026-11-17 13:00:30.737162+00:00
+1640385186,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Hayes and Yeading United,Ashford Town,moneyline,,1.9434,3.01,3.67,,,2026-11-17 13:00:30.737162+00:00
+1640385186,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Hayes and Yeading United,Ashford Town,spread,-0.5,1.9434,1.7752,,,,2026-11-17 13:00:30.737162+00:00
+1640385186,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Hayes and Yeading United,Ashford Town,total,3.0,,,,1.885,1.8264,2026-11-17 13:00:30.737162+00:00
+1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,moneyline,,2.07,3.36,3.29,,,2026-11-17 13:00:30.737162+00:00
+1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,spread,-0.25,1.7937,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640570347,2026-11-18 01:30:00+00:00,Panama - Primera Division,Arabe Unido,Veraguas,total,2.5,,,,1.9434,1.8475,2026-11-17 13:00:30.737162+00:00
+1640324221,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Denmark,Norway,moneyline,,2.57,2.49,4.15,,,2026-11-17 13:00:30.737162+00:00
+1640324221,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Denmark,Norway,spread,0.0,1.9804,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640324221,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Denmark,Norway,total,3.25,,,,1.9259,1.9615,2026-11-17 13:00:30.737162+00:00
+1639894873,2026-11-17 16:00:00+00:00,International - Friendlies,Russia,Venezuela,moneyline,,1.4695,6.53,4.6,,,2026-11-17 13:00:30.737162+00:00
+1639894873,2026-11-17 16:00:00+00:00,International - Friendlies,Russia,Venezuela,spread,-1.0,1.7937,2.08,,,,2026-11-17 13:00:30.737162+00:00
+1639894873,2026-11-17 16:00:00+00:00,International - Friendlies,Russia,Venezuela,total,2.75,,,,1.9174,1.9174,2026-11-17 13:00:30.737162+00:00
+1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,moneyline,,5.73,1.565,3.68,,,2026-11-17 13:00:30.737162+00:00
+1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,spread,1.0,1.8333,1.9615,,,,2026-11-17 13:00:30.737162+00:00
+1640357018,2026-11-18 19:00:00+00:00,Spain - Copa del Rey,Alcoyano,Mallorca,total,2.5,,,,2.0,1.7937,2026-11-17 13:00:30.737162+00:00
+1640546236,2026-11-17 16:00:00+00:00,Croatia - 3. NL,HNK Hajduk Split II,Jadran Kastel Sucurac,spread,-0.5,1.7874,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640546236,2026-11-17 16:00:00+00:00,Croatia - 3. NL,HNK Hajduk Split II,Jadran Kastel Sucurac,total,2.75,,,,1.9091,1.8,2026-11-17 13:00:30.737162+00:00
+1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,moneyline,,2.15,3.12,3.61,,,2026-11-17 13:00:30.737162+00:00
+1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,spread,-0.25,1.8772,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640406563,2026-11-20 08:30:00+00:00,Indonesia - Super League,Garudayaksa,Madura United,total,2.75,,,,1.8333,1.9615,2026-11-17 13:00:30.737162+00:00
+1640324388,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Liberia,Cape Verde,moneyline,,4.85,1.7576,3.09,,,2026-11-17 13:00:30.737162+00:00
+1640324388,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Liberia,Cape Verde,spread,0.75,1.7874,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640324388,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Liberia,Cape Verde,total,2.25,,,,1.9346,1.8065,2026-11-17 13:00:30.737162+00:00
+1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,moneyline,,2.11,3.43,3.27,,,2026-11-17 13:00:30.737162+00:00
+1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,spread,-0.25,1.8264,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640546209,2026-11-18 20:00:00+00:00,Peru - Liga 1,Alianza Atletico,FBC Melgar,total,2.75,,,,1.8929,1.9091,2026-11-17 13:00:30.737162+00:00
+1640324413,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Burgess Hill Town,Brentwood Town,moneyline,,2.18,2.64,3.82,,,2026-11-17 13:00:30.737162+00:00
+1640324413,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Burgess Hill Town,Brentwood Town,spread,-0.25,1.9434,1.813,,,,2026-11-17 13:00:30.737162+00:00
+1640324413,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Burgess Hill Town,Brentwood Town,total,3.25,,,,1.8696,1.885,2026-11-17 13:00:30.737162+00:00
+1640315273,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Guinea-Bissau,Madagascar,moneyline,,1.4505,8.36,3.84,,,2026-11-17 13:00:30.737162+00:00
+1640315273,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Guinea-Bissau,Madagascar,spread,-1.0,1.7692,2.07,,,,2026-11-17 13:00:30.737162+00:00
+1640315273,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Guinea-Bissau,Madagascar,total,2.25,,,,1.8696,1.9346,2026-11-17 13:00:30.737162+00:00
+1640324312,2026-11-17 19:45:00+00:00,England - Northern Premier League,Cleethorpes Town,FC United of Manchester,moneyline,,1.7576,3.62,3.83,,,2026-11-17 13:00:30.737162+00:00
+1640324312,2026-11-17 19:45:00+00:00,England - Northern Premier League,Cleethorpes Town,FC United of Manchester,spread,-0.75,1.9804,1.7752,,,,2026-11-17 13:00:30.737162+00:00
+1640324312,2026-11-17 19:45:00+00:00,England - Northern Premier League,Cleethorpes Town,FC United of Manchester,total,2.75,,,,1.8547,1.885,2026-11-17 13:00:30.737162+00:00
+1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,moneyline,,1.6452,5.11,4.09,,,2026-11-17 13:00:30.737162+00:00
+1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,spread,-0.75,1.8197,2.04,,,,2026-11-17 13:00:30.737162+00:00
+1639791204,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vasco da Gama,Internacional,total,2.75,,,,1.9615,1.8772,2026-11-17 13:00:30.737162+00:00
+1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,moneyline,,2.77,2.72,2.66,,,2026-11-17 13:00:30.737162+00:00
+1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,spread,0.0,1.885,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1640377067,2026-11-19 12:30:00+00:00,Egypt - 2nd Division A,La Viena,El Sekka El Hadid,total,2.0,,,,2.01,1.7519,2026-11-17 13:00:30.737162+00:00
+1640324425,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ukraine,Georgia,moneyline,,2.15,3.75,3.35,,,2026-11-17 13:00:30.737162+00:00
+1640324425,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ukraine,Georgia,spread,-0.25,1.8403,2.08,,,,2026-11-17 13:00:30.737162+00:00
+1640324425,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ukraine,Georgia,total,2.25,,,,2.06,1.8403,2026-11-17 13:00:30.737162+00:00
+1639870321,2026-11-17 16:00:00+00:00,International - Friendlies,Jordan,Australia,moneyline,,4.81,1.6944,3.99,,,2026-11-17 13:00:30.737162+00:00
+1639870321,2026-11-17 16:00:00+00:00,International - Friendlies,Jordan,Australia,spread,0.75,1.9174,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1639870321,2026-11-17 16:00:00+00:00,International - Friendlies,Jordan,Australia,total,2.5,,,,1.9709,1.8696,2026-11-17 13:00:30.737162+00:00
+1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,moneyline,,2.88,2.47,3.42,,,2026-11-17 13:00:30.737162+00:00
+1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,spread,0.0,2.1,1.7874,,,,2026-11-17 13:00:30.737162+00:00
+1639796543,2026-11-18 23:30:00+00:00,Brazil - Serie A,Cruzeiro,Palmeiras,total,2.75,,,,2.0,1.8547,2026-11-17 13:00:30.737162+00:00
+1640385187,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Cambridge City,Concord Rangers,moneyline,,1.3717,5.44,4.82,,,2026-11-17 13:00:30.737162+00:00
+1640385187,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Cambridge City,Concord Rangers,spread,-1.5,1.9615,1.7634,,,,2026-11-17 13:00:30.737162+00:00
+1640385187,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 North,Cambridge City,Concord Rangers,total,3.25,,,,1.9259,1.7874,2026-11-17 13:00:30.737162+00:00
+1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,moneyline,,4.0,2.1,3.13,,,2026-11-17 13:00:30.737162+00:00
+1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,spread,0.25,2.09,1.7812,,,,2026-11-17 13:00:30.737162+00:00
+1639904705,2026-11-17 23:00:00+00:00,International - Friendlies,Chile,Colombia,total,2.25,,,,2.05,1.8,2026-11-17 13:00:30.737162+00:00
+1640324389,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Botswana,Uganda,moneyline,,2.6,3.46,2.51,,,2026-11-17 13:00:30.737162+00:00
+1640324389,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Botswana,Uganda,spread,-0.25,2.14,1.7246,,,,2026-11-17 13:00:30.737162+00:00
+1640324389,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Botswana,Uganda,total,2.0,,,,2.08,1.7519,2026-11-17 13:00:30.737162+00:00
+1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,moneyline,,2.8,2.58,2.94,,,2026-11-17 13:00:30.737162+00:00
+1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,spread,0.0,1.9804,1.813,,,,2026-11-17 13:00:30.737162+00:00
+1640290637,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Minera,FC Cartagena,total,2.0,,,,1.7519,2.06,2026-11-17 13:00:30.737162+00:00
+1640324419,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leiston,Stratford Town,moneyline,,2.05,2.97,3.63,,,2026-11-17 13:00:30.737162+00:00
+1640324419,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leiston,Stratford Town,spread,-0.25,1.8197,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1640324419,2026-11-17 19:45:00+00:00,England - Southern Premier League Central,Leiston,Stratford Town,total,3.25,,,,1.9615,1.8,2026-11-17 13:00:30.737162+00:00
+1640413747,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Lucia,Barbados,moneyline,,1.6289,4.52,4.22,,,2026-11-17 13:00:30.737162+00:00
+1640413747,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Lucia,Barbados,spread,-0.75,1.8,2.0,,,,2026-11-17 13:00:30.737162+00:00
+1640413747,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Saint Lucia,Barbados,total,3.0,,,,1.7812,2.02,2026-11-17 13:00:30.737162+00:00
+1640349207,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Israel,Austria,moneyline,,4.11,1.8403,4.07,,,2026-11-17 13:00:30.737162+00:00
+1640349207,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Israel,Austria,spread,0.5,2.07,1.8475,,,,2026-11-17 13:00:30.737162+00:00
+1640349207,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Israel,Austria,total,3.0,,,,1.9009,1.9901,2026-11-17 13:00:30.737162+00:00
+1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,moneyline,,5.26,1.5464,3.82,,,2026-11-17 13:00:30.737162+00:00
+1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,spread,1.0,1.8333,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640465484,2026-11-18 11:00:00+00:00,Turkey - 2nd League,Arnavutkoy Belediyespor,68 Aksaray Belediyespor,total,2.5,,,,1.8,1.9615,2026-11-17 13:00:30.737162+00:00
+1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,moneyline,,1.625,4.5,3.82,,,2026-11-17 13:00:30.737162+00:00
+1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,spread,-0.75,1.7874,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640465516,2026-11-18 10:00:00+00:00,Turkey - 2nd League,Isparta 32 Spor,Somaspor,total,2.75,,,,1.7937,1.9709,2026-11-17 13:00:30.737162+00:00
+1640315165,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Libya,Tunisia,moneyline,,3.77,2.17,2.89,,,2026-11-17 13:00:30.737162+00:00
+1640315165,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Libya,Tunisia,spread,0.25,1.9901,1.8403,,,,2026-11-17 13:00:30.737162+00:00
+1640315165,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Libya,Tunisia,total,2.0,,,,1.8772,1.9259,2026-11-17 13:00:30.737162+00:00
+1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,moneyline,,2.01,3.39,3.91,,,2026-11-17 13:00:30.737162+00:00
+1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,spread,-0.5,2.02,1.8475,,,,2026-11-17 13:00:30.737162+00:00
+1640264869,2026-11-20 03:00:00+00:00,USA - Major League Soccer,Seattle Sounders,Real Salt Lake,total,3.0,,,,1.8621,1.9804,2026-11-17 13:00:30.737162+00:00
+1640315274,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Sierra Leone,DR Congo,moneyline,,9.89,1.3597,4.3,,,2026-11-17 13:00:30.737162+00:00
+1640315274,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Sierra Leone,DR Congo,spread,1.25,1.9009,1.9174,,,,2026-11-17 13:00:30.737162+00:00
+1640315274,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Sierra Leone,DR Congo,total,2.25,,,,1.8772,1.9259,2026-11-17 13:00:30.737162+00:00
+1640324220,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ireland,Kosovo,moneyline,,2.05,4.21,3.27,,,2026-11-17 13:00:30.737162+00:00
+1640324220,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ireland,Kosovo,spread,-0.5,2.05,1.8621,,,,2026-11-17 13:00:30.737162+00:00
+1640324220,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Ireland,Kosovo,total,2.0,,,,1.8065,2.1,2026-11-17 13:00:30.737162+00:00
+1639862840,2026-11-17 14:10:00+00:00,International - Friendlies,United Arab Emirates,Syria,moneyline,,1.3484,8.91,5.08,,,2026-11-17 13:00:30.737162+00:00
+1639862840,2026-11-17 14:10:00+00:00,International - Friendlies,United Arab Emirates,Syria,spread,-1.25,1.8065,2.06,,,,2026-11-17 13:00:30.737162+00:00
+1639862840,2026-11-17 14:10:00+00:00,International - Friendlies,United Arab Emirates,Syria,total,2.5,,,,1.8696,1.9709,2026-11-17 13:00:30.737162+00:00
+1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,moneyline,,2.3,3.19,3.21,,,2026-11-17 13:00:30.737162+00:00
+1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,spread,-0.25,1.9615,1.8403,,,,2026-11-17 13:00:30.737162+00:00
+1640282917,2026-11-19 19:45:00+00:00,France - Ligue 3,Amiens,Caen,total,2.5,,,,1.9434,1.8403,2026-11-17 13:00:30.737162+00:00
+1640278608,2026-11-17 16:15:00+00:00,International - Friendlies,Iraq,Iran,moneyline,,4.31,1.9901,3.22,,,2026-11-17 13:00:30.737162+00:00
+1640278608,2026-11-17 16:15:00+00:00,International - Friendlies,Iraq,Iran,spread,0.5,1.8696,1.9901,,,,2026-11-17 13:00:30.737162+00:00
+1640278608,2026-11-17 16:15:00+00:00,International - Friendlies,Iraq,Iran,total,2.0,,,,1.8264,2.02,2026-11-17 13:00:30.737162+00:00
+1640324423,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Hungary,Northern Ireland,moneyline,,1.9804,4.39,3.35,,,2026-11-17 13:00:30.737162+00:00
+1640324423,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Hungary,Northern Ireland,spread,-0.5,1.9804,1.9259,,,,2026-11-17 13:00:30.737162+00:00
+1640324423,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Hungary,Northern Ireland,total,2.25,,,,2.12,1.8,2026-11-17 13:00:30.737162+00:00
+1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,moneyline,,3.68,2.02,3.15,,,2026-11-17 13:00:30.737162+00:00
+1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,spread,0.5,1.7812,2.02,,,,2026-11-17 13:00:30.737162+00:00
+1640324443,2026-11-18 19:30:00+00:00,Spain - Copa del Rey,Reus Reddis,Barakaldo,total,2.25,,,,1.9615,1.8264,2026-11-17 13:00:30.737162+00:00
+1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,moneyline,,1.4167,5.87,5.18,,,2026-11-17 13:00:30.737162+00:00
+1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,spread,-1.25,1.8547,1.9524,,,,2026-11-17 13:00:30.737162+00:00
+1640403571,2026-11-20 11:30:00+00:00,India - Super League,East Bengal,Sporting Club Delhi,total,3.25,,,,1.9709,1.8197,2026-11-17 13:00:30.737162+00:00
+1640388585,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Windsor & Eton,Egham Town,moneyline,,3.4,1.7353,4.0,,,2026-11-17 13:00:30.737162+00:00
+1640388585,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Windsor & Eton,Egham Town,spread,0.75,1.7812,1.9346,,,,2026-11-17 13:00:30.737162+00:00
+1640388585,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Windsor & Eton,Egham Town,total,3.25,,,,1.9091,1.8,2026-11-17 13:00:30.737162+00:00
+1640324207,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Dartford,Three Bridges,moneyline,,1.2571,6.97,6.04,,,2026-11-17 13:00:30.737162+00:00
+1640324207,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Dartford,Three Bridges,spread,-1.75,1.9615,1.7812,,,,2026-11-17 13:00:30.737162+00:00
+1640324207,2026-11-17 19:45:00+00:00,England - Isthmian Premier League,Dartford,Three Bridges,total,3.25,,,,1.8,1.9434,2026-11-17 13:00:30.737162+00:00
+1639892954,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Havant and Waterlooville,Bracknell Town,moneyline,,1.8547,3.48,3.68,,,2026-11-17 13:00:30.737162+00:00
+1639892954,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Havant and Waterlooville,Bracknell Town,spread,-0.5,1.8547,1.9009,,,,2026-11-17 13:00:30.737162+00:00
+1639892954,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Havant and Waterlooville,Bracknell Town,total,3.0,,,,1.813,1.9434,2026-11-17 13:00:30.737162+00:00
+1640377114,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Hallam,Blyth Spartans,moneyline,,4.24,1.5464,4.1,,,2026-11-17 13:00:30.737162+00:00
+1640377114,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Hallam,Blyth Spartans,spread,1.0,1.8065,1.8929,,,,2026-11-17 13:00:30.737162+00:00
+1640377114,2026-11-17 19:45:00+00:00,England - Northern League Division 1,Hallam,Blyth Spartans,total,3.0,,,,1.8197,1.8772,2026-11-17 13:00:30.737162+00:00
+1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,moneyline,,1.8333,4.18,3.8,,,2026-11-17 13:00:30.737162+00:00
+1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,spread,-0.5,1.8475,2.03,,,,2026-11-17 13:00:30.737162+00:00
+1639791206,2026-11-19 00:30:00+00:00,Brazil - Serie A,Corinthians,Botafogo FR RJ,total,2.5,,,,1.885,1.9709,2026-11-17 13:00:30.737162+00:00
+1640324214,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Brechin City,Stirling University,moneyline,,1.1036,11.66,8.19,,,2026-11-17 13:00:30.737162+00:00
+1640324214,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Brechin City,Stirling University,spread,-2.5,1.9009,1.7937,,,,2026-11-17 13:00:30.737162+00:00
+1640324214,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Brechin City,Stirling University,total,3.75,,,,1.7692,1.9346,2026-11-17 13:00:30.737162+00:00
+1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,moneyline,,1.5319,5.99,4.28,,,2026-11-17 13:00:30.737162+00:00
+1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,spread,-1.0,1.9009,1.9434,,,,2026-11-17 13:00:30.737162+00:00
+1640413755,2026-11-20 10:00:00+00:00,Japan - J League,Kashima Antlers,Shimizu S-Pulse,total,2.5,,,,1.8264,2.02,2026-11-17 13:00:30.737162+00:00
+1640324219,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Poole Town,Wimborne Town,moneyline,,2.24,2.89,3.26,,,2026-11-17 13:00:30.737162+00:00
+1640324219,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Poole Town,Wimborne Town,spread,-0.25,1.9524,1.8065,,,,2026-11-17 13:00:30.737162+00:00
+1640324219,2026-11-17 19:45:00+00:00,England - Southern Premier League South,Poole Town,Wimborne Town,total,2.75,,,,1.9804,1.7874,2026-11-17 13:00:30.737162+00:00
+1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,moneyline,,4.05,1.8333,3.69,,,2026-11-17 13:00:30.737162+00:00
+1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,spread,0.5,1.9709,1.8403,,,,2026-11-17 13:00:30.737162+00:00
+1640549915,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Boston River,Deportivo Maldonado,total,2.5,,,,1.8772,1.9091,2026-11-17 13:00:30.737162+00:00
+1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,moneyline,,1.1433,12.78,8.49,,,2026-11-17 13:00:30.737162+00:00
+1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,spread,-2.25,1.9091,1.8696,,,,2026-11-17 13:00:30.737162+00:00
+1640388602,2026-11-19 15:25:00+00:00,UAE - Pro League,Al Ain,Al Dhafra,total,3.5,,,,1.8475,1.9174,2026-11-17 13:00:30.737162+00:00
+1640306638,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Togo,Algeria,moneyline,,5.06,1.6711,3.64,,,2026-11-17 13:00:30.737162+00:00
+1640306638,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Togo,Algeria,spread,0.75,1.9434,1.8772,,,,2026-11-17 13:00:30.737162+00:00
+1640306638,2026-11-17 16:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Togo,Algeria,total,2.0,,,,1.8,2.01,2026-11-17 13:00:30.737162+00:00
+1640324412,2026-11-17 19:45:00+00:00,England - National League South,Truro City,Billericay Town,moneyline,,1.7194,4.17,3.99,,,2026-11-17 13:00:30.737162+00:00
+1640324412,2026-11-17 19:45:00+00:00,England - National League South,Truro City,Billericay Town,spread,-0.75,1.9174,1.9009,,,,2026-11-17 13:00:30.737162+00:00
+1640324412,2026-11-17 19:45:00+00:00,England - National League South,Truro City,Billericay Town,total,3.25,,,,2.01,1.8065,2026-11-17 13:00:30.737162+00:00
+1640388587,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Moneyfields,Hendon,moneyline,,1.8475,3.06,4.0,,,2026-11-17 13:00:30.737162+00:00
+1640388587,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Moneyfields,Hendon,spread,-0.5,1.8475,1.8621,,,,2026-11-17 13:00:30.737162+00:00
+1640388587,2026-11-17 19:45:00+00:00,England - Isthmian Division 1 South Central,Moneyfields,Hendon,total,3.25,,,,1.7692,1.9434,2026-11-17 13:00:30.737162+00:00
+1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,moneyline,,1.6897,4.47,3.72,,,2026-11-17 13:00:30.737162+00:00
+1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,spread,-0.75,1.8696,1.9174,,,,2026-11-17 13:00:30.737162+00:00
+1640357028,2026-11-18 19:30:00+00:00,Spain - Segunda Federacion,Salamanca UDS,Atletico Albacete,total,2.75,,,,1.9524,1.8403,2026-11-17 13:00:30.737162+00:00
+1640324420,2026-11-17 19:45:00+00:00,England - Northern Premier League,Quorn,Bury FC,moneyline,,3.35,1.7874,4.13,,,2026-11-17 13:00:30.737162+00:00
+1640324420,2026-11-17 19:45:00+00:00,England - Northern Premier League,Quorn,Bury FC,spread,0.5,1.9709,1.7874,,,,2026-11-17 13:00:30.737162+00:00
+1640324420,2026-11-17 19:45:00+00:00,England - Northern Premier League,Quorn,Bury FC,total,3.25,,,,1.8929,1.8621,2026-11-17 13:00:30.737162+00:00
+1639870270,2026-11-17 14:00:00+00:00,International - Friendlies,Qatar,South Korea,moneyline,,7.8,1.3676,5.22,,,2026-11-17 13:00:30.737162+00:00
+1639870270,2026-11-17 14:00:00+00:00,International - Friendlies,Qatar,South Korea,spread,1.25,1.9804,1.8772,,,,2026-11-17 13:00:30.737162+00:00
+1639870270,2026-11-17 14:00:00+00:00,International - Friendlies,Qatar,South Korea,total,2.75,,,,1.9091,1.9259,2026-11-17 13:00:30.737162+00:00
+1640349078,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Wales,Portugal,moneyline,,6.89,1.4202,5.38,,,2026-11-17 13:00:30.737162+00:00
+1640349078,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Wales,Portugal,spread,1.25,2.0,1.9091,,,,2026-11-17 13:00:30.737162+00:00
+1640349078,2026-11-17 19:45:00+00:00,UEFA - Nations League A,Wales,Portugal,total,3.25,,,,2.01,1.885,2026-11-17 13:00:30.737162+00:00
+1640324417,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Bonnyrigg Rose,Gala Fairydean Rovers,moneyline,,1.3534,5.68,4.88,,,2026-11-17 13:00:30.737162+00:00
+1640324417,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Bonnyrigg Rose,Gala Fairydean Rovers,spread,-1.25,1.7634,1.9615,,,,2026-11-17 13:00:30.737162+00:00
+1640324417,2026-11-17 19:45:00+00:00,Scotland - Lowland League,Bonnyrigg Rose,Gala Fairydean Rovers,total,3.5,,,,1.9174,1.7937,2026-11-17 13:00:30.737162+00:00
+1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,moneyline,,1.2725,7.76,6.2,,,2026-11-17 13:00:30.737162+00:00
+1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,spread,-1.75,1.9259,1.8621,,,,2026-11-17 13:00:30.737162+00:00
+1640523264,2026-11-20 13:00:00+00:00,Qatar - Stars League,Al Sadd,Lusail,total,3.75,,,,1.9009,1.8696,2026-11-17 13:00:30.737162+00:00
+1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,moneyline,,2.62,2.7,3.42,,,2026-11-17 13:00:30.737162+00:00
+1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,spread,0.0,1.8929,1.9524,,,,2026-11-17 13:00:30.737162+00:00
+1639796540,2026-11-19 22:30:00+00:00,Brazil - Serie A,Vitoria,Bragantino,total,2.75,,,,2.03,1.8197,2026-11-17 13:00:30.737162+00:00
+1640324422,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Bosnia and Herzegovina,Romania,moneyline,,2.21,3.29,3.64,,,2026-11-17 13:00:30.737162+00:00
+1640324422,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Bosnia and Herzegovina,Romania,spread,-0.25,1.9259,1.9804,,,,2026-11-17 13:00:30.737162+00:00
+1640324422,2026-11-17 19:45:00+00:00,UEFA - Nations League B,Bosnia and Herzegovina,Romania,total,2.75,,,,1.9804,1.9009,2026-11-17 13:00:30.737162+00:00
+1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,moneyline,,1.5291,6.22,3.96,,,2026-11-17 13:00:30.737162+00:00
+1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,spread,-1.0,1.9346,1.8696,,,,2026-11-17 13:00:30.737162+00:00
+1640563873,2026-11-19 19:30:00+00:00,Uruguay - Primera Division,Penarol,Cerro Largo,total,2.25,,,,1.8475,1.9434,2026-11-17 13:00:30.737162+00:00
+1638153523,2026-11-17 19:45:00+00:00,England - National League North,Bedford Town,Chorley,moneyline,,2.25,3.0,3.4,,,2026-11-17 13:00:30.737162+00:00
+1638153523,2026-11-17 19:45:00+00:00,England - National League North,Bedford Town,Chorley,spread,-0.25,1.9615,1.8547,,,,2026-11-17 13:00:30.737162+00:00
+1638153523,2026-11-17 19:45:00+00:00,England - National League North,Bedford Town,Chorley,total,2.75,,,,1.9346,1.8696,2026-11-17 13:00:30.737162+00:00
+1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,moneyline,,1.5618,5.35,4.44,,,2026-11-17 13:00:30.737162+00:00
+1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,spread,-1.0,1.9434,1.9091,,,,2026-11-17 13:00:30.737162+00:00
+1640406583,2026-11-20 10:00:00+00:00,Japan - J League,Kashiwa Reysol,JEF United Chiba,total,3.0,,,,2.01,1.8403,2026-11-17 13:00:30.737162+00:00
+1640413748,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Dominica,Cayman Islands,moneyline,,1.3185,7.8,5.28,,,2026-11-17 13:00:30.737162+00:00
+1640413748,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Dominica,Cayman Islands,spread,-1.5,1.9615,1.8333,,,,2026-11-17 13:00:30.737162+00:00
+1640413748,2026-11-17 19:00:00+00:00,CONCACAF - Nations League,Dominica,Cayman Islands,total,2.75,,,,1.8547,1.9346,2026-11-17 13:00:30.737162+00:00
+1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,moneyline,,1.0793,21.71,13.76,,,2026-11-17 13:00:30.737162+00:00
+1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,spread,-2.5,1.8696,1.9709,,,,2026-11-17 13:00:30.737162+00:00
+1639903186,2026-11-17 23:30:00+00:00,International - Friendlies,Uruguay,Dominican Republic,total,3.5,,,,1.8333,1.9901,2026-11-17 13:00:30.737162+00:00
+1640324287,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Mauritania,Burkina Faso,moneyline,,3.26,2.63,2.61,,,2026-11-17 13:00:30.737162+00:00
+1640324287,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Mauritania,Burkina Faso,spread,0.0,2.15,1.7194,,,,2026-11-17 13:00:30.737162+00:00
+1640324287,2026-11-17 19:00:00+00:00,CAF - Africa Cup of Nations Qualifiers,Mauritania,Burkina Faso,total,2.0,,,,2.08,1.7519,2026-11-17 13:00:30.737162+00:00
