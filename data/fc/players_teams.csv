@@ -71472,38 +71472,38 @@ id,tournament_id,club1,club2,ht1,ht2
 2384663,262289,Spain,Germany,,
 2384664,262289,Argentina,France,,
 2384646,262289,Spain,England,,
-2384041,262227,Atleti,Paris,1,4
-2384042,262227,Real Madrid,Liverpool,2,1
-2384043,262227,Liverpool,Atleti,3,0
-2384044,262227,Paris,Bayern Munchen,0,1
-2384045,262227,Bayern Munchen,Liverpool,3,0
-2384046,262227,Atleti,Real Madrid,0,0
-2384047,262227,Real Madrid,Bayern Munchen,1,2
-2384048,262227,Liverpool,Paris,2,4
-2384049,262227,Paris,Real Madrid,0,0
-2384050,262227,Bayern Munchen,Atleti,3,1
-2384051,262227,Paris,Atleti,3,1
-2384052,262227,Liverpool,Real Madrid,2,1
-2384053,262227,Atleti,Liverpool,3,0
-2384054,262227,Bayern Munchen,Paris,1,1
-2384055,262227,Liverpool,Bayern Munchen,0,1
-2384056,262227,Real Madrid,Atleti,0,2
+2384041,262227,Atleti,Paris,1.0,4.0
+2384042,262227,Real Madrid,Liverpool,2.0,1.0
+2384043,262227,Liverpool,Atleti,3.0,0.0
+2384044,262227,Paris,Bayern Munchen,0.0,1.0
+2384045,262227,Bayern Munchen,Liverpool,3.0,0.0
+2384046,262227,Atleti,Real Madrid,0.0,0.0
+2384047,262227,Real Madrid,Bayern Munchen,1.0,2.0
+2384048,262227,Liverpool,Paris,2.0,4.0
+2384049,262227,Paris,Real Madrid,0.0,0.0
+2384050,262227,Bayern Munchen,Atleti,3.0,1.0
+2384051,262227,Paris,Atleti,3.0,1.0
+2384052,262227,Liverpool,Real Madrid,2.0,1.0
+2384053,262227,Atleti,Liverpool,3.0,0.0
+2384054,262227,Bayern Munchen,Paris,1.0,1.0
+2384055,262227,Liverpool,Bayern Munchen,0.0,1.0
+2384056,262227,Real Madrid,Atleti,0.0,2.0
 2384057,262227,Bayern Munchen,Real Madrid,,
 2384058,262227,Paris,Liverpool,,
 2384059,262227,Real Madrid,Paris,,
 2384060,262227,Atleti,Bayern Munchen,,
-2384381,262266,PSV,Ajax,1,2
-2384382,262266,Feyenoord,Twente,0,0
-2384383,262266,Twente,PSV,1,1
-2384384,262266,Ajax,AZ Alkmaar,0,1
-2384385,262266,AZ Alkmaar,Twente,1,1
-2384386,262266,PSV,Feyenoord,1,1
-2384387,262266,Feyenoord,AZ Alkmaar,0,3
-2384388,262266,Twente,Ajax,2,5
-2384389,262266,Ajax,Feyenoord,1,1
-2384390,262266,AZ Alkmaar,PSV,2,0
-2384391,262266,Ajax,PSV,5,0
-2384392,262266,Twente,Feyenoord,2,1
+2384381,262266,PSV,Ajax,1.0,2.0
+2384382,262266,Feyenoord,Twente,0.0,0.0
+2384383,262266,Twente,PSV,1.0,1.0
+2384384,262266,Ajax,AZ Alkmaar,0.0,1.0
+2384385,262266,AZ Alkmaar,Twente,1.0,1.0
+2384386,262266,PSV,Feyenoord,1.0,1.0
+2384387,262266,Feyenoord,AZ Alkmaar,0.0,3.0
+2384388,262266,Twente,Ajax,2.0,5.0
+2384389,262266,Ajax,Feyenoord,1.0,1.0
+2384390,262266,AZ Alkmaar,PSV,2.0,0.0
+2384391,262266,Ajax,PSV,5.0,0.0
+2384392,262266,Twente,Feyenoord,2.0,1.0
 2384393,262266,PSV,Twente,,
 2384394,262266,AZ Alkmaar,Ajax,,
 2384395,262266,Twente,AZ Alkmaar,,
@@ -71512,3 +71512,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2384398,262266,Ajax,Twente,,
 2384399,262266,Feyenoord,Ajax,,
 2384400,262266,PSV,AZ Alkmaar,,
+2384463,262255,Roma,Aston Villa,1,1
+2384464,262255,Salzburg,Porto,0,3
+2384465,262255,Porto,Roma,3,1
+2384466,262255,Aston Villa,Fenerbahce,1,1
+2384467,262255,Fenerbahce,Porto,4,1
+2384468,262255,Roma,Salzburg,2,0
+2384469,262255,Salzburg,Fenerbahce,1,3
+2384470,262255,Porto,Aston Villa,1,2
+2384471,262255,Aston Villa,Salzburg,3,0
+2384472,262255,Fenerbahce,Roma,0,3
+2384473,262255,Aston Villa,Roma,,
+2384474,262255,Porto,Salzburg,,
+2384475,262255,Roma,Porto,,
+2384476,262255,Fenerbahce,Aston Villa,,
+2384477,262255,Porto,Fenerbahce,,
+2384478,262255,Salzburg,Roma,,
+2384479,262255,Fenerbahce,Salzburg,,
+2384480,262255,Aston Villa,Porto,,
+2384481,262255,Salzburg,Aston Villa,,
+2384482,262255,Roma,Fenerbahce,,
+2384835,262277,Roma,Bologna,2,1
+2384836,262277,Juventus,Sassuolo,0,0
+2384837,262277,Sassuolo,Roma,1,1
+2384838,262277,Bologna,Napoli,1,1
+2384839,262277,Napoli,Sassuolo,1,2
+2384840,262277,Roma,Juventus,2,1
+2384841,262277,Juventus,Napoli,1,1
+2384842,262277,Sassuolo,Bologna,0,1
+2384843,262277,Bologna,Juventus,2,0
+2384844,262277,Napoli,Roma,3,1
+2384845,262277,Bologna,Roma,2,2
+2384846,262277,Sassuolo,Juventus,0,2
+2384847,262277,Roma,Sassuolo,,
+2384848,262277,Napoli,Bologna,,
+2384849,262277,Sassuolo,Napoli,,
+2384850,262277,Juventus,Roma,,
+2384851,262277,Napoli,Juventus,,
+2384852,262277,Bologna,Sassuolo,,
+2384853,262277,Juventus,Bologna,,
+2384854,262277,Roma,Napoli,,

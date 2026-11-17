@@ -1,84 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FORZE Reload vs Aces — 17/11 · 16:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana FORZE Reload** @ **1.90** (Thunderpick) · prob 49% vs casas 49% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: FORZE Reload 53% · Serie BO3: FORZE Reload 49% - 51% Aces  
-Casas: FORZE Reload 49% · Aces 51%  
-🔎 **Claves**  
-• Elo: FORZE Reload 1780 (359 series) | Aces 1751 (18 series)  
-• Forma: FORZE Reload ❌✅❌✅✅ | Aces ❌✅✅✅✅  
-• H2H: 1: 1-0  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): FORZE Reload: KusMe 6.5, HeCkBNk 6.2 | Aces: topo- 6.5, karnez 6.4  
-• Mapas (último año): FORZE Reload: fuerte cache 64%, débil overpass 27% | Aces: fuerte dust2 92%, débil cache 58%  
-• Química de la plantilla: FORZE Reload: 37 mapas juntos de media | Aces: 208 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• FORZE Reload gana 2-1: 23% → cuota justa 4.33 · casa 20% ✔ el bot lo ve más probable que la casa  
-• Aces gana 2-1: 21% → cuota justa 4.81 · casa 27%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-FORZE Reload: HeCkBNk 37 (21-55) · YumsaN 36 (21-53) · Lack1 34 (20-51) · KusMe 34 (19-50) · bl1x1 34 (19-50)  
-Aces: karnez 38 (22-56) · topo- 38 (22-56) · 4X1s 34 (19-50) · MRcreed 33 (19-49) · salazar 31 (18-46)  
-
-## Hype Tech vs The Last Resort — 17/11 · 16:00
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Gana Hype Tech** @ **1.10** (Thunderpick) · prob 77% vs casas 84% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Hype Tech 58% · Serie BO3: Hype Tech 70% - 30% The Last Resort  
-Casas: Hype Tech 84% · The Last Resort 16%  
-🔎 **Claves**  
-• Elo: Hype Tech 1626 (4 series) | The Last Resort 1540 (179 series)  
-• Forma: Hype Tech ❌✅❌❌ | The Last Resort ❌❌✅❌✅  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Hype Tech: brutmonster 6.4, Dragon 6.2 | The Last Resort: arTisT 6.3, bevve 6.1  
-• Mapas (último año): Hype Tech: pocos mapas | The Last Resort: fuerte inferno 60%, débil overpass 33%  
-• Química de la plantilla: Hype Tech: 301 mapas juntos de media | The Last Resort: 118 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Hype Tech gana 2-1: 25% → cuota justa 4.07 · casa 23%  
-• The Last Resort gana 2-1: 18% → cuota justa 5.63 · casa 7% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Hype Tech: brutmonster 36 (21-53) · Dragon 36 (21-53) · VLDN 34 (19-50) · Cjoffo 33 (19-49) · Kind0 33 (19-48)  
-The Last Resort: arTisT 34 (20-51) · bevve 34 (19-50) · Girafffe 32 (18-47) · Vacancy 32 (18-47) · Extinct 32 (18-47)  
-
-## Hype Tech vs The Last Resort — 17/11 · 16:00
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **The Last Resort +1.5 mapas** @ **2.40** (Thunderpick) · prob 50% vs casas 38% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: Hype Tech 58% · Serie BO3: Hype Tech 70% - 30% The Last Resort  
-Casas: Hype Tech 84% · The Last Resort 16%  
-🔎 **Claves**  
-• Elo: Hype Tech 1626 (4 series) | The Last Resort 1540 (179 series)  
-• Forma: Hype Tech ❌✅❌❌ | The Last Resort ❌❌✅❌✅  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Hype Tech: brutmonster 6.4, Dragon 6.2 | The Last Resort: arTisT 6.3, bevve 6.1  
-• Mapas (último año): Hype Tech: pocos mapas | The Last Resort: fuerte inferno 60%, débil overpass 33%  
-• Química de la plantilla: Hype Tech: 301 mapas juntos de media | The Last Resort: 118 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Hype Tech gana 2-1: 25% → cuota justa 4.07 · casa 23%  
-• The Last Resort gana 2-1: 18% → cuota justa 5.63 · casa 7% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
-Hype Tech: brutmonster 36 (21-53) · Dragon 36 (21-53) · VLDN 34 (19-50) · Cjoffo 33 (19-49) · Kind0 33 (19-48)  
-The Last Resort: arTisT 34 (20-51) · bevve 34 (19-50) · Girafffe 32 (18-47) · Vacancy 32 (18-47) · Extinct 32 (18-47)  
+Actualizado 17/11/2026 16:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ninjas in Pyjamas vs UNiTY — 17/11 · 17:00
 
@@ -323,6 +245,26 @@ Casas: Envy 56% · Metizport 44%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 Envy: Kursy 34 (19-50) · Maka 34 (19-50) · misutaaa 33 (19-48) · Lucky 32 (18-47) · Graviti 30 (17-45)  
 Metizport: forsyy 36 (21-54) · MaiL09 36 (21-53) · Plopski 36 (21-53) · F1KU 35 (20-51) · stanislaw 29 (16-43)  
+
+## BORRACHEIROS vs Hunters Rising — 17/11 · 21:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Hunters Rising** @ **3.49** (Thunderpick) · prob 27% vs casas 26% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.956 partidos)  
+Mapa: BORRACHEIROS 65% · Serie BO3: BORRACHEIROS 72% - 28% Hunters Rising  
+Casas: BORRACHEIROS 74% · Hunters Rising 26%  
+🔎 **Claves**  
+• Elo: BORRACHEIROS 1528 (48 series) | Hunters Rising 1363 (18 series)  
+• Forma: BORRACHEIROS ✅❌❌❌❌ | Hunters Rising ❌✅❌❌❌  
+• H2H: 1: 1-0  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• BORRACHEIROS gana 2-1: 25% → cuota justa 4.04  
+• Hunters Rising gana 2-1: 13% → cuota justa 7.48  
 
 ## arroba vs RED Canids Academy — 17/11 · 22:00
 
