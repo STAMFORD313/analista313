@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 17/11/2026 17:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 17:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## aimers vs Banger Gang — 17/11 · 18:00
 
