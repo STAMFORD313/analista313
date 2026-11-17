@@ -3103,5 +3103,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261117191419115804",
+  "creada": "2026-11-17 19:14:19.115845+00:00",
+  "titulo": "Barrido · Combinada cuota 13.3",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-17 19:30:00+00:00",
+    "home": "Glitchtech",
+    "away": "DimoniX",
+    "txt": "Gana DimoniX",
+    "odds": 2.05,
+    "p": 0.5106032520325203
+   },
+   {
+    "code": null,
+    "start": "2026-11-17 19:45:00+00:00",
+    "home": "Denmark",
+    "away": "Norway",
+    "txt": "Gana Norway",
+    "odds": 2.63,
+    "p": 0.4015
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-18 19:00:00+00:00",
+    "home": "Zero Tenacity",
+    "away": "Inner Circle x Insanity",
+    "txt": "Gana Zero Tenacity",
+    "odds": 2.46,
+    "p": 0.43060271002710027
+   }
+  ],
+  "odds": 13.26,
+  "p": 0.08827665834565228,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
