@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 12:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 13:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## zoyir vs Frantsuz — 17/11 · 13:08
 
@@ -39,4 +39,42 @@ Hándicap Tesla: −1.5 36% · −2.5 23%
 • Liga: FA Cup  
 • Unibet: 1 1.60 · X 4.25 · 2 3.60 (sin margen 55%/21%/24%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.60 (+25%) · Paf España 3.60 (+25%)  
+
+## Frantsuz vs imagin — 17/11 · 13:26
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **4.20** (Unibet) · prob 32% vs casas 21% · ventaja +37%
+
+- ❌ Valor: ventaja +37% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.320 partidos)  
+Goles esperados: Frantsuz 5.14 · imagin 4.51  
+Ganador: Frantsuz 53% · empate 14% · imagin 33%  
+Total: más de 9.5 goles 50% · menos 50%  
+Hándicap Frantsuz: −1.5 39% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Frantsuz ✅✅✅✅❌ | imagin ➖➖❌❌❌  
+• Partidos: Frantsuz 717 | imagin 314  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.33 · X 6.10 · 2 4.20 (sin margen 65%/14%/21%) · ventaja +37%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.20 (+37%) · Paf España 4.20 (+37%)  
+
+## TikitakaMaster vs flamez — 17/11 · 13:26
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **2.08** (Unibet) · prob 57% vs casas 42% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 71.320 partidos)  
+Goles esperados: TikitakaMaster 5.01 · flamez 4.18  
+Ganador: TikitakaMaster 57% · empate 14% · flamez 29%  
+Total: más de 9.5 goles 44% · menos 56%  
+Hándicap TikitakaMaster: −1.5 41% · −2.5 29%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ❌✅✅❌✅ | flamez ❌➖✅❌➖  
+• Partidos: TikitakaMaster 769 | flamez 831  
+• Liga: Champions League A 2x6  
+• Unibet: 1 2.08 · X 4.90 · 2 2.18 (sin margen 42%/18%/40%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.08 (+18%) · Paf España 2.08 (+18%)  
 
