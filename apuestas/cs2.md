@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 12:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 12:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The Chosen Few vs Vitality Academy — 18/11 · 18:00
 
@@ -342,4 +342,24 @@ Casas: Drama 50% · megoshort 50%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Drama gana 2-1: 23% → cuota justa 4.39 · casa 23%  
 • megoshort gana 2-1: 21% → cuota justa 4.72 · casa 23%  
+
+## MEIA NOITE vs RUSH — 20/11 · 00:45
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana MEIA NOITE** @ **1.68** (Thunderpick) · prob 55% vs casas 55% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.009 partidos)  
+Mapa: MEIA NOITE 53% · Serie BO3: MEIA NOITE 55% - 45% RUSH  
+Casas: MEIA NOITE 55% · RUSH 45%  
+🔎 **Claves**  
+• Elo: MEIA NOITE 1559 (48 series) | RUSH 1523 (32 series)  
+• Forma: MEIA NOITE ✅✅❌✅✅ | RUSH ✅❌❌✅✅  
+• H2H: 3: 1-2  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• MEIA NOITE gana 2-1: 23% → cuota justa 4.28  
+• RUSH gana 2-1: 20% → cuota justa 4.91  
 

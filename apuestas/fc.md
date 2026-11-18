@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 12:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 12:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## A1ose vs dor1an — 18/11 · 13:03
 
