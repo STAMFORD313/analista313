@@ -72395,18 +72395,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2387030,262427,Nice,Monaco,,
 2387041,262427,Monaco,Paris,,
 2387032,262427,Nice,Marseille,,
-2385552,262357,Norway,Morocco,0,1
-2385553,262357,Czechia,Netherlands,3,2
-2385554,262357,Netherlands,Norway,2,2
-2385555,262357,Morocco,Germany,3,2
-2385556,262357,Germany,Netherlands,3,3
-2385557,262357,Norway,Czechia,1,1
-2385558,262357,Czechia,Germany,1,3
-2385559,262357,Netherlands,Morocco,1,2
-2385560,262357,Morocco,Czechia,3,2
-2385561,262357,Germany,Norway,3,3
-2385562,262357,Morocco,Norway,1,1
-2385563,262357,Netherlands,Czechia,1,2
+2385552,262357,Norway,Morocco,0.0,1.0
+2385553,262357,Czechia,Netherlands,3.0,2.0
+2385554,262357,Netherlands,Norway,2.0,2.0
+2385555,262357,Morocco,Germany,3.0,2.0
+2385556,262357,Germany,Netherlands,3.0,3.0
+2385557,262357,Norway,Czechia,1.0,1.0
+2385558,262357,Czechia,Germany,1.0,3.0
+2385559,262357,Netherlands,Morocco,1.0,2.0
+2385560,262357,Morocco,Czechia,3.0,2.0
+2385561,262357,Germany,Norway,3.0,3.0
+2385562,262357,Morocco,Norway,1.0,1.0
+2385563,262357,Netherlands,Czechia,1.0,2.0
 2385564,262357,Norway,Netherlands,,
 2385565,262357,Germany,Morocco,,
 2385566,262357,Netherlands,Germany,,
@@ -72415,14 +72415,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2385569,262357,Morocco,Netherlands,,
 2385570,262357,Czechia,Morocco,,
 2385571,262357,Norway,Germany,,
-2386574,262417,Paris,Atleti,2,3
-2386575,262417,Bayern Munchen,Real Madrid,2,1
-2386576,262417,Real Madrid,Paris,0,1
-2386577,262417,Atleti,Liverpool,3,5
-2386578,262417,Liverpool,Real Madrid,3,3
-2386579,262417,Paris,Bayern Munchen,0,2
-2386580,262417,Bayern Munchen,Liverpool,2,1
-2386581,262417,Real Madrid,Atleti,4,0
+2386574,262417,Paris,Atleti,2.0,3.0
+2386575,262417,Bayern Munchen,Real Madrid,2.0,1.0
+2386576,262417,Real Madrid,Paris,0.0,1.0
+2386577,262417,Atleti,Liverpool,3.0,5.0
+2386578,262417,Liverpool,Real Madrid,3.0,3.0
+2386579,262417,Paris,Bayern Munchen,0.0,2.0
+2386580,262417,Bayern Munchen,Liverpool,2.0,1.0
+2386581,262417,Real Madrid,Atleti,4.0,0.0
 2386582,262417,Atleti,Bayern Munchen,,
 2386583,262417,Liverpool,Paris,,
 2386584,262417,Atleti,Paris,,
