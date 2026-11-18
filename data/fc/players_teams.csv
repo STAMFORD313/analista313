@@ -73005,14 +73005,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2387803,262420,Juventus,B Dortmund,2.0,1.0
 2387806,262420,B Dortmund,Man City,1.0,1.0
 2387808,262420,Man City,Juventus,,
-2386482,262374,Spain,England,0,0
-2386483,262374,Brazil,Argentina,2,2
-2386484,262374,Brazil,Spain,1,1
-2386485,262374,Argentina,England,0,2
-2386486,262374,England,Brazil,3,0
-2386487,262374,Argentina,Spain,1,2
-2386488,262374,Spain,England,3,0
-2386489,262374,Brazil,Argentina,1,2
+2386482,262374,Spain,England,0.0,0.0
+2386483,262374,Brazil,Argentina,2.0,2.0
+2386484,262374,Brazil,Spain,1.0,1.0
+2386485,262374,Argentina,England,0.0,2.0
+2386486,262374,England,Brazil,3.0,0.0
+2386487,262374,Argentina,Spain,1.0,2.0
+2386488,262374,Spain,England,3.0,0.0
+2386489,262374,Brazil,Argentina,1.0,2.0
 2386490,262374,Brazil,Spain,,
 2386491,262374,Argentina,England,,
 2386492,262374,England,Brazil,,
@@ -73023,18 +73023,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2386497,262374,Argentina,England,,
 2386498,262374,England,Brazil,,
 2386499,262374,Argentina,Spain,,
-2386854,262424,Villarreal,Atleti,1,2
-2386855,262424,Real Madrid,Barcelona,0,2
-2386856,262424,Barcelona,Villarreal,1,2
-2386857,262424,Atleti,Athletic Club,2,0
-2386858,262424,Athletic Club,Barcelona,1,1
-2386859,262424,Villarreal,Real Madrid,2,1
-2386860,262424,Real Madrid,Athletic Club,1,1
-2386861,262424,Barcelona,Atleti,2,2
-2386862,262424,Atleti,Real Madrid,1,1
-2386863,262424,Athletic Club,Villarreal,4,0
-2386864,262424,Atleti,Villarreal,3,1
-2386865,262424,Barcelona,Real Madrid,1,0
+2386854,262424,Villarreal,Atleti,1.0,2.0
+2386855,262424,Real Madrid,Barcelona,0.0,2.0
+2386856,262424,Barcelona,Villarreal,1.0,2.0
+2386857,262424,Atleti,Athletic Club,2.0,0.0
+2386858,262424,Athletic Club,Barcelona,1.0,1.0
+2386859,262424,Villarreal,Real Madrid,2.0,1.0
+2386860,262424,Real Madrid,Athletic Club,1.0,1.0
+2386861,262424,Barcelona,Atleti,2.0,2.0
+2386862,262424,Atleti,Real Madrid,1.0,1.0
+2386863,262424,Athletic Club,Villarreal,4.0,0.0
+2386864,262424,Atleti,Villarreal,3.0,1.0
+2386865,262424,Barcelona,Real Madrid,1.0,0.0
 2386866,262424,Villarreal,Barcelona,,
 2386867,262424,Athletic Club,Atleti,,
 2386868,262424,Barcelona,Athletic Club,,
@@ -73043,3 +73043,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2386871,262424,Atleti,Barcelona,,
 2386872,262424,Real Madrid,Atleti,,
 2386873,262424,Villarreal,Athletic Club,,
+2386966,262382,Porto,Sporting CP,2,1
+2385773,262382,Braga,Vitoria SC,0,4
+2385774,262382,Vitoria SC,Porto,1,1
+2386967,262382,Sporting CP,Benfica,0,0
+2385776,262382,Benfica,Vitoria SC,0,0
+2385777,262382,Porto,Braga,1,2
+2385778,262382,Braga,Benfica,1,1
+2386968,262382,Vitoria SC,Sporting CP,0,4
+2386969,262382,Sporting CP,Braga,2,1
+2385781,262382,Benfica,Porto,1,3
+2386970,262382,Sporting CP,Porto,2,1
+2385783,262382,Vitoria SC,Braga,2,1
+2385784,262382,Porto,Vitoria SC,,
+2386971,262382,Benfica,Sporting CP,,
+2385786,262382,Vitoria SC,Benfica,,
+2385787,262382,Braga,Porto,,
+2385788,262382,Benfica,Braga,,
+2386972,262382,Sporting CP,Vitoria SC,,
+2386973,262382,Braga,Sporting CP,,
+2385791,262382,Porto,Benfica,,

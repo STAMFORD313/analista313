@@ -1,42 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 22:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 23:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## hotShot vs RossFCDK — 18/11 · 22:58
+## believer vs ssstasonn — 18/11 · 23:43
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana RossFCDK** @ **3.85** (Unibet) · prob 29% vs casas 23% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana believer** @ **1.11** (cuota justa (sin casa)) · prob 90% vs casas 90% · ventaja +0%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.984 partidos)  
-Goles esperados: hotShot 2.21 · RossFCDK 1.78  
-Ganador: hotShot 47% · empate 24% · RossFCDK 29%  
-Total: más de 3.5 goles 56% · menos 44%  
-Hándicap hotShot: −1.5 29% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 73.005 partidos)  
+Goles esperados: believer 4.96 · ssstasonn 1.55  
+Ganador: believer 90% · empate 6% · ssstasonn 4%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap believer: −1.5 77% · −2.5 63%  
 🔎 **Claves**  
-• Forma: hotShot ➖❌✅➖✅ | RossFCDK ➖❌✅❌➖  
-• Partidos: hotShot 646 | RossFCDK 614  
-• Liga: Portugal Primera  
-• Unibet: 1 2.07 · X 2.45 · 2 3.85 (sin margen 42%/35%/23%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+12%) · Paf España 3.85 (+12%)  
-
-## Kavviro vs believer — 18/11 · 23:19
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Kavviro** @ **2.70** (Unibet) · prob 41% vs casas 32% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.984 partidos)  
-Goles esperados: Kavviro 2.11 · believer 2.05  
-Ganador: Kavviro 41% · empate 24% · believer 35%  
-Total: más de 4.5 goles 40% · menos 60%  
-Hándicap Kavviro: −1.5 23% · −2.5 11%  
-🔎 **Claves**  
-• Forma: Kavviro ✅➖✅✅✅ | believer ✅➖✅✅❌  
-• Partidos: Kavviro 986 | believer 1245  
+• Forma: believer ✅✅❌✅✅ | ssstasonn ❌❌❌❌❌  
+• Partidos: believer 1247 | ssstasonn 1201  
 • Liga: World Cup A  
-• Unibet: 1 2.70 · X 3.60 · 2 2.00 (sin margen 32%/24%/44%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+11%) · Paf España 2.70 (+11%)  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## believer vs ssstasonn — 19/11 · 00:29
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana believer** @ **1.10** (cuota justa (sin casa)) · prob 91% vs casas 91% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.005 partidos)  
+Goles esperados: believer 5.04 · ssstasonn 1.57  
+Ganador: believer 91% · empate 6% · ssstasonn 3%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap believer: −1.5 78% · −2.5 64%  
+🔎 **Claves**  
+• Forma: believer ✅✅❌✅✅ | ssstasonn ❌❌❌❌❌  
+• Partidos: believer 1247 | ssstasonn 1201  
+• Liga: Serie A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## believer vs ssstasonn — 19/11 · 01:17
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana believer** @ **1.10** (cuota justa (sin casa)) · prob 91% vs casas 91% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.005 partidos)  
+Goles esperados: believer 5.04 · ssstasonn 1.57  
+Ganador: believer 91% · empate 6% · ssstasonn 3%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap believer: −1.5 78% · −2.5 64%  
+🔎 **Claves**  
+• Forma: believer ✅✅❌✅✅ | ssstasonn ❌❌❌❌❌  
+• Partidos: believer 1247 | ssstasonn 1201  
+• Liga: Serie A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
