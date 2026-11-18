@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 13:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 13:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The Chosen Few vs Vitality Academy — 18/11 · 18:00
 

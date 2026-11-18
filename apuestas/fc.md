@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 13:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 13:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## why vs zoyir — 18/11 · 13:26
+## crinner vs Loka — 18/11 · 13:54
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.497 partidos)  
-Goles esperados: why 2.94 · zoyir 4.22  
-Ganador: why 19% · empate 14% · zoyir 67%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap zoyir: −1.5 46% · −2.5 32%  
-🔎 **Claves**  
-• Forma: why ➖✅❌❌❌ | zoyir ❌✅➖✅➖  
-• Partidos: why 683 | zoyir 645  
-• Liga: Champions League A 2x6  
-• Unibet: 1 5.80 · X 4.20 · 2 1.34 (sin margen 15%/21%/65%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+9%) · Paf España 5.80 (+9%)  
-
-## kamito vs Smetana — 18/11 · 13:30
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Smetana** @ **1.49** (Unibet) · prob 72% vs casas 58% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.497 partidos)  
-Goles esperados: kamito 3.44 · Smetana 4.92  
-Ganador: kamito 16% · empate 12% · Smetana 71%  
-Total: más de 8.5 goles 46% · menos 54%  
-Hándicap Smetana: −1.5 49% · −2.5 36%  
-🔎 **Claves**  
-• Forma: kamito ✅➖❌❌✅ | Smetana ➖➖✅✅➖  
-• Partidos: kamito 660 | Smetana 1360  
-• Liga: CSL  
-• Unibet: 1 3.10 · X 6.25 · 2 1.49 (sin margen 28%/14%/58%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.49 (+6%) · Paf España 1.49 (+6%)  
-
-## Tesla vs Ganger_29 — 18/11 · 13:34
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Ganger_29** @ **3.90** (Unibet) · prob 28% vs casas 23% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Empate** @ **6.40** (Unibet) · prob 17% vs casas 14% · ventaja +10%
 
 - ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.521 partidos)  
+Goles esperados: crinner 2.83 · Loka 3.58  
+Ganador: crinner 26% · empate 17% · Loka 57%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Loka: −1.5 38% · −2.5 24%  
+🔎 **Claves**  
+• Forma: crinner ❌❌❌❌❌ | Loka ✅✅✅❌✅  
+• Partidos: crinner 1134 | Loka 1377  
+• Liga: CSL  
+• Unibet: 1 2.65 · X 6.40 · 2 1.66 (sin margen 33%/14%/53%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.40 (+10%) · Paf España 6.40 (+10%)  
+
+## A1ose vs RuBIX — 18/11 · 14:01
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana RuBIX** @ **2.35** (Unibet) · prob 45% vs casas 37% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.497 partidos)  
-Goles esperados: Tesla 3.50 · Ganger_29 2.77  
-Ganador: Tesla 54% · empate 18% · Ganger_29 28%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Tesla: −1.5 37% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 72.521 partidos)  
+Goles esperados: A1ose 3.17 · RuBIX 3.36  
+Ganador: A1ose 37% · empate 18% · RuBIX 45%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap RuBIX: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Tesla ❌✅✅✅➖ | Ganger_29 ✅✅✅❌➖  
-• Partidos: Tesla 1217 | Ganger_29 1010  
-• Liga: FA Cup  
-• Unibet: 1 1.54 · X 4.40 · 2 3.90 (sin margen 57%/20%/23%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.90 (+10%) · Paf España 3.90 (+10%)  
+• Forma: A1ose ❌➖✅❌❌ | RuBIX ❌➖❌✅❌  
+• Partidos: A1ose 1103 | RuBIX 313  
+• Liga: Champions League B  
+• Unibet: 1 1.88 · X 5.50 · 2 2.35 (sin margen 47%/16%/37%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+6%) · Paf España 2.35 (+6%)  
+
+## DaVa vs Revange — 18/11 · 14:04
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Revange** @ **4.25** (Unibet) · prob 29% vs casas 21% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.521 partidos)  
+Goles esperados: DaVa 2.73 · Revange 2.16  
+Ganador: DaVa 50% · empate 21% · Revange 29%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap DaVa: −1.5 33% · −2.5 18%  
+🔎 **Claves**  
+• Forma: DaVa ❌➖➖✅❌ | Revange ✅➖➖✅✅  
+• Partidos: DaVa 1376 | Revange 668  
+• Liga: LaLiga  
+• Unibet: 1 1.47 · X 4.60 · 2 4.25 (sin margen 60%/19%/21%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.25 (+24%) · Paf España 4.25 (+24%)  
 
