@@ -1,5 +1,5 @@
 # 🥊 UFC · apuestas de valor
 
-Actualizado 18/11/2026 15:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 _No hay apuestas de valor próximas en este deporte ahora mismo._
