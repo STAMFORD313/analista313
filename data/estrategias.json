@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-18 07:53",
- "n": 3780,
+ "fecha": "2026-11-18 08:23",
+ "n": 3785,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5",
@@ -330,8 +330,8 @@
    "n": 597,
    "roi": -0.1165,
    "se": 0.0449,
-   "roi_antigua": -0.0872,
-   "roi_nueva": -0.1384,
+   "roi_antigua": -0.0908,
+   "roi_nueva": -0.1359,
    "clv": -0.0068,
    "clv_se": 0.0093,
    "clv_n": 75
@@ -516,8 +516,8 @@
    "n": 405,
    "roi": -0.1106,
    "se": 0.0549,
-   "roi_antigua": -0.1083,
-   "roi_nueva": -0.1121,
+   "roi_antigua": -0.1138,
+   "roi_nueva": -0.1085,
    "clv": 0.015,
    "clv_se": 0.0124,
    "clv_n": 41
