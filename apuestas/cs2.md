@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 19:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Fraternity vs ZOTIX — 18/11 · 19:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Fraternity** @ **3.04** (Thunderpick) · prob 37% vs casas 30% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
-Mapa: Fraternity 44% · Serie BO1: Fraternity 44% - 56% ZOTIX  
-Casas: Fraternity 30% · ZOTIX 70%  
-🔎 **Claves**  
-• Elo: Fraternity 1432 (25 series) | ZOTIX 1472 (94 series)  
-• Forma: Fraternity ✅❌❌❌❌ | ZOTIX ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 18/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OldBoys FR vs Fire Flux — 18/11 · 20:00
 
