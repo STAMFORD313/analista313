@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 19/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Cruzeiro vs Palmeiras — 19/11 · 00:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Empate** @ **3.50** (Bet365) · prob 27% vs casas 27% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.06 - 1.26)  
-1 33% · X 28% · 2 38%  
-1X 62% · X2 67% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Cruzeiro ❌✅✅✅✅ | Palmeiras ✅✅✅➖✅  
-• H2H: 21 desde 2012: 7V-7E-7D · 2.2 goles/partido · +2.5 en 43%  
-• Bajas: Cruzeiro: 0 fuera, 4 duda; Palmeiras: 1 fuera, 1 duda (Jefte)  
-• Favorito de las casas: Palmeiras @ 2.40  
-
-## Flamengo RJ vs Athletico-PR — 19/11 · 00:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Flamengo RJ** @ **1.22** (Bet365) · prob 78% vs casas 78% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.80 - 0.85)  
-1 64% · X 21% · 2 14%  
-1X 86% · X2 36% · 12 79%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 48%  
-Marcadores: 1-0 12% · 2-0 11% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Flamengo RJ ✅✅✅✅✅ | Athletico-PR ✅❌➖❌❌  
-• H2H: 25 desde 2013: 9V-6E-10D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Flamengo RJ: 0 fuera, 2 duda; Athletico-PR: sin bajas  
-• Favorito de las casas: Flamengo RJ @ 1.22  
+Actualizado 19/11/2026 00:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Corinthians vs Botafogo RJ — 19/11 · 01:30
 
