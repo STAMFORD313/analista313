@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 11:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FORZE Reload vs G2 Ares — 18/11 · 12:30
 
