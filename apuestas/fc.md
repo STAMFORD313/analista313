@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 07:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 07:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## v1nn vs A1ose — 18/11 · 07:45
+## crinner vs Smetana — 18/11 · 08:02
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana A1ose** @ **3.10** (Unibet) · prob 40% vs casas 28% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · MLS · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +6%
 
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.224 partidos)  
+Goles esperados: crinner 2.94 · Smetana 2.62  
+Ganador: crinner 50% · empate 20% · Smetana 31%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap crinner: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: crinner ✅✅❌❌➖ | Smetana ❌✅❌❌✅  
+• Partidos: crinner 1114 | Smetana 1340  
+• Liga: MLS  
+• Unibet: 1 1.88 · X 5.40 · 2 2.35 (sin margen 47%/16%/37%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+6%) · Paf España 5.40 (+6%)  
+
+## zoyir vs why — 18/11 · 08:06
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana why** @ **5.50** (Unibet) · prob 25% vs casas 16% · ventaja +37%
+
+- ❌ Valor: ventaja +37% (mín. 18% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.203 partidos)  
-Goles esperados: v1nn 3.54 · A1ose 3.44  
-Ganador: v1nn 42% · empate 18% · A1ose 40%  
-Total: más de 6.5 goles 55% · menos 45%  
-Hándicap v1nn: −1.5 29% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 72.224 partidos)  
+Goles esperados: zoyir 4.18 · why 3.08  
+Ganador: zoyir 59% · empate 16% · why 25%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap zoyir: −1.5 44% · −2.5 29%  
 🔎 **Claves**  
-• Forma: v1nn ❌✅➖❌✅ | A1ose ❌✅❌➖➖  
-• Partidos: v1nn 734 | A1ose 1080  
-• Liga: World Cup A  
-• Unibet: 1 1.77 · X 3.85 · 2 3.10 (sin margen 49%/23%/28%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.10 (+26%) · Paf España 3.10 (+26%)  
+• Forma: zoyir ❌✅➖➖❌ | why ✅✅❌❌✅  
+• Partidos: zoyir 633 | why 671  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.36 · X 4.20 · 2 5.50 (sin margen 64%/21%/16%) · ventaja +37%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+37%) · Paf España 5.50 (+37%)  
 
-## dor1an vs cl1vlind — 18/11 · 07:45
+## A1ose vs cl1vlind — 18/11 · 08:09
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana dor1an** @ **3.60** (Unibet) · prob 34% vs casas 24% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana cl1vlind** @ **3.70** (Unibet) · prob 28% vs casas 24% · ventaja +5%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.203 partidos)  
-Goles esperados: dor1an 2.59 · cl1vlind 2.84  
-Ganador: dor1an 34% · empate 20% · cl1vlind 46%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap cl1vlind: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 72.224 partidos)  
+Goles esperados: A1ose 3.18 · cl1vlind 2.65  
+Ganador: A1ose 53% · empate 19% · cl1vlind 28%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap A1ose: −1.5 34% · −2.5 20%  
 🔎 **Claves**  
-• Forma: dor1an ❌❌✅✅✅ | cl1vlind ✅✅❌✅➖  
-• Partidos: dor1an 290 | cl1vlind 739  
+• Forma: A1ose ❌➖➖❌✅ | cl1vlind ✅❌✅➖❌  
+• Partidos: A1ose 1082 | cl1vlind 740  
 • Liga: World Cup A  
-• Unibet: 1 3.60 · X 3.30 · 2 1.77 (sin margen 24%/26%/49%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+23%) · Paf España 3.60 (+23%)  
+• Unibet: 1 1.87 · X 2.90 · 2 3.70 (sin margen 47%/30%/24%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.70 (+5%) · Paf España 3.70 (+5%)  
 
