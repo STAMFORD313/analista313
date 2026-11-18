@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 18:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 19:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## pikalicaaa vs Sena — 18/11 · 18:59
+## Shinobu vs ramzes — 18/11 · 19:34
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +11%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.784 partidos)  
-Goles esperados: pikalicaaa 2.35 · Sena 2.85  
-Ganador: pikalicaaa 30% · empate 20% · Sena 49%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap Sena: −1.5 32% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 72.806 partidos)  
+Goles esperados: Shinobu 2.88 · ramzes 3.05  
+Ganador: Shinobu 40% · empate 19% · ramzes 41%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap ramzes: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: pikalicaaa ➖✅✅❌❌ | Sena ✅❌❌✅❌  
-• Partidos: pikalicaaa 772 | Sena 804  
-• Liga: Champions League A  
-• Unibet: 1 2.55 · X 5.40 · 2 1.78 (sin margen 34%/16%/49%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+10%) · Paf España 5.40 (+10%)  
+• Forma: Shinobu ❌✅❌❌❌ | ramzes ✅➖❌✅✅  
+• Partidos: Shinobu 1600 | ramzes 1212  
+• Liga: Copa America  
+• Unibet: 1 1.98 · X 5.75 · 2 2.17 (sin margen 44%/15%/40%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.75 (+11%) · Paf España 5.75 (+11%)  
 
-## Mani vs Firminho — 18/11 · 18:59
+## steeffant vs Lufy — 18/11 · 19:48
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Mani** @ **2.60** (Unibet) · prob 42% vs casas 34% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **4.35** (Unibet) · prob 32% vs casas 20% · ventaja +41%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +41% (mín. 19% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.784 partidos)  
-Goles esperados: Mani 3.28 · Firminho 3.49  
-Ganador: Mani 41% · empate 18% · Firminho 41%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap Firminho: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 72.806 partidos)  
+Goles esperados: steeffant 4.84 · Lufy 4.17  
+Ganador: steeffant 53% · empate 15% · Lufy 33%  
+Total: más de 9.5 goles 41% · menos 59%  
+Hándicap steeffant: −1.5 39% · −2.5 27%  
 🔎 **Claves**  
-• Forma: Mani ➖❌❌✅✅ | Firminho ❌❌✅✅✅  
-• Partidos: Mani 997 | Firminho 917  
-• Liga: Champions League A  
-• Unibet: 1 2.60 · X 4.25 · 2 1.90 (sin margen 34%/21%/46%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+8%) · Paf España 2.60 (+8%)  
-
-## Dicca vs pikalicaaa — 18/11 · 19:11
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Dicca** @ **2.07** (Unibet) · prob 53% vs casas 42% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.784 partidos)  
-Goles esperados: Dicca 3.10 · pikalicaaa 2.36  
-Ganador: Dicca 53% · empate 19% · pikalicaaa 28%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap Dicca: −1.5 37% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Dicca ✅✅✅❌❌ | pikalicaaa ➖✅✅❌❌  
-• Partidos: Dicca 878 | pikalicaaa 772  
-• Liga: Champions League A  
-• Unibet: 1 2.07 · X 3.70 · 2 2.50 (sin margen 42%/23%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.07 (+9%) · Paf España 2.07 (+9%)  
+• Forma: steeffant ✅✅➖❌❌ | Lufy ❌❌➖✅✅  
+• Partidos: steeffant 931 | Lufy 893  
+• Liga: Champions League B 2x6  
+• Unibet: 1 1.28 · X 7.00 · 2 4.35 (sin margen 68%/12%/20%) · ventaja +41%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.35 (+41%) · Paf España 4.35 (+41%)  
 
