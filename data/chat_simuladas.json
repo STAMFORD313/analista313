@@ -2551,7 +2551,9 @@
     "away": "Mensajero",
     "txt": "Gana Real Union de Tenerife",
     "odds": 2.28,
-    "p": 0.4486
+    "p": 0.4486,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -2591,7 +2593,9 @@
     "away": "Sydney Olympic",
     "txt": "Gana Bayswater City",
     "odds": 1.98,
-    "p": 0.5346
+    "p": 0.5346,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -2600,7 +2604,9 @@
     "away": "Ankaragucu",
     "txt": "Gana Belediye Kutahyaspor",
     "odds": 2.12,
-    "p": 0.4906
+    "p": 0.4906,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
