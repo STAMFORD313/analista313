@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 06:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 07:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs PCIFIC — 18/11 · 10:00
 
@@ -345,4 +345,41 @@ Casas: SINQU 18% · HAVU 82%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • SINQU gana 2-1: 15% → cuota justa 6.73  
 • HAVU gana 2-1: 25% → cuota justa 4.01  
+
+## Banger Gang vs NoTime — 19/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana NoTime** @ **2.03** (Thunderpick) · prob 47% vs casas 46% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.006 partidos)  
+Mapa: Banger Gang 52% · Serie BO1: Banger Gang 52% - 48% NoTime  
+Casas: Banger Gang 54% · NoTime 46%  
+🔎 **Claves**  
+• Elo: Banger Gang 1539 (74 series) | NoTime 1526 (19 series)  
+• Forma: Banger Gang ✅❌✅❌❌ | NoTime ✅✅✅❌❌  
+• H2H: 1: 1-0  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Drama vs megoshort — 19/11 · 19:00
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 15 Play-In · **Gana Drama** @ **1.85** (Thunderpick) · prob 51% vs casas 50% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.006 partidos)  
+Mapa: Drama 52% · Serie BO3: Drama 53% - 47% megoshort  
+Casas: Drama 50% · megoshort 50%  
+🔎 **Claves**  
+• Elo: Drama 1558 (64 series) | megoshort 1539 (190 series)  
+• Forma: Drama ❌❌❌❌❌ | megoshort ❌✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: CCT Europe 2026 Series 15 Play-In (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Drama gana 2-1: 23% → cuota justa 4.39 · casa 23%  
+• megoshort gana 2-1: 21% → cuota justa 4.72 · casa 23%  
 
