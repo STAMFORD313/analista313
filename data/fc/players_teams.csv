@@ -72020,16 +72020,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2384178,262237,River Plate,Man City,,
 2384179,262237,Boca Juniors,River Plate,,
 2384180,262237,Real Madrid,Paris,,
-2384935,262284,Netherlands,Germany,3,1
-2384936,262284,Belgium,Morocco,1,0
-2384937,262284,Morocco,Netherlands,1,0
-2384938,262284,Germany,Portugal,3,1
-2384939,262284,Portugal,Morocco,2,3
-2384940,262284,Netherlands,Belgium,0,1
-2384941,262284,Belgium,Portugal,1,2
-2384942,262284,Morocco,Germany,2,0
-2384943,262284,Germany,Belgium,0,1
-2384944,262284,Portugal,Netherlands,1,0
+2384935,262284,Netherlands,Germany,3.0,1.0
+2384936,262284,Belgium,Morocco,1.0,0.0
+2384937,262284,Morocco,Netherlands,1.0,0.0
+2384938,262284,Germany,Portugal,3.0,1.0
+2384939,262284,Portugal,Morocco,2.0,3.0
+2384940,262284,Netherlands,Belgium,0.0,1.0
+2384941,262284,Belgium,Portugal,1.0,2.0
+2384942,262284,Morocco,Germany,2.0,0.0
+2384943,262284,Germany,Belgium,0.0,1.0
+2384944,262284,Portugal,Netherlands,1.0,0.0
 2384945,262284,Germany,Netherlands,,
 2384946,262284,Morocco,Belgium,,
 2384947,262284,Netherlands,Morocco,,
@@ -72040,3 +72040,61 @@ id,tournament_id,club1,club2,ht1,ht2
 2384952,262284,Germany,Morocco,,
 2384953,262284,Belgium,Germany,,
 2384954,262284,Netherlands,Portugal,,
+2384181,262238,Argentina,England,1,3
+2384182,262238,Spain,Germany,4,0
+2384183,262238,Germany,Argentina,1,3
+2384184,262238,England,France,0,1
+2384185,262238,France,Germany,0,3
+2384186,262238,Argentina,Spain,1,1
+2384187,262238,Spain,France,0,0
+2384188,262238,Germany,England,4,1
+2384189,262238,England,Spain,1,2
+2384190,262238,France,Argentina,0,2
+2384191,262238,England,Argentina,,
+2384192,262238,Germany,Spain,,
+2384193,262238,Argentina,Germany,,
+2384194,262238,France,England,,
+2384195,262238,Germany,France,,
+2384196,262238,Spain,Argentina,,
+2384197,262238,France,Spain,,
+2384198,262238,England,Germany,,
+2384199,262238,Spain,England,,
+2384200,262238,Argentina,France,,
+2384001,262248,Paris,Bayern Munchen,0,0
+2384002,262248,Liverpool,Atleti,3,2
+2384003,262248,Atleti,Paris,0,2
+2384004,262248,Bayern Munchen,Real Madrid,1,2
+2384005,262248,Real Madrid,Atleti,2,0
+2384006,262248,Paris,Liverpool,0,0
+2384007,262248,Liverpool,Real Madrid,0,1
+2384008,262248,Atleti,Bayern Munchen,0,1
+2384009,262248,Bayern Munchen,Liverpool,,
+2384010,262248,Real Madrid,Paris,,
+2384011,262248,Bayern Munchen,Paris,,
+2384012,262248,Atleti,Liverpool,,
+2384013,262248,Paris,Atleti,,
+2384014,262248,Real Madrid,Bayern Munchen,,
+2384015,262248,Atleti,Real Madrid,,
+2384016,262248,Liverpool,Paris,,
+2384017,262248,Real Madrid,Liverpool,,
+2384018,262248,Bayern Munchen,Atleti,,
+2384019,262248,Liverpool,Bayern Munchen,,
+2384020,262248,Paris,Real Madrid,,
+2384559,262260,Juventus,Sporting CP,0,3
+2384560,262260,Arsenal,B Dortmund,1,3
+2384561,262260,Arsenal,Juventus,3,1
+2384562,262260,B Dortmund,Sporting CP,2,1
+2384563,262260,Sporting CP,Arsenal,0,0
+2384564,262260,B Dortmund,Juventus,5,0
+2384565,262260,Juventus,Sporting CP,0,3
+2384566,262260,Arsenal,B Dortmund,1,1
+2384567,262260,Arsenal,Juventus,0,2
+2384568,262260,B Dortmund,Sporting CP,2,1
+2384569,262260,Sporting CP,Arsenal,,
+2384570,262260,B Dortmund,Juventus,,
+2384571,262260,Juventus,Sporting CP,,
+2384572,262260,Arsenal,B Dortmund,,
+2384573,262260,Arsenal,Juventus,,
+2384574,262260,B Dortmund,Sporting CP,,
+2384575,262260,Sporting CP,Arsenal,,
+2384576,262260,B Dortmund,Juventus,,
