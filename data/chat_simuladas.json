@@ -3195,5 +3195,51 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261118023000237074",
+  "creada": "2026-11-18 02:30:00.237132+00:00",
+  "titulo": "Barrido · Combinada cuota 11.9",
+  "legs": [
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-18 16:00:00+00:00",
+    "home": "Team Spirit Academy",
+    "away": "Nemiga Gaming",
+    "txt": "Gana Team Spirit Academy",
+    "odds": 2.17,
+    "p": 0.49201966205837167
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-18 19:00:00+00:00",
+    "home": "Inner Circle Prospect",
+    "away": "regnum4games",
+    "txt": "Gana Inner Circle Prospect",
+    "odds": 2.01,
+    "p": 0.5194749585406302
+   },
+   {
+    "src": "espn:nba",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-19 01:00:00+00:00",
+    "home": "Dallas Mavericks",
+    "away": "Golden State Warriors",
+    "txt": "Gana Golden State Warriors",
+    "odds": 2.73,
+    "p": 0.40815024420024415
+   }
+  ],
+  "odds": 11.91,
+  "p": 0.10431989376760573,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
