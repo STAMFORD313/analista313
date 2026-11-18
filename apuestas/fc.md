@@ -1,44 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 20:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Mani vs pikalicaaa — 18/11 · 19:55
+## spirtes vs ramzes — 18/11 · 20:22
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Mani** @ **2.30** (Unibet) · prob 48% vs casas 38% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **7.00** (Unibet) · prob 18% vs casas 12% · ventaja +28%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.829 partidos)  
-Goles esperados: Mani 3.19 · pikalicaaa 2.71  
-Ganador: Mani 48% · empate 19% · pikalicaaa 33%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap Mani: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 72.851 partidos)  
+Goles esperados: spirtes 3.33 · ramzes 3.21  
+Ganador: spirtes 40% · empate 18% · ramzes 41%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap spirtes: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Mani ✅✅✅➖❌ | pikalicaaa ❌❌❌✅✅  
-• Partidos: Mani 1000 | pikalicaaa 775  
-• Liga: Serie A  
-• Unibet: 1 2.30 · X 4.50 · 2 2.04 (sin margen 38%/19%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.30 (+10%) · Paf España 2.30 (+10%)  
-
-## Lufy vs Bosko — 18/11 · 20:06
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **1.89** (Unibet) · prob 59% vs casas 46% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.829 partidos)  
-Goles esperados: Lufy 4.90 · Bosko 3.79  
-Ganador: Lufy 59% · empate 14% · Bosko 27%  
-Total: más de 8.5 goles 50% · menos 50%  
-Hándicap Lufy: −1.5 44% · −2.5 31%  
-🔎 **Claves**  
-• Forma: Lufy ❌❌➖✅✅ | Bosko ❌➖✅❌✅  
-• Partidos: Lufy 893 | Bosko 650  
-• Liga: Champions League B 2x6  
-• Unibet: 1 1.89 · X 4.40 · 2 2.55 (sin margen 46%/20%/34%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.89 (+12%) · Paf España 1.89 (+12%)  
+• Forma: spirtes ✅✅❌✅➖ | ramzes ✅➖✅✅✅  
+• Partidos: spirtes 1268 | ramzes 1216  
+• Liga: Copa America  
+• Unibet: 1 1.82 · X 7.00 · 2 2.23 (sin margen 48%/13%/39%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+28%) · Paf España 7.00 (+28%)  
 
 ## pikalicaaa vs Dicca — 18/11 · 20:31
 
@@ -58,4 +39,42 @@ Hándicap Dicca: −1.5 36% · −2.5 22%
 • Liga: Serie A  
 • Unibet: 1 2.45 · X 3.75 · 2 2.10 (sin margen 35%/23%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.10 (+10%) · Paf España 2.10 (+10%)  
+
+## steeffant vs Lufy — 18/11 · 20:42
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **3.95** (Unibet) · prob 33% vs casas 22% · ventaja +30%
+
+- ❌ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.851 partidos)  
+Goles esperados: steeffant 4.78 · Lufy 4.15  
+Ganador: steeffant 52% · empate 15% · Lufy 33%  
+Total: más de 8.5 goles 54% · menos 46%  
+Hándicap steeffant: −1.5 38% · −2.5 26%  
+🔎 **Claves**  
+• Forma: steeffant ➖❌❌❌✅ | Lufy ❌➖✅✅❌  
+• Partidos: steeffant 933 | Lufy 894  
+• Liga: Champions League B 2x6  
+• Unibet: 1 1.33 · X 6.50 · 2 3.95 (sin margen 65%/13%/22%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.95 (+30%) · Paf España 3.95 (+30%)  
+
+## SDI vs ramzes — 18/11 · 20:46
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana ramzes** @ **2.33** (Unibet) · prob 50% vs casas 38% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.851 partidos)  
+Goles esperados: SDI 3.36 · ramzes 3.83  
+Ganador: SDI 33% · empate 17% · ramzes 50%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap ramzes: −1.5 35% · −2.5 22%  
+🔎 **Claves**  
+• Forma: SDI ✅❌✅❌❌ | ramzes ✅➖✅✅✅  
+• Partidos: SDI 692 | ramzes 1216  
+• Liga: Copa America  
+• Unibet: 1 1.93 · X 5.10 · 2 2.33 (sin margen 45%/17%/38%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.33 (+16%) · Paf España 2.33 (+16%)  
 

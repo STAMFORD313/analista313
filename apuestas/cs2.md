@@ -1,40 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## OldBoys FR vs Fire Flux — 18/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **2.36** (Thunderpick) · prob 40% vs casas 39% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
-Mapa: OldBoys FR 40% · Serie BO1: OldBoys FR 40% - 60% Fire Flux  
-Casas: OldBoys FR 39% · Fire Flux 61%  
-🔎 **Claves**  
-• Elo: OldBoys FR 1567 (58 series) | Fire Flux 1634 (341 series)  
-• Forma: OldBoys FR ❌❌✅❌✅ | Fire Flux ❌✅✅❌❌  
-• H2H: 1: 1-0  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## Inner Circle Prospect vs regnum4games — 18/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Inner Circle Prospect** @ **2.01** (Thunderpick) · prob 54% vs casas 46% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
-Mapa: Inner Circle Prospect 63% · Serie BO1: Inner Circle Prospect 63% - 37% regnum4games  
-Casas: Inner Circle Prospect 46% · regnum4games 54%  
-🔎 **Claves**  
-• Elo: Inner Circle Prospect 1505 (36 series) | regnum4games 1416 (43 series)  
-• Forma: Inner Circle Prospect ❌✅❌✅✅ | regnum4games ✅✅✅❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 18/11/2026 20:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Al Ahli vs NoTime — 18/11 · 20:30
 
