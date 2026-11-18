@@ -72108,34 +72108,34 @@ id,tournament_id,club1,club2,ht1,ht2
 2384308,262271,Atleti,Barcelona,,
 2384309,262271,Real Madrid,Barcelona,,
 2384310,262271,Real Madrid,Atleti,,
-2384201,262239,Stuttgart,Leipzig,2,2
-2384202,262239,Bayern Munchen,B Dortmund,0,3
-2384203,262239,B Dortmund,Stuttgart,1,0
-2384204,262239,Leipzig,Frankfurt,3,1
-2384205,262239,Frankfurt,B Dortmund,1,1
-2384206,262239,Stuttgart,Bayern Munchen,5,1
-2384207,262239,Bayern Munchen,Frankfurt,1,1
-2384208,262239,B Dortmund,Leipzig,1,0
-2384209,262239,Leipzig,Bayern Munchen,1,0
-2384210,262239,Frankfurt,Stuttgart,0,1
-2384211,262239,Leipzig,Stuttgart,2,3
-2384212,262239,B Dortmund,Bayern Munchen,0,1
-2384213,262239,Stuttgart,B Dortmund,0,3
-2384214,262239,Frankfurt,Leipzig,4,1
+2384201,262239,Stuttgart,Leipzig,2.0,2.0
+2384202,262239,Bayern Munchen,B Dortmund,0.0,3.0
+2384203,262239,B Dortmund,Stuttgart,1.0,0.0
+2384204,262239,Leipzig,Frankfurt,3.0,1.0
+2384205,262239,Frankfurt,B Dortmund,1.0,1.0
+2384206,262239,Stuttgart,Bayern Munchen,5.0,1.0
+2384207,262239,Bayern Munchen,Frankfurt,1.0,1.0
+2384208,262239,B Dortmund,Leipzig,1.0,0.0
+2384209,262239,Leipzig,Bayern Munchen,1.0,0.0
+2384210,262239,Frankfurt,Stuttgart,0.0,1.0
+2384211,262239,Leipzig,Stuttgart,2.0,3.0
+2384212,262239,B Dortmund,Bayern Munchen,0.0,1.0
+2384213,262239,Stuttgart,B Dortmund,0.0,3.0
+2384214,262239,Frankfurt,Leipzig,4.0,1.0
 2384215,262239,B Dortmund,Frankfurt,,
 2384216,262239,Bayern Munchen,Stuttgart,,
 2384217,262239,Frankfurt,Bayern Munchen,,
 2384218,262239,Leipzig,B Dortmund,,
 2384219,262239,Bayern Munchen,Leipzig,,
 2384220,262239,Stuttgart,Frankfurt,,
-2384577,262261,River Plate,Paris,2,3
-2384578,262261,Man City,Boca Juniors,1,2
-2384579,262261,Man City,River Plate,1,1
-2384580,262261,Boca Juniors,Paris,1,0
-2384581,262261,Paris,Man City,3,1
-2384582,262261,Boca Juniors,River Plate,2,0
-2384583,262261,River Plate,Paris,3,2
-2384584,262261,Man City,Boca Juniors,0,2
+2384577,262261,River Plate,Paris,2.0,3.0
+2384578,262261,Man City,Boca Juniors,1.0,2.0
+2384579,262261,Man City,River Plate,1.0,1.0
+2384580,262261,Boca Juniors,Paris,1.0,0.0
+2384581,262261,Paris,Man City,3.0,1.0
+2384582,262261,Boca Juniors,River Plate,2.0,0.0
+2384583,262261,River Plate,Paris,3.0,2.0
+2384584,262261,Man City,Boca Juniors,0.0,2.0
 2384585,262261,Man City,River Plate,,
 2384586,262261,Boca Juniors,Paris,,
 2384587,262261,Paris,Man City,,
@@ -72146,16 +72146,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2384592,262261,Boca Juniors,Paris,,
 2384593,262261,Paris,Man City,,
 2384594,262261,Boca Juniors,River Plate,,
-2384955,262286,Sporting CP,Arsenal,2,3
-2384956,262286,Juventus,B Dortmund,1,1
-2384957,262286,B Dortmund,Sporting CP,1,0
-2384958,262286,Arsenal,Man City,2,1
-2384959,262286,Man City,B Dortmund,4,1
-2384960,262286,Sporting CP,Juventus,2,1
-2384961,262286,Juventus,Man City,3,3
-2384962,262286,B Dortmund,Arsenal,3,1
-2384963,262286,Arsenal,Juventus,1,2
-2384964,262286,Man City,Sporting CP,0,0
+2384955,262286,Sporting CP,Arsenal,2.0,3.0
+2384956,262286,Juventus,B Dortmund,1.0,1.0
+2384957,262286,B Dortmund,Sporting CP,1.0,0.0
+2384958,262286,Arsenal,Man City,2.0,1.0
+2384959,262286,Man City,B Dortmund,4.0,1.0
+2384960,262286,Sporting CP,Juventus,2.0,1.0
+2384961,262286,Juventus,Man City,3.0,3.0
+2384962,262286,B Dortmund,Arsenal,3.0,1.0
+2384963,262286,Arsenal,Juventus,1.0,2.0
+2384964,262286,Man City,Sporting CP,0.0,0.0
 2384965,262286,Arsenal,Sporting CP,,
 2384966,262286,B Dortmund,Juventus,,
 2384967,262286,Sporting CP,B Dortmund,,
@@ -72166,3 +72166,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2384972,262286,Arsenal,B Dortmund,,
 2384973,262286,Juventus,Arsenal,,
 2384974,262286,Sporting CP,Man City,,
+2384021,262249,Napoli,Sassuolo,2,0
+2384022,262249,Roma,Bologna,1,0
+2384023,262249,Bologna,Napoli,1,1
+2384024,262249,Sassuolo,Juventus,2,2
+2384025,262249,Juventus,Bologna,1,0
+2384026,262249,Napoli,Roma,1,0
+2384027,262249,Roma,Juventus,1,1
+2384028,262249,Bologna,Sassuolo,1,1
+2384029,262249,Sassuolo,Roma,2,2
+2384030,262249,Juventus,Napoli,1,1
+2384031,262249,Sassuolo,Napoli,,
+2384032,262249,Bologna,Roma,,
+2384033,262249,Napoli,Bologna,,
+2384034,262249,Juventus,Sassuolo,,
+2384035,262249,Bologna,Juventus,,
+2384036,262249,Roma,Napoli,,
+2384037,262249,Juventus,Roma,,
+2384038,262249,Sassuolo,Bologna,,
+2384039,262249,Roma,Sassuolo,,
+2384040,262249,Napoli,Juventus,,
