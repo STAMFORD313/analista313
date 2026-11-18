@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 03:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 03:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs PCIFIC — 18/11 · 10:00
 
