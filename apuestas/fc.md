@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 20:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## pikalicaaa vs Mani — 18/11 · 20:55
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Mani** @ **2.40** (Unibet) · prob 49% vs casas 36% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.872 partidos)  
-Goles esperados: pikalicaaa 2.66 · Mani 3.18  
-Ganador: pikalicaaa 32% · empate 19% · Mani 49%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Mani: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: pikalicaaa ✅✅✅❌❌ | Mani ✅➖❌❌✅  
-• Partidos: pikalicaaa 778 | Mani 1002  
-• Liga: Serie A  
-• Unibet: 1 1.97 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+17%) · Paf España 2.40 (+17%)  
-
-## Djape vs Vanste — 18/11 · 20:58
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **6.10** (Unibet) · prob 17% vs casas 14% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.880 partidos)  
-Goles esperados: Djape 3.51 · Vanste 2.76  
-Ganador: Djape 58% · empate 17% · Vanste 25%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Djape: −1.5 38% · −2.5 24%  
-🔎 **Claves**  
-• Forma: Djape ✅➖✅❌❌ | Vanste ❌❌❌➖✅  
-• Partidos: Djape 274 | Vanste 235  
-• Liga: Premier League  
-• Unibet: 1 1.50 · X 6.10 · 2 3.10 (sin margen 58%/14%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+6%) · Paf España 6.10 (+6%)  
+Actualizado 18/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mani vs Firminho — 18/11 · 21:19
 
@@ -115,4 +77,23 @@ Hándicap Lufy: −1.5 44% · −2.5 31%
 • Liga: Champions League B 2x6  
 • Unibet: 1 1.88 · X 4.50 · 2 2.55 (sin margen 46%/19%/34%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.88 (+11%) · Paf España 1.88 (+11%)  
+
+## Dicca vs pikalicaaa — 18/11 · 21:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.06** (Unibet) · prob 52% vs casas 42% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.907 partidos)  
+Goles esperados: Dicca 3.18 · pikalicaaa 2.52  
+Ganador: Dicca 52% · empate 19% · pikalicaaa 29%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Dicca: −1.5 36% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Dicca ❌➖❌➖➖ | pikalicaaa ❌❌➖❌✅  
+• Partidos: Dicca 887 | pikalicaaa 781  
+• Liga: Serie A  
+• Unibet: 1 2.06 · X 3.60 · 2 2.60 (sin margen 42%/24%/34%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.06 (+7%) · Paf España 2.06 (+7%)  
 

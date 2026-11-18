@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 18/11/2026 20:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Florida Gators vs Houston Cougars — 18/11 · 22:30
 

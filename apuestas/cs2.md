@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 20:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Phantom Academy vs OldBoys FR — 18/11 · 21:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Phantom Academy** @ **1.86** (Thunderpick) · prob 52% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
-Mapa: Phantom Academy 54% · Serie BO1: Phantom Academy 54% - 46% OldBoys FR  
-Casas: Phantom Academy 49% · OldBoys FR 51%  
-🔎 **Claves**  
-• Elo: Phantom Academy 1603 (106 series) | OldBoys FR 1575 (59 series)  
-• Forma: Phantom Academy ✅✅❌✅✅ | OldBoys FR ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 18/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
