@@ -2573,15 +2573,17 @@
     "away": "Veraguas",
     "txt": "Gana San Francisco",
     "odds": 2.32,
-    "p": 0.4429
+    "p": 0.4429,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 13.49,
   "p": 0.08489807486200002,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261114003351473605",
@@ -2617,15 +2619,17 @@
     "away": "Arsenal de Sarandi",
     "txt": "Gana Arsenal de Sarandi",
     "odds": 2.63,
-    "p": 0.4059
+    "p": 0.4059,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 11.04,
   "p": 0.10645732508399998,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261114061031515802",
@@ -3062,15 +3066,17 @@
     "away": "Inner Circle x Insanity",
     "txt": "Gana CyberHero",
     "odds": 1.58,
-    "p": 0.6565409282700421
+    "p": 0.6565409282700421,
+    "ok": false,
+    "por": "ganó Inner Circle x Insanity 2-1"
    }
   ],
   "odds": 7.23,
   "p": 0.1726253661630883,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261117105125291396",
@@ -3172,7 +3178,9 @@
     "away": "QUINTESSÊNCIA",
     "txt": "Gana TROPA DO MICHA",
     "odds": 1.98,
-    "p": 0.5239003367003366
+    "p": 0.5239003367003366,
+    "ok": true,
+    "por": "ganó TROPA DO MICHA 2-1"
    },
    {
     "src": "esports:dota2",
@@ -3218,7 +3226,9 @@
     "away": "Nemiga Gaming",
     "txt": "Gana Team Spirit Academy",
     "odds": 2.17,
-    "p": 0.49201966205837167
+    "p": 0.49201966205837167,
+    "ok": true,
+    "por": "ganó Team Spirit Academy 2-1"
    },
    {
     "src": "esports:cs2",
@@ -3229,7 +3239,9 @@
     "away": "regnum4games",
     "txt": "Gana Inner Circle Prospect",
     "odds": 2.01,
-    "p": 0.5194749585406302
+    "p": 0.5194749585406302,
+    "ok": true,
+    "por": "ganó Inner Circle Prospect 1-0"
    },
    {
     "src": "espn:nba",
