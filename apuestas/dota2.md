@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 18/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 16:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Spirit vs PARIVISION — 18/11 · 17:00
 

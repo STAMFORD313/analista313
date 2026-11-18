@@ -34938,3 +34938,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192909,133399,ex-rustec-vs-mouz-nxt-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,1455,ex-RUSTEC,MOUZ NXT,1,de_nuke,24857,13.0,11.0
 193390,133864,tpudcatb-tpu-vs-spirit-academy-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,1309,33,Spirit Academy,2,de_nuke,22191,13.0,6.0
 193391,133864,tpudcatb-tpu-vs-spirit-academy-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,1309,33,Spirit Academy,1,de_mirage,22191,13.0,9.0
+193585,134011,phantom-esports-vs-metizport-18-11-2026,2026-11-18T12:20:00.000+00:00,b,3,6168,RUSH:Brno 2026,19204,1578,Phantom,Metizport,3,de_nuke,1578,13.0,11.0
+193586,134011,phantom-esports-vs-metizport-18-11-2026,2026-11-18T12:20:00.000+00:00,b,3,6168,RUSH:Brno 2026,19204,1578,Phantom,Metizport,2,de_inferno,1578,16.0,13.0
+193587,134011,phantom-esports-vs-metizport-18-11-2026,2026-11-18T12:20:00.000+00:00,b,3,6168,RUSH:Brno 2026,19204,1578,Phantom,Metizport,1,de_ancient,19204,13.0,7.0
