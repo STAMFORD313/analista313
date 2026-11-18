@@ -1,57 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 17:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## The Chosen Few vs Vitality Academy — 18/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Vitality Academy** @ **2.03** (Thunderpick) · prob 51% vs casas 46% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
-Mapa: The Chosen Few 44% · Serie BO1: The Chosen Few 44% - 56% Vitality Academy  
-Casas: The Chosen Few 54% · Vitality Academy 46%  
-🔎 **Claves**  
-• Elo: The Chosen Few 1470 (93 series) | Vitality Academy 1512 (34 series)  
-• Forma: The Chosen Few ❌✅✅❌❌ | Vitality Academy ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## LPH vs Rcave — 18/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana LPH** @ **1.34** (Thunderpick) · prob 72% vs casas 68% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
-Mapa: LPH 76% · Serie BO1: LPH 76% - 24% Rcave  
-Casas: LPH 68% · Rcave 32%  
-🔎 **Claves**  
-• Elo: LPH 1456 (146 series) | Rcave 1255 (17 series)  
-• Forma: LPH ❌❌❌❌❌ | Rcave ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## TTG Esports vs Phantom Academy — 18/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana TTG Esports** @ **1.87** (Thunderpick) · prob 58% vs casas 49% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
-Mapa: TTG Esports 66% · Serie BO1: TTG Esports 66% - 34% Phantom Academy  
-Casas: TTG Esports 49% · Phantom Academy 51%  
-🔎 **Claves**  
-• Elo: TTG Esports 1718 (20 series) | Phantom Academy 1603 (106 series)  
-• Forma: TTG Esports ✅✅✅✅✅ | Phantom Academy ✅✅❌✅✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 18/11/2026 18:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Curralzinho vs Underworld — 18/11 · 19:00
 
