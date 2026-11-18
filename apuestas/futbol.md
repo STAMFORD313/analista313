@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 18/11/2026 23:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Coritiba vs Santos — 18/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Coritiba** @ **3.40** (Bet365) · prob 28% vs casas 28% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.33)  
-1 36% · X 28% · 2 36%  
-1X 64% · X2 64% · 12 72%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Coritiba ➖❌❌✅❌ | Santos ❌✅➖➖❌  
-• H2H: 19 desde 2012: 4V-5E-10D · 2.3 goles/partido · +2.5 en 63%  
-• Bajas: Coritiba: 0 fuera, 1 duda; Santos: 0 fuera, 4 duda  
-• Favorito de las casas: Santos @ 2.10  
+Actualizado 18/11/2026 23:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Remo vs Chapecoense-SC — 19/11 · 00:00
 
