@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 20:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 20:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Phantom Academy vs OldBoys FR — 18/11 · 21:00
 
