@@ -72098,10 +72098,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2384574,262260,B Dortmund,Sporting CP,,
 2384575,262260,Sporting CP,Arsenal,,
 2384576,262260,B Dortmund,Juventus,,
-2384301,262271,Atleti,Real Madrid,3,3
-2384302,262271,Atleti,Barcelona,2,2
-2384303,262271,Real Madrid,Barcelona,0,2
-2384304,262271,Real Madrid,Atleti,0,4
+2384301,262271,Atleti,Real Madrid,3.0,3.0
+2384302,262271,Atleti,Barcelona,2.0,2.0
+2384303,262271,Real Madrid,Barcelona,0.0,2.0
+2384304,262271,Real Madrid,Atleti,0.0,4.0
 2384305,262271,Barcelona,Atleti,,
 2384306,262271,Barcelona,Real Madrid,,
 2384307,262271,Atleti,Real Madrid,,

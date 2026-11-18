@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 03:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 04:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## nicky vs zaha — 18/11 · 04:02
 
@@ -57,4 +57,23 @@ Hándicap hotShot: −1.5 29% · −2.5 15%
 • Liga: Champions League A  
 • Unibet: 1 2.55 · X 2.40 · 2 2.90 (sin margen 34%/36%/30%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.55 (+20%) · Paf España 2.55 (+20%)  
+
+## RossFCDK vs hotShot — 18/11 · 04:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hotShot** @ **2.30** (Unibet) · prob 50% vs casas 38% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.058 partidos)  
+Goles esperados: RossFCDK 1.84 · hotShot 2.22  
+Ganador: RossFCDK 27% · empate 23% · hotShot 50%  
+Total: más de 4.5 goles 38% · menos 62%  
+Hándicap hotShot: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: RossFCDK ❌✅✅➖➖ | hotShot ➖➖✅➖➖  
+• Partidos: RossFCDK 600 | hotShot 632  
+• Liga: Champions League A  
+• Unibet: 1 3.30 · X 2.40 · 2 2.30 (sin margen 26%/36%/38%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.30 (+15%) · Paf España 2.30 (+15%)  
 
