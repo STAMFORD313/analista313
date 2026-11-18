@@ -72970,3 +72970,38 @@ id,tournament_id,club1,club2,ht1,ht2
 2386711,262383,Man City,Liverpool,,
 2386712,262383,Tottenham,Man City,,
 2386713,262383,Arsenal,Chelsea,,
+2386072,262362,Bayern Munchen,Liverpool,2,2
+2386073,262362,Atleti,Real Madrid,2,2
+2386074,262362,Real Madrid,Bayern Munchen,1,2
+2386075,262362,Liverpool,Paris,1,0
+2386076,262362,Paris,Real Madrid,1,0
+2386077,262362,Bayern Munchen,Atleti,2,1
+2386078,262362,Atleti,Paris,0,0
+2386079,262362,Real Madrid,Liverpool,2,0
+2386080,262362,Liverpool,Atleti,1,2
+2386081,262362,Paris,Bayern Munchen,2,3
+2386082,262362,Liverpool,Bayern Munchen,1,1
+2386083,262362,Real Madrid,Atleti,0,0
+2386084,262362,Bayern Munchen,Real Madrid,,
+2386085,262362,Paris,Liverpool,,
+2386086,262362,Real Madrid,Paris,,
+2386087,262362,Atleti,Bayern Munchen,,
+2386088,262362,Paris,Atleti,,
+2386089,262362,Liverpool,Real Madrid,,
+2386090,262362,Atleti,Liverpool,,
+2386091,262362,Bayern Munchen,Paris,,
+2385982,262394,Ecuador,Argentina,1,1
+2385983,262394,Colombia,Brazil,1,3
+2385984,262394,Brazil,Ecuador,3,1
+2385985,262394,Argentina,Uruguay,3,1
+2385986,262394,Uruguay,Brazil,0,2
+2385987,262394,Ecuador,Colombia,2,4
+2385988,262394,Colombia,Uruguay,1,3
+2385989,262394,Brazil,Argentina,3,2
+2385990,262394,Argentina,Colombia,1,2
+2385991,262394,Uruguay,Ecuador,0,4
+2387800,262420,B Dortmund,Man City,0,1
+2387802,262420,Man City,Juventus,2,2
+2387803,262420,Juventus,B Dortmund,2,1
+2387806,262420,B Dortmund,Man City,1,1
+2387808,262420,Man City,Juventus,,

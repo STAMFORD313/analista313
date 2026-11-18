@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 21:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
@@ -118,4 +118,24 @@ Casas: MEIA NOITE 55% · RUSH 45%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • MEIA NOITE gana 2-1: 23% → cuota justa 4.28  
 • RUSH gana 2-1: 20% → cuota justa 4.91  
+
+## Balkan Outlaws vs FORZE Reload — 20/11 · 10:00
+
+👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana Balkan Outlaws** @ **3.30** (Thunderpick) · prob 28% vs casas 28% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.046 partidos)  
+Mapa: Balkan Outlaws 35% · Serie BO3: Balkan Outlaws 29% - 71% FORZE Reload  
+Casas: Balkan Outlaws 28% · FORZE Reload 72%  
+🔎 **Claves**  
+• Elo: Balkan Outlaws 1619 (10 series) | FORZE Reload 1779 (362 series)  
+• Forma: Balkan Outlaws ❌✅❌✅✅ | FORZE Reload ✅✅❌✅✅  
+• H2H: sin precedentes  
+• Torneo: European Pro League Series 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Balkan Outlaws gana 2-1: 14% → cuota justa 7.34 · casa 13%  
+• FORZE Reload gana 2-1: 25% → cuota justa 4.03 · casa 28%  
 
