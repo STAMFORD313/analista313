@@ -1,25 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 18/11/2026 16:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Team Spirit vs PARIVISION — 18/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · 1win Essence III · **Gana PARIVISION** @ **2.54** (Thunderpick) · prob 44% vs casas 36% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.860 partidos)  
-Mapa: Team Spirit 58% · Serie BO5: Team Spirit 48% - 52% PARIVISION  
-Casas: Team Spirit 64% · PARIVISION 37%  
-🔎 **Claves**  
-• Elo: Team Spirit 2247 (360 series) | PARIVISION 2176 (266 series)  
-• Forma: Team Spirit ✅❌✅✅✅ | PARIVISION ✅❌✅✅✅  
-• H2H: 27: 18-9  
-• Torneo: 1win Essence III (nivel A)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Team Spirit: Batyuk 6.1, Yatoro 6.0 | PARIVISION: No[o]ne 6.4, Satanic 5.7  
-• Química de la plantilla: Team Spirit: 241 partidas juntos de media | PARIVISION: 417 partidas juntos de media  
+Actualizado 18/11/2026 17:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## CyberHero vs Inner Circle x Insanity — 18/11 · 18:00
 
