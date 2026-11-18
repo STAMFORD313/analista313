@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 20:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Al Ahli vs NoTime — 18/11 · 20:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana NoTime** @ **2.00** (Thunderpick) · prob 50% vs casas 46% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.943 partidos)  
-Mapa: Al Ahli 45% · Serie BO1: Al Ahli 45% - 55% NoTime  
-Casas: Al Ahli 54% · NoTime 46%  
-🔎 **Claves**  
-• Elo: Al Ahli 1518 (14 series) | NoTime 1550 (18 series)  
-• Forma: Al Ahli ✅✅✅❌✅ | NoTime ❌✅✅✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 18/11/2026 20:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Phantom Academy vs OldBoys FR — 18/11 · 21:00
 

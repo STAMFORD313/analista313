@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 20:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## spirtes vs ramzes — 18/11 · 20:22
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **7.00** (Unibet) · prob 18% vs casas 12% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.851 partidos)  
-Goles esperados: spirtes 3.33 · ramzes 3.21  
-Ganador: spirtes 40% · empate 18% · ramzes 41%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap spirtes: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: spirtes ✅✅❌✅➖ | ramzes ✅➖✅✅✅  
-• Partidos: spirtes 1268 | ramzes 1216  
-• Liga: Copa America  
-• Unibet: 1 1.82 · X 7.00 · 2 2.23 (sin margen 48%/13%/39%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.00 (+28%) · Paf España 7.00 (+28%)  
-
-## pikalicaaa vs Dicca — 18/11 · 20:31
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.10** (Unibet) · prob 52% vs casas 41% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.829 partidos)  
-Goles esperados: pikalicaaa 2.45 · Dicca 3.14  
-Ganador: pikalicaaa 28% · empate 19% · Dicca 53%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Dicca: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: pikalicaaa ❌❌❌✅✅ | Dicca ❌❌✅❌✅  
-• Partidos: pikalicaaa 775 | Dicca 881  
-• Liga: Serie A  
-• Unibet: 1 2.45 · X 3.75 · 2 2.10 (sin margen 35%/23%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.10 (+10%) · Paf España 2.10 (+10%)  
+Actualizado 18/11/2026 20:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## steeffant vs Lufy — 18/11 · 20:42
 
@@ -77,4 +39,61 @@ Hándicap ramzes: −1.5 35% · −2.5 22%
 • Liga: Copa America  
 • Unibet: 1 1.93 · X 5.10 · 2 2.33 (sin margen 45%/17%/38%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.33 (+16%) · Paf España 2.33 (+16%)  
+
+## pikalicaaa vs Mani — 18/11 · 20:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Mani** @ **2.40** (Unibet) · prob 49% vs casas 36% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.872 partidos)  
+Goles esperados: pikalicaaa 2.66 · Mani 3.18  
+Ganador: pikalicaaa 32% · empate 19% · Mani 49%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Mani: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: pikalicaaa ✅✅✅❌❌ | Mani ✅➖❌❌✅  
+• Partidos: pikalicaaa 778 | Mani 1002  
+• Liga: Serie A  
+• Unibet: 1 1.97 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+17%) · Paf España 2.40 (+17%)  
+
+## Mani vs Firminho — 18/11 · 21:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Firminho** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.872 partidos)  
+Goles esperados: Mani 3.25 · Firminho 3.43  
+Ganador: Mani 38% · empate 18% · Firminho 44%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Firminho: −1.5 30% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Mani ✅➖❌❌✅ | Firminho ❌✅✅✅❌  
+• Partidos: Mani 1002 | Firminho 923  
+• Liga: Serie A  
+• Unibet: 1 2.02 · X 4.00 · 2 2.48 (sin margen 43%/22%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+9%) · Paf España 2.48 (+9%)  
+
+## spirtes vs SDI — 18/11 · 21:20
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.25** (Unibet) · prob 18% vs casas 14% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.872 partidos)  
+Goles esperados: spirtes 3.63 · SDI 3.23  
+Ganador: spirtes 46% · empate 18% · SDI 37%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap spirtes: −1.5 33% · −2.5 21%  
+🔎 **Claves**  
+• Forma: spirtes ❌✅➖❌❌ | SDI ✅❌❌✅✅  
+• Partidos: spirtes 1270 | SDI 694  
+• Liga: Copa America  
+• Unibet: 1 1.96 · X 6.25 · 2 2.14 (sin margen 45%/14%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+10%) · Paf España 6.25 (+10%)  
 
