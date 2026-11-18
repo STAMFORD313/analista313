@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 18/11/2026 10:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 11:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## w1nkos vs Tesla — 18/11 · 11:00
+## DaVa vs Revange — 18/11 · 11:30
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana w1nkos** @ **4.40** (Unibet) · prob 31% vs casas 20% · ventaja +37%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Revange** @ **4.20** (Unibet) · prob 26% vs casas 21% · ventaja +9%
 
-- ❌ Valor: ventaja +37% (mín. 17% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.375 partidos)  
-Goles esperados: w1nkos 3.15 · Tesla 3.74  
-Ganador: w1nkos 31% · empate 17% · Tesla 52%  
-Total: más de 6.5 goles 53% · menos 47%  
-Hándicap Tesla: −1.5 36% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 72.389 partidos)  
+Goles esperados: DaVa 2.75 · Revange 2.07  
+Ganador: DaVa 53% · empate 21% · Revange 26%  
+Total: más de 4.5 goles 53% · menos 47%  
+Hándicap DaVa: −1.5 34% · −2.5 20%  
 🔎 **Claves**  
-• Forma: w1nkos ➖✅❌❌❌ | Tesla ✅✅✅➖➖  
-• Partidos: w1nkos 1258 | Tesla 1207  
-• Liga: World Cup A  
-• Unibet: 1 4.40 · X 4.30 · 2 1.48 (sin margen 20%/20%/60%) · ventaja +37%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.40 (+37%) · Paf España 4.40 (+37%)  
+• Forma: DaVa ➖➖✅✅❌ | Revange ✅❌❌✅✅  
+• Partidos: DaVa 1366 | Revange 658  
+• Liga: Bundesliga  
+• Unibet: 1 1.50 · X 4.30 · 2 4.20 (sin margen 59%/20%/21%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.20 (+9%) · Paf España 4.20 (+9%)  
 
-## Pavlinho19 vs Tesla — 18/11 · 11:12
+## zoyir vs why — 18/11 · 11:36
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Pavlinho19** @ **2.50** (Unibet) · prob 44% vs casas 35% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 72.375 partidos)  
-Goles esperados: Pavlinho19 3.00 · Tesla 2.81  
-Ganador: Pavlinho19 44% · empate 20% · Tesla 36%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap Pavlinho19: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Pavlinho19 ❌❌✅➖✅ | Tesla ✅✅✅➖➖  
-• Partidos: Pavlinho19 1117 | Tesla 1207  
-• Liga: World Cup A  
-• Unibet: 1 2.50 · X 3.55 · 2 2.12 (sin margen 35%/24%/41%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.50 (+11%) · Paf España 2.50 (+11%)  
-
-## A1ose vs v1nn — 18/11 · 11:15
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **3.25** (Unibet) · prob 39% vs casas 27% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **6.50** (Unibet) · prob 19% vs casas 13% · ventaja +26%
 
 - ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 72.375 partidos)  
-Goles esperados: A1ose 3.53 · v1nn 3.75  
-Ganador: A1ose 39% · empate 17% · v1nn 44%  
-Total: más de 7.5 goles 44% · menos 56%  
-Hándicap v1nn: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 72.389 partidos)  
+Goles esperados: zoyir 4.19 · why 2.96  
+Ganador: zoyir 66% · empate 15% · why 19%  
+Total: más de 7.5 goles 42% · menos 58%  
+Hándicap zoyir: −1.5 45% · −2.5 31%  
 🔎 **Claves**  
-• Forma: A1ose ❌✅✅➖✅ | v1nn ✅❌❌✅✅  
-• Partidos: A1ose 1093 | v1nn 747  
+• Forma: zoyir ✅✅✅✅❌ | why ❌➖❌❌➖  
+• Partidos: zoyir 641 | why 679  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.30 · X 4.25 · 2 6.50 (sin margen 66%/20%/13%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.50 (+26%) · Paf España 6.50 (+26%)  
+
+## cl1vlind vs A1ose — 18/11 · 11:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana cl1vlind** @ **3.95** (Unibet) · prob 29% vs casas 22% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 72.389 partidos)  
+Goles esperados: cl1vlind 2.70 · A1ose 3.22  
+Ganador: cl1vlind 29% · empate 19% · A1ose 52%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap A1ose: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: cl1vlind ✅✅✅➖❌ | A1ose ✅✅➖✅✅  
+• Partidos: cl1vlind 752 | A1ose 1094  
 • Liga: World Cup B  
-• Unibet: 1 3.25 · X 5.00 · 2 1.58 (sin margen 27%/18%/55%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.25 (+26%) · Paf España 3.25 (+26%)  
+• Unibet: 1 3.95 · X 3.45 · 2 1.67 (sin margen 22%/25%/52%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.95 (+16%) · Paf España 3.95 (+16%)  
 
