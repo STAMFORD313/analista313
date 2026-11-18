@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 00:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 01:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs PCIFIC — 18/11 · 10:00
 
@@ -59,6 +59,40 @@ Casas: The Chosen Few 54% · Vitality Academy 46%
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
 
+## LPH vs Rcave — 18/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana LPH** @ **1.34** (Thunderpick) · prob 72% vs casas 68% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: LPH 76% · Serie BO1: LPH 76% - 24% Rcave  
+Casas: LPH 68% · Rcave 32%  
+🔎 **Claves**  
+• Elo: LPH 1456 (146 series) | Rcave 1255 (17 series)  
+• Forma: LPH ❌❌❌❌❌ | Rcave ✅❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## TTG Esports vs Phantom Academy — 18/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana TTG Esports** @ **1.87** (Thunderpick) · prob 58% vs casas 49% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: TTG Esports 66% · Serie BO1: TTG Esports 66% - 34% Phantom Academy  
+Casas: TTG Esports 49% · Phantom Academy 51%  
+🔎 **Claves**  
+• Elo: TTG Esports 1718 (20 series) | Phantom Academy 1603 (106 series)  
+• Forma: TTG Esports ✅✅✅✅✅ | Phantom Academy ✅✅❌✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## Curralzinho vs Underworld — 18/11 · 19:00
 
 👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Curralzinho** @ **3.56** (Thunderpick) · prob 32% vs casas 26% · ventaja +15%
@@ -99,6 +133,91 @@ Casas: TROPA DO MICHA 47% · QUINTESSÊNCIA 53%
 • TROPA DO MICHA gana 2-1: 25% → cuota justa 4.06  
 • QUINTESSÊNCIA gana 2-1: 18% → cuota justa 5.69  
 
+## SINQU vs eSuba — 18/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana SINQU** @ **2.21** (Thunderpick) · prob 45% vs casas 42% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: SINQU 48% · Serie BO1: SINQU 48% - 52% eSuba  
+Casas: SINQU 42% · eSuba 58%  
+🔎 **Claves**  
+• Elo: SINQU 1466 (77 series) | eSuba 1477 (96 series)  
+• Forma: SINQU ✅✅✅✅✅ | eSuba ❌❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## BANGARANGA vs NoTime — 18/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana NoTime** @ **2.33** (Thunderpick) · prob 42% vs casas 40% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: BANGARANGA 55% · Serie BO1: BANGARANGA 55% - 45% NoTime  
+Casas: BANGARANGA 61% · NoTime 39%  
+🔎 **Claves**  
+• Elo: BANGARANGA 1559 (11 series) | NoTime 1526 (19 series)  
+• Forma: BANGARANGA ✅✅✅✅❌ | NoTime ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## OldBoys FR vs Rcave — 18/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **1.19** (Thunderpick) · prob 82% vs casas 77% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: OldBoys FR 86% · Serie BO1: OldBoys FR 86% - 14% Rcave  
+Casas: OldBoys FR 77% · Rcave 23%  
+🔎 **Claves**  
+• Elo: OldBoys FR 1575 (59 series) | Rcave 1255 (17 series)  
+• Forma: OldBoys FR ❌✅❌✅✅ | Rcave ✅❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## B8 Academy vs Al Ahli — 18/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana B8 Academy** @ **1.52** (Thunderpick) · prob 62% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: B8 Academy 62% · Serie BO1: B8 Academy 62% - 38% Al Ahli  
+Casas: B8 Academy 61% · Al Ahli 39%  
+🔎 **Claves**  
+• Elo: B8 Academy 1607 (96 series) | Al Ahli 1518 (14 series)  
+• Forma: B8 Academy ❌✅✅✅✅ | Al Ahli ✅✅✅❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Fraternity vs ZOTIX — 18/11 · 19:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Fraternity** @ **3.04** (Thunderpick) · prob 37% vs casas 30% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: Fraternity 44% · Serie BO1: Fraternity 44% - 56% ZOTIX  
+Casas: Fraternity 30% · ZOTIX 70%  
+🔎 **Claves**  
+• Elo: Fraternity 1432 (25 series) | ZOTIX 1472 (94 series)  
+• Forma: Fraternity ✅❌❌❌❌ | ZOTIX ✅✅❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## OldBoys FR vs Fire Flux — 18/11 · 20:00
 
 👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **2.36** (Thunderpick) · prob 40% vs casas 39% · ventaja -6%
@@ -116,6 +235,23 @@ Casas: OldBoys FR 39% · Fire Flux 61%
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
 
+## Inner Circle Prospect vs regnum4games — 18/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Inner Circle Prospect** @ **2.01** (Thunderpick) · prob 54% vs casas 46% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: Inner Circle Prospect 63% · Serie BO1: Inner Circle Prospect 63% - 37% regnum4games  
+Casas: Inner Circle Prospect 46% · regnum4games 54%  
+🔎 **Claves**  
+• Elo: Inner Circle Prospect 1505 (36 series) | regnum4games 1416 (43 series)  
+• Forma: Inner Circle Prospect ❌✅❌✅✅ | regnum4games ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## Al Ahli vs NoTime — 18/11 · 20:30
 
 👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana NoTime** @ **2.00** (Thunderpick) · prob 50% vs casas 46% · ventaja +1%
@@ -129,6 +265,23 @@ Casas: Al Ahli 54% · NoTime 46%
 🔎 **Claves**  
 • Elo: Al Ahli 1518 (14 series) | NoTime 1550 (18 series)  
 • Forma: Al Ahli ✅✅✅❌✅ | NoTime ❌✅✅✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Phantom Academy vs OldBoys FR — 18/11 · 21:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Phantom Academy** @ **1.86** (Thunderpick) · prob 52% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.004 partidos)  
+Mapa: Phantom Academy 54% · Serie BO1: Phantom Academy 54% - 46% OldBoys FR  
+Casas: Phantom Academy 49% · OldBoys FR 51%  
+🔎 **Claves**  
+• Elo: Phantom Academy 1603 (106 series) | OldBoys FR 1575 (59 series)  
+• Forma: Phantom Academy ✅✅❌✅✅ | OldBoys FR ❌✅❌✅✅  
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
