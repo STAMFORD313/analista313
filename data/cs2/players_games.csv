@@ -34934,3 +34934,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193575,134007,nexus-vs-iberian-soul-18-11-2026,2026-11-18T10:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,326,19100,Nexus,Iberian Soul,1,de_anubis,326,13.0,8.0
 193083,133484,betclic-apogee-esports-vs-big-18-11-2026,2026-11-18T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,11101,756,Betclic,BIG,2,de_mirage,756,25.0,23.0
 193084,133484,betclic-apogee-esports-vs-big-18-11-2026,2026-11-18T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,11101,756,Betclic,BIG,1,de_ancient,756,13.0,9.0
+192908,133399,ex-rustec-vs-mouz-nxt-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,1455,ex-RUSTEC,MOUZ NXT,2,de_anubis,24857,13.0,9.0
+192909,133399,ex-rustec-vs-mouz-nxt-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,1455,ex-RUSTEC,MOUZ NXT,1,de_nuke,24857,13.0,11.0
+193390,133864,tpudcatb-tpu-vs-spirit-academy-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,1309,33,Spirit Academy,2,de_nuke,22191,13.0,6.0
+193391,133864,tpudcatb-tpu-vs-spirit-academy-18-11-2026,2026-11-18T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,1309,33,Spirit Academy,1,de_mirage,22191,13.0,9.0
