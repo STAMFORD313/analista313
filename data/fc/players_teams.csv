@@ -72579,14 +72579,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2387281,262431,Nottm Forest,Newcastle,,
 2387292,262431,Newcastle,Brighton,,
 2387283,262431,Nottm Forest,Aston Villa,,
-2385672,262370,Juventus,Sporting CP,3,1
-2385673,262370,Arsenal,Man City,1,1
-2385674,262370,Man City,Juventus,2,1
-2385675,262370,Sporting CP,B Dortmund,3,1
-2385676,262370,B Dortmund,Man City,3,2
-2385677,262370,Juventus,Arsenal,2,1
-2385678,262370,Arsenal,B Dortmund,1,3
-2385679,262370,Man City,Sporting CP,2,2
+2385672,262370,Juventus,Sporting CP,3.0,1.0
+2385673,262370,Arsenal,Man City,1.0,1.0
+2385674,262370,Man City,Juventus,2.0,1.0
+2385675,262370,Sporting CP,B Dortmund,3.0,1.0
+2385676,262370,B Dortmund,Man City,3.0,2.0
+2385677,262370,Juventus,Arsenal,2.0,1.0
+2385678,262370,Arsenal,B Dortmund,1.0,3.0
+2385679,262370,Man City,Sporting CP,2.0,2.0
 2385680,262370,Sporting CP,Arsenal,,
 2385681,262370,B Dortmund,Juventus,,
 2385682,262370,Sporting CP,Juventus,,
@@ -72599,14 +72599,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2385689,262370,Sporting CP,Man City,,
 2385690,262370,Arsenal,Sporting CP,,
 2385691,262370,Juventus,B Dortmund,,
-2385752,262388,Athletic Club,Villarreal,0,1
-2386958,262388,Real Madrid,Barcelona,1,1
-2385754,262388,Barcelona,Athletic Club,2,2
-2385755,262388,Villarreal,Atleti,4,1
-2385756,262388,Atleti,Barcelona,1,2
-2386959,262388,Athletic Club,Real Madrid,0,1
-2386960,262388,Real Madrid,Atleti,0,0
-2385759,262388,Barcelona,Villarreal,0,0
+2385752,262388,Athletic Club,Villarreal,0.0,1.0
+2386958,262388,Real Madrid,Barcelona,1.0,1.0
+2385754,262388,Barcelona,Athletic Club,2.0,2.0
+2385755,262388,Villarreal,Atleti,4.0,1.0
+2385756,262388,Atleti,Barcelona,1.0,2.0
+2386959,262388,Athletic Club,Real Madrid,0.0,1.0
+2386960,262388,Real Madrid,Atleti,0.0,0.0
+2385759,262388,Barcelona,Villarreal,0.0,0.0
 2386961,262388,Villarreal,Real Madrid,,
 2385761,262388,Atleti,Athletic Club,,
 2385762,262388,Villarreal,Athletic Club,,
@@ -72619,13 +72619,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2385769,262388,Villarreal,Barcelona,,
 2386965,262388,Real Madrid,Villarreal,,
 2385771,262388,Athletic Club,Atleti,,
-2385912,262392,Chengdu Rongcheng,Shanghai Shenhua,2,3
-2385913,262392,Shandong Taishan,Shanghai Port,0,1
-2385914,262392,Shanghai Port,Chengdu Rongcheng,1,1
-2385915,262392,Shanghai Shenhua,Beijing Guoan,3,1
-2385916,262392,Beijing Guoan,Shanghai Port,0,3
-2385917,262392,Chengdu Rongcheng,Shandong Taishan,1,1
-2385918,262392,Shandong Taishan,Beijing Guoan,0,2
-2385919,262392,Shanghai Port,Shanghai Shenhua,2,2
+2385912,262392,Chengdu Rongcheng,Shanghai Shenhua,2.0,3.0
+2385913,262392,Shandong Taishan,Shanghai Port,0.0,1.0
+2385914,262392,Shanghai Port,Chengdu Rongcheng,1.0,1.0
+2385915,262392,Shanghai Shenhua,Beijing Guoan,3.0,1.0
+2385916,262392,Beijing Guoan,Shanghai Port,0.0,3.0
+2385917,262392,Chengdu Rongcheng,Shandong Taishan,1.0,1.0
+2385918,262392,Shandong Taishan,Beijing Guoan,0.0,2.0
+2385919,262392,Shanghai Port,Shanghai Shenhua,2.0,2.0
 2385920,262392,Shanghai Shenhua,Shandong Taishan,,
 2385921,262392,Beijing Guoan,Chengdu Rongcheng,,

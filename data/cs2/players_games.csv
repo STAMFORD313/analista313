@@ -34932,3 +34932,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193584,134010,envyus-vs-metizport-17-11-2026,2026-11-17T19:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,781,1578,Envy,Metizport,1,de_cache,781,13.0,8.0
 193388,133863,nice-try-cs2-vs-ex-rustec-18-11-2026,2026-11-18T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25265,24857,NT,ex-RUSTEC,1,de_anubis,25265,13.0,7.0
 193575,134007,nexus-vs-iberian-soul-18-11-2026,2026-11-18T10:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,326,19100,Nexus,Iberian Soul,1,de_anubis,326,13.0,8.0
+193083,133484,betclic-apogee-esports-vs-big-18-11-2026,2026-11-18T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,11101,756,Betclic,BIG,2,de_mirage,756,25.0,23.0
+193084,133484,betclic-apogee-esports-vs-big-18-11-2026,2026-11-18T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,11101,756,Betclic,BIG,1,de_ancient,756,13.0,9.0
