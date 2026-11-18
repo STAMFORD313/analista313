@@ -34954,3 +34954,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193578,134008,sinners-vs-alliance-cs-18-11-2026,2026-11-18T16:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,200,8221,SINNERS,Alliance,1,de_inferno,8221,13.0,11.0
 193089,133486,inner-circle-esports-vs-sangal-18-11-2026,2026-11-18T16:40:00.000+00:00,a,3,6132,Stake Ranked Episode 6,19186,36,Inner Circle,Sangal,2,de_ancient,36,13.0,9.0
 193090,133486,inner-circle-esports-vs-sangal-18-11-2026,2026-11-18T16:40:00.000+00:00,a,3,6132,Stake Ranked Episode 6,19186,36,Inner Circle,Sangal,1,de_cache,36,13.0,10.0
+192913,133401,l-g-vs-walczaki-18-11-2026,2026-11-18T18:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5933,23286,Leo,Walczaki,3,de_ancient,5933,13.0,2.0
+192914,133401,l-g-vs-walczaki-18-11-2026,2026-11-18T18:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5933,23286,Leo,Walczaki,2,de_dust2,5933,13.0,8.0
+192915,133401,l-g-vs-walczaki-18-11-2026,2026-11-18T18:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5933,23286,Leo,Walczaki,1,de_anubis,23286,13.0,5.0
+193087,133485,nip-vs-luminosity-cs-go-18-11-2026,2026-11-18T19:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,785,Luminosity,Ninjas in Pyjamas,1,de_mirage,776,13.0,7.0
