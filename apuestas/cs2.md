@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 04:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 04:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs PCIFIC — 18/11 · 10:00
 
@@ -325,4 +325,24 @@ Casas: WBT 76% · MOUZ NXT 24%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • WBT gana 2-1: 25% → cuota justa 4.01 · casa 27%  
 • MOUZ NXT gana 2-1: 15% → cuota justa 6.87 · casa 12%  
+
+## SINQU vs HAVU — 19/11 · 16:30
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana HAVU** @ **1.12** (Thunderpick) · prob 75% vs casas 82% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.006 partidos)  
+Mapa: SINQU 37% · Serie BO3: SINQU 31% - 69% HAVU  
+Casas: SINQU 18% · HAVU 82%  
+🔎 **Claves**  
+• Elo: SINQU 1466 (77 series) | HAVU 1605 (379 series)  
+• Forma: SINQU ✅✅✅✅✅ | HAVU ✅✅✅✅❌  
+• H2H: 1: 0-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• SINQU gana 2-1: 15% → cuota justa 6.73  
+• HAVU gana 2-1: 25% → cuota justa 4.01  
 
