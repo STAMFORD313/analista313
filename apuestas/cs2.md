@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FORZE Reload vs G2 Ares — 18/11 · 12:30
-
-👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana G2 Ares** @ **3.50** (Thunderpick) · prob 27% vs casas 26% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.941 partidos)  
-Mapa: FORZE Reload 65% · Serie BO3: FORZE Reload 72% - 28% G2 Ares  
-Casas: FORZE Reload 74% · G2 Ares 26%  
-🔎 **Claves**  
-• Elo: FORZE Reload 1779 (359 series) | G2 Ares 1612 (300 series)  
-• Forma: FORZE Reload ❌✅❌✅✅ | G2 Ares ❌❌❌✅✅  
-• H2H: 2: 2-0  
-• Torneo: European Pro League Series 10 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• FORZE Reload gana 2-1: 25% → cuota justa 4.04 · casa 26%  
-• G2 Ares gana 2-1: 13% → cuota justa 7.54 · casa 13%  
+Actualizado 18/11/2026 12:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The Chosen Few vs Vitality Academy — 18/11 · 18:00
 

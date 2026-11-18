@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 18/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 18/11/2026 12:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Notre Dame Fighting Irish vs Rutgers Scarlet Knights — 18/11 · 20:00
 
