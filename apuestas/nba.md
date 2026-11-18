@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 18/11/2026 23:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## West Virginia Mountaineers vs Kansas Jayhawks — 19/11 · 01:30
 

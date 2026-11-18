@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 18/11/2026 23:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Inner Circle x Insanity vs Allied — 20/11 · 11:00
 
@@ -45,4 +45,48 @@ Casas: Inner Circle x Insanity 62% · Allied 38%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Inner Circle x Insanity gana 2-1: 25% → cuota justa 4.01 · casa 24%  
 • Allied gana 2-1: 12% → cuota justa 8.21 · casa 17%  
+
+## Team Spirit vs Team Nemesis — 20/11 · 12:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana Team Spirit** @ **1.02** (Thunderpick) · prob 94% vs casas 92% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: Team Spirit 84% · Serie BO3: Team Spirit 95% - 5% Team Nemesis  
+Casas: Team Spirit 92% · Team Nemesis 8%  
+🔎 **Claves**  
+• Elo: Team Spirit 2212 (361 series) | Team Nemesis 1832 (132 series)  
+• Forma: Team Spirit ❌✅✅✅❌ | Team Nemesis ❌❌❌✅❌  
+• H2H: 2: 2-0  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Spirit: Larl 4.8, Batyuk 4.5 | Team Nemesis: Jabz 3.8, Jackky 3.1  
+• Química de la plantilla: Team Spirit: 244 partidas juntos de media | Team Nemesis: 119 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Spirit gana 2-1: 18% → cuota justa 5.44 · casa 16%  
+• Team Nemesis gana 2-1: 4% → cuota justa 28.03  
+
+## Team Yandex vs PlayTime — 20/11 · 12:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana Team Yandex** @ **1.01** (Thunderpick) · prob 93% vs casas 92% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: Team Yandex 87% · Serie BO3: Team Yandex 93% - 7% PlayTime  
+Casas: Team Yandex 93% · PlayTime 7%  
+🔎 **Claves**  
+• Elo: Team Yandex 2211 (167 series) | PlayTime 1761 (65 series)  
+• Forma: Team Yandex ✅✅✅✅❌ | PlayTime ❌❌✅✅❌  
+• H2H: sin precedentes  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Yandex: watson 3.5, Chira JUNIOR 2.4 | PlayTime: Xibbe 4.6, No!ob 4.5  
+• Química de la plantilla: Team Yandex: 232 partidas juntos de media | PlayTime: 45 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Yandex gana 2-1: 15% → cuota justa 6.54 · casa 13%  
+• PlayTime gana 2-1: 2% → cuota justa 45.49  
 

@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 18/11/2026 23:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Remo vs Chapecoense-SC — 19/11 · 00:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Remo** @ **1.53** (Bet365) · prob 60% vs casas 60% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.87)  
-1 53% · X 26% · 2 21%  
-1X 79% · X2 47% · 12 74%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 47%  
-Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Remo ➖➖❌✅❌ | Chapecoense-SC ❌✅❌❌❌  
-• H2H: 1 desde 2026: 1V-0E-0D · 5.0 goles/partido · +2.5 en 100%  
-• Bajas: Remo: 0 fuera, 2 duda; Chapecoense-SC: 0 fuera, 2 duda  
-• Favorito de las casas: Remo @ 1.53  
+Actualizado 19/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cruzeiro vs Palmeiras — 19/11 · 00:30
 

@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 18/11/2026 23:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
