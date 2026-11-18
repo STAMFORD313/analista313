@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 18/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Florida Gators vs Houston Cougars — 18/11 · 22:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 151.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **149.8** puntos · línea 151.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Florida Gators ✅✅✅✅✅ | Houston Cougars ❌✅✅✅✅  
-• H2H: 1 desde 2025: 1-0  
-• Bajas: Florida Gators: sin bajas; Houston Cougars: sin bajas  
-
-## Florida Gators vs Houston Cougars — 18/11 · 22:30
-
-👀 candidata · 🏀 NCAA Basketball · **Florida Gators -1.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Florida Gators cubre -1.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Florida Gators ✅✅✅✅✅ | Houston Cougars ❌✅✅✅✅  
-• H2H: 1 desde 2025: 1-0  
-• Bajas: Florida Gators: sin bajas; Houston Cougars: sin bajas  
-
-## Florida Gators vs Houston Cougars — 18/11 · 22:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Florida Gators** @ **1.74** (DraftKings) · prob 55% vs casas 55% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 61.747 partidos y bajas)  
-Gana Florida Gators 72% · Gana Houston Cougars 28%  
-Casas: Florida Gators 55% · Houston Cougars 45%  
-Hándicap FLA -1.5 · Total puntos 151.5  
-🔎 **Claves**  
-• Forma: Florida Gators ✅✅✅✅✅ | Houston Cougars ❌✅✅✅✅  
-• H2H: 1 desde 2025: 1-0  
-• Bajas: Florida Gators: sin bajas; Houston Cougars: sin bajas  
-• Favorito de las casas: Florida Gators @ 1.74  
+Actualizado 18/11/2026 22:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## West Virginia Mountaineers vs Kansas Jayhawks — 19/11 · 01:30
 
