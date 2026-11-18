@@ -72629,16 +72629,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2385919,262392,Shanghai Port,Shanghai Shenhua,2.0,2.0
 2385920,262392,Shanghai Shenhua,Shandong Taishan,,
 2385921,262392,Beijing Guoan,Chengdu Rongcheng,,
-2385992,262354,Bayern Munchen,Liverpool,2,3
-2385993,262354,Atleti,Real Madrid,2,1
-2385994,262354,Real Madrid,Bayern Munchen,1,3
-2385995,262354,Liverpool,Paris,2,1
-2385996,262354,Paris,Real Madrid,0,0
-2385997,262354,Bayern Munchen,Atleti,1,2
-2385998,262354,Atleti,Paris,0,3
-2385999,262354,Real Madrid,Liverpool,4,1
-2386000,262354,Liverpool,Atleti,1,1
-2386001,262354,Paris,Bayern Munchen,2,1
+2385992,262354,Bayern Munchen,Liverpool,2.0,3.0
+2385993,262354,Atleti,Real Madrid,2.0,1.0
+2385994,262354,Real Madrid,Bayern Munchen,1.0,3.0
+2385995,262354,Liverpool,Paris,2.0,1.0
+2385996,262354,Paris,Real Madrid,0.0,0.0
+2385997,262354,Bayern Munchen,Atleti,1.0,2.0
+2385998,262354,Atleti,Paris,0.0,3.0
+2385999,262354,Real Madrid,Liverpool,4.0,1.0
+2386000,262354,Liverpool,Atleti,1.0,1.0
+2386001,262354,Paris,Bayern Munchen,2.0,1.0
 2386002,262354,Liverpool,Bayern Munchen,,
 2386003,262354,Real Madrid,Atleti,,
 2386004,262354,Bayern Munchen,Real Madrid,,
@@ -72649,14 +72649,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2386009,262354,Liverpool,Real Madrid,,
 2386010,262354,Atleti,Liverpool,,
 2386011,262354,Bayern Munchen,Paris,,
-2385922,262393,PSV,Ajax,3,2
-2385923,262393,Feyenoord,Twente,1,0
-2385924,262393,Twente,PSV,2,4
-2385925,262393,Ajax,AZ Alkmaar,0,3
-2385926,262393,AZ Alkmaar,Twente,0,2
-2385927,262393,PSV,Feyenoord,1,2
-2385928,262393,Feyenoord,AZ Alkmaar,0,0
-2385929,262393,Twente,Ajax,1,1
+2385922,262393,PSV,Ajax,3.0,2.0
+2385923,262393,Feyenoord,Twente,1.0,0.0
+2385924,262393,Twente,PSV,2.0,4.0
+2385925,262393,Ajax,AZ Alkmaar,0.0,3.0
+2385926,262393,AZ Alkmaar,Twente,0.0,2.0
+2385927,262393,PSV,Feyenoord,1.0,2.0
+2385928,262393,Feyenoord,AZ Alkmaar,0.0,0.0
+2385929,262393,Twente,Ajax,1.0,1.0
 2385930,262393,Ajax,Feyenoord,,
 2385931,262393,AZ Alkmaar,PSV,,
 2385932,262393,Ajax,PSV,,
@@ -72669,9 +72669,9 @@ id,tournament_id,club1,club2,ht1,ht2
 2385939,262393,Ajax,Twente,,
 2385940,262393,Feyenoord,Ajax,,
 2385941,262393,PSV,AZ Alkmaar,,
-2386605,262416,France,England,2,1
-2386607,262416,Argentina,Spain,2,2
-2386608,262416,Spain,England,1,2
+2386605,262416,France,England,2.0,1.0
+2386607,262416,Argentina,Spain,2.0,2.0
+2386608,262416,Spain,England,1.0,2.0
 2386610,262416,France,Spain,,
 2386611,262416,England,Argentina,,
 2386612,262416,Argentina,France,,
@@ -72681,3 +72681,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2386620,262416,Spain,France,,
 2386621,262416,Argentina,England,,
 2386622,262416,France,Argentina,,
+2386794,262421,Bologna,Roma,3,1
+2386795,262421,Napoli,Sassuolo,2,1
+2386796,262421,Sassuolo,Bologna,1,3
+2386797,262421,Roma,Juventus,4,1
+2386798,262421,Juventus,Sassuolo,1,2
+2386799,262421,Bologna,Napoli,0,3
+2386800,262421,Napoli,Juventus,1,0
+2386801,262421,Sassuolo,Roma,2,2
+2386802,262421,Roma,Napoli,,
+2386803,262421,Juventus,Bologna,,
+2386804,262421,Roma,Bologna,,
+2386805,262421,Sassuolo,Napoli,,
+2386806,262421,Bologna,Sassuolo,,
+2386807,262421,Juventus,Roma,,
+2386808,262421,Sassuolo,Juventus,,
+2386809,262421,Napoli,Bologna,,
+2386810,262421,Juventus,Napoli,,
+2386811,262421,Roma,Sassuolo,,
+2386812,262421,Napoli,Roma,,
+2386813,262421,Bologna,Juventus,,
