@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 11:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 12:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## WBT vs MOUZ NXT — 19/11 · 12:30
 
