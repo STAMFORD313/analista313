@@ -2980,15 +2980,17 @@
     "away": "Real Potosi",
     "txt": "Gana Real Potosi",
     "odds": 2.65,
-    "p": 0.4221
+    "p": 0.4221,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 7.0,
   "p": 0.17274020399999995,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261116202653485478",
