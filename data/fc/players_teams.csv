@@ -73699,3 +73699,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2388282,262530,Spain,England,0.0,3.0
 2388283,262530,France,Spain,,
 2388284,262530,Argentina,Brazil,,
+2387373,262466,Juventus,Bologna,0,3
+2387374,262466,Napoli,Roma,0,1
+2387375,262466,Roma,Juventus,4,2
+2387376,262466,Bologna,Sassuolo,1,1
+2387377,262466,Sassuolo,Roma,1,2
+2387378,262466,Juventus,Napoli,1,4
+2387379,262466,Napoli,Sassuolo,3,1
+2387380,262466,Roma,Bologna,1,2
+2387381,262466,Bologna,Napoli,2,0
+2387382,262466,Sassuolo,Juventus,4,7
+2387383,262466,Bologna,Juventus,2,0
+2387384,262466,Roma,Napoli,1,0
+2387385,262466,Juventus,Roma,,
+2387386,262466,Sassuolo,Bologna,,
+2387387,262466,Roma,Sassuolo,,
+2387388,262466,Napoli,Juventus,,
+2387389,262466,Sassuolo,Napoli,,
+2387390,262466,Bologna,Roma,,
+2387391,262466,Napoli,Bologna,,
+2387392,262466,Juventus,Sassuolo,,
+2388625,262537,Atleti,Paris,2,2
+2388626,262537,Real Madrid,Liverpool,4,1
+2388627,262537,Liverpool,Atleti,4,1
+2388628,262537,Paris,Bayern Munchen,2,6
+2388629,262537,Bayern Munchen,Liverpool,0,2
+2388630,262537,Atleti,Real Madrid,3,2
+2388631,262537,Real Madrid,Bayern Munchen,3,1
+2388632,262537,Liverpool,Paris,3,0
+2388633,262537,Paris,Real Madrid,,
+2388634,262537,Bayern Munchen,Atleti,,
