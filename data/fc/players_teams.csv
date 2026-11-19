@@ -73251,10 +73251,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2386988,262386,Atleti,Liverpool,,
 2386989,262386,Paris,Atleti,,
 2385831,262386,Real Madrid,Bayern Munchen,,
-2386184,262398,Atleti,Real Madrid,0,3
-2386185,262398,Atleti,Barcelona,2,2
-2386186,262398,Real Madrid,Barcelona,2,2
-2386187,262398,Real Madrid,Atleti,2,3
+2386184,262398,Atleti,Real Madrid,0.0,3.0
+2386185,262398,Atleti,Barcelona,2.0,2.0
+2386186,262398,Real Madrid,Barcelona,2.0,2.0
+2386187,262398,Real Madrid,Atleti,2.0,3.0
 2386188,262398,Barcelona,Atleti,,
 2386189,262398,Barcelona,Real Madrid,,
 2386190,262398,Atleti,Real Madrid,,
