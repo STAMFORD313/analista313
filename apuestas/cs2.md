@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 07:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 07:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
@@ -432,4 +432,21 @@ Casas: WBT 33% · Phantom 67%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
 WBT: s4ltovsk1yy 35 (20-51) · tyr1k 33 (19-49) · DemQQ 33 (19-48) · Smash 32 (18-47) · Psycho 31 (17-46)  
 Phantom: nicoodoz 40 (23-58) · KEi 36 (20-53) · Kunai 35 (20-51) · Kylar 34 (20-51) · TMB 31 (18-46)  
+
+## Rcave vs Glitchtech — 20/11 · 19:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Glitchtech** @ **1.52** (Thunderpick) · prob 64% vs casas 61% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.050 partidos)  
+Mapa: Rcave 33% · Serie BO1: Rcave 33% - 67% Glitchtech  
+Casas: Rcave 39% · Glitchtech 61%  
+🔎 **Claves**  
+• Elo: Rcave 1236 (19 series) | Glitchtech 1358 (64 series)  
+• Forma: Rcave ❌❌❌❌❌ | Glitchtech ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
