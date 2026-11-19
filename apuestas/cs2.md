@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 00:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
@@ -42,6 +42,23 @@ Casas: WBT 76% · MOUZ NXT 24%
 • WBT gana 2-1: 25% → cuota justa 4.01 · casa 27%  
 • MOUZ NXT gana 2-1: 15% → cuota justa 6.87 · casa 12%  
 
+## Falcons Force vs Young TigeRES — 19/11 · 16:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **1.72** (Thunderpick) · prob 57% vs casas 54% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Falcons Force 39% · Serie BO1: Falcons Force 39% - 61% Young TigeRES  
+Casas: Falcons Force 46% · Young TigeRES 54%  
+🔎 **Claves**  
+• Elo: Falcons Force 1579 (141 series) | Young TigeRES 1657 (74 series)  
+• Forma: Falcons Force ✅❌❌✅❌ | Young TigeRES ❌❌✅❌✅  
+• H2H: 1: 0-1  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## SINQU vs HAVU — 19/11 · 16:30
 
 👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana HAVU** @ **1.12** (Thunderpick) · prob 75% vs casas 82% · ventaja -16%
@@ -61,6 +78,57 @@ Casas: SINQU 18% · HAVU 82%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • SINQU gana 2-1: 15% → cuota justa 6.73  
 • HAVU gana 2-1: 25% → cuota justa 4.01  
+
+## ROUNDS vs ZOTIX — 19/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana ROUNDS** @ **2.62** (Thunderpick) · prob 37% vs casas 35% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: ROUNDS 40% · Serie BO1: ROUNDS 40% - 60% ZOTIX  
+Casas: ROUNDS 35% · ZOTIX 65%  
+🔎 **Claves**  
+• Elo: ROUNDS 1417 (190 series) | ZOTIX 1491 (95 series)  
+• Forma: ROUNDS ✅❌✅✅❌ | ZOTIX ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Falcons Force vs Al Ahli — 19/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Falcons Force** @ **1.58** (Thunderpick) · prob 62% vs casas 58% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Falcons Force 66% · Serie BO1: Falcons Force 66% - 34% Al Ahli  
+Casas: Falcons Force 58% · Al Ahli 42%  
+🔎 **Claves**  
+• Elo: Falcons Force 1579 (141 series) | Al Ahli 1466 (16 series)  
+• Forma: Falcons Force ✅❌❌✅❌ | Al Ahli ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## LPH vs The Chosen Few — 19/11 · 18:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana The Chosen Few** @ **2.30** (Thunderpick) · prob 43% vs casas 40% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: LPH 54% · Serie BO1: LPH 54% - 46% The Chosen Few  
+Casas: LPH 60% · The Chosen Few 40%  
+🔎 **Claves**  
+• Elo: LPH 1462 (147 series) | The Chosen Few 1433 (95 series)  
+• Forma: LPH ❌❌❌❌✅ | The Chosen Few ✅❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
 ## Banger Gang vs NoTime — 19/11 · 19:00
 
@@ -98,6 +166,108 @@ Casas: Drama 50% · megoshort 50%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Drama gana 2-1: 23% → cuota justa 4.39 · casa 23%  
 • megoshort gana 2-1: 21% → cuota justa 4.72 · casa 23%  
+
+## Y23 vs XI — 19/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Y23** @ **1.99** (Thunderpick) · prob 48% vs casas 46% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Y23 49% · Serie BO1: Y23 49% - 51% XI  
+Casas: Y23 46% · XI 54%  
+🔎 **Claves**  
+• Elo: Y23 1556 (6 series) | XI 1561 (416 series)  
+• Forma: Y23 ❌✅✅✅❌ | XI ✅❌✅✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## 99firepower 1utility vs Falcons Force — 19/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana 99firepower 1utility** @ **3.35** (Thunderpick) · prob 38% vs casas 28% · ventaja +27%
+
+- ✅ Valor: ventaja +27% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: 99firepower 1utility 48% · Serie BO1: 99firepower 1utility 48% - 52% Falcons Force  
+Casas: 99firepower 1utility 27% · Falcons Force 73%  
+🔎 **Claves**  
+• Elo: 99firepower 1utility 1566 (10 series) | Falcons Force 1579 (141 series)  
+• Forma: 99firepower 1utility ✅✅✅✅❌ | Falcons Force ✅❌❌✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Xcity vs Spirit Academy Green — 19/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Xcity** @ **2.10** (Thunderpick) · prob 48% vs casas 44% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Xcity 52% · Serie BO1: Xcity 52% - 48% Spirit Academy Green  
+Casas: Xcity 44% · Spirit Academy Green 56%  
+🔎 **Claves**  
+• Elo: Xcity 1527 (13 series) | Spirit Academy Green 1514 (39 series)  
+• Forma: Xcity ✅❌❌✅✅ | Spirit Academy Green ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## SINQU vs XI — 19/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana XI** @ **1.50** (Thunderpick) · prob 63% vs casas 61% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: SINQU 35% · Serie BO1: SINQU 35% - 65% XI  
+Casas: SINQU 39% · XI 61%  
+🔎 **Claves**  
+• Elo: SINQU 1457 (78 series) | XI 1561 (416 series)  
+• Forma: SINQU ✅✅✅✅❌ | XI ✅❌✅✅❌  
+• H2H: 1: 0-1  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Fortress vs aimers — 19/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana aimers** @ **1.45** (Thunderpick) · prob 66% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Fortress 31% · Serie BO1: Fortress 31% - 69% aimers  
+Casas: Fortress 36% · aimers 64%  
+🔎 **Claves**  
+• Elo: Fortress 1317 (76 series) | aimers 1454 (8 series)  
+• Forma: Fortress ❌❌✅✅❌ | aimers ✅❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Glitchtech vs Growth Lab Esports — 19/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Growth Lab Esports** @ **2.17** (Thunderpick) · prob 43% vs casas 42% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Glitchtech 56% · Serie BO1: Glitchtech 56% - 44% Growth Lab Esports  
+Casas: Glitchtech 58% · Growth Lab Esports 42%  
+🔎 **Claves**  
+• Elo: Glitchtech 1358 (64 series) | Growth Lab Esports 1318 (4 series)  
+• Forma: Glitchtech ❌❌❌❌✅ | Growth Lab Esports ❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
 ## MEIA NOITE vs RUSH — 20/11 · 00:45
 
@@ -138,4 +308,56 @@ Casas: Balkan Outlaws 28% · FORZE Reload 72%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Balkan Outlaws gana 2-1: 14% → cuota justa 7.34 · casa 13%  
 • FORZE Reload gana 2-1: 25% → cuota justa 4.03 · casa 28%  
+
+## Iberian Soul vs Butterfly — 20/11 · 13:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Iberian Soul** @ **1.88** (Thunderpick) · prob 57% vs casas 49% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Iberian Soul 53% · Serie BO3: Iberian Soul 64% - 36% Butterfly  
+Casas: Iberian Soul 49% · Butterfly 51%  
+🔎 **Claves**  
+• Elo: Iberian Soul 1767 (139 series) | Butterfly 1731 (51 series)  
+• Forma: Iberian Soul ✅✅❌❌❌ | Butterfly ✅❌❌✅✅  
+• H2H: 1: 1-0  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Iberian Soul: alex 6.1, mopoz 6.0 | Butterfly: nitzie 6.7, Kuruma 6.4  
+• Mapas (último año): Iberian Soul: fuerte inferno 78%, débil ancient 33% | Butterfly: fuerte mirage 69%, débil inferno 20%  
+• Química de la plantilla: Iberian Soul: 259 mapas juntos de media | Butterfly: 54 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Iberian Soul gana 2-1: 23% → cuota justa 4.28 · casa 25%  
+• Butterfly gana 2-1: 20% → cuota justa 4.91 · casa 23%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
+Iberian Soul: sausol 35 (20-52) · mopoz 35 (20-51) · alex 33 (19-49) · dav1g 33 (19-49) · Ag1l 33 (19-48)  
+Butterfly: nitzie 39 (22-57) · Kuruma 35 (20-52) · Krad 34 (20-51) · ayano 33 (19-48) · Qioke 31 (18-46)  
+
+## Iberian Soul vs Butterfly — 20/11 · 13:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Iberian Soul -1.5 mapas** @ **3.80** (Thunderpick) · prob 28% vs casas 24% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
+Mapa: Iberian Soul 53% · Serie BO3: Iberian Soul 64% - 36% Butterfly  
+Casas: Iberian Soul 49% · Butterfly 51%  
+🔎 **Claves**  
+• Elo: Iberian Soul 1767 (139 series) | Butterfly 1731 (51 series)  
+• Forma: Iberian Soul ✅✅❌❌❌ | Butterfly ✅❌❌✅✅  
+• H2H: 1: 1-0  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Iberian Soul: alex 6.1, mopoz 6.0 | Butterfly: nitzie 6.7, Kuruma 6.4  
+• Mapas (último año): Iberian Soul: fuerte inferno 78%, débil ancient 33% | Butterfly: fuerte mirage 69%, débil inferno 20%  
+• Química de la plantilla: Iberian Soul: 259 mapas juntos de media | Butterfly: 54 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Iberian Soul gana 2-1: 23% → cuota justa 4.28 · casa 25%  
+• Butterfly gana 2-1: 20% → cuota justa 4.91 · casa 23%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
+Iberian Soul: sausol 35 (20-52) · mopoz 35 (20-51) · alex 33 (19-49) · dav1g 33 (19-49) · Ag1l 33 (19-48)  
+Butterfly: nitzie 39 (22-57) · Kuruma 35 (20-52) · Krad 34 (20-51) · ayano 33 (19-48) · Qioke 31 (18-46)  
 
