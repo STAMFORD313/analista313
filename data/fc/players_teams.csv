@@ -73339,3 +73339,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2386996,262387,Bologna,Roma,,
 2386997,262387,Napoli,Bologna,,
 2385851,262387,Juventus,Sassuolo,,
+2387293,262458,Ghana,Mexico,1,2
+2387294,262458,Denmark,Sweden,2,1
+2387295,262458,Sweden,Ghana,3,2
+2387296,262458,Mexico,USA,1,1
+2387297,262458,USA,Sweden,2,1
+2387298,262458,Ghana,Denmark,3,1
+2387299,262458,Denmark,USA,2,0
+2387300,262458,Sweden,Mexico,2,5
+2387301,262458,Mexico,Denmark,0,1
+2387302,262458,USA,Ghana,2,3
+2387303,262458,Mexico,Ghana,2,3
+2387304,262458,Sweden,Denmark,2,3
+2387305,262458,Ghana,Sweden,,
+2387306,262458,USA,Mexico,,
+2387307,262458,Sweden,USA,,
+2387308,262458,Denmark,Ghana,,
+2387309,262458,USA,Denmark,,
+2387310,262458,Mexico,Sweden,,
+2387311,262458,Denmark,Mexico,,
+2387312,262458,Ghana,USA,,
+2388586,262533,Tottenham,Man City,2,4
+2388587,262533,Man City,Liverpool,3,1
+2388588,262533,Chelsea,Arsenal,4,2
+2388589,262533,Arsenal,Man City,2,0
+2388590,262533,Liverpool,Tottenham,1,2
+2388591,262533,Tottenham,Arsenal,,
+2388592,262533,Man City,Chelsea,,
+2388593,262533,Chelsea,Tottenham,,
+2388594,262533,Arsenal,Liverpool,,
+2388595,262533,Chelsea,Liverpool,,
+2388596,262533,Man City,Tottenham,,
+2388597,262533,Liverpool,Man City,,
+2388598,262533,Arsenal,Chelsea,,
+2388599,262533,Man City,Arsenal,,
+2388600,262533,Tottenham,Liverpool,,
+2388601,262533,Arsenal,Tottenham,,
+2388602,262533,Chelsea,Man City,,
+2388603,262533,Tottenham,Chelsea,,
+2388604,262533,Liverpool,Arsenal,,
+2388585,262533,Liverpool,Chelsea,,
