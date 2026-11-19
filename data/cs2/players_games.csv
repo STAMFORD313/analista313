@@ -34960,3 +34960,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193087,133485,nip-vs-luminosity-cs-go-18-11-2026,2026-11-18T19:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,785,Luminosity,Ninjas in Pyjamas,1,de_mirage,776,13.0,7.0
 193589,134012,bbl-vs-envyus-18-11-2026,2026-11-18T19:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,25251,781,BBL,Envy,2,de_nuke,25251,13.0,5.0
 193590,134012,bbl-vs-envyus-18-11-2026,2026-11-18T19:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,25251,781,BBL,Envy,1,de_ancient,781,22.0,18.0
+192917,133402,tpudcatb-tpu-vs-ex-rustec-19-11-2026,2026-11-19T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,22191,24857,33,ex-RUSTEC,2,de_nuke,24857,13.0,5.0
+192918,133402,tpudcatb-tpu-vs-ex-rustec-19-11-2026,2026-11-19T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,22191,24857,33,ex-RUSTEC,1,de_anubis,22191,13.0,9.0

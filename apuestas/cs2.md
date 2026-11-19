@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 12:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## WBT vs MOUZ NXT — 19/11 · 12:30
-
-👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana MOUZ NXT** @ **3.80** (Thunderpick) · prob 28% vs casas 24% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.003 partidos)  
-Mapa: WBT 63% · Serie BO3: WBT 69% - 31% MOUZ NXT  
-Casas: WBT 76% · MOUZ NXT 24%  
-🔎 **Claves**  
-• Elo: WBT 1720 (60 series) | MOUZ NXT 1576 (610 series)  
-• Forma: WBT ❌✅❌❌✅ | MOUZ NXT ❌✅❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: European Pro League Series 10 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• WBT gana 2-1: 25% → cuota justa 4.01 · casa 27%  
-• MOUZ NXT gana 2-1: 15% → cuota justa 6.87 · casa 12%  
+Actualizado 19/11/2026 12:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Falcons Force vs Young TigeRES — 19/11 · 16:00
 
