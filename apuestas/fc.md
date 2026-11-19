@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 20:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 21:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Rodja vs borees — 19/11 · 20:52
+## Gazi vs mPm — 19/11 · 21:32
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Rodja** @ **2.70** (Unibet) · prob 40% vs casas 32% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.95** (Unibet) · prob 55% vs casas 45% · ventaja +7%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.093 partidos)  
+Goles esperados: Gazi 2.49 · mPm 3.13  
+Ganador: Gazi 28% · empate 17% · mPm 55%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap mPm: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Gazi ❌❌✅✅✅ | mPm ❌❌✅➖✅  
+• Partidos: Gazi 556 | mPm 870  
+• Liga: Copa America  
+• Unibet: 1 2.28 · X 5.25 · 2 1.95 (sin margen 38%/17%/45%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+7%) · Paf España 1.95 (+7%)  
+
+## Piljar vs Bosko — 19/11 · 21:38
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Piljar** @ **2.04** (Unibet) · prob 66% vs casas 43% · ventaja +35%
+
+- ❌ Valor: ventaja +35% (mín. 17% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.036 partidos)  
-Goles esperados: Rodja 3.06 · borees 3.05  
-Ganador: Rodja 40% · empate 21% · borees 40%  
+📊 **Escenarios** (Poisson por jugador, 74.093 partidos)  
+Goles esperados: Piljar 4.89 · Bosko 3.44  
+Ganador: Piljar 66% · empate 11% · Bosko 23%  
+Total: más de 8.5 goles 45% · menos 55%  
+Hándicap Piljar: −1.5 49% · −2.5 35%  
+🔎 **Claves**  
+• Forma: Piljar ✅➖✅❌➖ | Bosko ❌➖➖✅❌  
+• Partidos: Piljar 572 | Bosko 673  
+• Liga: Champions League B 2x6  
+• Unibet: 1 2.04 · X 5.00 · 2 2.20 (sin margen 43%/17%/40%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.04 (+35%) · Paf España 2.04 (+35%)  
+
+## mPm vs Shinobu — 19/11 · 21:44
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.79** (Unibet) · prob 64% vs casas 49% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.093 partidos)  
+Goles esperados: mPm 3.59 · Shinobu 2.49  
+Ganador: mPm 64% · empate 15% · Shinobu 21%  
 Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Rodja: −1.5 27% · −2.5 15%  
+Hándicap mPm: −1.5 43% · −2.5 28%  
 🔎 **Claves**  
-• Forma: Rodja ➖➖➖➖✅ | borees ❌✅✅➖❌  
-• Partidos: Rodja 1112 | borees 1159  
-• Liga: Europa League  
-• Unibet: 1 2.70 · X 4.90 · 2 1.76 (sin margen 32%/18%/50%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+8%) · Paf España 2.70 (+8%)  
-
-## Sena vs Mani — 19/11 · 21:07
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.00** (Unibet) · prob 21% vs casas 18% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.063 partidos)  
-Goles esperados: Sena 2.87 · Mani 2.91  
-Ganador: Sena 38% · empate 21% · Mani 41%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap Mani: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Sena ❌✅✅✅❌ | Mani ✅✅✅❌✅  
-• Partidos: Sena 835 | Mani 1027  
-• Liga: Serie A  
-• Unibet: 1 2.08 · X 5.00 · 2 2.15 (sin margen 42%/17%/41%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.00 (+6%) · Paf España 5.00 (+6%)  
-
-## Joop vs Lunjo — 19/11 · 21:10
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **5.20** (Unibet) · prob 23% vs casas 17% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.063 partidos)  
-Goles esperados: Joop 2.06 · Lunjo 2.75  
-Ganador: Joop 25% · empate 23% · Lunjo 52%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Lunjo: −1.5 35% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Joop ❌❌✅❌❌ | Lunjo ➖❌❌❌❌  
-• Partidos: Joop 275 | Lunjo 274  
-• Liga: Premier League  
-• Unibet: 1 3.05 · X 5.20 · 2 1.62 (sin margen 29%/17%/54%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+21%) · Paf España 5.20 (+21%)  
+• Forma: mPm ❌❌✅➖✅ | Shinobu ❌✅❌❌❌  
+• Partidos: mPm 870 | Shinobu 1636  
+• Liga: Copa America  
+• Unibet: 1 1.79 · X 5.80 · 2 2.45 (sin margen 49%/15%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.79 (+14%) · Paf España 1.79 (+14%)  
 
