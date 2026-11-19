@@ -3321,5 +3321,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261119190848087206",
+  "creada": "2026-11-19 19:08:48.087245+00:00",
+  "titulo": "Barrido · Combinada cuota 9.8",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-20 03:00:00+00:00",
+    "home": "Seattle Sounders",
+    "away": "Real Salt Lake",
+    "txt": "Gana Seattle Sounders",
+    "odds": 2.08,
+    "p": 0.4946
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-20 12:00:00+00:00",
+    "home": "Iberian Soul",
+    "away": "Butterfly",
+    "txt": "Gana Iberian Soul",
+    "odds": 1.88,
+    "p": 0.5466099290780141
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-20 18:00:00+00:00",
+    "home": "GenOne",
+    "away": "Leo",
+    "txt": "Gana GenOne",
+    "odds": 2.5,
+    "p": 0.4181666666666666
+   }
+  ],
+  "odds": 9.78,
+  "p": 0.11305272612387701,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
