@@ -73173,12 +73173,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2386129,262364,Man City,Boca Juniors,,
 2386130,262364,Real Madrid,Man City,,
 2386131,262364,Paris,River Plate,,
-2386894,262428,Morocco,Belgium,1,2
-2386895,262428,Portugal,Netherlands,1,1
-2386896,262428,Netherlands,Morocco,0,1
-2386897,262428,Belgium,Germany,0,0
-2386898,262428,Germany,Netherlands,2,2
-2386899,262428,Morocco,Portugal,0,2
+2386894,262428,Morocco,Belgium,1.0,2.0
+2386895,262428,Portugal,Netherlands,1.0,1.0
+2386896,262428,Netherlands,Morocco,0.0,1.0
+2386897,262428,Belgium,Germany,0.0,0.0
+2386898,262428,Germany,Netherlands,2.0,2.0
+2386899,262428,Morocco,Portugal,0.0,2.0
 2386900,262428,Portugal,Germany,,
 2386901,262428,Netherlands,Belgium,,
 2386902,262428,Belgium,Portugal,,
@@ -73193,3 +73193,21 @@ id,tournament_id,club1,club2,ht1,ht2
 2386911,262428,Belgium,Netherlands,,
 2386912,262428,Portugal,Belgium,,
 2386913,262428,Morocco,Germany,,
+2386518,262376,Arsenal,Juventus,2,2
+2386519,262376,B Dortmund,Sporting CP,0,3
+2386520,262376,B Dortmund,Arsenal,1,2
+2386521,262376,Sporting CP,Juventus,1,3
+2386522,262376,Juventus,B Dortmund,3,0
+2386523,262376,Sporting CP,Arsenal,0,1
+2386524,262376,Arsenal,Juventus,,
+2386525,262376,B Dortmund,Sporting CP,,
+2386526,262376,B Dortmund,Arsenal,,
+2386527,262376,Sporting CP,Juventus,,
+2386528,262376,Juventus,B Dortmund,,
+2386529,262376,Sporting CP,Arsenal,,
+2386530,262376,Arsenal,Juventus,,
+2386531,262376,B Dortmund,Sporting CP,,
+2386532,262376,B Dortmund,Arsenal,,
+2386533,262376,Sporting CP,Juventus,,
+2386534,262376,Juventus,B Dortmund,,
+2386535,262376,Sporting CP,Arsenal,,
