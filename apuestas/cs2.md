@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 19:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 19:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 99firepower 1utility vs Falcons Force — 19/11 · 20:00
 
