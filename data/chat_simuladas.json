@@ -2944,15 +2944,17 @@
     "away": "Gimnasia y Tiro",
     "txt": "Gana Ferro Carril Oeste",
     "odds": 1.71,
-    "p": 0.61
+    "p": 0.61,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 7.5,
   "p": 0.161139186,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261115170715425279",
