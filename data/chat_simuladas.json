@@ -2837,7 +2837,9 @@
     "away": "Atzeneta",
     "txt": "Gana Ontinyent",
     "odds": 2.12,
-    "p": 0.4847
+    "p": 0.4847,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
@@ -2856,9 +2858,9 @@
   "odds": 11.56,
   "p": 0.11044448736088887,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261115030045288719",
@@ -2883,7 +2885,9 @@
     "away": "SSD Rondinella Marzocco",
     "txt": "Gana Sasso Marconi",
     "odds": 2.48,
-    "p": 0.4718
+    "p": 0.4718,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
@@ -2902,9 +2906,9 @@
   "odds": 9.67,
   "p": 0.1348079549973333,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261115091250391341",
