@@ -1,60 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 18:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Banger Gang vs NoTime — 19/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana NoTime** @ **2.03** (Thunderpick) · prob 47% vs casas 46% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.006 partidos)  
-Mapa: Banger Gang 52% · Serie BO1: Banger Gang 52% - 48% NoTime  
-Casas: Banger Gang 54% · NoTime 46%  
-🔎 **Claves**  
-• Elo: Banger Gang 1539 (74 series) | NoTime 1526 (19 series)  
-• Forma: Banger Gang ✅❌✅❌❌ | NoTime ✅✅✅❌❌  
-• H2H: 1: 1-0  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## Drama vs megoshort — 19/11 · 19:00
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 15 Play-In · **Gana Drama** @ **1.85** (Thunderpick) · prob 51% vs casas 50% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.006 partidos)  
-Mapa: Drama 52% · Serie BO3: Drama 53% - 47% megoshort  
-Casas: Drama 50% · megoshort 50%  
-🔎 **Claves**  
-• Elo: Drama 1558 (64 series) | megoshort 1539 (190 series)  
-• Forma: Drama ❌❌❌❌❌ | megoshort ❌✅✅❌❌  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 15 Play-In (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Drama gana 2-1: 23% → cuota justa 4.39 · casa 23%  
-• megoshort gana 2-1: 21% → cuota justa 4.72 · casa 23%  
-
-## Y23 vs XI — 19/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Y23** @ **1.99** (Thunderpick) · prob 48% vs casas 46% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: Y23 49% · Serie BO1: Y23 49% - 51% XI  
-Casas: Y23 46% · XI 54%  
-🔎 **Claves**  
-• Elo: Y23 1556 (6 series) | XI 1561 (416 series)  
-• Forma: Y23 ❌✅✅✅❌ | XI ✅❌✅✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 19/11/2026 19:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 99firepower 1utility vs Falcons Force — 19/11 · 20:00
 

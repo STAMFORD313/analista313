@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 18:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 19:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Paka vs Gaga — 19/11 · 18:56
+## ZORO vs Mani — 19/11 · 19:23
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Paka** @ **2.70** (Unibet) · prob 45% vs casas 32% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana ZORO** @ **2.33** (Unibet) · prob 49% vs casas 37% · ventaja +15%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.963 partidos)  
-Goles esperados: Paka 2.69 · Gaga 2.31  
-Ganador: Paka 45% · empate 23% · Gaga 33%  
-Total: más de 5.5 goles 38% · menos 62%  
-Hándicap Paka: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 73.986 partidos)  
+Goles esperados: ZORO 3.40 · Mani 2.95  
+Ganador: ZORO 49% · empate 18% · Mani 32%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap ZORO: −1.5 33% · −2.5 20%  
 🔎 **Claves**  
-• Forma: Paka ➖✅✅➖❌ | Gaga ➖✅❌✅❌  
-• Partidos: Paka 1047 | Gaga 1219  
-• Liga: World Cup B  
-• Unibet: 1 2.70 · X 3.70 · 2 1.97 (sin margen 32%/24%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+21%) · Paf España 2.70 (+21%)  
+• Forma: ZORO ❌➖✅✅✅ | Mani ✅❌❌❌✅  
+• Partidos: ZORO 969 | Mani 1022  
+• Liga: Champions League A  
+• Unibet: 1 2.33 · X 3.80 · 2 2.18 (sin margen 37%/23%/40%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.33 (+15%) · Paf España 2.33 (+15%)  
 
 ## Piljar vs Bosko — 19/11 · 19:30
 
@@ -58,4 +58,42 @@ Hándicap mPm: −1.5 40% · −2.5 25%
 • Liga: Copa America  
 • Unibet: 1 1.84 · X 5.25 · 2 2.45 (sin margen 48%/17%/36%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.84 (+11%) · Paf España 1.84 (+11%)  
+
+## borees vs Rodja — 19/11 · 19:52
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Rodja** @ **2.95** (Unibet) · prob 39% vs casas 30% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.986 partidos)  
+Goles esperados: borees 3.04 · Rodja 3.02  
+Ganador: borees 40% · empate 21% · Rodja 39%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap borees: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: borees ❌✅❌❌✅ | Rodja ➖➖✅➖➖  
+• Partidos: borees 1156 | Rodja 1109  
+• Liga: Europa League  
+• Unibet: 1 1.71 · X 4.60 · 2 2.95 (sin margen 51%/19%/30%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.95 (+16%) · Paf España 2.95 (+16%)  
+
+## Lufy vs Bosko — 19/11 · 20:06
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **1.94** (Unibet) · prob 59% vs casas 45% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.986 partidos)  
+Goles esperados: Lufy 5.05 · Bosko 4.06  
+Ganador: Lufy 59% · empate 11% · Bosko 30%  
+Total: más de 9.5 goles 43% · menos 57%  
+Hándicap Lufy: −1.5 43% · −2.5 30%  
+🔎 **Claves**  
+• Forma: Lufy ❌✅❌✅❌ | Bosko ❌❌❌❌✅  
+• Partidos: Lufy 911 | Bosko 668  
+• Liga: Champions League B 2x6  
+• Unibet: 1 1.94 · X 4.80 · 2 2.38 (sin margen 45%/18%/37%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.94 (+14%) · Paf España 1.94 (+14%)  
 
