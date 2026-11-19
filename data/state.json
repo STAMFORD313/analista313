@@ -1046,10 +1046,6 @@
   "ufc|2026-11-21|Shoaib Yousaf|John Mitchell",
   "wta|2026-11-20|Lucia Bronzetti|Valeriya Strakhova",
   "wta|2026-11-20|Leyre Romero Gormaz|Irene Burillo",
-  "cs2|133317",
-  "fc|2380665",
-  "fc|2379240",
-  "fc|2381401",
   "dota2|133559",
   "fc|2381312",
   "fc|2380752",
@@ -2049,7 +2045,10 @@
   "dota2|133566",
   "fc|2388521",
   "fc|2388520",
-  "fc|2387991"
+  "fc|2387991",
+  "fc|2388524",
+  "fc|2387569",
+  "fc|2387568"
  ],
  "signals": [
   {
@@ -3812,31 +3811,6 @@
    "score": "2-1",
    "result": false,
    "close_p": 0.593,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.4,
-   "book": "Unibet",
-   "implied": 0.161,
-   "edge": 0.073,
-   "sin_stake": true,
-   "p": 0.199,
-   "key": "fc|2382828",
-   "match": "Simaponika vs Kavviro",
-   "start": "2026-11-16T22:19:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Simaponika vs Kavviro (World Cup A): goles esperados 1.75-2.70, 1X2 19%/20%/61%. Sin cuotas de casa.",
-   "captured": "2026-11-16T22:04",
-   "version": "173e147",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-9",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -5885,19 +5859,6 @@
    "start": "2026-11-19T22:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.53 - 1.14)",
-    "1 50% · X 25% · 2 25%",
-    "1X 75% · X2 50% · 12 75%",
-    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%",
-    "Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Vasco ❌✅❌✅✅ | Internacional ➖❌✅❌✅",
-    "• H2H: 19 desde 2012: 5V-4E-10D · 3.2 goles/partido · +2.5 en 58%",
-    "• Bajas: Vasco: sin bajas; Internacional: 0 fuera, 5 duda",
-    "• Favorito de las casas: Vasco @ 1.61"
-   ],
    "context": "Vasco vs Internacional (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 50% X 25% 2 25%, +2.5 50%, ambos marcan 54%. Forma Vasco ❌✅❌✅✅, Internacional ➖❌✅❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 19 desde 2012: 5V-4E-10D · 3.2 goles/partido · +2.5 en 58%. Bajas Vasco: ninguna. Bajas Internacional: Alan Patrick M duda 27 PJ; Anthoni G duda 12 PJ; Antonio Sanabria F duda 4 PJ; Ramon F duda 20 PJ; Sergio Rochet G duda 12 PJ.",
    "captured": "2026-11-17T11:56",
    "version": "662f6ab",
@@ -5918,19 +5879,6 @@
    "start": "2026-11-19T22:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.28 - 0.86)",
-    "1 41% · X 29% · 2 30%",
-    "1X 70% · X2 59% · 12 71%",
-    "+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%",
-    "Marcadores: 1-0 14% · 1-1 14% · 0-0 12% · 2-0 10%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Vitoria ❌➖➖❌❌ | Bragantino ✅➖❌✅✅",
-    "• H2H: 5 desde 2024: 2V-0E-3D · 2.2 goles/partido · +2.5 en 40%",
-    "• Bajas: Vitoria: sin bajas; Bragantino: 0 fuera, 4 duda",
-    "• Favorito de las casas: Vitoria @ 2.55"
-   ],
    "context": "Vitoria vs Bragantino (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 41% X 29% 2 30%, +2.5 36%, ambos marcan 42%. Forma Vitoria ❌➖➖❌❌, Bragantino ✅➖❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 5 desde 2024: 2V-0E-3D · 2.2 goles/partido · +2.5 en 40%. Bajas Vitoria: ninguna. Bajas Bragantino: Thiago Borbas F duda 6 PJ; Jose Hurtado D duda 17 PJ; Rodriguinho M duda 16 PJ; Nathan Mendes D duda 13 PJ.",
    "captured": "2026-11-17T11:56",
    "version": "662f6ab",
@@ -19068,7 +19016,11 @@
    "version": "18a1ece",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -19164,7 +19116,11 @@
    "version": "22deaba",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -19180,20 +19136,6 @@
    "start": "2026-11-19T22:31:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 74.183 partidos)",
-    "Goles esperados: Nightxx 3.10 · Simaponika 2.85",
-    "Ganador: Nightxx 45% · empate 20% · Simaponika 35%",
-    "Total: más de 5.5 goles 55% · menos 45%",
-    "Hándicap Nightxx: −1.5 30% · −2.5 17%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Nightxx ✅➖✅✅➖ | Simaponika ➖✅❌❌➖",
-    "• Partidos: Nightxx 1014 | Simaponika 1308",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.72 · X 5.40 · 2 2.70 (sin margen 51%/16%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.40 (+11%) · Paf España 5.40 (+11%)"
-   ],
    "context": "EA FC Esoccer Battle Nightxx vs Simaponika (World Cup A): goles esperados 3.10-2.85, 1X2 45%/20%/35%. Sin cuotas de casa.",
    "captured": "2026-11-19T22:06",
    "version": "ec5b39d",
@@ -19215,26 +19157,16 @@
    "start": "2026-11-19T22:19:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 74.183 partidos)",
-    "Goles esperados: Simaponika 1.65 · Kavviro 2.84",
-    "Ganador: Simaponika 17% · empate 20% · Kavviro 62%",
-    "Total: más de 4.5 goles 46% · menos 54%",
-    "Hándicap Kavviro: −1.5 43% · −2.5 26%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Simaponika ➖✅❌❌➖ | Kavviro ✅❌✅✅➖",
-    "• Partidos: Simaponika 1308 | Kavviro 1022",
-    "• Liga: World Cup A",
-    "• Unibet: 1 3.95 · X 5.25 · 2 1.40 (sin margen 22%/16%/62%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.25 (+8%) · Paf España 5.25 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle Simaponika vs Kavviro (World Cup A): goles esperados 1.65-2.84, 1X2 17%/20%/62%. Sin cuotas de casa.",
    "captured": "2026-11-19T22:06",
    "version": "ec5b39d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   }
  ],
  "bank": {

@@ -74212,18 +74212,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2390025,262538,B Dortmund,Juventus,1.0,1.0
 2388684,262538,B Dortmund,Man City,0.0,0.0
 2388683,262538,Juventus,Sporting CP,0.0,0.0
-2388505,262481,Brazil,Argentina,0,2
-2388506,262481,France,England,2,0
-2388507,262481,England,Brazil,0,2
-2388508,262481,Argentina,Spain,0,0
-2388509,262481,Spain,England,2,0
-2388510,262481,Brazil,France,1,0
-2388511,262481,France,Spain,2,4
-2388512,262481,England,Argentina,0,4
-2388513,262481,Argentina,France,1,1
-2388514,262481,Spain,Brazil,1,1
-2388515,262481,Argentina,Brazil,4,1
-2388516,262481,England,France,1,0
+2388505,262481,Brazil,Argentina,0.0,2.0
+2388506,262481,France,England,2.0,0.0
+2388507,262481,England,Brazil,0.0,2.0
+2388508,262481,Argentina,Spain,0.0,0.0
+2388509,262481,Spain,England,2.0,0.0
+2388510,262481,Brazil,France,1.0,0.0
+2388511,262481,France,Spain,2.0,4.0
+2388512,262481,England,Argentina,0.0,4.0
+2388513,262481,Argentina,France,1.0,1.0
+2388514,262481,Spain,Brazil,1.0,1.0
+2388515,262481,Argentina,Brazil,4.0,1.0
+2388516,262481,England,France,1.0,0.0
 2388517,262481,Brazil,England,,
 2388518,262481,Spain,Argentina,,
 2388519,262481,England,Spain,,
@@ -74232,16 +74232,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2388522,262481,Argentina,England,,
 2388523,262481,France,Argentina,,
 2388524,262481,Brazil,Spain,,
-2387553,262489,Benfica,Vitoria SC,2,2
-2387554,262489,Porto,Braga,2,0
-2387555,262489,Braga,Benfica,1,1
-2387556,262489,Vitoria SC,Sporting CP,1,0
-2387557,262489,Sporting CP,Braga,0,0
-2387558,262489,Benfica,Porto,0,0
-2387559,262489,Porto,Sporting CP,0,1
-2387560,262489,Braga,Vitoria SC,1,4
-2387561,262489,Vitoria SC,Porto,2,2
-2387562,262489,Sporting CP,Benfica,1,0
+2387553,262489,Benfica,Vitoria SC,2.0,2.0
+2387554,262489,Porto,Braga,2.0,0.0
+2387555,262489,Braga,Benfica,1.0,1.0
+2387556,262489,Vitoria SC,Sporting CP,1.0,0.0
+2387557,262489,Sporting CP,Braga,0.0,0.0
+2387558,262489,Benfica,Porto,0.0,0.0
+2387559,262489,Porto,Sporting CP,0.0,1.0
+2387560,262489,Braga,Vitoria SC,1.0,4.0
+2387561,262489,Vitoria SC,Porto,2.0,2.0
+2387562,262489,Sporting CP,Benfica,1.0,0.0
 2387563,262489,Vitoria SC,Benfica,,
 2387564,262489,Braga,Porto,,
 2387565,262489,Benfica,Braga,,
