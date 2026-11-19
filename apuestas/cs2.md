@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 06:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 07:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
@@ -406,4 +406,30 @@ Casas: DISFARÇADOS 34% · RED Canids Academy 66%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • DISFARÇADOS gana 2-1: 11% → cuota justa 9.13  
 • RED Canids Academy gana 2-1: 24% → cuota justa 4.17  
+
+## WBT vs Phantom — 20/11 · 19:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana WBT** @ **2.80** (Thunderpick) · prob 34% vs casas 33% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.050 partidos)  
+Mapa: WBT 42% · Serie BO3: WBT 36% - 64% Phantom  
+Casas: WBT 33% · Phantom 67%  
+🔎 **Claves**  
+• Elo: WBT 1718 (60 series) | Phantom 1804 (216 series)  
+• Forma: WBT ❌✅❌❌✅ | Phantom ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): WBT: Smash 6.5, s4ltovsk1yy 6.1 | Phantom: nicoodoz 6.4, Kunai 6.4  
+• Mapas (último año): WBT: pocos mapas | Phantom: fuerte mirage 63%, débil anubis 39%  
+• Química de la plantilla: WBT: 28 mapas juntos de media | Phantom: 116 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• WBT gana 2-1: 18% → cuota justa 5.60 · casa 16%  
+• Phantom gana 2-1: 25% → cuota justa 4.07 · casa 28%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
+WBT: s4ltovsk1yy 35 (20-51) · tyr1k 33 (19-49) · DemQQ 33 (19-48) · Smash 32 (18-47) · Psycho 31 (17-46)  
+Phantom: nicoodoz 40 (23-58) · KEi 36 (20-53) · Kunai 35 (20-51) · Kylar 34 (20-51) · TMB 31 (18-46)  
 

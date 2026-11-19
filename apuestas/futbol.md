@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 19/11/2026 06:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 07:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vasco vs Internacional — 19/11 · 23:30
 
