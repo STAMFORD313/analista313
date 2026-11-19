@@ -73729,16 +73729,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2388632,262537,Liverpool,Paris,3.0,0.0
 2388633,262537,Paris,Real Madrid,,
 2388634,262537,Bayern Munchen,Atleti,,
-2387453,262477,Juventus,Sporting CP,2,1
-2387454,262477,Arsenal,Man City,1,0
-2387455,262477,Man City,Juventus,1,2
-2387456,262477,Sporting CP,B Dortmund,1,1
-2387457,262477,B Dortmund,Man City,1,1
-2387458,262477,Juventus,Arsenal,2,0
-2387459,262477,Arsenal,B Dortmund,2,2
-2387460,262477,Man City,Sporting CP,0,4
-2387461,262477,Sporting CP,Arsenal,0,1
-2387462,262477,B Dortmund,Juventus,1,2
+2387453,262477,Juventus,Sporting CP,2.0,1.0
+2387454,262477,Arsenal,Man City,1.0,0.0
+2387455,262477,Man City,Juventus,1.0,2.0
+2387456,262477,Sporting CP,B Dortmund,1.0,1.0
+2387457,262477,B Dortmund,Man City,1.0,1.0
+2387458,262477,Juventus,Arsenal,2.0,0.0
+2387459,262477,Arsenal,B Dortmund,2.0,2.0
+2387460,262477,Man City,Sporting CP,0.0,4.0
+2387461,262477,Sporting CP,Arsenal,0.0,1.0
+2387462,262477,B Dortmund,Juventus,1.0,2.0
 2387463,262477,Sporting CP,Juventus,,
 2387464,262477,Man City,Arsenal,,
 2387465,262477,Juventus,Man City,,
@@ -73749,28 +73749,48 @@ id,tournament_id,club1,club2,ht1,ht2
 2387470,262477,Sporting CP,Man City,,
 2387471,262477,Arsenal,Sporting CP,,
 2387472,262477,Juventus,B Dortmund,,
-2387693,262499,Chengdu Rongcheng,Shanghai Shenhua,3,1
-2387694,262499,Shandong Taishan,Shanghai Port,1,1
-2387695,262499,Shanghai Port,Chengdu Rongcheng,1,1
-2387696,262499,Shanghai Shenhua,Beijing Guoan,0,1
-2387697,262499,Beijing Guoan,Shanghai Port,2,3
-2387698,262499,Chengdu Rongcheng,Shandong Taishan,3,0
-2387699,262499,Shandong Taishan,Beijing Guoan,1,0
-2387700,262499,Shanghai Port,Shanghai Shenhua,1,1
+2387693,262499,Chengdu Rongcheng,Shanghai Shenhua,3.0,1.0
+2387694,262499,Shandong Taishan,Shanghai Port,1.0,1.0
+2387695,262499,Shanghai Port,Chengdu Rongcheng,1.0,1.0
+2387696,262499,Shanghai Shenhua,Beijing Guoan,0.0,1.0
+2387697,262499,Beijing Guoan,Shanghai Port,2.0,3.0
+2387698,262499,Chengdu Rongcheng,Shandong Taishan,3.0,0.0
+2387699,262499,Shandong Taishan,Beijing Guoan,1.0,0.0
+2387700,262499,Shanghai Port,Shanghai Shenhua,1.0,1.0
 2387701,262499,Shanghai Shenhua,Shandong Taishan,,
 2387702,262499,Beijing Guoan,Chengdu Rongcheng,,
-2388285,262532,Newcastle,Nottm Forest,1,2
-2388286,262532,Brighton,Man Utd,2,3
-2388287,262532,Man Utd,Newcastle,2,1
-2388288,262532,Nottm Forest,Aston Villa,2,1
-2388289,262532,Aston Villa,Man Utd,2,0
-2388290,262532,Newcastle,Brighton,2,1
-2388291,262532,Brighton,Aston Villa,2,1
-2388293,262532,Nottm Forest,Brighton,0,1
-2388294,262532,Aston Villa,Newcastle,2,2
-2388295,262532,Nottm Forest,Newcastle,1,1
+2388285,262532,Newcastle,Nottm Forest,1.0,2.0
+2388286,262532,Brighton,Man Utd,2.0,3.0
+2388287,262532,Man Utd,Newcastle,2.0,1.0
+2388288,262532,Nottm Forest,Aston Villa,2.0,1.0
+2388289,262532,Aston Villa,Man Utd,2.0,0.0
+2388290,262532,Newcastle,Brighton,2.0,1.0
+2388291,262532,Brighton,Aston Villa,2.0,1.0
+2388293,262532,Nottm Forest,Brighton,0.0,1.0
+2388294,262532,Aston Villa,Newcastle,2.0,2.0
+2388295,262532,Nottm Forest,Newcastle,1.0,1.0
 2388298,262532,Aston Villa,Nottm Forest,,
 2388300,262532,Brighton,Newcastle,,
 2388301,262532,Aston Villa,Brighton,,
 2388303,262532,Brighton,Nottm Forest,,
 2388304,262532,Newcastle,Aston Villa,,
+2387533,262495,Atleti,Barcelona,2,1
+2387534,262495,Athletic Club,Real Madrid,3,1
+2387535,262495,Real Madrid,Atleti,2,2
+2387536,262495,Barcelona,Villarreal,0,3
+2387537,262495,Villarreal,Real Madrid,1,1
+2387538,262495,Atleti,Athletic Club,3,0
+2387539,262495,Athletic Club,Villarreal,1,0
+2387540,262495,Real Madrid,Barcelona,0,2
+2387541,262495,Barcelona,Athletic Club,1,2
+2387542,262495,Villarreal,Atleti,0,1
+2387543,262495,Barcelona,Atleti,1,0
+2387544,262495,Real Madrid,Athletic Club,2,2
+2387545,262495,Atleti,Real Madrid,,
+2387546,262495,Villarreal,Barcelona,,
+2387547,262495,Real Madrid,Villarreal,,
+2387548,262495,Athletic Club,Atleti,,
+2387549,262495,Villarreal,Athletic Club,,
+2387550,262495,Barcelona,Real Madrid,,
+2387551,262495,Athletic Club,Barcelona,,
+2387552,262495,Atleti,Villarreal,,

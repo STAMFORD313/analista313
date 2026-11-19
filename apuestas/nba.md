@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 19/11/2026 14:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 14:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## West Virginia Mountaineers vs Florida Gators — 19/11 · 20:30
 
