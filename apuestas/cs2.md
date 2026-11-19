@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## 99firepower 1utility vs Falcons Force — 19/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana 99firepower 1utility** @ **3.35** (Thunderpick) · prob 38% vs casas 28% · ventaja +27%
-
-- ✅ Valor: ventaja +27% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: 99firepower 1utility 48% · Serie BO1: 99firepower 1utility 48% - 52% Falcons Force  
-Casas: 99firepower 1utility 27% · Falcons Force 73%  
-🔎 **Claves**  
-• Elo: 99firepower 1utility 1566 (10 series) | Falcons Force 1579 (141 series)  
-• Forma: 99firepower 1utility ✅✅✅✅❌ | Falcons Force ✅❌❌✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 19/11/2026 20:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xcity vs Spirit Academy Green — 19/11 · 20:30
 

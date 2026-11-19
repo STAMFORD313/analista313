@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 19/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 20:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Temple Owls vs Rice Owls — 20/11 · 01:30
 
