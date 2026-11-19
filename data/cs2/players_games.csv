@@ -34966,3 +34966,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193096,133488,gamerlegion-vs-inner-circle-esports-19-11-2026,2026-11-19T11:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,19186,594,Inner Circle,GamerLegion,1,de_nuke,19186,16.0,13.0
 192920,133403,team-aces-vs-illyrians-19-11-2026,2026-11-19T12:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,3022,Aces,Illyrians,2,de_cache,25564,13.0,6.0
 192921,133403,team-aces-vs-illyrians-19-11-2026,2026-11-19T12:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,3022,Aces,Illyrians,1,de_dust2,25564,13.0,7.0
+193091,133487,big-vs-nip-19-11-2026,2026-11-19T14:25:00.000+00:00,a,3,6132,Stake Ranked Episode 6,785,756,Ninjas in Pyjamas,BIG,3,de_cache,756,13.0,5.0
+193092,133487,big-vs-nip-19-11-2026,2026-11-19T14:25:00.000+00:00,a,3,6132,Stake Ranked Episode 6,785,756,Ninjas in Pyjamas,BIG,2,de_ancient,785,16.0,14.0
+193093,133487,big-vs-nip-19-11-2026,2026-11-19T14:25:00.000+00:00,a,3,6132,Stake Ranked Episode 6,785,756,Ninjas in Pyjamas,BIG,1,de_inferno,756,13.0,11.0

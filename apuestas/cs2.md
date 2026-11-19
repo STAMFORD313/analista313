@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 18:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## LPH vs The Chosen Few — 19/11 · 18:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana The Chosen Few** @ **2.30** (Thunderpick) · prob 43% vs casas 40% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: LPH 54% · Serie BO1: LPH 54% - 46% The Chosen Few  
-Casas: LPH 60% · The Chosen Few 40%  
-🔎 **Claves**  
-• Elo: LPH 1462 (147 series) | The Chosen Few 1433 (95 series)  
-• Forma: LPH ❌❌❌❌✅ | The Chosen Few ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 19/11/2026 18:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Banger Gang vs NoTime — 19/11 · 19:00
 
