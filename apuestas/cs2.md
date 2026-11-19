@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 00:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MEIA NOITE vs RUSH — 20/11 · 00:45
 
