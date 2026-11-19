@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 13:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 14:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Falcons Force vs Young TigeRES — 19/11 · 16:00
 
@@ -392,6 +392,26 @@ Casas: WBT 33% · Phantom 67%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
 WBT: s4ltovsk1yy 35 (20-51) · tyr1k 33 (19-49) · DemQQ 33 (19-48) · Smash 32 (18-47) · Psycho 31 (17-46)  
 Phantom: nicoodoz 40 (23-58) · KEi 36 (20-53) · Kunai 35 (20-51) · Kylar 34 (20-51) · TMB 31 (18-46)  
+
+## QUINTESSÊNCIA vs RUSH — 20/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana QUINTESSÊNCIA** @ **2.18** (Thunderpick) · prob 44% vs casas 42% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.054 partidos)  
+Mapa: QUINTESSÊNCIA 47% · Serie BO3: QUINTESSÊNCIA 46% - 54% RUSH  
+Casas: QUINTESSÊNCIA 42% · RUSH 58%  
+🔎 **Claves**  
+• Elo: QUINTESSÊNCIA 1492 (72 series) | RUSH 1523 (32 series)  
+• Forma: QUINTESSÊNCIA ✅❌❌❌❌ | RUSH ✅❌❌✅✅  
+• H2H: 4: 2-2  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: QUINTESSÊNCIA  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• QUINTESSÊNCIA gana 2-1: 21% → cuota justa 4.84  
+• RUSH gana 2-1: 23% → cuota justa 4.31  
 
 ## Rcave vs Glitchtech — 20/11 · 19:30
 

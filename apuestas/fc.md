@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 13:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 14:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Edwardson vs DaVa — 19/11 · 13:52
+## Lufy vs Bosko — 19/11 · 15:06
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.72** (Unibet) · prob 62% vs casas 51% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **1.90** (Unibet) · prob 59% vs casas 46% · ventaja +11%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.660 partidos)  
-Goles esperados: Edwardson 1.68 · DaVa 2.79  
-Ganador: Edwardson 18% · empate 20% · DaVa 62%  
-Total: más de 4.5 goles 46% · menos 54%  
-Hándicap DaVa: −1.5 42% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 73.715 partidos)  
+Goles esperados: Lufy 4.91 · Bosko 3.85  
+Ganador: Lufy 59% · empate 14% · Bosko 27%  
+Total: más de 8.5 goles 51% · menos 49%  
+Hándicap Lufy: −1.5 44% · −2.5 31%  
 🔎 **Claves**  
-• Forma: Edwardson ➖✅❌❌❌ | DaVa ✅➖❌✅➖  
-• Partidos: Edwardson 1344 | DaVa 1406  
-• Liga: LaLiga  
-• Unibet: 1 3.40 · X 3.75 · 2 1.72 (sin margen 26%/23%/51%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.72 (+6%) · Paf España 1.72 (+6%)  
+• Forma: Lufy ❌❌✅❌✅ | Bosko ❌❌✅❌❌  
+• Partidos: Lufy 899 | Bosko 656  
+• Liga: International A 2x6  
+• Unibet: 1 1.90 · X 4.80 · 2 2.43 (sin margen 46%/18%/36%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.90 (+11%) · Paf España 1.90 (+11%)  
 
-## flamez vs why — 19/11 · 14:02
+## Piljar vs Bosko — 19/11 · 15:42
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **1.92** (Unibet) · prob 62% vs casas 46% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Piljar** @ **2.04** (Unibet) · prob 65% vs casas 43% · ventaja +32%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.686 partidos)  
-Goles esperados: flamez 4.69 · why 3.46  
-Ganador: flamez 62% · empate 14% · why 24%  
-Total: más de 8.5 goles 43% · menos 57%  
-Hándicap flamez: −1.5 46% · −2.5 32%  
+📊 **Escenarios** (Poisson por jugador, 73.715 partidos)  
+Goles esperados: Piljar 4.72 · Bosko 3.20  
+Ganador: Piljar 65% · empate 14% · Bosko 21%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap Piljar: −1.5 50% · −2.5 36%  
 🔎 **Claves**  
-• Forma: flamez ✅✅✅✅❌ | why ✅❌❌❌✅  
-• Partidos: flamez 873 | why 705  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.92 · X 4.80 · 2 2.40 (sin margen 45%/18%/36%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.92 (+19%) · Paf España 1.92 (+19%)  
+• Forma: Piljar ✅✅❌✅✅ | Bosko ❌❌✅❌❌  
+• Partidos: Piljar 555 | Bosko 656  
+• Liga: International A 2x6  
+• Unibet: 1 2.04 · X 5.20 · 2 2.17 (sin margen 43%/17%/40%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.04 (+32%) · Paf España 2.04 (+32%)  
+
+## steeffant vs Lufy — 19/11 · 15:42
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **3.65** (Unibet) · prob 31% vs casas 24% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.715 partidos)  
+Goles esperados: steeffant 4.84 · Lufy 4.09  
+Ganador: steeffant 54% · empate 15% · Lufy 31%  
+Total: más de 8.5 goles 53% · menos 47%  
+Hándicap steeffant: −1.5 40% · −2.5 27%  
+🔎 **Claves**  
+• Forma: steeffant ✅✅❌✅✅ | Lufy ❌❌✅❌✅  
+• Partidos: steeffant 938 | Lufy 899  
+• Liga: International A 2x6  
+• Unibet: 1 1.40 · X 6.00 · 2 3.65 (sin margen 62%/14%/24%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.65 (+13%) · Paf España 3.65 (+13%)  
 

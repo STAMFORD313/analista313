@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 19/11/2026 13:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 14:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Inner Circle x Insanity vs Allied — 20/11 · 11:00
 
