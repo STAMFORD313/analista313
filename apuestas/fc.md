@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 09:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 10:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## flamez vs TikitakaMaster — 19/11 · 09:56
+## flamez vs why — 19/11 · 10:32
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **2.18** (Unibet) · prob 53% vs casas 40% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **1.88** (Unibet) · prob 60% vs casas 47% · ventaja +13%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.454 partidos)  
-Goles esperados: flamez 3.99 · TikitakaMaster 4.62  
-Ganador: flamez 32% · empate 15% · TikitakaMaster 53%  
-Total: más de 8.5 goles 49% · menos 51%  
-Hándicap TikitakaMaster: −1.5 38% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 73.512 partidos)  
+Goles esperados: flamez 4.53 · why 3.43  
+Ganador: flamez 60% · empate 15% · why 25%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap flamez: −1.5 44% · −2.5 30%  
 🔎 **Claves**  
-• Forma: flamez ➖❌✅✅✅ | TikitakaMaster ✅✅✅❌✅  
-• Partidos: flamez 863 | TikitakaMaster 781  
+• Forma: flamez ✅✅✅❌❌ | why ❌❌❌➖➖  
+• Partidos: flamez 865 | why 697  
 • Liga: Champions League A 2x6  
-• Unibet: 1 1.92 · X 6.40 · 2 2.18 (sin margen 46%/14%/40%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+15%) · Paf España 2.18 (+15%)  
+• Unibet: 1 1.88 · X 5.20 · 2 2.40 (sin margen 47%/17%/37%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.88 (+13%) · Paf España 1.88 (+13%)  
 
-## Uncle vs Bomb1to — 19/11 · 10:07
+## crinner vs berg — 19/11 · 10:36
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **3.20** (Unibet) · prob 44% vs casas 27% · ventaja +40%
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana berg** @ **3.45** (Unibet) · prob 36% vs casas 26% · ventaja +23%
 
-- ❌ Valor: ventaja +40% (mín. 18% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.482 partidos)  
-Goles esperados: Uncle 2.69 · Bomb1to 2.92  
-Ganador: Uncle 36% · empate 20% · Bomb1to 44%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Bomb1to: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 73.512 partidos)  
+Goles esperados: crinner 2.98 · berg 2.50  
+Ganador: crinner 44% · empate 20% · berg 36%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap crinner: −1.5 32% · −2.5 19%  
 🔎 **Claves**  
-• Forma: Uncle ❌✅➖➖✅ | Bomb1to ✅✅➖✅✅  
-• Partidos: Uncle 813 | Bomb1to 1395  
-• Liga: Serie A  
-• Unibet: 1 2.14 · X 2.65 · 2 3.20 (sin margen 40%/33%/27%) · ventaja +40%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.20 (+40%) · Paf España 3.20 (+40%)  
-
-## Revange vs DaVa — 19/11 · 10:10
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Revange** @ **4.40** (Unibet) · prob 29% vs casas 20% · ventaja +26%
-
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 73.482 partidos)  
-Goles esperados: Revange 2.21 · DaVa 2.77  
-Ganador: Revange 29% · empate 21% · DaVa 51%  
-Total: más de 4.5 goles 56% · menos 44%  
-Hándicap DaVa: −1.5 33% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Revange ❌✅➖❌❌ | DaVa ➖✅✅➖✅  
-• Partidos: Revange 685 | DaVa 1394  
-• Liga: Champions League AFC  
-• Unibet: 1 4.40 · X 4.40 · 2 1.43 (sin margen 20%/20%/61%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.40 (+26%) · Paf España 4.40 (+26%)  
-
-## saportj vs crinner — 19/11 · 10:12
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **6.00** (Unibet) · prob 20% vs casas 15% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 73.482 partidos)  
-Goles esperados: saportj 2.30 · crinner 2.92  
-Ganador: saportj 31% · empate 20% · crinner 49%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap crinner: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: saportj ✅✅❌❌➖ | crinner ➖❌✅✅❌  
-• Partidos: saportj 1035 | crinner 1149  
+• Forma: crinner ✅❌❌❌❌ | berg ❌✅✅❌❌  
+• Partidos: crinner 1152 | berg 1109  
 • Liga: EFL Championship  
-• Unibet: 1 3.05 · X 6.00 · 2 1.56 (sin margen 29%/15%/56%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+22%) · Paf España 6.00 (+22%)  
+• Unibet: 1 1.57 · X 4.80 · 2 3.45 (sin margen 56%/18%/26%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.45 (+23%) · Paf España 3.45 (+23%)  
+
+## mko1919 vs Wboy — 19/11 · 10:43
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **3.60** (Unibet) · prob 35% vs casas 24% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.512 partidos)  
+Goles esperados: mko1919 3.33 · Wboy 3.75  
+Ganador: mko1919 35% · empate 17% · Wboy 48%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap Wboy: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: mko1919 ❌➖❌➖✅ | Wboy ❌❌➖❌❌  
+• Partidos: mko1919 1326 | Wboy 1237  
+• Liga: Serie A  
+• Unibet: 1 3.60 · X 5.00 · 2 1.52 (sin margen 24%/18%/58%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+26%) · Paf España 3.60 (+26%)  
 
