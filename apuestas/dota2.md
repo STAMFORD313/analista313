@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 19/11/2026 05:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 06:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Inner Circle x Insanity vs Allied — 20/11 · 11:00
 
@@ -133,4 +133,114 @@ Casas: GamerLegion 60% · Xtreme Gaming 40%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • GamerLegion gana 2-1: 23% → cuota justa 4.41 · casa 25%  
 • Xtreme Gaming gana 2-1: 20% → cuota justa 5.05 · casa 19%  
+
+## Team Liquid vs DO KONCA — 20/11 · 18:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana DO KONCA** @ **3.72** (Thunderpick) · prob 27% vs casas 25% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: Team Liquid 78% · Serie BO3: Team Liquid 71% - 29% DO KONCA  
+Casas: Team Liquid 75% · DO KONCA 25%  
+🔎 **Claves**  
+• Elo: Team Liquid 1975 (381 series) | DO KONCA 1678 (4 series)  
+• Forma: Team Liquid ✅✅❌❌❌ | DO KONCA ❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Liquid: miCKe 7.1, Malr1ne 4.1 | DO KONCA: kiyotaka 4.6, Save- 4.1  
+• Química de la plantilla: Team Liquid: 156 partidas juntos de media | DO KONCA: 345 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Liquid gana 2-1: 22% → cuota justa 4.58 · casa 27%  
+• DO KONCA gana 2-1: 6% → cuota justa 16.49 · casa 12%  
+
+## Team Liquid vs DO KONCA — 20/11 · 18:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Menos de 2.5 mapas** @ **1.63** (Thunderpick) · prob 65% vs casas 57% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 totales» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: Team Liquid 78% · Serie BO3: Team Liquid 71% - 29% DO KONCA  
+Casas: Team Liquid 75% · DO KONCA 25%  
+🔎 **Claves**  
+• Elo: Team Liquid 1975 (381 series) | DO KONCA 1678 (4 series)  
+• Forma: Team Liquid ✅✅❌❌❌ | DO KONCA ❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Liquid: miCKe 7.1, Malr1ne 4.1 | DO KONCA: kiyotaka 4.6, Save- 4.1  
+• Química de la plantilla: Team Liquid: 156 partidas juntos de media | DO KONCA: 345 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Liquid gana 2-1: 22% → cuota justa 4.58 · casa 27%  
+• DO KONCA gana 2-1: 6% → cuota justa 16.49 · casa 12%  
+
+## Team Liquid vs DO KONCA — 20/11 · 18:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Team Liquid -1.5 mapas** @ **1.95** (Thunderpick) · prob 57% vs casas 48% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: Team Liquid 78% · Serie BO3: Team Liquid 71% - 29% DO KONCA  
+Casas: Team Liquid 75% · DO KONCA 25%  
+🔎 **Claves**  
+• Elo: Team Liquid 1975 (381 series) | DO KONCA 1678 (4 series)  
+• Forma: Team Liquid ✅✅❌❌❌ | DO KONCA ❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Liquid: miCKe 7.1, Malr1ne 4.1 | DO KONCA: kiyotaka 4.6, Save- 4.1  
+• Química de la plantilla: Team Liquid: 156 partidas juntos de media | DO KONCA: 345 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Liquid gana 2-1: 22% → cuota justa 4.58 · casa 27%  
+• DO KONCA gana 2-1: 6% → cuota justa 16.49 · casa 12%  
+
+## PARIVISION vs LEGION — 20/11 · 18:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana PARIVISION** @ **1.02** (Thunderpick) · prob 91% vs casas 91% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: PARIVISION 79% · Serie BO3: PARIVISION 90% - 10% LEGION  
+Casas: PARIVISION 91% · LEGION 9%  
+🔎 **Claves**  
+• Elo: PARIVISION 2207 (267 series) | LEGION 1905 (27 series)  
+• Forma: PARIVISION ❌✅✅✅✅ | LEGION ❌✅✅❌❌  
+• H2H: 1: 1-0  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): PARIVISION: No[o]ne 6.7, Satanic 4.6 | LEGION: Copy 4.8, Malik 3.0  
+• Química de la plantilla: PARIVISION: 420 partidas juntos de media | LEGION: 47 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PARIVISION gana 2-1: 22% → cuota justa 4.62 · casa 16% ✔ el bot lo ve más probable que la casa  
+• LEGION gana 2-1: 6% → cuota justa 16.96  
+
+## PARIVISION vs LEGION — 20/11 · 18:00
+
+👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **LEGION +1.5 mapas** @ **3.76** (Thunderpick) · prob 29% vs casas 25% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
+Mapa: PARIVISION 79% · Serie BO3: PARIVISION 90% - 10% LEGION  
+Casas: PARIVISION 91% · LEGION 9%  
+🔎 **Claves**  
+• Elo: PARIVISION 2207 (267 series) | LEGION 1905 (27 series)  
+• Forma: PARIVISION ❌✅✅✅✅ | LEGION ❌✅✅❌❌  
+• H2H: 1: 1-0  
+• Torneo: BLAST Slam IX (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): PARIVISION: No[o]ne 6.7, Satanic 4.6 | LEGION: Copy 4.8, Malik 3.0  
+• Química de la plantilla: PARIVISION: 420 partidas juntos de media | LEGION: 47 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PARIVISION gana 2-1: 22% → cuota justa 4.62 · casa 16% ✔ el bot lo ve más probable que la casa  
+• LEGION gana 2-1: 6% → cuota justa 16.96  
 

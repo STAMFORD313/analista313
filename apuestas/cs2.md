@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 05:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 06:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
@@ -386,4 +386,24 @@ Casas: FOKUS 56% · Aces 44%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
 FOKUS: jocab 37 (21-55) · Matheos 37 (21-54) · podi 36 (21-53) · Banjo 33 (19-48) · ztr 31 (17-46)  
 Aces: karnez 37 (21-55) · topo- 37 (21-54) · 4X1s 33 (19-49) · MRcreed 33 (19-49) · salazar 31 (17-45)  
+
+## DISFARÇADOS vs RED Canids Academy — 20/11 · 18:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana RED Canids Academy** @ **1.40** (Thunderpick) · prob 71% vs casas 66% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.050 partidos)  
+Mapa: DISFARÇADOS 31% · Serie BO3: DISFARÇADOS 23% - 77% RED Canids Academy  
+Casas: DISFARÇADOS 34% · RED Canids Academy 66%  
+🔎 **Claves**  
+• Elo: DISFARÇADOS 1388 (4 series) | RED Canids Academy 1598 (139 series)  
+• Forma: DISFARÇADOS ✅❌❌❌ | RED Canids Academy ❌✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DISFARÇADOS gana 2-1: 11% → cuota justa 9.13  
+• RED Canids Academy gana 2-1: 24% → cuota justa 4.17  
 
