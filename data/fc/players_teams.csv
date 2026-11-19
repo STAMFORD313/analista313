@@ -73774,18 +73774,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2388301,262532,Aston Villa,Brighton,,
 2388303,262532,Brighton,Nottm Forest,,
 2388304,262532,Newcastle,Aston Villa,,
-2387533,262495,Atleti,Barcelona,2,1
-2387534,262495,Athletic Club,Real Madrid,3,1
-2387535,262495,Real Madrid,Atleti,2,2
-2387536,262495,Barcelona,Villarreal,0,3
-2387537,262495,Villarreal,Real Madrid,1,1
-2387538,262495,Atleti,Athletic Club,3,0
-2387539,262495,Athletic Club,Villarreal,1,0
-2387540,262495,Real Madrid,Barcelona,0,2
-2387541,262495,Barcelona,Athletic Club,1,2
-2387542,262495,Villarreal,Atleti,0,1
-2387543,262495,Barcelona,Atleti,1,0
-2387544,262495,Real Madrid,Athletic Club,2,2
+2387533,262495,Atleti,Barcelona,2.0,1.0
+2387534,262495,Athletic Club,Real Madrid,3.0,1.0
+2387535,262495,Real Madrid,Atleti,2.0,2.0
+2387536,262495,Barcelona,Villarreal,0.0,3.0
+2387537,262495,Villarreal,Real Madrid,1.0,1.0
+2387538,262495,Atleti,Athletic Club,3.0,0.0
+2387539,262495,Athletic Club,Villarreal,1.0,0.0
+2387540,262495,Real Madrid,Barcelona,0.0,2.0
+2387541,262495,Barcelona,Athletic Club,1.0,2.0
+2387542,262495,Villarreal,Atleti,0.0,1.0
+2387543,262495,Barcelona,Atleti,1.0,0.0
+2387544,262495,Real Madrid,Athletic Club,2.0,2.0
 2387545,262495,Atleti,Real Madrid,,
 2387546,262495,Villarreal,Barcelona,,
 2387547,262495,Real Madrid,Villarreal,,
@@ -73794,3 +73794,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2387550,262495,Barcelona,Real Madrid,,
 2387551,262495,Athletic Club,Barcelona,,
 2387552,262495,Atleti,Villarreal,,
+2387809,262459,Paris,Real Madrid,1,1
+2387810,262459,Bayern Munchen,Atleti,4,2
+2387811,262459,Atleti,Paris,0,0
+2387812,262459,Real Madrid,Liverpool,2,0
+2387813,262459,Liverpool,Atleti,1,0
+2387814,262459,Paris,Bayern Munchen,2,0
+2387815,262459,Bayern Munchen,Liverpool,2,1
+2387816,262459,Atleti,Real Madrid,0,1
+2387817,262459,Real Madrid,Bayern Munchen,0,0
+2387818,262459,Liverpool,Paris,0,0
+2387819,262459,Real Madrid,Paris,,
+2387820,262459,Atleti,Bayern Munchen,,
+2387821,262459,Paris,Atleti,,
+2387822,262459,Liverpool,Real Madrid,,
+2387823,262459,Atleti,Liverpool,,
+2387824,262459,Bayern Munchen,Paris,,
+2387825,262459,Liverpool,Bayern Munchen,,
+2387826,262459,Real Madrid,Atleti,,
+2387827,262459,Bayern Munchen,Real Madrid,,
+2387828,262459,Paris,Liverpool,,
+2388635,262534,Argentina,England,0,4
+2388636,262534,France,Germany,2,1
+2388637,262534,Germany,Argentina,2,4
+2388638,262534,England,Spain,1,2
+2388639,262534,Spain,Germany,2,1
+2388640,262534,Argentina,France,2,1
+2388641,262534,France,Spain,,
+2388642,262534,Germany,England,,
+2388643,262534,England,France,,
+2388644,262534,Spain,Argentina,,
+2388645,262534,England,Argentina,,
+2388646,262534,Germany,France,,
+2388647,262534,Argentina,Germany,,
+2388648,262534,Spain,England,,
+2388649,262534,Germany,Spain,,
+2388650,262534,France,Argentina,,
+2388651,262534,Spain,France,,
+2388652,262534,England,Germany,,
+2388653,262534,France,England,,
+2388654,262534,Argentina,Spain,,
