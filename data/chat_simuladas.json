@@ -3202,7 +3202,10 @@
     "away": "Boston Bruins",
     "txt": "Gana Boston Bruins",
     "odds": 2.02,
-    "p": 0.51072300330033
+    "p": 0.51072300330033,
+    "ok": true,
+    "por": "ganó Boston Bruins 4-1",
+    "clv": 0.005
    }
   ],
   "odds": 9.84,
