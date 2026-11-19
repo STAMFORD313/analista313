@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-18 12:03",
+ "fecha": "2026-11-19 00:17",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "l1ga-team-vs-nemiga-gaming-18-11-2026",
+     "froglings-vs-l1ga-team-19-11-2026",
      "DreamLeague Division 2 Series 5"
     ],
     [
-     "cyberhero-vs-inner-circle-18-11-2026",
+     "cyberhero-vs-8102ea1b0b-19-11-2026",
      "DreamLeague Division 2 Series 5"
     ],
     [
-     "froglings-vs-ee78b00092-19-11-2026",
+     "inner-circle-vs-ea201667d1-20-11-2026",
      "DreamLeague Division 2 Series 5"
     ]
    ]
@@ -122,17 +122,10 @@
  "kambi_esports": {
   "Esports / CS2 / PGL Major": 8,
   "Esports / Dota 2 / BLAST Slam": 7,
-  "Esports / CS2 / RUSH:Brno": 4,
-  "Esports / CS2 / European Pro League": 3,
-  "Esports / CS2 / STK Ranked": 3,
-  "Esports / CS2 / CCT European Series 14": 3,
-  "Esports / CS2 / RUSH:Brno": 3,
-  "Esports / Dota 2 / Asgard Championship": 2,
-  "Esports / Dota 2 / DreamLeague Div. 2": 2,
+  "Esports / CS2 / CCT European Series 15": 2,
   "Esports / CS2 / European Pro League": 2,
-  "Esports / Dota 2 / 1w Essence": 1,
-  "Esports / CS2 / NODWIN Clutch Series": 1,
-  "Esports / CS2 / CCT European Series 15": 1,
+  "Esports / Dota 2 / Asgard Championship": 1,
+  "Esports / Dota 2 / DreamLeague Div. 2": 1,
   "Esports / Overwatch 2 / OWCS Asia": 1
  }
 }
