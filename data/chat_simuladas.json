@@ -3267,5 +3267,49 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261119101230356443",
+  "creada": "2026-11-19 10:12:30.356485+00:00",
+  "titulo": "Barrido · Combinada cuota 15.1",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-19 15:00:00+00:00",
+    "home": "LPH",
+    "away": "KAMUI",
+    "txt": "Gana KAMUI",
+    "odds": 2.1,
+    "p": 0.5529603174603175
+   },
+   {
+    "code": null,
+    "start": "2026-11-19 15:30:00+00:00",
+    "home": "Al Gharraf",
+    "away": "Al-Quwa Al-Jawiya",
+    "txt": "Empate",
+    "odds": 3.05,
+    "p": 0.4081
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-19 18:00:00+00:00",
+    "home": "benched gods",
+    "away": "Evermore",
+    "txt": "Gana Evermore",
+    "odds": 2.35,
+    "p": 0.47058794326241127
+   }
+  ],
+  "odds": 15.05,
+  "p": 0.1061943367135973,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
