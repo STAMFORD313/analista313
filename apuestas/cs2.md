@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 16:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 17:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs ZOTIX — 19/11 · 18:00
 
