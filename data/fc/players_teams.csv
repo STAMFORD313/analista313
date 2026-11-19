@@ -73599,103 +73599,103 @@ id,tournament_id,club1,club2,ht1,ht2
 2388622,262535,Paris,Liverpool,,
 2388623,262535,Real Madrid,Paris,,
 2388624,262535,Atleti,Bayern Munchen,,
-2387353,262465,Fenerbahce,Porto,1,1
-2387354,262465,Salzburg,Aston Villa,1,0
-2387355,262465,Aston Villa,Fenerbahce,3,1
-2387356,262465,Porto,Roma,0,2
-2387357,262465,Roma,Aston Villa,0,0
-2387358,262465,Fenerbahce,Salzburg,2,3
-2387359,262465,Salzburg,Roma,1,4
-2387360,262465,Aston Villa,Porto,3,3
-2387361,262465,Porto,Salzburg,1,3
-2387362,262465,Roma,Fenerbahce,0,3
-2387363,262465,Porto,Fenerbahce,2,5
-2387364,262465,Aston Villa,Salzburg,0,4
-2387365,262465,Fenerbahce,Aston Villa,2,2
-2387366,262465,Roma,Porto,3,2
-2387367,262465,Aston Villa,Roma,4,2
-2387368,262465,Salzburg,Fenerbahce,3,1
-2387369,262465,Roma,Salzburg,0,3
-2387370,262465,Porto,Aston Villa,5,0
-2387371,262465,Salzburg,Porto,3,1
-2387372,262465,Fenerbahce,Roma,5,4
-2387433,262476,Belgium,Netherlands,2,0
-2387434,262476,Germany,Portugal,2,4
-2387435,262476,Portugal,Belgium,2,4
-2387436,262476,Netherlands,Morocco,3,2
-2387437,262476,Morocco,Portugal,0,0
-2387438,262476,Belgium,Germany,1,3
-2387439,262476,Germany,Morocco,1,4
-2387440,262476,Portugal,Netherlands,1,1
-2387441,262476,Netherlands,Germany,2,1
-2387442,262476,Morocco,Belgium,0,2
-2387443,262476,Netherlands,Belgium,2,1
-2387444,262476,Portugal,Germany,3,1
-2387445,262476,Belgium,Portugal,1,2
-2387446,262476,Morocco,Netherlands,3,1
-2387447,262476,Portugal,Morocco,1,1
-2387448,262476,Germany,Belgium,1,0
+2387353,262465,Fenerbahce,Porto,1.0,1.0
+2387354,262465,Salzburg,Aston Villa,1.0,0.0
+2387355,262465,Aston Villa,Fenerbahce,3.0,1.0
+2387356,262465,Porto,Roma,0.0,2.0
+2387357,262465,Roma,Aston Villa,0.0,0.0
+2387358,262465,Fenerbahce,Salzburg,2.0,3.0
+2387359,262465,Salzburg,Roma,1.0,4.0
+2387360,262465,Aston Villa,Porto,3.0,3.0
+2387361,262465,Porto,Salzburg,1.0,3.0
+2387362,262465,Roma,Fenerbahce,0.0,3.0
+2387363,262465,Porto,Fenerbahce,2.0,5.0
+2387364,262465,Aston Villa,Salzburg,0.0,4.0
+2387365,262465,Fenerbahce,Aston Villa,2.0,2.0
+2387366,262465,Roma,Porto,3.0,2.0
+2387367,262465,Aston Villa,Roma,4.0,2.0
+2387368,262465,Salzburg,Fenerbahce,3.0,1.0
+2387369,262465,Roma,Salzburg,0.0,3.0
+2387370,262465,Porto,Aston Villa,5.0,0.0
+2387371,262465,Salzburg,Porto,3.0,1.0
+2387372,262465,Fenerbahce,Roma,5.0,4.0
+2387433,262476,Belgium,Netherlands,2.0,0.0
+2387434,262476,Germany,Portugal,2.0,4.0
+2387435,262476,Portugal,Belgium,2.0,4.0
+2387436,262476,Netherlands,Morocco,3.0,2.0
+2387437,262476,Morocco,Portugal,0.0,0.0
+2387438,262476,Belgium,Germany,1.0,3.0
+2387439,262476,Germany,Morocco,1.0,4.0
+2387440,262476,Portugal,Netherlands,1.0,1.0
+2387441,262476,Netherlands,Germany,2.0,1.0
+2387442,262476,Morocco,Belgium,0.0,2.0
+2387443,262476,Netherlands,Belgium,2.0,1.0
+2387444,262476,Portugal,Germany,3.0,1.0
+2387445,262476,Belgium,Portugal,1.0,2.0
+2387446,262476,Morocco,Netherlands,3.0,1.0
+2387447,262476,Portugal,Morocco,1.0,1.0
+2387448,262476,Germany,Belgium,1.0,0.0
 2387449,262476,Morocco,Germany,,
 2387450,262476,Netherlands,Portugal,,
 2387451,262476,Germany,Netherlands,,
 2387452,262476,Belgium,Morocco,,
-2387513,262491,Leipzig,Frankfurt,2,1
-2387514,262491,B Dortmund,Stuttgart,0,0
-2387515,262491,Stuttgart,Leipzig,2,2
-2387516,262491,Frankfurt,Bayern Munchen,1,1
-2387517,262491,Bayern Munchen,Stuttgart,1,1
-2387518,262491,Leipzig,B Dortmund,1,0
-2387519,262491,B Dortmund,Bayern Munchen,1,3
-2387520,262491,Stuttgart,Frankfurt,1,2
-2387521,262491,Frankfurt,B Dortmund,2,0
-2387522,262491,Bayern Munchen,Leipzig,2,2
-2387523,262491,Frankfurt,Leipzig,2,1
-2387524,262491,Stuttgart,B Dortmund,2,1
-2387525,262491,Leipzig,Stuttgart,1,0
-2387526,262491,Bayern Munchen,Frankfurt,2,3
+2387513,262491,Leipzig,Frankfurt,2.0,1.0
+2387514,262491,B Dortmund,Stuttgart,0.0,0.0
+2387515,262491,Stuttgart,Leipzig,2.0,2.0
+2387516,262491,Frankfurt,Bayern Munchen,1.0,1.0
+2387517,262491,Bayern Munchen,Stuttgart,1.0,1.0
+2387518,262491,Leipzig,B Dortmund,1.0,0.0
+2387519,262491,B Dortmund,Bayern Munchen,1.0,3.0
+2387520,262491,Stuttgart,Frankfurt,1.0,2.0
+2387521,262491,Frankfurt,B Dortmund,2.0,0.0
+2387522,262491,Bayern Munchen,Leipzig,2.0,2.0
+2387523,262491,Frankfurt,Leipzig,2.0,1.0
+2387524,262491,Stuttgart,B Dortmund,2.0,1.0
+2387525,262491,Leipzig,Stuttgart,1.0,0.0
+2387526,262491,Bayern Munchen,Frankfurt,2.0,3.0
 2387527,262491,Stuttgart,Bayern Munchen,,
 2387528,262491,B Dortmund,Leipzig,,
 2387529,262491,Bayern Munchen,B Dortmund,,
 2387530,262491,Frankfurt,Stuttgart,,
 2387531,262491,B Dortmund,Frankfurt,,
 2387532,262491,Leipzig,Bayern Munchen,,
-2387673,262497,Chengdu Rongcheng,Shanghai Shenhua,1,1
-2387674,262497,Shandong Taishan,Shanghai Port,2,2
-2387675,262497,Shanghai Port,Chengdu Rongcheng,0,3
-2387676,262497,Shanghai Shenhua,Beijing Guoan,3,1
-2387677,262497,Beijing Guoan,Shanghai Port,1,1
-2387678,262497,Chengdu Rongcheng,Shandong Taishan,1,2
-2387679,262497,Shandong Taishan,Beijing Guoan,1,0
-2387680,262497,Shanghai Port,Shanghai Shenhua,1,2
-2387681,262497,Shanghai Shenhua,Shandong Taishan,1,1
-2387682,262497,Beijing Guoan,Chengdu Rongcheng,1,3
-2387683,262497,Shanghai Shenhua,Chengdu Rongcheng,0,2
-2387684,262497,Shanghai Port,Shandong Taishan,1,2
-2387685,262497,Chengdu Rongcheng,Shanghai Port,4,1
-2387686,262497,Beijing Guoan,Shanghai Shenhua,0,4
-2387687,262497,Shanghai Port,Beijing Guoan,1,0
-2387688,262497,Shandong Taishan,Chengdu Rongcheng,0,1
+2387673,262497,Chengdu Rongcheng,Shanghai Shenhua,1.0,1.0
+2387674,262497,Shandong Taishan,Shanghai Port,2.0,2.0
+2387675,262497,Shanghai Port,Chengdu Rongcheng,0.0,3.0
+2387676,262497,Shanghai Shenhua,Beijing Guoan,3.0,1.0
+2387677,262497,Beijing Guoan,Shanghai Port,1.0,1.0
+2387678,262497,Chengdu Rongcheng,Shandong Taishan,1.0,2.0
+2387679,262497,Shandong Taishan,Beijing Guoan,1.0,0.0
+2387680,262497,Shanghai Port,Shanghai Shenhua,1.0,2.0
+2387681,262497,Shanghai Shenhua,Shandong Taishan,1.0,1.0
+2387682,262497,Beijing Guoan,Chengdu Rongcheng,1.0,3.0
+2387683,262497,Shanghai Shenhua,Chengdu Rongcheng,0.0,2.0
+2387684,262497,Shanghai Port,Shandong Taishan,1.0,2.0
+2387685,262497,Chengdu Rongcheng,Shanghai Port,4.0,1.0
+2387686,262497,Beijing Guoan,Shanghai Shenhua,0.0,4.0
+2387687,262497,Shanghai Port,Beijing Guoan,1.0,0.0
+2387688,262497,Shandong Taishan,Chengdu Rongcheng,0.0,1.0
 2387689,262497,Beijing Guoan,Shandong Taishan,,
 2387690,262497,Shanghai Shenhua,Shanghai Port,,
 2387691,262497,Shandong Taishan,Shanghai Shenhua,,
 2387692,262497,Chengdu Rongcheng,Beijing Guoan,,
-2388265,262530,Argentina,Spain,0,0
-2388266,262530,France,England,2,1
-2388267,262530,England,Argentina,2,3
-2388268,262530,Spain,Brazil,2,1
-2388269,262530,Brazil,England,0,1
-2388270,262530,Argentina,France,0,1
-2388271,262530,France,Brazil,0,0
-2388272,262530,England,Spain,2,2
-2388273,262530,Spain,France,1,0
-2388274,262530,Brazil,Argentina,1,1
-2388275,262530,Spain,Argentina,1,0
-2388276,262530,England,France,1,2
-2388277,262530,Argentina,England,0,2
-2388278,262530,Brazil,Spain,0,1
-2388279,262530,England,Brazil,1,4
-2388280,262530,France,Argentina,2,1
-2388281,262530,Brazil,France,1,3
-2388282,262530,Spain,England,0,3
+2388265,262530,Argentina,Spain,0.0,0.0
+2388266,262530,France,England,2.0,1.0
+2388267,262530,England,Argentina,2.0,3.0
+2388268,262530,Spain,Brazil,2.0,1.0
+2388269,262530,Brazil,England,0.0,1.0
+2388270,262530,Argentina,France,0.0,1.0
+2388271,262530,France,Brazil,0.0,0.0
+2388272,262530,England,Spain,2.0,2.0
+2388273,262530,Spain,France,1.0,0.0
+2388274,262530,Brazil,Argentina,1.0,1.0
+2388275,262530,Spain,Argentina,1.0,0.0
+2388276,262530,England,France,1.0,2.0
+2388277,262530,Argentina,England,0.0,2.0
+2388278,262530,Brazil,Spain,0.0,1.0
+2388279,262530,England,Brazil,1.0,4.0
+2388280,262530,France,Argentina,2.0,1.0
+2388281,262530,Brazil,France,1.0,3.0
+2388282,262530,Spain,England,0.0,3.0
 2388283,262530,France,Spain,,
 2388284,262530,Argentina,Brazil,,
