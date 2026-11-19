@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 19/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Buffalo Bulls vs Central Michigan Chippewas — 19/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 43.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **47.7** puntos · línea 43.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Buffalo Bulls ✅✅✅✅✅ | Central Michigan Chippewas ❌❌❌✅✅  
-• H2H: 5 desde 2018: 3-2  
-• Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas  
-
-## Buffalo Bulls vs Central Michigan Chippewas — 19/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Buffalo Bulls -2.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Buffalo Bulls cubre -2.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Buffalo Bulls ✅✅✅✅✅ | Central Michigan Chippewas ❌❌❌✅✅  
-• H2H: 5 desde 2018: 3-2  
-• Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas  
-
-## Buffalo Bulls vs Central Michigan Chippewas — 19/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Buffalo Bulls** @ **1.77** (DraftKings) · prob 54% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.585 partidos y bajas)  
-Gana Buffalo Bulls 65% · Gana Central Michigan Chippewas 35%  
-Casas: Buffalo Bulls 54% · Central Michigan Chippewas 46%  
-Hándicap BUF -2.5 · Total puntos 43.5  
-🔎 **Claves**  
-• Forma: Buffalo Bulls ✅✅✅✅✅ | Central Michigan Chippewas ❌❌❌✅✅  
-• H2H: 5 desde 2018: 3-2  
-• Bajas: Buffalo Bulls: sin bajas; Central Michigan Chippewas: sin bajas  
-• Favorito de las casas: Buffalo Bulls @ 1.77  
+Actualizado 19/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Temple Owls vs Rice Owls — 20/11 · 01:30
 

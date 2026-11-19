@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 19/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Corinthians vs Botafogo RJ — 19/11 · 01:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Corinthians** @ **1.79** (Bet365) · prob 52% vs casas 52% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.07)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Corinthians ❌➖❌✅➖ | Botafogo RJ ➖✅❌❌✅  
-• H2H: 25 desde 2012: 8V-6E-11D · 2.4 goles/partido · +2.5 en 40%  
-• Bajas: Corinthians: 0 fuera, 5 duda; Botafogo RJ: 0 fuera, 2 duda  
-• Favorito de las casas: Corinthians @ 1.79  
-
-## Gremio vs Bahia — 19/11 · 01:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Bahia** @ **3.10** (Bet365) · prob 32% vs casas 32% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.22)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Gremio ➖❌✅✅❌ | Bahia ✅❌➖✅❌  
-• H2H: 23 desde 2012: 11V-4E-8D · 2.0 goles/partido · +2.5 en 30%  
-• Bajas: Gremio: 0 fuera, 4 duda; Bahia: 0 fuera, 2 duda  
-• Favorito de las casas: Gremio @ 2.20  
+Actualizado 19/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vasco vs Internacional — 19/11 · 23:30
 

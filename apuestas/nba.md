@@ -1,33 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 19/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## West Virginia Mountaineers vs Kansas Jayhawks — 19/11 · 01:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 150.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **140.5** puntos · línea 150.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: West Virginia Mountaineers ✅✅✅✅✅ | Kansas Jayhawks ❌✅✅✅✅  
-• H2H: 21 desde 2017: 6-15  
-• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas  
-
-## West Virginia Mountaineers vs Kansas Jayhawks — 19/11 · 01:30
-
-👀 candidata · 🏀 NCAA Basketball · **West Virginia Mountaineers +8.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: West Virginia Mountaineers cubre +8.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: West Virginia Mountaineers ✅✅✅✅✅ | Kansas Jayhawks ❌✅✅✅✅  
-• H2H: 21 desde 2017: 6-15  
-• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas  
+Actualizado 19/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## South Carolina Upstate Spartans vs Samford Bulldogs — 19/11 · 02:00
 
