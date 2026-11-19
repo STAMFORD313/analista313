@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 19:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## borees vs Rodja — 19/11 · 19:52
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Rodja** @ **2.95** (Unibet) · prob 39% vs casas 30% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 73.986 partidos)  
-Goles esperados: borees 3.04 · Rodja 3.02  
-Ganador: borees 40% · empate 21% · Rodja 39%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap borees: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: borees ❌✅❌❌✅ | Rodja ➖➖✅➖➖  
-• Partidos: borees 1156 | Rodja 1109  
-• Liga: Europa League  
-• Unibet: 1 1.71 · X 4.60 · 2 2.95 (sin margen 51%/19%/30%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.95 (+16%) · Paf España 2.95 (+16%)  
+Actualizado 19/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dicca vs Mani — 19/11 · 19:55
 
@@ -96,4 +77,23 @@ Hándicap Lunjo: −1.5 35% · −2.5 20%
 • Liga: Premier League  
 • Unibet: 1 1.72 · X 4.90 · 2 2.85 (sin margen 51%/18%/31%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 4.90 (+14%) · Paf España 4.90 (+14%)  
+
+## mPm vs Gazi — 19/11 · 20:22
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 15% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.011 partidos)  
+Goles esperados: mPm 3.11 · Gazi 2.49  
+Ganador: mPm 55% · empate 18% · Gazi 28%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap mPm: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: mPm ❌✅❌✅✅ | Gazi ✅✅❌❌❌  
+• Partidos: mPm 864 | Gazi 550  
+• Liga: Copa America  
+• Unibet: 1 1.64 · X 6.00 · 2 2.80 (sin margen 54%/15%/32%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+5%) · Paf España 6.00 (+5%)  
 
