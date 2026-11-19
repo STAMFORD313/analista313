@@ -1,40 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 17:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ROUNDS vs ZOTIX — 19/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana ROUNDS** @ **2.62** (Thunderpick) · prob 37% vs casas 35% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: ROUNDS 40% · Serie BO1: ROUNDS 40% - 60% ZOTIX  
-Casas: ROUNDS 35% · ZOTIX 65%  
-🔎 **Claves**  
-• Elo: ROUNDS 1417 (190 series) | ZOTIX 1491 (95 series)  
-• Forma: ROUNDS ✅❌✅✅❌ | ZOTIX ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## Falcons Force vs Al Ahli — 19/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Falcons Force** @ **1.58** (Thunderpick) · prob 62% vs casas 58% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: Falcons Force 66% · Serie BO1: Falcons Force 66% - 34% Al Ahli  
-Casas: Falcons Force 58% · Al Ahli 42%  
-🔎 **Claves**  
-• Elo: Falcons Force 1579 (141 series) | Al Ahli 1466 (16 series)  
-• Forma: Falcons Force ✅❌❌✅❌ | Al Ahli ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 19/11/2026 18:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LPH vs The Chosen Few — 19/11 · 18:30
 
