@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 21:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 22:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MEIA NOITE vs RUSH — 20/11 · 00:45
 
@@ -202,4 +202,56 @@ Casas: Rcave 39% · Glitchtech 61%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Nuclear TigeRES** @ **1.75** (Thunderpick) · prob 59% vs casas 53% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.087 partidos)  
+Mapa: Nuclear TigeRES 65% · Serie BO3: Nuclear TigeRES 65% - 35% Hype Tech  
+Casas: Nuclear TigeRES 53% · Hype Tech 47%  
+🔎 **Claves**  
+• Elo: Nuclear TigeRES 1861 (285 series) | Hype Tech 1694 (6 series)  
+• Forma: Nuclear TigeRES ❌✅❌❌❌ | Hype Tech ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Nuclear TigeRES: ayuki 6.5, flouzer 6.2 | Hype Tech: brutmonster 6.3, VLDN 6.2  
+• Mapas (último año): Nuclear TigeRES: fuerte ancient 71%, débil nuke 39% | Hype Tech: pocos mapas  
+• Química de la plantilla: Nuclear TigeRES: 76 mapas juntos de media | Hype Tech: 304 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Nuclear TigeRES gana 2-1: 25% → cuota justa 4.04 · casa 24%  
+• Hype Tech gana 2-1: 13% → cuota justa 7.53 · casa 23%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
+Nuclear TigeRES: Djon8 38 (22-55) · flouzer 37 (21-55) · ayuki 35 (20-52) · tronic 33 (19-49) · senka 31 (18-46)  
+Hype Tech: brutmonster 33 (19-49) · Dragon 33 (19-48) · VLDN 31 (18-46) · Cjoffo 31 (17-45) · Kind0 30 (17-44)  
+
+## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Nuclear TigeRES -1.5 mapas** @ **3.20** (Thunderpick) · prob 38% vs casas 29% · ventaja +23%
+
+- ✅ Valor: ventaja +23% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.087 partidos)  
+Mapa: Nuclear TigeRES 65% · Serie BO3: Nuclear TigeRES 65% - 35% Hype Tech  
+Casas: Nuclear TigeRES 53% · Hype Tech 47%  
+🔎 **Claves**  
+• Elo: Nuclear TigeRES 1861 (285 series) | Hype Tech 1694 (6 series)  
+• Forma: Nuclear TigeRES ❌✅❌❌❌ | Hype Tech ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Nuclear TigeRES: ayuki 6.5, flouzer 6.2 | Hype Tech: brutmonster 6.3, VLDN 6.2  
+• Mapas (último año): Nuclear TigeRES: fuerte ancient 71%, débil nuke 39% | Hype Tech: pocos mapas  
+• Química de la plantilla: Nuclear TigeRES: 76 mapas juntos de media | Hype Tech: 304 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Nuclear TigeRES gana 2-1: 25% → cuota justa 4.04 · casa 24%  
+• Hype Tech gana 2-1: 13% → cuota justa 7.53 · casa 23%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
+Nuclear TigeRES: Djon8 38 (22-55) · flouzer 37 (21-55) · ayuki 35 (20-52) · tronic 33 (19-49) · senka 31 (18-46)  
+Hype Tech: brutmonster 33 (19-49) · Dragon 33 (19-48) · VLDN 31 (18-46) · Cjoffo 31 (17-45) · Kind0 30 (17-44)  
 

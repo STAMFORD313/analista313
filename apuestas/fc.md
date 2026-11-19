@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 21:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 22:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Gazi vs mPm — 19/11 · 21:32
+## Kavviro vs Simaponika — 19/11 · 22:19
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.95** (Unibet) · prob 55% vs casas 45% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.30** (Unibet) · prob 20% vs casas 16% · ventaja +8%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.093 partidos)  
-Goles esperados: Gazi 2.49 · mPm 3.13  
-Ganador: Gazi 28% · empate 17% · mPm 55%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap mPm: −1.5 35% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 74.128 partidos)  
+Goles esperados: Kavviro 2.86 · Simaponika 1.65  
+Ganador: Kavviro 63% · empate 20% · Simaponika 17%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap Kavviro: −1.5 43% · −2.5 26%  
 🔎 **Claves**  
-• Forma: Gazi ❌❌✅✅✅ | mPm ❌❌✅➖✅  
-• Partidos: Gazi 556 | mPm 870  
-• Liga: Copa America  
-• Unibet: 1 2.28 · X 5.25 · 2 1.95 (sin margen 38%/17%/45%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.95 (+7%) · Paf España 1.95 (+7%)  
+• Forma: Kavviro ✅➖❌✅✅ | Simaponika ➖✅✅❌➖  
+• Partidos: Kavviro 1018 | Simaponika 1304  
+• Liga: World Cup A  
+• Unibet: 1 1.36 · X 5.30 · 2 4.25 (sin margen 63%/16%/20%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.30 (+8%) · Paf España 5.30 (+8%)  
 
-## Piljar vs Bosko — 19/11 · 21:38
+## RossFCDK vs OG — 19/11 · 22:34
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Piljar** @ **2.04** (Unibet) · prob 66% vs casas 43% · ventaja +35%
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana OG** @ **3.10** (Unibet) · prob 36% vs casas 28% · ventaja +11%
 
-- ❌ Valor: ventaja +35% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.093 partidos)  
-Goles esperados: Piljar 4.89 · Bosko 3.44  
-Ganador: Piljar 66% · empate 11% · Bosko 23%  
-Total: más de 8.5 goles 45% · menos 55%  
-Hándicap Piljar: −1.5 49% · −2.5 35%  
+📊 **Escenarios** (Poisson por jugador, 74.128 partidos)  
+Goles esperados: RossFCDK 2.29 · OG 2.24  
+Ganador: RossFCDK 38% · empate 26% · OG 36%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap RossFCDK: −1.5 24% · −2.5 12%  
 🔎 **Claves**  
-• Forma: Piljar ✅➖✅❌➖ | Bosko ❌➖➖✅❌  
-• Partidos: Piljar 572 | Bosko 673  
-• Liga: Champions League B 2x6  
-• Unibet: 1 2.04 · X 5.00 · 2 2.20 (sin margen 43%/17%/40%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.04 (+35%) · Paf España 2.04 (+35%)  
+• Forma: RossFCDK ❌❌➖➖❌ | OG ❌✅➖❌✅  
+• Partidos: RossFCDK 643 | OG 680  
+• Liga: Portugal Primera  
+• Unibet: 1 2.00 · X 3.00 · 2 3.10 (sin margen 43%/29%/28%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+11%) · Paf España 3.10 (+11%)  
 
-## mPm vs Shinobu — 19/11 · 21:44
+## hotShot vs RossFCDK — 19/11 · 22:58
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.79** (Unibet) · prob 64% vs casas 49% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana RossFCDK** @ **3.85** (Unibet) · prob 29% vs casas 23% · ventaja +11%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.093 partidos)  
-Goles esperados: mPm 3.59 · Shinobu 2.49  
-Ganador: mPm 64% · empate 15% · Shinobu 21%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap mPm: −1.5 43% · −2.5 28%  
+📊 **Escenarios** (Poisson por jugador, 74.128 partidos)  
+Goles esperados: hotShot 2.16 · RossFCDK 1.81  
+Ganador: hotShot 43% · empate 28% · RossFCDK 29%  
+Total: más de 3.5 goles 56% · menos 44%  
+Hándicap hotShot: −1.5 27% · −2.5 13%  
 🔎 **Claves**  
-• Forma: mPm ❌❌✅➖✅ | Shinobu ❌✅❌❌❌  
-• Partidos: mPm 870 | Shinobu 1636  
-• Liga: Copa America  
-• Unibet: 1 1.79 · X 5.80 · 2 2.45 (sin margen 49%/15%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.79 (+14%) · Paf España 1.79 (+14%)  
+• Forma: hotShot ✅✅❌✅✅ | RossFCDK ❌❌➖➖❌  
+• Partidos: hotShot 676 | RossFCDK 643  
+• Liga: Portugal Primera  
+• Unibet: 1 2.38 · X 2.14 · 2 3.85 (sin margen 37%/41%/23%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.85 (+11%) · Paf España 3.85 (+11%)  
 
