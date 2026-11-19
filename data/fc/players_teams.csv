@@ -73399,18 +73399,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2388242,262526,B Dortmund,Leipzig,,
 2388243,262526,Stuttgart,B Dortmund,,
 2388244,262526,Frankfurt,Bayern Munchen,,
-2387393,262474,England,Argentina,1,1
-2387394,262474,Spain,France,0,1
-2387395,262474,France,England,5,0
-2387396,262474,Argentina,Brazil,3,1
-2387397,262474,Brazil,France,1,1
-2387398,262474,England,Spain,2,2
-2387399,262474,Spain,Brazil,1,3
-2387400,262474,France,Argentina,0,2
-2387401,262474,Argentina,Spain,0,3
-2387402,262474,Brazil,England,1,2
-2387403,262474,Argentina,England,1,0
-2387404,262474,France,Spain,2,0
+2387393,262474,England,Argentina,1.0,1.0
+2387394,262474,Spain,France,0.0,1.0
+2387395,262474,France,England,5.0,0.0
+2387396,262474,Argentina,Brazil,3.0,1.0
+2387397,262474,Brazil,France,1.0,1.0
+2387398,262474,England,Spain,2.0,2.0
+2387399,262474,Spain,Brazil,1.0,3.0
+2387400,262474,France,Argentina,0.0,2.0
+2387401,262474,Argentina,Spain,0.0,3.0
+2387402,262474,Brazil,England,1.0,2.0
+2387403,262474,Argentina,England,1.0,0.0
+2387404,262474,France,Spain,2.0,0.0
 2387405,262474,England,France,,
 2387406,262474,Brazil,Argentina,,
 2387407,262474,France,Brazil,,
@@ -73419,16 +73419,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2387410,262474,Argentina,France,,
 2387411,262474,Spain,Argentina,,
 2387412,262474,England,Brazil,,
-2387473,262485,Salzburg,Roma,2,2
-2387474,262485,Porto,Aston Villa,1,0
-2387475,262485,Aston Villa,Salzburg,0,1
-2387476,262485,Roma,Fenerbahce,0,1
-2387477,262485,Fenerbahce,Aston Villa,1,1
-2387478,262485,Salzburg,Porto,2,1
-2387479,262485,Porto,Fenerbahce,1,3
-2387480,262485,Aston Villa,Roma,0,0
-2387481,262485,Roma,Porto,2,2
-2387482,262485,Fenerbahce,Salzburg,2,1
+2387473,262485,Salzburg,Roma,2.0,2.0
+2387474,262485,Porto,Aston Villa,1.0,0.0
+2387475,262485,Aston Villa,Salzburg,0.0,1.0
+2387476,262485,Roma,Fenerbahce,0.0,1.0
+2387477,262485,Fenerbahce,Aston Villa,1.0,1.0
+2387478,262485,Salzburg,Porto,2.0,1.0
+2387479,262485,Porto,Fenerbahce,1.0,3.0
+2387480,262485,Aston Villa,Roma,0.0,0.0
+2387481,262485,Roma,Porto,2.0,2.0
+2387482,262485,Fenerbahce,Salzburg,2.0,1.0
 2387483,262485,Roma,Salzburg,,
 2387484,262485,Aston Villa,Porto,,
 2387485,262485,Salzburg,Aston Villa,,
@@ -73439,18 +73439,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2387490,262485,Roma,Aston Villa,,
 2387491,262485,Porto,Roma,,
 2387492,262485,Salzburg,Fenerbahce,,
-2387633,262503,Inter Miami CF,Atlanta United,0,0
-2387634,262503,LA Galaxy,Los Angeles FC,1,3
-2387635,262503,Los Angeles FC,Inter Miami CF,0,1
-2387636,262503,Atlanta United,Seattle Sounders FC,0,0
-2387637,262503,Seattle Sounders FC,Los Angeles FC,1,1
-2387638,262503,Inter Miami CF,LA Galaxy,0,3
-2387639,262503,LA Galaxy,Seattle Sounders FC,1,1
-2387640,262503,Los Angeles FC,Atlanta United,1,2
-2387641,262503,Atlanta United,LA Galaxy,1,0
-2387642,262503,Seattle Sounders FC,Inter Miami CF,0,2
-2387643,262503,Atlanta United,Inter Miami CF,1,1
-2387644,262503,Los Angeles FC,LA Galaxy,0,0
+2387633,262503,Inter Miami CF,Atlanta United,0.0,0.0
+2387634,262503,LA Galaxy,Los Angeles FC,1.0,3.0
+2387635,262503,Los Angeles FC,Inter Miami CF,0.0,1.0
+2387636,262503,Atlanta United,Seattle Sounders FC,0.0,0.0
+2387637,262503,Seattle Sounders FC,Los Angeles FC,1.0,1.0
+2387638,262503,Inter Miami CF,LA Galaxy,0.0,3.0
+2387639,262503,LA Galaxy,Seattle Sounders FC,1.0,1.0
+2387640,262503,Los Angeles FC,Atlanta United,1.0,2.0
+2387641,262503,Atlanta United,LA Galaxy,1.0,0.0
+2387642,262503,Seattle Sounders FC,Inter Miami CF,0.0,2.0
+2387643,262503,Atlanta United,Inter Miami CF,1.0,1.0
+2387644,262503,Los Angeles FC,LA Galaxy,0.0,0.0
 2387645,262503,Inter Miami CF,Los Angeles FC,,
 2387646,262503,Seattle Sounders FC,Atlanta United,,
 2387647,262503,Los Angeles FC,Seattle Sounders FC,,
@@ -73459,3 +73459,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2387650,262503,Atlanta United,Los Angeles FC,,
 2387651,262503,LA Galaxy,Atlanta United,,
 2387652,262503,Inter Miami CF,Seattle Sounders FC,,
+2387313,262460,Newcastle,Aston Villa,3,0
+2387314,262460,Man Utd,Nottm Forest,2,0
+2387315,262460,Nottm Forest,Newcastle,2,2
+2387316,262460,Aston Villa,Brighton,1,0
+2387317,262460,Brighton,Nottm Forest,0,3
+2387318,262460,Newcastle,Man Utd,5,0
+2387319,262460,Man Utd,Brighton,0,0
+2387320,262460,Nottm Forest,Aston Villa,1,2
+2387321,262460,Aston Villa,Man Utd,1,4
+2387322,262460,Brighton,Newcastle,1,2
+2387323,262460,Aston Villa,Newcastle,,
+2387324,262460,Nottm Forest,Man Utd,,
+2387325,262460,Newcastle,Nottm Forest,,
+2387326,262460,Brighton,Aston Villa,,
+2387327,262460,Nottm Forest,Brighton,,
+2387328,262460,Man Utd,Newcastle,,
+2387329,262460,Brighton,Man Utd,,
+2387330,262460,Aston Villa,Nottm Forest,,
+2387331,262460,Man Utd,Aston Villa,,
+2387332,262460,Newcastle,Brighton,,
