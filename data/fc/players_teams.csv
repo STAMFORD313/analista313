@@ -73193,12 +73193,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2386911,262428,Belgium,Netherlands,,
 2386912,262428,Portugal,Belgium,,
 2386913,262428,Morocco,Germany,,
-2386518,262376,Arsenal,Juventus,2,2
-2386519,262376,B Dortmund,Sporting CP,0,3
-2386520,262376,B Dortmund,Arsenal,1,2
-2386521,262376,Sporting CP,Juventus,1,3
-2386522,262376,Juventus,B Dortmund,3,0
-2386523,262376,Sporting CP,Arsenal,0,1
+2386518,262376,Arsenal,Juventus,2.0,2.0
+2386519,262376,B Dortmund,Sporting CP,0.0,3.0
+2386520,262376,B Dortmund,Arsenal,1.0,2.0
+2386521,262376,Sporting CP,Juventus,1.0,3.0
+2386522,262376,Juventus,B Dortmund,3.0,0.0
+2386523,262376,Sporting CP,Arsenal,0.0,1.0
 2386524,262376,Arsenal,Juventus,,
 2386525,262376,B Dortmund,Sporting CP,,
 2386526,262376,B Dortmund,Arsenal,,
@@ -73211,3 +73211,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2386533,262376,Sporting CP,Juventus,,
 2386534,262376,Juventus,B Dortmund,,
 2386535,262376,Sporting CP,Arsenal,,
+2386132,262365,France,Germany,3,1
+2386133,262365,Argentina,Spain,1,3
+2386134,262365,Spain,France,1,3
+2386135,262365,Germany,England,2,0
+2386136,262365,England,Spain,1,0
+2386137,262365,France,Argentina,1,0
+2386138,262365,Argentina,England,0,2
+2386139,262365,Spain,Germany,2,1
+2386140,262365,Germany,Argentina,2,2
+2386141,262365,England,France,3,1
+2386142,262365,Germany,France,,
+2386143,262365,Spain,Argentina,,
+2386144,262365,France,Spain,,
+2386145,262365,England,Germany,,
+2386146,262365,Spain,England,,
+2386147,262365,Argentina,France,,
+2386148,262365,England,Argentina,,
+2386149,262365,Germany,Spain,,
+2386150,262365,Argentina,Germany,,
+2386151,262365,France,England,,
+2386982,262386,Real Madrid,Atleti,1,0
+2385813,262386,Paris,Liverpool,1,1
+2385814,262386,Liverpool,Real Madrid,0,2
+2386983,262386,Atleti,Bayern Munchen,3,0
+2385816,262386,Bayern Munchen,Liverpool,1,1
+2385817,262386,Real Madrid,Paris,0,2
+2385818,262386,Paris,Bayern Munchen,1,0
+2386984,262386,Liverpool,Atleti,2,0
+2386985,262386,Atleti,Paris,,
+2385821,262386,Bayern Munchen,Real Madrid,,
+2386986,262386,Atleti,Real Madrid,,
+2385823,262386,Liverpool,Paris,,
+2385824,262386,Real Madrid,Liverpool,,
+2386987,262386,Bayern Munchen,Atleti,,
+2385826,262386,Liverpool,Bayern Munchen,,
+2385827,262386,Paris,Real Madrid,,
+2385828,262386,Bayern Munchen,Paris,,
+2386988,262386,Atleti,Liverpool,,
+2386989,262386,Paris,Atleti,,
+2385831,262386,Real Madrid,Bayern Munchen,,
