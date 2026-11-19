@@ -1042,11 +1042,6 @@
   "cbb|2026-11-20|Kansas Jayhawks|Houston Cougars",
   "cbb|2026-11-19|Auburn Tigers|Notre Dame Fighting Irish",
   "cbb|2026-11-20|UNLV Rebels|Rutgers Scarlet Knights",
-  "fc|2380102",
-  "fc|2379180",
-  "fc|2379401",
-  "fc|2379542",
-  "fc|2379182",
   "fc|2379543",
   "fc|2379184",
   "fc|2379548",
@@ -2046,7 +2041,11 @@
   "cs2|134565",
   "fc|2387552",
   "fc|2388686",
-  "fc|2388642"
+  "fc|2388642",
+  "cs2|133945",
+  "fc|2387716",
+  "fc|2388690",
+  "fc|2388646"
  ],
  "signals": [
   {
@@ -3954,31 +3953,6 @@
    "bajas": "",
    "considered": true,
    "placed": false
-  },
-  {
-   "market": "H",
-   "pick": "MeLToSik",
-   "odds": 2.48,
-   "book": "Unibet",
-   "implied": 0.349,
-   "edge": 0.072,
-   "sin_stake": true,
-   "p": 0.432,
-   "key": "fc|2382451",
-   "match": "MeLToSik vs dm1trena",
-   "start": "2026-11-16T14:28:00+00:00",
-   "league": "🎮⚽ FC 27 · LaLiga",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle MeLToSik vs dm1trena (LaLiga): goles esperados 2.42-2.15, 1X2 43%/22%/34%. Sin cuotas de casa.",
-   "captured": "2026-11-16T14:25",
-   "version": "05e2dc7",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
   },
   {
    "market": "A",
@@ -9143,7 +9117,11 @@
    "version": "a8bd802",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": false,
+   "close_p": 0.3759,
+   "logged": true
   },
   {
    "market": "A",
@@ -19598,20 +19576,6 @@
    "start": "2026-11-19T14:42:00+00:00",
    "league": "🎮⚽ FC 27 · International A 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 73.715 partidos)",
-    "Goles esperados: Piljar 4.72 · Bosko 3.20",
-    "Ganador: Piljar 65% · empate 14% · Bosko 21%",
-    "Total: más de 7.5 goles 54% · menos 46%",
-    "Hándicap Piljar: −1.5 50% · −2.5 36%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Piljar ✅✅❌✅✅ | Bosko ❌❌✅❌❌",
-    "• Partidos: Piljar 555 | Bosko 656",
-    "• Liga: International A 2x6",
-    "• Unibet: 1 2.04 · X 5.20 · 2 2.17 (sin margen 43%/17%/40%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.04 (+32%) · Paf España 2.04 (+32%)"
-   ],
    "context": "EA FC Esoccer Battle Piljar vs Bosko (International A 2x6): goles esperados 4.72-3.20, 1X2 65%/14%/21%. Sin cuotas de casa.",
    "captured": "2026-11-19T13:19",
    "version": "6123dd1",
@@ -19633,20 +19597,6 @@
    "start": "2026-11-19T14:42:00+00:00",
    "league": "🎮⚽ FC 27 · International A 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 73.715 partidos)",
-    "Goles esperados: steeffant 4.84 · Lufy 4.09",
-    "Ganador: steeffant 54% · empate 15% · Lufy 31%",
-    "Total: más de 8.5 goles 53% · menos 47%",
-    "Hándicap steeffant: −1.5 40% · −2.5 27%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: steeffant ✅✅❌✅✅ | Lufy ❌❌✅❌✅",
-    "• Partidos: steeffant 938 | Lufy 899",
-    "• Liga: International A 2x6",
-    "• Unibet: 1 1.40 · X 6.00 · 2 3.65 (sin margen 62%/14%/24%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.65 (+13%) · Paf España 3.65 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle steeffant vs Lufy (International A 2x6): goles esperados 4.84-4.09, 1X2 54%/15%/31%. Sin cuotas de casa.",
    "captured": "2026-11-19T13:19",
    "version": "6123dd1",
@@ -19673,7 +19623,11 @@
    "version": "6123dd1",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -19689,26 +19643,16 @@
    "start": "2026-11-19T14:28:00+00:00",
    "league": "🎮⚽ FC 27 · Eredivisie",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 73.738 partidos)",
-    "Goles esperados: Gazi 2.41 · spirtes 2.58",
-    "Ganador: Gazi 36% · empate 21% · spirtes 43%",
-    "Total: más de 4.5 goles 56% · menos 44%",
-    "Hándicap spirtes: −1.5 27% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Gazi ✅❌❌✅✅ | spirtes ✅❌❌❌✅",
-    "• Partidos: Gazi 532 | spirtes 1276",
-    "• Liga: Eredivisie",
-    "• Unibet: 1 2.40 · X 5.80 · 2 1.82 (sin margen 37%/15%/48%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.80 (+24%) · Paf España 5.80 (+24%)"
-   ],
    "context": "EA FC Esoccer Battle Gazi vs spirtes (Eredivisie): goles esperados 2.41-2.58, 1X2 36%/21%/43%. Sin cuotas de casa.",
    "captured": "2026-11-19T13:50",
    "version": "a087910",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -19729,7 +19673,11 @@
    "version": "a087910",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -19750,7 +19698,11 @@
    "version": "a087910",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -19766,26 +19718,16 @@
    "start": "2026-11-19T14:28:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 73.765 partidos)",
-    "Goles esperados: DaVa 2.84 · Jekunam 2.12",
-    "Ganador: DaVa 56% · empate 20% · Jekunam 24%",
-    "Total: más de 4.5 goles 55% · menos 45%",
-    "Hándicap DaVa: −1.5 35% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: DaVa ✅✅❌✅➖ | Jekunam ➖❌❌✅❌",
-    "• Partidos: DaVa 1414 | Jekunam 1243",
-    "• Liga: LaLiga",
-    "• Unibet: 1 1.89 · X 3.05 · 2 3.40 (sin margen 46%/28%/26%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.89 (+6%) · Paf España 1.89 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle DaVa vs Jekunam (LaLiga): goles esperados 2.84-2.12, 1X2 56%/20%/24%. Sin cuotas de casa.",
    "captured": "2026-11-19T14:19",
    "version": "9857fb9",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -19801,20 +19743,6 @@
    "start": "2026-11-19T14:40:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 73.765 partidos)",
-    "Goles esperados: Lunjo 2.79 · Joop 2.14",
-    "Ganador: Lunjo 52% · empate 21% · Joop 27%",
-    "Total: más de 4.5 goles 55% · menos 45%",
-    "Hándicap Lunjo: −1.5 34% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Lunjo ➖❌❌✅❌ | Joop ✅❌❌❌➖",
-    "• Partidos: Lunjo 256 | Joop 256",
-    "• Liga: Champions League B",
-    "• Unibet: 1 1.71 · X 5.10 · 2 2.80 (sin margen 51%/17%/31%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.10 (+5%) · Paf España 5.10 (+5%)"
-   ],
    "context": "EA FC Esoccer Battle Lunjo vs Joop (Champions League B): goles esperados 2.79-2.14, 1X2 52%/21%/27%. Sin cuotas de casa.",
    "captured": "2026-11-19T14:19",
    "version": "9857fb9",
