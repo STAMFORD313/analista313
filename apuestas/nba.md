@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 19/11/2026 02:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Auburn Tigers vs UNLV Rebels — 19/11 · 04:00
 
