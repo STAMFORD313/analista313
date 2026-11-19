@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 15:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Falcons Force vs Young TigeRES — 19/11 · 16:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **1.72** (Thunderpick) · prob 57% vs casas 54% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: Falcons Force 39% · Serie BO1: Falcons Force 39% - 61% Young TigeRES  
-Casas: Falcons Force 46% · Young TigeRES 54%  
-🔎 **Claves**  
-• Elo: Falcons Force 1579 (141 series) | Young TigeRES 1657 (74 series)  
-• Forma: Falcons Force ✅❌❌✅❌ | Young TigeRES ❌❌✅❌✅  
-• H2H: 1: 0-1  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 19/11/2026 16:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs HAVU — 19/11 · 16:30
 

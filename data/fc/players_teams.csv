@@ -73834,18 +73834,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2388652,262534,England,Germany,,
 2388653,262534,France,England,,
 2388654,262534,Argentina,Spain,,
-2387703,262500,PSV,Ajax,2,0
-2387704,262500,Feyenoord,Twente,0,2
-2387705,262500,Twente,PSV,2,2
-2387706,262500,Ajax,AZ Alkmaar,2,0
-2387707,262500,AZ Alkmaar,Twente,2,1
-2387708,262500,PSV,Feyenoord,1,0
-2387709,262500,Feyenoord,AZ Alkmaar,2,2
-2387710,262500,Twente,Ajax,0,1
-2387711,262500,Ajax,Feyenoord,3,2
-2387712,262500,AZ Alkmaar,PSV,0,6
-2387713,262500,Ajax,PSV,0,2
-2387714,262500,Twente,Feyenoord,1,1
+2387703,262500,PSV,Ajax,2.0,0.0
+2387704,262500,Feyenoord,Twente,0.0,2.0
+2387705,262500,Twente,PSV,2.0,2.0
+2387706,262500,Ajax,AZ Alkmaar,2.0,0.0
+2387707,262500,AZ Alkmaar,Twente,2.0,1.0
+2387708,262500,PSV,Feyenoord,1.0,0.0
+2387709,262500,Feyenoord,AZ Alkmaar,2.0,2.0
+2387710,262500,Twente,Ajax,0.0,1.0
+2387711,262500,Ajax,Feyenoord,3.0,2.0
+2387712,262500,AZ Alkmaar,PSV,0.0,6.0
+2387713,262500,Ajax,PSV,0.0,2.0
+2387714,262500,Twente,Feyenoord,1.0,1.0
 2387715,262500,PSV,Twente,,
 2387716,262500,AZ Alkmaar,Ajax,,
 2387717,262500,Twente,AZ Alkmaar,,
@@ -73854,3 +73854,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2387720,262500,Ajax,Twente,,
 2387721,262500,Feyenoord,Ajax,,
 2387722,262500,PSV,AZ Alkmaar,,
+2388445,262478,Fenerbahce,Aston Villa,0,3
+2388446,262478,Roma,Salzburg,3,4
+2388447,262478,Salzburg,Fenerbahce,3,2
+2388448,262478,Aston Villa,Porto,1,1
+2388449,262478,Porto,Salzburg,0,1
+2388450,262478,Fenerbahce,Roma,3,1
+2388451,262478,Roma,Porto,3,1
+2388452,262478,Salzburg,Aston Villa,0,3
+2388453,262478,Aston Villa,Roma,2,2
+2388454,262478,Porto,Fenerbahce,0,2
+2388455,262478,Aston Villa,Fenerbahce,,
+2388456,262478,Salzburg,Roma,,
+2388457,262478,Fenerbahce,Salzburg,,
+2388458,262478,Porto,Aston Villa,,
+2388459,262478,Salzburg,Porto,,
+2388460,262478,Roma,Fenerbahce,,
+2388461,262478,Porto,Roma,,
+2388462,262478,Aston Villa,Salzburg,,
+2388463,262478,Roma,Aston Villa,,
+2388464,262478,Fenerbahce,Porto,,
+2388305,262522,Napoli,Roma,0,4
+2388306,262522,Sassuolo,Juventus,1,0
+2388307,262522,Juventus,Napoli,3,1
+2388308,262522,Roma,Bologna,1,1
+2388309,262522,Bologna,Juventus,0,1
+2388310,262522,Napoli,Sassuolo,2,0
+2388311,262522,Sassuolo,Bologna,0,2
+2388312,262522,Juventus,Roma,1,2
+2388313,262522,Roma,Sassuolo,4,3
+2388314,262522,Bologna,Napoli,0,0
+2388315,262522,Roma,Napoli,2,1
+2388316,262522,Juventus,Sassuolo,1,0
+2388317,262522,Napoli,Juventus,,
+2388318,262522,Bologna,Roma,,
+2388319,262522,Juventus,Bologna,,
+2388320,262522,Sassuolo,Napoli,,
+2388321,262522,Bologna,Sassuolo,,
+2388322,262522,Roma,Juventus,,
+2388323,262522,Sassuolo,Roma,,
+2388324,262522,Napoli,Bologna,,
