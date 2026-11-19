@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 10:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## mko1919 vs Wboy — 19/11 · 10:43
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **3.60** (Unibet) · prob 35% vs casas 24% · ventaja +26%
-
-- ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 73.512 partidos)  
-Goles esperados: mko1919 3.33 · Wboy 3.75  
-Ganador: mko1919 35% · empate 17% · Wboy 48%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap Wboy: −1.5 34% · −2.5 21%  
-🔎 **Claves**  
-• Forma: mko1919 ❌➖❌➖✅ | Wboy ❌❌➖❌❌  
-• Partidos: mko1919 1326 | Wboy 1237  
-• Liga: Serie A  
-• Unibet: 1 3.60 · X 5.00 · 2 1.52 (sin margen 24%/18%/58%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+26%) · Paf España 3.60 (+26%)  
-
-## Loka vs saportj — 19/11 · 10:48
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **8.00** (Unibet) · prob 16% vs casas 11% · ventaja +26%
-
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 73.524 partidos)  
-Goles esperados: Loka 3.84 · saportj 2.42  
-Ganador: Loka 65% · empate 16% · saportj 19%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Loka: −1.5 48% · −2.5 32%  
-🔎 **Claves**  
-• Forma: Loka ✅✅✅✅❌ | saportj ❌➖❌✅✅  
-• Partidos: Loka 1395 | saportj 1038  
-• Liga: EFL Championship  
-• Unibet: 1 1.25 · X 8.00 · 2 4.40 (sin margen 69%/11%/20%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.00 (+26%) · Paf España 8.00 (+26%)  
+Actualizado 19/11/2026 10:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## TikitakaMaster vs v1nniePuh — 19/11 · 11:00
 
@@ -77,4 +39,61 @@ Hándicap imagin: −1.5 36% · −2.5 24%
 • Liga: Champions League A 2x6  
 • Unibet: 1 2.30 · X 4.80 · 2 2.00 (sin margen 38%/18%/44%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.30 (+11%) · Paf España 2.30 (+11%)  
+
+## Taz vs Maxa — 19/11 · 11:00
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Maxa** @ **2.45** (Unibet) · prob 44% vs casas 36% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.540 partidos)  
+Goles esperados: Taz 3.24 · Maxa 3.49  
+Ganador: Taz 38% · empate 18% · Maxa 44%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap Maxa: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Taz ➖❌✅➖✅ | Maxa ➖✅✅✅✅  
+• Partidos: Taz 1164 | Maxa 1100  
+• Liga: World Cup A  
+• Unibet: 1 1.98 · X 4.30 · 2 2.45 (sin margen 44%/20%/36%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.45 (+8%) · Paf España 2.45 (+8%)  
+
+## Duka vs Maslja — 19/11 · 11:12
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Maslja** @ **2.95** (Unibet) · prob 38% vs casas 30% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.540 partidos)  
+Goles esperados: Duka 2.49 · Maslja 2.47  
+Ganador: Duka 40% · empate 22% · Maslja 38%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Duka: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Duka ➖❌❌❌❌ | Maslja ❌✅❌➖❌  
+• Partidos: Duka 1219 | Maslja 1052  
+• Liga: World Cup A  
+• Unibet: 1 1.86 · X 3.70 · 2 2.95 (sin margen 47%/24%/30%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.95 (+12%) · Paf España 2.95 (+12%)  
+
+## DaVa vs Revange — 19/11 · 11:30
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Revange** @ **4.35** (Unibet) · prob 30% vs casas 20% · ventaja +32%
+
+- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 73.540 partidos)  
+Goles esperados: DaVa 2.83 · Revange 2.24  
+Ganador: DaVa 49% · empate 21% · Revange 30%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap DaVa: −1.5 34% · −2.5 19%  
+🔎 **Claves**  
+• Forma: DaVa ✅➖➖✅✅ | Revange ❌❌❌➖✅  
+• Partidos: DaVa 1398 | Revange 689  
+• Liga: Bundesliga  
+• Unibet: 1 1.49 · X 4.25 · 2 4.35 (sin margen 59%/21%/20%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.35 (+32%) · Paf España 4.35 (+32%)  
 
