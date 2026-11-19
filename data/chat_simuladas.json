@@ -3255,14 +3255,17 @@
     "away": "Golden State Warriors",
     "txt": "Gana Golden State Warriors",
     "odds": 2.73,
-    "p": 0.40815024420024415
+    "p": 0.40815024420024415,
+    "ok": false,
+    "por": "ganó Dallas Mavericks 116-94",
+    "clv": 0.005
    }
   ],
   "odds": 11.91,
   "p": 0.10431989376760573,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
