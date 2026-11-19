@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 08:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 09:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Walczaki vs KUUSAMO — 19/11 · 10:00
 
@@ -21,6 +21,26 @@ Casas: Walczaki 77% · KUUSAMO 23%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Walczaki gana 2-1: 25% → cuota justa 4.06 · casa 26%  
 • KUUSAMO gana 2-1: 13% → cuota justa 7.82 · casa 11%  
+
+## PCIFIC vs los kogutos — 19/11 · 10:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4 · **Gana los kogutos** @ **4.00** (Thunderpick) · prob 29% vs casas 23% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.050 partidos)  
+Mapa: PCIFIC 61% · Serie BO3: PCIFIC 66% - 34% los kogutos  
+Casas: PCIFIC 77% · los kogutos 23%  
+🔎 **Claves**  
+• Elo: PCIFIC 1716 (155 series) | los kogutos 1600 (316 series)  
+• Forma: PCIFIC ✅❌✅✅❌ | los kogutos ✅✅✅❌❌  
+• H2H: 1: 1-0  
+• Torneo: Fiesta Series 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PCIFIC gana 2-1: 25% → cuota justa 4.02  
+• los kogutos gana 2-1: 16% → cuota justa 6.20  
 
 ## WBT vs MOUZ NXT — 19/11 · 12:30
 
