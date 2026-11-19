@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 19/11/2026 16:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SINQU vs HAVU — 19/11 · 16:30
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana HAVU** @ **1.12** (Thunderpick) · prob 75% vs casas 82% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.006 partidos)  
-Mapa: SINQU 37% · Serie BO3: SINQU 31% - 69% HAVU  
-Casas: SINQU 18% · HAVU 82%  
-🔎 **Claves**  
-• Elo: SINQU 1466 (77 series) | HAVU 1605 (379 series)  
-• Forma: SINQU ✅✅✅✅✅ | HAVU ✅✅✅✅❌  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• SINQU gana 2-1: 15% → cuota justa 6.73  
-• HAVU gana 2-1: 25% → cuota justa 4.01  
+Actualizado 19/11/2026 16:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs ZOTIX — 19/11 · 18:00
 

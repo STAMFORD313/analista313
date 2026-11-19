@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 19/11/2026 16:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 19/11/2026 16:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## spirtes vs Gazi — 19/11 · 16:28
+## Bosko vs Piljar — 19/11 · 17:12
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **5.50** (Unibet) · prob 22% vs casas 16% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Piljar** @ **1.94** (Unibet) · prob 64% vs casas 45% · ventaja +24%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.825 partidos)  
-Goles esperados: spirtes 2.54 · Gazi 2.47  
-Ganador: spirtes 41% · empate 22% · Gazi 38%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap spirtes: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 73.853 partidos)  
+Goles esperados: Bosko 3.30 · Piljar 4.73  
+Ganador: Bosko 22% · empate 14% · Piljar 64%  
+Total: más de 8.5 goles 41% · menos 59%  
+Hándicap Piljar: −1.5 48% · −2.5 35%  
 🔎 **Claves**  
-• Forma: spirtes ❌❌❌❌❌ | Gazi ✅❌✅❌✅  
-• Partidos: spirtes 1282 | Gazi 538  
-• Liga: Eredivisie  
-• Unibet: 1 1.77 · X 5.50 · 2 2.55 (sin margen 50%/16%/34%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.50 (+18%) · Paf España 5.50 (+18%)  
+• Forma: Bosko ✅✅❌❌✅ | Piljar ❌✅✅❌❌  
+• Partidos: Bosko 661 | Piljar 561  
+• Liga: International A 2x6  
+• Unibet: 1 2.30 · X 5.20 · 2 1.94 (sin margen 38%/17%/45%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.94 (+24%) · Paf España 1.94 (+24%)  
 
-## Bosko vs Lufy — 19/11 · 16:36
+## Lufy vs steeffant — 19/11 · 17:12
 
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **2.00** (Unibet) · prob 60% vs casas 44% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **4.10** (Unibet) · prob 30% vs casas 21% · ventaja +22%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 73.825 partidos)  
-Goles esperados: Bosko 3.92 · Lufy 5.03  
-Ganador: Bosko 26% · empate 14% · Lufy 60%  
-Total: más de 8.5 goles 54% · menos 46%  
-Hándicap Lufy: −1.5 44% · −2.5 32%  
+📊 **Escenarios** (Poisson por jugador, 73.853 partidos)  
+Goles esperados: Lufy 4.02 · steeffant 4.84  
+Ganador: Lufy 30% · empate 14% · steeffant 56%  
+Total: más de 8.5 goles 52% · menos 48%  
+Hándicap steeffant: −1.5 41% · −2.5 28%  
 🔎 **Claves**  
-• Forma: Bosko ✅✅❌❌✅ | Lufy ❌✅❌✅✅  
-• Partidos: Bosko 661 | Lufy 904  
+• Forma: Lufy ✅❌✅✅❌ | steeffant ✅➖✅❌✅  
+• Partidos: Lufy 905 | steeffant 943  
 • Liga: International A 2x6  
-• Unibet: 1 2.32 · X 4.60 · 2 2.00 (sin margen 38%/19%/44%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.00 (+19%) · Paf España 2.00 (+19%)  
+• Unibet: 1 4.10 · X 6.40 · 2 1.33 (sin margen 21%/14%/65%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.10 (+22%) · Paf España 4.10 (+22%)  
 
