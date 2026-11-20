@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 23:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Velez Sarsfield vs Belgrano — 21/11 · 00:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Belgrano** @ **3.80** (Bet365) · prob 27% vs casas 27% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.06 - 0.74)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 54% · +2.5 27% · +3.5 11% · Ambos marcan 35%  
-Marcadores: 0-0 17% · 1-0 17% · 1-1 14% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Velez Sarsfield ❌✅✅➖❌ | Belgrano ✅❌❌➖❌  
-• H2H: 12 desde 2012: 4V-2E-6D · 2.7 goles/partido · +2.5 en 58%  
-• Bajas: Velez Sarsfield: sin bajas; Belgrano: sin bajas  
-• Favorito de las casas: Velez Sarsfield @ 2.22  
+Actualizado 21/11/2026 00:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Puebla vs Atl. San Luis — 21/11 · 02:00
 

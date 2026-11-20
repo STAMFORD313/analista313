@@ -1232,11 +1232,6 @@
   "atp|2026-11-21|Alexander Zverev|Daniil Medvedev",
   "cbb|2026-11-21|Incarnate Word Cardinals|Central Baptist Mustangs",
   "cbb|2026-11-21|Mercyhurst Lakers|Western Illinois Leathernecks",
-  "fc|2381872",
-  "fc|2382005",
-  "fc|2382007",
-  "fc|2380880",
-  "fc|2380879",
   "cs2|133862",
   "cs2|133397",
   "fc|2381602",
@@ -2236,7 +2231,10 @@
   "cs2|134775",
   "fc|2389265",
   "fc|2389264",
-  "fc|2390427"
+  "fc|2390427",
+  "fc|2389272",
+  "fc|2390165",
+  "fc|2390166"
  ],
  "signals": [
   {
@@ -3831,30 +3829,6 @@
    "implied": 0.911,
    "edge": 0.0,
    "p": 0.911,
-   "key": "fc|2384292",
-   "match": "Kosta vs zaha",
-   "start": "2026-11-17T22:54:00+00:00",
-   "league": "🎮⚽ FC 27 · Argentina Super League 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kosta vs zaha (Argentina Super League 2x6): goles esperados 3.66-7.93, 1X2 4%/5%/91%. Sin cuotas de casa.",
-   "captured": "2026-11-17T22:49",
-   "version": "0424cc3",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-11",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "zaha",
-   "odds": 1.1,
-   "book": "cuota justa (sin casa)",
-   "implied": 0.911,
-   "edge": 0.0,
-   "p": 0.911,
    "key": "fc|2384298",
    "match": "Kosta vs zaha",
    "start": "2026-11-18T00:42:00+00:00",
@@ -4062,15 +4036,6 @@
    "pick": "Más de 49.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>50.2</b> puntos · línea 49.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UCF Knights ❌✅❌✅❌ | Iowa State Cyclones ❌❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas"
-   ],
    "context": "UCF Knights vs Iowa State Cyclones (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 50.2 frente a línea 49.5. Forma UCF Knights ❌✅❌✅❌, Iowa State Cyclones ❌❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas.",
    "captured": "2026-11-18T00:21",
    "version": "3bc0f40",
@@ -4092,14 +4057,6 @@
    "pick": "UCF Knights -2.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: UCF Knights cubre -2.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UCF Knights ❌✅❌✅❌ | Iowa State Cyclones ❌❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas"
-   ],
    "context": "UCF Knights vs Iowa State Cyclones (🏈 NCAA Football). Hándicap UCF Knights -2.5: margen esperado desde el Elo (gana UCF Knights 31%). Forma UCF Knights ❌✅❌✅❌, Iowa State Cyclones ❌❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas.",
    "captured": "2026-11-18T00:21",
    "version": "3bc0f40",
@@ -4120,18 +4077,6 @@
    "start": "2026-11-20T23:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.585 partidos y bajas)",
-    "Gana UCF Knights 31% · Gana Iowa State Cyclones 69%",
-    "Casas: UCF Knights 54% · Iowa State Cyclones 46%",
-    "Hándicap UCF -2.5 · Total puntos 49.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UCF Knights ❌✅❌✅❌ | Iowa State Cyclones ❌❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas",
-    "• Favorito de las casas: UCF Knights @ 1.77"
-   ],
    "context": "UCF Knights vs Iowa State Cyclones (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: UCF Knights 31%, Iowa State Cyclones 69%. Cuotas DraftKings 1.769/2.1, hándicap UCF -2.5, total 49.5. Forma UCF Knights ❌✅❌✅❌, Iowa State Cyclones ❌❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas UCF Knights: ninguna. Bajas Iowa State Cyclones: ninguna.",
    "captured": "2026-11-18T00:21",
    "version": "3bc0f40",
@@ -18364,19 +18309,6 @@
    "start": "2026-11-20T23:00:00+00:00",
    "league": "🇦🇷 Liga Profesional",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.06 - 0.74)",
-    "1 46% · X 29% · 2 25%",
-    "1X 75% · X2 54% · 12 71%",
-    "+1.5 54% · +2.5 27% · +3.5 11% · Ambos marcan 35%",
-    "Marcadores: 0-0 17% · 1-0 17% · 1-1 14% · 0-1 12%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Velez Sarsfield ❌✅✅➖❌ | Belgrano ✅❌❌➖❌",
-    "• H2H: 12 desde 2012: 4V-2E-6D · 2.7 goles/partido · +2.5 en 58%",
-    "• Bajas: Velez Sarsfield: sin bajas; Belgrano: sin bajas",
-    "• Favorito de las casas: Velez Sarsfield @ 2.22"
-   ],
    "context": "Velez Sarsfield vs Belgrano (🇦🇷 Liga Profesional). Modelo Poisson con historial desde 2005 y bajas: 1 46% X 29% 2 25%, +2.5 27%, ambos marcan 35%. Forma Velez Sarsfield ❌✅✅➖❌, Belgrano ✅❌❌➖❌ (✅ victoria ➖ empate ❌ derrota). H2H 12 desde 2012: 4V-2E-6D · 2.7 goles/partido · +2.5 en 58%. Bajas Velez Sarsfield: ninguna. Bajas Belgrano: ninguna.",
    "captured": "2026-11-20T09:12",
    "version": "04002f6",
@@ -38498,10 +38430,6 @@
    "start": "2026-11-20T23:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Argentina - Liga Pro",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.43 y el precio justo de Pinnacle es 2.30 (ventaja +5.7%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Velez Sarsfield vs Belgrano (Argentina - Liga Pro). Estrategia de valor: Smarkets 2.43 frente a Pinnacle justo 2.30.",
    "captured": "2026-11-20T15:23",
    "version": "20f734a",
@@ -47006,23 +46934,48 @@
    "start": "2026-11-20T22:58:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.396 partidos)",
-    "Goles esperados: Skif 2.76 · curuza 3.36",
-    "Ganador: Skif 28% · empate 21% · curuza 50%",
-    "Total: más de 6.5 goles 41% · menos 59%",
-    "Hándicap curuza: −1.5 35% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Skif ❌❌✅❌❌ | curuza ❌❌✅❌❌",
-    "• Partidos: Skif 746 | curuza 927",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 3.10 · X 5.00 · 2 1.62 (sin margen 28%/18%/54%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.00 (+7%) · Paf España 5.00 (+7%)"
-   ],
    "context": "EA FC Esoccer Battle Skif vs curuza (Portugal Primera): goles esperados 2.76-3.36, 1X2 28%/21%/50%. Sin cuotas de casa.",
    "captured": "2026-11-20T22:52",
    "version": "8958781",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "4-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.5,
+   "book": "Unibet",
+   "implied": 0.16,
+   "edge": 0.078,
+   "sin_stake": true,
+   "p": 0.196,
+   "key": "fc|2389272",
+   "match": "kirman vs curuza",
+   "start": "2026-11-20T23:56:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 75.416 partidos)",
+    "Goles esperados: kirman 3.36 · curuza 2.78",
+    "Ganador: kirman 52% · empate 20% · curuza 29%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap kirman: −1.5 35% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kirman ✅❌✅❌❌ | curuza ✅❌❌✅✅",
+    "• Partidos: kirman 774 | curuza 929",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.53 · X 5.50 · 2 3.35 (sin margen 58%/16%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.50 (+8%) · Paf España 5.50 (+8%)"
+   ],
+   "context": "EA FC Esoccer Battle kirman vs curuza (World Cup A): goles esperados 3.36-2.78, 1X2 52%/20%/29%. Sin cuotas de casa.",
+   "captured": "2026-11-20T23:23",
+   "version": "3edb112",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -55361,7 +55314,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP2|2026-11-21|Sociedad B|Cadiz": {
    "match": "Sociedad B vs Cadiz",
@@ -55622,7 +55576,8 @@
      "line": 1.5,
      "text": "Menos de 1.5 tarjetas de Nijmegen"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "T1|2026-11-21|Kocaelispor|Fenerbahce": {
    "match": "Kocaelispor vs Fenerbahce",
@@ -56856,7 +56811,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP2|2026-11-21|Castellon|Eldense": {
    "match": "Castellon vs Eldense",
@@ -57816,7 +57772,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "B1|2026-11-21|Mechelen|Club Brugge": {
    "match": "Mechelen vs Club Brugge",
@@ -58201,7 +58158,8 @@
      "line": 12.5,
      "text": "Más de 12.5 faltas de Toulouse"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "F1|2026-11-21|Lille|Lyon": {
    "match": "Lille vs Lyon",
@@ -58365,7 +58323,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "F1|2026-11-21|Monaco|Auxerre": {
    "match": "Monaco vs Auxerre",
@@ -64718,7 +64677,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-20T19:56:02.917085+00:00",
+ "combo_sent": "2026-11-20T23:23:08.993462+00:00",
  "fc_sim_sent": "2026-11-20T19:56:01.181483+00:00",
  "fc_sim_n": 2748,
  "kambi_ok": [

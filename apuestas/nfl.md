@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 20/11/2026 23:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UCF Knights vs Iowa State Cyclones — 21/11 · 00:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 49.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **50.2** puntos · línea 49.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: UCF Knights ❌✅❌✅❌ | Iowa State Cyclones ❌❌✅❌✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas  
-
-## UCF Knights vs Iowa State Cyclones — 21/11 · 00:00
-
-👀 candidata · 🏈 NCAA Football · **UCF Knights -2.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: UCF Knights cubre -2.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: UCF Knights ❌✅❌✅❌ | Iowa State Cyclones ❌❌✅❌✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas  
-
-## UCF Knights vs Iowa State Cyclones — 21/11 · 00:00
-
-👀 candidata · 🏈 NCAA Football · **Gana UCF Knights** @ **1.77** (DraftKings) · prob 54% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.585 partidos y bajas)  
-Gana UCF Knights 31% · Gana Iowa State Cyclones 69%  
-Casas: UCF Knights 54% · Iowa State Cyclones 46%  
-Hándicap UCF -2.5 · Total puntos 49.5  
-🔎 **Claves**  
-• Forma: UCF Knights ❌✅❌✅❌ | Iowa State Cyclones ❌❌✅❌✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: UCF Knights: sin bajas; Iowa State Cyclones: sin bajas  
-• Favorito de las casas: UCF Knights @ 1.77  
+Actualizado 21/11/2026 00:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Duke Blue Devils vs Clemson Tigers — 21/11 · 01:30
 

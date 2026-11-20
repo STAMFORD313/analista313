@@ -75432,16 +75432,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389263,262597,Vitoria SC,Braga,,
 2389264,262597,Porto,Vitoria SC,,
 2389265,262597,Benfica,Sporting CP,,
-2389790,262578,Czechia,Netherlands,0,1
-2389791,262578,Norway,Morocco,4,1
-2389792,262578,Morocco,Czechia,0,1
-2389793,262578,Netherlands,Germany,1,1
-2389794,262578,Germany,Morocco,0,2
-2389795,262578,Czechia,Norway,0,2
-2389796,262578,Norway,Germany,1,0
-2389797,262578,Morocco,Netherlands,2,2
-2389798,262578,Netherlands,Norway,1,3
-2389799,262578,Germany,Czechia,1,0
+2389790,262578,Czechia,Netherlands,0.0,1.0
+2389791,262578,Norway,Morocco,4.0,1.0
+2389792,262578,Morocco,Czechia,0.0,1.0
+2389793,262578,Netherlands,Germany,1.0,1.0
+2389794,262578,Germany,Morocco,0.0,2.0
+2389795,262578,Czechia,Norway,0.0,2.0
+2389796,262578,Norway,Germany,1.0,0.0
+2389797,262578,Morocco,Netherlands,2.0,2.0
+2389798,262578,Netherlands,Norway,1.0,3.0
+2389799,262578,Germany,Czechia,1.0,0.0
 2389800,262578,Netherlands,Czechia,,
 2389801,262578,Morocco,Norway,,
 2389802,262578,Czechia,Morocco,,
@@ -75452,9 +75452,9 @@ id,tournament_id,club1,club2,ht1,ht2
 2389807,262578,Netherlands,Morocco,,
 2389808,262578,Norway,Netherlands,,
 2389809,262578,Czechia,Germany,,
-2390424,262644,Boca Juniors,River Plate,1,2
-2390425,262644,Boca Juniors,Racing Club,1,2
-2390426,262644,River Plate,Racing Club,1,4
+2390424,262644,Boca Juniors,River Plate,1.0,2.0
+2390425,262644,Boca Juniors,Racing Club,1.0,2.0
+2390426,262644,River Plate,Racing Club,1.0,4.0
 2390427,262644,River Plate,Boca Juniors,,
 2390428,262644,Racing Club,Boca Juniors,,
 2390429,262644,Racing Club,River Plate,,
