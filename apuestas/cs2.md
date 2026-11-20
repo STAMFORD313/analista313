@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 01:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs FORZE Reload — 20/11 · 10:00
 

@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 20/11/2026 01:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Temple Owls vs Rice Owls — 20/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 50.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **51.9** puntos · línea 50.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Temple Owls ❌❌❌❌❌ | Rice Owls ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Temple Owls: sin bajas; Rice Owls: 0 fuera, 1 duda  
-
-## Temple Owls vs Rice Owls — 20/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Temple Owls -3** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Temple Owls cubre -3 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Temple Owls ❌❌❌❌❌ | Rice Owls ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Temple Owls: sin bajas; Rice Owls: 0 fuera, 1 duda  
-
-## Temple Owls vs Rice Owls — 20/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Temple Owls** @ **1.68** (DraftKings) · prob 57% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.585 partidos y bajas)  
-Gana Temple Owls 58% · Gana Rice Owls 42%  
-Casas: Temple Owls 57% · Rice Owls 43%  
-Hándicap TEM -3 · Total puntos 50.5  
-🔎 **Claves**  
-• Forma: Temple Owls ❌❌❌❌❌ | Rice Owls ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Temple Owls: sin bajas; Rice Owls: 0 fuera, 1 duda  
-• Favorito de las casas: Temple Owls @ 1.68  
+Actualizado 20/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Houston Texans vs Indianapolis Colts — 20/11 · 02:15
 
