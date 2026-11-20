@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 22:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 23:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
 
@@ -54,6 +54,26 @@ Casas: Nuclear TigeRES 53% · Hype Tech 47%
 Nuclear TigeRES: Djon8 38 (22-55) · flouzer 37 (21-55) · ayuki 35 (20-52) · tronic 33 (19-49) · senka 31 (18-46)  
 Hype Tech: brutmonster 33 (19-49) · Dragon 33 (19-48) · VLDN 31 (18-46) · Cjoffo 31 (17-45) · Kind0 30 (17-44)  
 
+## MASONIC vs EAC — 21/11 · 10:00
+
+👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33 · **Gana EAC** @ **1.56** (Thunderpick) · prob 59% vs casas 58% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.132 partidos)  
+Mapa: MASONIC 43% · Serie BO3: MASONIC 40% - 60% EAC  
+Casas: MASONIC 42% · EAC 58%  
+🔎 **Claves**  
+• Elo: MASONIC 1539 (495 series) | EAC 1610 (74 series)  
+• Forma: MASONIC ✅❌❌❌❌ | EAC ✅❌❌✅❌  
+• H2H: sin precedentes  
+• Torneo: Dust2.dk Ligaen Season 33 (nivel C)  
+• Cambios de plantilla: MASONIC, EAC  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• MASONIC gana 2-1: 19% → cuota justa 5.37  
+• EAC gana 2-1: 24% → cuota justa 4.12  
+
 ## Virtus.pro vs NT — 21/11 · 13:00
 
 👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Virtus.pro** @ **1.13** (Thunderpick) · prob 76% vs casas 82% · ventaja -14%
@@ -105,6 +125,26 @@ Casas: Virtus.pro 82% · NT 18%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
 Virtus.pro: AquaRS 35 (20-52) · Patsi 35 (20-51) · b1st 35 (20-51) · mir 34 (20-51) · tO0RO 32 (18-47)  
 NT: Woro2k 36 (21-53) · ta9z 33 (19-48) · fakerealityy 31 (17-45) · Ryuzak1 29 (16-43) · zogeN 28 (16-42)  
+
+## STATE vs XI — 21/11 · 13:00
+
+👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33 · **Gana XI** @ **3.67** (Thunderpick) · prob 28% vs casas 25% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.132 partidos)  
+Mapa: STATE 62% · Serie BO3: STATE 68% - 32% XI  
+Casas: STATE 75% · XI 25%  
+🔎 **Claves**  
+• Elo: STATE 1745 (548 series) | XI 1612 (419 series)  
+• Forma: STATE ✅✅✅❌✅ | XI ✅❌✅✅✅  
+• H2H: 17: 12-5  
+• Torneo: Dust2.dk Ligaen Season 33 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• STATE gana 2-1: 25% → cuota justa 4.01  
+• XI gana 2-1: 15% → cuota justa 6.61  
 
 ## INFINITE vs BAKS — 21/11 · 16:00
 
