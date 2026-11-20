@@ -75174,12 +75174,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2390313,262634,Belgium,Portugal,,
 2390314,262634,Netherlands,Belgium,,
 2390315,262634,Morocco,Germany,,
-2390462,262573,Germany,Argentina,3,0
-2389731,262573,England,France,4,0
-2389732,262573,France,Germany,0,1
-2390463,262573,Argentina,Spain,2,2
-2389734,262573,Spain,France,0,1
-2389735,262573,Germany,England,0,0
+2390462,262573,Germany,Argentina,3.0,0.0
+2389731,262573,England,France,4.0,0.0
+2389732,262573,France,Germany,0.0,1.0
+2390463,262573,Argentina,Spain,2.0,2.0
+2389734,262573,Spain,France,0.0,1.0
+2389735,262573,Germany,England,0.0,0.0
 2389736,262573,England,Spain,,
 2390464,262573,France,Argentina,,
 2390465,262573,Argentina,England,,
@@ -75194,14 +75194,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2390468,262573,Argentina,France,,
 2390469,262573,England,Argentina,,
 2389749,262573,Germany,Spain,,
-2390236,262595,Fenerbahce,Basaksehir,2,0
-2390237,262595,Galatasaray,Trabzonspor,1,0
-2390238,262595,Trabzonspor,Fenerbahce,1,2
-2390239,262595,Basaksehir,Besiktas,2,5
-2390240,262595,Besiktas,Trabzonspor,2,1
-2390241,262595,Fenerbahce,Galatasaray,3,2
-2390242,262595,Galatasaray,Besiktas,0,0
-2390243,262595,Trabzonspor,Basaksehir,1,1
+2390236,262595,Fenerbahce,Basaksehir,2.0,0.0
+2390237,262595,Galatasaray,Trabzonspor,1.0,0.0
+2390238,262595,Trabzonspor,Fenerbahce,1.0,2.0
+2390239,262595,Basaksehir,Besiktas,2.0,5.0
+2390240,262595,Besiktas,Trabzonspor,2.0,1.0
+2390241,262595,Fenerbahce,Galatasaray,3.0,2.0
+2390242,262595,Galatasaray,Besiktas,0.0,0.0
+2390243,262595,Trabzonspor,Basaksehir,1.0,1.0
 2390244,262595,Basaksehir,Galatasaray,,
 2390245,262595,Besiktas,Fenerbahce,,
 2390246,262595,Basaksehir,Fenerbahce,,
@@ -75214,12 +75214,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2390253,262595,Basaksehir,Trabzonspor,,
 2390254,262595,Galatasaray,Basaksehir,,
 2390255,262595,Fenerbahce,Besiktas,,
-2391335,262630,B Dortmund,Man City,1,3
-2391369,262630,Juventus,Arsenal,3,3
-2391337,262630,Juventus,B Dortmund,1,2
-2391370,262630,Arsenal,Man City,1,2
-2391339,262630,Man City,Juventus,0,1
-2391371,262630,Arsenal,B Dortmund,2,0
+2391335,262630,B Dortmund,Man City,1.0,3.0
+2391369,262630,Juventus,Arsenal,3.0,3.0
+2391337,262630,Juventus,B Dortmund,1.0,2.0
+2391370,262630,Arsenal,Man City,1.0,2.0
+2391339,262630,Man City,Juventus,0.0,1.0
+2391371,262630,Arsenal,B Dortmund,2.0,0.0
 2391341,262630,B Dortmund,Man City,,
 2391372,262630,Juventus,Arsenal,,
 2390678,262630,Juventus,B Dortmund,,

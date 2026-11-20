@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 18:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ramzes vs dirowe — 20/11 · 18:38
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana dirowe** @ **1.90** (Unibet) · prob 57% vs casas 46% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.115 partidos)  
-Goles esperados: ramzes 2.90 · dirowe 3.73  
-Ganador: ramzes 28% · empate 15% · dirowe 57%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap dirowe: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: ramzes ❌✅➖❌❌ | dirowe ❌➖✅✅❌  
-• Partidos: ramzes 1237 | dirowe 982  
-• Liga: A-League  
-• Unibet: 1 2.23 · X 6.10 · 2 1.90 (sin margen 39%/14%/46%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.90 (+9%) · Paf España 1.90 (+9%)  
+Actualizado 20/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dicca vs Mani — 20/11 · 18:59
 
@@ -58,4 +39,23 @@ Hándicap Sena: −1.5 31% · −2.5 17%
 • Liga: Champions League A  
 • Unibet: 1 1.98 · X 5.10 · 2 2.25 (sin margen 44%/17%/39%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.10 (+9%) · Paf España 5.10 (+9%)  
+
+## Lunjo vs Joop — 20/11 · 19:14
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **5.00** (Unibet) · prob 24% vs casas 18% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 75.144 partidos)  
+Goles esperados: Lunjo 2.76 · Joop 2.12  
+Ganador: Lunjo 51% · empate 24% · Joop 25%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap Lunjo: −1.5 34% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Lunjo ✅❌❌❌✅ | Joop ❌✅✅✅❌  
+• Partidos: Lunjo 292 | Joop 292  
+• Liga: Super Lig  
+• Unibet: 1 1.70 · X 5.00 · 2 2.85 (sin margen 52%/18%/31%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.00 (+19%) · Paf España 5.00 (+19%)  
 
