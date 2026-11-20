@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 13:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 13:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
 
@@ -3077,6 +3077,7 @@ Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%
 Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
 
 ## Southampton vs Derby — 21/11 · 13:30
 
@@ -3102,6 +3103,319 @@ Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%
 Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
+
+## Norwich vs Cardiff — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 2.5 córners de Cardiff** @ **1.28** (Unibet) · prob 72% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.94 - 1.17)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
+• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
+• Favorito de las casas: Norwich @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
+Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
+Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
+Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
+
+## Norwich vs Cardiff — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Cardiff** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.94 - 1.17)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
+• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
+• Favorito de las casas: Norwich @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
+Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
+Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
+Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
+
+## Norwich vs Cardiff — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 6.5 córners de Norwich** @ **2.43** (Unibet) · prob 41% vs casas 38% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.94 - 1.17)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
+• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
+• Favorito de las casas: Norwich @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
+Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
+Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
+Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
+
+## Norwich vs Cardiff — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Norwich** @ **1.28** (Unibet) · prob 70% vs casas 72% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.94 - 1.17)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
+• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
+• Favorito de las casas: Norwich @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
+Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
+Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
+Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
+
+## Norwich vs Cardiff — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 67% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.94 - 1.17)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
+• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
+• Favorito de las casas: Norwich @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
+Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
+Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
+Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
+
+## Norwich vs Cardiff — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 74% vs casas 74% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.94 - 1.17)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
+• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
+• Favorito de las casas: Norwich @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
+Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
+Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
+Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
+
+## Southampton vs Derby — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.21 - 0.98)  
+1 72% · X 19% · 2 10%  
+1X 90% · X2 28% · 12 81%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
+• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
+• Favorito de las casas: Southampton @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
+Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
+Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
+
+## Southampton vs Derby — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 13.5 córners** @ **1.27** (Unibet) · prob 75% vs casas 72% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.21 - 0.98)  
+1 72% · X 19% · 2 10%  
+1X 90% · X2 28% · 12 81%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
+• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
+• Favorito de las casas: Southampton @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
+Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
+Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
+
+## Southampton vs Derby — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 6.5 córners de Southampton** @ **1.80** (Unibet) · prob 53% vs casas 51% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.21 - 0.98)  
+1 72% · X 19% · 2 10%  
+1X 90% · X2 28% · 12 81%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
+• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
+• Favorito de las casas: Southampton @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
+Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
+Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
+
+## Southampton vs Derby — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 8.5 córners de Southampton** @ **1.34** (Unibet) · prob 68% vs casas 68% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.21 - 0.98)  
+1 72% · X 19% · 2 10%  
+1X 90% · X2 28% · 12 81%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
+• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
+• Favorito de las casas: Southampton @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
+Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
+Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
+
+## Southampton vs Derby — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 2.5 córners de Derby** @ **1.30** (Unibet) · prob 69% vs casas 70% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.21 - 0.98)  
+1 72% · X 19% · 2 10%  
+1X 90% · X2 28% · 12 81%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
+• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
+• Favorito de las casas: Southampton @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
+Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
+Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
+
+## Southampton vs Derby — 21/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Derby** @ **1.53** (Unibet) · prob 64% vs casas 60% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.21 - 0.98)  
+1 72% · X 19% · 2 10%  
+1X 90% · X2 28% · 12 81%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
+• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
+• Favorito de las casas: Southampton @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
+Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
+Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
 
 ## Tromso vs Viking — 21/11 · 14:00
 

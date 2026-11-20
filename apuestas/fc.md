@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 13:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 13:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## MeLToSik vs dm1trena — 20/11 · 13:18
+## mko1919 vs LaikingDast — 20/11 · 13:49
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **2.75** (Unibet) · prob 43% vs casas 32% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mko1919** @ **3.60** (Unibet) · prob 32% vs casas 24% · ventaja +16%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.831 partidos)  
-Goles esperados: MeLToSik 2.64 · dm1trena 2.33  
-Ganador: MeLToSik 43% · empate 22% · dm1trena 35%  
-Total: más de 4.5 goles 55% · menos 45%  
-Hándicap MeLToSik: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 74.857 partidos)  
+Goles esperados: mko1919 2.68 · LaikingDast 3.06  
+Ganador: mko1919 32% · empate 21% · LaikingDast 47%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap LaikingDast: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: MeLToSik ❌✅✅➖➖ | dm1trena ➖❌❌❌✅  
-• Partidos: MeLToSik 1372 | dm1trena 1217  
-• Liga: Bundesliga  
-• Unibet: 1 2.75 · X 2.63 · 2 2.45 (sin margen 32%/33%/35%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+19%) · Paf España 2.75 (+19%)  
-
-## DaVa vs Jekunam — 20/11 · 13:18
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **2.08** (Unibet) · prob 56% vs casas 42% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.831 partidos)  
-Goles esperados: DaVa 2.98 · Jekunam 2.16  
-Ganador: DaVa 56% · empate 20% · Jekunam 24%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap DaVa: −1.5 37% · −2.5 22%  
-🔎 **Claves**  
-• Forma: DaVa ✅✅✅➖➖ | Jekunam ➖❌❌❌✅  
-• Partidos: DaVa 1436 | Jekunam 1263  
-• Liga: Bundesliga  
-• Unibet: 1 2.08 · X 3.30 · 2 2.70 (sin margen 42%/26%/32%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.08 (+17%) · Paf España 2.08 (+17%)  
-
-## Bomb1to vs mko1919 — 20/11 · 13:37
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mko1919** @ **4.60** (Unibet) · prob 25% vs casas 19% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.831 partidos)  
-Goles esperados: Bomb1to 3.52 · mko1919 2.56  
-Ganador: Bomb1to 56% · empate 19% · mko1919 25%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Bomb1to: −1.5 41% · −2.5 26%  
-🔎 **Claves**  
-• Forma: Bomb1to ✅✅❌✅✅ | mko1919 ➖✅❌✅❌  
-• Partidos: Bomb1to 1439 | mko1919 1368  
+• Forma: mko1919 ❌✅❌❌❌ | LaikingDast ❌✅✅❌✅  
+• Partidos: mko1919 1370 | LaikingDast 538  
 • Liga: Champions League B  
-• Unibet: 1 1.53 · X 3.80 · 2 4.60 (sin margen 58%/23%/19%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.60 (+13%) · Paf España 4.60 (+13%)  
+• Unibet: 1 3.60 · X 2.75 · 2 1.96 (sin margen 24%/32%/44%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+16%) · Paf España 3.60 (+16%)  
+
+## dm1trena vs Jekunam — 20/11 · 13:52
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **4.60** (Unibet) · prob 31% vs casas 19% · ventaja +42%
+
+- ❌ Valor: ventaja +42% (mín. 19% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.857 partidos)  
+Goles esperados: dm1trena 2.33 · Jekunam 2.85  
+Ganador: dm1trena 31% · empate 20% · Jekunam 49%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Jekunam: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: dm1trena ❌❌✅✅❌ | Jekunam ❌❌✅✅❌  
+• Partidos: dm1trena 1219 | Jekunam 1265  
+• Liga: LaLiga  
+• Unibet: 1 4.60 · X 2.65 · 2 1.81 (sin margen 19%/33%/48%) · ventaja +42%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.60 (+42%) · Paf España 4.60 (+42%)  
+
+## Edwardson vs dm1trena — 20/11 · 14:16
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **2.88** (Unibet) · prob 40% vs casas 30% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.857 partidos)  
+Goles esperados: Edwardson 2.28 · dm1trena 2.31  
+Ganador: Edwardson 38% · empate 22% · dm1trena 40%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap dm1trena: −1.5 24% · −2.5 12%  
+🔎 **Claves**  
+• Forma: Edwardson ✅➖➖❌❌ | dm1trena ❌❌✅✅❌  
+• Partidos: Edwardson 1372 | dm1trena 1219  
+• Liga: LaLiga  
+• Unibet: 1 2.70 · X 2.30 · 2 2.88 (sin margen 32%/38%/30%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.88 (+16%) · Paf España 2.88 (+16%)  
 
