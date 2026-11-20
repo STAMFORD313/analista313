@@ -3481,7 +3481,9 @@
     "away": "CyberHero",
     "txt": "Gana CyberHero",
     "odds": 1.59,
-    "p": 0.6671199999999999
+    "p": 0.6671199999999999,
+    "ok": true,
+    "por": "ganó CyberHero 3-2"
    },
    {
     "src": "esports:cs2",
@@ -3492,7 +3494,9 @@
     "away": "Leo",
     "txt": "Gana GenOne",
     "odds": 2.5,
-    "p": 0.4181666666666666
+    "p": 0.4181666666666666,
+    "ok": false,
+    "por": "ganó Leo 2-0"
    },
    {
     "src": "esports:cs2",
@@ -3503,15 +3507,17 @@
     "away": "BANGARANGA",
     "txt": "Gana 99firepower 1utility",
     "odds": 2.58,
-    "p": 0.42579793281653744
+    "p": 0.42579793281653744,
+    "ok": false,
+    "por": "ganó BANGARANGA 1-0"
    }
   ],
   "odds": 10.26,
   "p": 0.11878371953398101,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261120170833591485",
