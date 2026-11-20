@@ -74796,18 +74796,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2389977,262641,England,France,,
 2389978,262641,Brazil,England,,
 2389979,262641,Spain,Argentina,,
-2389046,262575,Roma,Aston Villa,1,2
-2389047,262575,Fenerbahce,Salzburg,1,4
-2389048,262575,Salzburg,Roma,3,0
-2389049,262575,Aston Villa,Porto,5,2
-2389050,262575,Porto,Salzburg,2,4
-2389051,262575,Roma,Fenerbahce,1,1
-2389052,262575,Fenerbahce,Porto,2,0
-2389053,262575,Salzburg,Aston Villa,1,2
-2389054,262575,Aston Villa,Fenerbahce,2,3
-2389055,262575,Porto,Roma,1,4
-2389056,262575,Aston Villa,Roma,1,0
-2389057,262575,Salzburg,Fenerbahce,2,0
+2389046,262575,Roma,Aston Villa,1.0,2.0
+2389047,262575,Fenerbahce,Salzburg,1.0,4.0
+2389048,262575,Salzburg,Roma,3.0,0.0
+2389049,262575,Aston Villa,Porto,5.0,2.0
+2389050,262575,Porto,Salzburg,2.0,4.0
+2389051,262575,Roma,Fenerbahce,1.0,1.0
+2389052,262575,Fenerbahce,Porto,2.0,0.0
+2389053,262575,Salzburg,Aston Villa,1.0,2.0
+2389054,262575,Aston Villa,Fenerbahce,2.0,3.0
+2389055,262575,Porto,Roma,1.0,4.0
+2389056,262575,Aston Villa,Roma,1.0,0.0
+2389057,262575,Salzburg,Fenerbahce,2.0,0.0
 2389058,262575,Roma,Salzburg,,
 2389059,262575,Porto,Aston Villa,,
 2389060,262575,Salzburg,Porto,,
@@ -74816,16 +74816,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389063,262575,Aston Villa,Salzburg,,
 2389064,262575,Fenerbahce,Aston Villa,,
 2389065,262575,Roma,Porto,,
-2389126,262584,Netherlands,Germany,2,2
-2389127,262584,Morocco,Belgium,1,3
-2389128,262584,Belgium,Netherlands,0,0
-2389129,262584,Germany,Portugal,1,2
-2389130,262584,Portugal,Belgium,2,2
-2389131,262584,Netherlands,Morocco,2,3
-2389132,262584,Morocco,Portugal,0,3
-2389133,262584,Belgium,Germany,3,0
-2389134,262584,Germany,Morocco,1,2
-2389135,262584,Portugal,Netherlands,1,2
+2389126,262584,Netherlands,Germany,2.0,2.0
+2389127,262584,Morocco,Belgium,1.0,3.0
+2389128,262584,Belgium,Netherlands,0.0,0.0
+2389129,262584,Germany,Portugal,1.0,2.0
+2389130,262584,Portugal,Belgium,2.0,2.0
+2389131,262584,Netherlands,Morocco,2.0,3.0
+2389132,262584,Morocco,Portugal,0.0,3.0
+2389133,262584,Belgium,Germany,3.0,0.0
+2389134,262584,Germany,Morocco,1.0,2.0
+2389135,262584,Portugal,Netherlands,1.0,2.0
 2389136,262584,Germany,Netherlands,,
 2389137,262584,Belgium,Morocco,,
 2389138,262584,Netherlands,Belgium,,
@@ -74836,14 +74836,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2389143,262584,Germany,Belgium,,
 2389144,262584,Morocco,Germany,,
 2389145,262584,Netherlands,Portugal,,
-2389206,262599,Bayern Munchen,Stuttgart,2,1
-2389207,262599,Leipzig,B Dortmund,3,2
-2389208,262599,B Dortmund,Bayern Munchen,1,1
-2389209,262599,Stuttgart,Frankfurt,3,2
-2389210,262599,Frankfurt,B Dortmund,0,1
-2389211,262599,Bayern Munchen,Leipzig,3,2
-2389212,262599,Leipzig,Frankfurt,2,0
-2389213,262599,B Dortmund,Stuttgart,1,0
+2389206,262599,Bayern Munchen,Stuttgart,2.0,1.0
+2389207,262599,Leipzig,B Dortmund,3.0,2.0
+2389208,262599,B Dortmund,Bayern Munchen,1.0,1.0
+2389209,262599,Stuttgart,Frankfurt,3.0,2.0
+2389210,262599,Frankfurt,B Dortmund,0.0,1.0
+2389211,262599,Bayern Munchen,Leipzig,3.0,2.0
+2389212,262599,Leipzig,Frankfurt,2.0,0.0
+2389213,262599,B Dortmund,Stuttgart,1.0,0.0
 2389214,262599,Stuttgart,Leipzig,,
 2389215,262599,Frankfurt,Bayern Munchen,,
 2389216,262599,Stuttgart,Bayern Munchen,,
@@ -74856,16 +74856,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389223,262599,Stuttgart,B Dortmund,,
 2389224,262599,Leipzig,Stuttgart,,
 2389225,262599,Bayern Munchen,Frankfurt,,
-2389366,262612,Chengdu Rongcheng,Shanghai Shenhua,0,3
-2389367,262612,Shandong Taishan,Shanghai Port,3,4
-2389368,262612,Shanghai Port,Chengdu Rongcheng,4,1
-2389369,262612,Shanghai Shenhua,Beijing Guoan,3,1
-2389370,262612,Beijing Guoan,Shanghai Port,1,0
-2389371,262612,Chengdu Rongcheng,Shandong Taishan,3,2
-2389372,262612,Shandong Taishan,Beijing Guoan,0,2
-2389373,262612,Shanghai Port,Shanghai Shenhua,0,4
-2389374,262612,Shanghai Shenhua,Shandong Taishan,2,0
-2389375,262612,Beijing Guoan,Chengdu Rongcheng,1,1
+2389366,262612,Chengdu Rongcheng,Shanghai Shenhua,0.0,3.0
+2389367,262612,Shandong Taishan,Shanghai Port,3.0,4.0
+2389368,262612,Shanghai Port,Chengdu Rongcheng,4.0,1.0
+2389369,262612,Shanghai Shenhua,Beijing Guoan,3.0,1.0
+2389370,262612,Beijing Guoan,Shanghai Port,1.0,0.0
+2389371,262612,Chengdu Rongcheng,Shandong Taishan,3.0,2.0
+2389372,262612,Shandong Taishan,Beijing Guoan,0.0,2.0
+2389373,262612,Shanghai Port,Shanghai Shenhua,0.0,4.0
+2389374,262612,Shanghai Shenhua,Shandong Taishan,2.0,0.0
+2389375,262612,Beijing Guoan,Chengdu Rongcheng,1.0,1.0
 2389376,262612,Shanghai Shenhua,Chengdu Rongcheng,,
 2389377,262612,Shanghai Port,Shandong Taishan,,
 2389378,262612,Chengdu Rongcheng,Shanghai Port,,
