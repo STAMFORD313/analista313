@@ -1,43 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 09:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 10:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Loka vs spirtes — 20/11 · 09:48
+## flamez vs Frantsuz — 20/11 · 10:14
 
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.21** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **2.02** (Unibet) · prob 52% vs casas 43% · ventaja +6%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.641 partidos)  
-Goles esperados: Loka 4.82 · spirtes 2.13  
-Ganador: Loka 83% · empate 8% · spirtes 9%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Loka: −1.5 67% · −2.5 52%  
-🔎 **Claves**  
-• Forma: Loka ✅✅❌❌✅ | spirtes ❌➖✅❌❌  
-• Partidos: Loka 1418 | spirtes 1314  
-• Liga: EFL Championship  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Bomb1to vs LaikingDast — 20/11 · 09:55
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.43** (Unibet) · prob 48% vs casas 36% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.647 partidos)  
-Goles esperados: Bomb1to 3.04 · LaikingDast 2.66  
-Ganador: Bomb1to 48% · empate 21% · LaikingDast 31%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Bomb1to: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 74.675 partidos)  
+Goles esperados: flamez 4.89 · Frantsuz 4.28  
+Ganador: flamez 52% · empate 15% · Frantsuz 33%  
+Total: más de 9.5 goles 43% · menos 57%  
+Hándicap flamez: −1.5 38% · −2.5 26%  
 🔎 **Claves**  
-• Forma: Bomb1to ✅➖➖✅✅ | LaikingDast ❌✅➖➖✅  
-• Partidos: Bomb1to 1427 | LaikingDast 524  
-• Liga: Serie A  
-• Unibet: 1 2.43 · X 3.15 · 2 2.33 (sin margen 36%/27%/37%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.43 (+17%) · Paf España 2.43 (+17%)  
+• Forma: flamez ✅❌✅✅✅ | Frantsuz ❌❌✅➖❌  
+• Partidos: flamez 883 | Frantsuz 748  
+• Liga: Champions League A 2x6  
+• Unibet: 1 2.02 · X 4.90 · 2 2.25 (sin margen 43%/18%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.02 (+6%) · Paf España 2.02 (+6%)  
 
 ## spirtes vs Loka — 20/11 · 10:48
 
@@ -55,5 +37,23 @@ Hándicap Loka: −1.5 67% · −2.5 52%
 • Forma: spirtes ❌➖✅❌❌ | Loka ✅✅❌❌✅  
 • Partidos: spirtes 1314 | Loka 1418  
 • Liga: EFL Championship  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Loka vs spirtes — 20/11 · 12:08
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.18** (cuota justa (sin casa)) · prob 84% vs casas 84% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.675 partidos)  
+Goles esperados: Loka 4.99 · spirtes 2.23  
+Ganador: Loka 84% · empate 9% · spirtes 7%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap Loka: −1.5 68% · −2.5 53%  
+🔎 **Claves**  
+• Forma: Loka ❌✅✅✅✅ | spirtes ❌❌❌❌❌  
+• Partidos: Loka 1421 | spirtes 1317  
+• Liga: CSL  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
