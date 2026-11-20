@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 17:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 17:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DISFARÇADOS vs RED Canids Academy — 20/11 · 18:00
 
