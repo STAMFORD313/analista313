@@ -1023,9 +1023,6 @@
   "wta|2026-11-20|Guiomar Maristany Zuleta De Reales|Andrea Lazaro Garcia",
   "cbb|2026-11-21|Murray State Racers|Wisconsin Badgers",
   "cbb|2026-11-21|NC State Wolfpack|Seton Hall Pirates",
-  "fc|2381722",
-  "fc|2381732",
-  "fc|2381506",
   "fc|2381736",
   "fc|2381726",
   "cs2|133258",
@@ -2025,7 +2022,10 @@
   "fc|2389108",
   "fc|2389111",
   "fc|2389946",
-  "fc|2389349"
+  "fc|2389349",
+  "fc|2389892",
+  "fc|2389364",
+  "fc|2389354"
  ],
  "signals": [
   {
@@ -4053,31 +4053,6 @@
    "logged": true
   },
   {
-   "market": "A",
-   "pick": "imagin",
-   "odds": 3.5,
-   "book": "Unibet",
-   "implied": 0.247,
-   "edge": 0.169,
-   "sin_stake": true,
-   "p": 0.334,
-   "key": "fc|2384616",
-   "match": "flamez vs imagin",
-   "start": "2026-11-17T08:20:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle flamez vs imagin (Champions League A 2x6): goles esperados 5.05-4.48, 1X2 52%/14%/33%. Sin cuotas de casa.",
-   "captured": "2026-11-17T08:04",
-   "version": "5c2bf7d",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "H",
    "pick": "zoyir",
    "odds": 2.35,
@@ -4099,31 +4074,6 @@
    "placed": false,
    "score": "4-1",
    "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "v1nn",
-   "odds": 2.0,
-   "book": "Unibet",
-   "implied": 0.437,
-   "edge": 0.118,
-   "sin_stake": true,
-   "p": 0.559,
-   "key": "fc|2383903",
-   "match": "v1nn vs cl1vlind",
-   "start": "2026-11-17T08:22:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League AFC",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle v1nn vs cl1vlind (Champions League AFC): goles esperados 3.43-2.61, 1X2 56%/18%/26%. Sin cuotas de casa.",
-   "captured": "2026-11-17T08:04",
-   "version": "5c2bf7d",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-5",
-   "result": false,
    "close_p": null,
    "logged": true
   },
@@ -4517,7 +4467,11 @@
    "version": "662f6ab",
    "bajas": "Coritiba: 0 fuera, 1 duda; Santos: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": 0.006,
+   "logged": true
   },
   {
    "market": "H",
@@ -4537,7 +4491,11 @@
    "version": "662f6ab",
    "bajas": "Remo: 0 fuera, 2 duda; Chapecoense-SC: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.093,
+   "logged": true
   },
   {
    "market": "D",
@@ -4557,7 +4515,11 @@
    "version": "662f6ab",
    "bajas": "Cruzeiro: 0 fuera, 4 duda; Palmeiras: 1 fuera, 1 duda (Jefte)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": -0.003,
+   "logged": true
   },
   {
    "market": "H",
@@ -4577,7 +4539,11 @@
    "version": "662f6ab",
    "bajas": "Flamengo RJ: 0 fuera, 2 duda; Athletico-PR: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": 0.025,
+   "logged": true
   },
   {
    "market": "H",
@@ -4597,7 +4563,11 @@
    "version": "662f6ab",
    "bajas": "Corinthians: 0 fuera, 5 duda; Botafogo RJ: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "4-0",
+   "clv": 0.085,
+   "logged": true
   },
   {
    "market": "A",
@@ -4617,7 +4587,11 @@
    "version": "662f6ab",
    "bajas": "Gremio: 0 fuera, 4 duda; Bahia: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.115,
+   "logged": true
   },
   {
    "market": "H",
@@ -4637,7 +4611,11 @@
    "version": "662f6ab",
    "bajas": "Vasco: sin bajas; Internacional: 0 fuera, 5 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": 0.088,
+   "logged": true
   },
   {
    "market": "D",
@@ -4657,7 +4635,11 @@
    "version": "662f6ab",
    "bajas": "Vitoria: sin bajas; Bragantino: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": 0.042,
+   "logged": true
   },
   {
    "market": "A",
@@ -6440,7 +6422,11 @@
    "version": "3bc0f40",
    "bajas": "Sao Paulo: 0 fuera, 5 duda; Fluminense: 1 fuera, 3 duda (John Kennedy)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "clv": 0.08,
+   "logged": true
   },
   {
    "market": "over",
@@ -20646,10 +20632,6 @@
    "start": "2026-11-20T08:30:00+00:00",
    "league": "💎 Valor vs Pinnacle · Indonesia - Super League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.31 y el precio justo de Pinnacle es 2.18 (ventaja +6.3%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Garudayaksa vs Madura United (Indonesia - Super League). Estrategia de valor: Smarkets 2.31 frente a Pinnacle justo 2.18.",
    "captured": "2026-11-20T07:41",
    "version": "76c624b",
@@ -20732,7 +20714,11 @@
    "version": "76c624b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-20|Casertana|Salernitana",
@@ -20798,27 +20784,118 @@
    "start": "2026-11-20T08:19:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 74.620 partidos)",
-    "Goles esperados: mko1919 2.56 · LaikingDast 3.01",
-    "Ganador: mko1919 29% · empate 21% · LaikingDast 50%",
-    "Total: más de 5.5 goles 48% · menos 52%",
-    "Hándicap LaikingDast: −1.5 32% · −2.5 19%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: mko1919 ➖❌❌➖❌ | LaikingDast ➖✅❌✅➖",
-    "• Partidos: mko1919 1354 | LaikingDast 522",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.90 · X 2.80 · 2 1.86 (sin margen 22%/31%/47%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.90 (+13%) · Paf España 3.90 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle mko1919 vs LaikingDast (Serie A): goles esperados 2.56-3.01, 1X2 29%/21%/50%. Sin cuotas de casa.",
    "captured": "2026-11-20T08:11",
    "version": "e8f1922",
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "pick": "flamez",
+   "odds": 1.65,
+   "book": "Unibet",
+   "implied": 0.533,
+   "edge": 0.116,
+   "sin_stake": true,
+   "p": 0.676,
+   "key": "fc|2389892",
+   "match": "flamez vs why",
+   "start": "2026-11-20T08:38:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 74.641 partidos)",
+    "Goles esperados: flamez 4.90 · why 3.36",
+    "Ganador: flamez 68% · empate 14% · why 18%",
+    "Total: más de 8.5 goles 44% · menos 56%",
+    "Hándicap flamez: −1.5 50% · −2.5 36%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: flamez ✅✅❌✅✅ | why ✅❌❌✅➖",
+    "• Partidos: flamez 882 | why 713",
+    "• Liga: Champions League A 2x6",
+    "• Unibet: 1 1.65 · X 4.70 · 2 3.15 (sin margen 53%/19%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.65 (+12%) · Paf España 1.65 (+12%)"
+   ],
+   "context": "EA FC Esoccer Battle flamez vs why (Champions League A 2x6): goles esperados 4.90-3.36, 1X2 68%/14%/18%. Sin cuotas de casa.",
+   "captured": "2026-11-20T08:37",
+   "version": "cfcf189",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Loka",
+   "odds": 1.21,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.825,
+   "edge": 0.0,
+   "p": 0.825,
+   "key": "fc|2389364",
+   "match": "spirtes vs Loka",
+   "start": "2026-11-20T09:48:00+00:00",
+   "league": "🎮⚽ FC 27 · EFL Championship",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 74.641 partidos)",
+    "Goles esperados: spirtes 2.13 · Loka 4.82",
+    "Ganador: spirtes 9% · empate 8% · Loka 83%",
+    "Total: más de 6.5 goles 54% · menos 46%",
+    "Hándicap Loka: −1.5 67% · −2.5 52%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: spirtes ❌➖✅❌❌ | Loka ✅✅❌❌✅",
+    "• Partidos: spirtes 1314 | Loka 1418",
+    "• Liga: EFL Championship",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle spirtes vs Loka (EFL Championship): goles esperados 2.13-4.82, 1X2 9%/8%/83%. Sin cuotas de casa.",
+   "captured": "2026-11-20T08:37",
+   "version": "cfcf189",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Loka",
+   "odds": 1.21,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.825,
+   "edge": 0.0,
+   "p": 0.825,
+   "key": "fc|2389354",
+   "match": "Loka vs spirtes",
+   "start": "2026-11-20T08:48:00+00:00",
+   "league": "🎮⚽ FC 27 · EFL Championship",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 74.641 partidos)",
+    "Goles esperados: Loka 4.82 · spirtes 2.13",
+    "Ganador: Loka 83% · empate 8% · spirtes 9%",
+    "Total: más de 6.5 goles 54% · menos 46%",
+    "Hándicap Loka: −1.5 67% · −2.5 52%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Loka ✅✅❌❌✅ | spirtes ❌➖✅❌❌",
+    "• Partidos: Loka 1418 | spirtes 1314",
+    "• Liga: EFL Championship",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Loka vs spirtes (EFL Championship): goles esperados 4.82-2.13, 1X2 83%/8%/9%. Sin cuotas de casa.",
+   "captured": "2026-11-20T08:37",
+   "version": "cfcf189",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {

@@ -74656,3 +74656,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2389023,262570,Nottm Forest,Man Utd,,
 2389024,262570,Newcastle,Nottm Forest,,
 2389025,262570,Brighton,Aston Villa,,
+2389106,262583,Sassuolo,Roma,1,3
+2389107,262583,Juventus,Napoli,1,3
+2389108,262583,Napoli,Sassuolo,3,3
+2389109,262583,Roma,Bologna,0,2
+2389110,262583,Bologna,Napoli,0,1
+2389111,262583,Sassuolo,Juventus,1,0
+2389112,262583,Juventus,Bologna,0,1
+2389113,262583,Napoli,Roma,1,1
+2389114,262583,Roma,Juventus,,
+2389115,262583,Bologna,Sassuolo,,
+2389116,262583,Roma,Sassuolo,,
+2389117,262583,Napoli,Juventus,,
+2389118,262583,Sassuolo,Napoli,,
+2389119,262583,Bologna,Roma,,
+2389120,262583,Napoli,Bologna,,
+2389121,262583,Juventus,Sassuolo,,
+2389122,262583,Bologna,Juventus,,
+2389123,262583,Roma,Napoli,,
+2389124,262583,Juventus,Roma,,
+2389125,262583,Sassuolo,Bologna,,
+2389940,262639,Nice,Lyon,0,2
+2389941,262639,Marseille,Paris,2,1
+2389942,262639,Paris,Nice,0,2
+2389943,262639,Lyon,Monaco,1,0
+2389944,262639,Monaco,Paris,0,0
+2389945,262639,Nice,Marseille,2,2
+2389946,262639,Marseille,Monaco,2,1
+2389947,262639,Paris,Lyon,1,1
+2389948,262639,Lyon,Marseille,2,2
+2389949,262639,Monaco,Nice,0,2
+2389950,262639,Lyon,Nice,,
+2389951,262639,Paris,Marseille,,
+2389952,262639,Nice,Paris,,
+2389953,262639,Monaco,Lyon,,
+2389954,262639,Paris,Monaco,,
+2389955,262639,Marseille,Nice,,
+2389956,262639,Monaco,Marseille,,
+2389957,262639,Lyon,Paris,,
+2389958,262639,Marseille,Lyon,,
+2389959,262639,Nice,Monaco,,
