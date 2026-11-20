@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 21:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 22:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
 
@@ -194,4 +194,21 @@ Casas: Betclic 50% · FORZE Reload 50%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
 Betclic: ultimate 36 (21-53) · Ex1st 35 (20-52) · Qlocuu 34 (19-50) · Prism 33 (19-49) · Demho 32 (18-48)  
 FORZE Reload: HeCkBNk 37 (21-54) · YumsaN 36 (20-52) · KusMe 34 (19-50) · Lack1 34 (19-50) · bl1x1 33 (19-49)  
+
+## FORZE Reload vs WBT — 22/11 · 10:00
+
+👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana WBT** @ **2.70** (Thunderpick) · prob 35% vs casas 34% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.129 partidos)  
+Mapa: FORZE Reload 57% · Serie BO5: FORZE Reload 64% - 36% WBT  
+Casas: FORZE Reload 66% · WBT 34%  
+🔎 **Claves**  
+• Elo: FORZE Reload 1795 (364 series) | WBT 1716 (63 series)  
+• Forma: FORZE Reload ❌✅✅✅✅ | WBT ❌✅✅✅❌  
+• H2H: sin precedentes  
+• Torneo: European Pro League Series 10 (nivel C)  
+• Cambios de plantilla: ninguno  
 
