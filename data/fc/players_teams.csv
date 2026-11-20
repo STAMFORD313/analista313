@@ -74449,18 +74449,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2388008,262506,Atleti,Barcelona,,
 2388009,262506,Real Madrid,Barcelona,,
 2388010,262506,Real Madrid,Atleti,,
-2387969,262473,Leipzig,Bayern Munchen,0,1
-2387970,262473,Frankfurt,Stuttgart,0,3
-2387971,262473,Stuttgart,Leipzig,1,1
-2387972,262473,Bayern Munchen,B Dortmund,1,1
-2387973,262473,B Dortmund,Stuttgart,2,0
-2387974,262473,Leipzig,Frankfurt,2,0
-2387975,262473,Frankfurt,B Dortmund,1,2
-2387976,262473,Stuttgart,Bayern Munchen,1,2
-2387977,262473,Bayern Munchen,Frankfurt,3,2
-2387978,262473,B Dortmund,Leipzig,1,2
-2387979,262473,Bayern Munchen,Leipzig,0,2
-2387980,262473,Stuttgart,Frankfurt,3,0
+2387969,262473,Leipzig,Bayern Munchen,0.0,1.0
+2387970,262473,Frankfurt,Stuttgart,0.0,3.0
+2387971,262473,Stuttgart,Leipzig,1.0,1.0
+2387972,262473,Bayern Munchen,B Dortmund,1.0,1.0
+2387973,262473,B Dortmund,Stuttgart,2.0,0.0
+2387974,262473,Leipzig,Frankfurt,2.0,0.0
+2387975,262473,Frankfurt,B Dortmund,1.0,2.0
+2387976,262473,Stuttgart,Bayern Munchen,1.0,2.0
+2387977,262473,Bayern Munchen,Frankfurt,3.0,2.0
+2387978,262473,B Dortmund,Leipzig,1.0,2.0
+2387979,262473,Bayern Munchen,Leipzig,0.0,2.0
+2387980,262473,Stuttgart,Frankfurt,3.0,0.0
 2387981,262473,Leipzig,Stuttgart,,
 2387982,262473,B Dortmund,Bayern Munchen,,
 2387983,262473,Stuttgart,B Dortmund,,
@@ -74469,16 +74469,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2387986,262473,Bayern Munchen,Stuttgart,,
 2387987,262473,Frankfurt,Bayern Munchen,,
 2387988,262473,Leipzig,B Dortmund,,
-2388425,262531,Man City,Sporting CP,3,1
-2390478,262531,B Dortmund,Juventus,1,1
-2390479,262531,Juventus,Man City,3,1
-2388428,262531,Sporting CP,Arsenal,1,1
-2390480,262531,Arsenal,Juventus,1,4
-2388430,262531,Man City,B Dortmund,3,0
-2388431,262531,B Dortmund,Arsenal,2,4
-2390481,262531,Juventus,Sporting CP,3,0
-2388433,262531,Sporting CP,B Dortmund,0,0
-2388434,262531,Arsenal,Man City,0,0
+2388425,262531,Man City,Sporting CP,3.0,1.0
+2390478,262531,B Dortmund,Juventus,1.0,1.0
+2390479,262531,Juventus,Man City,3.0,1.0
+2388428,262531,Sporting CP,Arsenal,1.0,1.0
+2390480,262531,Arsenal,Juventus,1.0,4.0
+2388430,262531,Man City,B Dortmund,3.0,0.0
+2388431,262531,B Dortmund,Arsenal,2.0,4.0
+2390481,262531,Juventus,Sporting CP,3.0,0.0
+2388433,262531,Sporting CP,B Dortmund,0.0,0.0
+2388434,262531,Arsenal,Man City,0.0,0.0
 2388435,262531,Sporting CP,Man City,,
 2390482,262531,Juventus,B Dortmund,,
 2390483,262531,Man City,Juventus,,
@@ -74489,3 +74489,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2390485,262531,Sporting CP,Juventus,,
 2388443,262531,B Dortmund,Sporting CP,,
 2388444,262531,Man City,Arsenal,,
+2388565,262484,Boca Juniors,Paris,1,1
+2388566,262484,Real Madrid,River Plate,2,1
+2388567,262484,River Plate,Boca Juniors,0,1
+2388568,262484,Paris,Man City,1,3
+2388569,262484,Man City,River Plate,2,0
+2388570,262484,Boca Juniors,Real Madrid,2,1
+2388571,262484,Real Madrid,Man City,2,2
+2388572,262484,River Plate,Paris,0,2
+2388573,262484,Paris,Real Madrid,4,1
+2388574,262484,Man City,Boca Juniors,0,0
+2388575,262484,Paris,Boca Juniors,1,0
+2388576,262484,River Plate,Real Madrid,0,1
+2388577,262484,Boca Juniors,River Plate,,
+2388578,262484,Man City,Paris,,
+2388579,262484,River Plate,Man City,,
+2388580,262484,Real Madrid,Boca Juniors,,
+2388581,262484,Man City,Real Madrid,,
+2388582,262484,Paris,River Plate,,
+2388583,262484,Real Madrid,Paris,,
+2388584,262484,Boca Juniors,Man City,,
+2387613,262494,Sassuolo,Roma,2,3
+2387614,262494,Juventus,Napoli,2,1
+2387615,262494,Napoli,Sassuolo,0,0
+2387616,262494,Roma,Bologna,1,2
+2387617,262494,Bologna,Napoli,1,1
+2387618,262494,Sassuolo,Juventus,1,2
+2387619,262494,Juventus,Bologna,0,0
+2387620,262494,Napoli,Roma,2,2
+2387621,262494,Roma,Juventus,0,0
+2387622,262494,Bologna,Sassuolo,0,0
+2387623,262494,Roma,Sassuolo,,
+2387624,262494,Napoli,Juventus,,
+2387625,262494,Sassuolo,Napoli,,
+2387626,262494,Bologna,Roma,,
+2387627,262494,Napoli,Bologna,,
+2387628,262494,Juventus,Sassuolo,,
+2387629,262494,Bologna,Juventus,,
+2387630,262494,Roma,Napoli,,
+2387631,262494,Juventus,Roma,,
+2387632,262494,Sassuolo,Bologna,,
