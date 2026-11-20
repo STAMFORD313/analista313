@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 19:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Annecy vs Clermont — 20/11 · 20:00
 
@@ -12169,6 +12169,156 @@ Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 8%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 1.41)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
+• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
+Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
+Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
+Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+
+## Empoli vs Pisa — 21/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Empoli** @ **1.94** (Unibet) · prob 47% vs casas 46% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 1.41)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
+• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
+Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
+Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
+Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+
+## Empoli vs Pisa — 21/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Empoli** @ **1.36** (Unibet) · prob 67% vs casas 66% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 1.41)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
+• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
+Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
+Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
+Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+
+## Empoli vs Pisa — 21/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.54** (Unibet) · prob 60% vs casas 58% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 1.41)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
+• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
+Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
+Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
+Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+
+## Empoli vs Pisa — 21/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.45** (Unibet) · prob 62% vs casas 62% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 1.41)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
+• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
+Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
+Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
+Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+
+## Empoli vs Pisa — 21/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Pisa** @ **1.76** (Unibet) · prob 52% vs casas 51% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 1.41)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
+• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
+Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
+Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
+Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+
+## Empoli vs Pisa — 21/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Pisa** @ **1.83** (Unibet) · prob 48% vs casas 49% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.22 - 1.41)  
 1 30% · X 29% · 2 41%  

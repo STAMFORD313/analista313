@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 19:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Rcave vs Glitchtech — 20/11 · 19:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Glitchtech** @ **1.52** (Thunderpick) · prob 64% vs casas 61% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.050 partidos)  
-Mapa: Rcave 33% · Serie BO1: Rcave 33% - 67% Glitchtech  
-Casas: Rcave 39% · Glitchtech 61%  
-🔎 **Claves**  
-• Elo: Rcave 1236 (19 series) | Glitchtech 1358 (64 series)  
-• Forma: Rcave ❌❌❌❌❌ | Glitchtech ❌❌❌❌✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 20/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
 

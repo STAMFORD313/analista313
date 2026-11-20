@@ -34989,3 +34989,10 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193103,133491,luminosity-cs-go-vs-big-20-11-2026,2026-11-20T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,756,Luminosity,BIG,3,de_cache,776,13.0,3.0
 193104,133491,luminosity-cs-go-vs-big-20-11-2026,2026-11-20T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,756,Luminosity,BIG,2,de_inferno,776,13.0,9.0
 193105,133491,luminosity-cs-go-vs-big-20-11-2026,2026-11-20T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,756,Luminosity,BIG,1,de_ancient,756,13.0,4.0
+193591,134013,envyus-vs-nexus-20-11-2026,2026-11-20T15:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,781,326,Envy,Nexus,3,de_ancient,781,13.0,3.0
+193592,134013,envyus-vs-nexus-20-11-2026,2026-11-20T15:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,781,326,Envy,Nexus,2,de_dust2,781,13.0,11.0
+193593,134013,envyus-vs-nexus-20-11-2026,2026-11-20T15:00:00.000+00:00,b,3,6168,RUSH:Brno 2026,781,326,Envy,Nexus,1,de_anubis,326,13.0,7.0
+192935,133408,rune-eaters-esports-vs-butterfly-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5702,24855,Rune Eaters,Butterfly,2,de_inferno,24855,13.0,9.0
+192936,133408,rune-eaters-esports-vs-butterfly-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5702,24855,Rune Eaters,Butterfly,1,de_dust2,5702,13.0,9.0
+193402,133868,fokus-cs-vs-team-aces-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22184,25564,FOKUS,Aces,2,de_cache,22184,16.0,14.0
+193403,133868,fokus-cs-vs-team-aces-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22184,25564,FOKUS,Aces,1,de_dust2,25564,13.0,9.0
