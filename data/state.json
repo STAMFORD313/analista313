@@ -1021,9 +1021,6 @@
   "cbb|2026-11-23|UC San Diego Tritons|Seattle U Redhawks",
   "cbb|2026-11-23|Loyola Chicago Ramblers|San José State Spartans",
   "wta|2026-11-20|Guiomar Maristany Zuleta De Reales|Andrea Lazaro Garcia",
-  "cs2|133773",
-  "fc|2381683",
-  "fc|2381467",
   "fc|2381684",
   "fc|2380816",
   "fc|2380814",
@@ -2023,7 +2020,12 @@
   "fc|2388428",
   "fc|2388571",
   "fc|2388568",
-  "fc|2388570"
+  "fc|2388570",
+  "cbb|2026-11-21|Murray State Racers|Wisconsin Badgers",
+  "cs2|132514",
+  "fc|2388009",
+  "fc|2387619",
+  "fc|2388010"
  ],
  "signals": [
   {
@@ -3706,7 +3708,11 @@
    "version": "cccae8b",
    "bajas": "Houston Texans: 8 fuera, 17 duda (Wyatt Teller, Keylan Rutledge, Danielle Hunter); Indianapolis Colts: 8 fuera, 17 duda (Jalen Travis, Luke Rhodes, Jerry Tillery)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "26-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -3727,7 +3733,11 @@
    "version": "cccae8b",
    "bajas": "Houston Texans: 8 fuera, 17 duda (Wyatt Teller, Keylan Rutledge, Danielle Hunter); Indianapolis Colts: 8 fuera, 17 duda (Jalen Travis, Luke Rhodes, Jerry Tillery)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "26-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -3747,7 +3757,9 @@
    "version": "cccae8b",
    "bajas": "Houston Texans: 8 fuera, 17 duda (Wyatt Teller, Keylan Rutledge, Danielle Hunter); Indianapolis Colts: 8 fuera, 17 duda (Jalen Travis, Luke Rhodes, Jerry Tillery)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "26-3"
   },
   {
    "market": "over",
@@ -3769,7 +3781,11 @@
    "version": "cccae8b",
    "bajas": "Temple Owls: sin bajas; Rice Owls: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-31",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -3790,7 +3806,11 @@
    "version": "cccae8b",
    "bajas": "Temple Owls: sin bajas; Rice Owls: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "27-31",
+   "close_p": 0.4817,
+   "logged": true
   },
   {
    "market": "home",
@@ -3810,7 +3830,11 @@
    "version": "cccae8b",
    "bajas": "Temple Owls: sin bajas; Rice Owls: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "27-31",
+   "close_p": 0.5705,
+   "logged": true
   },
   {
    "key": "vp|2026-11-17|Bosnia and Herzegovina|Romania",
@@ -15525,15 +15549,6 @@
    "pick": "Más de 148.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>149.7</b> puntos · línea 148.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kansas Jayhawks ✅✅✅✅✅ | Houston Cougars ✅✅✅✅✅",
-    "• H2H: 6 desde 2024: 2-4",
-    "• Bajas: Kansas Jayhawks: sin bajas; Houston Cougars: sin bajas"
-   ],
    "context": "Kansas Jayhawks vs Houston Cougars (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 149.7 frente a línea 148.5. Forma Kansas Jayhawks ✅✅✅✅✅, Houston Cougars ✅✅✅✅✅. H2H 6 desde 2024: 2-4. Bajas: Kansas Jayhawks: sin bajas; Houston Cougars: sin bajas.",
    "captured": "2026-11-19T04:54",
    "version": "ea35c2e",
@@ -15555,14 +15570,6 @@
    "pick": "Kansas Jayhawks +2.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Kansas Jayhawks cubre +2.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kansas Jayhawks ✅✅✅✅✅ | Houston Cougars ✅✅✅✅✅",
-    "• H2H: 6 desde 2024: 2-4",
-    "• Bajas: Kansas Jayhawks: sin bajas; Houston Cougars: sin bajas"
-   ],
    "context": "Kansas Jayhawks vs Houston Cougars (🏀 NCAA Basketball). Hándicap Kansas Jayhawks +2.5: margen esperado desde el Elo (gana Kansas Jayhawks 57%). Forma Kansas Jayhawks ✅✅✅✅✅, Houston Cougars ✅✅✅✅✅. H2H 6 desde 2024: 2-4. Bajas: Kansas Jayhawks: sin bajas; Houston Cougars: sin bajas.",
    "captured": "2026-11-19T04:54",
    "version": "ea35c2e",
@@ -20391,7 +20398,151 @@
    "version": "9a405cf",
    "bajas": "",
    "considered": true,
+   "placed": false,
+   "score": "1-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "t2",
+   "team_id": 22009,
+   "pick": "Phantom Academy",
+   "odds": 1.77,
+   "book": "Thunderpick",
+   "p": 0.612,
+   "implied": 0.523,
+   "edge": 0.084,
+   "key": "cs2|132514",
+   "match": "LPH vs Phantom Academy",
+   "start": "2026-11-21T16:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 77.095 partidos)",
+    "Mapa: LPH 30% · Serie BO1: LPH 30% - 70% Phantom Academy",
+    "Casas: LPH 48% · Phantom Academy 52%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: LPH 1427 (149 series) | Phantom Academy 1575 (108 series)",
+    "• Forma: LPH ❌❌✅❌❌ | Phantom Academy ❌✅✅❌❌",
+    "• H2H: 1: 1-0",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 LPH vs Phantom Academy, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1427 vs 1575 (prob. mapa 30%, serie 30%). Forma ❌❌✅❌❌ / ❌✅✅❌❌ (✅ victoria ❌ derrota). H2H 1: 1-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.94/1.77.",
+   "captured": "2026-11-20T04:11",
+   "version": "27e7041",
+   "bajas": "",
+   "considered": true,
    "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 10.5,
+   "book": "Unibet",
+   "implied": 0.083,
+   "edge": 0.354,
+   "sin_stake": true,
+   "p": 0.129,
+   "key": "fc|2388009",
+   "match": "rostyk vs URIST",
+   "start": "2026-11-20T04:14:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 74.431 partidos)",
+    "Goles esperados: rostyk 5.16 · URIST 3.92",
+    "Ganador: rostyk 66% · empate 13% · URIST 21%",
+    "Total: más de 9.5 goles 42% · menos 58%",
+    "Hándicap rostyk: −1.5 46% · −2.5 33%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: rostyk ❌✅➖✅❌ | URIST ✅❌❌❌❌",
+    "• Partidos: rostyk 402 | URIST 171",
+    "• Liga: LaLiga 2x6",
+    "• Unibet: 1 1.50 · X 10.50 · 2 2.63 (sin margen 58%/8%/33%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 10.50 (+35%) · Paf España 10.50 (+35%)"
+   ],
+   "context": "EA FC Esoccer Battle rostyk vs URIST (LaLiga 2x6): goles esperados 5.16-3.92, 1X2 66%/13%/21%. Sin cuotas de casa.",
+   "captured": "2026-11-20T04:11",
+   "version": "27e7041",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "hotShot",
+   "odds": 2.65,
+   "book": "Unibet",
+   "implied": 0.325,
+   "edge": 0.296,
+   "sin_stake": true,
+   "p": 0.489,
+   "key": "fc|2387619",
+   "match": "OG vs hotShot",
+   "start": "2026-11-20T04:26:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 74.431 partidos)",
+    "Goles esperados: OG 2.08 · hotShot 2.47",
+    "Ganador: OG 27% · empate 24% · hotShot 49%",
+    "Total: más de 4.5 goles 48% · menos 52%",
+    "Hándicap hotShot: −1.5 29% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ➖➖❌✅✅ | hotShot ➖❌✅✅➖",
+    "• Partidos: OG 705 | hotShot 700",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.65 · X 2.45 · 2 2.65 (sin margen 32%/35%/32%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.65 (+30%) · Paf España 2.65 (+30%)"
+   ],
+   "context": "EA FC Esoccer Battle OG vs hotShot (Serie A): goles esperados 2.08-2.47, 1X2 27%/24%/49%. Sin cuotas de casa.",
+   "captured": "2026-11-20T04:11",
+   "version": "27e7041",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 10.0,
+   "book": "Unibet",
+   "implied": 0.087,
+   "edge": 0.171,
+   "sin_stake": true,
+   "p": 0.117,
+   "key": "fc|2388010",
+   "match": "rostyk vs zaha",
+   "start": "2026-11-20T04:32:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 74.431 partidos)",
+    "Goles esperados: rostyk 4.31 · zaha 6.03",
+    "Ganador: rostyk 21% · empate 12% · zaha 67%",
+    "Total: más de 10.5 goles 46% · menos 54%",
+    "Hándicap zaha: −1.5 52% · −2.5 40%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: rostyk ❌✅➖✅❌ | zaha ✅✅➖✅✅",
+    "• Partidos: rostyk 402 | zaha 424",
+    "• Liga: LaLiga 2x6",
+    "• Unibet: 1 3.45 · X 10.00 · 2 1.32 (sin margen 25%/9%/66%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 10.00 (+17%) · Paf España 10.00 (+17%)"
+   ],
+   "context": "EA FC Esoccer Battle rostyk vs zaha (LaLiga 2x6): goles esperados 4.31-6.03, 1X2 21%/12%/67%. Sin cuotas de casa.",
+   "captured": "2026-11-20T04:11",
+   "version": "27e7041",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -20854,7 +21005,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-19T23:35:03.432542+00:00",
+ "fc_sent": "2026-11-20T04:11:27.475270+00:00",
  "sgp": {
   "nfl|2026-11-22|Detroit Lions|Tampa Bay Buccaneers": {
    "match": "Detroit Lions vs Tampa Bay Buccaneers",
