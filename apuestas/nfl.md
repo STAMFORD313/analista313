@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 20/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Houston Texans vs Indianapolis Colts — 20/11 · 02:15
 

@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Jokadinho vs vivienne — 20/11 · 02:12
 
@@ -39,6 +39,24 @@ Hándicap believer: −1.5 24% · −2.5 12%
 • Liga: Champions League B  
 • Unibet: 1 3.10 · X 3.95 · 2 1.76 (sin margen 28%/22%/50%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.10 (+8%) · Paf España 3.10 (+8%)  
+
+## Yerema vs Groma — 20/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Groma** @ **1.46** (cuota justa (sin casa)) · prob 69% vs casas 69% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.309 partidos)  
+Goles esperados: Yerema 2.23 · Groma 3.50  
+Ganador: Yerema 18% · empate 13% · Groma 69%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Groma: −1.5 45% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Yerema ✅❌❌❌➖ | Groma ❌✅❌➖❌  
+• Partidos: Yerema 733 | Groma 1590  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## reddevil vs believer — 20/11 · 02:51
 
@@ -110,5 +128,41 @@ Hándicap zaha: −1.5 64% · −2.5 51%
 • Forma: zaha ✅➖✅✅✅ | URIST ❌❌❌✅❌  
 • Partidos: zaha 417 | URIST 164  
 • Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Yerema vs fantazer — 20/11 · 03:43
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.23** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.309 partidos)  
+Goles esperados: Yerema 1.98 · fantazer 4.15  
+Ganador: Yerema 9% · empate 9% · fantazer 82%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap fantazer: −1.5 60% · −2.5 43%  
+🔎 **Claves**  
+• Forma: Yerema ✅❌❌❌➖ | fantazer ✅✅✅✅✅  
+• Partidos: Yerema 733 | fantazer 1870  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## believer vs reddevil — 20/11 · 03:51
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.36** (cuota justa (sin casa)) · prob 73% vs casas 73% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.309 partidos)  
+Goles esperados: believer 3.64 · reddevil 1.93  
+Ganador: believer 73% · empate 15% · reddevil 12%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap believer: −1.5 53% · −2.5 36%  
+🔎 **Claves**  
+• Forma: believer ✅✅✅✅✅ | reddevil ❌✅➖❌❌  
+• Partidos: believer 1292 | reddevil 16  
+• Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
