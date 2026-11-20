@@ -75392,38 +75392,38 @@ id,tournament_id,club1,club2,ht1,ht2
 2390361,262636,Barcelona,Villarreal,,
 2390362,262636,Real Madrid,Barcelona,,
 2390363,262636,Atleti,Athletic Club,,
-2390136,262589,Brazil,France,1,4
-2390137,262589,Spain,Argentina,1,3
-2390138,262589,Argentina,Brazil,1,2
-2390139,262589,France,England,0,1
-2390140,262589,England,Argentina,2,1
-2390141,262589,Brazil,Spain,2,1
-2390142,262589,Spain,England,0,0
-2390143,262589,Argentina,France,0,0
-2390144,262589,France,Spain,4,2
-2390145,262589,England,Brazil,1,1
-2390146,262589,France,Brazil,2,1
-2390147,262589,Argentina,Spain,2,2
-2390148,262589,Brazil,Argentina,2,1
-2390149,262589,England,France,1,0
-2390150,262589,Argentina,England,0,0
-2390151,262589,Spain,Brazil,0,0
+2390136,262589,Brazil,France,1.0,4.0
+2390137,262589,Spain,Argentina,1.0,3.0
+2390138,262589,Argentina,Brazil,1.0,2.0
+2390139,262589,France,England,0.0,1.0
+2390140,262589,England,Argentina,2.0,1.0
+2390141,262589,Brazil,Spain,2.0,1.0
+2390142,262589,Spain,England,0.0,0.0
+2390143,262589,Argentina,France,0.0,0.0
+2390144,262589,France,Spain,4.0,2.0
+2390145,262589,England,Brazil,1.0,1.0
+2390146,262589,France,Brazil,2.0,1.0
+2390147,262589,Argentina,Spain,2.0,2.0
+2390148,262589,Brazil,Argentina,2.0,1.0
+2390149,262589,England,France,1.0,0.0
+2390150,262589,Argentina,England,0.0,0.0
+2390151,262589,Spain,Brazil,0.0,0.0
 2390152,262589,England,Spain,,
 2390153,262589,France,Argentina,,
 2390154,262589,Spain,France,,
 2390155,262589,Brazil,England,,
-2389246,262597,Benfica,Vitoria SC,1,0
-2389247,262597,Porto,Braga,1,1
-2389248,262597,Braga,Benfica,2,1
-2389249,262597,Vitoria SC,Sporting CP,0,0
-2389250,262597,Sporting CP,Braga,1,1
-2389251,262597,Benfica,Porto,2,3
-2389252,262597,Porto,Sporting CP,1,0
-2389253,262597,Braga,Vitoria SC,2,2
-2389254,262597,Vitoria SC,Porto,0,4
-2389255,262597,Sporting CP,Benfica,3,0
-2389256,262597,Vitoria SC,Benfica,2,1
-2389257,262597,Braga,Porto,0,2
+2389246,262597,Benfica,Vitoria SC,1.0,0.0
+2389247,262597,Porto,Braga,1.0,1.0
+2389248,262597,Braga,Benfica,2.0,1.0
+2389249,262597,Vitoria SC,Sporting CP,0.0,0.0
+2389250,262597,Sporting CP,Braga,1.0,1.0
+2389251,262597,Benfica,Porto,2.0,3.0
+2389252,262597,Porto,Sporting CP,1.0,0.0
+2389253,262597,Braga,Vitoria SC,2.0,2.0
+2389254,262597,Vitoria SC,Porto,0.0,4.0
+2389255,262597,Sporting CP,Benfica,3.0,0.0
+2389256,262597,Vitoria SC,Benfica,2.0,1.0
+2389257,262597,Braga,Porto,0.0,2.0
 2389258,262597,Benfica,Braga,,
 2389259,262597,Sporting CP,Vitoria SC,,
 2389260,262597,Braga,Sporting CP,,
@@ -75432,3 +75432,35 @@ id,tournament_id,club1,club2,ht1,ht2
 2389263,262597,Vitoria SC,Braga,,
 2389264,262597,Porto,Vitoria SC,,
 2389265,262597,Benfica,Sporting CP,,
+2389790,262578,Czechia,Netherlands,0,1
+2389791,262578,Norway,Morocco,4,1
+2389792,262578,Morocco,Czechia,0,1
+2389793,262578,Netherlands,Germany,1,1
+2389794,262578,Germany,Morocco,0,2
+2389795,262578,Czechia,Norway,0,2
+2389796,262578,Norway,Germany,1,0
+2389797,262578,Morocco,Netherlands,2,2
+2389798,262578,Netherlands,Norway,1,3
+2389799,262578,Germany,Czechia,1,0
+2389800,262578,Netherlands,Czechia,,
+2389801,262578,Morocco,Norway,,
+2389802,262578,Czechia,Morocco,,
+2389803,262578,Germany,Netherlands,,
+2389804,262578,Morocco,Germany,,
+2389805,262578,Norway,Czechia,,
+2389806,262578,Germany,Norway,,
+2389807,262578,Netherlands,Morocco,,
+2389808,262578,Norway,Netherlands,,
+2389809,262578,Czechia,Germany,,
+2390424,262644,Boca Juniors,River Plate,1,2
+2390425,262644,Boca Juniors,Racing Club,1,2
+2390426,262644,River Plate,Racing Club,1,4
+2390427,262644,River Plate,Boca Juniors,,
+2390428,262644,Racing Club,Boca Juniors,,
+2390429,262644,Racing Club,River Plate,,
+2390430,262644,Boca Juniors,River Plate,,
+2390431,262644,Boca Juniors,Racing Club,,
+2390432,262644,River Plate,Racing Club,,
+2390433,262644,River Plate,Boca Juniors,,
+2390434,262644,Racing Club,Boca Juniors,,
+2390435,262644,Racing Club,River Plate,,
