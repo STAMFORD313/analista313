@@ -70,52 +70,6 @@ id,date,event,home,away,hs,as,res
 401858254,2026-10-09T23:00Z,Florida State Seminoles at Louisville Cardinals,Louisville Cardinals,Florida State Seminoles,44,20,1.0
 401860922,2026-10-10T01:00Z,Washington State Cougars at Utah State Aggies,Utah State Aggies,Washington State Cougars,17,16,1.0
 401864519,2026-10-10T01:00Z,Wyoming Cowboys at San José State Spartans,San José State Spartans,Wyoming Cowboys,13,16,0.0
-401856717,2026-10-10T19:30Z,Texas Longhorns at Oklahoma Sooners,Oklahoma Sooners,Texas Longhorns,27,24,1.0
-401856712,2026-10-10T23:30Z,Georgia Bulldogs at Alabama Crimson Tide,Alabama Crimson Tide,Georgia Bulldogs,17,20,0.0
-401858257,2026-10-10T19:30Z,Stanford Cardinal at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Stanford Cardinal,58,7,1.0
-401858483,2026-10-10T20:15Z,Maryland Terrapins at Ohio State Buckeyes,Ohio State Buckeyes,Maryland Terrapins,45,16,1.0
-401858481,2026-10-10T16:00Z,Indiana Hoosiers at Nebraska Cornhuskers,Nebraska Cornhuskers,Indiana Hoosiers,17,20,0.0
-401856718,2026-10-10T19:30Z,Ole Miss Rebels at Vanderbilt Commodores,Vanderbilt Commodores,Ole Miss Rebels,17,52,0.0
-401856715,2026-10-10T23:00Z,LSU Tigers at Kentucky Wildcats,Kentucky Wildcats,LSU Tigers,35,34,1.0
-401856827,2026-10-11T00:00Z,Kansas Jayhawks at Utah Utes,Utah Utes,Kansas Jayhawks,41,24,1.0
-401858484,2026-10-10T19:30Z,UCLA Bruins at Oregon Ducks,Oregon Ducks,UCLA Bruins,15,17,0.0
-401856716,2026-10-10T16:00Z,Texas A&M Aggies at Missouri Tigers,Missouri Tigers,Texas A&M Aggies,27,6,1.0
-401856713,2026-10-10T20:15Z,Tennessee Volunteers at Arkansas Razorbacks,Arkansas Razorbacks,Tennessee Volunteers,17,24,0.0
-401856714,2026-10-10T16:45Z,South Carolina Gamecocks at Florida Gators,Florida Gators,South Carolina Gamecocks,19,38,0.0
-401856824,2026-10-10T16:00Z,UCF Knights at Oklahoma State Cowboys,Oklahoma State Cowboys,UCF Knights,42,28,1.0
-401858485,2026-10-10T23:30Z,USC Trojans at Penn State Nittany Lions,Penn State Nittany Lions,USC Trojans,23,31,0.0
-401856825,2026-10-10T19:30Z,Houston Cougars at Kansas State Wildcats,Kansas State Wildcats,Houston Cougars,16,35,0.0
-401860901,2026-10-11T02:30Z,Boise State Broncos at Fresno State Bulldogs,Fresno State Bulldogs,Boise State Broncos,31,38,0.0
-401858256,2026-10-10T16:00Z,North Carolina Tar Heels at Pittsburgh Panthers,Pittsburgh Panthers,North Carolina Tar Heels,17,21,0.0
-401856823,2026-10-10T16:00Z,Arizona Wildcats at West Virginia Mountaineers,West Virginia Mountaineers,Arizona Wildcats,31,52,0.0
-401858260,2026-10-10T16:00Z,Wake Forest Demon Deacons at NC State Wolfpack,NC State Wolfpack,Wake Forest Demon Deacons,14,38,0.0
-401862795,2026-10-10T16:00Z,Tulane Green Wave at Army Black Knights,Army Black Knights,Tulane Green Wave,20,17,1.0
-401866436,2026-10-10T16:00Z,Sacramento State Hornets at Bowling Green Falcons,Bowling Green Falcons,Sacramento State Hornets,38,10,1.0
-401858482,2026-10-10T16:30Z,Ball State Cardinals at Northwestern Wildcats,Northwestern Wildcats,Ball State Cardinals,45,14,1.0
-401862797,2026-10-10T17:00Z,Rice Owls at East Carolina Pirates,East Carolina Pirates,Rice Owls,28,12,1.0
-401869843,2026-10-10T17:00Z,Old Dominion Monarchs at App State Mountaineers,App State Mountaineers,Old Dominion Monarchs,3,10,0.0
-401866440,2026-10-10T18:00Z,Miami (OH) RedHawks at Massachusetts Minutemen,Massachusetts Minutemen,Miami (OH) RedHawks,19,20,0.0
-401858255,2026-10-10T19:30Z,Duke Blue Devils at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Duke Blue Devils,28,25,1.0
-401858259,2026-10-10T19:30Z,Virginia Tech Hokies at California Golden Bears,California Golden Bears,Virginia Tech Hokies,25,20,1.0
-401858480,2026-10-10T19:30Z,Illinois Fighting Illini at Michigan State Spartans,Michigan State Spartans,Illinois Fighting Illini,37,38,0.0
-401862796,2026-10-10T19:30Z,Charlotte 49ers at North Texas Mean Green,North Texas Mean Green,Charlotte 49ers,50,10,1.0
-401862799,2026-10-10T19:30Z,Tulsa Golden Hurricane at Navy Midshipmen,Navy Midshipmen,Tulsa Golden Hurricane,34,26,1.0
-401866435,2026-10-10T19:30Z,Eastern Michigan Eagles at Akron Zips,Akron Zips,Eastern Michigan Eagles,23,25,0.0
-401866437,2026-10-10T19:30Z,Buffalo Bulls at Toledo Rockets,Toledo Rockets,Buffalo Bulls,8,23,0.0
-401866438,2026-10-10T19:30Z,Central Michigan Chippewas at Ohio Bobcats,Ohio Bobcats,Central Michigan Chippewas,31,14,1.0
-401866439,2026-10-10T19:30Z,Kent State Golden Flashes at Western Michigan Broncos,Western Michigan Broncos,Kent State Golden Flashes,38,7,1.0
-401861964,2026-10-10T19:45Z,UConn Huskies at Temple Owls,Temple Owls,UConn Huskies,20,34,0.0
-401860902,2026-10-10T22:00Z,San Diego State Aztecs at Oregon State Beavers,Oregon State Beavers,San Diego State Aztecs,66,14,1.0
-401862798,2026-10-10T23:00Z,UAB Blazers at Memphis Tigers,Memphis Tigers,UAB Blazers,38,13,1.0
-401864517,2026-10-10T23:00Z,Nevada Wolf Pack at UTEP Miners,UTEP Miners,Nevada Wolf Pack,13,30,0.0
-401864518,2026-10-10T23:00Z,North Dakota State Bison at UNLV Rebels,UNLV Rebels,North Dakota State Bison,13,7,1.0
-401869943,2026-10-10T23:00Z,Coastal Carolina Chanticleers at Marshall Thundering Herd,Marshall Thundering Herd,Coastal Carolina Chanticleers,21,27,0.0
-401858258,2026-10-10T23:30Z,Syracuse Orange at Virginia Cavaliers,Virginia Cavaliers,Syracuse Orange,28,25,1.0
-401864516,2026-10-10T23:30Z,Air Force Falcons at Northern Illinois Huskies,Northern Illinois Huskies,Air Force Falcons,7,28,0.0
-401869965,2026-10-10T23:30Z,Louisiana Ragin' Cajuns at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Louisiana Ragin' Cajuns,32,31,1.0
-401858486,2026-10-11T00:00Z,Minnesota Golden Gophers at Purdue Boilermakers,Purdue Boilermakers,Minnesota Golden Gophers,41,13,1.0
-401869949,2026-10-11T00:10Z,James Madison Dukes at Georgia Southern Eagles,Georgia Southern Eagles,James Madison Dukes,24,27,0.0
-401856808,2026-10-11T02:30Z,Hawai'i Rainbow Warriors at Arizona State Sun Devils,Arizona State Sun Devils,Hawai'i Rainbow Warriors,30,12,1.0
 401871067,2026-10-13T23:00Z,Delaware Blue Hens at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Delaware Blue Hens,33,30,1.0
 401871053,2026-10-14T00:00Z,Florida International Panthers at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Florida International Panthers,27,24,1.0
 401871054,2026-10-14T23:30Z,Kennesaw State Owls at Missouri State Bears,Missouri State Bears,Kennesaw State Owls,24,21,1.0

@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 16:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 17:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
 
@@ -10128,6 +10128,156 @@ Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
 
+## Kocaelispor vs Fenerbahce — 21/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.35** (Unibet) · prob 69% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.73 - 1.34)  
+1 19% · X 28% · 2 53%  
+1X 47% · X2 81% · 12 72%  
++1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
+Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
+• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
+• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
+Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
+Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
+Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+
+## Kocaelispor vs Fenerbahce — 21/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.45** (Unibet) · prob 65% vs casas 63% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.73 - 1.34)  
+1 19% · X 28% · 2 53%  
+1X 47% · X2 81% · 12 72%  
++1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
+Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
+• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
+• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
+Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
+Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
+Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+
+## Kocaelispor vs Fenerbahce — 21/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Kocaelispor** @ **1.83** (Unibet) · prob 52% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.73 - 1.34)  
+1 19% · X 28% · 2 53%  
+1X 47% · X2 81% · 12 72%  
++1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
+Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
+• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
+• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
+Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
+Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
+Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+
+## Kocaelispor vs Fenerbahce — 21/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Kocaelispor** @ **1.43** (Unibet) · prob 63% vs casas 64% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.73 - 1.34)  
+1 19% · X 28% · 2 53%  
+1X 47% · X2 81% · 12 72%  
++1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
+Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
+• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
+• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
+Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
+Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
+Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+
+## Kocaelispor vs Fenerbahce — 21/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Fenerbahce** @ **1.55** (Unibet) · prob 57% vs casas 59% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.73 - 1.34)  
+1 19% · X 28% · 2 53%  
+1X 47% · X2 81% · 12 72%  
++1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
+Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
+• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
+• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
+Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
+Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
+Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+
+## Kocaelispor vs Fenerbahce — 21/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Fenerbahce** @ **1.71** (Unibet) · prob 56% vs casas 54% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.73 - 1.34)  
+1 19% · X 28% · 2 53%  
+1X 47% · X2 81% · 12 72%  
++1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
+Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
+• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
+• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
+Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
+Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
+Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+
 ## Nice vs Paris SG — 21/11 · 17:15
 
 👀 candidata · 🇫🇷 Ligue 1 · **Nice +1.25 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 50% vs casas 50% · ventaja -2%
@@ -10152,6 +10302,7 @@ Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%
 Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
 
 ## Catanzaro vs Palermo — 21/11 · 17:15
 
@@ -10159,6 +10310,312 @@ Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.69)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
+• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
+• Favorito de las casas: Palermo @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
+Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
+Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
+Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
+
+## Nice vs Paris SG — 21/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.27** (Unibet) · prob 73% vs casas 72% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.05 - 1.90)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
+• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
+• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
+• Favorito de las casas: Paris SG @ 1.47  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
+Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
+Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
+Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
+
+## Nice vs Paris SG — 21/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.05 - 1.90)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
+• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
+• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
+• Favorito de las casas: Paris SG @ 1.47  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
+Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
+Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
+Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
+
+## Nice vs Paris SG — 21/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 5.5 córners de Nice** @ **1.19** (Unibet) · prob 76% vs casas 77% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.05 - 1.90)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
+• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
+• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
+• Favorito de las casas: Paris SG @ 1.47  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
+Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
+Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
+Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
+
+## Nice vs Paris SG — 21/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Nice** @ **1.89** (Unibet) · prob 51% vs casas 49% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.05 - 1.90)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
+• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
+• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
+• Favorito de las casas: Paris SG @ 1.47  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
+Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
+Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
+Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
+
+## Nice vs Paris SG — 21/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Paris SG** @ **1.19** (Unibet) · prob 76% vs casas 77% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.05 - 1.90)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
+• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
+• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
+• Favorito de las casas: Paris SG @ 1.47  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
+Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
+Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
+Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
+
+## Nice vs Paris SG — 21/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 5.5 córners de Paris SG** @ **1.95** (Unibet) · prob 50% vs casas 47% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.05 - 1.90)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
+• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
+• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
+• Favorito de las casas: Paris SG @ 1.47  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
+Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
+Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
+Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
+
+## Catanzaro vs Palermo — 21/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Palermo** @ **1.61** (Unibet) · prob 53% vs casas 56% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.69)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
+• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
+• Favorito de las casas: Palermo @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
+Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
+Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
+Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
+
+## Catanzaro vs Palermo — 21/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Palermo** @ **1.58** (Unibet) · prob 60% vs casas 57% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.69)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
+• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
+• Favorito de las casas: Palermo @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
+Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
+Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
+Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
+
+## Catanzaro vs Palermo — 21/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Catanzaro** @ **1.90** (Unibet) · prob 48% vs casas 47% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.69)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
+• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
+• Favorito de las casas: Palermo @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
+Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
+Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
+Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
+
+## Catanzaro vs Palermo — 21/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Catanzaro** @ **1.70** (Unibet) · prob 52% vs casas 53% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.69)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
+• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
+• Favorito de las casas: Palermo @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
+Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
+Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
+Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
+
+## Catanzaro vs Palermo — 21/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 62% vs casas 62% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.69)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
+• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
+• Favorito de las casas: Palermo @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
+Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
+Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
+Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
+
+## Catanzaro vs Palermo — 21/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.55** (Unibet) · prob 60% vs casas 58% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.56 - 1.69)  
 1 24% · X 28% · 2 48%  
