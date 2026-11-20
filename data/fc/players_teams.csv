@@ -74563,16 +74563,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389887,262627,Arsenal,Liverpool,,
 2389888,262627,Chelsea,Arsenal,,
 2389889,262627,Tottenham,Man City,,
-2389086,262582,Argentina,Spain,1,1
-2389087,262582,Brazil,England,2,0
-2389088,262582,England,Argentina,0,1
-2389089,262582,Spain,France,3,2
-2389090,262582,France,England,2,3
-2389091,262582,Argentina,Brazil,2,0
-2389092,262582,Brazil,France,1,2
-2389093,262582,England,Spain,2,0
-2389094,262582,Spain,Brazil,2,0
-2389095,262582,France,Argentina,1,3
+2389086,262582,Argentina,Spain,1.0,1.0
+2389087,262582,Brazil,England,2.0,0.0
+2389088,262582,England,Argentina,0.0,1.0
+2389089,262582,Spain,France,3.0,2.0
+2389090,262582,France,England,2.0,3.0
+2389091,262582,Argentina,Brazil,2.0,0.0
+2389092,262582,Brazil,France,1.0,2.0
+2389093,262582,England,Spain,2.0,0.0
+2389094,262582,Spain,Brazil,2.0,0.0
+2389095,262582,France,Argentina,1.0,3.0
 2389096,262582,Spain,Argentina,,
 2389097,262582,England,Brazil,,
 2389098,262582,Argentina,England,,
@@ -74583,16 +74583,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389103,262582,Spain,England,,
 2389104,262582,Brazil,Spain,,
 2389105,262582,Argentina,France,,
-2389326,262611,Inter Miami CF,Atlanta United,2,1
-2389327,262611,LA Galaxy,Los Angeles FC,1,2
-2389328,262611,Los Angeles FC,Inter Miami CF,1,3
-2389329,262611,Atlanta United,Seattle Sounders FC,0,1
-2389330,262611,Seattle Sounders FC,Los Angeles FC,4,2
-2389331,262611,Inter Miami CF,LA Galaxy,2,1
-2389332,262611,LA Galaxy,Seattle Sounders FC,1,3
-2389333,262611,Los Angeles FC,Atlanta United,1,2
-2389334,262611,Atlanta United,LA Galaxy,0,0
-2389335,262611,Seattle Sounders FC,Inter Miami CF,0,0
+2389326,262611,Inter Miami CF,Atlanta United,2.0,1.0
+2389327,262611,LA Galaxy,Los Angeles FC,1.0,2.0
+2389328,262611,Los Angeles FC,Inter Miami CF,1.0,3.0
+2389329,262611,Atlanta United,Seattle Sounders FC,0.0,1.0
+2389330,262611,Seattle Sounders FC,Los Angeles FC,4.0,2.0
+2389331,262611,Inter Miami CF,LA Galaxy,2.0,1.0
+2389332,262611,LA Galaxy,Seattle Sounders FC,1.0,3.0
+2389333,262611,Los Angeles FC,Atlanta United,1.0,2.0
+2389334,262611,Atlanta United,LA Galaxy,0.0,0.0
+2389335,262611,Seattle Sounders FC,Inter Miami CF,0.0,0.0
 2389336,262611,Atlanta United,Inter Miami CF,,
 2389337,262611,Los Angeles FC,LA Galaxy,,
 2389338,262611,Inter Miami CF,Los Angeles FC,,
@@ -74603,18 +74603,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2389343,262611,Atlanta United,Los Angeles FC,,
 2389344,262611,LA Galaxy,Atlanta United,,
 2389345,262611,Inter Miami CF,Seattle Sounders FC,,
-2389920,262637,B Dortmund,Leipzig,4,2
-2389921,262637,Bayern Munchen,Stuttgart,1,0
-2389922,262637,Stuttgart,B Dortmund,0,3
-2389923,262637,Leipzig,Frankfurt,2,1
-2389924,262637,Frankfurt,Stuttgart,1,3
-2389925,262637,B Dortmund,Bayern Munchen,3,3
-2389926,262637,Bayern Munchen,Frankfurt,0,1
-2389927,262637,Stuttgart,Leipzig,1,1
-2389928,262637,Leipzig,Bayern Munchen,0,1
-2389929,262637,Frankfurt,B Dortmund,1,1
-2389930,262637,Leipzig,B Dortmund,1,4
-2389931,262637,Stuttgart,Bayern Munchen,1,0
+2389920,262637,B Dortmund,Leipzig,4.0,2.0
+2389921,262637,Bayern Munchen,Stuttgart,1.0,0.0
+2389922,262637,Stuttgart,B Dortmund,0.0,3.0
+2389923,262637,Leipzig,Frankfurt,2.0,1.0
+2389924,262637,Frankfurt,Stuttgart,1.0,3.0
+2389925,262637,B Dortmund,Bayern Munchen,3.0,3.0
+2389926,262637,Bayern Munchen,Frankfurt,0.0,1.0
+2389927,262637,Stuttgart,Leipzig,1.0,1.0
+2389928,262637,Leipzig,Bayern Munchen,0.0,1.0
+2389929,262637,Frankfurt,B Dortmund,1.0,1.0
+2389930,262637,Leipzig,B Dortmund,1.0,4.0
+2389931,262637,Stuttgart,Bayern Munchen,1.0,0.0
 2389932,262637,B Dortmund,Stuttgart,,
 2389933,262637,Frankfurt,Leipzig,,
 2389934,262637,Stuttgart,Frankfurt,,
@@ -74623,3 +74623,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389937,262637,Leipzig,Stuttgart,,
 2389938,262637,Bayern Munchen,Leipzig,,
 2389939,262637,B Dortmund,Frankfurt,,
+2389171,262593,Fenerbahce,Salzburg,2,2
+2389174,262593,Aston Villa,Salzburg,0,2
+2389176,262593,Aston Villa,Fenerbahce,1,1
+2389178,262593,Fenerbahce,Porto,,
+2389179,262593,Roma,Aston Villa,,
+2389180,262593,Porto,Roma,,
+2389181,262593,Salzburg,Fenerbahce,,
+2389182,262593,Roma,Salzburg,,
+2389183,262593,Aston Villa,Porto,,
+2389184,262593,Salzburg,Aston Villa,,
+2389185,262593,Fenerbahce,Roma,,
+2389166,262593,Fenerbahce,Aston Villa,,
+2389167,262593,Salzburg,Porto,,
