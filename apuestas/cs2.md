@@ -1,58 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 12:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Iberian Soul vs Butterfly — 20/11 · 13:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Iberian Soul** @ **1.88** (Thunderpick) · prob 57% vs casas 49% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: Iberian Soul 53% · Serie BO3: Iberian Soul 64% - 36% Butterfly  
-Casas: Iberian Soul 49% · Butterfly 51%  
-🔎 **Claves**  
-• Elo: Iberian Soul 1767 (139 series) | Butterfly 1731 (51 series)  
-• Forma: Iberian Soul ✅✅❌❌❌ | Butterfly ✅❌❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Iberian Soul: alex 6.1, mopoz 6.0 | Butterfly: nitzie 6.7, Kuruma 6.4  
-• Mapas (último año): Iberian Soul: fuerte inferno 78%, débil ancient 33% | Butterfly: fuerte mirage 69%, débil inferno 20%  
-• Química de la plantilla: Iberian Soul: 259 mapas juntos de media | Butterfly: 54 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Iberian Soul gana 2-1: 23% → cuota justa 4.28 · casa 25%  
-• Butterfly gana 2-1: 20% → cuota justa 4.91 · casa 23%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
-Iberian Soul: sausol 35 (20-52) · mopoz 35 (20-51) · alex 33 (19-49) · dav1g 33 (19-49) · Ag1l 33 (19-48)  
-Butterfly: nitzie 39 (22-57) · Kuruma 35 (20-52) · Krad 34 (20-51) · ayano 33 (19-48) · Qioke 31 (18-46)  
-
-## Iberian Soul vs Butterfly — 20/11 · 13:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Iberian Soul -1.5 mapas** @ **3.80** (Thunderpick) · prob 28% vs casas 24% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.049 partidos)  
-Mapa: Iberian Soul 53% · Serie BO3: Iberian Soul 64% - 36% Butterfly  
-Casas: Iberian Soul 49% · Butterfly 51%  
-🔎 **Claves**  
-• Elo: Iberian Soul 1767 (139 series) | Butterfly 1731 (51 series)  
-• Forma: Iberian Soul ✅✅❌❌❌ | Butterfly ✅❌❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Iberian Soul: alex 6.1, mopoz 6.0 | Butterfly: nitzie 6.7, Kuruma 6.4  
-• Mapas (último año): Iberian Soul: fuerte inferno 78%, débil ancient 33% | Butterfly: fuerte mirage 69%, débil inferno 20%  
-• Química de la plantilla: Iberian Soul: 259 mapas juntos de media | Butterfly: 54 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Iberian Soul gana 2-1: 23% → cuota justa 4.28 · casa 25%  
-• Butterfly gana 2-1: 20% → cuota justa 4.91 · casa 23%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
-Iberian Soul: sausol 35 (20-52) · mopoz 35 (20-51) · alex 33 (19-49) · dav1g 33 (19-49) · Ag1l 33 (19-48)  
-Butterfly: nitzie 39 (22-57) · Kuruma 35 (20-52) · Krad 34 (20-51) · ayano 33 (19-48) · Qioke 31 (18-46)  
+Actualizado 20/11/2026 13:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FOKUS vs Aces — 20/11 · 16:00
 

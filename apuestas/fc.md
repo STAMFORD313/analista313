@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 12:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 13:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## MeLToSik vs DaVa — 20/11 · 12:54
+## MeLToSik vs dm1trena — 20/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **1.91** (Unibet) · prob 64% vs casas 46% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **2.75** (Unibet) · prob 43% vs casas 32% · ventaja +19%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.808 partidos)  
-Goles esperados: MeLToSik 1.99 · DaVa 2.96  
-Ganador: MeLToSik 18% · empate 18% · DaVa 64%  
+📊 **Escenarios** (Poisson por jugador, 74.831 partidos)  
+Goles esperados: MeLToSik 2.64 · dm1trena 2.33  
+Ganador: MeLToSik 43% · empate 22% · dm1trena 35%  
 Total: más de 4.5 goles 55% · menos 45%  
-Hándicap DaVa: −1.5 40% · −2.5 24%  
+Hándicap MeLToSik: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: MeLToSik ✅❌✅✅➖ | DaVa ❌✅✅✅✅  
-• Partidos: MeLToSik 1371 | DaVa 1434  
+• Forma: MeLToSik ❌✅✅➖➖ | dm1trena ➖❌❌❌✅  
+• Partidos: MeLToSik 1372 | dm1trena 1217  
 • Liga: Bundesliga  
-• Unibet: 1 3.35 · X 3.05 · 2 1.91 (sin margen 26%/29%/46%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.91 (+22%) · Paf España 1.91 (+22%)  
+• Unibet: 1 2.75 · X 2.63 · 2 2.45 (sin margen 32%/33%/35%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.75 (+19%) · Paf España 2.75 (+19%)  
 
-## mko1919 vs Wboy — 20/11 · 13:03
+## DaVa vs Jekunam — 20/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana mko1919** @ **3.80** (Unibet) · prob 33% vs casas 23% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **2.08** (Unibet) · prob 56% vs casas 42% · ventaja +17%
 
-- ✅ Valor: ventaja +24% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.808 partidos)  
-Goles esperados: mko1919 2.91 · Wboy 3.45  
-Ganador: mko1919 33% · empate 18% · Wboy 49%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap Wboy: −1.5 35% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 74.831 partidos)  
+Goles esperados: DaVa 2.98 · Jekunam 2.16  
+Ganador: DaVa 56% · empate 20% · Jekunam 24%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap DaVa: −1.5 37% · −2.5 22%  
 🔎 **Claves**  
-• Forma: mko1919 ✅➖✅❌✅ | Wboy ✅➖✅❌✅  
-• Partidos: mko1919 1367 | Wboy 1276  
-• Liga: World Cup B  
-• Unibet: 1 3.80 · X 4.75 · 2 1.46 (sin margen 23%/18%/59%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+24%) · Paf España 3.80 (+24%)  
+• Forma: DaVa ✅✅✅➖➖ | Jekunam ➖❌❌❌✅  
+• Partidos: DaVa 1436 | Jekunam 1263  
+• Liga: Bundesliga  
+• Unibet: 1 2.08 · X 3.30 · 2 2.70 (sin margen 42%/26%/32%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.08 (+17%) · Paf España 2.08 (+17%)  
 
-## dm1trena vs Edwardson — 20/11 · 13:06
+## Bomb1to vs mko1919 — 20/11 · 13:37
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Edwardson** @ **2.80** (Unibet) · prob 40% vs casas 31% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mko1919** @ **4.60** (Unibet) · prob 25% vs casas 19% · ventaja +13%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.808 partidos)  
-Goles esperados: dm1trena 2.33 · Edwardson 2.32  
-Ganador: dm1trena 38% · empate 23% · Edwardson 40%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap dm1trena: −1.5 24% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 74.831 partidos)  
+Goles esperados: Bomb1to 3.52 · mko1919 2.56  
+Ganador: Bomb1to 56% · empate 19% · mko1919 25%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Bomb1to: −1.5 41% · −2.5 26%  
 🔎 **Claves**  
-• Forma: dm1trena ✅➖❌❌❌ | Edwardson ❌❌➖✅➖  
-• Partidos: dm1trena 1216 | Edwardson 1369  
-• Liga: Bundesliga  
-• Unibet: 1 2.40 · X 2.60 · 2 2.80 (sin margen 36%/33%/31%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+11%) · Paf España 2.80 (+11%)  
+• Forma: Bomb1to ✅✅❌✅✅ | mko1919 ➖✅❌✅❌  
+• Partidos: Bomb1to 1439 | mko1919 1368  
+• Liga: Champions League B  
+• Unibet: 1 1.53 · X 3.80 · 2 4.60 (sin margen 58%/23%/19%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.60 (+13%) · Paf España 4.60 (+13%)  
 
