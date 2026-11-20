@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 15:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 15:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FOKUS vs Aces — 20/11 · 16:00
 
