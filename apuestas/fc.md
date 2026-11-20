@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 14:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 15:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Wboy vs LaikingDast — 20/11 · 15:01
+## pikalicaaa vs Sena — 20/11 · 15:49
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **2.85** (Unibet) · prob 41% vs casas 30% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **6.25** (Unibet) · prob 21% vs casas 14% · ventaja +29%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +29% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.951 partidos)  
+Goles esperados: pikalicaaa 2.43 · Sena 2.85  
+Ganador: pikalicaaa 33% · empate 21% · Sena 46%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Sena: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: pikalicaaa ➖❌✅❌❌ | Sena ❌❌❌➖✅  
+• Partidos: pikalicaaa 783 | Sena 840  
+• Liga: Europa League  
+• Unibet: 1 2.14 · X 6.25 · 2 1.96 (sin margen 41%/14%/45%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+29%) · Paf España 6.25 (+29%)  
+
+## saportj vs dirowe — 20/11 · 15:52
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.951 partidos)  
+Goles esperados: saportj 3.00 · dirowe 2.95  
+Ganador: saportj 39% · empate 19% · dirowe 42%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap saportj: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: saportj ❌❌❌❌✅ | dirowe ❌❌❌✅✅  
+• Partidos: saportj 1054 | dirowe 970  
+• Liga: Eredivisie  
+• Unibet: 1 2.16 · X 5.60 · 2 2.00 (sin margen 41%/16%/44%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+9%) · Paf España 5.60 (+9%)  
+
+## Dicca vs pikalicaaa — 20/11 · 16:01
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **2.10** (Unibet) · prob 53% vs casas 41% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.923 partidos)  
-Goles esperados: Wboy 3.30 · LaikingDast 3.09  
-Ganador: Wboy 41% · empate 19% · LaikingDast 40%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Wboy: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 74.951 partidos)  
+Goles esperados: Dicca 3.28 · pikalicaaa 2.50  
+Ganador: Dicca 53% · empate 19% · pikalicaaa 28%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Dicca: −1.5 38% · −2.5 23%  
 🔎 **Claves**  
-• Forma: Wboy ❌✅✅❌❌ | LaikingDast ✅✅❌➖✅  
-• Partidos: Wboy 1284 | LaikingDast 542  
-• Liga: Champions League B  
-• Unibet: 1 2.85 · X 3.30 · 2 2.00 (sin margen 30%/26%/43%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+17%) · Paf España 2.85 (+17%)  
-
-## KraftVK vs Bomb1to — 20/11 · 15:01
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Bomb1to** @ **2.48** (Unibet) · prob 45% vs casas 35% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.923 partidos)  
-Goles esperados: KraftVK 3.32 · Bomb1to 3.39  
-Ganador: KraftVK 37% · empate 18% · Bomb1to 45%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap Bomb1to: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: KraftVK ✅❌➖➖✅ | Bomb1to ✅❌✅❌✅  
-• Partidos: KraftVK 1002 | Bomb1to 1445  
-• Liga: Champions League B  
-• Unibet: 1 2.45 · X 2.90 · 2 2.48 (sin margen 35%/30%/35%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+11%) · Paf España 2.48 (+11%)  
-
-## mko1919 vs Wboy — 20/11 · 15:13
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mko1919** @ **4.00** (Unibet) · prob 30% vs casas 22% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.923 partidos)  
-Goles esperados: mko1919 3.01 · Wboy 3.71  
-Ganador: mko1919 30% · empate 17% · Wboy 53%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap Wboy: −1.5 37% · −2.5 24%  
-🔎 **Claves**  
-• Forma: mko1919 ❌❌✅➖❌ | Wboy ❌✅✅❌❌  
-• Partidos: mko1919 1375 | Wboy 1284  
-• Liga: Champions League B  
-• Unibet: 1 4.00 · X 4.80 · 2 1.48 (sin margen 22%/18%/60%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.00 (+20%) · Paf España 4.00 (+20%)  
+• Forma: Dicca ✅✅✅✅❌ | pikalicaaa ➖❌✅❌❌  
+• Partidos: Dicca 913 | pikalicaaa 783  
+• Liga: Europa League  
+• Unibet: 1 2.10 · X 3.75 · 2 2.43 (sin margen 41%/23%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.10 (+11%) · Paf España 2.10 (+11%)  
 

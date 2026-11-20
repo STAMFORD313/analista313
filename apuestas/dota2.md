@@ -1,50 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 20/11/2026 14:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Natus Vincere vs OG — 20/11 · 15:00
-
-👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana OG** @ **3.59** (Thunderpick) · prob 27% vs casas 26% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
-Mapa: Natus Vincere 66% · Serie BO3: Natus Vincere 72% - 28% OG  
-Casas: Natus Vincere 74% · OG 26%  
-🔎 **Claves**  
-• Elo: Natus Vincere 2044 (255 series) | OG 1887 (300 series)  
-• Forma: Natus Vincere ❌✅✅✅✅ | OG ❌❌❌✅❌  
-• H2H: 2: 1-1  
-• Torneo: BLAST Slam IX (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Natus Vincere: Niku 6.0, pma 4.1 | OG: SSS 2.0, Topson 1.7  
-• Química de la plantilla: Natus Vincere: 503 partidas juntos de media | OG: 63 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Natus Vincere gana 2-1: 25% → cuota justa 4.01 · casa 27%  
-• OG gana 2-1: 13% → cuota justa 7.87 · casa 12%  
-
-## GamerLegion vs Xtreme Gaming — 20/11 · 15:00
-
-👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana Xtreme Gaming** @ **2.32** (Thunderpick) · prob 41% vs casas 40% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.865 partidos)  
-Mapa: GamerLegion 53% · Serie BO3: GamerLegion 58% - 42% Xtreme Gaming  
-Casas: GamerLegion 60% · Xtreme Gaming 40%  
-🔎 **Claves**  
-• Elo: GamerLegion 1960 (119 series) | Xtreme Gaming 1929 (308 series)  
-• Forma: GamerLegion ❌❌✅❌❌ | Xtreme Gaming ✅❌✅✅✅  
-• H2H: 4: 1-3  
-• Torneo: BLAST Slam IX (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): GamerLegion: RCY 5.0, Fayde 3.7 | Xtreme Gaming: Ame 5.3, Xm 2.9  
-• Química de la plantilla: GamerLegion: 344 partidas juntos de media | Xtreme Gaming: 159 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• GamerLegion gana 2-1: 23% → cuota justa 4.41 · casa 25%  
-• Xtreme Gaming gana 2-1: 20% → cuota justa 5.05 · casa 19%  
+Actualizado 20/11/2026 15:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Liquid vs DO KONCA — 20/11 · 18:00
 
