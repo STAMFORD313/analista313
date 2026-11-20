@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 11:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 12:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
 
