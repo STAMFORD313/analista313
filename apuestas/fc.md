@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 09:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## flamez vs why — 20/11 · 09:38
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **1.65** (Unibet) · prob 68% vs casas 53% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.641 partidos)  
-Goles esperados: flamez 4.90 · why 3.36  
-Ganador: flamez 68% · empate 14% · why 18%  
-Total: más de 8.5 goles 44% · menos 56%  
-Hándicap flamez: −1.5 50% · −2.5 36%  
-🔎 **Claves**  
-• Forma: flamez ✅✅❌✅✅ | why ✅❌❌✅➖  
-• Partidos: flamez 882 | why 713  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.65 · X 4.70 · 2 3.15 (sin margen 53%/19%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.65 (+12%) · Paf España 1.65 (+12%)  
+Actualizado 20/11/2026 09:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Loka vs spirtes — 20/11 · 09:48
 
@@ -38,6 +19,25 @@ Hándicap Loka: −1.5 67% · −2.5 52%
 • Partidos: Loka 1418 | spirtes 1314  
 • Liga: EFL Championship  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Bomb1to vs LaikingDast — 20/11 · 09:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.43** (Unibet) · prob 48% vs casas 36% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.647 partidos)  
+Goles esperados: Bomb1to 3.04 · LaikingDast 2.66  
+Ganador: Bomb1to 48% · empate 21% · LaikingDast 31%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Bomb1to: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅➖➖✅✅ | LaikingDast ❌✅➖➖✅  
+• Partidos: Bomb1to 1427 | LaikingDast 524  
+• Liga: Serie A  
+• Unibet: 1 2.43 · X 3.15 · 2 2.33 (sin margen 36%/27%/37%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.43 (+17%) · Paf España 2.43 (+17%)  
 
 ## spirtes vs Loka — 20/11 · 10:48
 
