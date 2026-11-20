@@ -3434,7 +3434,10 @@
     "away": "JEF United Chiba",
     "txt": "Gana Kashiwa Reysol",
     "odds": 1.56,
-    "p": 0.6605
+    "p": 0.6605,
+    "ok": false,
+    "por": "ganó JEF United Chiba, acabó 0-1",
+    "clv": -0.003
    },
    {
     "code": null,
@@ -3460,8 +3463,8 @@
   "odds": 5.8,
   "p": 0.19242587621060261,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
