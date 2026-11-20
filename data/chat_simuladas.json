@@ -3340,7 +3340,10 @@
     "away": "Real Salt Lake",
     "txt": "Gana Seattle Sounders",
     "odds": 2.08,
-    "p": 0.4946
+    "p": 0.4946,
+    "ok": false,
+    "por": "empate, acabó 1-1",
+    "clv": -0.036
    },
    {
     "src": "esports:cs2",
@@ -3368,9 +3371,9 @@
   "odds": 9.78,
   "p": 0.11305272612387701,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261120015544087075",
