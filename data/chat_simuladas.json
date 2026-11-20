@@ -3371,5 +3371,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261120015544087075",
+  "creada": "2026-11-20 01:55:44.087123+00:00",
+  "titulo": "Barrido · Combinada cuota 6.0",
+  "legs": [
+   {
+    "src": "espn:nhl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-20 02:00:00+00:00",
+    "home": "Colorado Avalanche",
+    "away": "Anaheim Ducks",
+    "txt": "Gana Colorado Avalanche",
+    "odds": 1.769,
+    "p": 0.58243
+   },
+   {
+    "code": null,
+    "start": "2026-11-20 23:00:00+00:00",
+    "home": "Deportivo Recoleta",
+    "away": "Club Guarani",
+    "txt": "Gana Club Guarani",
+    "odds": 2.0,
+    "p": 0.5125
+   },
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-21 01:00:00+00:00",
+    "home": "Chicago Bulls",
+    "away": "Washington Wizards",
+    "txt": "Gana Chicago Bulls",
+    "odds": 1.694,
+    "p": 0.6063658480913026
+   }
+  ],
+  "odds": 5.99,
+  "p": 0.18099740121320637,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
