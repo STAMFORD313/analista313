@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 18:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Lunjo vs Vanste — 20/11 · 18:26
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **4.80** (Unibet) · prob 25% vs casas 18% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.090 partidos)  
-Goles esperados: Lunjo 2.68 · Vanste 2.14  
-Ganador: Lunjo 48% · empate 25% · Vanste 27%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Lunjo: −1.5 32% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Lunjo ✅❌✅➖✅ | Vanste ➖➖✅❌❌  
-• Partidos: Lunjo 288 | Vanste 248  
-• Liga: Super Lig  
-• Unibet: 1 1.80 · X 4.80 · 2 2.63 (sin margen 49%/18%/33%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.80 (+18%) · Paf España 4.80 (+18%)  
+Actualizado 20/11/2026 18:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ramzes vs dirowe — 20/11 · 18:38
 
