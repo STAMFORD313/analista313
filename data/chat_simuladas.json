@@ -3386,7 +3386,10 @@
     "away": "Anaheim Ducks",
     "txt": "Gana Colorado Avalanche",
     "odds": 1.769,
-    "p": 0.58243
+    "p": 0.58243,
+    "ok": true,
+    "por": "ganó Colorado Avalanche 4-0",
+    "clv": -0.045
    },
    {
     "code": null,
