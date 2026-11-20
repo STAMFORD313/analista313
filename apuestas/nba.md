@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 20/11/2026 03:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 03:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kansas Jayhawks vs Houston Cougars — 20/11 · 05:00
 
