@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Jokadinho vs vivienne — 20/11 · 02:12
 
@@ -164,5 +164,23 @@ Hándicap believer: −1.5 53% · −2.5 36%
 • Forma: believer ✅✅✅✅✅ | reddevil ❌✅➖❌❌  
 • Partidos: believer 1292 | reddevil 16  
 • Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## URIST vs zaha — 20/11 · 04:02
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.21** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.315 partidos)  
+Goles esperados: URIST 3.28 · zaha 6.01  
+Ganador: URIST 9% · empate 8% · zaha 83%  
+Total: más de 9.5 goles 45% · menos 55%  
+Hándicap zaha: −1.5 65% · −2.5 52%  
+🔎 **Claves**  
+• Forma: URIST ❌❌✅❌❌ | zaha ➖✅✅✅✅  
+• Partidos: URIST 165 | zaha 418  
+• Liga: LaLiga 2x6  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
