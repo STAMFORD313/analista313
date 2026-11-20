@@ -3512,5 +3512,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261120170833591485",
+  "creada": "2026-11-20 17:08:33.591527+00:00",
+  "titulo": "Barrido · Combinada cuota 5.2",
+  "legs": [
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-21 00:30:00+00:00",
+    "home": "Cleveland Cavaliers",
+    "away": "Indiana Pacers",
+    "txt": "Gana Cleveland Cavaliers",
+    "odds": 1.435,
+    "p": 0.7123599999999999
+   },
+   {
+    "code": null,
+    "start": "2026-11-21 02:00:00+00:00",
+    "home": "Escorpiones Belen",
+    "away": "AD San Carlos",
+    "txt": "Gana AD San Carlos",
+    "odds": 1.82,
+    "p": 0.5674
+   },
+   {
+    "code": null,
+    "start": "2026-11-21 14:00:00+00:00",
+    "home": "BVV Barendrecht",
+    "away": "Kloetinge",
+    "txt": "Gana BVV Barendrecht",
+    "odds": 1.98,
+    "p": 0.5292
+   }
+  ],
+  "odds": 5.17,
+  "p": 0.21389896946879997,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
