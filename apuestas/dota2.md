@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 20/11/2026 15:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Liquid vs DO KONCA — 20/11 · 18:00
 

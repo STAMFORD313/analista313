@@ -75034,14 +75034,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2391367,262628,Germany,Argentina,,
 2390673,262628,Argentina,England,,
 2391368,262628,Germany,Spain,,
-2390276,262633,Juventus,Napoli,0,2
-2390277,262633,Sassuolo,Bologna,3,4
-2390278,262633,Bologna,Juventus,3,1
-2390279,262633,Napoli,Roma,1,3
-2390280,262633,Roma,Bologna,1,1
-2390281,262633,Juventus,Sassuolo,3,1
-2390282,262633,Sassuolo,Roma,2,2
-2390283,262633,Bologna,Napoli,0,1
+2390276,262633,Juventus,Napoli,0.0,2.0
+2390277,262633,Sassuolo,Bologna,3.0,4.0
+2390278,262633,Bologna,Juventus,3.0,1.0
+2390279,262633,Napoli,Roma,1.0,3.0
+2390280,262633,Roma,Bologna,1.0,1.0
+2390281,262633,Juventus,Sassuolo,3.0,1.0
+2390282,262633,Sassuolo,Roma,2.0,2.0
+2390283,262633,Bologna,Napoli,0.0,1.0
 2390284,262633,Napoli,Sassuolo,,
 2390285,262633,Roma,Juventus,,
 2390286,262633,Napoli,Juventus,,
@@ -75054,3 +75054,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2390293,262633,Napoli,Bologna,,
 2390294,262633,Sassuolo,Napoli,,
 2390295,262633,Juventus,Roma,,
+2390076,262586,Fenerbahce,Aston Villa,0,2
+2391296,262586,Salzburg,Roma,1,2
+2391297,262586,Roma,Fenerbahce,0,3
+2390079,262586,Aston Villa,Porto,2,1
+2391298,262586,Porto,Roma,0,0
+2390081,262586,Fenerbahce,Salzburg,1,3
+2390082,262586,Salzburg,Porto,1,1
+2391299,262586,Roma,Aston Villa,5,0
+2390084,262586,Aston Villa,Salzburg,3,3
+2390085,262586,Porto,Fenerbahce,3,2
+2390086,262586,Aston Villa,Fenerbahce,,
+2391300,262586,Roma,Salzburg,,
+2391301,262586,Fenerbahce,Roma,,
+2390089,262586,Porto,Aston Villa,,
+2391302,262586,Roma,Porto,,
+2390091,262586,Salzburg,Fenerbahce,,
+2390092,262586,Porto,Salzburg,,
+2391303,262586,Aston Villa,Roma,,
+2390094,262586,Salzburg,Aston Villa,,
+2390095,262586,Fenerbahce,Porto,,
+2390216,262594,Sporting CP,Arsenal,2,0
+2390217,262594,Man City,Juventus,1,0
+2390218,262594,Juventus,Sporting CP,1,3
+2390219,262594,Arsenal,B Dortmund,0,2
+2390220,262594,B Dortmund,Juventus,1,1
+2390221,262594,Sporting CP,Man City,1,2
+2390222,262594,Man City,B Dortmund,2,0
+2390223,262594,Juventus,Arsenal,1,1
+2390224,262594,Arsenal,Man City,,
+2390225,262594,B Dortmund,Sporting CP,,
+2390226,262594,Arsenal,Sporting CP,,
+2390227,262594,Juventus,Man City,,
+2390228,262594,Sporting CP,Juventus,,
+2390229,262594,B Dortmund,Arsenal,,
+2390230,262594,Juventus,B Dortmund,,
+2390231,262594,Man City,Sporting CP,,
+2390232,262594,B Dortmund,Man City,,
+2390233,262594,Arsenal,Juventus,,
+2390234,262594,Man City,Arsenal,,
+2390235,262594,Sporting CP,B Dortmund,,

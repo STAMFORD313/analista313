@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 15:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FOKUS vs Aces — 20/11 · 16:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana FOKUS** @ **1.65** (Thunderpick) · prob 59% vs casas 56% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.050 partidos)  
-Mapa: FOKUS 59% · Serie BO3: FOKUS 62% - 38% Aces  
-Casas: FOKUS 56% · Aces 44%  
-🔎 **Claves**  
-• Elo: FOKUS 1854 (108 series) | Aces 1759 (20 series)  
-• Forma: FOKUS ✅✅✅✅❌ | Aces ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): FOKUS: podi 6.6, jocab 6.6 | Aces: topo- 6.6, karnez 6.4  
-• Mapas (último año): FOKUS: fuerte cache 81%, débil dust2 39% | Aces: fuerte dust2 87%, débil cache 57%  
-• Química de la plantilla: FOKUS: 106 mapas juntos de media | Aces: 214 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• FOKUS gana 2-1: 25% → cuota justa 4.05 · casa 24%  
-• Aces gana 2-1: 17% → cuota justa 5.78 · casa 21%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.596 casos: log-loss 0.6821→0.6558; sin cuotas de props, solo referencia)  
-FOKUS: jocab 37 (21-55) · Matheos 37 (21-54) · podi 36 (21-53) · Banjo 33 (19-48) · ztr 31 (17-46)  
-Aces: karnez 37 (21-55) · topo- 37 (21-54) · 4X1s 33 (19-49) · MRcreed 33 (19-49) · salazar 31 (17-45)  
+Actualizado 20/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DISFARÇADOS vs RED Canids Academy — 20/11 · 18:00
 
