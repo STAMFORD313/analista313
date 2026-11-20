@@ -34999,3 +34999,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193108,133492,sangal-vs-luminosity-cs-go-20-11-2026,2026-11-20T16:30:00.000+00:00,a,5,6132,Stake Ranked Episode 6,36,776,Sangal,Luminosity,3,de_cache,36,13.0,11.0
 193109,133492,sangal-vs-luminosity-cs-go-20-11-2026,2026-11-20T16:30:00.000+00:00,a,5,6132,Stake Ranked Episode 6,36,776,Sangal,Luminosity,2,de_mirage,776,13.0,7.0
 193110,133492,sangal-vs-luminosity-cs-go-20-11-2026,2026-11-20T16:30:00.000+00:00,a,5,6132,Stake Ranked Episode 6,36,776,Sangal,Luminosity,1,de_nuke,776,13.0,9.0
+192938,133409,genone-vs-l-g-20-11-2026,2026-11-20T18:45:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,1406,5933,GenOne,Leo,2,de_anubis,5933,13.0,8.0
+192939,133409,genone-vs-l-g-20-11-2026,2026-11-20T18:45:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,1406,5933,GenOne,Leo,1,de_nuke,5933,13.0,9.0
+193405,133869,wbt-vs-phantom-esports-20-11-2026,2026-11-20T19:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22734,19204,WBT,Phantom,2,de_anubis,19204,13.0,9.0
+193406,133869,wbt-vs-phantom-esports-20-11-2026,2026-11-20T19:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22734,19204,WBT,Phantom,1,de_ancient,19204,13.0,8.0
