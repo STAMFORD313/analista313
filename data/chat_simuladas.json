@@ -3466,5 +3466,51 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261120140749844203",
+  "creada": "2026-11-20 14:07:49.844244+00:00",
+  "titulo": "Barrido · Combinada cuota 10.3",
+  "legs": [
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-20 15:00:00+00:00",
+    "home": "Inner Circle x Insanity",
+    "away": "CyberHero",
+    "txt": "Gana CyberHero",
+    "odds": 1.59,
+    "p": 0.6671199999999999
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-20 18:00:00+00:00",
+    "home": "GenOne",
+    "away": "Leo",
+    "txt": "Gana GenOne",
+    "odds": 2.5,
+    "p": 0.4181666666666666
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-20 18:30:00+00:00",
+    "home": "99firepower 1utility",
+    "away": "BANGARANGA",
+    "txt": "Gana 99firepower 1utility",
+    "odds": 2.58,
+    "p": 0.42579793281653744
+   }
+  ],
+  "odds": 10.26,
+  "p": 0.11878371953398101,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
