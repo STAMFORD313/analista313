@@ -1,888 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Gana Annecy** @ **2.15** (Bwin) · prob 45% vs casas 45% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 8.5 córners** @ **1.54** (Unibet) · prob 60% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 62% vs casas 62% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Clermont** @ **1.68** (Unibet) · prob 52% vs casas 53% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Clermont** @ **1.48** (Unibet) · prob 63% vs casas 61% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 5.5 córners de Annecy** @ **2.00** (Unibet) · prob 47% vs casas 45% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Annecy vs Clermont — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Annecy** @ **1.63** (Unibet) · prob 53% vs casas 55% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.07)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Annecy ✅❌✅❌❌ | Clermont ❌➖❌➖✅  
-• H2H: 4 desde 2024: 3V-0E-1D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Annecy: sin bajas; Clermont: sin bajas  
-• Favorito de las casas: Annecy @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.9: total +9.5 50% · Annecy +5.5 50% · Clermont +4.5 35%  
-Tarjetas 1.8 - 1.9: total +4.5 33% · Annecy +2.5 28% · Clermont +2.5 31%  
-Faltas 15.9 - 12.4: total +29.5 40% · Annecy +14.5 61% · Clermont +15.5 20%  
-Tiros a puerta 4.7 - 2.9: total +8.5 36% · Annecy +4.5 50% · Clermont +3.5 33%  
-🧩 Crear apuesta: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont → prob. 27%, cuota justa 3.67  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 2.5 goles** @ **1.65** (Bet365) · prob 58% vs casas 58% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 62% vs casas 61% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 60% vs casas 60% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Guingamp** @ **1.64** (Unibet) · prob 57% vs casas 55% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Guingamp** @ **1.56** (Unibet) · prob 57% vs casas 58% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Rodez** @ **1.96** (Unibet) · prob 44% vs casas 46% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Guingamp vs Rodez — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Rodez** @ **1.66** (Unibet) · prob 56% vs casas 54% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.40)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Guingamp ❌❌✅✅❌ | Rodez ❌❌✅✅❌  
-• H2H: 14 desde 2019: 5V-7E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Guingamp: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Guingamp @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.3: total +9.5 50% · Guingamp +5.5 44% · Rodez +4.5 41%  
-Tarjetas 1.7 - 2.2: total +4.5 34% · Guingamp +2.5 24% · Rodez +2.5 37%  
-Faltas 10.5 - 16.3: total +29.5 31% · Guingamp +14.5 13% · Rodez +15.5 55%  
-Tiros a puerta 5.3 - 3.6: total +8.5 52% · Guingamp +4.5 58% · Rodez +3.5 48%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp → prob. 69%, cuota justa 1.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles → prob. 17%, cuota justa 5.98  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Rodez + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 33% · ventaja -13%  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 2.5 goles** @ **2.05** (Bet365) · prob 48% vs casas 48% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Metz** @ **1.55** (Unibet) · prob 59% vs casas 58% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Metz** @ **1.65** (Unibet) · prob 55% vs casas 54% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 8.5 córners** @ **1.55** (Unibet) · prob 59% vs casas 58% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 63% vs casas 62% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Boulogne** @ **1.71** (Unibet) · prob 53% vs casas 52% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Metz vs Boulogne — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Boulogne** @ **1.44** (Unibet) · prob 63% vs casas 62% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.27 - 0.81)  
-1 46% · X 29% · 2 24%  
-1X 76% · X2 54% · 12 71%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 13% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Metz ❌✅➖❌✅ | Boulogne ➖✅➖❌✅  
-• H2H: 6 desde 2008: 4V-1E-1D · 2.2 goles/partido · +2.5 en 33%  
-• Bajas: Metz: sin bajas; Boulogne: sin bajas  
-• Favorito de las casas: Metz @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.0: total +9.5 47% · Metz +5.5 45% · Boulogne +4.5 36%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Metz +2.5 31% · Boulogne +2.5 37%  
-Faltas 14.7 - 16.0: total +29.5 57% · Metz +14.5 50% · Boulogne +15.5 53%  
-Tiros a puerta 4.6 - 3.9: total +8.5 48% · Metz +4.5 48% · Boulogne +3.5 54%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas → prob. 16%, cuota justa 6.44  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Boulogne): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 41% · ventaja +6% → 1 u en la banca de simulación  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Dijon +0.5 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 47% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Dijon** @ **1.77** (Unibet) · prob 48% vs casas 51% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 3.5 córners de Dijon** @ **1.82** (Unibet) · prob 52% vs casas 49% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 7.5 córners** @ **1.46** (Unibet) · prob 63% vs casas 62% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 9.5 córners** @ **1.50** (Unibet) · prob 60% vs casas 60% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 5.5 córners de Nancy** @ **2.33** (Unibet) · prob 41% vs casas 38% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Nancy vs Dijon — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Nancy** @ **1.46** (Unibet) · prob 59% vs casas 62% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.50)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Nancy ✅✅✅✅✅ | Dijon ✅❌❌✅✅  
-• H2H: 12 desde 2011: 5V-2E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Nancy: sin bajas; Dijon: sin bajas  
-• Favorito de las casas: Nancy @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.5: total +9.5 40% · Nancy +5.5 43% · Dijon +4.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Nancy +2.5 24% · Dijon +2.5 41%  
-Faltas 13.9 - 18.5: total +29.5 66% · Nancy +14.5 42% · Dijon +15.5 73%  
-Tiros a puerta 4.7 - 3.8: total +8.5 47% · Nancy +4.5 49% · Dijon +3.5 51%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 2.5 goles** @ **2.08** (Bet365) · prob 48% vs casas 48% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 8.5 córners** @ **1.60** (Unibet) · prob 57% vs casas 56% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 10.5 córners** @ **1.40** (Unibet) · prob 65% vs casas 64% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 5.5 córners de Red Star** @ **1.94** (Unibet) · prob 48% vs casas 46% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Red Star** @ **1.67** (Unibet) · prob 52% vs casas 54% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Pau FC** @ **1.84** (Unibet) · prob 47% vs casas 49% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
-
-## Red Star vs Pau FC — 20/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 3.5 córners de Pau FC** @ **1.75** (Unibet) · prob 53% vs casas 51% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.55)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Red Star ✅❌❌❌❌ | Pau FC ✅✅✅✅❌  
-• H2H: 4 desde 2024: 1V-0E-3D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: Red Star: sin bajas; Pau FC: sin bajas  
-• Favorito de las casas: Red Star @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.5: total +9.5 45% · Red Star +5.5 50% · Pau FC +4.5 29%  
-Tarjetas 1.9 - 2.1: total +4.5 38% · Red Star +2.5 29% · Pau FC +2.5 36%  
-Faltas 14.6 - 13.7: total +29.5 40% · Red Star +14.5 48% · Pau FC +15.5 31%  
-Tiros a puerta 4.9 - 3.7: total +8.5 48% · Red Star +4.5 52% · Pau FC +3.5 50%  
-🧩 Crear apuesta: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC → prob. 35%, cuota justa 2.82 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles → prob. 21%, cuota justa 4.82  
+Actualizado 20/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pogon Szczecin vs Slask Wroclaw — 20/11 · 20:30
 
@@ -12362,6 +11480,156 @@ Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.27)  
+1 41% · X 29% · 2 31%  
+1X 69% · X2 59% · 12 71%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Reims ➖✅➖✅❌ | St Etienne ✅✅✅❌✅  
+• H2H: 20 desde 2012: 5V-6E-9D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Reims: sin bajas; St Etienne: sin bajas  
+• Favorito de las casas: St Etienne @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.6: total +9.5 38% · Reims +5.5 26% · St Etienne +4.5 46%  
+Tarjetas 2.0 - 2.0: total +4.5 37% · Reims +2.5 31% · St Etienne +2.5 34%  
+Faltas 12.2 - 13.5: total +29.5 24% · Reims +14.5 26% · St Etienne +15.5 29%  
+Tiros a puerta 4.4 - 4.6: total +8.5 53% · Reims +4.5 45% · St Etienne +3.5 65%  
+🧩 Crear apuesta: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims → prob. 40%, cuota justa 2.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims + Más de 3.5 tiros a puerta de St Etienne + Más de 2.5 goles → prob. 17%, cuota justa 5.76  
+
+## Reims vs St Etienne — 21/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de St Etienne** @ **1.66** (Unibet) · prob 50% vs casas 54% · ventaja -17%
+
+- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.27)  
+1 41% · X 29% · 2 31%  
+1X 69% · X2 59% · 12 71%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Reims ➖✅➖✅❌ | St Etienne ✅✅✅❌✅  
+• H2H: 20 desde 2012: 5V-6E-9D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Reims: sin bajas; St Etienne: sin bajas  
+• Favorito de las casas: St Etienne @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.6: total +9.5 38% · Reims +5.5 26% · St Etienne +4.5 46%  
+Tarjetas 2.0 - 2.0: total +4.5 37% · Reims +2.5 31% · St Etienne +2.5 34%  
+Faltas 12.2 - 13.5: total +29.5 24% · Reims +14.5 26% · St Etienne +15.5 29%  
+Tiros a puerta 4.4 - 4.6: total +8.5 53% · Reims +4.5 45% · St Etienne +3.5 65%  
+🧩 Crear apuesta: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims → prob. 40%, cuota justa 2.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims + Más de 3.5 tiros a puerta de St Etienne + Más de 2.5 goles → prob. 17%, cuota justa 5.76  
+
+## Reims vs St Etienne — 21/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de St Etienne** @ **1.95** (Unibet) · prob 50% vs casas 46% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.27)  
+1 41% · X 29% · 2 31%  
+1X 69% · X2 59% · 12 71%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Reims ➖✅➖✅❌ | St Etienne ✅✅✅❌✅  
+• H2H: 20 desde 2012: 5V-6E-9D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Reims: sin bajas; St Etienne: sin bajas  
+• Favorito de las casas: St Etienne @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.6: total +9.5 38% · Reims +5.5 26% · St Etienne +4.5 46%  
+Tarjetas 2.0 - 2.0: total +4.5 37% · Reims +2.5 31% · St Etienne +2.5 34%  
+Faltas 12.2 - 13.5: total +29.5 24% · Reims +14.5 26% · St Etienne +15.5 29%  
+Tiros a puerta 4.4 - 4.6: total +8.5 53% · Reims +4.5 45% · St Etienne +3.5 65%  
+🧩 Crear apuesta: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims → prob. 40%, cuota justa 2.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims + Más de 3.5 tiros a puerta de St Etienne + Más de 2.5 goles → prob. 17%, cuota justa 5.76  
+
+## Reims vs St Etienne — 21/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Reims** @ **1.98** (Unibet) · prob 43% vs casas 45% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.27)  
+1 41% · X 29% · 2 31%  
+1X 69% · X2 59% · 12 71%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Reims ➖✅➖✅❌ | St Etienne ✅✅✅❌✅  
+• H2H: 20 desde 2012: 5V-6E-9D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Reims: sin bajas; St Etienne: sin bajas  
+• Favorito de las casas: St Etienne @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.6: total +9.5 38% · Reims +5.5 26% · St Etienne +4.5 46%  
+Tarjetas 2.0 - 2.0: total +4.5 37% · Reims +2.5 31% · St Etienne +2.5 34%  
+Faltas 12.2 - 13.5: total +29.5 24% · Reims +14.5 26% · St Etienne +15.5 29%  
+Tiros a puerta 4.4 - 4.6: total +8.5 53% · Reims +4.5 45% · St Etienne +3.5 65%  
+🧩 Crear apuesta: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims → prob. 40%, cuota justa 2.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims + Más de 3.5 tiros a puerta de St Etienne + Más de 2.5 goles → prob. 17%, cuota justa 5.76  
+
+## Reims vs St Etienne — 21/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Reims** @ **1.64** (Unibet) · prob 57% vs casas 55% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.27)  
+1 41% · X 29% · 2 31%  
+1X 69% · X2 59% · 12 71%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Reims ➖✅➖✅❌ | St Etienne ✅✅✅❌✅  
+• H2H: 20 desde 2012: 5V-6E-9D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Reims: sin bajas; St Etienne: sin bajas  
+• Favorito de las casas: St Etienne @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.6: total +9.5 38% · Reims +5.5 26% · St Etienne +4.5 46%  
+Tarjetas 2.0 - 2.0: total +4.5 37% · Reims +2.5 31% · St Etienne +2.5 34%  
+Faltas 12.2 - 13.5: total +29.5 24% · Reims +14.5 26% · St Etienne +15.5 29%  
+Tiros a puerta 4.4 - 4.6: total +8.5 53% · Reims +4.5 45% · St Etienne +3.5 65%  
+🧩 Crear apuesta: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims → prob. 40%, cuota justa 2.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims + Más de 3.5 tiros a puerta de St Etienne + Más de 2.5 goles → prob. 17%, cuota justa 5.76  
+
+## Reims vs St Etienne — 21/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 8.5 córners** @ **1.52** (Unibet) · prob 55% vs casas 59% · ventaja -17%
+
+- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.27)  
+1 41% · X 29% · 2 31%  
+1X 69% · X2 59% · 12 71%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Reims ➖✅➖✅❌ | St Etienne ✅✅✅❌✅  
+• H2H: 20 desde 2012: 5V-6E-9D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Reims: sin bajas; St Etienne: sin bajas  
+• Favorito de las casas: St Etienne @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.6: total +9.5 38% · Reims +5.5 26% · St Etienne +4.5 46%  
+Tarjetas 2.0 - 2.0: total +4.5 37% · Reims +2.5 31% · St Etienne +2.5 34%  
+Faltas 12.2 - 13.5: total +29.5 24% · Reims +14.5 26% · St Etienne +15.5 29%  
+Tiros a puerta 4.4 - 4.6: total +8.5 53% · Reims +4.5 45% · St Etienne +3.5 65%  
+🧩 Crear apuesta: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims → prob. 40%, cuota justa 2.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 29.5 faltas + Menos de 5.5 córners de Reims + Menos de 2.5 tarjetas de Reims + Más de 3.5 tiros a puerta de St Etienne + Más de 2.5 goles → prob. 17%, cuota justa 5.76  
+
+## Reims vs St Etienne — 21/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 8.5 córners** @ **2.18** (Unibet) · prob 45% vs casas 41% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.66 - 1.27)  
 1 41% · X 29% · 2 31%  
