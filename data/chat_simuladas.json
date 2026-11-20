@@ -3418,5 +3418,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261120045631028183",
+  "creada": "2026-11-20 04:56:31.028229+00:00",
+  "titulo": "Barrido · Combinada cuota 5.8",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-20 10:00:00+00:00",
+    "home": "Kashiwa Reysol",
+    "away": "JEF United Chiba",
+    "txt": "Gana Kashiwa Reysol",
+    "odds": 1.56,
+    "p": 0.6605
+   },
+   {
+    "code": null,
+    "start": "2026-11-20 19:30:00+00:00",
+    "home": "Racing Club de Montevideo",
+    "away": "Central Espanol",
+    "txt": "Gana Racing Club de Montevideo",
+    "odds": 2.1,
+    "p": 0.4961
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-21 16:00:00+00:00",
+    "home": "LPH",
+    "away": "Phantom Academy",
+    "txt": "Gana Phantom Academy",
+    "odds": 1.77,
+    "p": 0.5872478342749529
+   }
+  ],
+  "odds": 5.8,
+  "p": 0.19242587621060261,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
