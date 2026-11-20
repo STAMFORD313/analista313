@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 20/11/2026 11:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 11:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Spirit vs Team Nemesis — 20/11 · 12:00
 
