@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 20/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 03:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UCF Knights vs Iowa State Cyclones — 21/11 · 00:00
 
