@@ -1035,7 +1035,7 @@ id,date,event,home,away,hs,as,res
 401921064,2026-11-19T03:00Z,Louisiana Ragin' Cajuns at San Francisco Dons,San Francisco Dons,Louisiana Ragin' Cajuns,77,56,1.0
 401911456,2026-11-19T03:00Z,Idaho Vandals at Nevada Wolf Pack,Nevada Wolf Pack,Idaho Vandals,91,74,1.0
 401920516,2026-11-19T03:30Z,UNLV Rebels at Auburn Tigers,Auburn Tigers,UNLV Rebels,86,71,1.0
-401918056,2026-11-20T03:00Z,East Texas A&M Lions at California Golden Bears,California Golden Bears,East Texas A&M Lions,86,54,1.0
+401928388,2026-11-20T02:00Z,Southern Miss Golden Eagles at Grambling Tigers,Grambling Tigers,Southern Miss Golden Eagles,100,103,0.0
 401920517,2026-11-19T19:30Z,Florida Gators at West Virginia Mountaineers,West Virginia Mountaineers,Florida Gators,72,85,0.0
 401906867,2026-11-20T01:00Z,Southern Utah Thunderbirds at Texas Longhorns,Texas Longhorns,Southern Utah Thunderbirds,92,68,1.0
 401918950,2026-11-20T01:00Z,Stetson Hatters at Louisville Cardinals,Louisville Cardinals,Stetson Hatters,83,69,1.0
@@ -1066,3 +1066,5 @@ id,date,event,home,away,hs,as,res
 401925941,2026-11-20T02:00Z,Utah Tech Trailblazers at Washington Huskies,Washington Huskies,Utah Tech Trailblazers,82,69,1.0
 401911534,2026-11-20T02:00Z,UTEP Miners at New Mexico State Aggies,New Mexico State Aggies,UTEP Miners,69,84,0.0
 401925916,2026-11-20T03:00Z,Northwest Indian RedHawks at Portland State Vikings,Portland State Vikings,Northwest Indian RedHawks,132,41,1.0
+401920349,2026-11-20T03:00Z,Sacramento State Hornets at Stanford Cardinal,Stanford Cardinal,Sacramento State Hornets,78,65,1.0
+401918056,2026-11-20T03:00Z,East Texas A&M Lions at California Golden Bears,California Golden Bears,East Texas A&M Lions,86,54,1.0

@@ -1,82 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 06:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## R0ge vs hotShot — 20/11 · 06:14
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana R0ge** @ **4.20** (Unibet) · prob 30% vs casas 21% · ventaja +25%
-
-- ✅ Valor: ventaja +25% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.455 partidos)  
-Goles esperados: R0ge 1.76 · hotShot 2.04  
-Ganador: R0ge 30% · empate 27% · hotShot 43%  
-Total: más de 3.5 goles 53% · menos 47%  
-Hándicap hotShot: −1.5 25% · −2.5 12%  
-🔎 **Claves**  
-• Forma: R0ge ➖❌✅✅➖ | hotShot ✅➖➖❌➖  
-• Partidos: R0ge 730 | hotShot 703  
-• Liga: Serie A  
-• Unibet: 1 4.20 · X 3.05 · 2 1.73 (sin margen 21%/29%/51%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.20 (+25%) · Paf España 4.20 (+25%)  
-
-## OG vs RossFCDK — 20/11 · 06:14
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RossFCDK** @ **3.15** (Unibet) · prob 39% vs casas 28% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.455 partidos)  
-Goles esperados: OG 2.43 · RossFCDK 2.43  
-Ganador: OG 38% · empate 24% · RossFCDK 39%  
-Total: más de 4.5 goles 54% · menos 46%  
-Hándicap OG: −1.5 24% · −2.5 12%  
-🔎 **Claves**  
-• Forma: OG ❌✅✅➖➖ | RossFCDK ➖➖➖❌➖  
-• Partidos: OG 707 | RossFCDK 670  
-• Liga: Serie A  
-• Unibet: 1 2.17 · X 2.70 · 2 3.15 (sin margen 40%/32%/28%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.15 (+22%) · Paf España 3.15 (+22%)  
-
-## hotShot vs OG — 20/11 · 06:26
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana hotShot** @ **3.00** (Unibet) · prob 50% vs casas 29% · ventaja +49%
-
-- ❌ Valor: ventaja +49% (mín. 21% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.476 partidos)  
-Goles esperados: hotShot 2.44 · OG 2.07  
-Ganador: hotShot 50% · empate 22% · OG 28%  
-Total: más de 4.5 goles 47% · menos 53%  
-Hándicap hotShot: −1.5 29% · −2.5 15%  
-🔎 **Claves**  
-• Forma: hotShot ➖➖❌➖➖ | OG ✅➖➖➖➖  
-• Partidos: hotShot 704 | OG 709  
-• Liga: Serie A  
-• Unibet: 1 3.00 · X 2.38 · 2 2.48 (sin margen 29%/36%/35%) · ventaja +49%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+49%) · Paf España 3.00 (+49%)  
-
-## RossFCDK vs hotShot — 20/11 · 06:38
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana hotShot** @ **2.38** (Unibet) · prob 48% vs casas 36% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.476 partidos)  
-Goles esperados: RossFCDK 1.88 · hotShot 2.21  
-Ganador: RossFCDK 29% · empate 24% · hotShot 48%  
-Total: más de 4.5 goles 39% · menos 61%  
-Hándicap hotShot: −1.5 27% · −2.5 14%  
-🔎 **Claves**  
-• Forma: RossFCDK ➖❌➖➖✅ | hotShot ➖➖❌➖➖  
-• Partidos: RossFCDK 672 | hotShot 704  
-• Liga: Serie A  
-• Unibet: 1 3.25 · X 2.33 · 2 2.38 (sin margen 27%/37%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+14%) · Paf España 2.38 (+14%)  
+Actualizado 20/11/2026 06:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LaikingDast vs Bomb1to — 20/11 · 06:45
 
@@ -96,4 +20,61 @@ Hándicap Bomb1to: −1.5 31% · −2.5 18%
 • Liga: World Cup A  
 • Unibet: 1 2.23 · X 3.30 · 2 2.50 (sin margen 39%/26%/35%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.50 (+17%) · Paf España 2.50 (+17%)  
+
+## Bomb1to vs mko1919 — 20/11 · 06:57
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **4.75** (Unibet) · prob 25% vs casas 18% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.495 partidos)  
+Goles esperados: Bomb1to 3.46 · mko1919 2.61  
+Ganador: Bomb1to 57% · empate 19% · mko1919 25%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Bomb1to: −1.5 39% · −2.5 24%  
+🔎 **Claves**  
+• Forma: Bomb1to ❌❌✅❌➖ | mko1919 ✅✅➖❌❌  
+• Partidos: Bomb1to 1415 | mko1919 1345  
+• Liga: World Cup A  
+• Unibet: 1 1.41 · X 4.20 · 2 4.75 (sin margen 61%/21%/18%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.75 (+17%) · Paf España 4.75 (+17%)  
+
+## mko1919 vs LaikingDast — 20/11 · 07:09
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **4.70** (Unibet) · prob 30% vs casas 19% · ventaja +42%
+
+- ❌ Valor: ventaja +42% (mín. 19% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.495 partidos)  
+Goles esperados: mko1919 2.61 · LaikingDast 3.04  
+Ganador: mko1919 30% · empate 21% · LaikingDast 49%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap LaikingDast: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: mko1919 ✅✅➖❌❌ | LaikingDast ➖❌✅➖❌  
+• Partidos: mko1919 1345 | LaikingDast 513  
+• Liga: World Cup A  
+• Unibet: 1 4.70 · X 3.05 · 2 1.67 (sin margen 19%/29%/53%) · ventaja +42%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.70 (+42%) · Paf España 4.70 (+42%)  
+
+## Wboy vs Bomb1to — 20/11 · 07:09
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **4.00** (Unibet) · prob 31% vs casas 22% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.495 partidos)  
+Goles esperados: Wboy 3.14 · Bomb1to 3.65  
+Ganador: Wboy 31% · empate 19% · Bomb1to 51%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Bomb1to: −1.5 35% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Wboy ❌➖❌➖✅ | Bomb1to ❌❌✅❌➖  
+• Partidos: Wboy 1255 | Bomb1to 1415  
+• Liga: World Cup A  
+• Unibet: 1 4.00 · X 4.90 · 2 1.43 (sin margen 22%/18%/61%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.00 (+24%) · Paf España 4.00 (+24%)  
 
