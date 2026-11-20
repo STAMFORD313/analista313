@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 10:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 10:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kashima Antlers vs Shimizu S-Pulse — 20/11 · 11:00
 

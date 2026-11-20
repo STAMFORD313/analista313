@@ -1,25 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 10:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 10:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## flamez vs Frantsuz — 20/11 · 10:14
+## LaikingDast vs KraftVK — 20/11 · 10:43
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **2.02** (Unibet) · prob 52% vs casas 43% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana LaikingDast** @ **3.35** (Unibet) · prob 35% vs casas 26% · ventaja +16%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 74.675 partidos)  
-Goles esperados: flamez 4.89 · Frantsuz 4.28  
-Ganador: flamez 52% · empate 15% · Frantsuz 33%  
-Total: más de 9.5 goles 43% · menos 57%  
-Hándicap flamez: −1.5 38% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 74.705 partidos)  
+Goles esperados: LaikingDast 2.74 · KraftVK 3.07  
+Ganador: LaikingDast 35% · empate 21% · KraftVK 44%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap KraftVK: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: flamez ✅❌✅✅✅ | Frantsuz ❌❌✅➖❌  
-• Partidos: flamez 883 | Frantsuz 748  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.02 · X 4.90 · 2 2.25 (sin margen 43%/18%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+6%) · Paf España 2.02 (+6%)  
+• Forma: LaikingDast ➖✅➖❌➖ | KraftVK ❌❌➖✅❌  
+• Partidos: LaikingDast 527 | KraftVK 986  
+• Liga: Serie A  
+• Unibet: 1 3.35 · X 3.20 · 2 1.86 (sin margen 26%/27%/47%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.35 (+16%) · Paf España 3.35 (+16%)  
+
+## mko1919 vs Wboy — 20/11 · 10:43
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **3.65** (Unibet) · prob 30% vs casas 24% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.705 partidos)  
+Goles esperados: mko1919 3.00 · Wboy 3.53  
+Ganador: mko1919 30% · empate 19% · Wboy 50%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Wboy: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: mko1919 ➖❌❌➖➖ | Wboy ❌❌✅✅➖  
+• Partidos: mko1919 1360 | Wboy 1269  
+• Liga: Serie A  
+• Unibet: 1 3.65 · X 4.60 · 2 1.55 (sin margen 24%/19%/57%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.65 (+10%) · Paf España 3.65 (+10%)  
 
 ## spirtes vs Loka — 20/11 · 10:48
 

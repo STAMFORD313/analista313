@@ -74756,16 +74756,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2389907,262629,Bayern Munchen,Atleti,,
 2389908,262629,Paris,Bayern Munchen,,
 2389909,262629,Real Madrid,Liverpool,,
-2389026,262572,Morocco,Czechia,2,3
-2389027,262572,Germany,Norway,3,0
-2389028,262572,Norway,Morocco,0,2
-2389029,262572,Czechia,Netherlands,4,4
-2389030,262572,Netherlands,Norway,4,1
-2389031,262572,Morocco,Germany,0,2
-2389032,262572,Germany,Netherlands,3,2
-2389033,262572,Norway,Czechia,1,0
-2389034,262572,Czechia,Germany,0,0
-2389035,262572,Netherlands,Morocco,1,5
+2389026,262572,Morocco,Czechia,2.0,3.0
+2389027,262572,Germany,Norway,3.0,0.0
+2389028,262572,Norway,Morocco,0.0,2.0
+2389029,262572,Czechia,Netherlands,4.0,4.0
+2389030,262572,Netherlands,Norway,4.0,1.0
+2389031,262572,Morocco,Germany,0.0,2.0
+2389032,262572,Germany,Netherlands,3.0,2.0
+2389033,262572,Norway,Czechia,1.0,0.0
+2389034,262572,Czechia,Germany,0.0,0.0
+2389035,262572,Netherlands,Morocco,1.0,5.0
 2389036,262572,Czechia,Morocco,,
 2389037,262572,Norway,Germany,,
 2389038,262572,Morocco,Norway,,
