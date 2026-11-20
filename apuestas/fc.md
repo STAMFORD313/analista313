@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 20/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Jokadinho vs vivienne — 20/11 · 02:12
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.291 partidos)  
-Goles esperados: Jokadinho 3.14 · vivienne 3.03  
-Ganador: Jokadinho 44% · empate 20% · vivienne 35%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Jokadinho: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Jokadinho ✅✅✅❌❌ | vivienne ❌➖✅✅✅  
-• Partidos: Jokadinho 987 | vivienne 932  
-• Liga: World Cup B  
-• Unibet: 1 2.25 · X 5.80 · 2 1.92 (sin margen 39%/15%/46%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+18%) · Paf España 5.80 (+18%)  
-
-## Kavviro vs believer — 20/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **3.10** (Unibet) · prob 35% vs casas 28% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 74.291 partidos)  
-Goles esperados: Kavviro 2.13 · believer 2.24  
-Ganador: Kavviro 35% · empate 25% · believer 40%  
-Total: más de 4.5 goles 44% · menos 56%  
-Hándicap believer: −1.5 24% · −2.5 12%  
-🔎 **Claves**  
-• Forma: Kavviro ✅✅➖❌➖ | believer ➖✅✅✅✅  
-• Partidos: Kavviro 1032 | believer 1291  
-• Liga: Champions League B  
-• Unibet: 1 3.10 · X 3.95 · 2 1.76 (sin margen 28%/22%/50%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.10 (+8%) · Paf España 3.10 (+8%)  
+Actualizado 20/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Yerema vs Groma — 20/11 · 02:40
 
@@ -57,6 +19,44 @@ Hándicap Groma: −1.5 45% · −2.5 29%
 • Partidos: Yerema 733 | Groma 1590  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## OG vs R0ge — 20/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana OG** @ **2.80** (Unibet) · prob 38% vs casas 31% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.330 partidos)  
+Goles esperados: OG 2.18 · R0ge 2.24  
+Ganador: OG 38% · empate 23% · R0ge 39%  
+Total: más de 4.5 goles 45% · menos 55%  
+Hándicap R0ge: −1.5 24% · −2.5 12%  
+🔎 **Claves**  
+• Forma: OG ➖❌✅✅✅ | R0ge ✅✅❌❌✅  
+• Partidos: OG 696 | R0ge 718  
+• Liga: Champions League A  
+• Unibet: 1 2.80 · X 3.60 · 2 1.93 (sin margen 31%/24%/45%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+6%) · Paf España 2.80 (+6%)  
+
+## zaha vs rostyk — 20/11 · 02:50
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Empate** @ **9.50** (Unibet) · prob 12% vs casas 9% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 74.330 partidos)  
+Goles esperados: zaha 5.90 · rostyk 4.20  
+Ganador: zaha 67% · empate 12% · rostyk 22%  
+Total: más de 10.5 goles 43% · menos 57%  
+Hándicap zaha: −1.5 52% · −2.5 39%  
+🔎 **Claves**  
+• Forma: zaha ✅✅✅✅➖ | rostyk ❌❌✅❌❌  
+• Partidos: zaha 419 | rostyk 397  
+• Liga: LaLiga 2x6  
+• Unibet: 1 1.29 · X 9.50 · 2 3.70 (sin margen 67%/9%/23%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 9.50 (+13%) · Paf España 9.50 (+13%)  
 
 ## reddevil vs believer — 20/11 · 02:51
 
