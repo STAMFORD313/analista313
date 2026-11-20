@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 13:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 14:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
 
@@ -3484,6 +3484,7 @@ Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%
 Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
 🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
 
 ## Sabadell vs Granada — 21/11 · 14:00
 
@@ -3509,6 +3510,7 @@ Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%
 Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
 🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
 
 ## Amedspor vs Rizespor — 21/11 · 14:00
 
@@ -3541,6 +3543,618 @@ Tiros a puerta 5.9 - 3.4: total +9.5 45% · Amedspor +5.5 53% · Rizespor +4.5 2
 
 - ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.39 - 0.94)  
+1 81% · X 13% · 2 5%  
+1X 95% · X2 19% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
+• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
+• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
+• Favorito de las casas: Galatasaray @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
+Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
+Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+
+## Laval vs Montpellier — 21/11 · 14:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Laval** @ **2.02** (Unibet) · prob 50% vs casas 44% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.31)  
+1 24% · X 29% · 2 48%  
+1X 52% · X2 76% · 12 71%  
++1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
+Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Laval: sin bajas; Montpellier: sin bajas  
+• Favorito de las casas: Montpellier @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
+Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
+Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
+
+## Laval vs Montpellier — 21/11 · 14:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Laval** @ **1.61** (Unibet) · prob 50% vs casas 56% · ventaja -19%
+
+- ❌ Valor: ventaja -19% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.31)  
+1 24% · X 29% · 2 48%  
+1X 52% · X2 76% · 12 71%  
++1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
+Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Laval: sin bajas; Montpellier: sin bajas  
+• Favorito de las casas: Montpellier @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
+Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
+Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
+
+## Laval vs Montpellier — 21/11 · 14:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 5.5 córners de Montpellier** @ **1.94** (Unibet) · prob 41% vs casas 46% · ventaja -20%
+
+- ❌ Valor: ventaja -20% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.31)  
+1 24% · X 29% · 2 48%  
+1X 52% · X2 76% · 12 71%  
++1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
+Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Laval: sin bajas; Montpellier: sin bajas  
+• Favorito de las casas: Montpellier @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
+Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
+Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
+
+## Laval vs Montpellier — 21/11 · 14:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Montpellier** @ **1.67** (Unibet) · prob 59% vs casas 54% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.31)  
+1 24% · X 29% · 2 48%  
+1X 52% · X2 76% · 12 71%  
++1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
+Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Laval: sin bajas; Montpellier: sin bajas  
+• Favorito de las casas: Montpellier @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
+Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
+Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
+
+## Laval vs Montpellier — 21/11 · 14:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 9.5 córners** @ **1.73** (Unibet) · prob 53% vs casas 52% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.31)  
+1 24% · X 29% · 2 48%  
+1X 52% · X2 76% · 12 71%  
++1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
+Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Laval: sin bajas; Montpellier: sin bajas  
+• Favorito de las casas: Montpellier @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
+Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
+Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
+
+## Laval vs Montpellier — 21/11 · 14:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.35** (Unibet) · prob 68% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.31)  
+1 24% · X 29% · 2 48%  
+1X 52% · X2 76% · 12 71%  
++1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
+Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
+🔎 **Claves**  
+• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Laval: sin bajas; Montpellier: sin bajas  
+• Favorito de las casas: Montpellier @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
+Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
+Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
+
+## Alaves vs La Coruna — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 7.5 córners** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.19 - 1.09)  
+1 40% · X 30% · 2 30%  
+1X 70% · X2 60% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
+• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
+• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Alaves @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
+Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
+Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
+Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
+
+## Alaves vs La Coruna — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.19 - 1.09)  
+1 40% · X 30% · 2 30%  
+1X 70% · X2 60% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
+• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
+• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Alaves @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
+Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
+Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
+Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
+
+## Alaves vs La Coruna — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Alaves** @ **1.23** (Unibet) · prob 76% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.19 - 1.09)  
+1 40% · X 30% · 2 30%  
+1X 70% · X2 60% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
+• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
+• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Alaves @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
+Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
+Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
+Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
+
+## Alaves vs La Coruna — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Alaves** @ **1.27** (Unibet) · prob 73% vs casas 72% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.19 - 1.09)  
+1 40% · X 30% · 2 30%  
+1X 70% · X2 60% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
+• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
+• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Alaves @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
+Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
+Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
+Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
+
+## Alaves vs La Coruna — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de La Coruna** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.19 - 1.09)  
+1 40% · X 30% · 2 30%  
+1X 70% · X2 60% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
+• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
+• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Alaves @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
+Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
+Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
+Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
+
+## Alaves vs La Coruna — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de La Coruna** @ **1.32** (Unibet) · prob 70% vs casas 70% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.19 - 1.09)  
+1 40% · X 30% · 2 30%  
+1X 70% · X2 60% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
+• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
+• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Alaves @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
+Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
+Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
+Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
+
+## Sabadell vs Granada — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Sabadell** @ **2.40** (Unibet) · prob 40% vs casas 38% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.33 - 0.97)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
+• Favorito de las casas: Sabadell @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
+Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
+Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
+Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
+🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
+
+## Sabadell vs Granada — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Sabadell** @ **1.24** (Unibet) · prob 71% vs casas 73% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.33 - 0.97)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
+• Favorito de las casas: Sabadell @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
+Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
+Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
+Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
+🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
+
+## Sabadell vs Granada — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.85** (Unibet) · prob 52% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.33 - 0.97)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
+• Favorito de las casas: Sabadell @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
+Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
+Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
+Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
+🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
+
+## Sabadell vs Granada — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.33 - 0.97)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
+• Favorito de las casas: Sabadell @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
+Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
+Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
+Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
+🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
+
+## Sabadell vs Granada — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Granada** @ **1.37** (Unibet) · prob 67% vs casas 66% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.33 - 0.97)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
+• Favorito de las casas: Sabadell @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
+Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
+Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
+Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
+🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
+
+## Sabadell vs Granada — 21/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Granada** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.33 - 0.97)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
+• Favorito de las casas: Sabadell @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
+Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
+Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
+Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
+🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
+
+## Galatasaray vs Samsunspor — 21/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 córners de Samsunspor** @ **1.75** (Unibet) · prob 54% vs casas 52% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.39 - 0.94)  
+1 81% · X 13% · 2 5%  
+1X 95% · X2 19% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
+• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
+• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
+• Favorito de las casas: Galatasaray @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
+Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
+Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+
+## Galatasaray vs Samsunspor — 21/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Samsunspor** @ **1.42** (Unibet) · prob 64% vs casas 65% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.39 - 0.94)  
+1 81% · X 13% · 2 5%  
+1X 95% · X2 19% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
+• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
+• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
+• Favorito de las casas: Galatasaray @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
+Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
+Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+
+## Galatasaray vs Samsunspor — 21/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 8.5 córners** @ **1.30** (Unibet) · prob 72% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.39 - 0.94)  
+1 81% · X 13% · 2 5%  
+1X 95% · X2 19% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
+• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
+• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
+• Favorito de las casas: Galatasaray @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
+Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
+Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+
+## Galatasaray vs Samsunspor — 21/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.58** (Unibet) · prob 58% vs casas 58% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.39 - 0.94)  
+1 81% · X 13% · 2 5%  
+1X 95% · X2 19% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
+• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
+• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
+• Favorito de las casas: Galatasaray @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
+Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
+Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+
+## Galatasaray vs Samsunspor — 21/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Galatasaray** @ **1.29** (Unibet) · prob 71% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.39 - 0.94)  
+1 81% · X 13% · 2 5%  
+1X 95% · X2 19% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
+• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
+• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
+• Favorito de las casas: Galatasaray @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
+Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
+Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+
+## Galatasaray vs Samsunspor — 21/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 8.5 córners de Galatasaray** @ **1.55** (Unibet) · prob 60% vs casas 59% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 2.39 - 0.94)  
 1 81% · X 13% · 2 5%  
