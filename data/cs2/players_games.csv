@@ -34981,3 +34981,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192930,133406,nice-try-cs2-vs-baks-esports-20-11-2026,2026-11-20T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25265,2924,NT,BAKS,1,de_mirage,2924,13.0,2.0
 193396,133866,team-nemesis-cs-vs-tpudcatb-tpu-20-11-2026,2026-11-20T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,21388,22191,Nemesis,33,2,de_ancient,22191,13.0,5.0
 193397,133866,team-nemesis-cs-vs-tpudcatb-tpu-20-11-2026,2026-11-20T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,21388,22191,Nemesis,33,1,de_nuke,22191,13.0,3.0
+192932,133407,lazer-cats-vs-hype-tech-20-11-2026,2026-11-20T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5391,25790,Lazer Cats,Hype Tech,2,de_inferno,25790,13.0,7.0
+192933,133407,lazer-cats-vs-hype-tech-20-11-2026,2026-11-20T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5391,25790,Lazer Cats,Hype Tech,1,de_dust2,25790,13.0,4.0
