@@ -34996,3 +34996,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192936,133408,rune-eaters-esports-vs-butterfly-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5702,24855,Rune Eaters,Butterfly,1,de_dust2,5702,13.0,9.0
 193402,133868,fokus-cs-vs-team-aces-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22184,25564,FOKUS,Aces,2,de_cache,22184,16.0,14.0
 193403,133868,fokus-cs-vs-team-aces-20-11-2026,2026-11-20T15:15:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22184,25564,FOKUS,Aces,1,de_dust2,25564,13.0,9.0
+193108,133492,sangal-vs-luminosity-cs-go-20-11-2026,2026-11-20T16:30:00.000+00:00,a,5,6132,Stake Ranked Episode 6,36,776,Sangal,Luminosity,3,de_cache,36,13.0,11.0
+193109,133492,sangal-vs-luminosity-cs-go-20-11-2026,2026-11-20T16:30:00.000+00:00,a,5,6132,Stake Ranked Episode 6,36,776,Sangal,Luminosity,2,de_mirage,776,13.0,7.0
+193110,133492,sangal-vs-luminosity-cs-go-20-11-2026,2026-11-20T16:30:00.000+00:00,a,5,6132,Stake Ranked Episode 6,36,776,Sangal,Luminosity,1,de_nuke,776,13.0,9.0

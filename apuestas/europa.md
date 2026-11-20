@@ -1,5 +1,5 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 20/11/2026 20:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 21:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 _No hay apuestas de valor próximas en este deporte ahora mismo._
