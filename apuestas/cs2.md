@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 00:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## MEIA NOITE vs RUSH — 20/11 · 00:45
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana MEIA NOITE** @ **1.68** (Thunderpick) · prob 55% vs casas 55% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.009 partidos)  
-Mapa: MEIA NOITE 53% · Serie BO3: MEIA NOITE 55% - 45% RUSH  
-Casas: MEIA NOITE 55% · RUSH 45%  
-🔎 **Claves**  
-• Elo: MEIA NOITE 1559 (48 series) | RUSH 1523 (32 series)  
-• Forma: MEIA NOITE ✅✅❌✅✅ | RUSH ✅❌❌✅✅  
-• H2H: 3: 1-2  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• MEIA NOITE gana 2-1: 23% → cuota justa 4.28  
-• RUSH gana 2-1: 20% → cuota justa 4.91  
+Actualizado 20/11/2026 01:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Balkan Outlaws vs FORZE Reload — 20/11 · 10:00
 
@@ -254,4 +234,56 @@ Casas: Nuclear TigeRES 53% · Hype Tech 47%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
 Nuclear TigeRES: Djon8 38 (22-55) · flouzer 37 (21-55) · ayuki 35 (20-52) · tronic 33 (19-49) · senka 31 (18-46)  
 Hype Tech: brutmonster 33 (19-49) · Dragon 33 (19-48) · VLDN 31 (18-46) · Cjoffo 31 (17-45) · Kind0 30 (17-44)  
+
+## Virtus.pro vs NT — 21/11 · 13:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Virtus.pro** @ **1.13** (Thunderpick) · prob 76% vs casas 82% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.090 partidos)  
+Mapa: Virtus.pro 60% · Serie BO3: Virtus.pro 71% - 29% NT  
+Casas: Virtus.pro 82% · NT 18%  
+🔎 **Claves**  
+• Elo: Virtus.pro 1773 (233 series) | NT 1661 (31 series)  
+• Forma: Virtus.pro ❌✅✅✅❌ | NT ❌✅❌✅✅  
+• H2H: sin precedentes  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Virtus.pro: AquaRS 6.4, mir 6.2 | NT: Woro2k 6.8, ta9z 6.7  
+• Mapas (último año): Virtus.pro: fuerte ancient 71%, débil dust2 50% | NT: pocos mapas  
+• Química de la plantilla: Virtus.pro: 46 mapas juntos de media | NT: 9 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Virtus.pro gana 2-1: 25% → cuota justa 4.02 · casa 27%  
+• NT gana 2-1: 16% → cuota justa 6.12 · casa 8% ✔ el bot lo ve más probable que la casa  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
+Virtus.pro: AquaRS 35 (20-52) · Patsi 35 (20-51) · b1st 35 (20-51) · mir 34 (20-51) · tO0RO 32 (18-47)  
+NT: Woro2k 36 (21-53) · ta9z 33 (19-48) · fakerealityy 31 (17-45) · Ryuzak1 29 (16-43) · zogeN 28 (16-42)  
+
+## Virtus.pro vs NT — 21/11 · 13:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **NT +1.5 mapas** @ **2.05** (Thunderpick) · prob 52% vs casas 45% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.090 partidos)  
+Mapa: Virtus.pro 60% · Serie BO3: Virtus.pro 71% - 29% NT  
+Casas: Virtus.pro 82% · NT 18%  
+🔎 **Claves**  
+• Elo: Virtus.pro 1773 (233 series) | NT 1661 (31 series)  
+• Forma: Virtus.pro ❌✅✅✅❌ | NT ❌✅❌✅✅  
+• H2H: sin precedentes  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Virtus.pro: AquaRS 6.4, mir 6.2 | NT: Woro2k 6.8, ta9z 6.7  
+• Mapas (último año): Virtus.pro: fuerte ancient 71%, débil dust2 50% | NT: pocos mapas  
+• Química de la plantilla: Virtus.pro: 46 mapas juntos de media | NT: 9 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Virtus.pro gana 2-1: 25% → cuota justa 4.02 · casa 27%  
+• NT gana 2-1: 16% → cuota justa 6.12 · casa 8% ✔ el bot lo ve más probable que la casa  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
+Virtus.pro: AquaRS 35 (20-52) · Patsi 35 (20-51) · b1st 35 (20-51) · mir 34 (20-51) · tO0RO 32 (18-47)  
+NT: Woro2k 36 (21-53) · ta9z 33 (19-48) · fakerealityy 31 (17-45) · Ryuzak1 29 (16-43) · zogeN 28 (16-42)  
 

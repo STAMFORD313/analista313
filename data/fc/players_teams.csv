@@ -74284,14 +74284,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2387998,262505,River Plate,Boca Juniors,,
 2387999,262505,Racing Club,Boca Juniors,,
 2388000,262505,Racing Club,River Plate,,
-2388385,262527,Liverpool,Arsenal,3,1
-2388386,262527,Tottenham,Chelsea,2,0
-2388387,262527,Chelsea,Liverpool,0,2
-2388388,262527,Arsenal,Man City,3,1
-2388389,262527,Man City,Chelsea,0,1
-2388390,262527,Liverpool,Tottenham,4,2
-2388391,262527,Tottenham,Man City,1,3
-2388392,262527,Chelsea,Arsenal,1,1
+2388385,262527,Liverpool,Arsenal,3.0,1.0
+2388386,262527,Tottenham,Chelsea,2.0,0.0
+2388387,262527,Chelsea,Liverpool,0.0,2.0
+2388388,262527,Arsenal,Man City,3.0,1.0
+2388389,262527,Man City,Chelsea,0.0,1.0
+2388390,262527,Liverpool,Tottenham,4.0,2.0
+2388391,262527,Tottenham,Man City,1.0,3.0
+2388392,262527,Chelsea,Arsenal,1.0,1.0
 2388393,262527,Arsenal,Tottenham,,
 2388394,262527,Man City,Liverpool,,
 2388395,262527,Arsenal,Liverpool,,
@@ -74304,3 +74304,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2388402,262527,Arsenal,Chelsea,,
 2388403,262527,Tottenham,Arsenal,,
 2388404,262527,Liverpool,Man City,,
+2388525,262482,Juventus,Sassuolo,1,0
+2388526,262482,Bologna,Napoli,2,3
+2388527,262482,Napoli,Juventus,0,2
+2388528,262482,Sassuolo,Roma,1,1
+2388529,262482,Roma,Napoli,3,3
+2388530,262482,Juventus,Bologna,1,0
+2388531,262482,Bologna,Roma,1,2
+2388532,262482,Napoli,Sassuolo,1,2
+2388533,262482,Sassuolo,Bologna,3,0
+2388534,262482,Roma,Juventus,0,2
+2388535,262482,Sassuolo,Juventus,,
+2388536,262482,Napoli,Bologna,,
+2388537,262482,Juventus,Napoli,,
+2388538,262482,Roma,Sassuolo,,
+2388539,262482,Napoli,Roma,,
+2388540,262482,Bologna,Juventus,,
+2388541,262482,Roma,Bologna,,
+2388542,262482,Sassuolo,Napoli,,
+2388543,262482,Bologna,Sassuolo,,
+2388544,262482,Juventus,Roma,,
+2387573,262492,Argentina,Spain,0,2
+2387574,262492,Brazil,England,0,3
+2387575,262492,England,Argentina,1,1
+2387576,262492,Spain,France,1,0
+2387577,262492,France,England,0,2
+2387578,262492,Argentina,Brazil,2,0
+2387579,262492,Brazil,France,2,1
+2387580,262492,England,Spain,0,0
+2387581,262492,Spain,Brazil,,
+2387582,262492,France,Argentina,,
+2387583,262492,Spain,Argentina,,
+2387584,262492,England,Brazil,,
+2387585,262492,Argentina,England,,
+2387586,262492,France,Spain,,
+2387587,262492,England,France,,
+2387588,262492,Brazil,Argentina,,
+2387589,262492,France,Brazil,,
+2387590,262492,Spain,England,,
+2387591,262492,Brazil,Spain,,
+2387592,262492,Argentina,France,,
