@@ -2,18 +2,18 @@
  "alpha": 0.05,
  "k": 12.0,
  "sub_w": 0.25,
- "n_test": 175497,
+ "n_test": 175540,
  "stats": {
   "goles": {
    "ll": 0.2702,
-   "ll_media": 0.3081,
+   "ll_media": 0.3082,
    "ll_propia": 0.282,
    "se_propia": 0.0004
   },
   "tiros_puerta": {
    "ll": 0.4735,
    "ll_media": 0.5605,
-   "ll_propia": 0.516,
+   "ll_propia": 0.5161,
    "se_propia": 0.0008
   },
   "cards": {
