@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Aarhus vs Lyngby — 20/11 · 19:00
-
-👀 candidata · 🇩🇰 Superliga · **Gana Aarhus** @ **1.84** (Bet365) · prob 55% vs casas 55% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.89)  
-1 66% · X 20% · 2 14%  
-1X 86% · X2 34% · 12 80%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 52%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Aarhus ✅➖✅❌✅ | Lyngby ❌➖❌✅❌  
-• H2H: 15 desde 2016: 7V-5E-3D · 1.6 goles/partido · +2.5 en 27%  
-• Bajas: Aarhus: sin bajas; Lyngby: sin bajas  
-• Favorito de las casas: Aarhus @ 1.84  
-
-## Molde vs Bodo/Glimt — 20/11 · 19:00
-
-👀 candidata · 🇳🇴 Eliteserien · **Gana Molde** @ **3.85** (Bet365) · prob 27% vs casas 27% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 1.82)  
-1 29% · X 26% · 2 45%  
-1X 55% · X2 71% · 12 74%  
-+1.5 87% · +2.5 67% · +3.5 46% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Molde ➖✅✅❌➖ | Bodo/Glimt ✅✅❌✅✅  
-• H2H: 23 desde 2014: 11V-5E-7D · 3.7 goles/partido · +2.5 en 74%  
-• Bajas: Molde: sin bajas; Bodo/Glimt: sin bajas  
-• Favorito de las casas: Bodo/Glimt @ 1.81  
+Actualizado 20/11/2026 19:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Annecy vs Clermont — 20/11 · 20:00
 
