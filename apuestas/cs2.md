@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 20/11/2026 10:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 11:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Iberian Soul vs Butterfly — 20/11 · 13:00
 

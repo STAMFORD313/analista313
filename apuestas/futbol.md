@@ -1,60 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 10:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kashima Antlers vs Shimizu S-Pulse — 20/11 · 11:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Kashima Antlers** @ **1.50** (Bet365) · prob 67% vs casas 67% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.80 - 0.79)  
-1 64% · X 21% · 2 14%  
-1X 86% · X2 36% · 12 79%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 46%  
-Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Kashima Antlers ✅➖❌✅❌ | Shimizu S-Pulse ➖❌❌❌❌  
-• H2H: 22 desde 2012: 14V-3E-5D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Kashima Antlers: sin bajas; Shimizu S-Pulse: sin bajas  
-• Favorito de las casas: Kashima Antlers @ 1.50  
-
-## Kashiwa Reysol vs Chiba — 20/11 · 11:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Kashiwa Reysol** @ **1.55** (Bet365) · prob 64% vs casas 64% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.22)  
-1 61% · X 22% · 2 17%  
-1X 83% · X2 39% · 12 78%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Kashiwa Reysol ❌➖✅✅✅ | Chiba ➖❌➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Kashiwa Reysol: sin bajas; Chiba: sin bajas  
-• Favorito de las casas: Kashiwa Reysol @ 1.55  
-
-## Vissel Kobe vs Mito — 20/11 · 11:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Vissel Kobe** @ **1.46** (Bet365) · prob 67% vs casas 67% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.99 - 0.69)  
-1 66% · X 21% · 2 13%  
-1X 87% · X2 34% · 12 79%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 43%  
-Marcadores: 2-0 14% · 1-0 13% · 1-1 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Vissel Kobe ✅❌➖✅➖ | Mito ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Vissel Kobe: sin bajas; Mito: sin bajas  
-• Favorito de las casas: Vissel Kobe @ 1.46  
+Actualizado 20/11/2026 11:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
 
