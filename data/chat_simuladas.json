@@ -3560,5 +3560,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261120222421116519",
+  "creada": "2026-11-20 22:24:21.116566+00:00",
+  "titulo": "Barrido · Combinada cuota 16.5",
+  "legs": [
+   {
+    "code": "JPN",
+    "start": "2026-11-21 06:00:00+00:00",
+    "home": "Kawasaki Frontale",
+    "away": "Avispa Fukuoka",
+    "txt": "Menos de 8.5 córners",
+    "odds": 2.48,
+    "p": 0.42243101481123346
+   },
+   {
+    "code": null,
+    "start": "2026-11-21 13:00:00+00:00",
+    "home": "Alaves",
+    "away": "Deportivo La Coruna",
+    "txt": "Gana Alaves",
+    "odds": 2.37,
+    "p": 0.435
+   },
+   {
+    "code": null,
+    "start": "2026-11-21 14:00:00+00:00",
+    "home": "Al Jolan",
+    "away": "Al Naft",
+    "txt": "Empate",
+    "odds": 2.8,
+    "p": 0.4376
+   }
+  ],
+  "odds": 16.46,
+  "p": 0.08041227825540716,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
