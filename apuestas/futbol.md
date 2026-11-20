@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 17:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Piast Gliwice** @ **2.68** (Bet365) · prob 37% vs casas 37% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.97)  
-1 48% · X 27% · 2 25%  
-1X 75% · X2 52% · 12 73%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Piast Gliwice ✅➖✅➖➖ | Korona Kielce ❌❌✅❌❌  
-• H2H: 26 desde 2012: 8V-11E-7D · 1.9 goles/partido · +2.5 en 23%  
-• Bajas: Piast Gliwice: sin bajas; Korona Kielce: sin bajas  
-• Favorito de las casas: Korona Kielce @ 2.66  
+Actualizado 20/11/2026 18:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bielefeld vs Magdeburg — 20/11 · 18:30
 
@@ -10749,6 +10731,170 @@ Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%
 Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
 🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+
+## Parma vs Roma — 21/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.91 - 1.60)  
+1 13% · X 24% · 2 64%  
+1X 36% · X2 87% · 12 76%  
++1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
+• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
+• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
+• Favorito de las casas: Roma @ 1.31  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
+Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
+Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
+🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+
+## Parma vs Roma — 21/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.18** (Unibet) · prob 80% vs casas 78% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.91 - 1.60)  
+1 13% · X 24% · 2 64%  
+1X 36% · X2 87% · 12 76%  
++1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
+• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
+• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
+• Favorito de las casas: Roma @ 1.31  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
+Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
+Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
+🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+
+## Parma vs Roma — 21/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Roma** @ **1.19** (Unibet) · prob 78% vs casas 77% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.91 - 1.60)  
+1 13% · X 24% · 2 64%  
+1X 36% · X2 87% · 12 76%  
++1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
+• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
+• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
+• Favorito de las casas: Roma @ 1.31  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
+Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
+Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
+🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+
+## Parma vs Roma — 21/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 7.5 córners de Roma** @ **1.32** (Unibet) · prob 71% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.91 - 1.60)  
+1 13% · X 24% · 2 64%  
+1X 36% · X2 87% · 12 76%  
++1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
+• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
+• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
+• Favorito de las casas: Roma @ 1.31  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
+Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
+Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
+🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+
+## Parma vs Roma — 21/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Parma** @ **1.16** (Unibet) · prob 81% vs casas 80% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.91 - 1.60)  
+1 13% · X 24% · 2 64%  
+1X 36% · X2 87% · 12 76%  
++1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
+• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
+• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
+• Favorito de las casas: Roma @ 1.31  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
+Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
+Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
+🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+
+## Parma vs Roma — 21/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Parma** @ **1.17** (Unibet) · prob 81% vs casas 78% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.91 - 1.60)  
+1 13% · X 24% · 2 64%  
+1X 36% · X2 87% · 12 76%  
++1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
+• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
+• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
+• Favorito de las casas: Roma @ 1.31  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
+Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
+Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
+🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
 
 ## Genk vs RAAL La Louviere — 21/11 · 18:15
 
@@ -10774,6 +10920,163 @@ Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 
 Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
+
+## Genk vs RAAL La Louviere — 21/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 9.5 córners** @ **1.72** (Unibet) · prob 57% vs casas 53% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.15 - 0.79)  
+1 70% · X 19% · 2 10%  
+1X 90% · X2 30% · 12 81%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
+• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
+• Favorito de las casas: Genk @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
+Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
+Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
+Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
+
+## Genk vs RAAL La Louviere — 21/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.15 - 0.79)  
+1 70% · X 19% · 2 10%  
+1X 90% · X2 30% · 12 81%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
+• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
+• Favorito de las casas: Genk @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
+Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
+Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
+Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
+
+## Genk vs RAAL La Louviere — 21/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de RAAL La Louviere** @ **1.47** (Unibet) · prob 63% vs casas 62% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.15 - 0.79)  
+1 70% · X 19% · 2 10%  
+1X 90% · X2 30% · 12 81%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
+• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
+• Favorito de las casas: Genk @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
+Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
+Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
+Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
+
+## Genk vs RAAL La Louviere — 21/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 4.5 córners de RAAL La Louviere** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.15 - 0.79)  
+1 70% · X 19% · 2 10%  
+1X 90% · X2 30% · 12 81%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
+• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
+• Favorito de las casas: Genk @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
+Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
+Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
+Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
+
+## Genk vs RAAL La Louviere — 21/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 6.5 córners de Genk** @ **2.00** (Unibet) · prob 49% vs casas 46% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.15 - 0.79)  
+1 70% · X 19% · 2 10%  
+1X 90% · X2 30% · 12 81%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
+• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
+• Favorito de las casas: Genk @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
+Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
+Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
+Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
+
+## Genk vs RAAL La Louviere — 21/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 8.5 córners de Genk** @ **1.26** (Unibet) · prob 71% vs casas 73% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.15 - 0.79)  
+1 70% · X 19% · 2 10%  
+1X 90% · X2 30% · 12 81%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
+• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
+• Favorito de las casas: Genk @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
+Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
+Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
+Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
+🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
 
 ## Schalke 04 vs Stuttgart — 21/11 · 18:30
 
