@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 20/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 20/11/2026 16:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piast Gliwice vs Korona Kielce — 20/11 · 18:00
 
@@ -9909,6 +9909,163 @@ Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 
 Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
 🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+
+## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.18** (Unibet) · prob 78% vs casas 78% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 2.68)  
+1 19% · X 22% · 2 60%  
+1X 40% · X2 81% · 12 78%  
++1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
+Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
+• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
+• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
+Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
+Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+
+## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.48** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 2.68)  
+1 19% · X 22% · 2 60%  
+1X 40% · X2 81% · 12 78%  
++1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
+Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
+• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
+• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
+Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
+Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+
+## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de PSV Eindhoven** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 2.68)  
+1 19% · X 22% · 2 60%  
+1X 40% · X2 81% · 12 78%  
++1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
+Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
+• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
+• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
+Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
+Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+
+## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de PSV Eindhoven** @ **2.48** (Unibet) · prob 40% vs casas 37% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 2.68)  
+1 19% · X 22% · 2 60%  
+1X 40% · X2 81% · 12 78%  
++1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
+Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
+• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
+• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
+Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
+Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+
+## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Nijmegen** @ **1.48** (Unibet) · prob 64% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 2.68)  
+1 19% · X 22% · 2 60%  
+1X 40% · X2 81% · 12 78%  
++1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
+Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
+• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
+• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
+Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
+Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+
+## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Nijmegen** @ **1.22** (Unibet) · prob 76% vs casas 75% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 2.68)  
+1 19% · X 22% · 2 60%  
+1X 40% · X2 81% · 12 78%  
++1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
+Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
+• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
+• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
+Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
+Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
 
 ## LASK vs Hartberg — 21/11 · 17:00
 

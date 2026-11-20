@@ -34986,3 +34986,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193398,133867,iberian-soul-vs-butterfly-20-11-2026,2026-11-20T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19100,24855,Iberian Soul,Butterfly,3,de_nuke,19100,13.0,8.0
 193399,133867,iberian-soul-vs-butterfly-20-11-2026,2026-11-20T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19100,24855,Iberian Soul,Butterfly,2,de_inferno,24855,13.0,5.0
 193400,133867,iberian-soul-vs-butterfly-20-11-2026,2026-11-20T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19100,24855,Iberian Soul,Butterfly,1,de_mirage,19100,13.0,4.0
+193103,133491,luminosity-cs-go-vs-big-20-11-2026,2026-11-20T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,756,Luminosity,BIG,3,de_cache,776,13.0,3.0
+193104,133491,luminosity-cs-go-vs-big-20-11-2026,2026-11-20T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,756,Luminosity,BIG,2,de_inferno,776,13.0,9.0
+193105,133491,luminosity-cs-go-vs-big-20-11-2026,2026-11-20T13:00:00.000+00:00,a,3,6132,Stake Ranked Episode 6,776,756,Luminosity,BIG,1,de_ancient,756,13.0,4.0
