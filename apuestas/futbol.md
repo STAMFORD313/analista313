@@ -1,538 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 12:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Gana Hannover** @ **1.75** (Bwin) · prob 55% vs casas 55% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 2.5 goles** @ **1.48** (Bet365) · prob 65% vs casas 65% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Holstein Kiel +0.75 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Hannover** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Hannover** @ **1.46** (Unibet) · prob 65% vs casas 63% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Greuther Furth** @ **1.49** (Unibet) · prob 63% vs casas 62% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Greuther Furth** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Hannover vs Greuther Furth — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.45** (Unibet) · prob 65% vs casas 63% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.11)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hannover ❌➖❌✅➖ | Greuther Furth ❌✅❌✅❌  
-• H2H: 16 desde 2012: 7V-5E-4D · 3.3 goles/partido · +2.5 en 69%  
-• Bajas: Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda  
-• Favorito de las casas: Hannover @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.7: total +10.5 55% · Hannover +5.5 57% · Greuther Furth +5.5 34%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Hannover +2.5 31% · Greuther Furth +2.5 37%  
-Faltas 10.7 - 10.4: total +22.5 37% · Hannover +11.5 38% · Greuther Furth +12.5 25%  
-Tiros a puerta 6.2 - 4.3: total +10.5 47% · Hannover +5.5 56% · Greuther Furth +4.5 42%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth → prob. 35%, cuota justa 2.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Hannover + Menos de 5.5 córners de Greuther Furth + Menos de 4.5 tiros a puerta de Greuther Furth → prob. 22%, cuota justa 4.63  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Braunschweig** @ **1.50** (Unibet) · prob 60% vs casas 61% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 4.5 córners de Braunschweig** @ **1.72** (Unibet) · prob 55% vs casas 53% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Nurnberg** @ **1.58** (Unibet) · prob 58% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Nurnberg** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.43** (Unibet) · prob 64% vs casas 64% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Nurnberg vs Braunschweig — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.42** (Unibet) · prob 67% vs casas 65% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.04)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Nurnberg ➖➖❌✅✅ | Braunschweig ✅❌✅❌➖  
-• H2H: 20 desde 2013: 10V-5E-5D · 3.2 goles/partido · +2.5 en 60%  
-• Bajas: Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda  
-• Favorito de las casas: Nurnberg @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.6 - 4.3: total +10.5 52% · Nurnberg +5.5 59% · Braunschweig +5.5 29%  
-Tarjetas 1.9 - 2.5: total +4.5 43% · Nurnberg +2.5 29% · Braunschweig +2.5 44%  
-Faltas 10.2 - 11.6: total +22.5 43% · Nurnberg +11.5 33% · Braunschweig +12.5 38%  
-Tiros a puerta 6.2 - 3.8: total +10.5 42% · Nurnberg +5.5 57% · Braunschweig +4.5 34%  
-🧩 Crear apuesta: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Braunschweig + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Menos de 4.5 tiros a puerta de Braunschweig → prob. 25%, cuota justa 3.99  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.35** (Unibet) · prob 67% vs casas 68% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.54** (Unibet) · prob 63% vs casas 60% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Wolfsburg** @ **1.53** (Unibet) · prob 60% vs casas 60% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Wolfsburg** @ **1.49** (Unibet) · prob 62% vs casas 62% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Holstein Kiel** @ **1.42** (Unibet) · prob 62% vs casas 65% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
-
-## Wolfsburg vs Holstein Kiel — 21/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 4.5 córners de Holstein Kiel** @ **1.87** (Unibet) · prob 52% vs casas 49% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.03 - 1.28)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Wolfsburg ➖✅➖✅❌ | Holstein Kiel ❌➖✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)  
-• Favorito de las casas: Wolfsburg @ 1.71  
-📐 **Estadísticas esperadas**  
-Córners 6.7 - 4.4: total +10.5 55% · Wolfsburg +5.5 60% · Holstein Kiel +5.5 30%  
-Tarjetas 2.1 - 2.7: total +4.5 51% · Wolfsburg +2.5 35% · Holstein Kiel +2.5 50%  
-Faltas 12.9 - 12.4: total +22.5 68% · Wolfsburg +11.5 62% · Holstein Kiel +12.5 46%  
-Tiros a puerta 6.3 - 3.7: total +10.5 42% · Wolfsburg +5.5 58% · Holstein Kiel +4.5 32%  
-🧩 Crear apuesta: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Holstein Kiel + Más de 22.5 faltas + Menos de 4.5 tiros a puerta de Holstein Kiel + Menos de 2.5 tarjetas de Wolfsburg + Más de 2.5 goles → prob. 12%, cuota justa 8.05  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Holstein Kiel + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 45% · ventaja -8%  
+Actualizado 21/11/2026 13:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Man City vs Fulham — 21/11 · 13:30
 
@@ -13664,6 +13132,163 @@ Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%
 Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
+
+## Burnley vs Blackburn — 22/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Más de 6.5 córners de Burnley** @ **2.40** (Unibet) · prob 41% vs casas 38% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.44 - 0.78)  
+1 47% · X 29% · 2 23%  
+1X 77% · X2 53% · 12 71%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Burnley ❌❌➖➖❌ | Blackburn ❌✅❌❌✅  
+• H2H: 12 desde 2009: 6V-4E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Burnley: 0 fuera, 2 duda; Blackburn: sin bajas  
+• Favorito de las casas: Burnley @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.2: total +10.5 47% · Burnley +5.5 55% · Blackburn +4.5 40%  
+Tarjetas 1.6 - 2.1: total +3.5 50% · Burnley +2.5 22% · Blackburn +2.5 35%  
+Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%  
+Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
+
+## Burnley vs Blackburn — 22/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Burnley** @ **1.28** (Unibet) · prob 70% vs casas 71% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.44 - 0.78)  
+1 47% · X 29% · 2 23%  
+1X 77% · X2 53% · 12 71%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Burnley ❌❌➖➖❌ | Blackburn ❌✅❌❌✅  
+• H2H: 12 desde 2009: 6V-4E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Burnley: 0 fuera, 2 duda; Blackburn: sin bajas  
+• Favorito de las casas: Burnley @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.2: total +10.5 47% · Burnley +5.5 55% · Blackburn +4.5 40%  
+Tarjetas 1.6 - 2.1: total +3.5 50% · Burnley +2.5 22% · Blackburn +2.5 35%  
+Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%  
+Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
+
+## Burnley vs Blackburn — 22/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Más de 2.5 córners de Blackburn** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.44 - 0.78)  
+1 47% · X 29% · 2 23%  
+1X 77% · X2 53% · 12 71%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Burnley ❌❌➖➖❌ | Blackburn ❌✅❌❌✅  
+• H2H: 12 desde 2009: 6V-4E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Burnley: 0 fuera, 2 duda; Blackburn: sin bajas  
+• Favorito de las casas: Burnley @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.2: total +10.5 47% · Burnley +5.5 55% · Blackburn +4.5 40%  
+Tarjetas 1.6 - 2.1: total +3.5 50% · Burnley +2.5 22% · Blackburn +2.5 35%  
+Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%  
+Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
+
+## Burnley vs Blackburn — 22/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Menos de 3.5 córners de Blackburn** @ **2.33** (Unibet) · prob 42% vs casas 40% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.44 - 0.78)  
+1 47% · X 29% · 2 23%  
+1X 77% · X2 53% · 12 71%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Burnley ❌❌➖➖❌ | Blackburn ❌✅❌❌✅  
+• H2H: 12 desde 2009: 6V-4E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Burnley: 0 fuera, 2 duda; Blackburn: sin bajas  
+• Favorito de las casas: Burnley @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.2: total +10.5 47% · Burnley +5.5 55% · Blackburn +4.5 40%  
+Tarjetas 1.6 - 2.1: total +3.5 50% · Burnley +2.5 22% · Blackburn +2.5 35%  
+Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%  
+Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
+
+## Burnley vs Blackburn — 22/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.36** (Unibet) · prob 69% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.44 - 0.78)  
+1 47% · X 29% · 2 23%  
+1X 77% · X2 53% · 12 71%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Burnley ❌❌➖➖❌ | Blackburn ❌✅❌❌✅  
+• H2H: 12 desde 2009: 6V-4E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Burnley: 0 fuera, 2 duda; Blackburn: sin bajas  
+• Favorito de las casas: Burnley @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.2: total +10.5 47% · Burnley +5.5 55% · Blackburn +4.5 40%  
+Tarjetas 1.6 - 2.1: total +3.5 50% · Burnley +2.5 22% · Blackburn +2.5 35%  
+Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%  
+Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
+
+## Burnley vs Blackburn — 22/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.28** (Unibet) · prob 73% vs casas 72% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.44 - 0.78)  
+1 47% · X 29% · 2 23%  
+1X 77% · X2 53% · 12 71%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Burnley ❌❌➖➖❌ | Blackburn ❌✅❌❌✅  
+• H2H: 12 desde 2009: 6V-4E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Burnley: 0 fuera, 2 duda; Blackburn: sin bajas  
+• Favorito de las casas: Burnley @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.2: total +10.5 47% · Burnley +5.5 55% · Blackburn +4.5 40%  
+Tarjetas 1.6 - 2.1: total +3.5 50% · Burnley +2.5 22% · Blackburn +2.5 35%  
+Faltas 9.7 - 10.9: total +22.5 34% · Burnley +11.5 28% · Blackburn +11.5 41%  
+Tiros a puerta 4.7 - 3.0: total +9.5 26% · Burnley +5.5 34% · Blackburn +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 4.5 córners de Blackburn → prob. 19%, cuota justa 5.13  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Blackburn + Menos de 2.5 tarjetas de Burnley + Menos de 2.5 goles): cuota Unibet aprox. 4.09 (producto de piernas) · prob. 42% · ventaja +73% → 1 u en la banca de simulación  
 
 ## Beveren vs Gent — 22/11 · 13:30
 
