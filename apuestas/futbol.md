@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 12:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 12:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Hannover vs Greuther Furth — 21/11 · 13:00
 
@@ -13300,6 +13300,163 @@ Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%
 Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
+
+## Twente vs Willem II — 22/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 10.5 córners de Twente** @ **3.75** (Unibet) · prob 28% vs casas 24% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.61 - 0.81)  
+1 88% · X 10% · 2 3%  
+1X 97% · X2 12% · 12 90%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 3-0 10% · 2-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Twente ➖❌✅✅➖ | Willem II ❌❌❌❌➖  
+• H2H: 28 desde 2005: 17V-8E-3D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)  
+• Favorito de las casas: Twente @ 1.11  
+📐 **Estadísticas esperadas**  
+Córners 9.0 - 3.0: total +10.5 64% · Twente +5.5 80% · Willem II +4.5 21%  
+Tarjetas 1.0 - 2.0: total +3.5 36% · Twente +1.5 27% · Willem II +1.5 60%  
+Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%  
+Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
+
+## Twente vs Willem II — 22/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 10.5 córners de Twente** @ **1.21** (Unibet) · prob 72% vs casas 76% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.61 - 0.81)  
+1 88% · X 10% · 2 3%  
+1X 97% · X2 12% · 12 90%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 3-0 10% · 2-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Twente ➖❌✅✅➖ | Willem II ❌❌❌❌➖  
+• H2H: 28 desde 2005: 17V-8E-3D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)  
+• Favorito de las casas: Twente @ 1.11  
+📐 **Estadísticas esperadas**  
+Córners 9.0 - 3.0: total +10.5 64% · Twente +5.5 80% · Willem II +4.5 21%  
+Tarjetas 1.0 - 2.0: total +3.5 36% · Twente +1.5 27% · Willem II +1.5 60%  
+Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%  
+Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
+
+## Twente vs Willem II — 22/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 13.5 córners** @ **3.90** (Unibet) · prob 28% vs casas 24% · ventaja +10%
+
+- ✅ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.61 - 0.81)  
+1 88% · X 10% · 2 3%  
+1X 97% · X2 12% · 12 90%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 3-0 10% · 2-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Twente ➖❌✅✅➖ | Willem II ❌❌❌❌➖  
+• H2H: 28 desde 2005: 17V-8E-3D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)  
+• Favorito de las casas: Twente @ 1.11  
+📐 **Estadísticas esperadas**  
+Córners 9.0 - 3.0: total +10.5 64% · Twente +5.5 80% · Willem II +4.5 21%  
+Tarjetas 1.0 - 2.0: total +3.5 36% · Twente +1.5 27% · Willem II +1.5 60%  
+Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%  
+Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
+
+## Twente vs Willem II — 22/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 72% vs casas 76% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.61 - 0.81)  
+1 88% · X 10% · 2 3%  
+1X 97% · X2 12% · 12 90%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 3-0 10% · 2-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Twente ➖❌✅✅➖ | Willem II ❌❌❌❌➖  
+• H2H: 28 desde 2005: 17V-8E-3D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)  
+• Favorito de las casas: Twente @ 1.11  
+📐 **Estadísticas esperadas**  
+Córners 9.0 - 3.0: total +10.5 64% · Twente +5.5 80% · Willem II +4.5 21%  
+Tarjetas 1.0 - 2.0: total +3.5 36% · Twente +1.5 27% · Willem II +1.5 60%  
+Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%  
+Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
+
+## Twente vs Willem II — 22/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Willem II** @ **3.05** (Unibet) · prob 33% vs casas 30% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.61 - 0.81)  
+1 88% · X 10% · 2 3%  
+1X 97% · X2 12% · 12 90%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 3-0 10% · 2-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Twente ➖❌✅✅➖ | Willem II ❌❌❌❌➖  
+• H2H: 28 desde 2005: 17V-8E-3D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)  
+• Favorito de las casas: Twente @ 1.11  
+📐 **Estadísticas esperadas**  
+Córners 9.0 - 3.0: total +10.5 64% · Twente +5.5 80% · Willem II +4.5 21%  
+Tarjetas 1.0 - 2.0: total +3.5 36% · Twente +1.5 27% · Willem II +1.5 60%  
+Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%  
+Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
+
+## Twente vs Willem II — 22/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 3.5 córners de Willem II** @ **1.30** (Unibet) · prob 67% vs casas 70% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.61 - 0.81)  
+1 88% · X 10% · 2 3%  
+1X 97% · X2 12% · 12 90%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 3-0 10% · 2-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Twente ➖❌✅✅➖ | Willem II ❌❌❌❌➖  
+• H2H: 28 desde 2005: 17V-8E-3D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)  
+• Favorito de las casas: Twente @ 1.11  
+📐 **Estadísticas esperadas**  
+Córners 9.0 - 3.0: total +10.5 64% · Twente +5.5 80% · Willem II +4.5 21%  
+Tarjetas 1.0 - 2.0: total +3.5 36% · Twente +1.5 27% · Willem II +1.5 60%  
+Faltas 8.5 - 9.0: total +21.5 19% · Twente +10.5 25% · Willem II +11.5 21%  
+Tiros a puerta 9.4 - 2.8: total +10.5 65% · Twente +5.5 87% · Willem II +5.5 7%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente → prob. 61%, cuota justa 1.65 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente + Más de 2.5 goles → prob. 30%, cuota justa 3.31  
+🎯 No simulada (con cuota: Más de 5.5 córners de Twente + Menos de 1.5 tarjetas de Twente): cuota Unibet aprox. 1.60 (producto de piernas) · prob. 59% · ventaja -6%  
 
 ## Juventus vs Venezia — 22/11 · 12:30
 
@@ -13325,6 +13482,163 @@ Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%
 Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
+
+## Juventus vs Venezia — 22/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners de Juventus** @ **3.10** (Unibet) · prob 32% vs casas 30% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.91 - 0.61)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 39%  
+Marcadores: 1-0 15% · 2-0 15% · 1-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Juventus ❌✅❌✅➖ | Venezia ✅❌❌❌✅  
+• H2H: 4 desde 2021: 2V-2E-0D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)  
+• Favorito de las casas: Juventus @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.1: total +9.5 61% · Juventus +5.5 69% · Venezia +4.5 23%  
+Tarjetas 1.3 - 2.3: total +3.5 49% · Juventus +1.5 39% · Venezia +2.5 41%  
+Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%  
+Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
+
+## Juventus vs Venezia — 22/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners de Juventus** @ **1.19** (Unibet) · prob 76% vs casas 78% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.91 - 0.61)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 39%  
+Marcadores: 1-0 15% · 2-0 15% · 1-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Juventus ❌✅❌✅➖ | Venezia ✅❌❌❌✅  
+• H2H: 4 desde 2021: 2V-2E-0D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)  
+• Favorito de las casas: Juventus @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.1: total +9.5 61% · Juventus +5.5 69% · Venezia +4.5 23%  
+Tarjetas 1.3 - 2.3: total +3.5 49% · Juventus +1.5 39% · Venezia +2.5 41%  
+Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%  
+Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
+
+## Juventus vs Venezia — 22/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Más de 11.5 córners** @ **2.80** (Unibet) · prob 36% vs casas 33% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.91 - 0.61)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 39%  
+Marcadores: 1-0 15% · 2-0 15% · 1-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Juventus ❌✅❌✅➖ | Venezia ✅❌❌❌✅  
+• H2H: 4 desde 2021: 2V-2E-0D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)  
+• Favorito de las casas: Juventus @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.1: total +9.5 61% · Juventus +5.5 69% · Venezia +4.5 23%  
+Tarjetas 1.3 - 2.3: total +3.5 49% · Juventus +1.5 39% · Venezia +2.5 41%  
+Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%  
+Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
+
+## Juventus vs Venezia — 22/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.13** (Unibet) · prob 80% vs casas 81% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.91 - 0.61)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 39%  
+Marcadores: 1-0 15% · 2-0 15% · 1-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Juventus ❌✅❌✅➖ | Venezia ✅❌❌❌✅  
+• H2H: 4 desde 2021: 2V-2E-0D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)  
+• Favorito de las casas: Juventus @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.1: total +9.5 61% · Juventus +5.5 69% · Venezia +4.5 23%  
+Tarjetas 1.3 - 2.3: total +3.5 49% · Juventus +1.5 39% · Venezia +2.5 41%  
+Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%  
+Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
+
+## Juventus vs Venezia — 22/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Venezia** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.91 - 0.61)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 39%  
+Marcadores: 1-0 15% · 2-0 15% · 1-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Juventus ❌✅❌✅➖ | Venezia ✅❌❌❌✅  
+• H2H: 4 desde 2021: 2V-2E-0D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)  
+• Favorito de las casas: Juventus @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.1: total +9.5 61% · Juventus +5.5 69% · Venezia +4.5 23%  
+Tarjetas 1.3 - 2.3: total +3.5 49% · Juventus +1.5 39% · Venezia +2.5 41%  
+Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%  
+Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
+
+## Juventus vs Venezia — 22/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Venezia** @ **1.21** (Unibet) · prob 77% vs casas 76% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.91 - 0.61)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 39%  
+Marcadores: 1-0 15% · 2-0 15% · 1-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Juventus ❌✅❌✅➖ | Venezia ✅❌❌❌✅  
+• H2H: 4 desde 2021: 2V-2E-0D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)  
+• Favorito de las casas: Juventus @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.1: total +9.5 61% · Juventus +5.5 69% · Venezia +4.5 23%  
+Tarjetas 1.3 - 2.3: total +3.5 49% · Juventus +1.5 39% · Venezia +2.5 41%  
+Faltas 11.1 - 9.7: total +22.5 35% · Juventus +11.5 43% · Venezia +11.5 28%  
+Tiros a puerta 6.8 - 2.4: total +9.5 43% · Juventus +4.5 77% · Venezia +4.5 10%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia + Menos de 11.5 faltas de Venezia + Menos de 1.5 tarjetas de Juventus → prob. 32%, cuota justa 3.14  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Venezia + Menos de 4.5 córners de Venezia): cuota Unibet aprox. 1.39 (producto de piernas) · prob. 71% · ventaja -2%  
 
 ## Burnley vs Blackburn — 22/11 · 13:00
 
