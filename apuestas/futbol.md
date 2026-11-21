@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 01:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Puebla vs Atl. San Luis — 21/11 · 02:00
 
