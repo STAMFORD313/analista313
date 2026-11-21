@@ -3117,7 +3117,9 @@
     "away": "Loughborough University",
     "txt": "Gana Loughborough University",
     "odds": 2.45,
-    "p": 0.4316
+    "p": 0.4316,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -3126,15 +3128,17 @@
     "away": "Witton Albion",
     "txt": "Gana Prescot Cables",
     "odds": 2.17,
-    "p": 0.4818
+    "p": 0.4818,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 11.27,
   "p": 0.101643457344,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261117191419115804",
