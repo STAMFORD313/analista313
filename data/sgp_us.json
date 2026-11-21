@@ -1,12 +1,12 @@
 {
  "nba": {
-  "rho": 0.0113,
+  "rho": 0.0099,
   "sd_margin": 14.72,
-  "sd_total": 18.93,
+  "sd_total": 18.94,
   "n_test": 1397,
-  "ll_indep": 1.3265,
-  "ll_copula": 1.32641,
-  "se": 0.00018
+  "ll_indep": 1.32722,
+  "ll_copula": 1.3271,
+  "se": 0.00016
  },
  "nfl": {
   "rho": 0.0474,
