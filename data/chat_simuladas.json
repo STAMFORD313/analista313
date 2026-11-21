@@ -3318,7 +3318,9 @@
     "away": "Evermore",
     "txt": "Gana Evermore",
     "odds": 2.35,
-    "p": 0.47058794326241127
+    "p": 0.47058794326241127,
+    "ok": true,
+    "por": "ganó Evermore 2-0"
    }
   ],
   "odds": 15.05,
