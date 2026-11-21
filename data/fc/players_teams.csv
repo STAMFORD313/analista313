@@ -76485,16 +76485,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2392054,262741,Aston Villa,Roma,,
 2392055,262741,Salzburg,Aston Villa,,
 2392056,262741,Fenerbahce,Porto,,
-2391897,262702,Liverpool,Man City,2,3
-2391898,262702,Chelsea,Tottenham,0,1
-2391899,262702,Tottenham,Liverpool,2,1
-2391900,262702,Man City,Arsenal,2,1
-2391901,262702,Arsenal,Tottenham,1,3
-2391902,262702,Liverpool,Chelsea,2,3
-2391903,262702,Chelsea,Arsenal,1,0
-2391904,262702,Tottenham,Man City,0,3
-2391905,262702,Man City,Chelsea,2,0
-2391906,262702,Arsenal,Liverpool,3,0
+2391897,262702,Liverpool,Man City,2.0,3.0
+2391898,262702,Chelsea,Tottenham,0.0,1.0
+2391899,262702,Tottenham,Liverpool,2.0,1.0
+2391900,262702,Man City,Arsenal,2.0,1.0
+2391901,262702,Arsenal,Tottenham,1.0,3.0
+2391902,262702,Liverpool,Chelsea,2.0,3.0
+2391903,262702,Chelsea,Arsenal,1.0,0.0
+2391904,262702,Tottenham,Man City,0.0,3.0
+2391905,262702,Man City,Chelsea,2.0,0.0
+2391906,262702,Arsenal,Liverpool,3.0,0.0
 2391907,262702,Man City,Liverpool,,
 2391908,262702,Tottenham,Chelsea,,
 2391909,262702,Liverpool,Tottenham,,

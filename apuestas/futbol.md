@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 21:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bahia vs Coritiba — 21/11 · 21:30
 
