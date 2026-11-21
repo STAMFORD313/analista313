@@ -3801,5 +3801,56 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261121203048193885",
+  "creada": "2026-11-21 20:30:48.193925+00:00",
+  "titulo": "Barrido · Combinada cuota 17.1",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-22 11:00:00+00:00",
+    "home": "Palencia",
+    "away": "Guijuelo",
+    "txt": "Gana Palencia",
+    "odds": 2.65,
+    "p": 0.4006
+   },
+   {
+    "code": null,
+    "start": "2026-11-22 14:00:00+00:00",
+    "home": "Rosengard",
+    "away": "KIF Orebro",
+    "txt": "Gana Rosengard",
+    "odds": 1.87,
+    "p": 0.5876
+   },
+   {
+    "code": "G1",
+    "start": "2026-11-22 15:30:00+00:00",
+    "home": "Panathinaikos",
+    "away": "OFI Crete",
+    "txt": "Más de 10.5 córners",
+    "odds": 2.32,
+    "p": 0.4479319086842052
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-22 16:00:00+00:00",
+    "home": "Team Spirit Academy",
+    "away": "Allied",
+    "txt": "Gana Team Spirit Academy",
+    "odds": 1.49,
+    "p": 0.718027293064877
+   }
+  ],
+  "odds": 17.13,
+  "p": 0.07570868195639642,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
