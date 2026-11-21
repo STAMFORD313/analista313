@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 10:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 11:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Virtus.pro vs NT — 21/11 · 13:00
 

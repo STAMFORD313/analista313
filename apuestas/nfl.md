@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 21/11/2026 10:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 11:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kansas Jayhawks vs BYU Cougars — 21/11 · 18:00
 
