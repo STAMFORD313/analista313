@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 00:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 00:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Cruzeiro — 22/11 · 01:00
 

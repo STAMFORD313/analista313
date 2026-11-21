@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 00:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## USC Trojans vs Maryland Terrapins — 22/11 · 00:15
-
-👀 candidata · 🏈 NCAA Football · **USC Trojans -17.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: USC Trojans cubre -17.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: USC Trojans ✅✅❌✅❌ | Maryland Terrapins ❌❌❌✅✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: USC Trojans: sin bajas; Maryland Terrapins: sin bajas  
-
-## USC Trojans vs Maryland Terrapins — 22/11 · 00:15
-
-👀 candidata · 🏈 NCAA Football · **Gana USC Trojans** @ **1.11** (DraftKings) · prob 86% vs casas 86% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana USC Trojans 94% · Gana Maryland Terrapins 6%  
-Casas: USC Trojans 86% · Maryland Terrapins 14%  
-Hándicap USC -17.5 · Total puntos 57.5  
-🔎 **Claves**  
-• Forma: USC Trojans ✅✅❌✅❌ | Maryland Terrapins ❌❌❌✅✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: USC Trojans: sin bajas; Maryland Terrapins: sin bajas  
-• Favorito de las casas: USC Trojans @ 1.11  
+Actualizado 22/11/2026 00:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami Hurricanes vs Virginia Tech Hokies — 22/11 · 01:00
 

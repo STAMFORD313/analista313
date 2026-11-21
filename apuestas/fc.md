@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 00:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## kkikus vs ssstasonn — 22/11 · 00:17
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.00** (Unibet) · prob 20% vs casas 15% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.558 partidos)  
-Goles esperados: kkikus 3.42 · ssstasonn 2.56  
-Ganador: kkikus 55% · empate 20% · ssstasonn 25%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap kkikus: −1.5 39% · −2.5 24%  
-🔎 **Claves**  
-• Forma: kkikus ✅❌❌✅✅ | ssstasonn ❌❌➖❌❌  
-• Partidos: kkikus 1168 | ssstasonn 1237  
-• Liga: Serie A  
-• Unibet: 1 1.72 · X 6.00 · 2 2.60 (sin margen 51%/15%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+17%) · Paf España 6.00 (+17%)  
-
-## KravaRK vs curuza — 22/11 · 00:32
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana curuza** @ **2.33** (Unibet) · prob 48% vs casas 38% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.579 partidos)  
-Goles esperados: KravaRK 2.48 · curuza 2.86  
-Ganador: KravaRK 31% · empate 22% · curuza 48%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap curuza: −1.5 31% · −2.5 17%  
-🔎 **Claves**  
-• Forma: KravaRK ➖❌➖❌❌ | curuza ❌➖✅✅✅  
-• Partidos: KravaRK 524 | curuza 961  
-• Liga: World Cup A  
-• Unibet: 1 1.96 · X 4.90 · 2 2.33 (sin margen 45%/18%/38%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.33 (+11%) · Paf España 2.33 (+11%)  
+Actualizado 22/11/2026 00:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Simaponika vs kkikus — 22/11 · 00:41
 
@@ -77,4 +39,23 @@ Hándicap hrk: −1.5 29% · −2.5 17%
 • Liga: World Cup A  
 • Unibet: 1 3.20 · X 4.00 · 2 1.73 (sin margen 27%/22%/51%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.20 (+11%) · Paf España 3.20 (+11%)  
+
+## kkikus vs Nightxx — 22/11 · 00:53
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **8.00** (Unibet) · prob 14% vs casas 11% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.599 partidos)  
+Goles esperados: kkikus 2.23 · Nightxx 4.11  
+Ganador: kkikus 12% · empate 14% · Nightxx 73%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap Nightxx: −1.5 55% · −2.5 39%  
+🔎 **Claves**  
+• Forma: kkikus ✅❌❌➖✅ | Nightxx ➖✅✅✅✅  
+• Partidos: kkikus 1172 | Nightxx 1084  
+• Liga: Serie A  
+• Unibet: 1 5.60 · X 8.00 · 2 1.19 (sin margen 16%/11%/73%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.00 (+14%) · Paf España 8.00 (+14%)  
 
