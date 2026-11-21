@@ -1071,8 +1071,6 @@ id,date,event,home,away,hs,as,res
 401920349,2026-11-20T03:00Z,Sacramento State Hornets at Stanford Cardinal,Stanford Cardinal,Sacramento State Hornets,78,65,1.0
 401918056,2026-11-20T03:00Z,East Texas A&M Lions at California Golden Bears,California Golden Bears,East Texas A&M Lions,86,54,1.0
 401917536,2026-11-20T03:30Z,VCU Rams at Santa Clara Broncos,Santa Clara Broncos,VCU Rams,77,83,0.0
-401921691,2026-11-21T02:30Z,Seton Hall Pirates at NC State Wolfpack,NC State Wolfpack,Seton Hall Pirates,81,87,0.0
-401925664,2026-11-21T03:00Z,Alabama State Hornets at Fresno State Bulldogs,Fresno State Bulldogs,Alabama State Hornets,80,68,1.0
 401920427,2026-11-21T00:00Z,Loyola Maryland Greyhounds at Virginia Cavaliers,Virginia Cavaliers,Loyola Maryland Greyhounds,103,61,1.0
 401913529,2026-11-21T02:00Z,Eastern Illinois Panthers at Illinois Fighting Illini,Illinois Fighting Illini,Eastern Illinois Panthers,114,52,1.0
 401906852,2026-11-21T00:00Z,Coastal Carolina Chanticleers at Tennessee Volunteers,Tennessee Volunteers,Coastal Carolina Chanticleers,78,51,1.0
@@ -1129,3 +1127,5 @@ id,date,event,home,away,hs,as,res
 401928795,2026-11-21T02:00Z,Sam Houston Bearkats at Boise State Broncos,Boise State Broncos,Sam Houston Bearkats,69,83,0.0
 401920137,2026-11-21T02:00Z,Cal State Bakersfield Roadrunners at Idaho Vandals,Idaho Vandals,Cal State Bakersfield Roadrunners,84,81,1.0
 401912710,2026-11-21T02:00Z,Marshall Thundering Herd at North Carolina Tar Heels,North Carolina Tar Heels,Marshall Thundering Herd,88,72,1.0
+401921691,2026-11-21T02:30Z,Seton Hall Pirates at NC State Wolfpack,NC State Wolfpack,Seton Hall Pirates,81,87,0.0
+401925664,2026-11-21T03:00Z,Alabama State Hornets at Fresno State Bulldogs,Fresno State Bulldogs,Alabama State Hornets,80,68,1.0

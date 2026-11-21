@@ -1255,10 +1255,7 @@
   "cbb|2026-11-21|Middle Tennessee Blue Raiders|Indiana State Sycamores",
   "cbb|2026-11-21|Indiana State Sycamores|Middle Tennessee Blue Raiders",
   "cbb|2026-11-22|Stephen F. Austin Lumberjacks|Temple Owls",
-  "fc|2382319",
-  "fc|2382323",
-  "fc|2382401",
-  "fc|2382920",
+  "cbb|2026-11-21|Utah Valley Wolverines|Southern Illinois Salukis",
   "fc|2382570",
   "fc|2382921",
   "fc|2382407",
@@ -2255,11 +2252,14 @@
   "fc|2392137",
   "fc|2392253",
   "fc|2392138",
-  "cbb|2026-11-21|Utah Valley Wolverines|Southern Illinois Salukis",
   "cs2|134777",
   "fc|2391917",
   "fc|2389322",
-  "fc|2392140"
+  "fc|2392140",
+  "cbb|2026-11-21|East Carolina Pirates|Southern Illinois Salukis",
+  "fc|2391528",
+  "fc|2390866",
+  "fc|2390867"
  ],
  "signals": [
   {
@@ -4220,7 +4220,11 @@
    "version": "3bc0f40",
    "bajas": "Wyoming Cowboys: sin bajas; New Mexico Lobos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "17-24",
+   "close_p": 0.5022,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4241,7 +4245,11 @@
    "version": "3bc0f40",
    "bajas": "Wyoming Cowboys: sin bajas; New Mexico Lobos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "17-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -4261,7 +4269,11 @@
    "version": "3bc0f40",
    "bajas": "Wyoming Cowboys: sin bajas; New Mexico Lobos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-24",
+   "close_p": 0.2236,
+   "logged": true
   },
   {
    "market": "t1",
@@ -4661,80 +4673,6 @@
    "score": "0-2",
    "result": true,
    "close_p": 0.7855,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "hotShot",
-   "odds": 2.63,
-   "book": "Unibet",
-   "implied": 0.328,
-   "edge": 0.313,
-   "sin_stake": true,
-   "p": 0.499,
-   "key": "fc|2384037",
-   "match": "hotShot vs OG",
-   "start": "2026-11-18T05:26:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hotShot vs OG (Serie A): goles esperados 2.56-2.13, 1X2 50%/22%/29%. Sin cuotas de casa.",
-   "captured": "2026-11-18T05:23",
-   "version": "4670813",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 10.0,
-   "book": "Unibet",
-   "implied": 0.088,
-   "edge": 0.137,
-   "sin_stake": true,
-   "p": 0.114,
-   "key": "fc|2384593",
-   "match": "Kavviro vs kkikus",
-   "start": "2026-11-18T05:23:00+00:00",
-   "league": "🎮⚽ FC 27 · Club World Cup",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kavviro vs kkikus (Club World Cup): goles esperados 3.62-1.35, 1X2 82%/11%/7%. Sin cuotas de casa.",
-   "captured": "2026-11-18T05:23",
-   "version": "4670813",
-   "bajas": "",
-   "considered": true,
-   "score": "1-0",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Pavlinho19",
-   "odds": 1.76,
-   "book": "Unibet",
-   "implied": 0.496,
-   "edge": 0.076,
-   "sin_stake": true,
-   "p": 0.611,
-   "key": "fc|2386717",
-   "match": "Pavlinho19 vs Totti",
-   "start": "2026-11-18T05:42:00+00:00",
-   "league": "🎮⚽ FC 27 · Bundesliga",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Pavlinho19 vs Totti (Bundesliga): goles esperados 3.10-2.09, 1X2 61%/18%/21%. Sin cuotas de casa.",
-   "captured": "2026-11-18T05:23",
-   "version": "4670813",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -46194,7 +46132,11 @@
    "version": "fa2f87a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "t2",
@@ -47883,7 +47825,11 @@
    "version": "7a78cc8",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -47955,26 +47901,16 @@
    "start": "2026-11-21T05:30:00+00:00",
    "league": "🎮⚽ FC 27 · Bundesliga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.660 partidos)",
-    "Goles esperados: Tesla 3.55 · Ganger_29 2.87",
-    "Ganador: Tesla 53% · empate 18% · Ganger_29 29%",
-    "Total: más de 6.5 goles 46% · menos 54%",
-    "Hándicap Tesla: −1.5 37% · −2.5 23%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tesla ❌✅➖❌➖ | Ganger_29 ✅❌✅✅➖",
-    "• Partidos: Tesla 1225 | Ganger_29 1018",
-    "• Liga: Bundesliga",
-    "• Unibet: 1 1.67 · X 3.65 · 2 3.70 (sin margen 52%/24%/24%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.70 (+6%) · Paf España 3.70 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle Tesla vs Ganger_29 (Bundesliga): goles esperados 3.55-2.87, 1X2 53%/18%/29%. Sin cuotas de casa.",
    "captured": "2026-11-21T05:17",
    "version": "231c10b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   }
  ],
  "bank": {

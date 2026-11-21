@@ -75710,3 +75710,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2389323,262602,Roma,Napoli,,
 2392239,262602,Napoli,Bologna,,
 2392240,262602,Roma,Juventus,,
+2390687,262672,Ghana,Denmark,0,1
+2390688,262672,Denmark,USA,0,2
+2390690,262672,Mexico,Denmark,0,3
+2390691,262672,USA,Ghana,1,2
+2390692,262672,Ghana,Mexico,0,2
+2390695,262672,Mexico,USA,3,1
+2390697,262672,Denmark,Ghana,,
+2390698,262672,USA,Denmark,,
+2390700,262672,Denmark,Mexico,,
+2390701,262672,Ghana,USA,,
+2390702,262672,Mexico,Ghana,,
+2390705,262672,USA,Mexico,,
+2392137,262733,Arsenal,Liverpool,1,1
+2392138,262733,Man City,Chelsea,2,1
+2392139,262733,Man City,Arsenal,3,1
+2392140,262733,Chelsea,Liverpool,4,2
+2392141,262733,Liverpool,Man City,3,2
+2392142,262733,Chelsea,Arsenal,2,1
+2392143,262733,Arsenal,Liverpool,,
+2392144,262733,Man City,Chelsea,,
+2392145,262733,Man City,Arsenal,,
+2391818,262733,Chelsea,Liverpool,,
+2392146,262733,Liverpool,Man City,,
+2392147,262733,Chelsea,Arsenal,,
+2392148,262733,Arsenal,Liverpool,,
+2392149,262733,Man City,Chelsea,,
+2392150,262733,Man City,Arsenal,,
+2392151,262733,Chelsea,Liverpool,,
+2392152,262733,Liverpool,Man City,,
+2392153,262733,Chelsea,Arsenal,,
