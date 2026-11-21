@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 07:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gamba Osaka vs Okayama — 21/11 · 08:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Okayama** @ **3.35** (Bet365) · prob 29% vs casas 29% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.23)  
-1 47% · X 26% · 2 27%  
-1X 73% · X2 53% · 12 74%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Gamba Osaka ➖✅➖➖❌ | Okayama ❌✅❌❌➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Gamba Osaka: sin bajas; Okayama: sin bajas  
-• Favorito de las casas: Gamba Osaka @ 2.18  
+Actualizado 21/11/2026 08:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Genclerbirligi vs Gaziantep — 21/11 · 11:30
 

@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 07:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 08:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Edwardson vs MeLToSik — 21/11 · 07:48
+## Artrom vs Jekunam — 21/11 · 08:24
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **2.63** (Unibet) · prob 43% vs casas 33% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.50** (Unibet) · prob 25% vs casas 20% · ventaja +11%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.727 partidos)  
-Goles esperados: Edwardson 1.96 · MeLToSik 2.22  
-Ganador: Edwardson 32% · empate 25% · MeLToSik 43%  
-Total: más de 4.5 goles 41% · menos 59%  
-Hándicap MeLToSik: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 75.758 partidos)  
+Goles esperados: Artrom 1.72 · Jekunam 2.28  
+Ganador: Artrom 24% · empate 25% · Jekunam 52%  
+Total: más de 3.5 goles 57% · menos 43%  
+Hándicap Jekunam: −1.5 31% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Edwardson ❌❌✅❌➖ | MeLToSik ✅✅❌❌➖  
-• Partidos: Edwardson 1382 | MeLToSik 1384  
+• Forma: Artrom ✅➖✅❌❌ | Jekunam ➖➖❌❌➖  
+• Partidos: Artrom 687 | Jekunam 1277  
 • Liga: Europa League  
-• Unibet: 1 2.55 · X 2.60 · 2 2.63 (sin margen 34%/33%/33%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.63 (+12%) · Paf España 2.63 (+12%)  
+• Unibet: 1 3.15 · X 4.50 · 2 1.66 (sin margen 28%/19%/53%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+11%) · Paf España 4.50 (+11%)  
 
-## w1nkos vs Tesla — 21/11 · 07:54
+## zoyir vs Frantsuz — 21/11 · 08:24
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana w1nkos** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **1.96** (Unibet) · prob 54% vs casas 44% · ventaja +5%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.727 partidos)  
-Goles esperados: w1nkos 3.33 · Tesla 3.89  
-Ganador: w1nkos 33% · empate 17% · Tesla 50%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Tesla: −1.5 36% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 75.758 partidos)  
+Goles esperados: zoyir 4.24 · Frantsuz 3.56  
+Ganador: zoyir 54% · empate 15% · Frantsuz 31%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap zoyir: −1.5 38% · −2.5 25%  
 🔎 **Claves**  
-• Forma: w1nkos ❌✅✅❌✅ | Tesla ✅✅❌✅✅  
-• Partidos: w1nkos 1313 | Tesla 1230  
-• Liga: Bundesliga  
-• Unibet: 1 3.60 · X 4.10 · 2 1.61 (sin margen 24%/21%/54%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+19%) · Paf España 3.60 (+19%)  
-
-## cl1vlind vs v1nn — 21/11 · 07:57
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana v1nn** @ **2.28** (Unibet) · prob 55% vs casas 38% · ventaja +25%
-
-- ✅ Valor: ventaja +25% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.727 partidos)  
-Goles esperados: cl1vlind 2.84 · v1nn 3.67  
-Ganador: cl1vlind 27% · empate 18% · v1nn 55%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap v1nn: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: cl1vlind ❌✅❌✅✅ | v1nn ✅➖✅✅✅  
-• Partidos: cl1vlind 772 | v1nn 767  
-• Liga: World Cup A  
-• Unibet: 1 2.23 · X 3.80 · 2 2.28 (sin margen 39%/23%/38%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.28 (+25%) · Paf España 2.28 (+25%)  
+• Forma: zoyir ✅✅✅➖✅ | Frantsuz ❌❌➖➖✅  
+• Partidos: zoyir 654 | Frantsuz 764  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.96 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.96 (+5%) · Paf España 1.96 (+5%)  
 
