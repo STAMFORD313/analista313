@@ -3600,5 +3600,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261121012457808393",
+  "creada": "2026-11-21 01:24:57.808434+00:00",
+  "titulo": "Barrido · Combinada cuota 8.4",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-21 11:00:00+00:00",
+    "home": "Sparta Katowice",
+    "away": "Zaglebie Lubin II",
+    "txt": "Gana Sparta Katowice",
+    "odds": 1.72,
+    "p": 0.6472
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-21 14:00:00+00:00",
+    "home": "Gelo",
+    "away": "JUMBO",
+    "txt": "Gana Gelo",
+    "odds": 2.43,
+    "p": 0.4249484224965706
+   },
+   {
+    "src": "espn:nhl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-22 00:00:00+00:00",
+    "home": "Toronto Maple Leafs",
+    "away": "Columbus Blue Jackets",
+    "txt": "Gana Columbus Blue Jackets",
+    "odds": 2.02,
+    "p": 0.51018
+   }
+  ],
+  "odds": 8.44,
+  "p": 0.1403130805017152,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
