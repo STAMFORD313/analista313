@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 11:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 12:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Hannover vs Greuther Furth — 21/11 · 13:00
 

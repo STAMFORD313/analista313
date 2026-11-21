@@ -75953,14 +75953,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2392168,262735,Paris,Atleti,,
 2392169,262735,Atleti,Liverpool,,
 2392170,262735,Paris,Bayern Munchen,,
-2391957,262747,France,England,3,1
-2391958,262747,Spain,Argentina,1,1
-2391959,262747,Argentina,France,1,1
-2391960,262747,England,Brazil,1,3
-2391961,262747,Brazil,Argentina,1,0
-2391962,262747,France,Spain,1,5
-2391963,262747,Spain,Brazil,2,3
-2391964,262747,Argentina,England,2,0
+2391957,262747,France,England,3.0,1.0
+2391958,262747,Spain,Argentina,1.0,1.0
+2391959,262747,Argentina,France,1.0,1.0
+2391960,262747,England,Brazil,1.0,3.0
+2391961,262747,Brazil,Argentina,1.0,0.0
+2391962,262747,France,Spain,1.0,5.0
+2391963,262747,Spain,Brazil,2.0,3.0
+2391964,262747,Argentina,England,2.0,0.0
 2391965,262747,England,Spain,,
 2391966,262747,Brazil,France,,
 2391967,262747,England,France,,
@@ -75973,3 +75973,81 @@ id,tournament_id,club1,club2,ht1,ht2
 2391974,262747,England,Argentina,,
 2391975,262747,Spain,England,,
 2391976,262747,France,Brazil,,
+2392292,262679,Roma,Fenerbahce,1,2
+2392293,262679,Porto,Salzburg,2,3
+2392294,262679,Porto,Roma,2,1
+2392295,262679,Salzburg,Fenerbahce,1,2
+2392296,262679,Fenerbahce,Porto,2,1
+2392297,262679,Salzburg,Roma,1,1
+2392298,262679,Roma,Fenerbahce,1,1
+2392299,262679,Porto,Salzburg,0,3
+2392300,262679,Porto,Roma,3,0
+2390757,262679,Salzburg,Fenerbahce,0,2
+2392301,262679,Fenerbahce,Porto,1,0
+2392302,262679,Salzburg,Roma,0,1
+2392303,262679,Roma,Fenerbahce,,
+2392305,262679,Porto,Salzburg,,
+2392307,262679,Porto,Roma,,
+2392309,262679,Salzburg,Fenerbahce,,
+2392311,262679,Fenerbahce,Porto,,
+2392313,262679,Salzburg,Roma,,
+2390826,262688,Netherlands,Germany,0,0
+2390827,262688,Morocco,Belgium,2,1
+2390828,262688,Belgium,Netherlands,1,2
+2390829,262688,Germany,Portugal,0,1
+2390830,262688,Portugal,Belgium,1,1
+2390831,262688,Netherlands,Morocco,1,2
+2390832,262688,Morocco,Portugal,3,2
+2390833,262688,Belgium,Germany,4,1
+2390834,262688,Germany,Morocco,2,4
+2390835,262688,Portugal,Netherlands,0,0
+2390836,262688,Germany,Netherlands,0,0
+2390837,262688,Belgium,Morocco,0,0
+2390838,262688,Netherlands,Belgium,,
+2390839,262688,Portugal,Germany,,
+2390840,262688,Belgium,Portugal,,
+2390841,262688,Morocco,Netherlands,,
+2390842,262688,Portugal,Morocco,,
+2390843,262688,Germany,Belgium,,
+2390844,262688,Morocco,Germany,,
+2390845,262688,Netherlands,Portugal,,
+2390906,262703,Stuttgart,Leipzig,2,0
+2390907,262703,Frankfurt,Bayern Munchen,1,2
+2390908,262703,Bayern Munchen,Stuttgart,0,2
+2390909,262703,Leipzig,B Dortmund,1,2
+2390910,262703,B Dortmund,Bayern Munchen,0,1
+2390911,262703,Stuttgart,Frankfurt,1,0
+2390912,262703,Frankfurt,B Dortmund,0,2
+2390913,262703,Bayern Munchen,Leipzig,0,2
+2390914,262703,Leipzig,Frankfurt,,
+2390915,262703,B Dortmund,Stuttgart,,
+2390916,262703,Leipzig,Stuttgart,,
+2390917,262703,Bayern Munchen,Frankfurt,,
+2390918,262703,Stuttgart,Bayern Munchen,,
+2390919,262703,B Dortmund,Leipzig,,
+2390920,262703,Bayern Munchen,B Dortmund,,
+2390921,262703,Frankfurt,Stuttgart,,
+2390922,262703,B Dortmund,Frankfurt,,
+2390923,262703,Leipzig,Bayern Munchen,,
+2390924,262703,Frankfurt,Leipzig,,
+2390925,262703,Stuttgart,B Dortmund,,
+2391567,262726,Chengdu Rongcheng,Shanghai Shenhua,1,5
+2391568,262726,Shandong Taishan,Shanghai Port,1,2
+2391569,262726,Shanghai Port,Chengdu Rongcheng,2,1
+2391570,262726,Shanghai Shenhua,Beijing Guoan,3,0
+2391571,262726,Beijing Guoan,Shanghai Port,1,1
+2391572,262726,Chengdu Rongcheng,Shandong Taishan,1,1
+2391573,262726,Shandong Taishan,Beijing Guoan,3,1
+2391574,262726,Shanghai Port,Shanghai Shenhua,4,1
+2391575,262726,Shanghai Shenhua,Shandong Taishan,1,1
+2391576,262726,Beijing Guoan,Chengdu Rongcheng,1,1
+2391577,262726,Shanghai Shenhua,Chengdu Rongcheng,,
+2391578,262726,Shanghai Port,Shandong Taishan,,
+2391579,262726,Chengdu Rongcheng,Shanghai Port,,
+2391580,262726,Beijing Guoan,Shanghai Shenhua,,
+2391581,262726,Shanghai Port,Beijing Guoan,,
+2391582,262726,Shandong Taishan,Chengdu Rongcheng,,
+2391583,262726,Beijing Guoan,Shandong Taishan,,
+2391584,262726,Shanghai Shenhua,Shanghai Port,,
+2391585,262726,Shandong Taishan,Shanghai Shenhua,,
+2391586,262726,Chengdu Rongcheng,Beijing Guoan,,
