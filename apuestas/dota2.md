@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 21/11/2026 14:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 15:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Power Rangers vs Team Synapse — 21/11 · 17:00
 

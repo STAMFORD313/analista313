@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 14:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gelo vs JUMBO — 21/11 · 15:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Gelo** @ **2.43** (Thunderpick) · prob 44% vs casas 38% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.135 partidos)  
-Mapa: Gelo 50% · Serie BO1: Gelo 50% - 50% JUMBO  
-Casas: Gelo 38% · JUMBO 62%  
-🔎 **Claves**  
-• Elo: Gelo 1463 (10 series) | JUMBO 1462 (108 series)  
-• Forma: Gelo ✅❌✅❌❌ | JUMBO ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 21/11/2026 15:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## INFINITE vs BAKS — 21/11 · 16:00
 
