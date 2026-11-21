@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 21/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 02:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LGD Gaming vs 1w Team — 21/11 · 12:00
 

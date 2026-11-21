@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Puebla vs Atl. San Luis — 21/11 · 02:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Puebla** @ **2.60** (Bet365) · prob 38% vs casas 38% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.67)  
-1 36% · X 26% · 2 38%  
-1X 62% · X2 64% · 12 74%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Puebla ➖❌❌❌✅ | Atl. San Luis ➖✅✅❌❌  
-• H2H: 16 desde 2012: 6V-2E-8D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Puebla: sin bajas; Atl. San Luis: 0 fuera, 1 duda  
-• Favorito de las casas: Puebla @ 2.60  
+Actualizado 21/11/2026 02:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Juarez vs Atlas — 21/11 · 04:00
 
