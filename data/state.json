@@ -1,45 +1,5 @@
 {
  "analyzed": [
-  "nba|2026-11-13|Philadelphia 76ers|Toronto Raptors",
-  "nba|2026-11-13|Washington Wizards|Detroit Pistons",
-  "nba|2026-11-13|Minnesota Timberwolves|Dallas Mavericks",
-  "nba|2026-11-13|Phoenix Suns|Charlotte Hornets",
-  "nfl|2026-11-13|New York Giants|Washington Commanders",
-  "nhl|2026-11-13|Boston Bruins|Montreal Canadiens",
-  "nhl|2026-11-13|Toronto Maple Leafs|Minnesota Wild",
-  "nhl|2026-11-13|Ottawa Senators|Colorado Avalanche",
-  "nhl|2026-11-13|New Jersey Devils|Washington Capitals",
-  "nhl|2026-11-13|Columbus Blue Jackets|Tampa Bay Lightning",
-  "nhl|2026-11-13|Florida Panthers|Detroit Red Wings",
-  "nhl|2026-11-13|Chicago Blackhawks|Buffalo Sabres",
-  "nhl|2026-11-13|Dallas Stars|Winnipeg Jets",
-  "nhl|2026-11-13|Utah Mammoth|St. Louis Blues",
-  "nhl|2026-11-13|Los Angeles Kings|New York Islanders",
-  "cfb|2026-11-13|South Florida Bulls|Memphis Tigers",
-  "cfb|2026-11-13|UL Monroe Warhawks|Louisiana Ragin' Cajuns",
-  "cbb|2026-11-13|Coastal Carolina Chanticleers|Virginia Lynchburg Dragons",
-  "cbb|2026-11-13|Purdue Fort Wayne Mastodons|Western Michigan Broncos",
-  "cbb|2026-11-13|Kennesaw State Owls|LaGrange Panthers",
-  "cbb|2026-11-13|Sacred Heart Pioneers|Central Connecticut Blue Devils",
-  "cbb|2026-11-13|Quinnipiac Bobcats|Monmouth Hawks",
-  "cbb|2026-11-13|West Virginia Mountaineers|Mercer Bears",
-  "cbb|2026-11-13|Towson Tigers|Loyola Maryland Greyhounds",
-  "cbb|2026-11-13|High Point Panthers|Southern Utah Thunderbirds",
-  "cbb|2026-11-13|Western Illinois Leathernecks|Cal State Bakersfield Roadrunners",
-  "cbb|2026-11-13|Rhode Island Rams|Maryland Eastern Shore Hawks",
-  "cbb|2026-11-13|Brown Bears|Canisius Golden Griffins",
-  "cbb|2026-11-13|Bowling Green Falcons|Niagara Purple Eagles",
-  "cbb|2026-11-13|Alabama A&M Bulldogs|West Florida Argonauts",
-  "cbb|2026-11-13|Texas A&M Aggies|Oklahoma State Cowboys",
-  "cbb|2026-11-13|South Alabama Jaguars|Loyola Marymount Lions",
-  "cbb|2026-11-13|Minnesota Golden Gophers|Southern Jaguars",
-  "cbb|2026-11-13|Southern Illinois Salukis|Richmond Spiders",
-  "cbb|2026-11-13|BYU Cougars|Montana State Bobcats",
-  "cbb|2026-11-13|Cal State Fullerton Titans|Lincoln (CA) Oaklanders",
-  "cbb|2026-11-13|UTEP Miners|New Mexico State Aggies",
-  "cbb|2026-11-13|Cal State Northridge Matadors|Grace University Lancers",
-  "cbb|2026-11-13|San José State Spartans|UC Riverside Highlanders",
-  "cbb|2026-11-13|Howard Bison|Stetson Hatters",
   "nba|2026-11-14|Indiana Pacers|New York Knicks",
   "nba|2026-11-14|Orlando Magic|Milwaukee Bucks",
   "nba|2026-11-14|Miami Heat|Cleveland Cavaliers",
@@ -54,14 +14,6 @@
   "cfb|2026-11-14|Pittsburgh Panthers|Florida State Seminoles",
   "cfb|2026-11-14|UCLA Bruins|Illinois Fighting Illini",
   "cfb|2026-11-14|Colorado Buffaloes|Houston Cougars",
-  "cbb|2026-11-13|Green Bay Phoenix|Viterbo V-Hawks",
-  "cbb|2026-11-13|VMI Keydets|Mary Baldwin Fighting Squirrels",
-  "cbb|2026-11-13|Cleveland State Vikings|West Florida Argonauts",
-  "cbb|2026-11-13|Miami Hurricanes|North Alabama Lions",
-  "cbb|2026-11-13|Florida State Seminoles|Texas A&M-Corpus Christi Islanders",
-  "cbb|2026-11-13|Rutgers Scarlet Knights|Bryant Bulldogs",
-  "cbb|2026-11-13|Clemson Tigers|Georgetown Hoyas",
-  "cbb|2026-11-13|Butler Bulldogs|Pittsburgh Panthers",
   "cbb|2026-11-14|Florida Gators|Merrimack Warriors",
   "cbb|2026-11-14|Illinois Fighting Illini|Sam Houston Bearkats",
   "cbb|2026-11-14|Michigan State Spartans|Northern Iowa Panthers",
@@ -115,9 +67,6 @@
   "cbb|2026-11-14|Portland Pilots|East Texas A&M Lions",
   "cbb|2026-11-14|Saint Mary's Gaels|UIC Flames",
   "cbb|2026-11-14|California Baptist Lancers|Arkansas-Pine Bluff Golden Lions",
-  "wta|2026-11-13|Aryna Sabalenka|Elina Svitolina",
-  "wta|2026-11-13|Mirra Andreeva|Karolina Muchova",
-  "cbb|2026-11-13|Cal State Northridge Matadors|Grace (CA) Talons",
   "nba|2026-11-15|New Orleans Pelicans|Denver Nuggets",
   "nba|2026-11-15|Cleveland Cavaliers|Dallas Mavericks",
   "nba|2026-11-15|Miami Heat|Detroit Pistons",
@@ -284,11 +233,7 @@
   "atp|2026-11-16|Ben Shelton|Rafael Jodar",
   "atp|2026-11-16|Arthur Fils|Rafael Jodar",
   "atp|2026-11-16|Carlos Alcaraz|Daniil Medvedev",
-  "wta|2026-11-13|Laura Samson|Elizabeth Mandlik",
-  "atp|2026-11-13|Alejandro Tabilo|Thiago Agustin Tirante",
   "cbb|2026-11-14|VMI Keydets|Mary Baldwin Fighting Squirrels",
-  "wta|2026-11-13|Polona Hercog|Bianca Andreescu",
-  "atp|2026-11-13|Taylor Fritz|Lorenzo Musetti",
   "nba|2026-11-15|Philadelphia 76ers|Indiana Pacers",
   "nba|2026-11-15|Phoenix Suns|Los Angeles Lakers",
   "nba|2026-11-15|LA Clippers|Charlotte Hornets",
@@ -377,7 +322,6 @@
   "BRA|2026-11-14|Mirassol|Atletico-MG",
   "MEX|2026-11-14|Queretaro|Monterrey",
   "BRA|2026-11-14|Chapecoense-SC|Vasco",
-  "SP2|2026-11-13|Leganes|Burgos",
   "SP2|2026-11-14|Valladolid|Castellon",
   "SP2|2026-11-14|Sociedad B|Sp Gijon",
   "SP2|2026-11-14|Almeria|Andorra",
@@ -389,7 +333,6 @@
   "SP2|2026-11-15|Eldense|Sabadell",
   "atp|2026-11-14|Taylor Fritz|Thiago Agustin Tirante",
   "wta|2026-11-14|Bianca Andreescu|Elizabeth Mandlik",
-  "wta|2026-11-13|Mirra Andreeva|Diana Shnaider",
   "wta|2026-11-14|Linda Noskova|Elina Svitolina",
   "SP2|2026-11-16|Albacete|Celta B",
   "nba|2026-11-17|Boston Celtics|Orlando Magic",
@@ -1232,9 +1175,6 @@
   "atp|2026-11-21|Alexander Zverev|Daniil Medvedev",
   "cbb|2026-11-21|Incarnate Word Cardinals|Central Baptist Mustangs",
   "cbb|2026-11-21|Mercyhurst Lakers|Western Illinois Leathernecks",
-  "fc|2380888",
-  "fc|2381606",
-  "fc|2382010",
   "cs2|133481",
   "cs2|134009",
   "dota2|134145",
@@ -2234,7 +2174,90 @@
   "fc|2390430",
   "fc|2389277",
   "fc|2390431",
-  "fc|2390173"
+  "fc|2390173",
+  "ARG|2026-11-23|Instituto|Huracan",
+  "MEX|2026-11-23|Queretaro|Necaxa",
+  "USA|2026-11-23|Vancouver Whitecaps|Real Salt Lake",
+  "G1|2026-11-23|Asteras Tripolis|Aris",
+  "T1|2026-11-23|Buyuksehyr|Corum",
+  "DNK|2026-11-23|Brondby|Midtjylland",
+  "POL|2026-11-23|Wieczysta Krakow|Motor Lublin",
+  "SWE|2026-11-23|Hammarby|Goteborg",
+  "SWE|2026-11-23|Orgryte|Kalmar",
+  "SP2|2026-11-23|Ceuta|Almeria",
+  "F2|2026-11-23|Nantes|Grenoble",
+  "F2|2026-11-23|Sochaux|Dunkerque",
+  "I1|2026-11-23|Monza|Fiorentina",
+  "E0|2026-11-23|Brentford|Everton",
+  "SP1|2026-11-23|Levante|Elche",
+  "ARG|2026-11-23|Gimnasia L.P.|Newells Old Boys",
+  "BRA|2026-11-23|Internacional|Vitoria",
+  "BRA|2026-11-23|Botafogo RJ|Sao Paulo",
+  "nba|2026-11-24|Charlotte Hornets|Memphis Grizzlies",
+  "nba|2026-11-24|Philadelphia 76ers|Portland Trail Blazers",
+  "nba|2026-11-24|Indiana Pacers|Oklahoma City Thunder",
+  "nba|2026-11-24|Toronto Raptors|Milwaukee Bucks",
+  "nba|2026-11-24|Minnesota Timberwolves|Brooklyn Nets",
+  "nba|2026-11-24|Chicago Bulls|Cleveland Cavaliers",
+  "nba|2026-11-24|New Orleans Pelicans|Phoenix Suns",
+  "nba|2026-11-24|Houston Rockets|LA Clippers",
+  "nba|2026-11-24|Los Angeles Lakers|Utah Jazz",
+  "nba|2026-11-24|Sacramento Kings|San Antonio Spurs",
+  "nfl|2026-11-24|Washington Commanders|Cincinnati Bengals",
+  "nhl|2026-11-24|New Jersey Devils|Columbus Blue Jackets",
+  "nhl|2026-11-24|Montreal Canadiens|Los Angeles Kings",
+  "nhl|2026-11-24|Ottawa Senators|Calgary Flames",
+  "nhl|2026-11-24|New York Islanders|Toronto Maple Leafs",
+  "nhl|2026-11-24|Winnipeg Jets|Utah Mammoth",
+  "nhl|2026-11-24|Seattle Kraken|Anaheim Ducks",
+  "nhl|2026-11-24|San Jose Sharks|Minnesota Wild",
+  "cbb|2026-11-23|Grambling Tigers|Ecclesia Royals",
+  "cbb|2026-11-23|App State Mountaineers|St. Bonaventure Bonnies",
+  "cbb|2026-11-23|Davidson Wildcats|Northern Iowa Panthers",
+  "cbb|2026-11-23|Eastern Illinois Panthers|IU South Bend Titans",
+  "cbb|2026-11-23|Florida International Panthers|Long Beach State Beach",
+  "cbb|2026-11-23|Wright State Raiders|Akron Zips",
+  "cbb|2026-11-23|Florida Gulf Coast Eagles|Charlotte 49ers",
+  "cbb|2026-11-23|Oregon State Beavers|Tulsa Golden Hurricane",
+  "cbb|2026-11-23|Clemson Tigers|Ole Miss Rebels",
+  "cbb|2026-11-23|Southern Utah Thunderbirds|Arkansas State Red Wolves",
+  "cbb|2026-11-23|IU Indianapolis Jaguars|William & Mary Tribe",
+  "cbb|2026-11-23|Belmont Bruins|Yale Bulldogs",
+  "cbb|2026-11-23|Georgia State Panthers|Tulane Green Wave",
+  "cbb|2026-11-23|San Francisco Dons|Nevada Wolf Pack",
+  "cbb|2026-11-23|BYU Cougars|Washington Huskies",
+  "cbb|2026-11-23|Youngstown State Penguins|Maryland Eastern Shore Hawks",
+  "cbb|2026-11-23|Buffalo Bulls|RIT Tigers",
+  "cbb|2026-11-24|Howard Bison|Notre Dame (MD) Gators",
+  "cbb|2026-11-24|Ball State Cardinals|Spalding Pelicans",
+  "cbb|2026-11-24|East Tennessee State Buccaneers|Kentucky State Thorobreds",
+  "cbb|2026-11-24|La Salle Explorers|Penn State Brandywine Lions",
+  "cbb|2026-11-24|South Carolina State Bulldogs|North Carolina A&T Aggies",
+  "cbb|2026-11-24|Northern Kentucky Norse|Georgia Southern Eagles",
+  "cbb|2026-11-24|Le Moyne Dolphins|Mansfield Mountaineers",
+  "cbb|2026-11-24|Iona Gaels|Fairleigh Dickinson Knights",
+  "cbb|2026-11-24|North Florida Ospreys|Central Arkansas Bears",
+  "cbb|2026-11-24|Santa Clara Broncos|Illinois State Redbirds",
+  "cbb|2026-11-24|North Carolina Central Eagles|Carolina University Bruins",
+  "cbb|2026-11-24|Wichita State Shockers|Texas A&M-Corpus Christi Islanders",
+  "cbb|2026-11-24|Illinois Fighting Illini|Winthrop Eagles",
+  "cbb|2026-11-24|Kansas Jayhawks|Denver Pioneers",
+  "cbb|2026-11-24|North Dakota State Bison|Wisconsin Stout Blue Devils",
+  "cbb|2026-11-24|North Carolina Tar Heels|Monmouth Hawks",
+  "cbb|2026-11-24|Idaho Vandals|Dickinson State Blue Hawks",
+  "cbb|2026-11-24|Montana Grizzlies|Carroll (MT) Fighting Saints",
+  "cbb|2026-11-24|Providence Friars|VCU Rams",
+  "cbb|2026-11-24|Pepperdine Waves|UNC Greensboro Spartans",
+  "cbb|2026-11-24|UNLV Rebels|Eastern Washington Eagles",
+  "cbb|2026-11-24|California Golden Bears|Alabama State Hornets",
+  "cbb|2026-11-24|Arizona Wildcats|Colorado State Rams",
+  "cs2|134797",
+  "cs2|134798",
+  "cs2|133457",
+  "cs2|133875",
+  "fc|2390437",
+  "fc|2390184",
+  "fc|2390183"
  ],
  "signals": [
   {
@@ -3818,31 +3841,6 @@
    "score": "2-1",
    "result": false,
    "close_p": 0.3759,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "hotShot",
-   "odds": 2.38,
-   "book": "Unibet",
-   "implied": 0.363,
-   "edge": 0.152,
-   "sin_stake": true,
-   "p": 0.484,
-   "key": "fc|2383987",
-   "match": "OG vs hotShot",
-   "start": "2026-11-17T23:56:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle OG vs hotShot (World Cup A): goles esperados 2.17-2.55, 1X2 30%/22%/48%. Sin cuotas de casa.",
-   "captured": "2026-11-17T23:50",
-   "version": "a8bd802",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-0",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -20522,7 +20520,12 @@
    "version": "86d565b",
    "bajas": "Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -20543,7 +20546,12 @@
    "version": "86d565b",
    "bajas": "Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -20564,7 +20572,12 @@
    "version": "86d565b",
    "bajas": "Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -20585,7 +20598,12 @@
    "version": "86d565b",
    "bajas": "Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -20606,7 +20624,12 @@
    "version": "86d565b",
    "bajas": "Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -20627,7 +20650,12 @@
    "version": "86d565b",
    "bajas": "Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -20669,7 +20697,12 @@
    "version": "86d565b",
    "bajas": "Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -20690,7 +20723,12 @@
    "version": "86d565b",
    "bajas": "Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -20711,7 +20749,12 @@
    "version": "86d565b",
    "bajas": "Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -20732,7 +20775,12 @@
    "version": "86d565b",
    "bajas": "Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -20753,7 +20801,12 @@
    "version": "86d565b",
    "bajas": "Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -20774,7 +20827,12 @@
    "version": "86d565b",
    "bajas": "Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -20815,7 +20873,12 @@
    "version": "86d565b",
    "bajas": "Annecy: sin bajas; Clermont: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -20836,7 +20899,12 @@
    "version": "86d565b",
    "bajas": "Annecy: sin bajas; Clermont: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -20857,7 +20925,12 @@
    "version": "86d565b",
    "bajas": "Annecy: sin bajas; Clermont: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -20878,7 +20951,12 @@
    "version": "86d565b",
    "bajas": "Annecy: sin bajas; Clermont: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -20899,7 +20977,12 @@
    "version": "86d565b",
    "bajas": "Annecy: sin bajas; Clermont: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -20920,7 +21003,12 @@
    "version": "86d565b",
    "bajas": "Annecy: sin bajas; Clermont: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -20961,7 +21049,12 @@
    "version": "86d565b",
    "bajas": "Guingamp: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -20982,7 +21075,12 @@
    "version": "86d565b",
    "bajas": "Guingamp: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -21003,7 +21101,12 @@
    "version": "86d565b",
    "bajas": "Guingamp: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -21024,7 +21127,12 @@
    "version": "86d565b",
    "bajas": "Guingamp: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -21045,7 +21153,12 @@
    "version": "86d565b",
    "bajas": "Guingamp: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -21066,7 +21179,12 @@
    "version": "86d565b",
    "bajas": "Guingamp: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -21107,7 +21225,12 @@
    "version": "86d565b",
    "bajas": "Metz: sin bajas; Boulogne: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -21128,7 +21251,12 @@
    "version": "86d565b",
    "bajas": "Metz: sin bajas; Boulogne: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -21149,7 +21277,12 @@
    "version": "86d565b",
    "bajas": "Metz: sin bajas; Boulogne: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -21170,7 +21303,12 @@
    "version": "86d565b",
    "bajas": "Metz: sin bajas; Boulogne: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -21191,7 +21329,12 @@
    "version": "86d565b",
    "bajas": "Metz: sin bajas; Boulogne: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -21212,7 +21355,12 @@
    "version": "86d565b",
    "bajas": "Metz: sin bajas; Boulogne: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -21254,7 +21402,12 @@
    "version": "86d565b",
    "bajas": "Nancy: sin bajas; Dijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -21275,7 +21428,12 @@
    "version": "86d565b",
    "bajas": "Nancy: sin bajas; Dijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -21296,7 +21454,12 @@
    "version": "86d565b",
    "bajas": "Nancy: sin bajas; Dijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -21317,7 +21480,12 @@
    "version": "86d565b",
    "bajas": "Nancy: sin bajas; Dijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -21338,7 +21506,12 @@
    "version": "86d565b",
    "bajas": "Nancy: sin bajas; Dijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -21359,7 +21532,12 @@
    "version": "86d565b",
    "bajas": "Nancy: sin bajas; Dijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -21400,7 +21578,12 @@
    "version": "86d565b",
    "bajas": "Red Star: sin bajas; Pau FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -21421,7 +21604,12 @@
    "version": "86d565b",
    "bajas": "Red Star: sin bajas; Pau FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -21442,7 +21630,12 @@
    "version": "86d565b",
    "bajas": "Red Star: sin bajas; Pau FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -21463,7 +21656,12 @@
    "version": "86d565b",
    "bajas": "Red Star: sin bajas; Pau FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -21484,7 +21682,12 @@
    "version": "86d565b",
    "bajas": "Red Star: sin bajas; Pau FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -21505,7 +21708,12 @@
    "version": "86d565b",
    "bajas": "Red Star: sin bajas; Pau FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -21694,7 +21902,12 @@
    "version": "86d565b",
    "bajas": "Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -21715,7 +21928,12 @@
    "version": "86d565b",
    "bajas": "Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -21736,7 +21954,12 @@
    "version": "86d565b",
    "bajas": "Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -21757,7 +21980,12 @@
    "version": "86d565b",
    "bajas": "Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -21778,7 +22006,12 @@
    "version": "86d565b",
    "bajas": "Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -21799,7 +22032,12 @@
    "version": "86d565b",
    "bajas": "Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -21841,7 +22079,12 @@
    "version": "86d565b",
    "bajas": "Andorra: sin bajas; Leganes: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -21862,7 +22105,12 @@
    "version": "86d565b",
    "bajas": "Andorra: sin bajas; Leganes: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -21883,7 +22131,12 @@
    "version": "86d565b",
    "bajas": "Andorra: sin bajas; Leganes: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -21904,7 +22157,12 @@
    "version": "86d565b",
    "bajas": "Andorra: sin bajas; Leganes: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -21925,7 +22183,12 @@
    "version": "86d565b",
    "bajas": "Andorra: sin bajas; Leganes: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -21946,7 +22209,12 @@
    "version": "86d565b",
    "bajas": "Andorra: sin bajas; Leganes: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21987,7 +22255,12 @@
    "version": "86d565b",
    "bajas": "Cercle Brugge: sin bajas; Westerlo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -22008,7 +22281,12 @@
    "version": "86d565b",
    "bajas": "Cercle Brugge: sin bajas; Westerlo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -22029,7 +22307,12 @@
    "version": "86d565b",
    "bajas": "Cercle Brugge: sin bajas; Westerlo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -22050,7 +22333,12 @@
    "version": "86d565b",
    "bajas": "Cercle Brugge: sin bajas; Westerlo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -22071,7 +22359,12 @@
    "version": "86d565b",
    "bajas": "Cercle Brugge: sin bajas; Westerlo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -22092,7 +22385,12 @@
    "version": "86d565b",
    "bajas": "Cercle Brugge: sin bajas; Westerlo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -22134,7 +22432,12 @@
    "version": "86d565b",
    "bajas": "Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -22155,7 +22458,12 @@
    "version": "86d565b",
    "bajas": "Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -22176,7 +22484,12 @@
    "version": "86d565b",
    "bajas": "Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -22197,7 +22510,12 @@
    "version": "86d565b",
    "bajas": "Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -22218,7 +22536,12 @@
    "version": "86d565b",
    "bajas": "Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -22239,7 +22562,12 @@
    "version": "86d565b",
    "bajas": "Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -46807,26 +47135,16 @@
    "start": "2026-11-20T23:56:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.416 partidos)",
-    "Goles esperados: kirman 3.36 · curuza 2.78",
-    "Ganador: kirman 52% · empate 20% · curuza 29%",
-    "Total: más de 6.5 goles 42% · menos 58%",
-    "Hándicap kirman: −1.5 35% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kirman ✅❌✅❌❌ | curuza ✅❌❌✅✅",
-    "• Partidos: kirman 774 | curuza 929",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.53 · X 5.50 · 2 3.35 (sin margen 58%/16%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.50 (+8%) · Paf España 5.50 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle kirman vs curuza (World Cup A): goles esperados 3.36-2.78, 1X2 52%/20%/29%. Sin cuotas de casa.",
    "captured": "2026-11-20T23:23",
    "version": "3edb112",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -46842,20 +47160,6 @@
    "start": "2026-11-21T00:20:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.435 partidos)",
-    "Goles esperados: hrk 2.60 · kirman 2.84",
-    "Ganador: hrk 34% · empate 22% · kirman 44%",
-    "Total: más de 5.5 goles 46% · menos 54%",
-    "Hándicap kirman: −1.5 29% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hrk ✅✅✅❌➖ | kirman ❌✅❌❌✅",
-    "• Partidos: hrk 931 | kirman 775",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.93 · X 4.50 · 2 2.48 (sin margen 45%/19%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.48 (+9%) · Paf España 2.48 (+9%)"
-   ],
    "context": "EA FC Esoccer Battle hrk vs kirman (World Cup A): goles esperados 2.60-2.84, 1X2 34%/22%/44%. Sin cuotas de casa.",
    "captured": "2026-11-20T23:53",
    "version": "8f2e9c0",
@@ -46877,23 +47181,976 @@
    "start": "2026-11-21T00:06:00+00:00",
    "league": "🎮⚽ FC 27 · Argentina Super League 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.435 partidos)",
-    "Goles esperados: Kosta 3.26 · Solya 6.11",
-    "Ganador: Kosta 8% · empate 8% · Solya 83%",
-    "Total: más de 9.5 goles 46% · menos 54%",
-    "Hándicap Solya: −1.5 67% · −2.5 54%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kosta ❌❌➖✅❌ | Solya ✅➖✅✅❌",
-    "• Partidos: Kosta 327 | Solya 386",
-    "• Liga: Argentina Super League 2x6",
-    "• Unibet: 1 4.90 · X 6.00 · 2 1.27 (sin margen 18%/14%/68%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.27 (+6%) · Paf España 1.27 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle Kosta vs Solya (Argentina Super League 2x6): goles esperados 3.26-6.11, 1X2 8%/8%/83%. Sin cuotas de casa.",
    "captured": "2026-11-20T23:53",
    "version": "8f2e9c0",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "3-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "odds": 2.02,
+   "book": "Bet365",
+   "p": 0.464,
+   "implied": 0.464,
+   "edge": -0.064,
+   "key": "ARG|2026-11-23|Instituto|Huracan",
+   "match": "Instituto vs Huracan",
+   "pick": "Instituto",
+   "start": "2026-11-23T01:00:00+00:00",
+   "league": "🇦🇷 Liga Profesional",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.08 - 0.91)",
+    "1 45% · X 28% · 2 27%",
+    "1X 73% · X2 55% · 12 72%",
+    "+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 40%",
+    "Marcadores: 0-0 14% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Instituto ➖✅✅➖➖ | Huracan ❌❌❌❌✅",
+    "• H2H: 4 desde 2023: 2V-1E-1D · 1.8 goles/partido · +2.5 en 25%",
+    "• Bajas: Instituto: sin bajas; Huracan: sin bajas",
+    "• Favorito de las casas: Instituto @ 2.02"
+   ],
+   "context": "Instituto vs Huracan (🇦🇷 Liga Profesional). Modelo Poisson con historial desde 2005 y bajas: 1 45% X 28% 2 27%, +2.5 32%, ambos marcan 40%. Forma Instituto ➖✅✅➖➖, Huracan ❌❌❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 4 desde 2023: 2V-1E-1D · 1.8 goles/partido · +2.5 en 25%. Bajas Instituto: ninguna. Bajas Huracan: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Instituto: sin bajas; Huracan: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 2.02,
+   "book": "Bet365",
+   "p": 0.484,
+   "implied": 0.484,
+   "edge": -0.023,
+   "key": "MEX|2026-11-23|Queretaro|Necaxa",
+   "match": "Queretaro vs Necaxa",
+   "pick": "Queretaro",
+   "start": "2026-11-23T01:10:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.41 - 1.28)",
+    "1 47% · X 26% · 2 27%",
+    "1X 73% · X2 53% · 12 74%",
+    "+1.5 76% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 0-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Queretaro ❌❌❌❌❌ | Necaxa ❌❌➖❌✅",
+    "• H2H: 23 desde 2016: 6V-6E-11D · 2.3 goles/partido · +2.5 en 43%",
+    "• Bajas: Queretaro: sin bajas; Necaxa: sin bajas",
+    "• Favorito de las casas: Queretaro @ 2.02"
+   ],
+   "context": "Queretaro vs Necaxa (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 47% X 26% 2 27%, +2.5 50%, ambos marcan 55%. Forma Queretaro ❌❌❌❌❌, Necaxa ❌❌➖❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 23 desde 2016: 6V-6E-11D · 2.3 goles/partido · +2.5 en 43%. Bajas Queretaro: ninguna. Bajas Necaxa: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Queretaro: sin bajas; Necaxa: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.39,
+   "book": "mejor del mercado",
+   "p": 0.667,
+   "implied": 0.667,
+   "edge": -0.072,
+   "key": "USA|2026-11-23|Vancouver Whitecaps|Real Salt Lake",
+   "match": "Vancouver Whitecaps vs Real Salt Lake",
+   "pick": "Vancouver Whitecaps",
+   "start": "2026-11-23T01:30:00+00:00",
+   "league": "🇺🇸 MLS",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 2.00 - 1.02)",
+    "1 58% · X 23% · 2 19%",
+    "1X 81% · X2 42% · 12 77%",
+    "+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 56%",
+    "Marcadores: 1-1 10% · 2-1 10% · 2-0 10% · 1-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Vancouver Whitecaps ✅❌✅✅✅ | Real Salt Lake ✅✅✅❌✅",
+    "• H2H: 35 desde 2012: 16V-5E-14D · 2.7 goles/partido · +2.5 en 63%",
+    "• Bajas: Vancouver Whitecaps: 0 fuera, 4 duda; Real Salt Lake: 0 fuera, 2 duda",
+    "• Favorito de las casas: Vancouver Whitecaps @ 1.39"
+   ],
+   "context": "Vancouver Whitecaps vs Real Salt Lake (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 58% X 23% 2 19%, +2.5 58%, ambos marcan 56%. Forma Vancouver Whitecaps ✅❌✅✅✅, Real Salt Lake ✅✅✅❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 35 desde 2012: 16V-5E-14D · 2.7 goles/partido · +2.5 en 63%. Bajas Vancouver Whitecaps: Belal Halbouni D duda 0 PJ; Emmanuel Sabbi F duda 26 PJ; Andres Cubas M duda 25 PJ; Sam Adekugbe D duda 7 PJ. Bajas Real Salt Lake: Diego Luna M duda 18 PJ; Emeka Eneli F duda 1 PJ.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Vancouver Whitecaps: 0 fuera, 4 duda; Real Salt Lake: 0 fuera, 2 duda",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "odds": 3.4,
+   "book": "Bwin",
+   "p": 0.294,
+   "implied": 0.294,
+   "edge": -0.002,
+   "key": "G1|2026-11-23|Asteras Tripolis|Aris",
+   "match": "Asteras Tripolis vs Aris",
+   "pick": "Empate",
+   "start": "2026-11-23T15:00:00+00:00",
+   "league": "🇬🇷 Super League",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.15 - 1.14)",
+    "1 26% · X 31% · 2 43%",
+    "1X 57% · X2 74% · 12 69%",
+    "+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%",
+    "Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅",
+    "• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%",
+    "• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas",
+    "• Favorito de las casas: Aris @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%",
+    "Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%",
+    "Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%",
+    "Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72"
+   ],
+   "context": "Asteras Tripolis vs Aris (🇬🇷 Super League). Modelo Poisson con historial desde 2005 y bajas: 1 26% X 31% 2 43%, +2.5 40%, ambos marcan 47%. Forma Asteras Tripolis ✅❌➖❌➖, Aris ✅✅✅❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%. Bajas Asteras Tripolis: ninguna. Bajas Aris: ninguna. Estadísticas del modelo: Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43% | Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26% | Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45% | Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Asteras Tripolis: sin bajas; Aris: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.9,
+   "book": "Bwin",
+   "p": 0.506,
+   "implied": 0.506,
+   "edge": -0.038,
+   "key": "T1|2026-11-23|Buyuksehyr|Corum",
+   "match": "Buyuksehyr vs Corum",
+   "pick": "Buyuksehyr",
+   "start": "2026-11-23T17:00:00+00:00",
+   "league": "🇹🇷 Süper Lig",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 2.26 - 1.58)",
+    "1 59% · X 23% · 2 18%",
+    "1X 82% · X2 41% · 12 77%",
+    "+1.5 90% · +2.5 74% · +3.5 53% · Ambos marcan 71%",
+    "Marcadores: 2-1 9% · 1-1 8% · 2-2 7% · 3-1 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Buyuksehyr ➖✅❌✅✅ | Corum ✅✅❌✅❌",
+    "• H2H: sin precedentes",
+    "• Bajas: Buyuksehyr: sin bajas; Corum: 2 fuera, 0 duda (Gokhan Sazdagi, Berat Ozdemir)",
+    "• Favorito de las casas: Buyuksehyr @ 1.90",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.7 - 3.7: total +9.5 47% · Buyuksehyr +5.5 48% · Corum +4.5 33%",
+    "Tarjetas 1.9 - 2.3: total +4.5 42% · Buyuksehyr +2.5 30% · Corum +2.5 41%",
+    "Faltas 13.7 - 12.3: total +26.5 45% · Buyuksehyr +13.5 50% · Corum +13.5 36%",
+    "Tiros a puerta 5.8 - 3.8: total +9.5 49% · Buyuksehyr +5.5 51% · Corum +4.5 34%",
+    "🧩 Crear apuesta: Más de 2.5 goles + Menos de 2.5 tarjetas de Buyuksehyr + Menos de 4.5 córners de Corum → prob. 35%, cuota justa 2.88 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Más de 2.5 goles + Menos de 2.5 tarjetas de Buyuksehyr + Menos de 4.5 córners de Corum + Menos de 4.5 tiros a puerta de Corum + Menos de 13.5 faltas de Corum → prob. 15%, cuota justa 6.70"
+   ],
+   "context": "Buyuksehyr vs Corum (🇹🇷 Süper Lig). Modelo Poisson con historial desde 2005 y bajas: 1 59% X 23% 2 18%, +2.5 74%, ambos marcan 71%. Forma Buyuksehyr ➖✅❌✅✅, Corum ✅✅❌✅❌ (✅ victoria ➖ empate ❌ derrota). H2H sin precedentes. Bajas Buyuksehyr: ninguna. Bajas Corum: Gokhan Sazdagi D sancionado 10 PJ; Berat Ozdemir M lesionado 8 PJ. Estadísticas del modelo: Córners 5.7 - 3.7: total +9.5 47% · Buyuksehyr +5.5 48% · Corum +4.5 33% | Tarjetas 1.9 - 2.3: total +4.5 42% · Buyuksehyr +2.5 30% · Corum +2.5 41% | Faltas 13.7 - 12.3: total +26.5 45% · Buyuksehyr +13.5 50% · Corum +13.5 36% | Tiros a puerta 5.8 - 3.8: total +9.5 49% · Buyuksehyr +5.5 51% · Corum +4.5 34% | 🧩 Crear apuesta: Más de 2.5 goles + Menos de 2.5 tarjetas de Buyuksehyr + Menos de 4.5 córners de Corum → prob. 35%, cuota justa 2.88 (solo vale si la casa paga más) | 🚀 Combinada larga: Más de 2.5 goles + Menos de 2.5 tarjetas de Buyuksehyr + Menos de 4.5 córners de Corum + Menos de 4.5 tiros a puerta de Corum + Menos de 13.5 faltas de Corum → prob. 15%, cuota justa 6.70.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Buyuksehyr: sin bajas; Corum: 2 fuera, 0 duda (Gokhan Sazdagi, Berat Ozdemir)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 2.54,
+   "book": "Bet365",
+   "p": 0.383,
+   "implied": 0.383,
+   "edge": -0.027,
+   "key": "DNK|2026-11-23|Brondby|Midtjylland",
+   "match": "Brondby vs Midtjylland",
+   "pick": "Midtjylland",
+   "start": "2026-11-23T18:00:00+00:00",
+   "league": "🇩🇰 Superliga",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.25 - 1.57)",
+    "1 30% · X 27% · 2 43%",
+    "1X 57% · X2 70% · 12 73%",
+    "+1.5 78% · +2.5 54% · +3.5 31% · Ambos marcan 57%",
+    "Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 2-1 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Brondby ✅❌✅✅❌ | Midtjylland ✅✅✅✅➖",
+    "• H2H: 51 desde 2012: 22V-11E-18D · 3.0 goles/partido · +2.5 en 57%",
+    "• Bajas: Brondby: sin bajas; Midtjylland: sin bajas",
+    "• Favorito de las casas: Brondby @ 2.50"
+   ],
+   "context": "Brondby vs Midtjylland (🇩🇰 Superliga). Modelo Poisson con historial desde 2005 y bajas: 1 30% X 27% 2 43%, +2.5 54%, ambos marcan 57%. Forma Brondby ✅❌✅✅❌, Midtjylland ✅✅✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 51 desde 2012: 22V-11E-18D · 3.0 goles/partido · +2.5 en 57%. Bajas Brondby: ninguna. Bajas Midtjylland: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Brondby: sin bajas; Midtjylland: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 2.35,
+   "book": "mejor del mercado",
+   "p": 0.402,
+   "implied": 0.402,
+   "edge": -0.054,
+   "key": "POL|2026-11-23|Wieczysta Krakow|Motor Lublin",
+   "match": "Wieczysta Krakow vs Motor Lublin",
+   "pick": "Wieczysta Krakow",
+   "start": "2026-11-23T18:00:00+00:00",
+   "league": "🇵🇱 Ekstraklasa",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.76 - 1.61)",
+    "1 38% · X 26% · 2 36%",
+    "1X 64% · X2 62% · 12 74%",
+    "+1.5 85% · +2.5 65% · +3.5 44% · Ambos marcan 67%",
+    "Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Wieczysta Krakow ❌❌❌❌❌ | Motor Lublin ✅✅➖✅✅",
+    "• H2H: sin precedentes",
+    "• Bajas: Wieczysta Krakow: sin bajas; Motor Lublin: sin bajas",
+    "• Favorito de las casas: Wieczysta Krakow @ 2.35"
+   ],
+   "context": "Wieczysta Krakow vs Motor Lublin (🇵🇱 Ekstraklasa). Modelo Poisson con historial desde 2005 y bajas: 1 38% X 26% 2 36%, +2.5 65%, ambos marcan 67%. Forma Wieczysta Krakow ❌❌❌❌❌, Motor Lublin ✅✅➖✅✅ (✅ victoria ➖ empate ❌ derrota). H2H sin precedentes. Bajas Wieczysta Krakow: ninguna. Bajas Motor Lublin: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Wieczysta Krakow: sin bajas; Motor Lublin: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.23,
+   "book": "Bet365",
+   "p": 0.792,
+   "implied": 0.792,
+   "edge": -0.026,
+   "key": "SWE|2026-11-23|Hammarby|Goteborg",
+   "match": "Hammarby vs Goteborg",
+   "pick": "Hammarby",
+   "start": "2026-11-23T18:00:00+00:00",
+   "league": "🇸🇪 Allsvenskan",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 2.44 - 0.88)",
+    "1 65% · X 20% · 2 15%",
+    "1X 85% · X2 35% · 12 80%",
+    "+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 54%",
+    "Marcadores: 2-0 11% · 2-1 9% · 3-0 9% · 1-0 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Hammarby ✅✅✅✅✅ | Goteborg ➖➖➖❌➖",
+    "• H2H: 23 desde 2015: 13V-6E-4D · 2.3 goles/partido · +2.5 en 43%",
+    "• Bajas: Hammarby: sin bajas; Goteborg: sin bajas",
+    "• Favorito de las casas: Hammarby @ 1.23"
+   ],
+   "context": "Hammarby vs Goteborg (🇸🇪 Allsvenskan). Modelo Poisson con historial desde 2005 y bajas: 1 65% X 20% 2 15%, +2.5 65%, ambos marcan 54%. Forma Hammarby ✅✅✅✅✅, Goteborg ➖➖➖❌➖ (✅ victoria ➖ empate ❌ derrota). H2H 23 desde 2015: 13V-6E-4D · 2.3 goles/partido · +2.5 en 43%. Bajas Hammarby: ninguna. Bajas Goteborg: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Hammarby: sin bajas; Goteborg: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 2.1,
+   "book": "Bet365",
+   "p": 0.455,
+   "implied": 0.455,
+   "edge": -0.044,
+   "key": "SWE|2026-11-23|Orgryte|Kalmar",
+   "match": "Orgryte vs Kalmar",
+   "pick": "Kalmar",
+   "start": "2026-11-23T18:00:00+00:00",
+   "league": "🇸🇪 Allsvenskan",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.58 - 1.25)",
+    "1 42% · X 27% · 2 30%",
+    "1X 70% · X2 58% · 12 73%",
+    "+1.5 78% · +2.5 54% · +3.5 31% · Ambos marcan 57%",
+    "Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Orgryte ✅➖❌❌➖ | Kalmar ✅❌❌➖✅",
+    "• H2H: 1 desde 2026: 0V-0E-1D · 3.0 goles/partido · +2.5 en 100%",
+    "• Bajas: Orgryte: sin bajas; Kalmar: sin bajas",
+    "• Favorito de las casas: Kalmar @ 2.10"
+   ],
+   "context": "Orgryte vs Kalmar (🇸🇪 Allsvenskan). Modelo Poisson con historial desde 2005 y bajas: 1 42% X 27% 2 30%, +2.5 54%, ambos marcan 57%. Forma Orgryte ✅➖❌❌➖, Kalmar ✅❌❌➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 1 desde 2026: 0V-0E-1D · 3.0 goles/partido · +2.5 en 100%. Bajas Orgryte: ninguna. Bajas Kalmar: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Orgryte: sin bajas; Kalmar: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 3.6,
+   "book": "Bet365",
+   "p": 0.267,
+   "implied": 0.267,
+   "edge": -0.038,
+   "key": "SP2|2026-11-23|Ceuta|Almeria",
+   "match": "Ceuta vs Almeria",
+   "pick": "Ceuta",
+   "start": "2026-11-23T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.20 - 1.54)",
+    "1 23% · X 28% · 2 49%",
+    "1X 51% · X2 77% · 12 72%",
+    "+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%",
+    "Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 0-2 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ceuta ❌❌❌❌❌ | Almeria ✅➖➖✅✅",
+    "• H2H: 2 desde 2025: 1V-0E-1D · 5.5 goles/partido · +2.5 en 100%",
+    "• Bajas: Ceuta: sin bajas; Almeria: sin bajas",
+    "• Favorito de las casas: Almeria @ 1.93",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.4 - 3.9: total +9.5 45% · Ceuta +5.5 44% · Almeria +4.5 36%",
+    "Tarjetas 3.1 - 2.8: total +5.5 52% · Ceuta +2.5 60% · Almeria +3.5 30%",
+    "Faltas 15.2 - 14.5: total +26.5 69% · Ceuta +13.5 64% · Almeria +13.5 58%",
+    "Tiros a puerta 4.9 - 4.6: total +8.5 60% · Ceuta +5.5 37% · Almeria +4.5 48%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Almeria + Más de 26.5 faltas + Menos de 4.5 córners de Almeria → prob. 29%, cuota justa 3.45 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Almeria + Más de 26.5 faltas + Menos de 4.5 córners de Almeria + Menos de 5.5 tiros a puerta de Ceuta → prob. 18%, cuota justa 5.50"
+   ],
+   "context": "Ceuta vs Almeria (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 23% X 28% 2 49%, +2.5 52%, ambos marcan 56%. Forma Ceuta ❌❌❌❌❌, Almeria ✅➖➖✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 2 desde 2025: 1V-0E-1D · 5.5 goles/partido · +2.5 en 100%. Bajas Ceuta: ninguna. Bajas Almeria: ninguna. Estadísticas del modelo: Córners 5.4 - 3.9: total +9.5 45% · Ceuta +5.5 44% · Almeria +4.5 36% | Tarjetas 3.1 - 2.8: total +5.5 52% · Ceuta +2.5 60% · Almeria +3.5 30% | Faltas 15.2 - 14.5: total +26.5 69% · Ceuta +13.5 64% · Almeria +13.5 58% | Tiros a puerta 4.9 - 4.6: total +8.5 60% · Ceuta +5.5 37% · Almeria +4.5 48% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Almeria + Más de 26.5 faltas + Menos de 4.5 córners de Almeria → prob. 29%, cuota justa 3.45 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Almeria + Más de 26.5 faltas + Menos de 4.5 córners de Almeria + Menos de 5.5 tiros a puerta de Ceuta → prob. 18%, cuota justa 5.50.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Ceuta: sin bajas; Almeria: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHA",
+   "line": 1.25,
+   "odds": 1.8,
+   "book": "mejor del mercado",
+   "p": 0.545,
+   "implied": 0.532,
+   "edge": -0.018,
+   "key": "F2|2026-11-23|Nantes|Grenoble",
+   "match": "Nantes vs Grenoble",
+   "pick": "Grenoble +1.25 (hándicap asiático)",
+   "start": "2026-11-23T19:45:00+00:00",
+   "league": "🇫🇷 Ligue 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.25 - 1.28)",
+    "1 55% · X 26% · 2 19%",
+    "1X 81% · X2 45% · 12 74%",
+    "+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%",
+    "Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅",
+    "• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%",
+    "• Bajas: Nantes: sin bajas; Grenoble: sin bajas",
+    "• Favorito de las casas: Nantes @ 1.49",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%",
+    "Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%",
+    "Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%",
+    "Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%",
+    "🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41"
+   ],
+   "context": "Nantes vs Grenoble (🇫🇷 Ligue 2). Modelo Poisson con historial desde 2005 y bajas: 1 55% X 26% 2 19%, +2.5 46%, ambos marcan 52%. Forma Nantes ➖❌❌➖✅, Grenoble ❌❌❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%. Bajas Nantes: ninguna. Bajas Grenoble: ninguna. Estadísticas del modelo: Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25% | Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52% | Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51% | Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32% | 🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Nantes: sin bajas; Grenoble: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "O25",
+   "odds": 1.85,
+   "book": "Bet365",
+   "p": 0.514,
+   "implied": 0.514,
+   "edge": -0.05,
+   "key": "F2|2026-11-23|Sochaux|Dunkerque",
+   "match": "Sochaux vs Dunkerque",
+   "pick": "Más de 2.5 goles",
+   "start": "2026-11-23T19:45:00+00:00",
+   "league": "🇫🇷 Ligue 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.36 - 1.27)",
+    "1 40% · X 29% · 2 31%",
+    "1X 69% · X2 60% · 12 71%",
+    "+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅",
+    "• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%",
+    "• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas",
+    "• Favorito de las casas: Sochaux @ 2.30",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%",
+    "Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%",
+    "Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%",
+    "Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%",
+    "🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27"
+   ],
+   "context": "Sochaux vs Dunkerque (🇫🇷 Ligue 2). Modelo Poisson con historial desde 2005 y bajas: 1 40% X 29% 2 31%, +2.5 49%, ambos marcan 54%. Forma Sochaux ➖❌❌❌❌, Dunkerque ❌✅➖❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%. Bajas Sochaux: ninguna. Bajas Dunkerque: ninguna. Estadísticas del modelo: Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36% | Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38% | Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34% | Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50% | 🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Sochaux: sin bajas; Dunkerque: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 2.0,
+   "book": "Betfred",
+   "p": 0.496,
+   "implied": 0.496,
+   "edge": -0.007,
+   "key": "I1|2026-11-23|Monza|Fiorentina",
+   "match": "Monza vs Fiorentina",
+   "pick": "Fiorentina",
+   "start": "2026-11-23T19:45:00+00:00",
+   "league": "🇮🇹 Serie A",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.32 - 1.57)",
+    "1 33% · X 29% · 2 38%",
+    "1X 62% · X2 67% · 12 71%",
+    "+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%",
+    "Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖",
+    "• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%",
+    "• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",
+    "• Favorito de las casas: Fiorentina @ 2.00",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%",
+    "Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%",
+    "Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%",
+    "Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%",
+    "🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44"
+   ],
+   "context": "Monza vs Fiorentina (🇮🇹 Serie A). Modelo Poisson con historial desde 2005 y bajas: 1 33% X 29% 2 38%, +2.5 55%, ambos marcan 59%. Forma Monza ✅❌❌❌❌, Fiorentina ❌❌➖✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%. Bajas Monza: Ivan Juric M sancionado 0 PJ; Samuele Birindelli D duda 10 PJ. Bajas Fiorentina: Luca Ranieri D sancionado 4 PJ; Cher Ndour - duda 11 PJ; Marin Pongracic D lesionado 5 PJ; Fabiano Parisi D lesionado 0 PJ; Riccardo Sottil F duda 0 PJ; Moise Kean F duda 4 PJ; Albert Gudmundsson F duda 4 PJ; Niccolo Fortini D duda 5 PJ; Arthur Atta M duda 5 PJ. Estadísticas del modelo: Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44% | Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29% | Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42% | Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54% | 🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHH",
+   "line": -0.25,
+   "odds": 1.88,
+   "book": "mejor del mercado",
+   "p": 0.518,
+   "implied": 0.517,
+   "edge": -0.026,
+   "key": "E0|2026-11-23|Brentford|Everton",
+   "match": "Brentford vs Everton",
+   "pick": "Brentford -0.25 (hándicap asiático)",
+   "start": "2026-11-23T20:00:00+00:00",
+   "league": "🏴 Premier League",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.45 - 1.02)",
+    "1 41% · X 29% · 2 29%",
+    "1X 71% · X2 59% · 12 71%",
+    "+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%",
+    "Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅",
+    "• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%",
+    "• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",
+    "• Favorito de las casas: Brentford @ 2.15",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%",
+    "Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%",
+    "Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%",
+    "Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%",
+    "🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13"
+   ],
+   "context": "Brentford vs Everton (🏴 Premier League). Modelo Poisson con historial desde 2005 y bajas: 1 41% X 29% 2 29%, +2.5 45%, ambos marcan 50%. Forma Brentford ➖❌➖✅❌, Everton ➖❌❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%. Bajas Brentford: Igor Thiago F sancionado 10 PJ; Nathan Collins D duda 4 PJ; Aaron Hickey D duda 10 PJ; Joshua Dasilva M lesionado 0 PJ; Fabio Carvalho F lesionado 1 PJ; Rico Henry D lesionado 1 PJ; Antoni Milambo M lesionado 0 PJ. Bajas Everton: ninguna. Estadísticas del modelo: Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45% | Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35% | Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22% | Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37% | 🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 3.25,
+   "book": "Bet365",
+   "p": 0.299,
+   "implied": 0.299,
+   "edge": -0.028,
+   "key": "SP1|2026-11-23|Levante|Elche",
+   "match": "Levante vs Elche",
+   "pick": "Elche",
+   "start": "2026-11-23T20:00:00+00:00",
+   "league": "🇪🇸 LaLiga",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.84 - 1.43)",
+    "1 45% · X 27% · 2 28%",
+    "1X 72% · X2 55% · 12 73%",
+    "+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%",
+    "Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌",
+    "• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%",
+    "• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",
+    "• Favorito de las casas: Levante @ 2.15",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%",
+    "Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%",
+    "Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%",
+    "Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%",
+    "🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19"
+   ],
+   "context": "Levante vs Elche (🇪🇸 LaLiga). Modelo Poisson con historial desde 2005 y bajas: 1 45% X 27% 2 28%, +2.5 63%, ambos marcan 64%. Forma Levante ➖✅❌❌➖, Elche ➖➖✅❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%. Bajas Levante: ninguna. Bajas Elche: Buba Sangare D duda 10 PJ; Ali Houary F duda 4 PJ; Adam Boayar F lesionado 0 PJ; Gonzalo Villar M duda 11 PJ; Marc Aguado M duda 6 PJ; Yago Santiago M duda 0 PJ. Estadísticas del modelo: Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37% | Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47% | Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52% | Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53% | 🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 3.8,
+   "book": "Bet365",
+   "p": 0.254,
+   "implied": 0.254,
+   "edge": -0.034,
+   "key": "ARG|2026-11-23|Gimnasia L.P.|Newells Old Boys",
+   "match": "Gimnasia L.P. vs Newells Old Boys",
+   "pick": "Newells Old Boys",
+   "start": "2026-11-23T20:00:00+00:00",
+   "league": "🇦🇷 Liga Profesional",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.38 - 0.97)",
+    "1 48% · X 27% · 2 25%",
+    "1X 75% · X2 52% · 12 73%",
+    "+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%",
+    "Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Gimnasia L.P. ➖✅✅✅✅ | Newells Old Boys ❌✅➖➖➖",
+    "• H2H: 14 desde 2013: 8V-3E-3D · 2.2 goles/partido · +2.5 en 43%",
+    "• Bajas: Gimnasia L.P.: sin bajas; Newells Old Boys: sin bajas",
+    "• Favorito de las casas: Gimnasia L.P. @ 2.14"
+   ],
+   "context": "Gimnasia L.P. vs Newells Old Boys (🇦🇷 Liga Profesional). Modelo Poisson con historial desde 2005 y bajas: 1 48% X 27% 2 25%, +2.5 42%, ambos marcan 47%. Forma Gimnasia L.P. ➖✅✅✅✅, Newells Old Boys ❌✅➖➖➖ (✅ victoria ➖ empate ❌ derrota). H2H 14 desde 2013: 8V-3E-3D · 2.2 goles/partido · +2.5 en 43%. Bajas Gimnasia L.P.: ninguna. Bajas Newells Old Boys: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Gimnasia L.P.: sin bajas; Newells Old Boys: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.62,
+   "book": "media del mercado",
+   "p": 0.604,
+   "implied": 0.604,
+   "edge": -0.022,
+   "key": "BRA|2026-11-23|Internacional|Vitoria",
+   "match": "Internacional vs Vitoria",
+   "pick": "Internacional",
+   "start": "2026-11-23T22:30:00+00:00",
+   "league": "🇧🇷 Brasileirão",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.86 - 0.81)",
+    "1 53% · X 25% · 2 22%",
+    "1X 78% · X2 47% · 12 75%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 47%",
+    "Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Internacional ❌✅❌✅❌ | Vitoria ➖➖❌❌✅",
+    "• H2H: 13 desde 2013: 5V-2E-6D · 2.5 goles/partido · +2.5 en 46%",
+    "• Bajas: Internacional: 0 fuera, 1 duda; Vitoria: sin bajas",
+    "• Favorito de las casas: Internacional @ 1.62"
+   ],
+   "context": "Internacional vs Vitoria (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 53% X 25% 2 22%, +2.5 50%, ambos marcan 47%. Forma Internacional ❌✅❌✅❌, Vitoria ➖➖❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 13 desde 2013: 5V-2E-6D · 2.5 goles/partido · +2.5 en 46%. Bajas Internacional: Sergio Rochet G duda 12 PJ. Bajas Vitoria: ninguna.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Internacional: 0 fuera, 1 duda; Vitoria: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 2.35,
+   "book": "mejor del mercado",
+   "p": 0.409,
+   "implied": 0.409,
+   "edge": -0.038,
+   "key": "BRA|2026-11-23|Botafogo RJ|Sao Paulo",
+   "match": "Botafogo RJ vs Sao Paulo",
+   "pick": "Botafogo RJ",
+   "start": "2026-11-23T23:00:00+00:00",
+   "league": "🇧🇷 Brasileirão",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.63 - 0.92)",
+    "1 47% · X 27% · 2 25%",
+    "1X 75% · X2 53% · 12 73%",
+    "+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 49%",
+    "Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Botafogo RJ ✅❌❌✅❌ | Sao Paulo ✅➖❌➖❌",
+    "• H2H: 25 desde 2012: 7V-8E-10D · 2.7 goles/partido · +2.5 en 52%",
+    "• Bajas: Botafogo RJ: 0 fuera, 1 duda; Sao Paulo: 0 fuera, 5 duda",
+    "• Favorito de las casas: Botafogo RJ @ 2.35"
+   ],
+   "context": "Botafogo RJ vs Sao Paulo (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 47% X 27% 2 25%, +2.5 47%, ambos marcan 49%. Forma Botafogo RJ ✅❌❌✅❌, Sao Paulo ✅➖❌➖❌ (✅ victoria ➖ empate ❌ derrota). H2H 25 desde 2012: 7V-8E-10D · 2.7 goles/partido · +2.5 en 52%. Bajas Botafogo RJ: Jordan Barrera M duda 12 PJ. Bajas Sao Paulo: Sabino D duda 24 PJ; Marcos Antonio M duda 25 PJ; Marcos Antonio M duda 25 PJ; Aurelio Buta D duda 1 PJ; Alisson M duda 8 PJ.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Botafogo RJ: 0 fuera, 1 duda; Sao Paulo: 0 fuera, 5 duda",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 53.5,
+   "odds": 1.862,
+   "book": "DraftKings",
+   "p": 0.514,
+   "implied": 0.514,
+   "edge": -0.043,
+   "expected": 48.7,
+   "key": "nfl|2026-11-24|Washington Commanders|Cincinnati Bengals",
+   "match": "Washington Commanders vs Cincinnati Bengals",
+   "start": "2026-11-24T01:15Z",
+   "pick": "Más de 53.5 puntos",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>48.7</b> puntos · línea 53.5",
+    "Más 51% · Menos 49%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Washington Commanders ➖❌✅❌✅ | Cincinnati Bengals ✅✅✅✅✅",
+    "• H2H: 6 desde 2019: 4-2",
+    "• Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
+    "",
+    "🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%"
+   ],
+   "context": "Washington Commanders vs Cincinnati Bengals (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.7 frente a línea 53.5. Forma Washington Commanders ➖❌✅❌✅, Cincinnati Bengals ✅✅✅✅✅. H2H 6 desde 2019: 4-2. Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas).",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "line": 6.0,
+   "key": "nfl|2026-11-24|Washington Commanders|Cincinnati Bengals",
+   "match": "Washington Commanders vs Cincinnati Bengals",
+   "start": "2026-11-24T01:15Z",
+   "pick": "Washington Commanders +6",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Washington Commanders cubre +6 con prob. 49% (casas 49%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Washington Commanders ➖❌✅❌✅ | Cincinnati Bengals ✅✅✅✅✅",
+    "• H2H: 6 desde 2019: 4-2",
+    "• Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
+    "",
+    "🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%"
+   ],
+   "context": "Washington Commanders vs Cincinnati Bengals (🏈 NFL). Hándicap Washington Commanders +6: margen esperado desde el Elo (gana Washington Commanders 26%). Forma Washington Commanders ➖❌✅❌✅, Cincinnati Bengals ✅✅✅✅✅. H2H 6 desde 2019: 4-2. Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas).",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 3.4,
+   "book": "DraftKings",
+   "p": 0.283,
+   "implied": 0.283,
+   "edge": -0.039,
+   "key": "nfl|2026-11-24|Washington Commanders|Cincinnati Bengals",
+   "match": "Washington Commanders vs Cincinnati Bengals",
+   "pick": "Washington Commanders",
+   "start": "2026-11-24T01:15Z",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 3.289 partidos y bajas)",
+    "Gana Washington Commanders 26% · Gana Cincinnati Bengals 74%",
+    "Casas: Washington Commanders 28% · Cincinnati Bengals 72%",
+    "Hándicap CIN -6 · Total puntos 53.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Washington Commanders ➖❌✅❌✅ | Cincinnati Bengals ✅✅✅✅✅",
+    "• H2H: 6 desde 2019: 4-2",
+    "• Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
+    "• Favorito de las casas: Cincinnati Bengals @ 1.34",
+    "",
+    "🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%"
+   ],
+   "context": "Washington Commanders vs Cincinnati Bengals (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Washington Commanders 26%, Cincinnati Bengals 74%. Cuotas DraftKings 3.4/1.34, hándicap CIN -6, total 53.5. Forma Washington Commanders ➖❌✅❌✅, Cincinnati Bengals ✅✅✅✅✅. H2H 6 desde 2019: 4-2. Bajas Washington Commanders: Treylon Burks duda; Rachaad White duda; Jacory Croskey-Merritt lesionado; Lucas Patrick duda; Quan Martin duda; Colson Yankoff duda; Luke McCaffrey duda; Laremy Tunsil lesionado; Isaac Yiadom duda; Tanoa Togiai duda; Ricky Barber duda; Athan Kaliakmanis duda; Jeremy Reaves duda; Nick Cross duda; Frankie Luvu duda; Sonny Styles duda; Drew Stevens duda; Ben Sinnott duda; Antonio Williams duda; Austin Ekeler duda; Stefon Diggs duda; Jayden Daniels duda; Chig Okonkwo duda; Shy Tuttle duda; Fabian Moreau duda. Bajas Cincinnati Bengals: Joe Burrow duda; Myles Hinton duda; Dalton Risner duda; Swayze Bozeman lesionado; Oren Burks duda; Dax Hill duda; Andrei Iosivas lesionado; Tee Higgins duda; Dylan Fairchild duda; Joe Flacco duda; Jordan Battle duda; Demetrius Knight Jr. duda; Barrett Carter duda; Drew Sample duda; Kyle Dugger duda; Evan McPherson duda; Dohnte Meyers duda; Samaje Perine duda; Connor Lew duda; Landon Robinson duda; Tahj Brooks duda; Mike Gesicki duda; Chase Brown duda; Ja'Marr Chase duda; DJ Turner II duda.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 19941,
+   "pick": "Gelo",
+   "odds": 2.43,
+   "book": "Thunderpick",
+   "p": 0.441,
+   "implied": 0.38,
+   "edge": 0.071,
+   "key": "cs2|134797",
+   "match": "Gelo vs JUMBO",
+   "start": "2026-11-21T14:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 77.135 partidos)",
+    "Mapa: Gelo 50% · Serie BO1: Gelo 50% - 50% JUMBO",
+    "Casas: Gelo 38% · JUMBO 62%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Gelo 1463 (10 series) | JUMBO 1462 (108 series)",
+    "• Forma: Gelo ✅❌✅❌❌ | JUMBO ✅✅❌✅❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 Gelo vs JUMBO, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1463 vs 1462 (prob. mapa 50%, serie 50%). Forma ✅❌✅❌❌ / ✅✅❌✅❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.43/1.49.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 19941,
+   "pick": "Gelo",
+   "odds": 2.4,
+   "book": "Thunderpick",
+   "p": 0.415,
+   "implied": 0.385,
+   "edge": -0.004,
+   "key": "cs2|134798",
+   "match": "ZOTIX vs Gelo",
+   "start": "2026-11-21T15:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 77.135 partidos)",
+    "Mapa: ZOTIX 55% · Serie BO1: ZOTIX 55% - 45% Gelo",
+    "Casas: ZOTIX 62% · Gelo 38%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: ZOTIX 1501 (96 series) | Gelo 1463 (10 series)",
+    "• Forma: ZOTIX ❌❌✅✅✅ | Gelo ✅❌✅❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 ZOTIX vs Gelo, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1501 vs 1463 (prob. mapa 55%, serie 55%). Forma ❌❌✅✅✅ / ✅❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.5/2.4.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 3829,
+   "pick": "UNiTY",
+   "odds": 1.17,
+   "book": "Thunderpick",
+   "p": 0.766,
+   "implied": 0.79,
+   "edge": -0.104,
+   "key": "cs2|133457",
+   "match": "UNiTY vs Monkeys",
+   "start": "2026-11-22T12:00:00+00:00",
+   "league": "🎮 CS2 · MČR 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 77.135 partidos)",
+    "Mapa: UNiTY 67% · Serie BO3: UNiTY 74% - 26% Monkeys",
+    "Casas: UNiTY 79% · Monkeys 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: UNiTY 1799 (569 series) | Monkeys 1612 (4 series)",
+    "• Forma: UNiTY ✅✅✅❌❌ | Monkeys ✅❌✅✅",
+    "• H2H: 1: 1-0",
+    "• Torneo: MČR 2026 (nivel C)",
+    "• Cambios de plantilla: ninguno",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• UNiTY gana 2-1: 24% → cuota justa 4.09 · casa 25%",
+    "• Monkeys gana 2-1: 12% → cuota justa 8.22 · casa 10%"
+   ],
+   "context": "CS2 UNiTY vs Monkeys, BO3, torneo MČR 2026 nivel c. Elo por mapa 1799 vs 1612 (prob. mapa 67%, serie 74%). Forma ✅✅✅❌❌ / ✅❌✅✅ (✅ victoria ❌ derrota). H2H 1: 1-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.17/4.4.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Solya",
+   "odds": 1.2,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.83,
+   "edge": 0.0,
+   "p": 0.83,
+   "key": "fc|2390437",
+   "match": "Kosta vs Solya",
+   "start": "2026-11-21T02:08:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 75.460 partidos)",
+    "Goles esperados: Kosta 3.28 · Solya 6.07",
+    "Ganador: Kosta 9% · empate 8% · Solya 83%",
+    "Total: más de 9.5 goles 46% · menos 54%",
+    "Hándicap Solya: −1.5 66% · −2.5 53%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Kosta ➖✅❌❌❌ | Solya ➖✅✅❌✅",
+    "• Partidos: Kosta 329 | Solya 387",
+    "• Liga: LaLiga 2x6",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Kosta vs Solya (LaLiga 2x6): goles esperados 3.28-6.07, 1X2 9%/8%/83%. Sin cuotas de casa.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "believer",
+   "odds": 1.29,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.777,
+   "edge": 0.0,
+   "p": 0.777,
+   "key": "fc|2390184",
+   "match": "believer vs reddevil",
+   "start": "2026-11-21T02:03:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 75.460 partidos)",
+    "Goles esperados: believer 3.95 · reddevil 1.92",
+    "Ganador: believer 78% · empate 13% · reddevil 9%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap believer: −1.5 58% · −2.5 41%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: believer ✅✅✅✅✅ | reddevil ❌❌❌❌❌",
+    "• Partidos: believer 1321 | reddevil 45",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle believer vs reddevil (Champions League B): goles esperados 3.95-1.92, 1X2 78%/13%/9%. Sin cuotas de casa.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "believer",
+   "odds": 1.38,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.724,
+   "edge": 0.0,
+   "p": 0.724,
+   "key": "fc|2390183",
+   "match": "Simaponika vs believer",
+   "start": "2026-11-21T01:51:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 75.460 partidos)",
+    "Goles esperados: Simaponika 1.89 · believer 3.64",
+    "Ganador: Simaponika 12% · empate 15% · believer 72%",
+    "Total: más de 5.5 goles 48% · menos 52%",
+    "Hándicap believer: −1.5 53% · −2.5 36%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ✅❌➖❌✅ | believer ✅✅✅✅✅",
+    "• Partidos: Simaponika 1349 | believer 1321",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs believer (Champions League B): goles esperados 1.89-3.64, 1X2 12%/15%/72%. Sin cuotas de casa.",
+   "captured": "2026-11-21T00:24",
+   "version": "f893219",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -47577,830 +48834,6 @@
     "🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 20% · ventaja -4%"
    ]
   },
-  "D2|2026-11-20|Bielefeld|Magdeburg": {
-   "match": "Bielefeld vs Magdeburg",
-   "start": "2026-11-20T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3193,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7102,
-       "text": "Menos de 5.5 córners de Magdeburg",
-       "odds": 1.37
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6745,
-       "text": "Más de 2.5 goles",
-       "odds": 1.69
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6618,
-       "text": "Menos de 2.5 tarjetas de Bielefeld",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1151,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7102,
-       "text": "Menos de 5.5 córners de Magdeburg",
-       "odds": 1.37
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6745,
-       "text": "Más de 2.5 goles",
-       "odds": 1.69
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6618,
-       "text": "Menos de 2.5 tarjetas de Bielefeld",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6601,
-       "text": "Menos de 10.5 tiros a puerta",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.6304,
-       "text": "Menos de 12.5 faltas de Magdeburg",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4821,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.7101982627784666,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Magdeburg",
-       "odds": 1.37
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6744943676954032,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.69
-      }
-     ],
-     "odds": 2.32,
-     "edge": 0.116,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7101982627784666,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Magdeburg"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6744943676954032,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6618348369479647,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Bielefeld"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6601075731459527,
-     "line": 10.5,
-     "text": "Menos de 10.5 tiros a puerta"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6303826525300781,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Magdeburg"
-    }
-   ],
-   "anunciada": true
-  },
-  "D2|2026-11-20|Darmstadt|Heidenheim": {
-   "match": "Darmstadt vs Heidenheim",
-   "start": "2026-11-20T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2668,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6569,
-       "text": "Menos de 5.5 tiros a puerta de Darmstadt",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6232,
-       "text": "Menos de 5.5 córners de Darmstadt",
-       "odds": 1.54
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6174,
-       "text": "Menos de 2.5 tarjetas de Darmstadt",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1651,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6569,
-       "text": "Menos de 5.5 tiros a puerta de Darmstadt",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6232,
-       "text": "Menos de 5.5 córners de Darmstadt",
-       "odds": 1.54
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6174,
-       "text": "Menos de 2.5 tarjetas de Darmstadt",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.5855,
-       "text": "Menos de 11.5 faltas de Darmstadt",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6569198732562453,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Darmstadt"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.623159587055313,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Darmstadt"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6174042686272949,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Darmstadt"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.5855352115908115,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Darmstadt"
-    }
-   ]
-  },
-  "F2|2026-11-20|Annecy|Clermont": {
-   "match": "Annecy vs Clermont",
-   "start": "2026-11-20T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.393,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.8024,
-       "text": "Menos de 15.5 faltas de Clermont",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7209,
-       "text": "Menos de 2.5 tarjetas de Annecy",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6701,
-       "text": "Menos de 3.5 tiros a puerta de Clermont",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2725,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.8024,
-       "text": "Menos de 15.5 faltas de Clermont",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7209,
-       "text": "Menos de 2.5 tarjetas de Annecy",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6701,
-       "text": "Menos de 3.5 tiros a puerta de Clermont",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6521,
-       "text": "Menos de 4.5 córners de Clermont",
-       "odds": 1.48
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.8023511339121119,
-     "line": 15.5,
-     "text": "Menos de 15.5 faltas de Clermont"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7208714288061568,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Annecy"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6701144962379271,
-     "line": 3.5,
-     "text": "Menos de 3.5 tiros a puerta de Clermont"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6521177357891863,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Clermont"
-    }
-   ]
-  },
-  "F2|2026-11-20|Guingamp|Rodez": {
-   "match": "Guingamp vs Rodez",
-   "start": "2026-11-20T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.6864,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 14.5,
-       "p": 0.8747,
-       "text": "Menos de 14.5 faltas de Guingamp",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7646,
-       "text": "Menos de 2.5 tarjetas de Guingamp",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1673,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 14.5,
-       "p": 0.8747,
-       "text": "Menos de 14.5 faltas de Guingamp",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7646,
-       "text": "Menos de 2.5 tarjetas de Guingamp",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5854,
-       "text": "Menos de 4.5 córners de Rodez",
-       "odds": 1.66
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.5834,
-       "text": "Más de 4.5 tiros a puerta de Guingamp",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5608,
-       "text": "Más de 2.5 goles",
-       "odds": 1.58
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3321,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.5853864866902555,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Rodez",
-       "odds": 1.66
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.5607762355656015,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.58
-      }
-     ],
-     "odds": 2.62,
-     "edge": -0.129,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.8747047178426198,
-     "line": 14.5,
-     "text": "Menos de 14.5 faltas de Guingamp"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7645867002120728,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Guingamp"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.5853864866902555,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Rodez"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": 1,
-     "p": 0.5834342360470761,
-     "line": 4.5,
-     "text": "Más de 4.5 tiros a puerta de Guingamp"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5607762355656015,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "F2|2026-11-20|Metz|Boulogne": {
-   "match": "Metz vs Boulogne",
-   "start": "2026-11-20T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2879,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6903,
-       "text": "Menos de 2.5 tarjetas de Metz",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.655,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.79
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6358,
-       "text": "Menos de 4.5 córners de Boulogne",
-       "odds": 1.44
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1553,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6903,
-       "text": "Menos de 2.5 tarjetas de Metz",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.655,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.79
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6358,
-       "text": "Menos de 4.5 córners de Boulogne",
-       "odds": 1.44
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 29.5,
-       "p": 0.5678,
-       "text": "Más de 29.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.413,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.6549754329351627,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.79
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6358163302452464,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Boulogne",
-       "odds": 1.44
-      }
-     ],
-     "odds": 2.58,
-     "edge": 0.065,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6902683178285656,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Metz"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.6549754329351627,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6358163302452464,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Boulogne"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.5678042530730698,
-     "line": 29.5,
-     "text": "Más de 29.5 faltas"
-    }
-   ],
-   "anunciada": true
-  },
-  "F2|2026-11-20|Nancy|Dijon": {
-   "match": "Nancy vs Dijon",
-   "start": "2026-11-20T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3939,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7617,
-       "text": "Menos de 2.5 tarjetas de Nancy",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 15.5,
-       "p": 0.729,
-       "text": "Más de 15.5 faltas de Dijon",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.711,
-       "text": "Menos de 4.5 córners de Dijon",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7616641802741096,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Nancy"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": 1,
-     "p": 0.7290025741021622,
-     "line": 15.5,
-     "text": "Más de 15.5 faltas de Dijon"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7110274787820209,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Dijon"
-    }
-   ]
-  },
-  "F2|2026-11-20|Red Star|Pau FC": {
-   "match": "Red Star vs Pau FC",
-   "start": "2026-11-20T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.354,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7136,
-       "text": "Menos de 4.5 córners de Pau FC",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7062,
-       "text": "Menos de 2.5 tarjetas de Red Star",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.6903,
-       "text": "Menos de 15.5 faltas de Pau FC",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2075,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7136,
-       "text": "Menos de 4.5 córners de Pau FC",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7062,
-       "text": "Menos de 2.5 tarjetas de Red Star",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.6903,
-       "text": "Menos de 15.5 faltas de Pau FC",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5709,
-       "text": "Más de 2.5 goles",
-       "odds": 1.95
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7136360030798046,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Pau FC"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7061906938386051,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Red Star"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6902573119723217,
-     "line": 15.5,
-     "text": "Menos de 15.5 faltas de Pau FC"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5709354970597702,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
   "D1|2026-11-20|Bayern Munich|FC Koln": {
    "match": "Bayern Munich vs FC Koln",
    "start": "2026-11-20T19:30:00+00:00",
@@ -48550,684 +48983,6 @@
      "p": 0.7953563169839237,
      "line": 2.5,
      "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "I2|2026-11-20|Verona|Cesena": {
-   "match": "Verona vs Cesena",
-   "start": "2026-11-20T19:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3921,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7389,
-       "text": "Menos de 2.5 tarjetas de Verona",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 27.5,
-       "p": 0.7312,
-       "text": "Menos de 27.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6932,
-       "text": "Menos de 4.5 córners de Cesena",
-       "odds": 1.5
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2602,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7389,
-       "text": "Menos de 2.5 tarjetas de Verona",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 27.5,
-       "p": 0.7312,
-       "text": "Menos de 27.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6932,
-       "text": "Menos de 4.5 córners de Cesena",
-       "odds": 1.5
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6258,
-       "text": "Menos de 3.5 tiros a puerta de Cesena",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7389155722531413,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Verona"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.7312052319695339,
-     "line": 27.5,
-     "text": "Menos de 27.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6931546084690686,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Cesena"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6257972701259968,
-     "line": 3.5,
-     "text": "Menos de 3.5 tiros a puerta de Cesena"
-    }
-   ]
-  },
-  "SP2|2026-11-20|Andorra|Leganes": {
-   "match": "Andorra vs Leganes",
-   "start": "2026-11-20T19:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3939,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8016,
-       "text": "Menos de 4.5 tiros a puerta de Leganes",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7387,
-       "text": "Menos de 4.5 córners de Leganes",
-       "odds": 1.35
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6575,
-       "text": "Menos de 3.5 tarjetas de Leganes",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1339,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8016,
-       "text": "Menos de 4.5 tiros a puerta de Leganes",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7387,
-       "text": "Menos de 4.5 córners de Leganes",
-       "odds": 1.35
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6575,
-       "text": "Menos de 3.5 tarjetas de Leganes",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5748,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.95
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.5533,
-       "text": "Más de 13.5 faltas de Andorra",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4214,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.7386758889758291,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Leganes",
-       "odds": 1.35
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5748085747976073,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.95
-      }
-     ],
-     "odds": 2.63,
-     "edge": 0.109,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8015554686373781,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Leganes"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7386758889758291,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Leganes"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6574586376817215,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Leganes"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5748085747976073,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.5532732346998808,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Andorra"
-    }
-   ],
-   "anunciada": true
-  },
-  "B1|2026-11-20|Cercle Brugge|Westerlo": {
-   "match": "Cercle Brugge vs Westerlo",
-   "start": "2026-11-20T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2398,
-     "legs": [
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6381,
-       "text": "Menos de 2.5 tarjetas de Westerlo",
-       "odds": 1.46
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6259,
-       "text": "Menos de 4.5 córners de Westerlo",
-       "odds": 1.58
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6079,
-       "text": "Más de 2.5 goles",
-       "odds": 1.57
-      }
-     ],
-     "odds": 3.62,
-     "edge": -0.132,
-     "sim": false
-    },
-    {
-     "kind": "larga",
-     "p": 0.0584,
-     "legs": [
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6381,
-       "text": "Menos de 2.5 tarjetas de Westerlo",
-       "odds": 1.46
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6259,
-       "text": "Menos de 4.5 córners de Westerlo",
-       "odds": 1.58
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6079,
-       "text": "Más de 2.5 goles",
-       "odds": 1.57
-      },
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.5843,
-       "text": "Más de 11.5 faltas de Westerlo",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5664,
-       "text": "Menos de 5.5 tiros a puerta de Cercle Brugge",
-       "odds": 1.7
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.384,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6258611338477195,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Westerlo",
-       "odds": 1.58
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6078535701449067,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.57
-      }
-     ],
-     "odds": 2.48,
-     "edge": -0.047,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6380935265325864,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Westerlo"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6258611338477195,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Westerlo"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6078535701449067,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": 1,
-     "p": 0.5842744818853665,
-     "line": 11.5,
-     "text": "Más de 11.5 faltas de Westerlo"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.566449837705165,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Cercle Brugge"
-    }
-   ]
-  },
-  "F1|2026-11-20|Troyes|Le Havre": {
-   "match": "Troyes vs Le Havre",
-   "start": "2026-11-20T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3048,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7151,
-       "text": "Menos de 2.5 tarjetas de Troyes",
-       "odds": 1.3
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6814,
-       "text": "Menos de 5.5 tiros a puerta de Troyes",
-       "odds": 1.25
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 24.5,
-       "p": 0.6683,
-       "text": "Más de 24.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1891,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7151,
-       "text": "Menos de 2.5 tarjetas de Troyes",
-       "odds": 1.3
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6814,
-       "text": "Menos de 5.5 tiros a puerta de Troyes",
-       "odds": 1.25
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 24.5,
-       "p": 0.6683,
-       "text": "Más de 24.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6314,
-       "text": "Menos de 4.5 córners de Le Havre",
-       "odds": 1.44
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4539,
-     "legs": [
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.715120267797312,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Troyes",
-       "odds": 1.3
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.631431168893468,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Le Havre",
-       "odds": 1.44
-      }
-     ],
-     "odds": 1.87,
-     "edge": -0.15,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.715120267797312,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Troyes"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6813978220660286,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Troyes"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.6683439414174527,
-     "line": 24.5,
-     "text": "Más de 24.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.631431168893468,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Le Havre"
-    }
-   ]
-  },
-  "SP1|2026-11-20|Ath Bilbao|Espanol": {
-   "match": "Ath Bilbao vs Espanol",
-   "start": "2026-11-20T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3799,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7558,
-       "text": "Menos de 4.5 córners de Espanol",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7351,
-       "text": "Menos de 3.5 tiros a puerta de Espanol",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6472,
-       "text": "Menos de 2.5 tarjetas de Ath Bilbao",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.154,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7558,
-       "text": "Menos de 4.5 córners de Espanol",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7351,
-       "text": "Menos de 3.5 tiros a puerta de Espanol",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6472,
-       "text": "Menos de 2.5 tarjetas de Ath Bilbao",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.6108,
-       "text": "Menos de 12.5 faltas de Ath Bilbao",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5665,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.11
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7558237628715716,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Espanol"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7351400032639076,
-     "line": 3.5,
-     "text": "Menos de 3.5 tiros a puerta de Espanol"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6471699912432775,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Ath Bilbao"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6108009192970187,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Ath Bilbao"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5665482688789298,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
     }
    ]
   },
@@ -64593,6 +64348,962 @@
      "text": "Menos de 4.5 córners de Albacete"
     }
    ]
+  },
+  "G1|2026-11-23|Asteras Tripolis|Aris": {
+   "match": "Asteras Tripolis vs Aris",
+   "start": "2026-11-23T15:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3166,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.739,
+       "text": "Menos de 3.5 tarjetas de Aris",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": -1,
+       "line": 15.5,
+       "p": 0.6535,
+       "text": "Menos de 15.5 faltas de Asteras Tripolis",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6437,
+       "text": "Menos de 4.5 tiros a puerta de Asteras Tripolis",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1295,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.739,
+       "text": "Menos de 3.5 tarjetas de Aris",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": -1,
+       "line": 15.5,
+       "p": 0.6535,
+       "text": "Menos de 15.5 faltas de Asteras Tripolis",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6437,
+       "text": "Menos de 4.5 tiros a puerta de Asteras Tripolis",
+       "odds": null
+      },
+      {
+       "var": "corners_t",
+       "sign": -1,
+       "line": 9.5,
+       "p": 0.6079,
+       "text": "Menos de 9.5 córners",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.5983,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.7
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.7390336277901153,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Aris"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": -1,
+     "p": 0.6535465560134087,
+     "line": 15.5,
+     "text": "Menos de 15.5 faltas de Asteras Tripolis"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.6437213489252743,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Asteras Tripolis"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_t",
+     "sign": -1,
+     "p": 0.6079495466664512,
+     "line": 9.5,
+     "text": "Menos de 9.5 córners"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.598292722831774,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    }
+   ]
+  },
+  "T1|2026-11-23|Buyuksehyr|Corum": {
+   "match": "Buyuksehyr vs Corum",
+   "start": "2026-11-23T17:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3478,
+     "legs": [
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.7376,
+       "text": "Más de 2.5 goles",
+       "odds": 1.55
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6959,
+       "text": "Menos de 2.5 tarjetas de Buyuksehyr",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6723,
+       "text": "Menos de 4.5 córners de Corum",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1493,
+     "legs": [
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.7376,
+       "text": "Más de 2.5 goles",
+       "odds": 1.55
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6959,
+       "text": "Menos de 2.5 tarjetas de Buyuksehyr",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6723,
+       "text": "Menos de 4.5 córners de Corum",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.66,
+       "text": "Menos de 4.5 tiros a puerta de Corum",
+       "odds": null
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.644,
+       "text": "Menos de 13.5 faltas de Corum",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": 1,
+     "p": 0.737642262038546,
+     "line": 2.5,
+     "text": "Más de 2.5 goles"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.6959121090935225,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Buyuksehyr"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6722513029191869,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Corum"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.6600028653759736,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Corum"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.6439994917652216,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Corum"
+    }
+   ]
+  },
+  "SP2|2026-11-23|Ceuta|Almeria": {
+   "match": "Ceuta vs Almeria",
+   "start": "2026-11-23T19:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.2897,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.699,
+       "text": "Menos de 3.5 tarjetas de Almeria",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.6926,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.641,
+       "text": "Menos de 4.5 córners de Almeria",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1818,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.699,
+       "text": "Menos de 3.5 tarjetas de Almeria",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.6926,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.641,
+       "text": "Menos de 4.5 córners de Almeria",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6258,
+       "text": "Menos de 5.5 tiros a puerta de Ceuta",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6990004131720305,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Almeria"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.692559882645021,
+     "line": 26.5,
+     "text": "Más de 26.5 faltas"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6410256595036569,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Almeria"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.6257920155183514,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Ceuta"
+    }
+   ]
+  },
+  "F2|2026-11-23|Nantes|Grenoble": {
+   "match": "Nantes vs Grenoble",
+   "start": "2026-11-23T19:45:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3784,
+     "legs": [
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7485,
+       "text": "Menos de 4.5 córners de Grenoble",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7023,
+       "text": "Menos de 2.5 tarjetas de Nantes",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6758,
+       "text": "Menos de 3.5 tiros a puerta de Grenoble",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.227,
+     "legs": [
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7485,
+       "text": "Menos de 4.5 córners de Grenoble",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7023,
+       "text": "Menos de 2.5 tarjetas de Nantes",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6758,
+       "text": "Menos de 3.5 tiros a puerta de Grenoble",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 29.5,
+       "p": 0.6232,
+       "text": "Más de 29.5 faltas",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.7484952689457264,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Grenoble"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.7022500046059275,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Nantes"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.6757899740471214,
+     "line": 3.5,
+     "text": "Menos de 3.5 tiros a puerta de Grenoble"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.6232152626511407,
+     "line": 29.5,
+     "text": "Más de 29.5 faltas"
+    }
+   ]
+  },
+  "F2|2026-11-23|Sochaux|Dunkerque": {
+   "match": "Sochaux vs Dunkerque",
+   "start": "2026-11-23T19:45:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3165,
+     "legs": [
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7432,
+       "text": "Menos de 2.5 tarjetas de Sochaux",
+       "odds": null
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 15.5,
+       "p": 0.6565,
+       "text": "Menos de 15.5 faltas de Dunkerque",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6409,
+       "text": "Menos de 4.5 córners de Dunkerque",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1898,
+     "legs": [
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7432,
+       "text": "Menos de 2.5 tarjetas de Sochaux",
+       "odds": null
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 15.5,
+       "p": 0.6565,
+       "text": "Menos de 15.5 faltas de Dunkerque",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6409,
+       "text": "Menos de 4.5 córners de Dunkerque",
+       "odds": null
+      },
+      {
+       "var": "sot_t",
+       "sign": -1,
+       "line": 8.5,
+       "p": 0.6197,
+       "text": "Menos de 8.5 tiros a puerta",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.7432358250928118,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Sochaux"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.6565365210265399,
+     "line": 15.5,
+     "text": "Menos de 15.5 faltas de Dunkerque"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6408657402079544,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Dunkerque"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_t",
+     "sign": -1,
+     "p": 0.6197436791537754,
+     "line": 8.5,
+     "text": "Menos de 8.5 tiros a puerta"
+    }
+   ]
+  },
+  "I1|2026-11-23|Monza|Fiorentina": {
+   "match": "Monza vs Fiorentina",
+   "start": "2026-11-23T19:45:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3341,
+     "legs": [
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7347,
+       "text": "Menos de 5.5 córners de Monza",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7062,
+       "text": "Menos de 2.5 tarjetas de Fiorentina",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": 1,
+       "line": 11.5,
+       "p": 0.6335,
+       "text": "Más de 11.5 faltas de Monza",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1837,
+     "legs": [
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7347,
+       "text": "Menos de 5.5 córners de Monza",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7062,
+       "text": "Menos de 2.5 tarjetas de Fiorentina",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": 1,
+       "line": 11.5,
+       "p": 0.6335,
+       "text": "Más de 11.5 faltas de Monza",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.5526,
+       "text": "Más de 2.5 goles",
+       "odds": 1.57
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "corners",
+     "var": "corners_h",
+     "sign": -1,
+     "p": 0.734721077212284,
+     "line": 5.5,
+     "text": "Menos de 5.5 córners de Monza"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.706214215309463,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Fiorentina"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": 1,
+     "p": 0.6335339658181053,
+     "line": 11.5,
+     "text": "Más de 11.5 faltas de Monza"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": 1,
+     "p": 0.5526471895643174,
+     "line": 2.5,
+     "text": "Más de 2.5 goles"
+    }
+   ]
+  },
+  "E0|2026-11-23|Brentford|Everton": {
+   "match": "Brentford vs Everton",
+   "start": "2026-11-23T20:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3922,
+     "legs": [
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 12.5,
+       "p": 0.7814,
+       "text": "Menos de 12.5 faltas de Everton",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7429,
+       "text": "Menos de 2.5 tarjetas de Brentford",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6877,
+       "text": "Menos de 5.5 tiros a puerta de Brentford",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1403,
+     "legs": [
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 12.5,
+       "p": 0.7814,
+       "text": "Menos de 12.5 faltas de Everton",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7429,
+       "text": "Menos de 2.5 tarjetas de Brentford",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6877,
+       "text": "Menos de 5.5 tiros a puerta de Brentford",
+       "odds": null
+      },
+      {
+       "var": "corners_t",
+       "sign": -1,
+       "line": 10.5,
+       "p": 0.5701,
+       "text": "Menos de 10.5 córners",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.5509,
+       "text": "Menos de 2.5 goles",
+       "odds": 2.05
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.7814426851643252,
+     "line": 12.5,
+     "text": "Menos de 12.5 faltas de Everton"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.7429105393539224,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Brentford"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.6876928893185904,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Brentford"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_t",
+     "sign": -1,
+     "p": 0.5701368734416541,
+     "line": 10.5,
+     "text": "Menos de 10.5 córners"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.5509366710981545,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    }
+   ]
+  },
+  "SP1|2026-11-23|Levante|Elche": {
+   "match": "Levante vs Elche",
+   "start": "2026-11-23T20:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.2767,
+     "legs": [
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6664,
+       "text": "Menos de 2.5 tarjetas de Levante",
+       "odds": null
+      },
+      {
+       "var": "corners_t",
+       "sign": -1,
+       "line": 10.5,
+       "p": 0.6517,
+       "text": "Menos de 10.5 córners",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.6332,
+       "text": "Más de 2.5 goles",
+       "odds": 1.66
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1927,
+     "legs": [
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6664,
+       "text": "Menos de 2.5 tarjetas de Levante",
+       "odds": null
+      },
+      {
+       "var": "corners_t",
+       "sign": -1,
+       "line": 10.5,
+       "p": 0.6517,
+       "text": "Menos de 10.5 córners",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.6332,
+       "text": "Más de 2.5 goles",
+       "odds": 1.66
+      },
+      {
+       "var": "sot_h",
+       "sign": 1,
+       "line": 4.5,
+       "p": 0.6192,
+       "text": "Más de 4.5 tiros a puerta de Levante",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.6663668597537997,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Levante"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_t",
+     "sign": -1,
+     "p": 0.651705545429399,
+     "line": 10.5,
+     "text": "Menos de 10.5 córners"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": 1,
+     "p": 0.6332125558038695,
+     "line": 2.5,
+     "text": "Más de 2.5 goles"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": 1,
+     "p": 0.6191762815693906,
+     "line": 4.5,
+     "text": "Más de 4.5 tiros a puerta de Levante"
+    }
+   ]
+  },
+  "nfl|2026-11-24|Washington Commanders|Cincinnati Bengals": {
+   "match": "Washington Commanders vs Cincinnati Bengals",
+   "start": "2026-11-24T01:15Z",
+   "combos": [
+    {
+     "kind": "nfl",
+     "p": 0.1519,
+     "odds": 6.33,
+     "edge": -0.039,
+     "legs": [
+      {
+       "var": "win_home",
+       "sign": 1,
+       "line": 0.0,
+       "p": 0.283,
+       "odds": 3.4,
+       "text": "Gana Washington Commanders"
+      },
+      {
+       "var": "total_t",
+       "sign": 1,
+       "line": 53.5,
+       "p": 0.514,
+       "odds": 1.862,
+       "text": "Más de 53.5 puntos"
+      }
+     ],
+     "sim": false
+    }
+   ],
+   "priced": true,
+   "lines": [
+    "🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%"
+   ]
   }
  },
  "combo_sent": "2026-11-20T23:23:08.993462+00:00",
@@ -64682,7 +65393,7 @@
   "SP2|2026-11-21|Tenerife|Mallorca"
  ],
  "paper_sent": "2026-11-20T18:54:48.880289+00:00",
- "sgp_res_n": 446,
+ "sgp_res_n": 475,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
@@ -64814,5 +65525,5 @@
   "nba|2026-11-21|Denver Nuggets|Houston Rockets"
  ],
  "radar_date": "2026-11-20",
- "sgp_res_sent": "2026-11-15T00:18:15.238092+00:00"
+ "sgp_res_sent": "2026-11-21T00:24:22.197945+00:00"
 }

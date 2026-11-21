@@ -1,61 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 00:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 01:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## kirman vs curuza — 21/11 · 00:56
+## Simaponika vs believer — 21/11 · 02:51
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.38** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.416 partidos)  
-Goles esperados: kirman 3.36 · curuza 2.78  
-Ganador: kirman 52% · empate 20% · curuza 29%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap kirman: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: kirman ✅❌✅❌❌ | curuza ✅❌❌✅✅  
-• Partidos: kirman 774 | curuza 929  
-• Liga: World Cup A  
-• Unibet: 1 1.53 · X 5.50 · 2 3.35 (sin margen 58%/16%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.50 (+8%) · Paf España 5.50 (+8%)  
-
-## Kosta vs Solya — 21/11 · 01:06
-
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana Solya** @ **1.27** (Unibet) · prob 84% vs casas 68% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.435 partidos)  
-Goles esperados: Kosta 3.26 · Solya 6.11  
-Ganador: Kosta 8% · empate 8% · Solya 83%  
+📊 **Escenarios** (Poisson por jugador, 75.460 partidos)  
+Goles esperados: Simaponika 1.89 · believer 3.64  
+Ganador: Simaponika 12% · empate 15% · believer 72%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap believer: −1.5 53% · −2.5 36%  
+🔎 **Claves**  
+• Forma: Simaponika ✅❌➖❌✅ | believer ✅✅✅✅✅  
+• Partidos: Simaponika 1349 | believer 1321  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## believer vs reddevil — 21/11 · 03:03
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.29** (cuota justa (sin casa)) · prob 78% vs casas 78% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 75.460 partidos)  
+Goles esperados: believer 3.95 · reddevil 1.92  
+Ganador: believer 78% · empate 13% · reddevil 9%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap believer: −1.5 58% · −2.5 41%  
+🔎 **Claves**  
+• Forma: believer ✅✅✅✅✅ | reddevil ❌❌❌❌❌  
+• Partidos: believer 1321 | reddevil 45  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kosta vs Solya — 21/11 · 03:08
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.20** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 75.460 partidos)  
+Goles esperados: Kosta 3.28 · Solya 6.07  
+Ganador: Kosta 9% · empate 8% · Solya 83%  
 Total: más de 9.5 goles 46% · menos 54%  
-Hándicap Solya: −1.5 67% · −2.5 54%  
+Hándicap Solya: −1.5 66% · −2.5 53%  
 🔎 **Claves**  
-• Forma: Kosta ❌❌➖✅❌ | Solya ✅➖✅✅❌  
-• Partidos: Kosta 327 | Solya 386  
-• Liga: Argentina Super League 2x6  
-• Unibet: 1 4.90 · X 6.00 · 2 1.27 (sin margen 18%/14%/68%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.27 (+6%) · Paf España 1.27 (+6%)  
-
-## hrk vs kirman — 21/11 · 01:20
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana kirman** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.435 partidos)  
-Goles esperados: hrk 2.60 · kirman 2.84  
-Ganador: hrk 34% · empate 22% · kirman 44%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap kirman: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: hrk ✅✅✅❌➖ | kirman ❌✅❌❌✅  
-• Partidos: hrk 931 | kirman 775  
-• Liga: World Cup A  
-• Unibet: 1 1.93 · X 4.50 · 2 2.48 (sin margen 45%/19%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+9%) · Paf España 2.48 (+9%)  
+• Forma: Kosta ➖✅❌❌❌ | Solya ➖✅✅❌✅  
+• Partidos: Kosta 329 | Solya 387  
+• Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 

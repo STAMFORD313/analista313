@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 00:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 01:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
 
@@ -146,6 +146,23 @@ Casas: STATE 75% · XI 25%
 • STATE gana 2-1: 25% → cuota justa 4.01  
 • XI gana 2-1: 15% → cuota justa 6.61  
 
+## Gelo vs JUMBO — 21/11 · 15:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Gelo** @ **2.43** (Thunderpick) · prob 44% vs casas 38% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.135 partidos)  
+Mapa: Gelo 50% · Serie BO1: Gelo 50% - 50% JUMBO  
+Casas: Gelo 38% · JUMBO 62%  
+🔎 **Claves**  
+• Elo: Gelo 1463 (10 series) | JUMBO 1462 (108 series)  
+• Forma: Gelo ✅❌✅❌❌ | JUMBO ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## INFINITE vs BAKS — 21/11 · 16:00
 
 👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana BAKS** @ **1.38** (Thunderpick) · prob 68% vs casas 67% · ventaja -6%
@@ -171,6 +188,23 @@ Casas: INFINITE 33% · BAKS 67%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
 INFINITE: sl3nd 35 (20-51) · Blytz 31 (18-47) · kyuubii 31 (17-46) · volt 31 (17-45) · ScrunK 25 (14-38)  
 BAKS: danistzz 37 (21-54) · glowiing 36 (21-54) · Norwi 35 (20-52) · whisper 35 (20-51) · turbo 33 (19-49)  
+
+## ZOTIX vs Gelo — 21/11 · 16:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Gelo** @ **2.40** (Thunderpick) · prob 42% vs casas 38% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.135 partidos)  
+Mapa: ZOTIX 55% · Serie BO1: ZOTIX 55% - 45% Gelo  
+Casas: ZOTIX 62% · Gelo 38%  
+🔎 **Claves**  
+• Elo: ZOTIX 1501 (96 series) | Gelo 1463 (10 series)  
+• Forma: ZOTIX ❌❌✅✅✅ | Gelo ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
 ## LPH vs Phantom Academy — 21/11 · 17:00
 
@@ -251,4 +285,24 @@ Casas: FORZE Reload 66% · WBT 34%
 • H2H: sin precedentes  
 • Torneo: European Pro League Series 10 (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## UNiTY vs Monkeys — 22/11 · 13:00
+
+👀 candidata · 🎮 CS2 · MČR 2026 · **Gana UNiTY** @ **1.17** (Thunderpick) · prob 77% vs casas 79% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.135 partidos)  
+Mapa: UNiTY 67% · Serie BO3: UNiTY 74% - 26% Monkeys  
+Casas: UNiTY 79% · Monkeys 21%  
+🔎 **Claves**  
+• Elo: UNiTY 1799 (569 series) | Monkeys 1612 (4 series)  
+• Forma: UNiTY ✅✅✅❌❌ | Monkeys ✅❌✅✅  
+• H2H: 1: 1-0  
+• Torneo: MČR 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• UNiTY gana 2-1: 24% → cuota justa 4.09 · casa 25%  
+• Monkeys gana 2-1: 12% → cuota justa 8.22 · casa 10%  
 

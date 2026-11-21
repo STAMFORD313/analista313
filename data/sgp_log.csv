@@ -445,3 +445,32 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-16,Albacete vs Celta B,corta,3,0.3748,0,1,0.7127,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Celta B + Menos de 3.5 tarjetas de Celta B,10
 2026-11-16,Albacete vs Celta B,larga,5,0.1349,0,1,0.6765,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Celta B + Menos de 3.5 tarjetas de Celta B + Menos de 4.5 córners de Celta B + Más de 2.5 goles,1000
 2026-11-17,Baltimore Ravens vs Los Angeles Chargers,nfl,2,0.178,0,1,0.418,5.44,-0.032,0,,Gana Los Angeles Chargers + Menos de 38.5 puntos,10
+2026-11-20,Bielefeld vs Magdeburg,corta,3,0.3193,1,3,0.6822,,,0,,Menos de 5.5 córners de Magdeburg + Más de 2.5 goles + Menos de 2.5 tarjetas de Bielefeld,111
+2026-11-20,Bielefeld vs Magdeburg,larga,5,0.1151,0,4,0.6674,,,0,,Menos de 5.5 córners de Magdeburg + Más de 2.5 goles + Menos de 2.5 tarjetas de Bielefeld + Menos de 10.5 tiros a puerta + Menos de 12.5 faltas de Magdeburg,11110
+2026-11-20,Bielefeld vs Magdeburg,valor,2,0.4821,1,2,0.6923,2.32,0.116,1,1.3199999999999998,Menos de 5.5 córners de Magdeburg + Más de 2.5 goles,11
+2026-11-20,Darmstadt vs Heidenheim,corta,3,0.2668,1,3,0.6325,,,0,,Menos de 5.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Darmstadt,111
+2026-11-20,Darmstadt vs Heidenheim,larga,4,0.1651,1,4,0.6208,,,0,,Menos de 5.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Darmstadt + Menos de 11.5 faltas de Darmstadt,1111
+2026-11-20,Annecy vs Clermont,corta,3,0.393,1,3,0.7311,,,0,,Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont,111
+2026-11-20,Annecy vs Clermont,larga,4,0.2725,0,3,0.7114,,,0,,Menos de 15.5 faltas de Clermont + Menos de 2.5 tarjetas de Annecy + Menos de 3.5 tiros a puerta de Clermont + Menos de 4.5 córners de Clermont,1110
+2026-11-20,Guingamp vs Rodez,corta,2,0.6864,1,2,0.8196,,,0,,Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp,11
+2026-11-20,Guingamp vs Rodez,larga,5,0.1673,0,4,0.6738,,,0,,Menos de 14.5 faltas de Guingamp + Menos de 2.5 tarjetas de Guingamp + Menos de 4.5 córners de Rodez + Más de 4.5 tiros a puerta de Guingamp + Más de 2.5 goles,11011
+2026-11-20,Guingamp vs Rodez,valor,2,0.3321,0,1,0.5731,2.62,-0.129,0,,Menos de 4.5 córners de Rodez + Más de 2.5 goles,01
+2026-11-20,Metz vs Boulogne,corta,3,0.2879,0,2,0.6604,,,0,,Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne,101
+2026-11-20,Metz vs Boulogne,larga,4,0.1553,0,3,0.6372,,,0,,Menos de 2.5 tarjetas de Metz + Menos de 2.5 goles + Menos de 4.5 córners de Boulogne + Más de 29.5 faltas,1011
+2026-11-20,Metz vs Boulogne,valor,2,0.413,0,1,0.6454,2.58,0.065,1,-1.0,Menos de 2.5 goles + Menos de 4.5 córners de Boulogne,01
+2026-11-20,Nancy vs Dijon,corta,3,0.3939,0,2,0.7339,,,0,,Menos de 2.5 tarjetas de Nancy + Más de 15.5 faltas de Dijon + Menos de 4.5 córners de Dijon,101
+2026-11-20,Red Star vs Pau FC,corta,3,0.354,0,0,0.7034,,,0,,Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC,000
+2026-11-20,Red Star vs Pau FC,larga,4,0.2075,0,1,0.6703,,,0,,Menos de 4.5 córners de Pau FC + Menos de 2.5 tarjetas de Red Star + Menos de 15.5 faltas de Pau FC + Más de 2.5 goles,0001
+2026-11-20,Verona vs Cesena,corta,3,0.3921,0,1,0.7211,,,0,,Menos de 2.5 tarjetas de Verona + Menos de 27.5 faltas + Menos de 4.5 córners de Cesena,001
+2026-11-20,Verona vs Cesena,larga,4,0.2602,0,1,0.6973,,,0,,Menos de 2.5 tarjetas de Verona + Menos de 27.5 faltas + Menos de 4.5 córners de Cesena + Menos de 3.5 tiros a puerta de Cesena,0010
+2026-11-20,Andorra vs Leganes,corta,3,0.3939,0,2,0.7326,,,0,,Menos de 4.5 tiros a puerta de Leganes + Menos de 4.5 córners de Leganes + Menos de 3.5 tarjetas de Leganes,011
+2026-11-20,Andorra vs Leganes,larga,5,0.1339,0,2,0.6652,,,0,,Menos de 4.5 tiros a puerta de Leganes + Menos de 4.5 córners de Leganes + Menos de 3.5 tarjetas de Leganes + Menos de 2.5 goles + Más de 13.5 faltas de Andorra,01100
+2026-11-20,Andorra vs Leganes,valor,2,0.4214,0,1,0.6567,2.63,0.109,1,-1.0,Menos de 4.5 córners de Leganes + Menos de 2.5 goles,10
+2026-11-20,Cercle Brugge vs Westerlo,corta,3,0.2398,0,2,0.624,3.62,-0.132,0,,Menos de 2.5 tarjetas de Westerlo + Menos de 4.5 córners de Westerlo + Más de 2.5 goles,110
+2026-11-20,Cercle Brugge vs Westerlo,larga,5,0.0584,0,3,0.6045,,,0,,Menos de 2.5 tarjetas de Westerlo + Menos de 4.5 córners de Westerlo + Más de 2.5 goles + Más de 11.5 faltas de Westerlo + Menos de 5.5 tiros a puerta de Cercle Brugge,11010
+2026-11-20,Cercle Brugge vs Westerlo,valor,2,0.384,0,1,0.6169,2.48,-0.047,0,,Menos de 4.5 córners de Westerlo + Más de 2.5 goles,10
+2026-11-20,Troyes vs Le Havre,corta,3,0.3048,0,2,0.6883,,,0,,Menos de 2.5 tarjetas de Troyes + Menos de 5.5 tiros a puerta de Troyes + Más de 24.5 faltas,101
+2026-11-20,Troyes vs Le Havre,larga,4,0.1891,0,3,0.6741,,,0,,Menos de 2.5 tarjetas de Troyes + Menos de 5.5 tiros a puerta de Troyes + Más de 24.5 faltas + Menos de 4.5 córners de Le Havre,1011
+2026-11-20,Troyes vs Le Havre,valor,2,0.4539,1,2,0.6733,1.87,-0.15,0,,Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Le Havre,11
+2026-11-20,Ath Bilbao vs Espanol,corta,3,0.3799,0,2,0.7127,,,0,,Menos de 4.5 córners de Espanol + Menos de 3.5 tiros a puerta de Espanol + Menos de 2.5 tarjetas de Ath Bilbao,110
+2026-11-20,Ath Bilbao vs Espanol,larga,5,0.154,0,3,0.6631,,,0,,Menos de 4.5 córners de Espanol + Menos de 3.5 tiros a puerta de Espanol + Menos de 2.5 tarjetas de Ath Bilbao + Menos de 12.5 faltas de Ath Bilbao + Menos de 2.5 goles,11001

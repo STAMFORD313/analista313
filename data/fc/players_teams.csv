@@ -75504,3 +75504,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2390381,262638,Arsenal,Tottenham,,
 2390382,262638,Liverpool,Arsenal,,
 2390383,262638,Chelsea,Man City,,
+2389266,262600,Argentina,Spain,0,3
+2389267,262600,Brazil,England,3,2
+2389268,262600,England,Argentina,0,1
+2389269,262600,Spain,France,3,0
+2389270,262600,France,England,1,2
+2389271,262600,Argentina,Brazil,3,3
+2389272,262600,Brazil,France,3,1
+2389273,262600,England,Spain,1,1
+2389274,262600,Spain,Brazil,2,2
+2389275,262600,France,Argentina,5,1
+2389276,262600,Spain,Argentina,1,0
+2389277,262600,England,Brazil,0,0
+2389278,262600,Argentina,England,,
+2389279,262600,France,Spain,,
+2389280,262600,England,France,,
+2389281,262600,Brazil,Argentina,,
+2389282,262600,France,Brazil,,
+2389283,262600,Spain,England,,
+2389284,262600,Brazil,Spain,,
+2389285,262600,Argentina,France,,
