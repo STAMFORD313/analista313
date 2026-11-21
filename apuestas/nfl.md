@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 21/11/2026 18:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Virginia Cavaliers vs North Carolina Tar Heels — 21/11 · 18:30
-
-👀 candidata · 🏈 NCAA Football · **Virginia Cavaliers -1.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Virginia Cavaliers cubre -1.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Virginia Cavaliers ✅❌❌❌✅ | North Carolina Tar Heels ✅❌❌✅❌  
-• H2H: 9 desde 2017: 6-3  
-• Bajas: Virginia Cavaliers: 0 fuera, 1 duda; North Carolina Tar Heels: sin bajas  
-
-## Virginia Cavaliers vs North Carolina Tar Heels — 21/11 · 18:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Virginia Cavaliers** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Virginia Cavaliers 54% · Gana North Carolina Tar Heels 46%  
-Casas: Virginia Cavaliers 52% · North Carolina Tar Heels 48%  
-Hándicap UVA -1.5 · Total puntos 43.5  
-🔎 **Claves**  
-• Forma: Virginia Cavaliers ✅❌❌❌✅ | North Carolina Tar Heels ✅❌❌✅❌  
-• H2H: 9 desde 2017: 6-3  
-• Bajas: Virginia Cavaliers: 0 fuera, 1 duda; North Carolina Tar Heels: sin bajas  
-• Favorito de las casas: Virginia Cavaliers @ 1.85  
+Actualizado 21/11/2026 18:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## West Virginia Mountaineers vs Houston Cougars — 21/11 · 19:00
 

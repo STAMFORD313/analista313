@@ -1,1084 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 18:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Gana Genk** @ **1.46** (Bwin) · prob 67% vs casas 67% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Más de 9.5 córners** @ **1.72** (Unibet) · prob 57% vs casas 53% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de RAAL La Louviere** @ **1.47** (Unibet) · prob 63% vs casas 62% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 4.5 córners de RAAL La Louviere** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Más de 6.5 córners de Genk** @ **2.00** (Unibet) · prob 49% vs casas 46% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Genk vs RAAL La Louviere — 21/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 8.5 córners de Genk** @ **1.26** (Unibet) · prob 71% vs casas 73% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.15 - 0.79)  
-1 70% · X 19% · 2 10%  
-1X 90% · X2 30% · 12 81%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 49%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Genk ❌✅✅❌❌ | RAAL La Louviere ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 6.0 goles/partido · +2.5 en 50%  
-• Bajas: Genk: sin bajas; RAAL La Louviere: sin bajas  
-• Favorito de las casas: Genk @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 49% · Genk +5.5 65% · RAAL La Louviere +4.5 29%  
-Tarjetas 1.5 - 2.5: total +3.5 56% · Genk +1.5 45% · RAAL La Louviere +2.5 46%  
-Faltas 10.8 - 11.4: total +22.5 45% · Genk +10.5 51% · RAAL La Louviere +11.5 46%  
-Tiros a puerta 6.8 - 2.8: total +9.5 48% · Genk +5.5 64% · RAAL La Louviere +4.5 17%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere → prob. 61%, cuota justa 1.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de RAAL La Louviere + Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas + Más de 2.5 goles → prob. 19%, cuota justa 5.32  
-🎯 No simulada (con cuota: Menos de 4.5 córners de RAAL La Louviere + Más de 3.5 tarjetas): cuota Unibet aprox. 2.12 (producto de piernas) · prob. 40% · ventaja -14%  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Stuttgart -0.75 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 48% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Gana Arsenal** @ **1.60** (Bwin) · prob 61% vs casas 61% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Kalamata +1.25 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 48% vs casas 46% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 goles** @ **1.91** (Bet365) · prob 51% vs casas 51% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Gana Castellon** @ **1.44** (Bwin) · prob 67% vs casas 67% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Schalke 04** @ **2.14** (Unibet) · prob 44% vs casas 43% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 6.5 córners de Schalke 04** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 3.5 córners de Stuttgart** @ **1.26** (Unibet) · prob 72% vs casas 73% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Schalke 04 vs Stuttgart — 21/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Stuttgart** @ **2.28** (Unibet) · prob 42% vs casas 40% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.79)  
-1 18% · X 25% · 2 56%  
-1X 44% · X2 82% · 12 75%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Schalke 04 ❌❌➖❌❌ | Stuttgart ✅❌❌✅✅  
-• H2H: 30 desde 2005: 14V-6E-10D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)  
-• Favorito de las casas: Stuttgart @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.3: total +10.5 40% · Schalke 04 +5.5 31% · Stuttgart +4.5 57%  
-Tarjetas 1.8 - 1.7: total +3.5 46% · Schalke 04 +2.5 27% · Stuttgart +2.5 24%  
-Faltas 11.1 - 11.7: total +21.5 58% · Schalke 04 +10.5 54% · Stuttgart +10.5 61%  
-Tiros a puerta 4.3 - 5.8: total +10.5 42% · Schalke 04 +5.5 27% · Stuttgart +4.5 66%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 → prob. 41%, cuota justa 2.41 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 tiros a puerta de Schalke 04 + Menos de 5.5 córners de Schalke 04 + Más de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 12%, cuota justa 8.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 5.5 córners de Schalke 04): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 53% · ventaja -9%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Más de 4.5 córners de Arsenal** @ **1.47** (Unibet) · prob 63% vs casas 63% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Menos de 7.5 córners de Arsenal** @ **1.28** (Unibet) · prob 73% vs casas 72% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Menos de 9.5 córners** @ **2.14** (Unibet) · prob 45% vs casas 43% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Más de 6.5 córners** @ **1.09** (Unibet) · prob 84% vs casas 84% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Newcastle** @ **1.23** (Unibet) · prob 74% vs casas 74% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Newcastle vs Arsenal — 21/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Newcastle** @ **1.37** (Unibet) · prob 70% vs casas 67% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.55)  
-1 16% · X 26% · 2 58%  
-1X 42% · X2 84% · 12 74%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Newcastle ❌❌✅❌➖ | Arsenal ✅✅✅✅✅  
-• H2H: 38 desde 2005: 6V-6E-26D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)  
-• Favorito de las casas: Arsenal @ 1.60  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.8: total +10.5 41% · Newcastle +5.5 27% · Arsenal +4.5 63%  
-Tarjetas 2.5 - 2.2: total +4.5 50% · Newcastle +2.5 46% · Arsenal +2.5 37%  
-Faltas 12.7 - 11.1: total +22.5 58% · Newcastle +11.5 61% · Arsenal +12.5 32%  
-Tiros a puerta 3.3 - 5.0: total +8.5 45% · Newcastle +5.5 12% · Arsenal +4.5 55%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Newcastle + Menos de 5.5 córners de Newcastle + Menos de 12.5 faltas de Arsenal + Menos de 2.5 tarjetas de Arsenal → prob. 32%, cuota justa 3.16  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Newcastle + Menos de 2.5 tarjetas de Arsenal): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 47% · ventaja -5%  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Kalamata** @ **2.33** (Unibet) · prob 42% vs casas 38% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de Kalamata** @ **1.46** (Unibet) · prob 58% vs casas 62% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de AEK** @ **1.54** (Unibet) · prob 60% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Menos de 5.5 córners de AEK** @ **1.65** (Unibet) · prob 53% vs casas 54% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Más de 9.5 córners** @ **2.38** (Unibet) · prob 41% vs casas 38% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Kalamata vs AEK — 21/11 · 18:30
-
-👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.44** (Unibet) · prob 59% vs casas 62% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.84)  
-1 14% · X 24% · 2 63%  
-1X 37% · X2 86% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Kalamata ✅✅❌➖➖ | AEK ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; AEK: sin bajas  
-• Favorito de las casas: AEK @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 5.7: total +9.5 45% · Kalamata +4.5 30% · AEK +4.5 62%  
-Tarjetas 2.9 - 2.5: total +5.5 45% · Kalamata +2.5 56% · AEK +3.5 24%  
-Faltas 14.7 - 15.0: total +30.5 43% · Kalamata +15.5 40% · AEK +15.5 43%  
-Tiros a puerta 3.6 - 5.1: total +8.5 50% · Kalamata +4.5 29% · AEK +3.5 73%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata → prob. 41%, cuota justa 2.47 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de AEK + Más de 3.5 tiros a puerta de AEK + Menos de 4.5 córners de Kalamata + Menos de 15.5 faltas de Kalamata + Más de 2.5 goles → prob. 16%, cuota justa 6.18  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 7.5 córners** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners** @ **1.28** (Unibet) · prob 73% vs casas 72% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Sevilla** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 6.5 córners de Sevilla** @ **1.30** (Unibet) · prob 72% vs casas 71% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Betis** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Sevilla vs Betis — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Betis** @ **1.34** (Unibet) · prob 69% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.27)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Sevilla ➖❌✅❌➖ | Betis ✅❌➖✅✅  
-• H2H: 36 desde 2005: 17V-12E-7D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)  
-• Favorito de las casas: Betis @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.5: total +10.5 35% · Sevilla +5.5 38% · Betis +4.5 44%  
-Tarjetas 2.4 - 2.0: total +4.5 45% · Sevilla +2.5 43% · Betis +2.5 33%  
-Faltas 13.1 - 11.1: total +25.5 39% · Sevilla +12.5 54% · Betis +12.5 33%  
-Tiros a puerta 4.6 - 4.4: total +9.5 41% · Sevilla +4.5 48% · Betis +3.5 62%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners + Más de 3.5 tiros a puerta de Betis + Menos de 2.5 goles → prob. 9%, cuota justa 10.72  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 2.5 goles): cuota Unibet aprox. 4.42 (producto de piernas) · prob. 38% · ventaja +69% → 1 u en la banca de simulación  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Eldense** @ **1.45** (Unibet) · prob 62% vs casas 63% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Eldense** @ **1.68** (Unibet) · prob 56% vs casas 54% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Castellon** @ **1.54** (Unibet) · prob 57% vs casas 59% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Castellon** @ **1.71** (Unibet) · prob 55% vs casas 53% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.43** (Unibet) · prob 63% vs casas 64% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
-
-## Castellon vs Eldense — 21/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 69% vs casas 65% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.00 - 0.87)  
-1 64% · X 22% · 2 14%  
-1X 86% · X2 36% · 12 78%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 51%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Castellon ❌✅✅➖✅ | Eldense ✅❌❌❌✅  
-• H2H: 2 desde 2024: 1V-1E-0D · 3.5 goles/partido · +2.5 en 50%  
-• Bajas: Castellon: sin bajas; Eldense: sin bajas  
-• Favorito de las casas: Castellon @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.4: total +9.5 49% · Castellon +5.5 55% · Eldense +4.5 26%  
-Tarjetas 2.2 - 3.2: total +5.5 44% · Castellon +2.5 37% · Eldense +3.5 40%  
-Faltas 11.5 - 13.3: total +26.5 36% · Castellon +13.5 27% · Eldense +13.5 46%  
-Tiros a puerta 6.0 - 3.2: total +8.5 56% · Castellon +5.5 54% · Eldense +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 4.5 córners de Eldense + Menos de 13.5 faltas de Castellon + Menos de 2.5 tarjetas de Castellon → prob. 29%, cuota justa 3.46  
+Actualizado 21/11/2026 18:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Feyenoord vs Excelsior — 21/11 · 18:45
 
@@ -10389,6 +9311,7 @@ Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%
 Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
 🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
 
 ## Celta B vs Valladolid — 22/11 · 18:30
 
@@ -10439,6 +9362,469 @@ Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%
 Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
 🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
+
+## PAOK vs Kifisia — 22/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 8.5 córners** @ **1.53** (Unibet) · prob 61% vs casas 58% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.20 - 0.80)  
+1 68% · X 20% · 2 12%  
+1X 88% · X2 32% · 12 80%  
++1.5 80% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: PAOK ❌✅❌✅➖ | Kifisia ✅❌✅❌✅  
+• H2H: 4 desde 2023: 4V-0E-0D · 4.2 goles/partido · +2.5 en 100%  
+• Bajas: PAOK: sin bajas; Kifisia: sin bajas  
+• Favorito de las casas: PAOK @ 1.41  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.1: total +9.5 52% · PAOK +4.5 73% · Kifisia +4.5 23%  
+Tarjetas 2.1 - 3.4: total +5.5 46% · PAOK +2.5 34% · Kifisia +3.5 45%  
+Faltas 13.2 - 15.1: total +30.5 35% · PAOK +15.5 27% · Kifisia +15.5 44%  
+Tiros a puerta 5.8 - 2.9: total +8.5 50% · PAOK +4.5 66% · Kifisia +3.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK + Menos de 2.5 tarjetas de PAOK + Más de 2.5 goles → prob. 18%, cuota justa 5.46  
+
+## PAOK vs Kifisia — 22/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 10.5 córners** @ **1.47** (Unibet) · prob 60% vs casas 61% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.20 - 0.80)  
+1 68% · X 20% · 2 12%  
+1X 88% · X2 32% · 12 80%  
++1.5 80% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: PAOK ❌✅❌✅➖ | Kifisia ✅❌✅❌✅  
+• H2H: 4 desde 2023: 4V-0E-0D · 4.2 goles/partido · +2.5 en 100%  
+• Bajas: PAOK: sin bajas; Kifisia: sin bajas  
+• Favorito de las casas: PAOK @ 1.41  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.1: total +9.5 52% · PAOK +4.5 73% · Kifisia +4.5 23%  
+Tarjetas 2.1 - 3.4: total +5.5 46% · PAOK +2.5 34% · Kifisia +3.5 45%  
+Faltas 13.2 - 15.1: total +30.5 35% · PAOK +15.5 27% · Kifisia +15.5 44%  
+Tiros a puerta 5.8 - 2.9: total +8.5 50% · PAOK +4.5 66% · Kifisia +3.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK + Menos de 2.5 tarjetas de PAOK + Más de 2.5 goles → prob. 18%, cuota justa 5.46  
+
+## PAOK vs Kifisia — 22/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 2.5 córners de Kifisia** @ **1.75** (Unibet) · prob 55% vs casas 51% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.20 - 0.80)  
+1 68% · X 20% · 2 12%  
+1X 88% · X2 32% · 12 80%  
++1.5 80% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: PAOK ❌✅❌✅➖ | Kifisia ✅❌✅❌✅  
+• H2H: 4 desde 2023: 4V-0E-0D · 4.2 goles/partido · +2.5 en 100%  
+• Bajas: PAOK: sin bajas; Kifisia: sin bajas  
+• Favorito de las casas: PAOK @ 1.41  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.1: total +9.5 52% · PAOK +4.5 73% · Kifisia +4.5 23%  
+Tarjetas 2.1 - 3.4: total +5.5 46% · PAOK +2.5 34% · Kifisia +3.5 45%  
+Faltas 13.2 - 15.1: total +30.5 35% · PAOK +15.5 27% · Kifisia +15.5 44%  
+Tiros a puerta 5.8 - 2.9: total +8.5 50% · PAOK +4.5 66% · Kifisia +3.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK + Menos de 2.5 tarjetas de PAOK + Más de 2.5 goles → prob. 18%, cuota justa 5.46  
+
+## PAOK vs Kifisia — 22/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 2.5 córners de Kifisia** @ **1.84** (Unibet) · prob 46% vs casas 49% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.20 - 0.80)  
+1 68% · X 20% · 2 12%  
+1X 88% · X2 32% · 12 80%  
++1.5 80% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: PAOK ❌✅❌✅➖ | Kifisia ✅❌✅❌✅  
+• H2H: 4 desde 2023: 4V-0E-0D · 4.2 goles/partido · +2.5 en 100%  
+• Bajas: PAOK: sin bajas; Kifisia: sin bajas  
+• Favorito de las casas: PAOK @ 1.41  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.1: total +9.5 52% · PAOK +4.5 73% · Kifisia +4.5 23%  
+Tarjetas 2.1 - 3.4: total +5.5 46% · PAOK +2.5 34% · Kifisia +3.5 45%  
+Faltas 13.2 - 15.1: total +30.5 35% · PAOK +15.5 27% · Kifisia +15.5 44%  
+Tiros a puerta 5.8 - 2.9: total +8.5 50% · PAOK +4.5 66% · Kifisia +3.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK + Menos de 2.5 tarjetas de PAOK + Más de 2.5 goles → prob. 18%, cuota justa 5.46  
+
+## PAOK vs Kifisia — 22/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 6.5 córners de PAOK** @ **1.84** (Unibet) · prob 48% vs casas 49% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.20 - 0.80)  
+1 68% · X 20% · 2 12%  
+1X 88% · X2 32% · 12 80%  
++1.5 80% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: PAOK ❌✅❌✅➖ | Kifisia ✅❌✅❌✅  
+• H2H: 4 desde 2023: 4V-0E-0D · 4.2 goles/partido · +2.5 en 100%  
+• Bajas: PAOK: sin bajas; Kifisia: sin bajas  
+• Favorito de las casas: PAOK @ 1.41  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.1: total +9.5 52% · PAOK +4.5 73% · Kifisia +4.5 23%  
+Tarjetas 2.1 - 3.4: total +5.5 46% · PAOK +2.5 34% · Kifisia +3.5 45%  
+Faltas 13.2 - 15.1: total +30.5 35% · PAOK +15.5 27% · Kifisia +15.5 44%  
+Tiros a puerta 5.8 - 2.9: total +8.5 50% · PAOK +4.5 66% · Kifisia +3.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK + Menos de 2.5 tarjetas de PAOK + Más de 2.5 goles → prob. 18%, cuota justa 5.46  
+
+## PAOK vs Kifisia — 22/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 7.5 córners de PAOK** @ **1.46** (Unibet) · prob 62% vs casas 62% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.20 - 0.80)  
+1 68% · X 20% · 2 12%  
+1X 88% · X2 32% · 12 80%  
++1.5 80% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: PAOK ❌✅❌✅➖ | Kifisia ✅❌✅❌✅  
+• H2H: 4 desde 2023: 4V-0E-0D · 4.2 goles/partido · +2.5 en 100%  
+• Bajas: PAOK: sin bajas; Kifisia: sin bajas  
+• Favorito de las casas: PAOK @ 1.41  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.1: total +9.5 52% · PAOK +4.5 73% · Kifisia +4.5 23%  
+Tarjetas 2.1 - 3.4: total +5.5 46% · PAOK +2.5 34% · Kifisia +3.5 45%  
+Faltas 13.2 - 15.1: total +30.5 35% · PAOK +15.5 27% · Kifisia +15.5 44%  
+Tiros a puerta 5.8 - 2.9: total +8.5 50% · PAOK +4.5 66% · Kifisia +3.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Kifisia + Menos de 15.5 faltas de PAOK + Más de 4.5 tiros a puerta de PAOK + Menos de 2.5 tarjetas de PAOK + Más de 2.5 goles → prob. 18%, cuota justa 5.46  
+
+## Osasuna vs Malaga — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.83)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Osasuna ❌✅❌❌➖ | Malaga ➖❌➖❌❌  
+• H2H: 18 desde 2005: 6V-8E-4D · 2.4 goles/partido · +2.5 en 39%  
+• Bajas: Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)  
+• Favorito de las casas: Osasuna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +10.5 35% · Osasuna +5.5 47% · Malaga +4.5 33%  
+Tarjetas 2.2 - 2.5: total +4.5 51% · Osasuna +2.5 39% · Malaga +2.5 46%  
+Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%  
+Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
+
+## Osasuna vs Malaga — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 72% vs casas 70% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.83)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Osasuna ❌✅❌❌➖ | Malaga ➖❌➖❌❌  
+• H2H: 18 desde 2005: 6V-8E-4D · 2.4 goles/partido · +2.5 en 39%  
+• Bajas: Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)  
+• Favorito de las casas: Osasuna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +10.5 35% · Osasuna +5.5 47% · Malaga +4.5 33%  
+Tarjetas 2.2 - 2.5: total +4.5 51% · Osasuna +2.5 39% · Malaga +2.5 46%  
+Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%  
+Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
+
+## Osasuna vs Malaga — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 4.5 córners de Osasuna** @ **1.56** (Unibet) · prob 60% vs casas 59% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.83)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Osasuna ❌✅❌❌➖ | Malaga ➖❌➖❌❌  
+• H2H: 18 desde 2005: 6V-8E-4D · 2.4 goles/partido · +2.5 en 39%  
+• Bajas: Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)  
+• Favorito de las casas: Osasuna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +10.5 35% · Osasuna +5.5 47% · Malaga +4.5 33%  
+Tarjetas 2.2 - 2.5: total +4.5 51% · Osasuna +2.5 39% · Malaga +2.5 46%  
+Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%  
+Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
+
+## Osasuna vs Malaga — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 8.5 córners de Osasuna** @ **1.13** (Unibet) · prob 83% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.83)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Osasuna ❌✅❌❌➖ | Malaga ➖❌➖❌❌  
+• H2H: 18 desde 2005: 6V-8E-4D · 2.4 goles/partido · +2.5 en 39%  
+• Bajas: Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)  
+• Favorito de las casas: Osasuna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +10.5 35% · Osasuna +5.5 47% · Malaga +4.5 33%  
+Tarjetas 2.2 - 2.5: total +4.5 51% · Osasuna +2.5 39% · Malaga +2.5 46%  
+Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%  
+Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
+
+## Osasuna vs Malaga — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Malaga** @ **1.28** (Unibet) · prob 70% vs casas 72% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.83)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Osasuna ❌✅❌❌➖ | Malaga ➖❌➖❌❌  
+• H2H: 18 desde 2005: 6V-8E-4D · 2.4 goles/partido · +2.5 en 39%  
+• Bajas: Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)  
+• Favorito de las casas: Osasuna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +10.5 35% · Osasuna +5.5 47% · Malaga +4.5 33%  
+Tarjetas 2.2 - 2.5: total +4.5 51% · Osasuna +2.5 39% · Malaga +2.5 46%  
+Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%  
+Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
+
+## Osasuna vs Malaga — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 3.5 córners de Malaga** @ **2.10** (Unibet) · prob 47% vs casas 44% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.83)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Osasuna ❌✅❌❌➖ | Malaga ➖❌➖❌❌  
+• H2H: 18 desde 2005: 6V-8E-4D · 2.4 goles/partido · +2.5 en 39%  
+• Bajas: Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)  
+• Favorito de las casas: Osasuna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +10.5 35% · Osasuna +5.5 47% · Malaga +4.5 33%  
+Tarjetas 2.2 - 2.5: total +4.5 51% · Osasuna +2.5 39% · Malaga +2.5 46%  
+Faltas 14.0 - 12.3: total +25.5 54% · Osasuna +12.5 63% · Malaga +12.5 45%  
+Tiros a puerta 5.3 - 3.1: total +9.5 34% · Osasuna +4.5 60% · Malaga +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Osasuna + Menos de 2.5 tarjetas de Osasuna + Menos de 2.5 goles → prob. 11%, cuota justa 8.98  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Malaga + Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.39 (producto de piernas) · prob. 31% · ventaja +35% → 1 u en la banca de simulación  
+
+## Girona vs Eibar — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 6.5 córners de Girona** @ **2.33** (Unibet) · prob 41% vs casas 39% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 0.84)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Girona ✅✅❌❌✅ | Eibar ❌➖❌➖➖  
+• H2H: 10 desde 2009: 2V-2E-6D · 3.6 goles/partido · +2.5 en 70%  
+• Bajas: Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)  
+• Favorito de las casas: Girona @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +9.5 49% · Girona +5.5 55% · Eibar +4.5 27%  
+Tarjetas 2.4 - 2.9: total +5.5 44% · Girona +2.5 43% · Eibar +3.5 34%  
+Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%  
+Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
+
+## Girona vs Eibar — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 7.5 córners de Girona** @ **1.28** (Unibet) · prob 70% vs casas 71% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 0.84)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Girona ✅✅❌❌✅ | Eibar ❌➖❌➖➖  
+• H2H: 10 desde 2009: 2V-2E-6D · 3.6 goles/partido · +2.5 en 70%  
+• Bajas: Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)  
+• Favorito de las casas: Girona @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +9.5 49% · Girona +5.5 55% · Eibar +4.5 27%  
+Tarjetas 2.4 - 2.9: total +5.5 44% · Girona +2.5 43% · Eibar +3.5 34%  
+Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%  
+Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
+
+## Girona vs Eibar — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 61% vs casas 61% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 0.84)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Girona ✅✅❌❌✅ | Eibar ❌➖❌➖➖  
+• H2H: 10 desde 2009: 2V-2E-6D · 3.6 goles/partido · +2.5 en 70%  
+• Bajas: Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)  
+• Favorito de las casas: Girona @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +9.5 49% · Girona +5.5 55% · Eibar +4.5 27%  
+Tarjetas 2.4 - 2.9: total +5.5 44% · Girona +2.5 43% · Eibar +3.5 34%  
+Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%  
+Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
+
+## Girona vs Eibar — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 0.84)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Girona ✅✅❌❌✅ | Eibar ❌➖❌➖➖  
+• H2H: 10 desde 2009: 2V-2E-6D · 3.6 goles/partido · +2.5 en 70%  
+• Bajas: Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)  
+• Favorito de las casas: Girona @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +9.5 49% · Girona +5.5 55% · Eibar +4.5 27%  
+Tarjetas 2.4 - 2.9: total +5.5 44% · Girona +2.5 43% · Eibar +3.5 34%  
+Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%  
+Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
+
+## Girona vs Eibar — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Eibar** @ **1.36** (Unibet) · prob 65% vs casas 67% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 0.84)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Girona ✅✅❌❌✅ | Eibar ❌➖❌➖➖  
+• H2H: 10 desde 2009: 2V-2E-6D · 3.6 goles/partido · +2.5 en 70%  
+• Bajas: Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)  
+• Favorito de las casas: Girona @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +9.5 49% · Girona +5.5 55% · Eibar +4.5 27%  
+Tarjetas 2.4 - 2.9: total +5.5 44% · Girona +2.5 43% · Eibar +3.5 34%  
+Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%  
+Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
+
+## Girona vs Eibar — 22/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 2.5 córners de Eibar** @ **2.75** (Unibet) · prob 35% vs casas 33% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 0.84)  
+1 51% · X 28% · 2 21%  
+1X 79% · X2 49% · 12 72%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Girona ✅✅❌❌✅ | Eibar ❌➖❌➖➖  
+• H2H: 10 desde 2009: 2V-2E-6D · 3.6 goles/partido · +2.5 en 70%  
+• Bajas: Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)  
+• Favorito de las casas: Girona @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +9.5 49% · Girona +5.5 55% · Eibar +4.5 27%  
+Tarjetas 2.4 - 2.9: total +5.5 44% · Girona +2.5 43% · Eibar +3.5 34%  
+Faltas 10.8 - 12.6: total +26.5 27% · Girona +13.5 21% · Eibar +13.5 39%  
+Tiros a puerta 5.4 - 3.5: total +8.5 52% · Girona +5.5 45% · Eibar +4.5 27%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Girona + Menos de 4.5 córners de Eibar + Menos de 4.5 tiros a puerta de Eibar + Menos de 3.5 tarjetas de Eibar + Menos de 2.5 goles → prob. 19%, cuota justa 5.27  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eibar + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 44% · ventaja +26% → 1 u en la banca de simulación  
 
 ## Sarpsborg 08 vs Lillestrom — 22/11 · 19:15
 

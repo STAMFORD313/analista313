@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 18:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 18:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Shinobu vs SDI — 21/11 · 18:14
+## Dicca vs pikalicaaa — 21/11 · 18:59
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana SDI** @ **2.48** (Unibet) · prob 46% vs casas 35% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Dicca** @ **2.02** (Unibet) · prob 55% vs casas 43% · ventaja +11%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.276 partidos)  
-Goles esperados: Shinobu 2.72 · SDI 2.95  
-Ganador: Shinobu 37% · empate 17% · SDI 45%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap SDI: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 76.304 partidos)  
+Goles esperados: Dicca 3.08 · pikalicaaa 2.37  
+Ganador: Dicca 55% · empate 19% · pikalicaaa 26%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Dicca: −1.5 36% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Shinobu ❌❌❌✅✅ | SDI ➖❌✅➖✅  
-• Partidos: Shinobu 1681 | SDI 713  
-• Liga: A-League  
-• Unibet: 1 1.92 · X 4.50 · 2 2.48 (sin margen 45%/19%/35%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+13%) · Paf España 2.48 (+13%)  
+• Forma: Dicca ✅❌❌➖✅ | pikalicaaa ✅❌✅✅✅  
+• Partidos: Dicca 949 | pikalicaaa 819  
+• Liga: Champions League A  
+• Unibet: 1 2.02 · X 3.95 · 2 2.50 (sin margen 43%/22%/35%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.02 (+11%) · Paf España 2.02 (+11%)  
 
-## flamez vs TikitakaMaster — 21/11 · 18:26
+## SpeciAL vs Lx7ss — 21/11 · 19:08
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana TikitakaMaster** @ **2.18** (Unibet) · prob 52% vs casas 40% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Lx7ss** @ **2.25** (Unibet) · prob 50% vs casas 39% · ventaja +12%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.276 partidos)  
-Goles esperados: flamez 3.85 · TikitakaMaster 4.47  
-Ganador: flamez 35% · empate 13% · TikitakaMaster 52%  
-Total: más de 8.5 goles 45% · menos 55%  
-Hándicap TikitakaMaster: −1.5 38% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 76.304 partidos)  
+Goles esperados: SpeciAL 3.11 · Lx7ss 3.61  
+Ganador: SpeciAL 31% · empate 19% · Lx7ss 50%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap Lx7ss: −1.5 34% · −2.5 21%  
 🔎 **Claves**  
-• Forma: flamez ✅❌❌❌➖ | TikitakaMaster ✅✅❌✅✅  
-• Partidos: flamez 903 | TikitakaMaster 820  
-• Liga: Champions League B 2x6  
-• Unibet: 1 2.10 · X 4.70 · 2 2.18 (sin margen 41%/19%/40%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+13%) · Paf España 2.18 (+13%)  
+• Forma: SpeciAL ❌➖✅➖❌ | Lx7ss ✅✅✅❌➖  
+• Partidos: SpeciAL 1045 | Lx7ss 1212  
+• Liga: World Cup B  
+• Unibet: 1 2.00 · X 4.90 · 2 2.25 (sin margen 44%/18%/39%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+12%) · Paf España 2.25 (+12%)  
 
-## berg vs Shinobu — 21/11 · 18:26
+## Djape vs Joop — 21/11 · 19:14
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana berg** @ **1.68** (Unibet) · prob 66% vs casas 52% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **5.75** (Unibet) · prob 20% vs casas 15% · ventaja +12%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.276 partidos)  
-Goles esperados: berg 3.41 · Shinobu 1.96  
-Ganador: berg 66% · empate 15% · Shinobu 20%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap berg: −1.5 48% · −2.5 31%  
+📊 **Escenarios** (Poisson por jugador, 76.304 partidos)  
+Goles esperados: Djape 3.63 · Joop 2.61  
+Ganador: Djape 58% · empate 19% · Joop 23%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Djape: −1.5 42% · −2.5 27%  
 🔎 **Claves**  
-• Forma: berg ✅✅✅✅➖ | Shinobu ❌❌❌✅✅  
-• Partidos: berg 1135 | Shinobu 1681  
-• Liga: A-League  
-• Unibet: 1 1.68 · X 4.50 · 2 3.05 (sin margen 52%/19%/29%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.68 (+10%) · Paf España 1.68 (+10%)  
+• Forma: Djape ✅✅✅✅➖ | Joop ✅➖❌❌✅  
+• Partidos: Djape 316 | Joop 315  
+• Liga: Super Lig  
+• Unibet: 1 1.40 · X 5.75 · 2 3.80 (sin margen 62%/15%/23%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.75 (+12%) · Paf España 5.75 (+12%)  
 
