@@ -3744,5 +3744,56 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261121173018295611",
+  "creada": "2026-11-21 17:30:18.295651+00:00",
+  "titulo": "Barrido · Combinada cuota 41.4",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-22 11:00:00+00:00",
+    "home": "Illescas",
+    "away": "Toledo",
+    "txt": "Gana Toledo",
+    "odds": 2.55,
+    "p": 0.4376
+   },
+   {
+    "code": "E1",
+    "start": "2026-11-22 12:00:00+00:00",
+    "home": "Burnley",
+    "away": "Blackburn Rovers",
+    "txt": "Menos de 4.5 tarjetas",
+    "odds": 2.1,
+    "p": 0.5110646228938569
+   },
+   {
+    "code": null,
+    "start": "2026-11-22 13:30:00+00:00",
+    "home": "Club Africain",
+    "away": "Esperance Sportive de Tunis",
+    "txt": "Empate",
+    "odds": 2.6,
+    "p": 0.4118
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-23 01:00:00+00:00",
+    "home": "Milk",
+    "away": "Celestial",
+    "txt": "Gana Celestial",
+    "odds": 2.97,
+    "p": 0.4014668911335577
+   }
+  ],
+  "odds": 41.35,
+  "p": 0.03697338470887483,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
