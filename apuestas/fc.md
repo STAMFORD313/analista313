@@ -1,44 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 14:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 14:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## RuBIX vs cl1vlind — 21/11 · 14:13
+## saportj vs Gazi — 21/11 · 14:18
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 15% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 15% · ventaja +10%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.055 partidos)  
-Goles esperados: RuBIX 3.45 · cl1vlind 2.66  
-Ganador: RuBIX 54% · empate 19% · cl1vlind 27%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap RuBIX: −1.5 38% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 76.063 partidos)  
+Goles esperados: saportj 2.86 · Gazi 2.34  
+Ganador: saportj 54% · empate 18% · Gazi 28%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap saportj: −1.5 33% · −2.5 19%  
 🔎 **Claves**  
-• Forma: RuBIX ➖➖❌➖✅ | cl1vlind ➖✅❌❌➖  
-• Partidos: RuBIX 346 | cl1vlind 795  
-• Liga: Champions League B  
-• Unibet: 1 1.54 · X 6.00 · 2 3.15 (sin margen 57%/15%/28%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+16%) · Paf España 6.00 (+16%)  
+• Forma: saportj ❌❌❌❌❌ | Gazi ➖❌✅➖✅  
+• Partidos: saportj 1106 | Gazi 586  
+• Liga: CSL  
+• Unibet: 1 1.70 · X 6.00 · 2 2.63 (sin margen 52%/15%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+10%) · Paf España 6.00 (+10%)  
 
-## Artrom vs Edwardson — 21/11 · 14:16
+## Lumix vs Ganger_29 — 21/11 · 14:22
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Empate** @ **4.40** (Unibet) · prob 25% vs casas 20% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Lumix** @ **2.05** (Unibet) · prob 52% vs casas 42% · ventaja +7%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.055 partidos)  
-Goles esperados: Artrom 1.66 · Edwardson 1.96  
-Ganador: Artrom 27% · empate 25% · Edwardson 47%  
-Total: más de 3.5 goles 49% · menos 51%  
-Hándicap Edwardson: −1.5 25% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 76.063 partidos)  
+Goles esperados: Lumix 3.10 · Ganger_29 2.50  
+Ganador: Lumix 52% · empate 20% · Ganger_29 27%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Lumix: −1.5 34% · −2.5 20%  
 🔎 **Claves**  
-• Forma: Artrom ➖✅❌➖❌ | Edwardson ➖✅❌➖✅  
-• Partidos: Artrom 708 | Edwardson 1406  
-• Liga: LaLiga  
-• Unibet: 1 2.55 · X 4.40 · 2 1.89 (sin margen 34%/20%/46%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.40 (+10%) · Paf España 4.40 (+10%)  
+• Forma: Lumix ❌✅✅✅✅ | Ganger_29 ➖❌❌❌➖  
+• Partidos: Lumix 1204 | Ganger_29 1046  
+• Liga: FA Cup  
+• Unibet: 1 2.05 · X 3.60 · 2 2.60 (sin margen 42%/24%/33%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.05 (+7%) · Paf España 2.05 (+7%)  
 
 ## Jekunam vs DaVa — 21/11 · 14:28
 
