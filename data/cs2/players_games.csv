@@ -35020,3 +35020,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192951,133413,ex-rustec-vs-hype-tech-21-11-2026,2026-11-21T15:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,25790,ex-RUSTEC,Hype Tech,1,de_nuke,25790,13.0,10.0
 193415,133872,infinite-gaming-vs-baks-esports-21-11-2026,2026-11-21T15:15:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,1024,2924,INFINITE,BAKS,1,de_cache,1024,13.0,10.0
 192948,133412,baks-esports-vs-butterfly-21-11-2026,2026-11-21T18:30:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,2924,24855,BAKS,Butterfly,1,de_inferno,24855,13.0,11.0
+193417,133873,betclic-apogee-esports-vs-forze-reload-21-11-2026,2026-11-21T18:45:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,11101,10703,Betclic,FORZE Reload,2,de_nuke,11101,13.0,11.0
+193418,133873,betclic-apogee-esports-vs-forze-reload-21-11-2026,2026-11-21T18:45:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,11101,10703,Betclic,FORZE Reload,1,de_cache,11101,22.0,19.0

@@ -141,8 +141,8 @@ id,date,event,home,away,hs,as,res
 401866468,2026-11-21T00:30Z,Bowling Green Falcons at Toledo Rockets,Toledo Rockets,Bowling Green Falcons,19,0,1.0
 401864545,2026-11-21T01:00Z,UTEP Miners at Air Force Falcons,Air Force Falcons,UTEP Miners,52,3,1.0
 401864542,2026-11-21T02:00Z,New Mexico Lobos at Wyoming Cowboys,Wyoming Cowboys,New Mexico Lobos,17,24,0.0
+401856868,2026-11-21T18:00Z,Houston Cougars at West Virginia Mountaineers,West Virginia Mountaineers,Houston Cougars,31,34,0.0
 401856866,2026-11-21T17:00Z,BYU Cougars at Kansas Jayhawks,Kansas Jayhawks,BYU Cougars,29,31,0.0
-401858305,2026-11-21T17:30Z,North Carolina Tar Heels at Virginia Cavaliers,Virginia Cavaliers,North Carolina Tar Heels,41,24,1.0
 401858310,2026-11-21T17:00Z,Wake Forest Demon Deacons at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Wake Forest Demon Deacons,29,50,0.0
 401858531,2026-11-21T17:00Z,Ohio State Buckeyes at Nebraska Cornhuskers,Nebraska Cornhuskers,Ohio State Buckeyes,31,28,1.0
 401856748,2026-11-21T17:00Z,Vanderbilt Commodores at Florida Gators,Florida Gators,Vanderbilt Commodores,34,27,1.0
@@ -154,3 +154,6 @@ id,date,event,home,away,hs,as,res
 401862831,2026-11-21T17:00Z,East Carolina Pirates at Army Black Knights,Army Black Knights,East Carolina Pirates,6,10,0.0
 401862834,2026-11-21T17:00Z,Memphis Tigers at Navy Midshipmen,Navy Midshipmen,Memphis Tigers,38,34,1.0
 401862835,2026-11-21T17:00Z,North Texas Mean Green at Tulane Green Wave,Tulane Green Wave,North Texas Mean Green,28,24,1.0
+401858305,2026-11-21T17:30Z,North Carolina Tar Heels at Virginia Cavaliers,Virginia Cavaliers,North Carolina Tar Heels,41,24,1.0
+401856750,2026-11-21T18:00Z,Tennessee Tech Golden Eagles at Mississippi State Bulldogs,Mississippi State Bulldogs,Tennessee Tech Golden Eagles,34,16,1.0
+401871080,2026-11-21T18:00Z,Western Kentucky Hilltoppers at Liberty Flames,Liberty Flames,Western Kentucky Hilltoppers,45,14,1.0
