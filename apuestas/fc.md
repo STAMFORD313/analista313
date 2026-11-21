@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 09:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 09:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs A1ose — 21/11 · 09:19
+## zoyir vs imagin — 21/11 · 09:56
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana cl1vlind** @ **3.80** (Unibet) · prob 30% vs casas 23% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **4.40** (Unibet) · prob 25% vs casas 20% · ventaja +11%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.807 partidos)  
-Goles esperados: cl1vlind 2.79 · A1ose 3.25  
-Ganador: cl1vlind 30% · empate 21% · A1ose 49%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap A1ose: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 75.835 partidos)  
+Goles esperados: zoyir 4.56 · imagin 3.42  
+Ganador: zoyir 59% · empate 16% · imagin 25%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap zoyir: −1.5 44% · −2.5 31%  
 🔎 **Claves**  
-• Forma: cl1vlind ❌✅✅❌✅ | A1ose ✅❌➖✅❌  
-• Partidos: cl1vlind 777 | A1ose 1119  
-• Liga: Serie A  
-• Unibet: 1 3.80 · X 3.10 · 2 1.79 (sin margen 23%/28%/49%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+16%) · Paf España 3.80 (+16%)  
-
-## imagin vs Frantsuz — 21/11 · 09:20
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **3.40** (Unibet) · prob 33% vs casas 25% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.807 partidos)  
-Goles esperados: imagin 4.45 · Frantsuz 5.02  
-Ganador: imagin 33% · empate 15% · Frantsuz 51%  
-Total: más de 9.5 goles 47% · menos 53%  
-Hándicap Frantsuz: −1.5 38% · −2.5 26%  
-🔎 **Claves**  
-• Forma: imagin ❌❌➖✅➖ | Frantsuz ➖✅➖✅✅  
-• Partidos: imagin 365 | Frantsuz 767  
+• Forma: zoyir ✅✅❌➖✅ | imagin ❌➖✅➖➖  
+• Partidos: zoyir 658 | imagin 366  
 • Liga: Champions League A 2x6  
-• Unibet: 1 3.40 · X 5.60 · 2 1.46 (sin margen 25%/15%/59%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.40 (+13%) · Paf España 3.40 (+13%)  
+• Unibet: 1 1.40 · X 4.75 · 2 4.40 (sin margen 62%/18%/20%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.40 (+11%) · Paf España 4.40 (+11%)  
 
-## Ganger_29 vs Tesla — 21/11 · 09:40
+## Jekunam vs DaVa — 21/11 · 09:58
 
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Ganger_29** @ **3.95** (Unibet) · prob 31% vs casas 22% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **1.93** (Unibet) · prob 56% vs casas 45% · ventaja +8%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.807 partidos)  
-Goles esperados: Ganger_29 2.81 · Tesla 3.64  
-Ganador: Ganger_29 31% · empate 18% · Tesla 51%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap Tesla: −1.5 39% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 75.835 partidos)  
+Goles esperados: Jekunam 2.02 · DaVa 2.80  
+Ganador: Jekunam 24% · empate 21% · DaVa 56%  
+Total: más de 4.5 goles 53% · menos 47%  
+Hándicap DaVa: −1.5 36% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Ganger_29 ❌➖❌❌✅ | Tesla ✅✅✅✅✅  
-• Partidos: Ganger_29 1028 | Tesla 1236  
-• Liga: Ligue 1  
-• Unibet: 1 3.95 · X 3.90 · 2 1.60 (sin margen 22%/23%/55%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.95 (+24%) · Paf España 3.95 (+24%)  
+• Forma: Jekunam ✅✅❌✅✅ | DaVa ✅✅✅✅✅  
+• Partidos: Jekunam 1283 | DaVa 1456  
+• Liga: Champions League AFC  
+• Unibet: 1 3.20 · X 3.10 · 2 1.93 (sin margen 27%/28%/45%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.93 (+8%) · Paf España 1.93 (+8%)  
 
