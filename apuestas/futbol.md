@@ -1,199 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 19:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grazer AK vs SK Rapid — 21/11 · 19:30
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana SK Rapid** @ **1.44** (Bet365) · prob 68% vs casas 68% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 1.35)  
-1 28% · X 28% · 2 44%  
-1X 56% · X2 72% · 12 72%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Grazer AK ➖❌➖❌❌ | SK Rapid ✅✅✅✅✅  
-• H2H: 5 desde 2024: 1V-2E-2D · 3.6 goles/partido · +2.5 en 60%  
-• Bajas: Grazer AK: sin bajas; SK Rapid: sin bajas  
-• Favorito de las casas: SK Rapid @ 1.44  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Empoli +0.5 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 50% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Empoli** @ **1.94** (Unibet) · prob 47% vs casas 46% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Empoli** @ **1.36** (Unibet) · prob 67% vs casas 66% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.54** (Unibet) · prob 60% vs casas 58% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.45** (Unibet) · prob 62% vs casas 62% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Pisa** @ **1.76** (Unibet) · prob 52% vs casas 51% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
-
-## Empoli vs Pisa — 21/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Pisa** @ **1.83** (Unibet) · prob 48% vs casas 49% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.41)  
-1 30% · X 29% · 2 41%  
-1X 59% · X2 70% · 12 71%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Empoli ➖❌❌➖➖ | Pisa ✅➖➖❌➖  
-• H2H: 6 desde 2008: 3V-1E-2D · 3.2 goles/partido · +2.5 en 67%  
-• Bajas: Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
-• Favorito de las casas: Pisa @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.1: total +9.5 50% · Empoli +5.5 33% · Pisa +4.5 54%  
-Tarjetas 2.1 - 2.1: total +4.5 41% · Empoli +2.5 35% · Pisa +2.5 36%  
-Faltas 12.9 - 13.5: total +27.5 40% · Empoli +14.5 32% · Pisa +13.5 47%  
-Tiros a puerta 3.9 - 4.4: total +8.5 46% · Empoli +5.5 21% · Pisa +3.5 63%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Empoli + Menos de 14.5 faltas de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Empoli → prob. 26%, cuota justa 3.92  
+Actualizado 21/11/2026 19:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## New England Revolution vs Philadelphia Union — 21/11 · 20:00
 
@@ -9304,6 +9111,163 @@ Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%
 Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
 🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lommel SK vs Standard — 22/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Standard** @ **1.37** (Unibet) · prob 67% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 0.83)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Lommel SK ➖✅➖✅➖ | Standard ❌❌❌➖✅  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Standard: sin bajas  
+• Favorito de las casas: Standard @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Lommel SK +5.5 43% · Standard +4.5 51%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Lommel SK +1.5 45% · Standard +2.5 30%  
+Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%  
+Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
+🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lommel SK vs Standard — 22/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Standard** @ **1.30** (Unibet) · prob 73% vs casas 70% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 0.83)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Lommel SK ➖✅➖✅➖ | Standard ❌❌❌➖✅  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Standard: sin bajas  
+• Favorito de las casas: Standard @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Lommel SK +5.5 43% · Standard +4.5 51%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Lommel SK +1.5 45% · Standard +2.5 30%  
+Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%  
+Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
+🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lommel SK vs Standard — 22/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Lommel SK** @ **1.76** (Unibet) · prob 55% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 0.83)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Lommel SK ➖✅➖✅➖ | Standard ❌❌❌➖✅  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Standard: sin bajas  
+• Favorito de las casas: Standard @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Lommel SK +5.5 43% · Standard +4.5 51%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Lommel SK +1.5 45% · Standard +2.5 30%  
+Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%  
+Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
+🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lommel SK vs Standard — 22/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Lommel SK** @ **1.29** (Unibet) · prob 70% vs casas 71% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 0.83)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Lommel SK ➖✅➖✅➖ | Standard ❌❌❌➖✅  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Standard: sin bajas  
+• Favorito de las casas: Standard @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Lommel SK +5.5 43% · Standard +4.5 51%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Lommel SK +1.5 45% · Standard +2.5 30%  
+Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%  
+Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
+🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lommel SK vs Standard — 22/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 0.83)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Lommel SK ➖✅➖✅➖ | Standard ❌❌❌➖✅  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Standard: sin bajas  
+• Favorito de las casas: Standard @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Lommel SK +5.5 43% · Standard +4.5 51%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Lommel SK +1.5 45% · Standard +2.5 30%  
+Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%  
+Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
+🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lommel SK vs Standard — 22/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 0.83)  
+1 41% · X 31% · 2 28%  
+1X 72% · X2 59% · 12 69%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Lommel SK ➖✅➖✅➖ | Standard ❌❌❌➖✅  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Standard: sin bajas  
+• Favorito de las casas: Standard @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Lommel SK +5.5 43% · Standard +4.5 51%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Lommel SK +1.5 45% · Standard +2.5 30%  
+Faltas 9.3 - 10.0: total +22.5 24% · Lommel SK +10.5 33% · Standard +11.5 31%  
+Tiros a puerta 4.6 - 4.2: total +9.5 38% · Lommel SK +5.5 31% · Standard +4.5 40%  
+🧩 Crear apuesta: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 22.5 faltas + Menos de 2.5 tarjetas de Standard + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK → prob. 17%, cuota justa 6.01  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 3.53 (producto de piernas) · prob. 36% · ventaja +26% → 1 u en la banca de simulación  
 
 ## Rosario Central vs Gimnasia Mendoza — 22/11 · 20:00
 

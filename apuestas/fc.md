@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 19:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Djape vs Joop — 21/11 · 19:14
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **5.75** (Unibet) · prob 20% vs casas 15% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.304 partidos)  
-Goles esperados: Djape 3.63 · Joop 2.61  
-Ganador: Djape 58% · empate 19% · Joop 23%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap Djape: −1.5 42% · −2.5 27%  
-🔎 **Claves**  
-• Forma: Djape ✅✅✅✅➖ | Joop ✅➖❌❌✅  
-• Partidos: Djape 316 | Joop 315  
-• Liga: Super Lig  
-• Unibet: 1 1.40 · X 5.75 · 2 3.80 (sin margen 62%/15%/23%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.75 (+12%) · Paf España 5.75 (+12%)  
-
-## Joop vs Vanste — 21/11 · 19:26
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **4.70** (Unibet) · prob 24% vs casas 19% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.330 partidos)  
-Goles esperados: Joop 2.52 · Vanste 2.53  
-Ganador: Joop 40% · empate 24% · Vanste 36%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Vanste: −1.5 25% · −2.5 13%  
-🔎 **Claves**  
-• Forma: Joop ➖❌❌✅➖ | Vanste ❌✅❌❌❌  
-• Partidos: Joop 316 | Vanste 277  
-• Liga: Super Lig  
-• Unibet: 1 2.60 · X 4.70 · 2 1.84 (sin margen 34%/19%/48%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.70 (+13%) · Paf España 4.70 (+13%)  
+Actualizado 21/11/2026 19:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Shinobu vs berg — 21/11 · 19:46
 
@@ -77,4 +39,61 @@ Hándicap TikitakaMaster: −1.5 40% · −2.5 27%
 • Liga: Champions League B 2x6  
 • Unibet: 1 2.12 · X 4.40 · 2 2.25 (sin margen 41%/20%/39%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.25 (+22%) · Paf España 2.25 (+22%)  
+
+## Rodja vs SpeciAL — 21/11 · 19:52
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana SpeciAL** @ **3.40** (Unibet) · prob 39% vs casas 26% · ventaja +31%
+
+- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.356 partidos)  
+Goles esperados: Rodja 3.34 · SpeciAL 3.28  
+Ganador: Rodja 42% · empate 19% · SpeciAL 39%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Rodja: −1.5 28% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Rodja ✅❌❌❌➖ | SpeciAL ➖❌✅✅✅  
+• Partidos: Rodja 1157 | SpeciAL 1048  
+• Liga: Europa League  
+• Unibet: 1 1.50 · X 5.20 · 2 3.40 (sin margen 58%/17%/26%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.40 (+31%) · Paf España 3.40 (+31%)  
+
+## pikalicaaa vs Firminho — 21/11 · 19:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Firminho** @ **2.00** (Unibet) · prob 56% vs casas 44% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.356 partidos)  
+Goles esperados: pikalicaaa 2.77 · Firminho 3.84  
+Ganador: pikalicaaa 26% · empate 18% · Firminho 56%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Firminho: −1.5 43% · −2.5 28%  
+🔎 **Claves**  
+• Forma: pikalicaaa ✅❌❌❌❌ | Firminho ❌✅✅✅✅  
+• Partidos: pikalicaaa 823 | Firminho 967  
+• Liga: Serie A  
+• Unibet: 1 2.25 · X 5.10 · 2 2.00 (sin margen 39%/17%/44%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+11%) · Paf España 2.00 (+11%)  
+
+## Sena vs pikalicaaa — 21/11 · 20:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **4.90** (Unibet) · prob 22% vs casas 18% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.356 partidos)  
+Goles esperados: Sena 2.92 · pikalicaaa 2.26  
+Ganador: Sena 50% · empate 22% · pikalicaaa 28%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Sena: −1.5 35% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Sena ✅❌✅✅❌ | pikalicaaa ✅❌❌❌❌  
+• Partidos: Sena 880 | pikalicaaa 823  
+• Liga: Serie A  
+• Unibet: 1 1.86 · X 4.90 · 2 2.50 (sin margen 47%/18%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.90 (+8%) · Paf España 4.90 (+8%)  
 

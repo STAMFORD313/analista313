@@ -76385,20 +76385,20 @@ id,tournament_id,club1,club2,ht1,ht2
 2392213,262736,Sporting CP,Juventus,,
 2392214,262736,Juventus,Arsenal,,
 2392215,262736,Sporting CP,Man City,,
-2391066,262677,Spain,France,3,2
-2391067,262677,Germany,England,3,1
-2391068,262677,England,Spain,0,1
-2391069,262677,France,Argentina,2,4
-2391070,262677,Argentina,England,2,3
-2391071,262677,Spain,Germany,1,1
-2391072,262677,Germany,Argentina,2,2
-2391073,262677,England,France,3,1
-2391074,262677,France,Germany,2,0
-2391075,262677,Argentina,Spain,4,1
-2391076,262677,France,Spain,1,2
-2391077,262677,England,Germany,1,3
-2391078,262677,Spain,England,0,1
-2391079,262677,Argentina,France,3,3
+2391066,262677,Spain,France,3.0,2.0
+2391067,262677,Germany,England,3.0,1.0
+2391068,262677,England,Spain,0.0,1.0
+2391069,262677,France,Argentina,2.0,4.0
+2391070,262677,Argentina,England,2.0,3.0
+2391071,262677,Spain,Germany,1.0,1.0
+2391072,262677,Germany,Argentina,2.0,2.0
+2391073,262677,England,France,3.0,1.0
+2391074,262677,France,Germany,2.0,0.0
+2391075,262677,Argentina,Spain,4.0,1.0
+2391076,262677,France,Spain,1.0,2.0
+2391077,262677,England,Germany,1.0,3.0
+2391078,262677,Spain,England,0.0,1.0
+2391079,262677,Argentina,France,3.0,3.0
 2391080,262677,England,Argentina,,
 2391081,262677,Germany,Spain,,
 2391082,262677,Argentina,Germany,,

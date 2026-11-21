@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 21/11/2026 19:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 19:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alabama Crimson Tide vs Chattanooga Mocs — 21/11 · 20:00
 
