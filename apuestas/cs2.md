@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 06:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
 
@@ -74,6 +74,26 @@ Casas: MASONIC 42% · EAC 58%
 • MASONIC gana 2-1: 19% → cuota justa 5.37  
 • EAC gana 2-1: 24% → cuota justa 4.12  
 
+## INFURITY vs KAMUI — 21/11 · 10:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4 · **Gana KAMUI** @ **1.72** (Thunderpick) · prob 56% vs casas 54% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.137 partidos)  
+Mapa: INFURITY 45% · Serie BO3: INFURITY 43% - 57% KAMUI  
+Casas: INFURITY 46% · KAMUI 54%  
+🔎 **Claves**  
+• Elo: INFURITY 1635 (154 series) | KAMUI 1687 (15 series)  
+• Forma: INFURITY ✅❌❌✅✅ | KAMUI ✅❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• INFURITY gana 2-1: 20% → cuota justa 5.10  
+• KAMUI gana 2-1: 24% → cuota justa 4.20  
+
 ## Virtus.pro vs NT — 21/11 · 13:00
 
 👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Virtus.pro** @ **1.13** (Thunderpick) · prob 76% vs casas 82% · ventaja -14%
@@ -145,6 +165,26 @@ Casas: STATE 75% · XI 25%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • STATE gana 2-1: 25% → cuota justa 4.01  
 • XI gana 2-1: 15% → cuota justa 6.61  
+
+## PCIFIC vs Evermore — 21/11 · 13:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4 · **Gana Evermore** @ **3.80** (Thunderpick) · prob 34% vs casas 24% · ventaja +31%
+
+- ❌ Valor: ventaja +31% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.137 partidos)  
+Mapa: PCIFIC 54% · Serie BO3: PCIFIC 56% - 44% Evermore  
+Casas: PCIFIC 76% · Evermore 24%  
+🔎 **Claves**  
+• Elo: PCIFIC 1713 (155 series) | Evermore 1673 (3 series)  
+• Forma: PCIFIC ✅❌✅✅❌ | Evermore ✅✅✅  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PCIFIC gana 2-1: 23% → cuota justa 4.26  
+• Evermore gana 2-1: 20% → cuota justa 4.94  
 
 ## Gelo vs JUMBO — 21/11 · 15:00
 
@@ -305,4 +345,24 @@ Casas: UNiTY 79% · Monkeys 21%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • UNiTY gana 2-1: 24% → cuota justa 4.09 · casa 25%  
 • Monkeys gana 2-1: 12% → cuota justa 8.22 · casa 10%  
+
+## Mira vs Underworld — 22/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Mira** @ **1.15** (Thunderpick) · prob 75% vs casas 80% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.137 partidos)  
+Mapa: Mira 64% · Serie BO3: Mira 70% - 30% Underworld  
+Casas: Mira 80% · Underworld 20%  
+🔎 **Claves**  
+• Elo: Mira 1574 (10 series) | Underworld 1425 (22 series)  
+• Forma: Mira ❌❌✅✅❌ | Underworld ❌❌✅✅❌  
+• H2H: 2: 2-0  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: Mira  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Mira gana 2-1: 25% → cuota justa 4.01  
+• Underworld gana 2-1: 14% → cuota justa 7.01  
 

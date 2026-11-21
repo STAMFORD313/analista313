@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 06:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Cerezo Osaka vs FC Tokyo — 21/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana FC Tokyo** @ **1.66** (Bet365) · prob 59% vs casas 59% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 1.26)  
-1 32% · X 28% · 2 39%  
-1X 61% · X2 68% · 12 72%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Cerezo Osaka ❌➖➖❌✅ | FC Tokyo ✅➖✅✅✅  
-• H2H: 24 desde 2012: 8V-7E-9D · 2.5 goles/partido · +2.5 en 46%  
-• Bajas: Cerezo Osaka: sin bajas; FC Tokyo: sin bajas  
-• Favorito de las casas: FC Tokyo @ 1.66  
-
-## Kawasaki Frontale vs Avispa Fukuoka — 21/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Empate** @ **3.80** (Bet365) · prob 26% vs casas 26% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.02)  
-1 59% · X 23% · 2 18%  
-1X 82% · X2 41% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 55%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Kawasaki Frontale ✅✅✅❌❌ | Avispa Fukuoka ❌❌❌❌➖  
-• H2H: 12 desde 2016: 8V-2E-2D · 3.8 goles/partido · +2.5 en 75%  
-• Bajas: Kawasaki Frontale: sin bajas; Avispa Fukuoka: sin bajas  
-• Favorito de las casas: Kawasaki Frontale @ 1.86  
+Actualizado 21/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gamba Osaka vs Okayama — 21/11 · 08:00
 

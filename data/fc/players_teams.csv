@@ -75710,24 +75710,24 @@ id,tournament_id,club1,club2,ht1,ht2
 2389323,262602,Roma,Napoli,,
 2392239,262602,Napoli,Bologna,,
 2392240,262602,Roma,Juventus,,
-2390687,262672,Ghana,Denmark,0,1
-2390688,262672,Denmark,USA,0,2
-2390690,262672,Mexico,Denmark,0,3
-2390691,262672,USA,Ghana,1,2
-2390692,262672,Ghana,Mexico,0,2
-2390695,262672,Mexico,USA,3,1
+2390687,262672,Ghana,Denmark,0.0,1.0
+2390688,262672,Denmark,USA,0.0,2.0
+2390690,262672,Mexico,Denmark,0.0,3.0
+2390691,262672,USA,Ghana,1.0,2.0
+2390692,262672,Ghana,Mexico,0.0,2.0
+2390695,262672,Mexico,USA,3.0,1.0
 2390697,262672,Denmark,Ghana,,
 2390698,262672,USA,Denmark,,
 2390700,262672,Denmark,Mexico,,
 2390701,262672,Ghana,USA,,
 2390702,262672,Mexico,Ghana,,
 2390705,262672,USA,Mexico,,
-2392137,262733,Arsenal,Liverpool,1,1
-2392138,262733,Man City,Chelsea,2,1
-2392139,262733,Man City,Arsenal,3,1
-2392140,262733,Chelsea,Liverpool,4,2
-2392141,262733,Liverpool,Man City,3,2
-2392142,262733,Chelsea,Arsenal,2,1
+2392137,262733,Arsenal,Liverpool,1.0,1.0
+2392138,262733,Man City,Chelsea,2.0,1.0
+2392139,262733,Man City,Arsenal,3.0,1.0
+2392140,262733,Chelsea,Liverpool,4.0,2.0
+2392141,262733,Liverpool,Man City,3.0,2.0
+2392142,262733,Chelsea,Arsenal,2.0,1.0
 2392143,262733,Arsenal,Liverpool,,
 2392144,262733,Man City,Chelsea,,
 2392145,262733,Man City,Arsenal,,
@@ -75740,3 +75740,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2392151,262733,Chelsea,Liverpool,,
 2392152,262733,Liverpool,Man City,,
 2392153,262733,Chelsea,Arsenal,,
+2391917,262743,Stuttgart,Leipzig,1,2
+2391918,262743,B Dortmund,Frankfurt,0,2
+2391919,262743,Frankfurt,Stuttgart,1,2
+2391920,262743,Leipzig,Bayern Munchen,3,0
+2391921,262743,Bayern Munchen,Frankfurt,0,2
+2391922,262743,Stuttgart,B Dortmund,1,1
+2391923,262743,B Dortmund,Bayern Munchen,2,0
+2391924,262743,Frankfurt,Leipzig,1,4
+2391925,262743,Leipzig,B Dortmund,,
+2391926,262743,Bayern Munchen,Stuttgart,,
+2391927,262743,Leipzig,Stuttgart,,
+2391928,262743,Frankfurt,B Dortmund,,
+2391929,262743,Stuttgart,Frankfurt,,
+2391930,262743,Bayern Munchen,Leipzig,,
+2391931,262743,Frankfurt,Bayern Munchen,,
+2391932,262743,B Dortmund,Stuttgart,,
+2391933,262743,Bayern Munchen,B Dortmund,,
+2391934,262743,Leipzig,Frankfurt,,
+2391935,262743,B Dortmund,Leipzig,,
+2391936,262743,Stuttgart,Bayern Munchen,,
