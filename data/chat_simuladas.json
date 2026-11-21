@@ -3634,7 +3634,9 @@
     "away": "JUMBO",
     "txt": "Gana Gelo",
     "odds": 2.43,
-    "p": 0.4249484224965706
+    "p": 0.4249484224965706,
+    "ok": false,
+    "por": "ganó JUMBO 1-0"
    },
    {
     "src": "espn:nhl",
@@ -3651,9 +3653,9 @@
   "odds": 8.44,
   "p": 0.1403130805017152,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261121070053472252",
@@ -3669,7 +3671,9 @@
     "away": "INFURITY",
     "txt": "Gana INFURITY",
     "odds": 2.0,
-    "p": 0.5163333333333333
+    "p": 0.5163333333333333,
+    "ok": false,
+    "por": "ganó MOUZ NXT 2-1"
    },
    {
     "src": "espn:nhl",
@@ -3697,9 +3701,9 @@
   "odds": 5.19,
   "p": 0.21824064762459952,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261121100105906967",
