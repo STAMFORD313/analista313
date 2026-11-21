@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bahia vs Coritiba — 21/11 · 21:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Bahia** @ **1.52** (Bet365) · prob 64% vs casas 64% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.92 - 0.93)  
-1 59% · X 23% · 2 18%  
-1X 82% · X2 41% · 12 77%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 52%  
-Marcadores: 1-1 11% · 2-0 11% · 1-0 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Bahia ❌➖✅❌➖ | Coritiba ❌❌✅❌❌  
-• H2H: 13 desde 2012: 4V-6E-3D · 2.8 goles/partido · +2.5 en 62%  
-• Bajas: Bahia: 0 fuera, 1 duda; Coritiba: 0 fuera, 1 duda  
-• Favorito de las casas: Bahia @ 1.52  
-
-## FC Dallas vs Portland Timbers — 21/11 · 22:00
-
-👀 candidata · 🇺🇸 MLS · **Gana FC Dallas** @ **1.94** (Bet365) · prob 51% vs casas 51% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.21)  
-1 48% · X 26% · 2 26%  
-1X 74% · X2 52% · 12 74%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: FC Dallas ➖✅❌➖✅ | Portland Timbers ➖✅✅✅✅  
-• H2H: 36 desde 2012: 12V-14E-10D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: FC Dallas: 2 fuera, 1 duda (Petar Musa, Ramiro); Portland Timbers: 0 fuera, 4 duda  
-• Favorito de las casas: FC Dallas @ 1.94  
+Actualizado 21/11/2026 22:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pachuca vs Toluca — 21/11 · 23:50
 
