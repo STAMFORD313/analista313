@@ -3700,5 +3700,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261121100105906967",
+  "creada": "2026-11-21 10:01:05.907006+00:00",
+  "titulo": "Barrido · Combinada cuota 11.0",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-21 12:00:00+00:00",
+    "home": "Sleza Wroclaw",
+    "away": "Stilon Gorzow Wielkopolski",
+    "txt": "Gana Sleza Wroclaw",
+    "odds": 2.32,
+    "p": 0.464
+   },
+   {
+    "code": null,
+    "start": "2026-11-21 14:00:00+00:00",
+    "home": "Al Jolan",
+    "away": "Al Naft",
+    "txt": "Empate",
+    "odds": 2.8,
+    "p": 0.4376
+   },
+   {
+    "code": null,
+    "start": "2026-11-21 15:00:00+00:00",
+    "home": "Burton Albion",
+    "away": "Luton Town",
+    "txt": "Gana Luton Town",
+    "odds": 1.7,
+    "p": 0.6249
+   }
+  ],
+  "odds": 11.04,
+  "p": 0.12688369536000002,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
