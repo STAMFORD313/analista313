@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 23:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## hrk vs kirman — 21/11 · 23:10
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana kirman** @ **2.90** (Unibet) · prob 45% vs casas 30% · ventaja +30%
-
-- ✅ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.514 partidos)  
-Goles esperados: hrk 2.72 · kirman 3.04  
-Ganador: hrk 33% · empate 22% · kirman 45%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap kirman: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: hrk ✅➖❌❌✅ | kirman ✅❌✅➖✅  
-• Partidos: hrk 956 | kirman 800  
-• Liga: Portugal Primera  
-• Unibet: 1 1.79 · X 4.10 · 2 2.90 (sin margen 49%/21%/30%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.90 (+30%) · Paf España 2.90 (+30%)  
-
-## kkikus vs Simaponika — 21/11 · 23:31
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.10** (Unibet) · prob 20% vs casas 14% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.536 partidos)  
-Goles esperados: kkikus 2.12 · Simaponika 3.17  
-Ganador: kkikus 21% · empate 20% · Simaponika 59%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap Simaponika: −1.5 41% · −2.5 25%  
-🔎 **Claves**  
-• Forma: kkikus ❌✅✅❌❌ | Simaponika ❌❌❌✅✅  
-• Partidos: kkikus 1166 | Simaponika 1373  
-• Liga: World Cup A  
-• Unibet: 1 4.25 · X 6.10 · 2 1.32 (sin margen 20%/14%/65%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+20%) · Paf España 6.10 (+20%)  
+Actualizado 21/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nightxx vs kkikus — 21/11 · 23:43
 
@@ -77,4 +39,61 @@ Hándicap hrk: −1.5 31% · −2.5 17%
 • Liga: Portugal Primera  
 • Unibet: 1 2.90 · X 5.10 · 2 1.67 (sin margen 30%/17%/53%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.10 (+20%) · Paf España 5.10 (+20%)  
+
+## Skif vs curuza — 21/11 · 23:58
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 14% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.558 partidos)  
+Goles esperados: Skif 2.83 · curuza 3.70  
+Ganador: Skif 25% · empate 19% · curuza 56%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap curuza: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Skif ❌❌➖➖❌ | curuza ❌❌❌➖✅  
+• Partidos: Skif 769 | curuza 959  
+• Liga: Portugal Primera  
+• Unibet: 1 3.50 · X 6.00 · 2 1.43 (sin margen 25%/14%/61%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+14%) · Paf España 6.00 (+14%)  
+
+## Nightxx vs Simaponika — 22/11 · 00:05
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.558 partidos)  
+Goles esperados: Nightxx 3.42 · Simaponika 2.78  
+Ganador: Nightxx 51% · empate 20% · Simaponika 29%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Nightxx: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Nightxx ✅✅✅➖✅ | Simaponika ✅✅➖✅✅  
+• Partidos: Nightxx 1081 | Simaponika 1376  
+• Liga: Serie A  
+• Unibet: 1 1.66 · X 5.40 · 2 2.85 (sin margen 53%/16%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+7%) · Paf España 5.40 (+7%)  
+
+## kkikus vs ssstasonn — 22/11 · 00:17
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.00** (Unibet) · prob 20% vs casas 15% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.558 partidos)  
+Goles esperados: kkikus 3.42 · ssstasonn 2.56  
+Ganador: kkikus 55% · empate 20% · ssstasonn 25%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap kkikus: −1.5 39% · −2.5 24%  
+🔎 **Claves**  
+• Forma: kkikus ✅❌❌✅✅ | ssstasonn ❌❌➖❌❌  
+• Partidos: kkikus 1168 | ssstasonn 1237  
+• Liga: Serie A  
+• Unibet: 1 1.72 · X 6.00 · 2 2.60 (sin margen 51%/15%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+17%) · Paf España 6.00 (+17%)  
 
