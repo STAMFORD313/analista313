@@ -10477,7 +10477,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Inter vs Como,Ivan Smolčić,To give an assist,0.5,12.0,0.0833,0.014,0,0.0,0
 2026-11-08,Inter vs Como,Ivan Smolčić,Player's shots on target,0.5,5.2,0.1923,0.0714,0,0.0,0
 2026-11-08,Inter vs Como,Alessandro Bastoni,To Get a Card,0.5,3.7,0.2703,0.1981,1,0.0,0
-2026-11-08,Inter vs Como,Andy Diouf,Player's shots on target,0.5,2.6,0.3846,0.1069,0,0.0,0
+2026-11-08,Inter vs Como,Ange-Yoan Bonny,Player's shots on target,1.5,2.8,0.3571,0.0151,0,0.0,0
 2026-11-08,Inter vs Como,Carlos Augusto,To give an assist,0.5,5.8,0.1724,0.0732,1,0.0,0
 2026-11-08,Inter vs Como,Álex Valle,To Score,0.5,12.0,0.0833,0.0313,1,0.0,0
 2026-11-08,Inter vs Como,Henrikh Mkhitaryan,Player's shots on target,0.5,2.6,0.3846,0.114,0,0.0,0
@@ -10501,7 +10501,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Inter vs Como,Yann Bisseck,Player's shots on target,0.5,4.0,0.25,0.0965,0,0.0,0
 2026-11-08,Inter vs Como,Nico Paz,To give an assist,0.5,3.7,0.2703,0.227,1,0.0,0
 2026-11-08,Inter vs Como,Federico Dimarco,To Get a Card,0.5,4.1,0.2439,0.0876,1,0.0,0
-2026-11-08,Inter vs Como,Piotr Zielinski,To give an assist,0.5,5.5,0.1818,0.1202,1,0.0,0
+2026-11-08,Inter vs Como,Andy Diouf,Player's shots on target,0.5,2.6,0.3846,0.1069,0,0.0,0
 2026-11-08,Inter vs Como,Máximo Perrone,To Score,0.5,10.5,0.0952,0.0839,1,0.0,0
 2026-11-08,Inter vs Como,Nico Paz,To Get a Card,0.5,3.9,0.2564,0.135,1,0.0,0
 2026-11-08,Inter vs Como,John Stones,To Score,0.5,8.5,0.1176,0.0251,0,0.0,0
@@ -10556,7 +10556,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Inter vs Como,Samuele Ricci,To Score,0.5,9.0,0.1111,0.0234,0,0.0,0
 2026-11-08,Inter vs Como,Henrikh Mkhitaryan,To give an assist,0.5,5.0,0.2,0.0301,0,0.0,0
 2026-11-08,Inter vs Como,Lucas Da Cunha,To Score,0.5,6.75,0.1481,0.1645,1,0.0,0
-2026-11-08,Inter vs Como,Ange-Yoan Bonny,Player's shots on target,1.5,2.8,0.3571,0.0151,0,0.0,0
+2026-11-08,Inter vs Como,Piotr Zielinski,To give an assist,0.5,5.5,0.1818,0.1202,1,0.0,0
 2026-11-08,Inter vs Como,Henrikh Mkhitaryan,To Get a Card,0.5,4.3,0.2326,0.044,0,0.0,0
 2026-11-08,Celta vs Levante,Roger Brugué,Player's shots on target,0.5,2.14,0.4673,0.4904,1,0.0,0
 2026-11-08,Celta vs Levante,Pablo Durán,To Get a Card,0.5,4.8,0.2083,0.1182,1,0.0,0
@@ -15651,22 +15651,23 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Kilmarnock vs Aberdeen,Rory McKenzie,Player's shots on target,0.5,2.3,0.4348,0.0801,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Mitchel Frame,To give an assist,0.5,5.2,0.1923,0.0167,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Aaron Tshibola,To give an assist,0.5,6.75,0.1481,0.0399,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Jack Milne,To Get a Card,0.5,3.2,0.3125,0.1637,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Mark O'Hara,Player's shots on target,0.5,2.6,0.3846,0.0727,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Lewis Smith,To Score,0.5,3.8,0.2632,0.0405,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Aaron Tshibola,To score at least 2 goals,1.5,41.0,0.0244,0.0012,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Jack Milne,To Get a Card,0.5,3.2,0.3125,0.1637,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To give an assist,0.5,5.5,0.1818,0.1041,1,1.0,1
+2026-11-21,Kilmarnock vs Aberdeen,George Stanger,Player's shots on target,0.5,3.5,0.2857,0.1371,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Aaron Tshibola,To Get a Card,0.5,3.2,0.3125,0.1647,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Ante Palaversa,To give an assist,0.5,4.8,0.2083,0.0528,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Rory McKenzie,To give an assist,0.5,5.5,0.1818,0.0117,0,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Aaron Tshibola,To Get a Card,0.5,3.2,0.3125,0.1647,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,To score at least 2 goals,1.5,10.5,0.0952,0.0016,0,1.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To score at least 2 goals,1.5,41.0,0.0244,0.0031,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Joe Hugill,Player's shots on target,1.5,2.55,0.3922,0.1689,1,1.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Aaron Tshibola,Player's shots on target,0.5,2.45,0.4082,0.3375,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Brad Lyons,To Get a Card,0.5,3.1,0.3226,0.2041,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,George Stanger,Player's shots on target,0.5,3.5,0.2857,0.1371,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Mark O'Hara,To Score,0.5,6.0,0.1667,0.02,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Ante Palaversa,Player's shots on target,0.5,3.0,0.3333,0.1158,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,To score at least 3 goals,2.5,51.0,0.0196,0.0,0,1.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Brad Lyons,To Get a Card,0.5,3.1,0.3226,0.2041,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Jack Milne,Player's shots on target,0.5,3.6,0.2778,0.1639,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Robbie Deas,To Get a Card,0.5,3.0,0.3333,0.0503,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Ante Palaversa,To Score,0.5,7.0,0.1429,0.0265,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Rory McKenzie,To Get a Card,0.5,3.6,0.2778,0.0217,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Nicky Clescenco,To Score,0.5,4.0,0.25,0.044,0,0.0,0
@@ -15677,9 +15678,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,To Score,0.5,2.7,0.3704,0.0568,0,1.0,1
 2026-11-21,Kilmarnock vs Aberdeen,Lewis Smith,To give an assist,0.5,4.6,0.2174,0.0236,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Joe Hugill,Player's shots on target,0.5,1.3,0.7692,0.5216,1,1.0,1
-2026-11-21,Kilmarnock vs Aberdeen,Jack Milne,Player's shots on target,0.5,3.6,0.2778,0.1639,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tom Lowery,To score at least 2 goals,1.5,61.0,0.0164,0.0019,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,To score at least 3 goals,2.5,51.0,0.0196,0.0,0,1.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Jamie Brandon,To Score,0.5,11.0,0.0909,0.0189,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Greg Kiltie,Player's shots on target,0.5,2.05,0.4878,0.4183,1,3.0,1
 2026-11-21,Kilmarnock vs Aberdeen,Robbie Deas,To Score,0.5,9.0,0.1111,0.0224,0,0.0,0
@@ -15689,10 +15688,10 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Kilmarnock vs Aberdeen,Toyosi Olusanya,Player's shots on target,0.5,1.4,0.7143,0.0857,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tom Lowery,To Get a Card,0.5,2.8,0.3571,0.1496,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Mark O'Hara,To score at least 2 goals,1.5,51.0,0.0196,0.0002,0,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Robbie Deas,To Get a Card,0.5,3.0,0.3333,0.0503,0,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,Player's shots on target,0.5,1.3,0.7692,0.154,0,1.0,1
-2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To Get a Card,0.5,3.7,0.2703,0.1615,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Mitchel Frame,To Score,0.5,8.5,0.1176,0.0337,0,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Mark O'Hara,To Score,0.5,6.0,0.1667,0.02,0,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Tom Lowery,To Score,0.5,6.5,0.1538,0.0607,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To give an assist,0.5,5.5,0.1818,0.1041,1,1.0,1
+2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,Player's shots on target,0.5,2.3,0.4348,0.2794,1,1.0,1
 2026-11-21,Kilmarnock vs Aberdeen,Brad Lyons,To give an assist,0.5,5.2,0.1923,0.0449,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Toyosi Olusanya,To Score,0.5,2.9,0.3448,0.0328,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Joe Hugill,To score at least 3 goals,2.5,46.0,0.0217,0.0022,1,0.0,0
@@ -15702,7 +15701,8 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Kilmarnock vs Aberdeen,Tony Yogane,To Get a Card,0.5,3.8,0.2632,0.0168,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Mark O'Hara,To give an assist,0.5,5.6,0.1786,0.0131,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Joe Hugill,To Score,0.5,2.65,0.3774,0.2233,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Joe Hugill,To give an assist,0.5,3.7,0.2703,0.1123,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,Player's shots on target,0.5,1.3,0.7692,0.154,0,1.0,1
+2026-11-21,Kilmarnock vs Aberdeen,Mitchel Frame,To Score,0.5,8.5,0.1176,0.0337,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tony Yogane,To give an assist,0.5,4.7,0.2128,0.023,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Kevin Nisbet,Player's shots on target,1.5,2.25,0.4444,0.155,1,4.0,1
 2026-11-21,Kilmarnock vs Aberdeen,Nicky Clescenco,To give an assist,0.5,3.9,0.2564,0.0114,0,0.0,0
@@ -15715,24 +15715,23 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Kilmarnock vs Aberdeen,Kevin Nisbet,To Get a Card,0.5,3.1,0.3226,0.1171,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Greg Kiltie,To Get a Card,0.5,3.1,0.3226,0.0957,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tom Lowery,To give an assist,0.5,5.3,0.1887,0.093,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Tom Lowery,To Score,0.5,6.5,0.1538,0.0607,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To Get a Card,0.5,3.7,0.2703,0.1615,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Aaron Tshibola,To Score,0.5,5.4,0.1852,0.0488,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Nicky Devlin,To Score,0.5,10.5,0.0952,0.0343,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Joe Hugill,To give an assist,0.5,3.7,0.2703,0.1123,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Lewis Smith,To score at least 2 goals,1.5,20.0,0.05,0.0008,0,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To Score,0.5,5.4,0.1852,0.0782,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Nicky Devlin,To Get a Card,0.5,3.3,0.303,0.1888,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,Player's shots on target,0.5,2.3,0.4348,0.2794,1,1.0,1
+2026-11-21,Kilmarnock vs Aberdeen,Nicky Devlin,To Score,0.5,10.5,0.0952,0.0343,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Jamie Brandon,Player's shots on target,0.5,4.6,0.2174,0.0534,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tony Yogane,To Score,0.5,6.5,0.1538,0.022,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Jack Milne,To Score,0.5,9.0,0.1111,0.0166,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Robbie Deas,Player's shots on target,0.5,3.9,0.2564,0.0586,0,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Lewis Smith,To Get a Card,0.5,3.5,0.2857,0.0232,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,Player's shots on target,1.5,2.5,0.4,0.0125,0,1.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Gavin Molloy,To Score,0.5,10.5,0.0952,0.0441,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Greg Kiltie,To give an assist,0.5,4.5,0.2222,0.0951,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Mitchel Frame,To Get a Card,0.5,3.4,0.2941,0.0275,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Brad Lyons,Player's shots on target,0.5,3.0,0.3333,0.3288,1,1.0,1
-2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,To Get a Card,0.5,3.4,0.2941,0.0426,0,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Gavin Molloy,To Get a Card,0.5,3.1,0.3226,0.0995,1,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Lewis Smith,To Get a Card,0.5,3.5,0.2857,0.0232,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Kevin Nisbet,Player's shots on target,0.5,1.22,0.8197,0.5023,1,4.0,1
 2026-11-21,Kilmarnock vs Aberdeen,Kevin Nisbet,Player's shots on target,2.5,4.5,0.2222,0.0339,1,4.0,1
 2026-11-21,Kilmarnock vs Aberdeen,Tom Lowery,Player's shots on target,0.5,2.8,0.3571,0.2435,1,0.0,0
@@ -15740,8 +15739,9 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Kilmarnock vs Aberdeen,Rory McKenzie,To Score,0.5,5.1,0.1961,0.0262,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Jamie Brandon,To Get a Card,0.5,3.2,0.3125,0.0568,0,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Kevin Nisbet,To give an assist,0.5,4.8,0.2083,0.1066,1,0.0,0
-2026-11-21,Kilmarnock vs Aberdeen,Gavin Molloy,To Get a Card,0.5,3.1,0.3226,0.0995,1,0.0,0
 2026-11-21,Kilmarnock vs Aberdeen,Greg Kiltie,To Score,0.5,4.5,0.2222,0.155,1,1.0,1
+2026-11-21,Kilmarnock vs Aberdeen,Tyreece John-Jules,To Get a Card,0.5,3.4,0.2941,0.0426,0,0.0,0
+2026-11-21,Kilmarnock vs Aberdeen,Stuart Armstrong,To Score,0.5,5.4,0.1852,0.0782,1,0.0,0
 2026-11-21,Vallecano vs Valencia,Luis Rioja,To give an assist,0.5,7.0,0.1429,0.1028,1,0.0,0
 2026-11-21,Vallecano vs Valencia,Marash Kumbulla,Player's shots on target,0.5,4.2,0.2381,0.0644,0,0.0,0
 2026-11-21,Vallecano vs Valencia,Unai López,To Get a Card,0.5,2.8,0.3571,0.1971,1,0.0,0
@@ -16194,6 +16194,154 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Nice vs Paris SG,Hicham Boudaoui,To give an assist,0.5,6.5,0.1538,0.0627,1,0.0,0
 2026-11-21,Nice vs Paris SG,Jonathan Clauss,Player's shots on target,0.5,4.0,0.25,0.3471,1,0.0,0
 2026-11-21,Nice vs Paris SG,Ferran Torres,To score at least 3 goals,2.5,16.0,0.0625,0.0001,0,1.0,0
+2026-11-21,Parma vs Roma,Mario Hermoso,Player's shots on target,0.5,3.8,0.2632,0.1919,1,0.0,0
+2026-11-21,Parma vs Roma,Konstantinos Koulierakis,Player's shots on target,0.5,3.6,0.2778,0.0864,0,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Lulli,Player's shots on target,0.5,3.4,0.2941,0.2472,1,0.0,0
+2026-11-21,Parma vs Roma,El Bilal Toure,Player's shots on target,1.5,5.2,0.1923,0.1528,1,0.0,0
+2026-11-21,Parma vs Roma,Evan Ndicka,To give an assist,0.5,7.0,0.1429,0.0071,0,0.0,0
+2026-11-21,Parma vs Roma,Mario Hermoso,To score at least 2 goals,1.5,76.0,0.0132,0.0073,1,0.0,0
+2026-11-21,Parma vs Roma,Niccolò Pisilli,To Get a Card,0.5,4.9,0.2041,0.0446,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,Player's shots on target,3.5,4.1,0.2439,0.0404,1,4.0,1
+2026-11-21,Parma vs Roma,Daniele Ghilardi,To score at least 2 goals,1.5,81.0,0.0123,0.0005,0,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,Player's shots on target,2.5,4.4,0.2273,0.0002,0,0.0,0
+2026-11-21,Parma vs Roma,Gianluca Mancini,To score at least 2 goals,1.5,61.0,0.0164,0.003,1,0.0,0
+2026-11-21,Parma vs Roma,Nahuel Molina,To score at least 2 goals,1.5,81.0,0.0123,0.0053,1,0.0,0
+2026-11-21,Parma vs Roma,Daniele Ghilardi,Player's shots on target,0.5,3.8,0.2632,0.0811,0,0.0,0
+2026-11-21,Parma vs Roma,Sascha Britschgi,Player's shots on target,0.5,4.0,0.25,0.1837,1,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Valeri,To Score,0.5,15.0,0.0667,0.0417,1,0.0,0
+2026-11-21,Parma vs Roma,Leonardo Balerdi,To score at least 2 goals,1.5,76.0,0.0132,0.003,1,0.0,0
+2026-11-21,Parma vs Roma,Niccolò Pisilli,To give an assist,0.5,4.5,0.2222,0.0224,0,0.0,0
+2026-11-21,Parma vs Roma,Nahuel Molina,To Get a Card,0.5,5.2,0.1923,0.1102,1,0.0,0
+2026-11-21,Parma vs Roma,Vincent Sierro,To Get a Card,0.5,4.0,0.25,0.137,1,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,To Score,0.5,2.55,0.3922,0.0497,0,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Lulli,To score at least 2 goals,1.5,61.0,0.0164,0.0061,1,0.0,0
+2026-11-21,Parma vs Roma,Giovanni Fabbian,Player's shots on target,0.5,3.3,0.303,0.304,1,1.0,1
+2026-11-21,Parma vs Roma,Donyell Malen,To Score,0.5,1.6,0.625,0.4003,1,4.0,1
+2026-11-21,Parma vs Roma,Giovanni Fabbian,To Score,0.5,8.5,0.1176,0.1355,1,0.0,0
+2026-11-21,Parma vs Roma,Franco Carboni,To Get a Card,0.5,4.2,0.2381,0.109,1,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,To give an assist,0.5,2.85,0.3509,0.0323,0,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,To give an assist,0.5,2.9,0.3448,0.053,0,0.0,0
+2026-11-21,Parma vs Roma,Benjamín Cremaschi,To Score,0.5,14.0,0.0714,0.0248,0,0.0,0
+2026-11-21,Parma vs Roma,Bryan Cristante,To Score,0.5,5.0,0.2,0.1027,1,0.0,0
+2026-11-21,Parma vs Roma,Bryan Cristante,To give an assist,0.5,5.3,0.1887,0.0765,1,0.0,0
+2026-11-21,Parma vs Roma,Mario Hermoso,To Score,0.5,8.0,0.125,0.118,1,0.0,0
+2026-11-21,Parma vs Roma,Konstantinos Koulierakis,To give an assist,0.5,6.0,0.1667,0.0131,0,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,Player's shots on target,1.5,2.25,0.4444,0.0062,0,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Lulli,To Get a Card,0.5,5.0,0.2,0.1467,1,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,To score at least 3 goals,2.5,26.0,0.0385,0.0,0,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,To Score,0.5,2.28,0.4386,0.0406,0,0.0,0
+2026-11-21,Parma vs Roma,El Bilal Toure,To score at least 2 goals,1.5,35.0,0.0286,0.0084,1,0.0,0
+2026-11-21,Parma vs Roma,Gianluca Mancini,Player's shots on target,0.5,3.7,0.2703,0.1645,1,1.0,1
+2026-11-21,Parma vs Roma,Christian Ordóñez,To give an assist,0.5,13.0,0.0769,0.0096,0,0.0,0
+2026-11-21,Parma vs Roma,Leonardo Balerdi,To give an assist,0.5,10.0,0.1,0.0239,1,0.0,0
+2026-11-21,Parma vs Roma,Marten de Roon,To score at least 2 goals,1.5,71.0,0.0141,0.0003,0,0.0,0
+2026-11-21,Parma vs Roma,Evan Ndicka,Player's shots on target,0.5,3.8,0.2632,0.0735,0,0.0,0
+2026-11-21,Parma vs Roma,Mandela Keita,Player's shots on target,0.5,4.6,0.2174,0.2066,1,1.0,1
+2026-11-21,Parma vs Roma,Benjamín Cremaschi,Player's shots on target,0.5,4.8,0.2083,0.0704,0,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,Player's shots on target,2.5,6.0,0.1667,0.0007,0,1.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,Player's shots on target,4.5,8.0,0.125,0.0098,1,4.0,0
+2026-11-21,Parma vs Roma,Emanuele Valeri,Player's shots on target,0.5,5.75,0.1739,0.2144,1,1.0,1
+2026-11-21,Parma vs Roma,Nesta Elphege,Player's shots on target,1.5,4.5,0.2222,0.0836,1,1.0,0
+2026-11-21,Parma vs Roma,Sascha Britschgi,To give an assist,0.5,13.0,0.0769,0.0559,1,0.0,0
+2026-11-21,Parma vs Roma,Nesta Elphege,To give an assist,0.5,8.0,0.125,0.1318,1,0.0,0
+2026-11-21,Parma vs Roma,Adrian Bernabe,To give an assist,0.5,9.0,0.1111,0.0112,0,0.0,0
+2026-11-21,Parma vs Roma,Franco Carboni,To give an assist,0.5,12.5,0.08,0.0303,1,0.0,0
+2026-11-21,Parma vs Roma,Franco Carboni,Player's shots on target,0.5,5.3,0.1887,0.076,1,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,Player's shots on target,3.5,10.0,0.1,0.0,0,0.0,0
+2026-11-21,Parma vs Roma,Enrico Del Prato,To give an assist,0.5,16.0,0.0625,0.0149,1,0.0,0
+2026-11-21,Parma vs Roma,Niccolò Pisilli,To score at least 2 goals,1.5,21.0,0.0476,0.0013,0,0.0,0
+2026-11-21,Parma vs Roma,Evan Ndicka,To score at least 2 goals,1.5,67.0,0.0149,0.0006,0,0.0,0
+2026-11-21,Parma vs Roma,Giovanni Fabbian,To give an assist,0.5,10.5,0.0952,0.111,1,0.0,0
+2026-11-21,Parma vs Roma,El Bilal Toure,To give an assist,0.5,8.5,0.1176,0.0986,1,0.0,0
+2026-11-21,Parma vs Roma,Daniele Ghilardi,To give an assist,0.5,10.5,0.0952,0.0189,0,0.0,0
+2026-11-21,Parma vs Roma,Simone Lontani,To give an assist,0.5,7.5,0.1333,0.0116,0,0.0,0
+2026-11-21,Parma vs Roma,Vincent Sierro,To score at least 2 goals,1.5,111.0,0.009,0.0111,1,0.0,0
+2026-11-21,Parma vs Roma,Leonardo Balerdi,Player's shots on target,0.5,3.8,0.2632,0.2686,1,0.0,0
+2026-11-21,Parma vs Roma,Gianluca Mancini,To give an assist,0.5,8.0,0.125,0.0686,1,0.0,0
+2026-11-21,Parma vs Roma,Benjamín Cremaschi,To give an assist,0.5,13.0,0.0769,0.0121,0,0.0,0
+2026-11-21,Parma vs Roma,Konstantinos Koulierakis,To score at least 2 goals,1.5,71.0,0.0141,0.0006,0,0.0,0
+2026-11-21,Parma vs Roma,Adrian Bernabe,To score at least 2 goals,1.5,81.0,0.0123,0.0003,0,0.0,0
+2026-11-21,Parma vs Roma,Niccolò Pisilli,Player's shots on target,1.5,5.75,0.1739,0.0072,0,0.0,0
+2026-11-21,Parma vs Roma,Enrico Del Prato,Player's shots on target,0.5,5.5,0.1818,0.1071,1,0.0,0
+2026-11-21,Parma vs Roma,Giovanni Fabbian,To score at least 2 goals,1.5,91.0,0.011,0.0096,1,0.0,0
+2026-11-21,Parma vs Roma,Christian Ordóñez,Player's shots on target,0.5,5.8,0.1724,0.0632,0,0.0,0
+2026-11-21,Parma vs Roma,Nahuel Molina,Player's shots on target,0.5,3.8,0.2632,0.2622,1,1.0,1
+2026-11-21,Parma vs Roma,Bryan Cristante,Player's shots on target,1.5,8.5,0.1176,0.0352,1,0.0,0
+2026-11-21,Parma vs Roma,Simone Lontani,Player's shots on target,1.5,4.3,0.2326,0.0066,0,0.0,0
+2026-11-21,Parma vs Roma,Mandela Keita,To give an assist,0.5,12.0,0.0833,0.0448,1,0.0,0
+2026-11-21,Parma vs Roma,Vincent Sierro,To give an assist,0.5,8.5,0.1176,0.0918,1,0.0,0
+2026-11-21,Parma vs Roma,Mariano Troilo,Player's shots on target,0.5,5.75,0.1739,0.1075,1,1.0,1
+2026-11-21,Parma vs Roma,Emanuele Valeri,To give an assist,0.5,8.5,0.1176,0.0588,1,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,To score at least 2 goals,1.5,9.0,0.1111,0.0013,0,0.0,0
+2026-11-21,Parma vs Roma,Leonardo Balerdi,To Score,0.5,8.0,0.125,0.0769,1,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,To score at least 3 goals,2.5,36.0,0.0278,0.0,0,0.0,0
+2026-11-21,Parma vs Roma,Giovanni Fabbian,To Get a Card,0.5,4.3,0.2326,0.0908,1,0.0,0
+2026-11-21,Parma vs Roma,Nesta Elphege,To Score,0.5,4.5,0.2222,0.169,1,1.0,1
+2026-11-21,Parma vs Roma,Konstantinos Koulierakis,To Score,0.5,7.5,0.1333,0.0352,0,0.0,0
+2026-11-21,Parma vs Roma,Enrico Del Prato,To Score,0.5,16.0,0.0625,0.0342,1,0.0,0
+2026-11-21,Parma vs Roma,Simone Lontani,To score at least 2 goals,1.5,30.0,0.0333,0.0018,0,0.0,0
+2026-11-21,Parma vs Roma,Franco Carboni,To Score,0.5,15.0,0.0667,0.0216,1,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Lulli,To Score,0.5,7.0,0.1429,0.108,1,0.0,0
+2026-11-21,Parma vs Roma,Nesta Elphege,Player's shots on target,0.5,1.84,0.5435,0.3799,1,1.0,1
+2026-11-21,Parma vs Roma,Mandela Keita,To Score,0.5,13.0,0.0769,0.0531,1,0.0,0
+2026-11-21,Parma vs Roma,Simone Lontani,Player's shots on target,0.5,1.8,0.5556,0.1128,0,0.0,0
+2026-11-21,Parma vs Roma,Nesta Elphege,To Get a Card,0.5,4.5,0.2222,0.0903,1,0.0,0
+2026-11-21,Parma vs Roma,Christian Ordóñez,To Score,0.5,16.0,0.0625,0.0232,0,0.0,0
+2026-11-21,Parma vs Roma,Mario Hermoso,To give an assist,0.5,4.4,0.2273,0.0396,1,0.0,0
+2026-11-21,Parma vs Roma,Vincent Sierro,Player's shots on target,0.5,3.6,0.2778,0.3058,1,0.0,0
+2026-11-21,Parma vs Roma,El Bilal Toure,To Get a Card,0.5,4.3,0.2326,0.1073,1,0.0,0
+2026-11-21,Parma vs Roma,Bryan Cristante,To score at least 2 goals,1.5,34.0,0.0294,0.0055,1,0.0,0
+2026-11-21,Parma vs Roma,Marten de Roon,To Score,0.5,7.0,0.1429,0.0249,0,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,To Get a Card,0.5,5.2,0.1923,0.0378,0,0.0,0
+2026-11-21,Parma vs Roma,Bryan Cristante,Player's shots on target,0.5,2.5,0.4,0.2533,1,0.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,To Get a Card,0.5,5.5,0.1818,0.0262,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,Player's shots on target,2.5,2.4,0.4167,0.1366,1,4.0,1
+2026-11-21,Parma vs Roma,Daniele Ghilardi,To Score,0.5,8.0,0.125,0.0316,0,0.0,0
+2026-11-21,Parma vs Roma,Niccolò Pisilli,To Score,0.5,4.0,0.25,0.0507,0,0.0,0
+2026-11-21,Parma vs Roma,Niccolò Pisilli,Player's shots on target,0.5,2.05,0.4878,0.1174,0,0.0,0
+2026-11-21,Parma vs Roma,Sascha Britschgi,To Get a Card,0.5,4.2,0.2381,0.1741,1,0.0,0
+2026-11-21,Parma vs Roma,Mariano Troilo,To Score,0.5,16.0,0.0625,0.0271,1,0.0,0
+2026-11-21,Parma vs Roma,Vincent Sierro,To Score,0.5,10.0,0.1,0.1455,1,0.0,0
+2026-11-21,Parma vs Roma,Konstantinos Koulierakis,To Get a Card,0.5,4.4,0.2273,0.0376,0,0.0,0
+2026-11-21,Parma vs Roma,Mariano Troilo,To Get a Card,0.5,3.8,0.2632,0.2447,1,0.0,0
+2026-11-21,Parma vs Roma,Simone Lontani,To Get a Card,0.5,4.7,0.2128,0.0339,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,To give an assist,0.5,3.7,0.2703,0.156,1,0.0,0
+2026-11-21,Parma vs Roma,Nahuel Molina,To Score,0.5,8.0,0.125,0.1014,1,0.0,0
+2026-11-21,Parma vs Roma,Marten de Roon,To give an assist,0.5,5.5,0.1818,0.0161,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,Player's shots on target,0.5,1.09,0.9174,0.7198,1,4.0,1
+2026-11-21,Parma vs Roma,Nahuel Molina,To give an assist,0.5,6.25,0.16,0.0905,1,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Lulli,To give an assist,0.5,5.5,0.1818,0.06,1,1.0,1
+2026-11-21,Parma vs Roma,Adrian Bernabe,Player's shots on target,0.5,2.9,0.3448,0.0952,0,0.0,0
+2026-11-21,Parma vs Roma,Adrian Bernabe,To Score,0.5,8.5,0.1176,0.0247,0,0.0,0
+2026-11-21,Parma vs Roma,Sascha Britschgi,To Score,0.5,11.5,0.087,0.0483,1,0.0,0
+2026-11-21,Parma vs Roma,Emanuele Valeri,To Get a Card,0.5,4.1,0.2439,0.0721,1,1.0,1
+2026-11-21,Parma vs Roma,Gianluca Mancini,To Score,0.5,7.5,0.1333,0.0765,1,0.0,0
+2026-11-21,Parma vs Roma,Mandela Keita,To Get a Card,0.5,3.9,0.2564,0.0839,1,0.0,0
+2026-11-21,Parma vs Roma,Gianluca Mancini,To Get a Card,0.5,3.7,0.2703,0.1639,1,0.0,0
+2026-11-21,Parma vs Roma,Evan Ndicka,To Score,0.5,8.0,0.125,0.034,0,0.0,0
+2026-11-21,Parma vs Roma,Marten de Roon,Player's shots on target,0.5,3.3,0.303,0.0585,0,0.0,0
+2026-11-21,Parma vs Roma,Bryan Cristante,To Get a Card,0.5,4.7,0.2128,0.1767,1,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,Player's shots on target,1.5,1.5,0.6667,0.3633,1,4.0,1
+2026-11-21,Parma vs Roma,Santiago Castro,To score at least 2 goals,1.5,7.0,0.1429,0.0008,0,0.0,0
+2026-11-21,Parma vs Roma,Adrian Bernabe,To Get a Card,0.5,4.6,0.2174,0.0135,0,0.0,0
+2026-11-21,Parma vs Roma,Benjamín Cremaschi,To Get a Card,0.5,3.7,0.2703,0.0261,0,0.0,0
+2026-11-21,Parma vs Roma,Daniele Ghilardi,To Get a Card,0.5,4.6,0.2174,0.0328,0,0.0,0
+2026-11-21,Parma vs Roma,Marten de Roon,To Get a Card,0.5,4.4,0.2273,0.0371,0,0.0,0
+2026-11-21,Parma vs Roma,Simone Lontani,To Score,0.5,4.4,0.2273,0.0594,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,To score at least 3 goals,2.5,11.0,0.0909,0.0153,1,4.0,1
+2026-11-21,Parma vs Roma,Mario Hermoso,To Get a Card,0.5,3.6,0.2778,0.1798,1,0.0,0
+2026-11-21,Parma vs Roma,Christian Ordóñez,To Get a Card,0.5,3.9,0.2564,0.0276,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,To Get a Card,0.5,5.4,0.1852,0.1276,1,0.0,0
+2026-11-21,Parma vs Roma,Evan Ndicka,To Get a Card,0.5,4.3,0.2326,0.0284,0,0.0,0
+2026-11-21,Parma vs Roma,Donyell Malen,To score at least 2 goals,1.5,3.8,0.2632,0.0936,1,4.0,1
+2026-11-21,Parma vs Roma,El Bilal Toure,To Score,0.5,4.8,0.2083,0.1268,1,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,Player's shots on target,1.5,2.7,0.3704,0.0125,0,1.0,0
+2026-11-21,Parma vs Roma,Santiago Castro,Player's shots on target,0.5,1.29,0.7752,0.1096,0,0.0,0
+2026-11-21,Parma vs Roma,Nesta Elphege,To score at least 2 goals,1.5,29.0,0.0345,0.0152,1,1.0,0
+2026-11-21,Parma vs Roma,El Bilal Toure,Player's shots on target,0.5,1.97,0.5076,0.4991,1,0.0,0
+2026-11-21,Parma vs Roma,Leonardo Balerdi,To Get a Card,0.5,4.2,0.2381,0.1658,1,0.0,0
+2026-11-21,Parma vs Roma,Matías Soulé,Player's shots on target,0.5,1.4,0.7143,0.154,0,1.0,1
+2026-11-21,Parma vs Roma,Enrico Del Prato,To Get a Card,0.5,5.1,0.1961,0.1694,1,0.0,0
 2026-11-21,Feyenoord vs Excelsior,Javi López,To score at least 2 goals,1.5,46.0,0.0217,0.0003,0,0.0,0
 2026-11-21,Feyenoord vs Excelsior,Javi López,To give an assist,0.5,5.4,0.1852,0.0117,0,0.0,0
 2026-11-21,Feyenoord vs Excelsior,Javi López,Player's shots on target,0.5,2.9,0.3448,0.1053,0,0.0,0
