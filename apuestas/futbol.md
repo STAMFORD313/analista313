@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 07:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gamba Osaka vs Okayama — 21/11 · 08:00
 

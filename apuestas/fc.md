@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 07:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Jekunam vs Artrom — 21/11 · 07:24
+## Edwardson vs MeLToSik — 21/11 · 07:48
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.80** (Unibet) · prob 25% vs casas 18% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **2.63** (Unibet) · prob 43% vs casas 33% · ventaja +12%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.703 partidos)  
-Goles esperados: Jekunam 2.29 · Artrom 1.71  
-Ganador: Jekunam 52% · empate 25% · Artrom 24%  
-Total: más de 4.5 goles 37% · menos 63%  
-Hándicap Jekunam: −1.5 31% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Jekunam ➖✅✅❌➖ | Artrom ➖❌✅❌✅  
-• Partidos: Jekunam 1273 | Artrom 683  
-• Liga: Europa League  
-• Unibet: 1 1.90 · X 4.80 · 2 2.45 (sin margen 46%/18%/36%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.80 (+18%) · Paf España 4.80 (+18%)  
-
-## Ganger_29 vs Tesla — 21/11 · 07:30
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Ganger_29** @ **3.80** (Unibet) · prob 28% vs casas 23% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.703 partidos)  
-Goles esperados: Ganger_29 2.86 · Tesla 3.54  
-Ganador: Ganger_29 28% · empate 18% · Tesla 53%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Tesla: −1.5 37% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 75.727 partidos)  
+Goles esperados: Edwardson 1.96 · MeLToSik 2.22  
+Ganador: Edwardson 32% · empate 25% · MeLToSik 43%  
+Total: más de 4.5 goles 41% · menos 59%  
+Hándicap MeLToSik: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Ganger_29 ✅✅➖❌✅ | Tesla ❌➖✅✅❌  
-• Partidos: Ganger_29 1020 | Tesla 1228  
+• Forma: Edwardson ❌❌✅❌➖ | MeLToSik ✅✅❌❌➖  
+• Partidos: Edwardson 1382 | MeLToSik 1384  
+• Liga: Europa League  
+• Unibet: 1 2.55 · X 2.60 · 2 2.63 (sin margen 34%/33%/33%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+12%) · Paf España 2.63 (+12%)  
+
+## w1nkos vs Tesla — 21/11 · 07:54
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana w1nkos** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 75.727 partidos)  
+Goles esperados: w1nkos 3.33 · Tesla 3.89  
+Ganador: w1nkos 33% · empate 17% · Tesla 50%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap Tesla: −1.5 36% · −2.5 23%  
+🔎 **Claves**  
+• Forma: w1nkos ❌✅✅❌✅ | Tesla ✅✅❌✅✅  
+• Partidos: w1nkos 1313 | Tesla 1230  
 • Liga: Bundesliga  
-• Unibet: 1 3.80 · X 4.25 · 2 1.56 (sin margen 23%/21%/56%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+8%) · Paf España 3.80 (+8%)  
+• Unibet: 1 3.60 · X 4.10 · 2 1.61 (sin margen 24%/21%/54%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+19%) · Paf España 3.60 (+19%)  
 
-## Artrom vs Edwardson — 21/11 · 07:36
+## cl1vlind vs v1nn — 21/11 · 07:57
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Artrom** @ **3.50** (Unibet) · prob 33% vs casas 25% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana v1nn** @ **2.28** (Unibet) · prob 55% vs casas 38% · ventaja +25%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +25% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.703 partidos)  
-Goles esperados: Artrom 1.75 · Edwardson 1.86  
-Ganador: Artrom 33% · empate 28% · Edwardson 39%  
-Total: más de 3.5 goles 49% · menos 51%  
-Hándicap Edwardson: −1.5 22% · −2.5 10%  
+📊 **Escenarios** (Poisson por jugador, 75.727 partidos)  
+Goles esperados: cl1vlind 2.84 · v1nn 3.67  
+Ganador: cl1vlind 27% · empate 18% · v1nn 55%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap v1nn: −1.5 39% · −2.5 25%  
 🔎 **Claves**  
-• Forma: Artrom ➖❌✅❌✅ | Edwardson ➖❌❌✅❌  
-• Partidos: Artrom 683 | Edwardson 1381  
-• Liga: Europa League  
-• Unibet: 1 3.50 · X 3.25 · 2 1.80 (sin margen 25%/27%/48%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.50 (+15%) · Paf España 3.50 (+15%)  
+• Forma: cl1vlind ❌✅❌✅✅ | v1nn ✅➖✅✅✅  
+• Partidos: cl1vlind 772 | v1nn 767  
+• Liga: World Cup A  
+• Unibet: 1 2.23 · X 3.80 · 2 2.28 (sin margen 39%/23%/38%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.28 (+25%) · Paf España 2.28 (+25%)  
 
