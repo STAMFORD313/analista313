@@ -3652,5 +3652,51 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261121070053472252",
+  "creada": "2026-11-21 07:00:53.472290+00:00",
+  "titulo": "Barrido · Combinada cuota 5.2",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-21 12:00:00+00:00",
+    "home": "MOUZ NXT",
+    "away": "INFURITY",
+    "txt": "Gana INFURITY",
+    "odds": 2.0,
+    "p": 0.5163333333333333
+   },
+   {
+    "src": "espn:nhl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-21 23:00:00+00:00",
+    "home": "Nashville Predators",
+    "away": "Pittsburgh Penguins",
+    "txt": "Gana Nashville Predators",
+    "odds": 1.741,
+    "p": 0.58866
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-22 16:00:00+00:00",
+    "home": "Team Spirit Academy",
+    "away": "Allied",
+    "txt": "Gana Team Spirit Academy",
+    "odds": 1.49,
+    "p": 0.718027293064877
+   }
+  ],
+  "odds": 5.19,
+  "p": 0.21824064762459952,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
