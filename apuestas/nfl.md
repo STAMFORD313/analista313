@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 21/11/2026 02:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 02:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wyoming Cowboys vs New Mexico Lobos — 21/11 · 03:00
 

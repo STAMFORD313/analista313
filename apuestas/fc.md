@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 02:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Simaponika vs believer — 21/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.38** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.460 partidos)  
-Goles esperados: Simaponika 1.89 · believer 3.64  
-Ganador: Simaponika 12% · empate 15% · believer 72%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap believer: −1.5 53% · −2.5 36%  
-🔎 **Claves**  
-• Forma: Simaponika ✅❌➖❌✅ | believer ✅✅✅✅✅  
-• Partidos: Simaponika 1349 | believer 1321  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## reddevil vs Kavviro — 21/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.485 partidos)  
-Goles esperados: reddevil 1.57 · Kavviro 3.15  
-Ganador: reddevil 11% · empate 17% · Kavviro 72%  
-Total: más de 4.5 goles 51% · menos 49%  
-Hándicap Kavviro: −1.5 50% · −2.5 32%  
-🔎 **Claves**  
-• Forma: reddevil ❌❌❌❌❌ | Kavviro ✅➖✅✅✅  
-• Partidos: reddevil 47 | Kavviro 1065  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 21/11/2026 02:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## believer vs reddevil — 21/11 · 03:03
 

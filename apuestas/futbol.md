@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 02:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 02:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Juarez vs Atlas — 21/11 · 04:00
 

@@ -75544,3 +75544,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2389827,262579,Real Madrid,Paris,,
 2389828,262579,River Plate,Real Madrid,,
 2389829,262579,Man City,Boca Juniors,,
+2390384,262640,Belgium,Netherlands,2,1
+2390385,262640,Portugal,Morocco,0,1
+2390386,262640,Morocco,Belgium,3,2
+2390387,262640,Netherlands,Germany,1,1
+2390388,262640,Germany,Morocco,1,2
+2390389,262640,Belgium,Portugal,2,1
+2390390,262640,Portugal,Germany,2,0
+2390391,262640,Morocco,Netherlands,0,1
+2390392,262640,Netherlands,Portugal,1,2
+2390393,262640,Germany,Belgium,0,2
+2390394,262640,Netherlands,Belgium,,
+2390395,262640,Morocco,Portugal,,
+2390396,262640,Belgium,Morocco,,
+2390397,262640,Germany,Netherlands,,
+2390398,262640,Morocco,Germany,,
+2390399,262640,Portugal,Belgium,,
+2390400,262640,Germany,Portugal,,
+2390401,262640,Netherlands,Morocco,,
+2390402,262640,Portugal,Netherlands,,
+2390403,262640,Belgium,Germany,,
