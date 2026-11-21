@@ -1,49 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 15:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## INFINITE vs BAKS — 21/11 · 16:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana BAKS** @ **1.38** (Thunderpick) · prob 68% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.094 partidos)  
-Mapa: INFINITE 39% · Serie BO3: INFINITE 31% - 69% BAKS  
-Casas: INFINITE 33% · BAKS 67%  
-🔎 **Claves**  
-• Elo: INFINITE 1614 (192 series) | BAKS 1734 (214 series)  
-• Forma: INFINITE ❌❌❌❌❌ | BAKS ❌❌✅✅✅  
-• H2H: sin precedentes  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): INFINITE: sl3nd 6.4, volt 6.0 | BAKS: danistzz 7.0, whisper 6.5  
-• Mapas (último año): INFINITE: fuerte ancient 45%, débil dust2 28% | BAKS: fuerte mirage 75%, débil inferno 18%  
-• Química de la plantilla: INFINITE: 39 mapas juntos de media | BAKS: 82 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• INFINITE gana 2-1: 16% → cuota justa 6.28 · casa 16%  
-• BAKS gana 2-1: 25% → cuota justa 4.01 · casa 28%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
-INFINITE: sl3nd 35 (20-51) · Blytz 31 (18-47) · kyuubii 31 (17-46) · volt 31 (17-45) · ScrunK 25 (14-38)  
-BAKS: danistzz 37 (21-54) · glowiing 36 (21-54) · Norwi 35 (20-52) · whisper 35 (20-51) · turbo 33 (19-49)  
-
-## ZOTIX vs Gelo — 21/11 · 16:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Gelo** @ **2.40** (Thunderpick) · prob 42% vs casas 38% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.135 partidos)  
-Mapa: ZOTIX 55% · Serie BO1: ZOTIX 55% - 45% Gelo  
-Casas: ZOTIX 62% · Gelo 38%  
-🔎 **Claves**  
-• Elo: ZOTIX 1501 (96 series) | Gelo 1463 (10 series)  
-• Forma: ZOTIX ❌❌✅✅✅ | Gelo ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 21/11/2026 16:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LPH vs Phantom Academy — 21/11 · 17:00
 
