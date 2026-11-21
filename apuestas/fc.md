@@ -1,43 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 05:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 06:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## imagin vs Frantsuz — 21/11 · 06:00
+## Tesla vs Ganger_29 — 21/11 · 06:30
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana imagin** @ **3.35** (Unibet) · prob 33% vs casas 26% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Ganger_29** @ **3.70** (Unibet) · prob 29% vs casas 24% · ventaja +6%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.640 partidos)  
-Goles esperados: imagin 4.56 · Frantsuz 5.01  
-Ganador: imagin 33% · empate 14% · Frantsuz 53%  
-Total: más de 9.5 goles 49% · menos 51%  
-Hándicap Frantsuz: −1.5 36% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 75.660 partidos)  
+Goles esperados: Tesla 3.55 · Ganger_29 2.87  
+Ganador: Tesla 53% · empate 18% · Ganger_29 29%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Tesla: −1.5 37% · −2.5 23%  
 🔎 **Claves**  
-• Forma: imagin ❌✅✅❌✅ | Frantsuz ❌✅❌❌❌  
-• Partidos: imagin 356 | Frantsuz 758  
-• Liga: Premier League 2x6  
-• Unibet: 1 3.35 · X 5.80 · 2 1.50 (sin margen 26%/15%/59%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.35 (+10%) · Paf España 3.35 (+10%)  
-
-## Kril vs Fireline — 21/11 · 06:09
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup C · **Gana Kril** @ **1.36** (cuota justa (sin casa)) · prob 74% vs casas 74% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.627 partidos)  
-Goles esperados: Kril 4.41 · Fireline 2.33  
-Ganador: Kril 74% · empate 14% · Fireline 12%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap Kril: −1.5 58% · −2.5 42%  
-🔎 **Claves**  
-• Forma: Kril ❌❌✅✅❌ | Fireline ❌❌✅❌❌  
-• Partidos: Kril 926 | Fireline 285  
-• Liga: Volta World Cup C  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: Tesla ❌✅➖❌➖ | Ganger_29 ✅❌✅✅➖  
+• Partidos: Tesla 1225 | Ganger_29 1018  
+• Liga: Bundesliga  
+• Unibet: 1 1.67 · X 3.65 · 2 3.70 (sin margen 52%/24%/24%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.70 (+6%) · Paf España 3.70 (+6%)  
 
 ## Fireline vs Kril — 21/11 · 06:54
 
