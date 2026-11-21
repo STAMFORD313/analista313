@@ -27,7 +27,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Jaylen Brown,puntos+asistencias,22.5,1.77,1.96,0.5255,0.6439,28.52,31.0,1
 2026-11-05,Jaylen Brown,puntos+rebotes,25.5,1.81,1.91,0.5134,0.6148,30.65,37.0,1
 2026-11-05,Jaylen Brown,puntos+rebotes+asistencias,28.5,1.72,2.0,0.5376,0.6582,34.96,38.0,1
-2026-11-05,Jaylen Brown,rebotes,5.5,1.6,2.2,0.5789,0.5741,6.43,7.0,1
+2026-11-05,Jaylen Brown,rebotes,5.5,1.6,2.2,0.5789,0.574,6.43,7.0,1
 2026-11-05,Jaylen Brown,rebotes+asistencias,9.5,1.82,1.92,0.5134,0.5926,10.74,8.0,0
 2026-11-05,Jaylen Brown,triples,1.5,2.48,1.48,0.3737,0.5579,1.96,3.0,1
 2026-11-05,Joel Embiid,asistencias,3.5,1.76,1.95,0.5256,0.6135,4.46,2.0,0
@@ -41,10 +41,10 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,John Collins,puntos,11.5,1.78,1.92,0.5189,0.3854,10.7,16.0,1
 2026-11-05,John Collins,puntos+rebotes,18.5,1.98,1.76,0.4706,0.3234,16.1,17.0,0
 2026-11-05,John Collins,rebotes,5.5,1.71,2.02,0.5416,0.4402,5.41,1.0,0
-2026-11-05,John Collins,triples,0.5,1.46,2.5,0.6313,0.6041,0.97,0.0,0
+2026-11-05,John Collins,triples,0.5,1.46,2.5,0.6313,0.604,0.97,0.0,0
 2026-11-05,LeBron James,asistencias,6.5,2.04,1.68,0.4516,0.501,6.86,8.0,1
 2026-11-05,LeBron James,puntos,14.5,1.87,1.84,0.496,0.6071,18.45,13.0,0
-2026-11-05,LeBron James,puntos+asistencias,21.5,1.98,1.76,0.4706,0.6053,25.31,21.0,0
+2026-11-05,LeBron James,puntos+asistencias,21.5,1.98,1.76,0.4706,0.6054,25.31,21.0,0
 2026-11-05,LeBron James,puntos+rebotes,20.5,1.85,1.87,0.5027,0.6287,24.89,23.0,1
 2026-11-05,LeBron James,puntos+rebotes+asistencias,27.5,1.93,1.77,0.4784,0.6224,31.75,31.0,1
 2026-11-05,LeBron James,rebotes,6.5,2.2,1.6,0.4211,0.4466,6.44,10.0,1
@@ -57,7 +57,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Paul Reed,puntos+rebotes+asistencias,22.5,1.76,1.95,0.5256,0.4959,23.28,19.0,0
 2026-11-05,Paul Reed,rebotes,7.5,1.68,2.05,0.5496,0.395,6.97,7.0,0
 2026-11-05,Paul Reed,rebotes+asistencias,9.5,1.65,2.15,0.5658,0.4384,9.26,11.0,1
-2026-11-05,Tyrese Maxey,asistencias,4.5,1.9,1.81,0.4879,0.5895,5.42,7.0,1
+2026-11-05,Tyrese Maxey,asistencias,4.5,1.9,1.81,0.4879,0.5896,5.42,7.0,1
 2026-11-05,Tyrese Maxey,puntos,22.5,1.8,1.91,0.5148,0.5084,24.75,19.0,0
 2026-11-05,Tyrese Maxey,puntos+asistencias,27.5,1.85,1.87,0.5027,0.5308,30.17,26.0,0
 2026-11-05,Tyrese Maxey,puntos+rebotes,26.5,1.86,1.87,0.5013,0.517,28.8,20.0,0
@@ -70,8 +70,8 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,VJ Edgecombe,puntos+asistencias,13.5,1.95,1.78,0.4772,0.6758,17.88,14.0,1
 2026-11-05,VJ Edgecombe,puntos+rebotes,16.5,1.91,1.81,0.4866,0.6405,20.27,17.0,1
 2026-11-05,VJ Edgecombe,puntos+rebotes+asistencias,18.5,1.78,1.93,0.5202,0.715,23.89,20.0,1
-2026-11-05,VJ Edgecombe,rebotes,5.5,1.9,1.8,0.4865,0.521,6.0,6.0,1
-2026-11-05,VJ Edgecombe,rebotes+asistencias,7.5,1.71,2.06,0.5464,0.6959,9.62,9.0,1
+2026-11-05,VJ Edgecombe,rebotes,5.5,1.9,1.8,0.4865,0.5209,6.0,6.0,1
+2026-11-05,VJ Edgecombe,rebotes+asistencias,7.5,1.71,2.06,0.5464,0.6958,9.62,9.0,1
 2026-11-05,VJ Edgecombe,triples,1.5,2.16,1.61,0.4271,0.4767,1.66,1.0,0
 2026-11-05,Ajay Mitchell,asistencias,3.5,1.58,2.23,0.5853,0.4957,3.75,4.0,1
 2026-11-05,Ajay Mitchell,puntos,19.5,1.91,1.79,0.4838,0.2285,14.45,23.0,1
@@ -89,7 +89,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Donovan Mitchell,rebotes,4.5,1.7,2.04,0.5455,0.4682,4.61,3.0,0
 2026-11-05,Donovan Mitchell,rebotes+asistencias,10.5,2.06,1.71,0.4536,0.3188,9.08,9.0,0
 2026-11-05,Donovan Mitchell,triples,2.5,2.06,1.68,0.4492,0.4167,2.39,5.0,1
-2026-11-05,Evan Mobley,asistencias,3.5,2.1,1.65,0.44,0.4065,3.28,3.0,0
+2026-11-05,Evan Mobley,asistencias,3.5,2.1,1.65,0.44,0.4066,3.28,3.0,0
 2026-11-05,Evan Mobley,puntos,17.5,1.88,1.82,0.4919,0.4168,17.04,16.0,0
 2026-11-05,Evan Mobley,puntos+asistencias,20.5,1.81,1.91,0.5134,0.4384,20.32,19.0,0
 2026-11-05,Evan Mobley,puntos+rebotes,26.5,1.91,1.82,0.4879,0.3949,24.98,26.0,0
@@ -100,9 +100,9 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Isaiah Hartenstein,asistencias,3.5,2.18,1.61,0.4248,0.3195,2.84,4.0,1
 2026-11-05,Isaiah Hartenstein,puntos,10.5,1.96,1.75,0.4717,0.3345,9.04,3.0,0
 2026-11-05,Isaiah Hartenstein,puntos+asistencias,14.5,2.08,1.68,0.4468,0.2842,11.88,7.0,0
-2026-11-05,Isaiah Hartenstein,puntos+rebotes,21.5,1.89,1.83,0.4919,0.2676,17.88,15.0,0
+2026-11-05,Isaiah Hartenstein,puntos+rebotes,21.5,1.89,1.83,0.4919,0.2677,17.88,15.0,0
 2026-11-05,Isaiah Hartenstein,puntos+rebotes+asistencias,24.5,1.82,1.88,0.5081,0.2697,20.72,19.0,0
-2026-11-05,Isaiah Hartenstein,rebotes,10.5,1.8,1.9,0.5135,0.3056,8.84,12.0,1
+2026-11-05,Isaiah Hartenstein,rebotes,10.5,1.8,1.9,0.5135,0.3057,8.84,12.0,1
 2026-11-05,Isaiah Hartenstein,rebotes+asistencias,14.5,2.02,1.74,0.4628,0.2431,11.68,16.0,1
 2026-11-05,James Harden,asistencias,6.5,2.02,1.71,0.4584,0.3478,5.67,6.0,0
 2026-11-05,James Harden,puntos,17.5,1.89,1.81,0.4892,0.4467,17.75,19.0,1
@@ -147,10 +147,10 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Alperen Sengun,puntos,19.5,1.89,1.81,0.4892,0.4766,20.58,17.0,0
 2026-11-05,Alperen Sengun,puntos+asistencias,25.5,1.85,1.87,0.5027,0.503,26.96,27.0,1
 2026-11-05,Alperen Sengun,puntos+rebotes,28.5,1.84,1.88,0.5054,0.4886,29.49,29.0,1
-2026-11-05,Alperen Sengun,puntos+rebotes+asistencias,34.5,1.79,1.91,0.5162,0.5079,35.87,39.0,1
+2026-11-05,Alperen Sengun,puntos+rebotes+asistencias,34.5,1.79,1.91,0.5162,0.5078,35.87,39.0,1
 2026-11-05,Alperen Sengun,rebotes,9.5,2.02,1.71,0.4584,0.4005,8.92,12.0,1
 2026-11-05,Alperen Sengun,rebotes+asistencias,15.5,1.93,1.81,0.484,0.4531,15.3,22.0,1
-2026-11-05,Amen Thompson,asistencias,3.5,1.72,2.0,0.5376,0.5565,4.1,1.0,0
+2026-11-05,Amen Thompson,asistencias,3.5,1.72,2.0,0.5376,0.5566,4.1,1.0,0
 2026-11-05,Amen Thompson,puntos,15.5,1.91,1.79,0.4838,0.4313,15.39,11.0,0
 2026-11-05,Amen Thompson,puntos+asistencias,19.5,1.94,1.79,0.4799,0.4486,19.49,12.0,0
 2026-11-05,Amen Thompson,puntos+rebotes,21.5,1.82,1.9,0.5108,0.4519,21.48,19.0,0
@@ -170,7 +170,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Fred VanVleet,puntos+asistencias,17.5,1.84,1.88,0.5054,0.4794,18.01,21.0,1
 2026-11-05,Fred VanVleet,puntos+rebotes,15.5,1.87,1.85,0.4973,0.4953,16.37,21.0,1
 2026-11-05,Fred VanVleet,puntos+rebotes+asistencias,21.5,1.92,1.78,0.4811,0.4552,21.42,24.0,1
-2026-11-05,Fred VanVleet,rebotes,3.5,2.04,1.7,0.4545,0.4301,3.4,3.0,0
+2026-11-05,Fred VanVleet,rebotes,3.5,2.04,1.7,0.4545,0.43,3.4,3.0,0
 2026-11-05,Fred VanVleet,rebotes+asistencias,8.5,1.76,2.0,0.5319,0.4603,8.45,6.0,0
 2026-11-05,Fred VanVleet,triples,2.5,1.95,1.76,0.4744,0.454,2.56,4.0,1
 2026-11-05,Jabari Smith Jr.,asistencias,1.5,1.74,1.97,0.531,0.5936,2.08,2.0,1
@@ -179,7 +179,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Jabari Smith Jr.,puntos+rebotes,21.5,1.94,1.79,0.4799,0.517,22.97,15.0,0
 2026-11-05,Jabari Smith Jr.,puntos+rebotes+asistencias,23.5,1.97,1.74,0.469,0.5232,25.05,17.0,0
 2026-11-05,Jabari Smith Jr.,rebotes,6.5,2.12,1.64,0.4362,0.481,6.71,4.0,0
-2026-11-05,Jabari Smith Jr.,rebotes+asistencias,7.5,1.75,2.0,0.5333,0.6084,8.79,6.0,0
+2026-11-05,Jabari Smith Jr.,rebotes+asistencias,7.5,1.75,2.0,0.5333,0.6083,8.79,6.0,0
 2026-11-05,Jabari Smith Jr.,triples,2.5,2.15,1.62,0.4297,0.4624,2.6,2.0,0
 2026-11-05,Jaden McDaniels,asistencias,2.5,1.68,2.05,0.5496,0.5243,2.86,4.0,1
 2026-11-05,Jaden McDaniels,puntos,16.5,1.91,1.79,0.4838,0.4144,16.01,14.0,0
@@ -196,7 +196,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-05,Jonathan Kuminga,puntos+rebotes+asistencias,22.5,1.87,1.83,0.4946,0.4522,22.39,29.0,1
 2026-11-05,Jonathan Kuminga,rebotes,5.5,1.93,1.78,0.4798,0.4549,5.51,8.0,1
 2026-11-05,Jonathan Kuminga,rebotes+asistencias,7.5,1.8,1.95,0.52,0.5341,8.09,13.0,1
-2026-11-05,Jonathan Kuminga,triples,1.5,2.43,1.5,0.3817,0.4213,1.47,4.0,1
+2026-11-05,Jonathan Kuminga,triples,1.5,2.43,1.5,0.3817,0.4212,1.47,4.0,1
 2026-11-05,Kevin Durant,asistencias,3.5,1.98,1.73,0.4663,0.5447,4.03,2.0,0
 2026-11-05,Kevin Durant,puntos,21.5,1.74,1.98,0.5323,0.4334,21.41,21.0,0
 2026-11-05,Kevin Durant,puntos+asistencias,25.5,1.83,1.9,0.5094,0.4441,25.44,23.0,0
@@ -227,7 +227,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-12,Ajay Mitchell,rebotes,3.5,1.62,2.16,0.5714,0.4701,3.62,3.0,0
 2026-11-12,Ajay Mitchell,rebotes+asistencias,7.5,1.74,2.0,0.5348,0.4307,7.23,6.0,0
 2026-11-12,Ajay Mitchell,triples,1.5,2.55,1.46,0.3641,0.2701,1.02,0.0,0
-2026-11-12,Alex Caruso,asistencias,1.5,1.56,2.28,0.5938,0.6009,2.11,2.0,1
+2026-11-12,Alex Caruso,asistencias,1.5,1.56,2.28,0.5938,0.601,2.11,2.0,1
 2026-11-12,Alex Caruso,puntos,5.5,1.88,1.82,0.4919,0.6226,7.49,14.0,1
 2026-11-12,Alex Caruso,puntos+asistencias,8.5,2.12,1.66,0.4392,0.5425,9.6,16.0,1
 2026-11-12,Alex Caruso,puntos+rebotes,9.5,2.1,1.67,0.443,0.5433,10.6,21.0,1
@@ -242,12 +242,12 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-12,Damian Lillard,puntos+asistencias,23.5,1.91,1.82,0.4879,0.4133,22.6,21.0,0
 2026-11-12,Damian Lillard,puntos+rebotes,23.5,2.02,1.73,0.4613,0.3682,21.47,21.0,0
 2026-11-12,Damian Lillard,puntos+rebotes+asistencias,27.5,1.92,1.78,0.4811,0.3979,26.0,24.0,0
-2026-11-12,Damian Lillard,rebotes,3.5,1.8,1.9,0.5135,0.4301,3.4,3.0,0
+2026-11-12,Damian Lillard,rebotes,3.5,1.8,1.9,0.5135,0.43,3.4,3.0,0
 2026-11-12,Damian Lillard,rebotes+asistencias,8.5,2.1,1.67,0.443,0.399,7.94,6.0,0
 2026-11-12,Damian Lillard,triples,2.5,1.66,2.08,0.5561,0.4485,2.53,2.0,0
 2026-11-12,Deni Avdija,asistencias,5.5,1.74,1.97,0.531,0.5213,5.98,6.0,1
 2026-11-12,Deni Avdija,puntos,21.5,1.77,1.94,0.5229,0.4592,22.16,28.0,1
-2026-11-12,Deni Avdija,puntos+asistencias,27.5,1.78,1.95,0.5228,0.4707,28.14,34.0,1
+2026-11-12,Deni Avdija,puntos+asistencias,27.5,1.78,1.95,0.5228,0.4708,28.14,34.0,1
 2026-11-12,Deni Avdija,puntos+rebotes,29.5,1.92,1.81,0.4853,0.4145,28.42,31.0,1
 2026-11-12,Deni Avdija,puntos+rebotes+asistencias,34.5,1.77,1.94,0.5229,0.4546,34.4,37.0,1
 2026-11-12,Deni Avdija,rebotes,7.5,2.17,1.62,0.4274,0.3109,6.26,3.0,0
@@ -256,7 +256,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-12,Donovan Clingan,asistencias,1.5,1.58,2.23,0.5853,0.5596,1.94,2.0,1
 2026-11-12,Donovan Clingan,puntos,10.5,1.85,1.85,0.5,0.4581,10.84,5.0,0
 2026-11-12,Donovan Clingan,puntos+asistencias,12.5,1.85,1.88,0.504,0.4632,12.79,7.0,0
-2026-11-12,Donovan Clingan,puntos+rebotes,22.5,1.96,1.78,0.4759,0.3702,20.71,17.0,0
+2026-11-12,Donovan Clingan,puntos+rebotes,22.5,1.96,1.78,0.4759,0.3703,20.71,17.0,0
 2026-11-12,Donovan Clingan,puntos+rebotes+asistencias,24.5,1.93,1.78,0.4798,0.372,22.66,19.0,0
 2026-11-12,Donovan Clingan,rebotes,11.5,1.98,1.73,0.4663,0.3191,9.87,12.0,1
 2026-11-12,Donovan Clingan,rebotes+asistencias,13.5,1.96,1.78,0.4759,0.3266,11.81,14.0,1
@@ -281,7 +281,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-12,Jrue Holiday,triples,1.5,1.49,2.45,0.6218,0.5976,2.12,5.0,1
 2026-11-12,Kenrich Williams,puntos,7.5,1.88,1.82,0.4919,0.4761,7.99,11.0,1
 2026-11-12,Kenrich Williams,puntos+rebotes,12.5,1.87,1.86,0.4987,0.4529,12.47,13.0,1
-2026-11-12,Kenrich Williams,rebotes,4.5,1.71,2.0,0.5391,0.4486,4.48,2.0,0
+2026-11-12,Kenrich Williams,rebotes,4.5,1.71,2.0,0.5391,0.4485,4.48,2.0,0
 2026-11-12,Kenrich Williams,triples,1.5,2.65,1.42,0.3489,0.3996,1.4,2.0,1
 2026-11-12,Robert Williams III,puntos,5.5,1.82,1.88,0.5081,0.5805,6.98,10.0,1
 2026-11-12,Robert Williams III,puntos+rebotes,12.5,1.9,1.82,0.4892,0.5052,13.1,17.0,1
@@ -299,7 +299,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-12,Shai Gilgeous-Alexander,puntos+asistencias,37.5,1.76,1.98,0.5294,0.2966,31.68,33.0,0
 2026-11-12,Shai Gilgeous-Alexander,puntos+rebotes,36.5,1.82,1.91,0.5121,0.2691,29.6,35.0,0
 2026-11-12,Shai Gilgeous-Alexander,puntos+rebotes+asistencias,41.5,1.73,2.0,0.5362,0.293,35.29,37.0,0
-2026-11-12,Shai Gilgeous-Alexander,rebotes,3.5,1.6,2.2,0.5789,0.4675,3.6,4.0,1
+2026-11-12,Shai Gilgeous-Alexander,rebotes,3.5,1.6,2.2,0.5789,0.4674,3.6,4.0,1
 2026-11-12,Shai Gilgeous-Alexander,rebotes+asistencias,9.5,1.83,1.9,0.5094,0.4432,9.29,6.0,0
 2026-11-12,Shai Gilgeous-Alexander,triples,1.5,1.52,2.4,0.6122,0.514,1.79,0.0,0
 2026-11-12,Toumani Camara,puntos,12.5,1.88,1.82,0.4919,0.3927,11.75,14.0,1
@@ -312,7 +312,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-18,Ayo Dosunmu,puntos+asistencias,20.5,1.9,1.83,0.4906,0.4536,20.66,35.0,1
 2026-11-18,Ayo Dosunmu,puntos+rebotes,21.5,1.89,1.84,0.4933,0.4592,21.75,34.0,1
 2026-11-18,Ayo Dosunmu,puntos+rebotes+asistencias,24.5,1.85,1.85,0.5,0.4873,25.27,39.0,1
-2026-11-18,Ayo Dosunmu,rebotes,4.5,2.2,1.58,0.418,0.4676,4.6,4.0,0
+2026-11-18,Ayo Dosunmu,rebotes,4.5,2.2,1.58,0.418,0.4675,4.6,4.0,0
 2026-11-18,Ayo Dosunmu,rebotes+asistencias,7.5,2.05,1.71,0.4548,0.5413,8.12,9.0,1
 2026-11-18,Ayo Dosunmu,triples,1.5,2.08,1.66,0.4439,0.527,1.84,7.0,1
 2026-11-18,Bones Hyland,asistencias,2.5,1.65,2.1,0.56,0.4911,2.71,1.0,0
@@ -341,7 +341,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-18,Deni Avdija,puntos+rebotes+asistencias,36.5,1.9,1.8,0.4865,0.4356,35.79,39.0,1
 2026-11-18,Deni Avdija,rebotes,6.5,1.94,1.77,0.4771,0.4237,6.25,8.0,1
 2026-11-18,Deni Avdija,rebotes+asistencias,12.5,1.96,1.78,0.4759,0.4481,12.28,12.0,0
-2026-11-18,Deni Avdija,triples,1.5,1.63,2.15,0.5688,0.5291,1.85,3.0,1
+2026-11-18,Deni Avdija,triples,1.5,1.63,2.15,0.5688,0.529,1.85,3.0,1
 2026-11-18,Donovan Clingan,asistencias,1.5,1.58,2.25,0.5875,0.5559,1.93,5.0,1
 2026-11-18,Donovan Clingan,puntos,2.5,2.0,1.74,0.4652,0.9567,10.75,12.0,1
 2026-11-18,Donovan Clingan,puntos,10.5,1.81,1.89,0.5108,0.4518,10.75,12.0,1
@@ -357,7 +357,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-18,Jaden McDaniels,puntos+asistencias,20.5,2.02,1.73,0.4613,0.4046,19.53,26.0,1
 2026-11-18,Jaden McDaniels,puntos+rebotes,22.5,1.97,1.77,0.4733,0.4293,21.98,27.0,1
 2026-11-18,Jaden McDaniels,puntos+rebotes+asistencias,25.5,1.9,1.8,0.4865,0.4436,25.17,31.0,1
-2026-11-18,Jaden McDaniels,rebotes,5.5,2.02,1.7,0.457,0.4735,5.65,5.0,0
+2026-11-18,Jaden McDaniels,rebotes,5.5,2.02,1.7,0.457,0.4734,5.65,5.0,0
 2026-11-18,Jaden McDaniels,rebotes+asistencias,8.5,1.87,1.85,0.4973,0.5041,8.84,9.0,1
 2026-11-18,Jaden McDaniels,triples,1.5,2.3,1.55,0.4026,0.3987,1.4,2.0,1
 2026-11-18,Jonathan Kuminga,asistencias,2.5,2.08,1.67,0.4453,0.5055,2.77,1.0,0
@@ -374,7 +374,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-18,Jrue Holiday,puntos+asistencias,17.5,1.92,1.81,0.4853,0.4337,17.17,29.0,1
 2026-11-18,Jrue Holiday,puntos+rebotes,17.5,2.0,1.74,0.4652,0.4188,16.9,28.0,1
 2026-11-18,Jrue Holiday,puntos+rebotes+asistencias,21.5,1.94,1.77,0.4771,0.4428,21.17,34.0,1
-2026-11-18,Jrue Holiday,rebotes,3.5,1.84,1.86,0.5027,0.5372,4.0,5.0,1
+2026-11-18,Jrue Holiday,rebotes,3.5,1.84,1.86,0.5027,0.5371,4.0,5.0,1
 2026-11-18,Jrue Holiday,rebotes+asistencias,7.5,1.8,1.93,0.5174,0.5597,8.28,11.0,1
 2026-11-18,Jrue Holiday,triples,2.5,2.3,1.55,0.4026,0.362,2.16,5.0,1
 2026-11-18,LaMelo Ball,asistencias,6.5,2.02,1.71,0.4584,0.3857,5.95,2.0,0
@@ -416,7 +416,7 @@ fecha,jugador,stat,linea,cuota_mas,cuota_menos,p_casa_mas,p_modelo_mas,esperado,
 2026-11-18,Terrence Shannon Jr.,puntos,10.5,1.82,1.88,0.5081,0.5726,12.81,12.0,1
 2026-11-18,Terrence Shannon Jr.,puntos+rebotes,14.5,2.05,1.71,0.4548,0.5294,15.97,13.0,0
 2026-11-18,Terrence Shannon Jr.,rebotes,2.5,1.67,2.07,0.5535,0.5809,3.16,1.0,0
-2026-11-18,Terrence Shannon Jr.,triples,1.5,2.4,1.5,0.3846,0.3826,1.35,1.0,0
+2026-11-18,Terrence Shannon Jr.,triples,1.5,2.4,1.5,0.3846,0.3825,1.35,1.0,0
 2026-11-18,Toumani Camara,asistencias,1.5,1.93,1.77,0.4784,0.5051,1.74,1.0,0
 2026-11-18,Toumani Camara,puntos,3.5,2.25,1.58,0.4125,0.941,12.23,10.0,1
 2026-11-18,Toumani Camara,puntos,11.5,1.88,1.83,0.4933,0.4791,12.23,10.0,0
