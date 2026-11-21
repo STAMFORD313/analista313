@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 03:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Juarez vs Atlas — 21/11 · 04:00
-
-👀 candidata · 🇲🇽 Liga MX · **Empate** @ **3.75** (Bet365) · prob 26% vs casas 26% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.38 - 1.41)  
-1 36% · X 27% · 2 36%  
-1X 64% · X2 64% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 1-2 8% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Juarez ❌❌➖✅✅ | Atlas ✅❌✅✅❌  
-• H2H: 13 desde 2019: 2V-3E-8D · 2.5 goles/partido · +2.5 en 46%  
-• Bajas: Juarez: 1 fuera, 0 duda (Lucas Romero); Atlas: 0 fuera, 2 duda  
-• Favorito de las casas: Atlas @ 2.06  
-
-## Club Tijuana vs Atlante — 21/11 · 04:10
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Club Tijuana** @ **1.67** (Bet365) · prob 60% vs casas 60% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.81 - 1.05)  
-1 60% · X 23% · 2 18%  
-1X 82% · X2 40% · 12 77%  
-+1.5 78% · +2.5 55% · +3.5 32% · Ambos marcan 55%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Club Tijuana ➖✅➖➖❌ | Atlante ❌✅❌❌❌  
-• H2H: 4 desde 2012: 4V-0E-0D · 3.2 goles/partido · +2.5 en 75%  
-• Bajas: Club Tijuana: sin bajas; Atlante: sin bajas  
-• Favorito de las casas: Club Tijuana @ 1.67  
+Actualizado 21/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kyoto vs Urawa Reds — 21/11 · 06:00
 
