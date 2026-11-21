@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 14:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 14:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cracovia vs Jagiellonia — 21/11 · 14:45
 
@@ -13697,6 +13697,7 @@ Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%
 Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
 
 ## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
 
@@ -13704,6 +13705,312 @@ Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.63)  
+1 21% · X 27% · 2 52%  
+1X 48% · X2 79% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Sparta Rotterdam ➖✅❌✅❌ | AZ Alkmaar ❌➖❌❌✅  
+• H2H: 18 desde 2016: 3V-5E-10D · 3.1 goles/partido · +2.5 en 50%  
+• Bajas: Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 55% · Sparta Rotterdam +5.5 33% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.6 - 1.8: total +3.5 45% · Sparta Rotterdam +1.5 49% · AZ Alkmaar +1.5 54%  
+Faltas 11.1 - 11.1: total +21.5 53% · Sparta Rotterdam +10.5 55% · AZ Alkmaar +11.5 43%  
+Tiros a puerta 4.2 - 6.0: total +10.5 44% · Sparta Rotterdam +5.5 26% · AZ Alkmaar +5.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar → prob. 54%, cuota justa 1.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar + Menos de 11.5 faltas de AZ Alkmaar → prob. 31%, cuota justa 3.24  
+
+## Ajax vs Den Haag — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 11.5 córners** @ **2.33** (Unibet) · prob 42% vs casas 40% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.81)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 9% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Ajax ➖✅✅✅➖ | Den Haag ➖✅❌❌✅  
+• H2H: 30 desde 2005: 21V-7E-2D · 3.1 goles/partido · +2.5 en 53%  
+• Bajas: Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda  
+• Favorito de las casas: Ajax @ 1.20  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +10.5 55% · Ajax +5.5 73% · Den Haag +4.5 22%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Ajax +1.5 33% · Den Haag +1.5 60%  
+Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%  
+Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
+
+## Ajax vs Den Haag — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 76% vs casas 76% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.81)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 9% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Ajax ➖✅✅✅➖ | Den Haag ➖✅❌❌✅  
+• H2H: 30 desde 2005: 21V-7E-2D · 3.1 goles/partido · +2.5 en 53%  
+• Bajas: Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda  
+• Favorito de las casas: Ajax @ 1.20  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +10.5 55% · Ajax +5.5 73% · Den Haag +4.5 22%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Ajax +1.5 33% · Den Haag +1.5 60%  
+Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%  
+Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
+
+## Ajax vs Den Haag — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 9.5 córners de Ajax** @ **3.30** (Unibet) · prob 30% vs casas 28% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.81)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 9% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Ajax ➖✅✅✅➖ | Den Haag ➖✅❌❌✅  
+• H2H: 30 desde 2005: 21V-7E-2D · 3.1 goles/partido · +2.5 en 53%  
+• Bajas: Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda  
+• Favorito de las casas: Ajax @ 1.20  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +10.5 55% · Ajax +5.5 73% · Den Haag +4.5 22%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Ajax +1.5 33% · Den Haag +1.5 60%  
+Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%  
+Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
+
+## Ajax vs Den Haag — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners de Ajax** @ **1.28** (Unibet) · prob 70% vs casas 72% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.81)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 9% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Ajax ➖✅✅✅➖ | Den Haag ➖✅❌❌✅  
+• H2H: 30 desde 2005: 21V-7E-2D · 3.1 goles/partido · +2.5 en 53%  
+• Bajas: Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda  
+• Favorito de las casas: Ajax @ 1.20  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +10.5 55% · Ajax +5.5 73% · Den Haag +4.5 22%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Ajax +1.5 33% · Den Haag +1.5 60%  
+Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%  
+Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
+
+## Ajax vs Den Haag — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 1.5 córners de Den Haag** @ **1.21** (Unibet) · prob 76% vs casas 76% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.81)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 9% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Ajax ➖✅✅✅➖ | Den Haag ➖✅❌❌✅  
+• H2H: 30 desde 2005: 21V-7E-2D · 3.1 goles/partido · +2.5 en 53%  
+• Bajas: Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda  
+• Favorito de las casas: Ajax @ 1.20  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +10.5 55% · Ajax +5.5 73% · Den Haag +4.5 22%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Ajax +1.5 33% · Den Haag +1.5 60%  
+Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%  
+Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
+
+## Ajax vs Den Haag — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 3.5 córners de Den Haag** @ **1.53** (Unibet) · prob 62% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.81)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 9% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Ajax ➖✅✅✅➖ | Den Haag ➖✅❌❌✅  
+• H2H: 30 desde 2005: 21V-7E-2D · 3.1 goles/partido · +2.5 en 53%  
+• Bajas: Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda  
+• Favorito de las casas: Ajax @ 1.20  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +10.5 55% · Ajax +5.5 73% · Den Haag +4.5 22%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Ajax +1.5 33% · Den Haag +1.5 60%  
+Faltas 8.4 - 11.4: total +21.5 35% · Ajax +10.5 24% · Den Haag +11.5 47%  
+Tiros a puerta 8.4 - 3.5: total +10.5 62% · Ajax +5.5 80% · Den Haag +5.5 15%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Den Haag + Menos de 4.5 córners de Den Haag + Menos de 10.5 faltas de Ajax + Menos de 1.5 tarjetas de Ajax + Más de 2.5 goles → prob. 21%, cuota justa 4.65  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Den Haag + Menos de 1.5 tarjetas de Ajax): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 53% · ventaja -8%  
+
+## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 11.5 córners** @ **2.30** (Unibet) · prob 42% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.63)  
+1 21% · X 27% · 2 52%  
+1X 48% · X2 79% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Sparta Rotterdam ➖✅❌✅❌ | AZ Alkmaar ❌➖❌❌✅  
+• H2H: 18 desde 2016: 3V-5E-10D · 3.1 goles/partido · +2.5 en 50%  
+• Bajas: Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 55% · Sparta Rotterdam +5.5 33% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.6 - 1.8: total +3.5 45% · Sparta Rotterdam +1.5 49% · AZ Alkmaar +1.5 54%  
+Faltas 11.1 - 11.1: total +21.5 53% · Sparta Rotterdam +10.5 55% · AZ Alkmaar +11.5 43%  
+Tiros a puerta 4.2 - 6.0: total +10.5 44% · Sparta Rotterdam +5.5 26% · AZ Alkmaar +5.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar → prob. 54%, cuota justa 1.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar + Menos de 11.5 faltas de AZ Alkmaar → prob. 31%, cuota justa 3.24  
+
+## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 76% vs casas 76% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.63)  
+1 21% · X 27% · 2 52%  
+1X 48% · X2 79% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Sparta Rotterdam ➖✅❌✅❌ | AZ Alkmaar ❌➖❌❌✅  
+• H2H: 18 desde 2016: 3V-5E-10D · 3.1 goles/partido · +2.5 en 50%  
+• Bajas: Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 55% · Sparta Rotterdam +5.5 33% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.6 - 1.8: total +3.5 45% · Sparta Rotterdam +1.5 49% · AZ Alkmaar +1.5 54%  
+Faltas 11.1 - 11.1: total +21.5 53% · Sparta Rotterdam +10.5 55% · AZ Alkmaar +11.5 43%  
+Tiros a puerta 4.2 - 6.0: total +10.5 44% · Sparta Rotterdam +5.5 26% · AZ Alkmaar +5.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar → prob. 54%, cuota justa 1.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar + Menos de 11.5 faltas de AZ Alkmaar → prob. 31%, cuota justa 3.24  
+
+## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de Sparta Rotterdam** @ **2.18** (Unibet) · prob 45% vs casas 42% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.63)  
+1 21% · X 27% · 2 52%  
+1X 48% · X2 79% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Sparta Rotterdam ➖✅❌✅❌ | AZ Alkmaar ❌➖❌❌✅  
+• H2H: 18 desde 2016: 3V-5E-10D · 3.1 goles/partido · +2.5 en 50%  
+• Bajas: Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 55% · Sparta Rotterdam +5.5 33% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.6 - 1.8: total +3.5 45% · Sparta Rotterdam +1.5 49% · AZ Alkmaar +1.5 54%  
+Faltas 11.1 - 11.1: total +21.5 53% · Sparta Rotterdam +10.5 55% · AZ Alkmaar +11.5 43%  
+Tiros a puerta 4.2 - 6.0: total +10.5 44% · Sparta Rotterdam +5.5 26% · AZ Alkmaar +5.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar → prob. 54%, cuota justa 1.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar + Menos de 11.5 faltas de AZ Alkmaar → prob. 31%, cuota justa 3.24  
+
+## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de Sparta Rotterdam** @ **1.30** (Unibet) · prob 69% vs casas 70% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.63)  
+1 21% · X 27% · 2 52%  
+1X 48% · X2 79% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Sparta Rotterdam ➖✅❌✅❌ | AZ Alkmaar ❌➖❌❌✅  
+• H2H: 18 desde 2016: 3V-5E-10D · 3.1 goles/partido · +2.5 en 50%  
+• Bajas: Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 55% · Sparta Rotterdam +5.5 33% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.6 - 1.8: total +3.5 45% · Sparta Rotterdam +1.5 49% · AZ Alkmaar +1.5 54%  
+Faltas 11.1 - 11.1: total +21.5 53% · Sparta Rotterdam +10.5 55% · AZ Alkmaar +11.5 43%  
+Tiros a puerta 4.2 - 6.0: total +10.5 44% · Sparta Rotterdam +5.5 26% · AZ Alkmaar +5.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar → prob. 54%, cuota justa 1.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar + Menos de 11.5 faltas de AZ Alkmaar → prob. 31%, cuota justa 3.24  
+
+## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 5.5 córners de AZ Alkmaar** @ **1.62** (Unibet) · prob 57% vs casas 57% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.63)  
+1 21% · X 27% · 2 52%  
+1X 48% · X2 79% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Sparta Rotterdam ➖✅❌✅❌ | AZ Alkmaar ❌➖❌❌✅  
+• H2H: 18 desde 2016: 3V-5E-10D · 3.1 goles/partido · +2.5 en 50%  
+• Bajas: Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 55% · Sparta Rotterdam +5.5 33% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.6 - 1.8: total +3.5 45% · Sparta Rotterdam +1.5 49% · AZ Alkmaar +1.5 54%  
+Faltas 11.1 - 11.1: total +21.5 53% · Sparta Rotterdam +10.5 55% · AZ Alkmaar +11.5 43%  
+Tiros a puerta 4.2 - 6.0: total +10.5 44% · Sparta Rotterdam +5.5 26% · AZ Alkmaar +5.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar → prob. 54%, cuota justa 1.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sparta Rotterdam + Más de 4.5 córners de AZ Alkmaar + Menos de 11.5 faltas de AZ Alkmaar → prob. 31%, cuota justa 3.24  
+
+## Sparta Rotterdam vs AZ Alkmaar — 22/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 8.5 córners de AZ Alkmaar** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.11 - 1.63)  
 1 21% · X 27% · 2 52%  

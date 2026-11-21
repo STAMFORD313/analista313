@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 14:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 14:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gelo vs JUMBO — 21/11 · 15:00
 

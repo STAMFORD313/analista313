@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 14:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 14:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## saportj vs Gazi — 21/11 · 14:18
+## DaVa vs Artrom — 21/11 · 14:52
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 15% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.62** (Unibet) · prob 72% vs casas 54% · ventaja +17%
 
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.063 partidos)  
-Goles esperados: saportj 2.86 · Gazi 2.34  
-Ganador: saportj 54% · empate 18% · Gazi 28%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap saportj: −1.5 33% · −2.5 19%  
-🔎 **Claves**  
-• Forma: saportj ❌❌❌❌❌ | Gazi ➖❌✅➖✅  
-• Partidos: saportj 1106 | Gazi 586  
-• Liga: CSL  
-• Unibet: 1 1.70 · X 6.00 · 2 2.63 (sin margen 52%/15%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+10%) · Paf España 6.00 (+10%)  
-
-## Lumix vs Ganger_29 — 21/11 · 14:22
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Lumix** @ **2.05** (Unibet) · prob 52% vs casas 42% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.063 partidos)  
-Goles esperados: Lumix 3.10 · Ganger_29 2.50  
-Ganador: Lumix 52% · empate 20% · Ganger_29 27%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Lumix: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Lumix ❌✅✅✅✅ | Ganger_29 ➖❌❌❌➖  
-• Partidos: Lumix 1204 | Ganger_29 1046  
-• Liga: FA Cup  
-• Unibet: 1 2.05 · X 3.60 · 2 2.60 (sin margen 42%/24%/33%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.05 (+7%) · Paf España 2.05 (+7%)  
-
-## Jekunam vs DaVa — 21/11 · 14:28
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.95** (Unibet) · prob 58% vs casas 45% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.055 partidos)  
-Goles esperados: Jekunam 2.03 · DaVa 2.89  
-Ganador: Jekunam 23% · empate 19% · DaVa 58%  
-Total: más de 4.5 goles 55% · menos 45%  
-Hándicap DaVa: −1.5 38% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 76.084 partidos)  
+Goles esperados: DaVa 2.83 · Artrom 1.41  
+Ganador: DaVa 72% · empate 17% · Artrom 11%  
+Total: más de 4.5 goles 42% · menos 58%  
+Hándicap DaVa: −1.5 47% · −2.5 29%  
 🔎 **Claves**  
-• Forma: Jekunam ➖❌➖❌❌ | DaVa ➖✅✅➖✅  
-• Partidos: Jekunam 1298 | DaVa 1471  
+• Forma: DaVa ✅➖✅❌✅ | Artrom ❌➖❌❌❌  
+• Partidos: DaVa 1473 | Artrom 710  
 • Liga: LaLiga  
-• Unibet: 1 2.75 · X 3.65 · 2 1.95 (sin margen 32%/24%/45%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.95 (+13%) · Paf España 1.95 (+13%)  
+• Unibet: 1 1.62 · X 3.75 · 2 3.90 (sin margen 54%/23%/22%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.62 (+17%) · Paf España 1.62 (+17%)  
+
+## SDI vs Shinobu — 21/11 · 15:04
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana SDI** @ **2.50** (Unibet) · prob 46% vs casas 35% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.084 partidos)  
+Goles esperados: SDI 2.99 · Shinobu 2.82  
+Ganador: SDI 46% · empate 15% · Shinobu 39%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap SDI: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: SDI ❌✅✅❌❌ | Shinobu ❌❌➖✅❌  
+• Partidos: SDI 700 | Shinobu 1668  
+• Liga: Eredivisie  
+• Unibet: 1 2.50 · X 5.50 · 2 1.79 (sin margen 35%/16%/49%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+14%) · Paf España 2.50 (+14%)  
 
