@@ -5698,59 +5698,62 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640836473,2026-11-21 23:00:00+00:00,ATP Challenger Drummondville - SF,Dylan Dietrich,Clement Chidekh,moneyline,,2.06,1.8264,,,,2026-11-21 19:07:44.593289+00:00
 1640836473,2026-11-21 23:00:00+00:00,ATP Challenger Drummondville - SF,Dylan Dietrich,Clement Chidekh,spread,1.5,1.4184,3.04,,,,2026-11-21 19:07:44.593289+00:00
 1640836473,2026-11-21 23:00:00+00:00,ATP Challenger Drummondville - SF,Dylan Dietrich,Clement Chidekh,total,2.5,,,,2.38,1.6329,2026-11-21 19:07:44.593289+00:00
-1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,moneyline,,2.07,1.7194,,,,2026-11-21 19:41:44.512860+00:00
-1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,spread,1.5,1.4505,2.66,,,,2026-11-21 19:41:44.512860+00:00
-1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,total,2.5,,,,2.39,1.5464,2026-11-21 19:41:44.512860+00:00
 1640850452,2026-11-21 20:00:00+00:00,Billie Jean King Cup - Playoffs,Coco Gauff,Dalma Galfi,moneyline,,1.0139,26.75,,,,2026-11-21 19:41:44.512860+00:00
 1640850452,2026-11-21 20:00:00+00:00,Billie Jean King Cup - Playoffs,Coco Gauff,Dalma Galfi,spread,-1.5,1.114,6.8,,,,2026-11-21 19:41:44.512860+00:00
 1640850452,2026-11-21 20:00:00+00:00,Billie Jean King Cup - Playoffs,Coco Gauff,Dalma Galfi,total,2.5,,,,7.36,1.1014,2026-11-21 19:41:44.512860+00:00
-1640836467,2026-11-21 20:00:00+00:00,ATP Challenger Montevideo - SF,Elmer Moller,Thiago Seyboth Wild,moneyline,,2.8,1.4785,,,,2026-11-21 19:41:44.512860+00:00
-1640836467,2026-11-21 20:00:00+00:00,ATP Challenger Montevideo - SF,Elmer Moller,Thiago Seyboth Wild,spread,1.5,1.7143,2.22,,,,2026-11-21 19:41:44.512860+00:00
-1640836467,2026-11-21 20:00:00+00:00,ATP Challenger Montevideo - SF,Elmer Moller,Thiago Seyboth Wild,total,2.5,,,,2.46,1.5917,2026-11-21 19:41:44.512860+00:00
-1640855488,2026-11-22 01:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,moneyline,,4.5,1.2252,,,,2026-11-21 19:41:44.512860+00:00
-1640855488,2026-11-22 01:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,spread,1.5,2.19,1.7194,,,,2026-11-21 19:41:44.512860+00:00
-1640855488,2026-11-22 01:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,total,2.5,,,,2.89,1.4425,2026-11-21 19:41:44.512860+00:00
 1640850489,2026-11-21 20:00:00+00:00,ATP Challenger Drummondville - SF,James Trotter,Liam Draxl,moneyline,,3.08,1.4115,,,,2026-11-21 19:41:44.512860+00:00
 1640850489,2026-11-21 20:00:00+00:00,ATP Challenger Drummondville - SF,James Trotter,Liam Draxl,spread,1.5,1.7812,2.11,,,,2026-11-21 19:41:44.512860+00:00
 1640850489,2026-11-21 20:00:00+00:00,ATP Challenger Drummondville - SF,James Trotter,Liam Draxl,total,2.5,,,,2.55,1.5618,2026-11-21 19:41:44.512860+00:00
-1640889466,2026-11-22 12:30:00+00:00,Billie Jean King Cup - Doubles,Leolia Jeanjean / Kristina Mladenovic,Storm Hunter / Maya Joint,moneyline,,2.24,1.6536,,,,2026-11-21 19:41:44.512860+00:00
-1640822640,2026-11-21 20:00:00+00:00,WTA 125k Colina - SF,Leyre Romero Gormaz,Lucia Bronzetti,moneyline,,1.6329,2.38,,,,2026-11-21 19:41:44.512860+00:00
-1640822640,2026-11-21 20:00:00+00:00,WTA 125k Colina - SF,Leyre Romero Gormaz,Lucia Bronzetti,spread,-1.5,2.55,1.5587,,,,2026-11-21 19:41:44.512860+00:00
-1640822640,2026-11-21 20:00:00+00:00,WTA 125k Colina - SF,Leyre Romero Gormaz,Lucia Bronzetti,total,2.5,,,,2.35,1.6452,2026-11-21 19:41:44.512860+00:00
-1640861008,2026-11-22 04:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,moneyline,,2.33,1.5747,,,,2026-11-21 19:41:44.512860+00:00
-1640861008,2026-11-22 04:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,spread,1.5,1.5291,2.43,,,,2026-11-21 19:41:44.512860+00:00
-1640861008,2026-11-22 04:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,total,2.5,,,,2.52,1.495,2026-11-21 19:41:44.512860+00:00
-1640855439,2026-11-22 03:30:00+00:00,Billie Jean King Cup - Playoffs,Himeno Sakatsume,Justina Gonzalez Daniele,moneyline,,1.0428,10.82,,,,2026-11-21 19:41:44.512860+00:00
 1640850561,2026-11-21 20:00:00+00:00,Billie Jean King Cup - Playoffs,Ann Li,Anna Bondar,moneyline,,1.2865,3.69,,,,2026-11-21 19:41:44.512860+00:00
 1640850561,2026-11-21 20:00:00+00:00,Billie Jean King Cup - Playoffs,Ann Li,Anna Bondar,spread,-1.5,1.8333,1.9901,,,,2026-11-21 19:41:44.512860+00:00
 1640850561,2026-11-21 20:00:00+00:00,Billie Jean King Cup - Playoffs,Ann Li,Anna Bondar,total,2.5,,,,2.71,1.4739,2026-11-21 19:41:44.512860+00:00
-1640902657,2026-11-22 07:00:00+00:00,Billie Jean King Cup - Doubles,Thasaporn Naklo / Peangtarn Plipuech,Naima Karamoko / Simona Waltert,moneyline,,3.7,1.2793,,,,2026-11-21 19:41:44.512860+00:00
-1640850443,2026-11-21 22:00:00+00:00,WTA 125k Colina - SF,Guiomar Maristany Zuleta De Reales,Rebeka Masarova,moneyline,,2.16,1.7519,,,,2026-11-21 19:41:44.512860+00:00
-1640850443,2026-11-21 22:00:00+00:00,WTA 125k Colina - SF,Guiomar Maristany Zuleta De Reales,Rebeka Masarova,spread,1.5,1.5,2.73,,,,2026-11-21 19:41:44.512860+00:00
-1640850443,2026-11-21 22:00:00+00:00,WTA 125k Colina - SF,Guiomar Maristany Zuleta De Reales,Rebeka Masarova,total,2.5,,,,2.53,1.5682,2026-11-21 19:41:44.512860+00:00
 1640831662,2026-11-21 20:30:00+00:00,ATP Finals - SF,Alexander Zverev,Daniil Medvedev,moneyline,,1.6452,2.4,,,,2026-11-21 19:41:44.512860+00:00
 1640831662,2026-11-21 20:30:00+00:00,ATP Finals - SF,Alexander Zverev,Daniil Medvedev,spread,-1.5,2.68,1.5263,,,,2026-11-21 19:41:44.512860+00:00
 1640831662,2026-11-21 20:30:00+00:00,ATP Finals - SF,Alexander Zverev,Daniil Medvedev,total,2.5,,,,2.29,1.6897,2026-11-21 19:41:44.512860+00:00
-1640912275,2026-11-21 20:30:00+00:00,ITF Men Lajeado - SF,Juan Bautista Torres,Javier Barranco Cosano,moneyline,,1.5236,2.55,,,,2026-11-21 19:41:44.512860+00:00
-1640912275,2026-11-21 20:30:00+00:00,ITF Men Lajeado - SF,Juan Bautista Torres,Javier Barranco Cosano,spread,-1.5,2.3,1.6329,,,,2026-11-21 19:41:44.512860+00:00
-1640912275,2026-11-21 20:30:00+00:00,ITF Men Lajeado - SF,Juan Bautista Torres,Javier Barranco Cosano,total,2.5,,,,2.47,1.5587,2026-11-21 19:41:44.512860+00:00
-1640855505,2026-11-22 00:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,moneyline,,4.26,1.216,,,,2026-11-21 19:41:44.512860+00:00
-1640855505,2026-11-22 00:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,spread,1.5,2.24,1.6369,,,,2026-11-21 19:41:44.512860+00:00
-1640855505,2026-11-22 00:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,total,2.5,,,,3.01,1.3788,2026-11-21 19:41:44.512860+00:00
-1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,moneyline,,1.6173,2.24,,,,2026-11-21 19:41:44.512860+00:00
-1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,spread,-1.5,2.34,1.5682,,,,2026-11-21 19:41:44.512860+00:00
-1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,total,2.5,,,,2.57,1.4785,2026-11-21 19:41:44.512860+00:00
-1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,moneyline,,1.6452,2.19,,,,2026-11-21 19:41:44.512860+00:00
-1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,spread,-1.5,2.49,1.5076,,,,2026-11-21 19:41:44.512860+00:00
-1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,total,2.5,,,,2.51,1.5,2026-11-21 19:41:44.512860+00:00
-1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,moneyline,,1.5208,2.46,,,,2026-11-21 19:41:44.512860+00:00
-1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,spread,-1.5,2.34,1.5682,,,,2026-11-21 19:41:44.512860+00:00
-1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,total,2.5,,,,2.34,1.5682,2026-11-21 19:41:44.512860+00:00
-1640855440,2026-11-22 05:00:00+00:00,Billie Jean King Cup - Playoffs,Mai Hontama,Maria Florencia Urrutia,moneyline,,1.0398,11.29,,,,2026-11-21 19:41:44.512860+00:00
-1640911786,2026-11-22 02:00:00+00:00,Billie Jean King Cup - Doubles,Shuko Aoyama / Eri Hozumi,Justina Gonzalez Daniele / Luciana Moyano,moneyline,,1.0932,7.28,,,,2026-11-21 19:41:44.512860+00:00
-1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,moneyline,,1.2283,3.97,,,,2026-11-21 19:41:44.512860+00:00
-1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,spread,-1.5,1.7092,2.08,,,,2026-11-21 19:41:44.512860+00:00
-1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,total,2.5,,,,2.72,1.4329,2026-11-21 19:41:44.512860+00:00
-1640855497,2026-11-22 00:00:00+00:00,ATP Challenger Sydney - Final,Sebastian Gorzny,Omar Jasika,moneyline,,1.6993,2.22,,,,2026-11-21 19:41:44.512860+00:00
-1640855497,2026-11-22 00:00:00+00:00,ATP Challenger Sydney - Final,Sebastian Gorzny,Omar Jasika,spread,-1.5,2.84,1.4566,,,,2026-11-21 19:41:44.512860+00:00
-1640855497,2026-11-22 00:00:00+00:00,ATP Challenger Sydney - Final,Sebastian Gorzny,Omar Jasika,total,2.5,,,,2.26,1.6757,2026-11-21 19:41:44.512860+00:00
+1640855440,2026-11-22 05:00:00+00:00,Billie Jean King Cup - Playoffs,Mai Hontama,Maria Florencia Urrutia,moneyline,,1.0398,11.29,,,,2026-11-21 20:07:55.008204+00:00
+1640855497,2026-11-22 00:00:00+00:00,ATP Challenger Sydney - Final,Sebastian Gorzny,Omar Jasika,moneyline,,1.6993,2.22,,,,2026-11-21 20:07:55.008204+00:00
+1640855497,2026-11-22 00:00:00+00:00,ATP Challenger Sydney - Final,Sebastian Gorzny,Omar Jasika,spread,-1.5,2.84,1.4566,,,,2026-11-21 20:07:55.008204+00:00
+1640855497,2026-11-22 00:00:00+00:00,ATP Challenger Sydney - Final,Sebastian Gorzny,Omar Jasika,total,2.5,,,,2.26,1.6757,2026-11-21 20:07:55.008204+00:00
+1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,moneyline,,2.07,1.7194,,,,2026-11-21 20:07:55.008204+00:00
+1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,spread,1.5,1.4505,2.66,,,,2026-11-21 20:07:55.008204+00:00
+1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,total,2.5,,,,2.39,1.5464,2026-11-21 20:07:55.008204+00:00
+1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,moneyline,,1.2283,3.97,,,,2026-11-21 20:07:55.008204+00:00
+1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,spread,-1.5,1.7092,2.08,,,,2026-11-21 20:07:55.008204+00:00
+1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,total,2.5,,,,2.72,1.4329,2026-11-21 20:07:55.008204+00:00
+1640912275,2026-11-21 20:30:00+00:00,ITF Men Lajeado - SF,Juan Bautista Torres,Javier Barranco Cosano,moneyline,,1.5236,2.55,,,,2026-11-21 20:07:55.008204+00:00
+1640912275,2026-11-21 20:30:00+00:00,ITF Men Lajeado - SF,Juan Bautista Torres,Javier Barranco Cosano,spread,-1.5,2.3,1.6329,,,,2026-11-21 20:07:55.008204+00:00
+1640912275,2026-11-21 20:30:00+00:00,ITF Men Lajeado - SF,Juan Bautista Torres,Javier Barranco Cosano,total,2.5,,,,2.47,1.5587,2026-11-21 20:07:55.008204+00:00
+1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,moneyline,,1.6173,2.24,,,,2026-11-21 20:07:55.008204+00:00
+1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,spread,-1.5,2.34,1.5682,,,,2026-11-21 20:07:55.008204+00:00
+1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,total,2.5,,,,2.57,1.4785,2026-11-21 20:07:55.008204+00:00
+1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,moneyline,,1.6452,2.19,,,,2026-11-21 20:07:55.008204+00:00
+1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,spread,-1.5,2.49,1.5076,,,,2026-11-21 20:07:55.008204+00:00
+1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,total,2.5,,,,2.51,1.5,2026-11-21 20:07:55.008204+00:00
+1640836467,2026-11-21 20:09:07+00:00,ATP Challenger Montevideo - SF,Elmer Moller,Thiago Seyboth Wild,moneyline,,2.8,1.4785,,,,2026-11-21 20:07:55.008204+00:00
+1640836467,2026-11-21 20:09:07+00:00,ATP Challenger Montevideo - SF,Elmer Moller,Thiago Seyboth Wild,spread,1.5,1.7143,2.22,,,,2026-11-21 20:07:55.008204+00:00
+1640836467,2026-11-21 20:09:07+00:00,ATP Challenger Montevideo - SF,Elmer Moller,Thiago Seyboth Wild,total,2.5,,,,2.46,1.5917,2026-11-21 20:07:55.008204+00:00
+1640911786,2026-11-22 02:00:00+00:00,Billie Jean King Cup - Doubles,Shuko Aoyama / Eri Hozumi,Justina Gonzalez Daniele / Luciana Moyano,moneyline,,1.0979,7.31,,,,2026-11-21 20:07:55.008204+00:00
+1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,moneyline,,1.5208,2.46,,,,2026-11-21 20:07:55.008204+00:00
+1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,spread,-1.5,2.34,1.5682,,,,2026-11-21 20:07:55.008204+00:00
+1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,total,2.5,,,,2.34,1.5682,2026-11-21 20:07:55.008204+00:00
+1640822640,2026-11-21 21:00:00+00:00,WTA 125k Colina - SF,Leyre Romero Gormaz,Lucia Bronzetti,moneyline,,1.6329,2.38,,,,2026-11-21 20:07:55.008204+00:00
+1640822640,2026-11-21 21:00:00+00:00,WTA 125k Colina - SF,Leyre Romero Gormaz,Lucia Bronzetti,spread,-1.5,2.55,1.5587,,,,2026-11-21 20:07:55.008204+00:00
+1640822640,2026-11-21 21:00:00+00:00,WTA 125k Colina - SF,Leyre Romero Gormaz,Lucia Bronzetti,total,2.5,,,,2.35,1.6452,2026-11-21 20:07:55.008204+00:00
+1640889466,2026-11-22 12:30:00+00:00,Billie Jean King Cup - Doubles,Leolia Jeanjean / Kristina Mladenovic,Storm Hunter / Maya Joint,moneyline,,2.24,1.6536,,,,2026-11-21 20:07:55.008204+00:00
+1640850443,2026-11-21 22:00:00+00:00,WTA 125k Colina - SF,Guiomar Maristany Zuleta De Reales,Rebeka Masarova,moneyline,,2.16,1.7519,,,,2026-11-21 20:07:55.008204+00:00
+1640850443,2026-11-21 22:00:00+00:00,WTA 125k Colina - SF,Guiomar Maristany Zuleta De Reales,Rebeka Masarova,spread,1.5,1.5,2.73,,,,2026-11-21 20:07:55.008204+00:00
+1640850443,2026-11-21 22:00:00+00:00,WTA 125k Colina - SF,Guiomar Maristany Zuleta De Reales,Rebeka Masarova,total,2.5,,,,2.53,1.5682,2026-11-21 20:07:55.008204+00:00
+1640855488,2026-11-22 01:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,moneyline,,4.5,1.2252,,,,2026-11-21 20:07:55.008204+00:00
+1640855488,2026-11-22 01:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,spread,1.5,2.19,1.7194,,,,2026-11-21 20:07:55.008204+00:00
+1640855488,2026-11-22 01:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,total,2.5,,,,2.89,1.4425,2026-11-21 20:07:55.008204+00:00
+1640902657,2026-11-22 07:00:00+00:00,Billie Jean King Cup - Doubles,Thasaporn Naklo / Peangtarn Plipuech,Naima Karamoko / Simona Waltert,moneyline,,3.6,1.2907,,,,2026-11-21 20:07:55.008204+00:00
+1640912272,2026-11-21 20:07:56+00:00,ITF Men Orlando - QF,Ty Host,William Manning,moneyline,,3.86,1.2532,,,,2026-11-21 20:07:55.008204+00:00
+1640912272,2026-11-21 20:07:56+00:00,ITF Men Orlando - QF,Ty Host,William Manning,spread,1.5,2.21,1.6579,,,,2026-11-21 20:07:55.008204+00:00
+1640912272,2026-11-21 20:07:56+00:00,ITF Men Orlando - QF,Ty Host,William Manning,total,2.5,,,,3.08,1.365,2026-11-21 20:07:55.008204+00:00
+1640861008,2026-11-22 04:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,moneyline,,2.33,1.5747,,,,2026-11-21 20:07:55.008204+00:00
+1640861008,2026-11-22 04:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,spread,1.5,1.5291,2.43,,,,2026-11-21 20:07:55.008204+00:00
+1640861008,2026-11-22 04:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,total,2.5,,,,2.52,1.495,2026-11-21 20:07:55.008204+00:00
+1640855439,2026-11-22 03:30:00+00:00,Billie Jean King Cup - Playoffs,Himeno Sakatsume,Justina Gonzalez Daniele,moneyline,,1.0428,10.82,,,,2026-11-21 20:07:55.008204+00:00
+1640855505,2026-11-22 00:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,moneyline,,4.26,1.216,,,,2026-11-21 20:07:55.008204+00:00
+1640855505,2026-11-22 00:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,spread,1.5,2.24,1.6369,,,,2026-11-21 20:07:55.008204+00:00
+1640855505,2026-11-22 00:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,total,2.5,,,,3.01,1.3788,2026-11-21 20:07:55.008204+00:00
