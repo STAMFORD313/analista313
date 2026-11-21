@@ -3581,7 +3581,9 @@
     "away": "Avispa Fukuoka",
     "txt": "Menos de 8.5 córners",
     "odds": 2.48,
-    "p": 0.42243101481123346
+    "p": 0.42243101481123346,
+    "ok": false,
+    "por": "hubo 10 córners"
    },
    {
     "code": null,
@@ -3605,9 +3607,9 @@
   "odds": 16.46,
   "p": 0.08041227825540716,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261121012457808393",
