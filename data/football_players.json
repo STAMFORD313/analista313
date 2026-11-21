@@ -5,9 +5,9 @@
  "n_test": 176003,
  "stats": {
   "goles": {
-   "ll": 0.2701,
-   "ll_media": 0.3082,
-   "ll_propia": 0.2819,
+   "ll": 0.2702,
+   "ll_media": 0.3083,
+   "ll_propia": 0.282,
    "se_propia": 0.0004
   },
   "tiros_puerta": {
@@ -23,9 +23,9 @@
    "se_propia": 0.0006
   },
   "asist": {
-   "ll": 0.2355,
+   "ll": 0.2356,
    "ll_media": 0.2495,
-   "ll_propia": 0.2437,
+   "ll_propia": 0.2438,
    "se_propia": 0.0004
   }
  }
