@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 15:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 15:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## INFINITE vs BAKS — 21/11 · 16:00
 

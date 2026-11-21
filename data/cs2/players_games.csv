@@ -35009,3 +35009,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192942,133410,l-g-vs-forze-reload-21-11-2026,2026-11-21T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,10703,5933,FORZE Reload,Leo,1,de_nuke,5933,16.0,13.0
 193408,133870,nuclear-tigeres-vs-hype-tech-21-11-2026,2026-11-21T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,18539,25790,Nuclear TigeRES,Hype Tech,2,de_nuke,18539,13.0,8.0
 193409,133870,nuclear-tigeres-vs-hype-tech-21-11-2026,2026-11-21T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,18539,25790,Nuclear TigeRES,Hype Tech,1,de_inferno,18539,13.0,6.0
+193411,133871,virtus-pro-vs-nice-try-cs2-21-11-2026,2026-11-21T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,720,25265,Virtus.pro,NT,2,de_dust2,720,16.0,14.0
+193412,133871,virtus-pro-vs-nice-try-cs2-21-11-2026,2026-11-21T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,720,25265,Virtus.pro,NT,1,de_mirage,720,13.0,3.0
+192943,133411,team-aces-vs-nexus-21-11-2026,2026-11-21T12:30:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,326,Aces,Nexus,3,de_mirage,25564,13.0,11.0
+192944,133411,team-aces-vs-nexus-21-11-2026,2026-11-21T12:30:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,326,Aces,Nexus,2,de_dust2,25564,13.0,2.0
