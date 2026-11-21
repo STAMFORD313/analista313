@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 21/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 05:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LGD Gaming vs 1w Team — 21/11 · 12:00
 
@@ -199,4 +199,48 @@ Casas: PARIVISION 76% · Team Liquid 24%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • PARIVISION gana 2-1: 24% → cuota justa 4.19 · casa 26%  
 • Team Liquid gana 2-1: 9% → cuota justa 11.30 · casa 11%  
+
+## Team Spirit Academy vs Allied — 22/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Gana Team Spirit Academy** @ **1.49** (Thunderpick) · prob 76% vs casas 62% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.886 partidos)  
+Mapa: Team Spirit Academy 67% · Serie BO3: Team Spirit Academy 90% - 10% Allied  
+Casas: Team Spirit Academy 62% · Allied 38%  
+🔎 **Claves**  
+• Elo: Team Spirit Academy 1784 (136 series) | Allied 1619 (12 series)  
+• Forma: Team Spirit Academy ❌✅✅✅❌ | Allied ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: European Pro League Season 41 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Spirit Academy: Kiseki 4.1, kae 3.4 | Allied: Mikey 2.8, zipzap 1.8  
+• Química de la plantilla: Team Spirit Academy: 158 partidas juntos de media | Allied: 19 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Spirit Academy gana 2-1: 25% → cuota justa 4.02 · casa 26%  
+• Allied gana 2-1: 12% → cuota justa 8.19 · casa 17%  
+
+## Team Spirit Academy vs Allied — 22/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Team Spirit Academy -1.5 mapas** @ **2.53** (Thunderpick) · prob 44% vs casas 37% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.886 partidos)  
+Mapa: Team Spirit Academy 67% · Serie BO3: Team Spirit Academy 90% - 10% Allied  
+Casas: Team Spirit Academy 62% · Allied 38%  
+🔎 **Claves**  
+• Elo: Team Spirit Academy 1784 (136 series) | Allied 1619 (12 series)  
+• Forma: Team Spirit Academy ❌✅✅✅❌ | Allied ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: European Pro League Season 41 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Spirit Academy: Kiseki 4.1, kae 3.4 | Allied: Mikey 2.8, zipzap 1.8  
+• Química de la plantilla: Team Spirit Academy: 158 partidas juntos de media | Allied: 19 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Spirit Academy gana 2-1: 25% → cuota justa 4.02 · casa 26%  
+• Allied gana 2-1: 12% → cuota justa 8.19 · casa 17%  
 

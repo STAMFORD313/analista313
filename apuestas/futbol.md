@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 05:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kyoto vs Urawa Reds — 21/11 · 06:00
 
