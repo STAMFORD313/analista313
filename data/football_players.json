@@ -6,20 +6,20 @@
  "stats": {
   "goles": {
    "ll": 0.2702,
-   "ll_media": 0.3082,
+   "ll_media": 0.3081,
    "ll_propia": 0.282,
    "se_propia": 0.0004
   },
   "tiros_puerta": {
-   "ll": 0.4735,
-   "ll_media": 0.5605,
-   "ll_propia": 0.5161,
+   "ll": 0.4736,
+   "ll_media": 0.5606,
+   "ll_propia": 0.5162,
    "se_propia": 0.0008
   },
   "cards": {
-   "ll": 0.4147,
+   "ll": 0.4146,
    "ll_media": 0.4245,
-   "ll_propia": 0.4361,
+   "ll_propia": 0.436,
    "se_propia": 0.0006
   },
   "asist": {
