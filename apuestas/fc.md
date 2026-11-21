@@ -1,82 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nightxx vs kkikus — 21/11 · 23:43
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **8.00** (Unibet) · prob 14% vs casas 11% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.536 partidos)  
-Goles esperados: Nightxx 4.12 · kkikus 2.20  
-Ganador: Nightxx 75% · empate 14% · kkikus 12%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap Nightxx: −1.5 56% · −2.5 40%  
-🔎 **Claves**  
-• Forma: Nightxx ✅✅✅✅✅ | kkikus ❌✅✅❌❌  
-• Partidos: Nightxx 1079 | kkikus 1166  
-• Liga: World Cup A  
-• Unibet: 1 1.17 · X 8.00 · 2 5.80 (sin margen 74%/11%/15%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.00 (+10%) · Paf España 8.00 (+10%)  
-
-## KravaRK vs hrk — 21/11 · 23:46
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **5.10** (Unibet) · prob 24% vs casas 17% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.536 partidos)  
-Goles esperados: KravaRK 2.17 · hrk 2.65  
-Ganador: KravaRK 27% · empate 23% · hrk 50%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap hrk: −1.5 31% · −2.5 17%  
-🔎 **Claves**  
-• Forma: KravaRK ➖➖✅✅➖ | hrk ❌❌✅✅➖  
-• Partidos: KravaRK 520 | hrk 958  
-• Liga: Portugal Primera  
-• Unibet: 1 2.90 · X 5.10 · 2 1.67 (sin margen 30%/17%/53%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+20%) · Paf España 5.10 (+20%)  
-
-## Skif vs curuza — 21/11 · 23:58
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 14% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.558 partidos)  
-Goles esperados: Skif 2.83 · curuza 3.70  
-Ganador: Skif 25% · empate 19% · curuza 56%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap curuza: −1.5 40% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Skif ❌❌➖➖❌ | curuza ❌❌❌➖✅  
-• Partidos: Skif 769 | curuza 959  
-• Liga: Portugal Primera  
-• Unibet: 1 3.50 · X 6.00 · 2 1.43 (sin margen 25%/14%/61%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+14%) · Paf España 6.00 (+14%)  
-
-## Nightxx vs Simaponika — 22/11 · 00:05
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.558 partidos)  
-Goles esperados: Nightxx 3.42 · Simaponika 2.78  
-Ganador: Nightxx 51% · empate 20% · Simaponika 29%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap Nightxx: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Nightxx ✅✅✅➖✅ | Simaponika ✅✅➖✅✅  
-• Partidos: Nightxx 1081 | Simaponika 1376  
-• Liga: Serie A  
-• Unibet: 1 1.66 · X 5.40 · 2 2.85 (sin margen 53%/16%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+7%) · Paf España 5.40 (+7%)  
+Actualizado 22/11/2026 00:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## kkikus vs ssstasonn — 22/11 · 00:17
 
@@ -96,4 +20,61 @@ Hándicap kkikus: −1.5 39% · −2.5 24%
 • Liga: Serie A  
 • Unibet: 1 1.72 · X 6.00 · 2 2.60 (sin margen 51%/15%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 6.00 (+17%) · Paf España 6.00 (+17%)  
+
+## KravaRK vs curuza — 22/11 · 00:32
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana curuza** @ **2.33** (Unibet) · prob 48% vs casas 38% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.579 partidos)  
+Goles esperados: KravaRK 2.48 · curuza 2.86  
+Ganador: KravaRK 31% · empate 22% · curuza 48%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap curuza: −1.5 31% · −2.5 17%  
+🔎 **Claves**  
+• Forma: KravaRK ➖❌➖❌❌ | curuza ❌➖✅✅✅  
+• Partidos: KravaRK 524 | curuza 961  
+• Liga: World Cup A  
+• Unibet: 1 1.96 · X 4.90 · 2 2.33 (sin margen 45%/18%/38%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.33 (+11%) · Paf España 2.33 (+11%)  
+
+## Simaponika vs kkikus — 22/11 · 00:41
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.00** (Unibet) · prob 20% vs casas 14% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.579 partidos)  
+Goles esperados: Simaponika 3.18 · kkikus 2.12  
+Ganador: Simaponika 61% · empate 20% · kkikus 20%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap Simaponika: −1.5 42% · −2.5 26%  
+🔎 **Claves**  
+• Forma: Simaponika ✅➖✅✅✅ | kkikus ❌✅✅❌❌  
+• Partidos: Simaponika 1377 | kkikus 1170  
+• Liga: Serie A  
+• Unibet: 1 1.33 · X 6.00 · 2 4.20 (sin margen 65%/14%/21%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+18%) · Paf España 6.00 (+18%)  
+
+## curuza vs hrk — 22/11 · 00:44
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana curuza** @ **3.20** (Unibet) · prob 35% vs casas 27% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.579 partidos)  
+Goles esperados: curuza 2.75 · hrk 2.98  
+Ganador: curuza 35% · empate 21% · hrk 44%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap hrk: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: curuza ❌➖✅✅✅ | hrk ➖✅✅❌✅  
+• Partidos: curuza 961 | hrk 962  
+• Liga: World Cup A  
+• Unibet: 1 3.20 · X 4.00 · 2 1.73 (sin margen 27%/22%/51%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+11%) · Paf España 3.20 (+11%)  
 

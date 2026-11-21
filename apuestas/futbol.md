@@ -1,60 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Pachuca vs Toluca — 21/11 · 23:50
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Toluca** @ **2.34** (Bet365) · prob 42% vs casas 42% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.38)  
-1 37% · X 28% · 2 35%  
-1X 65% · X2 63% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 13% · 1-2 8% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Pachuca ❌❌✅✅✅ | Toluca ➖➖➖➖✅  
-• H2H: 31 desde 2012: 11V-7E-13D · 2.9 goles/partido · +2.5 en 55%  
-• Bajas: Pachuca: sin bajas; Toluca: sin bajas  
-• Favorito de las casas: Toluca @ 2.34  
-
-## Santos Laguna vs Club Leon — 22/11 · 00:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Club Leon** @ **2.66** (Bet365) · prob 36% vs casas 36% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.05)  
-1 41% · X 28% · 2 30%  
-1X 70% · X2 59% · 12 72%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Santos Laguna ✅✅❌✅✅ | Club Leon ❌✅➖❌➖  
-• H2H: 31 desde 2012: 10V-6E-15D · 3.3 goles/partido · +2.5 en 68%  
-• Bajas: Santos Laguna: 1 fuera, 0 duda (Bruno Amione); Club Leon: 0 fuera, 1 duda  
-• Favorito de las casas: Santos Laguna @ 2.46  
-
-## Inter Miami vs Columbus Crew — 22/11 · 00:00
-
-👀 candidata · 🇺🇸 MLS · **Gana Inter Miami** @ **1.62** (Bet365) · prob 62% vs casas 62% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.40 - 1.80)  
-1 51% · X 23% · 2 26%  
-1X 74% · X2 49% · 12 77%  
-+1.5 92% · +2.5 79% · +3.5 60% · Ambos marcan 76%  
-Marcadores: 2-1 8% · 2-2 7% · 1-1 7% · 3-1 6%  
-🔎 **Claves**  
-• Forma: Inter Miami ✅❌➖✅➖ | Columbus Crew ✅✅✅✅✅  
-• H2H: 12 desde 2021: 7V-2E-3D · 3.2 goles/partido · +2.5 en 75%  
-• Bajas: Inter Miami: 0 fuera, 2 duda; Columbus Crew: 0 fuera, 2 duda  
-• Favorito de las casas: Inter Miami @ 1.62  
+Actualizado 22/11/2026 00:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Cruzeiro — 22/11 · 01:00
 

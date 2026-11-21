@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 21/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Texas State Bobcats vs Washington State Cougars — 22/11 · 00:00
-
-👀 candidata · 🏈 NCAA Football · **Texas State Bobcats -11.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Texas State Bobcats cubre -11.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Texas State Bobcats ✅✅❌✅✅ | Washington State Cougars ❌❌❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Texas State Bobcats: sin bajas; Washington State Cougars: sin bajas  
-
-## Texas State Bobcats vs Washington State Cougars — 22/11 · 00:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Texas State Bobcats** @ **1.23** (DraftKings) · prob 78% vs casas 78% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Texas State Bobcats 84% · Gana Washington State Cougars 16%  
-Casas: Texas State Bobcats 78% · Washington State Cougars 22%  
-Hándicap TXST -11.5 · Total puntos 61.5  
-🔎 **Claves**  
-• Forma: Texas State Bobcats ✅✅❌✅✅ | Washington State Cougars ❌❌❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Texas State Bobcats: sin bajas; Washington State Cougars: sin bajas  
-• Favorito de las casas: Texas State Bobcats @ 1.23  
+Actualizado 22/11/2026 00:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## USC Trojans vs Maryland Terrapins — 22/11 · 00:15
 
