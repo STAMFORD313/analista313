@@ -1,399 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 17:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Nice +1.25 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 50% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Gana Palermo** @ **1.77** (Bwin) · prob 55% vs casas 55% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.27** (Unibet) · prob 73% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 5.5 córners de Nice** @ **1.19** (Unibet) · prob 76% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Nice** @ **1.89** (Unibet) · prob 51% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Paris SG** @ **1.19** (Unibet) · prob 76% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Nice vs Paris SG — 21/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 5.5 córners de Paris SG** @ **1.95** (Unibet) · prob 50% vs casas 47% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.90)  
-1 15% · X 23% · 2 62%  
-1X 38% · X2 85% · 12 77%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Nice ✅❌✅✅✅ | Paris SG ✅✅✅✅✅  
-• H2H: 41 desde 2005: 13V-7E-21D · 2.5 goles/partido · +2.5 en 61%  
-• Bajas: Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)  
-• Favorito de las casas: Paris SG @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 5.7: total +9.5 50% · Nice +5.5 24% · Paris SG +4.5 62%  
-Tarjetas 1.8 - 1.4: total +4.5 23% · Nice +2.5 28% · Paris SG +2.5 17%  
-Faltas 9.7 - 7.7: total +24.5 6% · Nice +11.5 27% · Paris SG +12.5 6%  
-Tiros a puerta 3.9 - 6.9: total +9.5 62% · Nice +5.5 21% · Paris SG +4.5 79%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice → prob. 63%, cuota justa 1.58 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles → prob. 26%, cuota justa 3.79  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice): cuota Unibet aprox. 1.35 (producto de piernas) · prob. 66% · ventaja -11%  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Palermo** @ **1.61** (Unibet) · prob 53% vs casas 56% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Palermo** @ **1.58** (Unibet) · prob 60% vs casas 57% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Catanzaro** @ **1.90** (Unibet) · prob 48% vs casas 47% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Catanzaro** @ **1.70** (Unibet) · prob 52% vs casas 53% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 62% vs casas 62% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Catanzaro vs Palermo — 21/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.55** (Unibet) · prob 60% vs casas 58% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.69)  
-1 24% · X 28% · 2 48%  
-1X 52% · X2 76% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Catanzaro ➖❌➖➖❌ | Palermo ✅✅➖✅➖  
-• H2H: 6 desde 2023: 3V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 1.77  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.9: total +9.5 49% · Catanzaro +5.5 34% · Palermo +4.5 50%  
-Tarjetas 2.0 - 2.0: total +4.5 39% · Catanzaro +2.5 34% · Palermo +2.5 33%  
-Faltas 11.2 - 13.4: total +27.5 29% · Catanzaro +14.5 17% · Palermo +13.5 47%  
-Tiros a puerta 4.0 - 4.8: total +8.5 51% · Catanzaro +5.5 23% · Palermo +3.5 68%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Catanzaro + Menos de 2.5 tarjetas de Palermo + Menos de 5.5 córners de Catanzaro + Más de 2.5 goles → prob. 18%, cuota justa 5.57  
-
-## Zaglebie vs Gornik Zabrze — 21/11 · 17:30
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Empate** @ **3.50** (Bet365) · prob 27% vs casas 27% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.00 - 1.05)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 0-1 13% · 1-0 12%  
-🔎 **Claves**  
-• Forma: Zaglebie ❌✅➖✅➖ | Gornik Zabrze ✅➖➖➖✅  
-• H2H: 7 desde 2023: 5V-0E-2D · 2.1 goles/partido · +2.5 en 29%  
-• Bajas: Zaglebie: sin bajas; Gornik Zabrze: sin bajas  
-• Favorito de las casas: Gornik Zabrze @ 1.89  
-
-## GAIS vs Vasteras SK — 21/11 · 17:30
-
-👀 candidata · 🇸🇪 Allsvenskan · **Gana GAIS** @ **1.99** (Bet365) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.46 - 0.76)  
-1 50% · X 27% · 2 22%  
-1X 78% · X2 50% · 12 73%  
-+1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 2-0 12% · 0-0 11%  
-🔎 **Claves**  
-• Forma: GAIS ❌➖✅✅✅ | Vasteras SK ✅❌✅✅➖  
-• H2H: 3 desde 2024: 3V-0E-0D · 2.7 goles/partido · +2.5 en 33%  
-• Bajas: GAIS: sin bajas; Vasteras SK: sin bajas  
-• Favorito de las casas: GAIS @ 1.99  
+Actualizado 21/11/2026 17:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Valerenga vs Start — 21/11 · 18:00
 
@@ -10004,6 +9611,8 @@ Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%
 Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
 
 ## Arezzo vs Padova — 22/11 · 17:15
 
@@ -10011,6 +9620,318 @@ Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.00 - 1.34)  
+1 44% · X 28% · 2 28%  
+1X 72% · X2 56% · 12 72%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Arezzo ✅❌❌➖❌ | Padova ❌✅✅➖➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)  
+• Favorito de las casas: Arezzo @ 2.38  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.1: total +9.5 51% · Arezzo +5.5 48% · Padova +4.5 38%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Arezzo +2.5 26% · Padova +2.5 43%  
+Faltas 11.5 - 13.3: total +27.5 30% · Arezzo +14.5 19% · Padova +13.5 46%  
+Tiros a puerta 4.8 - 3.5: total +8.5 45% · Arezzo +5.5 36% · Padova +3.5 46%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo + Menos de 4.5 córners de Padova + Menos de 2.5 goles → prob. 15%, cuota justa 6.59  
+
+## Lorient vs Rennes — 22/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 9.5 córners** @ **1.82** (Unibet) · prob 53% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 1.64)  
+1 34% · X 28% · 2 38%  
+1X 62% · X2 66% · 12 72%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
+Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Lorient ✅✅➖❌✅ | Rennes ✅❌✅❌❌  
+• H2H: 32 desde 2006: 11V-7E-14D · 2.5 goles/partido · +2.5 en 47%  
+• Bajas: Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)  
+• Favorito de las casas: Rennes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.0: total +9.5 44% · Lorient +5.5 27% · Rennes +4.5 53%  
+Tarjetas 1.8 - 2.2: total +4.5 37% · Lorient +2.5 27% · Rennes +2.5 37%  
+Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%  
+Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
+
+## Lorient vs Rennes — 22/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.16** (Unibet) · prob 80% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 1.64)  
+1 34% · X 28% · 2 38%  
+1X 62% · X2 66% · 12 72%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
+Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Lorient ✅✅➖❌✅ | Rennes ✅❌✅❌❌  
+• H2H: 32 desde 2006: 11V-7E-14D · 2.5 goles/partido · +2.5 en 47%  
+• Bajas: Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)  
+• Favorito de las casas: Rennes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.0: total +9.5 44% · Lorient +5.5 27% · Rennes +4.5 53%  
+Tarjetas 1.8 - 2.2: total +4.5 37% · Lorient +2.5 27% · Rennes +2.5 37%  
+Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%  
+Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
+
+## Lorient vs Rennes — 22/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Rennes** @ **1.36** (Unibet) · prob 68% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 1.64)  
+1 34% · X 28% · 2 38%  
+1X 62% · X2 66% · 12 72%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
+Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Lorient ✅✅➖❌✅ | Rennes ✅❌✅❌❌  
+• H2H: 32 desde 2006: 11V-7E-14D · 2.5 goles/partido · +2.5 en 47%  
+• Bajas: Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)  
+• Favorito de las casas: Rennes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.0: total +9.5 44% · Lorient +5.5 27% · Rennes +4.5 53%  
+Tarjetas 1.8 - 2.2: total +4.5 37% · Lorient +2.5 27% · Rennes +2.5 37%  
+Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%  
+Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
+
+## Lorient vs Rennes — 22/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 5.5 córners de Rennes** @ **1.55** (Unibet) · prob 61% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 1.64)  
+1 34% · X 28% · 2 38%  
+1X 62% · X2 66% · 12 72%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
+Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Lorient ✅✅➖❌✅ | Rennes ✅❌✅❌❌  
+• H2H: 32 desde 2006: 11V-7E-14D · 2.5 goles/partido · +2.5 en 47%  
+• Bajas: Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)  
+• Favorito de las casas: Rennes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.0: total +9.5 44% · Lorient +5.5 27% · Rennes +4.5 53%  
+Tarjetas 1.8 - 2.2: total +4.5 37% · Lorient +2.5 27% · Rennes +2.5 37%  
+Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%  
+Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
+
+## Lorient vs Rennes — 22/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Lorient** @ **1.70** (Unibet) · prob 57% vs casas 54% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 1.64)  
+1 34% · X 28% · 2 38%  
+1X 62% · X2 66% · 12 72%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
+Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Lorient ✅✅➖❌✅ | Rennes ✅❌✅❌❌  
+• H2H: 32 desde 2006: 11V-7E-14D · 2.5 goles/partido · +2.5 en 47%  
+• Bajas: Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)  
+• Favorito de las casas: Rennes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.0: total +9.5 44% · Lorient +5.5 27% · Rennes +4.5 53%  
+Tarjetas 1.8 - 2.2: total +4.5 37% · Lorient +2.5 27% · Rennes +2.5 37%  
+Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%  
+Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
+
+## Lorient vs Rennes — 22/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Lorient** @ **1.22** (Unibet) · prob 75% vs casas 75% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 1.64)  
+1 34% · X 28% · 2 38%  
+1X 62% · X2 66% · 12 72%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
+Marcadores: 1-1 10% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Lorient ✅✅➖❌✅ | Rennes ✅❌✅❌❌  
+• H2H: 32 desde 2006: 11V-7E-14D · 2.5 goles/partido · +2.5 en 47%  
+• Bajas: Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)  
+• Favorito de las casas: Rennes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.0: total +9.5 44% · Lorient +5.5 27% · Rennes +4.5 53%  
+Tarjetas 1.8 - 2.2: total +4.5 37% · Lorient +2.5 27% · Rennes +2.5 37%  
+Faltas 9.8 - 13.3: total +24.5 38% · Lorient +11.5 29% · Rennes +12.5 56%  
+Tiros a puerta 4.2 - 4.7: total +9.5 41% · Lorient +5.5 26% · Rennes +4.5 50%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles → prob. 19%, cuota justa 5.34  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.45 (producto de piernas) · prob. 41% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 49% · ventaja +28% → 1 u en la banca de simulación  
+
+## Arezzo vs Padova — 22/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.67** (Unibet) · prob 58% vs casas 54% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.00 - 1.34)  
+1 44% · X 28% · 2 28%  
+1X 72% · X2 56% · 12 72%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Arezzo ✅❌❌➖❌ | Padova ❌✅✅➖➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)  
+• Favorito de las casas: Arezzo @ 2.38  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.1: total +9.5 51% · Arezzo +5.5 48% · Padova +4.5 38%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Arezzo +2.5 26% · Padova +2.5 43%  
+Faltas 11.5 - 13.3: total +27.5 30% · Arezzo +14.5 19% · Padova +13.5 46%  
+Tiros a puerta 4.8 - 3.5: total +8.5 45% · Arezzo +5.5 36% · Padova +3.5 46%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo + Menos de 4.5 córners de Padova + Menos de 2.5 goles → prob. 15%, cuota justa 6.59  
+
+## Arezzo vs Padova — 22/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.36** (Unibet) · prob 63% vs casas 66% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.00 - 1.34)  
+1 44% · X 28% · 2 28%  
+1X 72% · X2 56% · 12 72%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Arezzo ✅❌❌➖❌ | Padova ❌✅✅➖➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)  
+• Favorito de las casas: Arezzo @ 2.38  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.1: total +9.5 51% · Arezzo +5.5 48% · Padova +4.5 38%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Arezzo +2.5 26% · Padova +2.5 43%  
+Faltas 11.5 - 13.3: total +27.5 30% · Arezzo +14.5 19% · Padova +13.5 46%  
+Tiros a puerta 4.8 - 3.5: total +8.5 45% · Arezzo +5.5 36% · Padova +3.5 46%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo + Menos de 4.5 córners de Padova + Menos de 2.5 goles → prob. 15%, cuota justa 6.59  
+
+## Arezzo vs Padova — 22/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Arezzo** @ **2.08** (Unibet) · prob 46% vs casas 43% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.00 - 1.34)  
+1 44% · X 28% · 2 28%  
+1X 72% · X2 56% · 12 72%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Arezzo ✅❌❌➖❌ | Padova ❌✅✅➖➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)  
+• Favorito de las casas: Arezzo @ 2.38  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.1: total +9.5 51% · Arezzo +5.5 48% · Padova +4.5 38%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Arezzo +2.5 26% · Padova +2.5 43%  
+Faltas 11.5 - 13.3: total +27.5 30% · Arezzo +14.5 19% · Padova +13.5 46%  
+Tiros a puerta 4.8 - 3.5: total +8.5 45% · Arezzo +5.5 36% · Padova +3.5 46%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo + Menos de 4.5 córners de Padova + Menos de 2.5 goles → prob. 15%, cuota justa 6.59  
+
+## Arezzo vs Padova — 22/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Arezzo** @ **1.58** (Unibet) · prob 54% vs casas 57% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.00 - 1.34)  
+1 44% · X 28% · 2 28%  
+1X 72% · X2 56% · 12 72%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Arezzo ✅❌❌➖❌ | Padova ❌✅✅➖➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)  
+• Favorito de las casas: Arezzo @ 2.38  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.1: total +9.5 51% · Arezzo +5.5 48% · Padova +4.5 38%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Arezzo +2.5 26% · Padova +2.5 43%  
+Faltas 11.5 - 13.3: total +27.5 30% · Arezzo +14.5 19% · Padova +13.5 46%  
+Tiros a puerta 4.8 - 3.5: total +8.5 45% · Arezzo +5.5 36% · Padova +3.5 46%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo + Menos de 4.5 córners de Padova + Menos de 2.5 goles → prob. 15%, cuota justa 6.59  
+
+## Arezzo vs Padova — 22/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Padova** @ **1.78** (Unibet) · prob 53% vs casas 50% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.00 - 1.34)  
+1 44% · X 28% · 2 28%  
+1X 72% · X2 56% · 12 72%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Arezzo ✅❌❌➖❌ | Padova ❌✅✅➖➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)  
+• Favorito de las casas: Arezzo @ 2.38  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.1: total +9.5 51% · Arezzo +5.5 48% · Padova +4.5 38%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Arezzo +2.5 26% · Padova +2.5 43%  
+Faltas 11.5 - 13.3: total +27.5 30% · Arezzo +14.5 19% · Padova +13.5 46%  
+Tiros a puerta 4.8 - 3.5: total +8.5 45% · Arezzo +5.5 36% · Padova +3.5 46%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Arezzo + Menos de 2.5 tarjetas de Arezzo + Menos de 5.5 tiros a puerta de Arezzo + Menos de 4.5 córners de Padova + Menos de 2.5 goles → prob. 15%, cuota justa 6.59  
+
+## Arezzo vs Padova — 22/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Padova** @ **1.81** (Unibet) · prob 47% vs casas 50% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.00 - 1.34)  
 1 44% · X 28% · 2 28%  
@@ -10072,6 +9993,8 @@ Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 
 Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
 
 ## Liverpool vs Man United — 22/11 · 17:30
 
@@ -10097,6 +10020,168 @@ Faltas 11.4 - 9.9: total +22.5 39% · Liverpool +11.5 47% · Man United +12.5 21
 Tiros a puerta 5.6 - 3.7: total +8.5 57% · Liverpool +5.5 48% · Man United +4.5 32%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Man United + Menos de 2.5 tarjetas de Liverpool + Menos de 4.5 tiros a puerta de Man United → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Man United + Menos de 2.5 tarjetas de Liverpool + Menos de 4.5 tiros a puerta de Man United + Menos de 4.5 córners de Man United → prob. 26%, cuota justa 3.82  
+
+## Werder Bremen vs Hamburg — 22/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.06)  
+1 54% · X 27% · 2 20%  
+1X 80% · X2 46% · 12 73%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Werder Bremen ➖➖✅✅❌ | Hamburg ✅✅❌❌✅  
+• H2H: 30 desde 2005: 15V-5E-10D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)  
+• Favorito de las casas: Werder Bremen @ 1.72  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +10.5 37% · Werder Bremen +5.5 52% · Hamburg +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Werder Bremen +2.5 29% · Hamburg +2.5 31%  
+Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 60%  
+Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+
+## Werder Bremen vs Hamburg — 22/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 11.5 córners** @ **1.36** (Unibet) · prob 70% vs casas 68% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.06)  
+1 54% · X 27% · 2 20%  
+1X 80% · X2 46% · 12 73%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Werder Bremen ➖➖✅✅❌ | Hamburg ✅✅❌❌✅  
+• H2H: 30 desde 2005: 15V-5E-10D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)  
+• Favorito de las casas: Werder Bremen @ 1.72  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +10.5 37% · Werder Bremen +5.5 52% · Hamburg +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Werder Bremen +2.5 29% · Hamburg +2.5 31%  
+Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 60%  
+Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+
+## Werder Bremen vs Hamburg — 22/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Hamburg** @ **1.37** (Unibet) · prob 66% vs casas 67% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.06)  
+1 54% · X 27% · 2 20%  
+1X 80% · X2 46% · 12 73%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Werder Bremen ➖➖✅✅❌ | Hamburg ✅✅❌❌✅  
+• H2H: 30 desde 2005: 15V-5E-10D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)  
+• Favorito de las casas: Werder Bremen @ 1.72  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +10.5 37% · Werder Bremen +5.5 52% · Hamburg +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Werder Bremen +2.5 29% · Hamburg +2.5 31%  
+Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 60%  
+Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+
+## Werder Bremen vs Hamburg — 22/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Hamburg** @ **1.40** (Unibet) · prob 68% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.06)  
+1 54% · X 27% · 2 20%  
+1X 80% · X2 46% · 12 73%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Werder Bremen ➖➖✅✅❌ | Hamburg ✅✅❌❌✅  
+• H2H: 30 desde 2005: 15V-5E-10D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)  
+• Favorito de las casas: Werder Bremen @ 1.72  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +10.5 37% · Werder Bremen +5.5 52% · Hamburg +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Werder Bremen +2.5 29% · Hamburg +2.5 31%  
+Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 60%  
+Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+
+## Werder Bremen vs Hamburg — 22/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Werder Bremen** @ **1.40** (Unibet) · prob 66% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.06)  
+1 54% · X 27% · 2 20%  
+1X 80% · X2 46% · 12 73%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Werder Bremen ➖➖✅✅❌ | Hamburg ✅✅❌❌✅  
+• H2H: 30 desde 2005: 15V-5E-10D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)  
+• Favorito de las casas: Werder Bremen @ 1.72  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +10.5 37% · Werder Bremen +5.5 52% · Hamburg +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Werder Bremen +2.5 29% · Hamburg +2.5 31%  
+Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 60%  
+Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+
+## Werder Bremen vs Hamburg — 22/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 8.5 córners de Werder Bremen** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.06)  
+1 54% · X 27% · 2 20%  
+1X 80% · X2 46% · 12 73%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Werder Bremen ➖➖✅✅❌ | Hamburg ✅✅❌❌✅  
+• H2H: 30 desde 2005: 15V-5E-10D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)  
+• Favorito de las casas: Werder Bremen @ 1.72  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +10.5 37% · Werder Bremen +5.5 52% · Hamburg +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Werder Bremen +2.5 29% · Hamburg +2.5 31%  
+Faltas 11.2 - 11.6: total +21.5 58% · Werder Bremen +10.5 55% · Hamburg +10.5 60%  
+Tiros a puerta 6.7 - 3.7: total +10.5 46% · Werder Bremen +5.5 63% · Hamburg +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg + Más de 10.5 faltas de Hamburg → prob. 22%, cuota justa 4.47  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 córners de Hamburg + Menos de 4.5 tiros a puerta de Hamburg): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 37% · ventaja +3%  
 
 ## Nordsjaelland vs FC Copenhagen — 22/11 · 18:00
 

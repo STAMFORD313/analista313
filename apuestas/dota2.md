@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 21/11/2026 17:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 17:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LEGION vs DO KONCA — 22/11 · 15:00
 
