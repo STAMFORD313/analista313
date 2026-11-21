@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 16:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LPH vs Phantom Academy — 21/11 · 17:00
 

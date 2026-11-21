@@ -1,545 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 16:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Valencia +0.5 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 50% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Gana Cadiz** @ **3.90** (Bet365) · prob 25% vs casas 25% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Valencia** @ **1.28** (Unibet) · prob 69% vs casas 71% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 3.5 córners de Valencia** @ **2.08** (Unibet) · prob 48% vs casas 44% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Vallecano** @ **1.18** (Unibet) · prob 79% vs casas 78% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 9.5 córners de Vallecano** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.09** (Unibet) · prob 84% vs casas 84% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Vallecano vs Valencia — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 10.5 córners** @ **1.72** (Unibet) · prob 56% vs casas 54% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.98)  
-1 51% · X 28% · 2 21%  
-1X 79% · X2 49% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Vallecano ➖➖❌✅❌ | Valencia ➖➖❌✅❌  
-• H2H: 22 desde 2011: 5V-10E-7D · 2.1 goles/partido · +2.5 en 32%  
-• Bajas: Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)  
-• Favorito de las casas: Vallecano @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.7: total +10.5 40% · Vallecano +5.5 54% · Valencia +4.5 32%  
-Tarjetas 2.2 - 2.5: total +4.5 50% · Vallecano +2.5 39% · Valencia +2.5 45%  
-Faltas 11.6 - 11.9: total +25.5 34% · Vallecano +12.5 38% · Valencia +12.5 42%  
-Tiros a puerta 5.7 - 3.0: total +9.5 38% · Vallecano +4.5 64% · Valencia +3.5 36%  
-🧩 Crear apuesta: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Valencia + Menos de 25.5 faltas + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano + Menos de 2.5 goles → prob. 11%, cuota justa 9.20  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Valencia + Más de 4.5 tiros a puerta de Vallecano + Menos de 2.5 tarjetas de Vallecano): cuota Unibet aprox. 4.34 (producto de piernas) · prob. 29% · ventaja +27% → 1 u en la banca de simulación  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Sociedad B** @ **1.50** (Unibet) · prob 60% vs casas 60% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Sociedad B** @ **1.73** (Unibet) · prob 54% vs casas 53% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.30** (Unibet) · prob 69% vs casas 70% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 74% vs casas 69% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Cadiz** @ **1.70** (Unibet) · prob 51% vs casas 54% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Sociedad B vs Cadiz — 21/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Cadiz** @ **1.97** (Unibet) · prob 49% vs casas 46% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.39)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌✅➖➖ | Cadiz ❌✅❌❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 4.0 goles/partido · +2.5 en 50%  
-• Bajas: Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda  
-• Favorito de las casas: Sociedad B @ 1.91  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.7: total +9.5 43% · Sociedad B +5.5 45% · Cadiz +4.5 31%  
-Tarjetas 2.3 - 2.9: total +5.5 42% · Sociedad B +2.5 40% · Cadiz +3.5 33%  
-Faltas 15.9 - 12.7: total +26.5 63% · Sociedad B +13.5 70% · Cadiz +13.5 39%  
-Tiros a puerta 4.9 - 3.3: total +8.5 43% · Sociedad B +5.5 36% · Cadiz +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz → prob. 25%, cuota justa 3.99  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 2.5 goles** @ **3.60** (Bet365) · prob 27% vs casas 27% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.18** (Unibet) · prob 78% vs casas 78% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.48** (Unibet) · prob 65% vs casas 62% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de PSV Eindhoven** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de PSV Eindhoven** @ **2.48** (Unibet) · prob 40% vs casas 37% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Nijmegen** @ **1.48** (Unibet) · prob 64% vs casas 62% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
-
-## Nijmegen vs PSV Eindhoven — 21/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Nijmegen** @ **1.22** (Unibet) · prob 76% vs casas 75% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 2.68)  
-1 19% · X 22% · 2 60%  
-1X 40% · X2 81% · 12 78%  
-+1.5 92% · +2.5 78% · +3.5 59% · Ambos marcan 72%  
-Marcadores: 1-2 8% · 1-3 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Nijmegen ➖➖➖❌✅ | PSV Eindhoven ✅❌➖✅✅  
-• H2H: 32 desde 2005: 4V-5E-23D · 3.5 goles/partido · +2.5 en 72%  
-• Bajas: Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
-• Favorito de las casas: PSV Eindhoven @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 5.4: total +10.5 43% · Nijmegen +5.5 35% · PSV Eindhoven +4.5 58%  
-Tarjetas 1.4 - 1.9: total +3.5 42% · Nijmegen +1.5 41% · PSV Eindhoven +1.5 56%  
-Faltas 9.4 - 11.2: total +21.5 41% · Nijmegen +10.5 35% · PSV Eindhoven +11.5 44%  
-Tiros a puerta 4.3 - 6.7: total +10.5 52% · Nijmegen +5.5 26% · PSV Eindhoven +5.5 63%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Nijmegen + Menos de 10.5 faltas de Nijmegen + Menos de 5.5 córners de Nijmegen + Menos de 1.5 tarjetas de Nijmegen → prob. 15%, cuota justa 6.64  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.75 (producto de piernas) · prob. 46% · ventaja +26% → 1 u en la banca de simulación  
+Actualizado 21/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LASK vs Hartberg — 21/11 · 17:00
 
@@ -10132,6 +9593,156 @@ Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%
 
 - ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.77)  
+1 76% · X 17% · 2 7%  
+1X 93% · X2 24% · 12 83%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Panathinaikos ❌✅✅✅✅ | OFI Crete ❌❌✅✅➖  
+• H2H: 18 desde 2018: 8V-6E-4D · 3.1 goles/partido · +2.5 en 56%  
+• Bajas: Panathinaikos: sin bajas; OFI Crete: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.6 - 2.9: total +9.5 59% · Panathinaikos +4.5 80% · OFI Crete +4.5 19%  
+Tarjetas 2.1 - 3.1: total +5.5 41% · Panathinaikos +2.5 35% · OFI Crete +3.5 37%  
+Faltas 14.2 - 12.6: total +30.5 25% · Panathinaikos +15.5 36% · OFI Crete +15.5 21%  
+Tiros a puerta 8.2 - 2.5: total +8.5 72% · Panathinaikos +4.5 88% · OFI Crete +3.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete → prob. 57%, cuota justa 1.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete + Menos de 2.5 tarjetas de Panathinaikos + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
+
+## Panathinaikos vs OFI Crete — 22/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 6.5 córners de Panathinaikos** @ **1.75** (Unibet) · prob 54% vs casas 51% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.77)  
+1 76% · X 17% · 2 7%  
+1X 93% · X2 24% · 12 83%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Panathinaikos ❌✅✅✅✅ | OFI Crete ❌❌✅✅➖  
+• H2H: 18 desde 2018: 8V-6E-4D · 3.1 goles/partido · +2.5 en 56%  
+• Bajas: Panathinaikos: sin bajas; OFI Crete: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.6 - 2.9: total +9.5 59% · Panathinaikos +4.5 80% · OFI Crete +4.5 19%  
+Tarjetas 2.1 - 3.1: total +5.5 41% · Panathinaikos +2.5 35% · OFI Crete +3.5 37%  
+Faltas 14.2 - 12.6: total +30.5 25% · Panathinaikos +15.5 36% · OFI Crete +15.5 21%  
+Tiros a puerta 8.2 - 2.5: total +8.5 72% · Panathinaikos +4.5 88% · OFI Crete +3.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete → prob. 57%, cuota justa 1.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete + Menos de 2.5 tarjetas de Panathinaikos + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
+
+## Panathinaikos vs OFI Crete — 22/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 7.5 córners de Panathinaikos** @ **1.52** (Unibet) · prob 56% vs casas 59% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.77)  
+1 76% · X 17% · 2 7%  
+1X 93% · X2 24% · 12 83%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Panathinaikos ❌✅✅✅✅ | OFI Crete ❌❌✅✅➖  
+• H2H: 18 desde 2018: 8V-6E-4D · 3.1 goles/partido · +2.5 en 56%  
+• Bajas: Panathinaikos: sin bajas; OFI Crete: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.6 - 2.9: total +9.5 59% · Panathinaikos +4.5 80% · OFI Crete +4.5 19%  
+Tarjetas 2.1 - 3.1: total +5.5 41% · Panathinaikos +2.5 35% · OFI Crete +3.5 37%  
+Faltas 14.2 - 12.6: total +30.5 25% · Panathinaikos +15.5 36% · OFI Crete +15.5 21%  
+Tiros a puerta 8.2 - 2.5: total +8.5 72% · Panathinaikos +4.5 88% · OFI Crete +3.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete → prob. 57%, cuota justa 1.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete + Menos de 2.5 tarjetas de Panathinaikos + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
+
+## Panathinaikos vs OFI Crete — 22/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 9.5 córners** @ **1.86** (Unibet) · prob 54% vs casas 48% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.77)  
+1 76% · X 17% · 2 7%  
+1X 93% · X2 24% · 12 83%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Panathinaikos ❌✅✅✅✅ | OFI Crete ❌❌✅✅➖  
+• H2H: 18 desde 2018: 8V-6E-4D · 3.1 goles/partido · +2.5 en 56%  
+• Bajas: Panathinaikos: sin bajas; OFI Crete: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.6 - 2.9: total +9.5 59% · Panathinaikos +4.5 80% · OFI Crete +4.5 19%  
+Tarjetas 2.1 - 3.1: total +5.5 41% · Panathinaikos +2.5 35% · OFI Crete +3.5 37%  
+Faltas 14.2 - 12.6: total +30.5 25% · Panathinaikos +15.5 36% · OFI Crete +15.5 21%  
+Tiros a puerta 8.2 - 2.5: total +8.5 72% · Panathinaikos +4.5 88% · OFI Crete +3.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete → prob. 57%, cuota justa 1.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete + Menos de 2.5 tarjetas de Panathinaikos + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
+
+## Panathinaikos vs OFI Crete — 22/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 10.5 córners** @ **1.46** (Unibet) · prob 57% vs casas 61% · ventaja -17%
+
+- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.77)  
+1 76% · X 17% · 2 7%  
+1X 93% · X2 24% · 12 83%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Panathinaikos ❌✅✅✅✅ | OFI Crete ❌❌✅✅➖  
+• H2H: 18 desde 2018: 8V-6E-4D · 3.1 goles/partido · +2.5 en 56%  
+• Bajas: Panathinaikos: sin bajas; OFI Crete: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.6 - 2.9: total +9.5 59% · Panathinaikos +4.5 80% · OFI Crete +4.5 19%  
+Tarjetas 2.1 - 3.1: total +5.5 41% · Panathinaikos +2.5 35% · OFI Crete +3.5 37%  
+Faltas 14.2 - 12.6: total +30.5 25% · Panathinaikos +15.5 36% · OFI Crete +15.5 21%  
+Tiros a puerta 8.2 - 2.5: total +8.5 72% · Panathinaikos +4.5 88% · OFI Crete +3.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete → prob. 57%, cuota justa 1.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete + Menos de 2.5 tarjetas de Panathinaikos + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
+
+## Panathinaikos vs OFI Crete — 22/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 2.5 córners de OFI Crete** @ **1.92** (Unibet) · prob 50% vs casas 47% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.77)  
+1 76% · X 17% · 2 7%  
+1X 93% · X2 24% · 12 83%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 3-0 9%  
+🔎 **Claves**  
+• Forma: Panathinaikos ❌✅✅✅✅ | OFI Crete ❌❌✅✅➖  
+• H2H: 18 desde 2018: 8V-6E-4D · 3.1 goles/partido · +2.5 en 56%  
+• Bajas: Panathinaikos: sin bajas; OFI Crete: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.6 - 2.9: total +9.5 59% · Panathinaikos +4.5 80% · OFI Crete +4.5 19%  
+Tarjetas 2.1 - 3.1: total +5.5 41% · Panathinaikos +2.5 35% · OFI Crete +3.5 37%  
+Faltas 14.2 - 12.6: total +30.5 25% · Panathinaikos +15.5 36% · OFI Crete +15.5 21%  
+Tiros a puerta 8.2 - 2.5: total +8.5 72% · Panathinaikos +4.5 88% · OFI Crete +3.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete → prob. 57%, cuota justa 1.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Panathinaikos + Menos de 4.5 córners de OFI Crete + Menos de 15.5 faltas de OFI Crete + Menos de 2.5 tarjetas de Panathinaikos + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
+
+## Panathinaikos vs OFI Crete — 22/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 2.5 córners de OFI Crete** @ **1.68** (Unibet) · prob 50% vs casas 53% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 2.23 - 0.77)  
 1 76% · X 17% · 2 7%  
