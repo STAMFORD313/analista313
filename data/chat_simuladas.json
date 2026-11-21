@@ -3414,15 +3414,18 @@
     "away": "Washington Wizards",
     "txt": "Gana Chicago Bulls",
     "odds": 1.694,
-    "p": 0.6063658480913026
+    "p": 0.6063658480913026,
+    "ok": false,
+    "por": "ganó Washington Wizards 98-94",
+    "clv": -0.075
    }
   ],
   "odds": 5.99,
   "p": 0.18099740121320637,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261120045631028183",
@@ -3535,7 +3538,10 @@
     "away": "Indiana Pacers",
     "txt": "Gana Cleveland Cavaliers",
     "odds": 1.435,
-    "p": 0.7123599999999999
+    "p": 0.7123599999999999,
+    "ok": true,
+    "por": "ganó Cleveland Cavaliers 128-119",
+    "clv": -0.033
    },
    {
     "code": null,
