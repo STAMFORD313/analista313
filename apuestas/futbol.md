@@ -1,249 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 17:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Valerenga vs Start — 21/11 · 18:00
-
-👀 candidata · 🇳🇴 Eliteserien · **Gana Valerenga** @ **1.53** (Bet365) · prob 63% vs casas 63% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.84 - 1.10)  
-1 66% · X 19% · 2 15%  
-1X 85% · X2 34% · 12 81%  
-+1.5 91% · +2.5 75% · +3.5 55% · Ambos marcan 63%  
-Marcadores: 2-1 9% · 3-1 8% · 2-0 8% · 3-0 7%  
-🔎 **Claves**  
-• Forma: Valerenga ❌✅✅✅❌ | Start ❌❌✅❌❌  
-• H2H: 13 desde 2013: 7V-2E-4D · 3.5 goles/partido · +2.5 en 62%  
-• Bajas: Valerenga: sin bajas; Start: sin bajas  
-• Favorito de las casas: Valerenga @ 1.53  
-
-## Lugano vs Grasshoppers — 21/11 · 18:00
-
-👀 candidata · 🇨🇭 Super League · **Gana Lugano** @ **1.36** (Bet365) · prob 71% vs casas 71% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.97 - 0.86)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 50%  
-Marcadores: 2-0 11% · 1-0 11% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Lugano ✅✅✅✅❌ | Grasshoppers ❌❌➖➖➖  
-• H2H: 34 desde 2015: 14V-11E-9D · 2.7 goles/partido · +2.5 en 47%  
-• Bajas: Lugano: sin bajas; Grasshoppers: sin bajas  
-• Favorito de las casas: Lugano @ 1.36  
-
-## Young Boys vs Thun — 21/11 · 18:00
-
-👀 candidata · 🇨🇭 Super League · **Gana Young Boys** @ **1.39** (Bet365) · prob 70% vs casas 70% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.51 - 1.73)  
-1 56% · X 22% · 2 22%  
-1X 78% · X2 44% · 12 78%  
-+1.5 93% · +2.5 79% · +3.5 61% · Ambos marcan 76%  
-Marcadores: 2-1 8% · 2-2 7% · 1-1 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Young Boys ✅✅✅❌✅ | Thun ✅❌❌✅➖  
-• H2H: 37 desde 2012: 22V-7E-8D · 3.7 goles/partido · +2.5 en 76%  
-• Bajas: Young Boys: sin bajas; Thun: sin bajas  
-• Favorito de las casas: Young Boys @ 1.39  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Parma +1.5 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 49% vs casas 48% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.18** (Unibet) · prob 80% vs casas 78% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Roma** @ **1.19** (Unibet) · prob 78% vs casas 77% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 7.5 córners de Roma** @ **1.32** (Unibet) · prob 71% vs casas 70% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Parma** @ **1.16** (Unibet) · prob 81% vs casas 80% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
-
-## Parma vs Roma — 21/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Parma** @ **1.17** (Unibet) · prob 81% vs casas 78% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.91 - 1.60)  
-1 13% · X 24% · 2 64%  
-1X 36% · X2 87% · 12 76%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌➖✅❌ | Roma ✅➖✅✅✅  
-• H2H: 28 desde 2005: 3V-3E-22D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)  
-• Favorito de las casas: Roma @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 3.5 - 6.0: total +9.5 47% · Parma +5.5 17% · Roma +4.5 65%  
-Tarjetas 1.9 - 1.9: total +3.5 51% · Parma +1.5 56% · Roma +2.5 29%  
-Faltas 11.3 - 13.4: total +22.5 64% · Parma +11.5 45% · Roma +11.5 67%  
-Tiros a puerta 3.4 - 5.9: total +9.5 45% · Parma +4.5 26% · Roma +4.5 68%  
-🧩 Crear apuesta: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Roma + Más de 11.5 faltas de Roma → prob. 29%, cuota justa 3.43  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.59 (producto de piernas) · prob. 46% · ventaja -26%  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma): cuota Unibet aprox. 1.32 (producto de piernas) · prob. 64% · ventaja -15%  
+Actualizado 21/11/2026 18:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Genk vs RAAL La Louviere — 21/11 · 18:15
 
@@ -10250,6 +10007,313 @@ Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%
 Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
+
+## Olympiakos vs Iraklis — 22/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 6.5 córners de Olympiakos** @ **1.94** (Unibet) · prob 51% vs casas 46% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 0.59)  
+1 81% · X 14% · 2 5%  
+1X 95% · X2 19% · 12 86%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 38%  
+Marcadores: 1-0 16% · 2-0 15% · 1-1 10% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅➖ | Iraklis ✅❌❌➖❌  
+• H2H: 16 desde 2005: 12V-1E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; Iraklis: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.6: total +9.5 54% · Olympiakos +4.5 79% · Iraklis +4.5 14%  
+Tarjetas 1.9 - 3.4: total +5.5 42% · Olympiakos +2.5 28% · Iraklis +3.5 43%  
+Faltas 13.6 - 14.7: total +30.5 35% · Olympiakos +15.5 30% · Iraklis +15.5 41%  
+Tiros a puerta 6.8 - 2.2: total +8.5 53% · Olympiakos +4.5 77% · Iraklis +3.5 18%  
+🧩 Crear apuesta: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos + Menos de 15.5 faltas de Olympiakos + Menos de 2.5 goles → prob. 23%, cuota justa 4.33  
+
+## Olympiakos vs Iraklis — 22/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 6.5 córners de Olympiakos** @ **1.67** (Unibet) · prob 49% vs casas 54% · ventaja -19%
+
+- ❌ Valor: ventaja -19% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 0.59)  
+1 81% · X 14% · 2 5%  
+1X 95% · X2 19% · 12 86%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 38%  
+Marcadores: 1-0 16% · 2-0 15% · 1-1 10% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅➖ | Iraklis ✅❌❌➖❌  
+• H2H: 16 desde 2005: 12V-1E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; Iraklis: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.6: total +9.5 54% · Olympiakos +4.5 79% · Iraklis +4.5 14%  
+Tarjetas 1.9 - 3.4: total +5.5 42% · Olympiakos +2.5 28% · Iraklis +3.5 43%  
+Faltas 13.6 - 14.7: total +30.5 35% · Olympiakos +15.5 30% · Iraklis +15.5 41%  
+Tiros a puerta 6.8 - 2.2: total +8.5 53% · Olympiakos +4.5 77% · Iraklis +3.5 18%  
+🧩 Crear apuesta: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos + Menos de 15.5 faltas de Olympiakos + Menos de 2.5 goles → prob. 23%, cuota justa 4.33  
+
+## Olympiakos vs Iraklis — 22/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 2.5 córners de Iraklis** @ **2.18** (Unibet) · prob 44% vs casas 41% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 0.59)  
+1 81% · X 14% · 2 5%  
+1X 95% · X2 19% · 12 86%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 38%  
+Marcadores: 1-0 16% · 2-0 15% · 1-1 10% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅➖ | Iraklis ✅❌❌➖❌  
+• H2H: 16 desde 2005: 12V-1E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; Iraklis: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.6: total +9.5 54% · Olympiakos +4.5 79% · Iraklis +4.5 14%  
+Tarjetas 1.9 - 3.4: total +5.5 42% · Olympiakos +2.5 28% · Iraklis +3.5 43%  
+Faltas 13.6 - 14.7: total +30.5 35% · Olympiakos +15.5 30% · Iraklis +15.5 41%  
+Tiros a puerta 6.8 - 2.2: total +8.5 53% · Olympiakos +4.5 77% · Iraklis +3.5 18%  
+🧩 Crear apuesta: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos + Menos de 15.5 faltas de Olympiakos + Menos de 2.5 goles → prob. 23%, cuota justa 4.33  
+
+## Olympiakos vs Iraklis — 22/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 2.5 córners de Iraklis** @ **1.53** (Unibet) · prob 56% vs casas 59% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 0.59)  
+1 81% · X 14% · 2 5%  
+1X 95% · X2 19% · 12 86%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 38%  
+Marcadores: 1-0 16% · 2-0 15% · 1-1 10% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅➖ | Iraklis ✅❌❌➖❌  
+• H2H: 16 desde 2005: 12V-1E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; Iraklis: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.6: total +9.5 54% · Olympiakos +4.5 79% · Iraklis +4.5 14%  
+Tarjetas 1.9 - 3.4: total +5.5 42% · Olympiakos +2.5 28% · Iraklis +3.5 43%  
+Faltas 13.6 - 14.7: total +30.5 35% · Olympiakos +15.5 30% · Iraklis +15.5 41%  
+Tiros a puerta 6.8 - 2.2: total +8.5 53% · Olympiakos +4.5 77% · Iraklis +3.5 18%  
+🧩 Crear apuesta: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos + Menos de 15.5 faltas de Olympiakos + Menos de 2.5 goles → prob. 23%, cuota justa 4.33  
+
+## Olympiakos vs Iraklis — 22/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 9.5 córners** @ **2.18** (Unibet) · prob 48% vs casas 41% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 0.59)  
+1 81% · X 14% · 2 5%  
+1X 95% · X2 19% · 12 86%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 38%  
+Marcadores: 1-0 16% · 2-0 15% · 1-1 10% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅➖ | Iraklis ✅❌❌➖❌  
+• H2H: 16 desde 2005: 12V-1E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; Iraklis: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.6: total +9.5 54% · Olympiakos +4.5 79% · Iraklis +4.5 14%  
+Tarjetas 1.9 - 3.4: total +5.5 42% · Olympiakos +2.5 28% · Iraklis +3.5 43%  
+Faltas 13.6 - 14.7: total +30.5 35% · Olympiakos +15.5 30% · Iraklis +15.5 41%  
+Tiros a puerta 6.8 - 2.2: total +8.5 53% · Olympiakos +4.5 77% · Iraklis +3.5 18%  
+🧩 Crear apuesta: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos + Menos de 15.5 faltas de Olympiakos + Menos de 2.5 goles → prob. 23%, cuota justa 4.33  
+
+## Olympiakos vs Iraklis — 22/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.52** (Unibet) · prob 52% vs casas 59% · ventaja -20%
+
+- ❌ Valor: ventaja -20% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.82 - 0.59)  
+1 81% · X 14% · 2 5%  
+1X 95% · X2 19% · 12 86%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 38%  
+Marcadores: 1-0 16% · 2-0 15% · 1-1 10% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅➖ | Iraklis ✅❌❌➖❌  
+• H2H: 16 desde 2005: 12V-1E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; Iraklis: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.6: total +9.5 54% · Olympiakos +4.5 79% · Iraklis +4.5 14%  
+Tarjetas 1.9 - 3.4: total +5.5 42% · Olympiakos +2.5 28% · Iraklis +3.5 43%  
+Faltas 13.6 - 14.7: total +30.5 35% · Olympiakos +15.5 30% · Iraklis +15.5 41%  
+Tiros a puerta 6.8 - 2.2: total +8.5 53% · Olympiakos +4.5 77% · Iraklis +3.5 18%  
+🧩 Crear apuesta: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Iraklis + Menos de 3.5 tiros a puerta de Iraklis + Menos de 2.5 tarjetas de Olympiakos + Menos de 15.5 faltas de Olympiakos + Menos de 2.5 goles → prob. 23%, cuota justa 4.33  
+
+## Milan vs Frosinone — 22/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.11** (Unibet) · prob 82% vs casas 82% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.98 - 1.08)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Milan ✅✅❌✅✅ | Frosinone ✅➖✅✅❌  
+• H2H: 6 desde 2015: 4V-2E-0D · 3.8 goles/partido · +2.5 en 67%  
+• Bajas: Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda  
+• Favorito de las casas: Milan @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.1: total +9.5 49% · Milan +5.5 45% · Frosinone +4.5 38%  
+Tarjetas 1.5 - 2.0: total +3.5 46% · Milan +1.5 46% · Frosinone +2.5 31%  
+Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%  
+Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
+
+## Milan vs Frosinone — 22/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners** @ **2.02** (Unibet) · prob 48% vs casas 46% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.98 - 1.08)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Milan ✅✅❌✅✅ | Frosinone ✅➖✅✅❌  
+• H2H: 6 desde 2015: 4V-2E-0D · 3.8 goles/partido · +2.5 en 67%  
+• Bajas: Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda  
+• Favorito de las casas: Milan @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.1: total +9.5 49% · Milan +5.5 45% · Frosinone +4.5 38%  
+Tarjetas 1.5 - 2.0: total +3.5 46% · Milan +1.5 46% · Frosinone +2.5 31%  
+Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%  
+Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
+
+## Milan vs Frosinone — 22/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Frosinone** @ **1.32** (Unibet) · prob 71% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.98 - 1.08)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Milan ✅✅❌✅✅ | Frosinone ✅➖✅✅❌  
+• H2H: 6 desde 2015: 4V-2E-0D · 3.8 goles/partido · +2.5 en 67%  
+• Bajas: Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda  
+• Favorito de las casas: Milan @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.1: total +9.5 49% · Milan +5.5 45% · Frosinone +4.5 38%  
+Tarjetas 1.5 - 2.0: total +3.5 46% · Milan +1.5 46% · Frosinone +2.5 31%  
+Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%  
+Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
+
+## Milan vs Frosinone — 22/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Frosinone** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.98 - 1.08)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Milan ✅✅❌✅✅ | Frosinone ✅➖✅✅❌  
+• H2H: 6 desde 2015: 4V-2E-0D · 3.8 goles/partido · +2.5 en 67%  
+• Bajas: Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda  
+• Favorito de las casas: Milan @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.1: total +9.5 49% · Milan +5.5 45% · Frosinone +4.5 38%  
+Tarjetas 1.5 - 2.0: total +3.5 46% · Milan +1.5 46% · Frosinone +2.5 31%  
+Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%  
+Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
+
+## Milan vs Frosinone — 22/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Milan** @ **1.19** (Unibet) · prob 75% vs casas 77% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.98 - 1.08)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Milan ✅✅❌✅✅ | Frosinone ✅➖✅✅❌  
+• H2H: 6 desde 2015: 4V-2E-0D · 3.8 goles/partido · +2.5 en 67%  
+• Bajas: Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda  
+• Favorito de las casas: Milan @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.1: total +9.5 49% · Milan +5.5 45% · Frosinone +4.5 38%  
+Tarjetas 1.5 - 2.0: total +3.5 46% · Milan +1.5 46% · Frosinone +2.5 31%  
+Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%  
+Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
+
+## Milan vs Frosinone — 22/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Milan** @ **2.65** (Unibet) · prob 38% vs casas 35% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.98 - 1.08)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Milan ✅✅❌✅✅ | Frosinone ✅➖✅✅❌  
+• H2H: 6 desde 2015: 4V-2E-0D · 3.8 goles/partido · +2.5 en 67%  
+• Bajas: Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda  
+• Favorito de las casas: Milan @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.1: total +9.5 49% · Milan +5.5 45% · Frosinone +4.5 38%  
+Tarjetas 1.5 - 2.0: total +3.5 46% · Milan +1.5 46% · Frosinone +2.5 31%  
+Faltas 9.1 - 12.4: total +22.5 41% · Milan +11.5 22% · Frosinone +11.5 58%  
+Tiros a puerta 6.0 - 4.2: total +9.5 55% · Milan +4.5 68% · Frosinone +4.5 41%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Milan + Menos de 2.5 tarjetas de Frosinone + Más de 4.5 tiros a puerta de Milan + Menos de 4.5 córners de Frosinone + Más de 2.5 goles → prob. 16%, cuota justa 6.43  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 4.5 córners de Frosinone): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 42% · ventaja +1%  
 
 ## Anderlecht vs Oud-Heverlee Leuven — 22/11 · 18:30
 
