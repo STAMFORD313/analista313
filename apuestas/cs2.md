@@ -1,52 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 18:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Illyrians vs Lilmix — 21/11 · 19:00
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 15 Play-In · **Gana Illyrians** @ **1.28** (Thunderpick) · prob 73% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.098 partidos)  
-Mapa: Illyrians 66% · Serie BO3: Illyrians 73% - 27% Lilmix  
-Casas: Illyrians 72% · Lilmix 28%  
-🔎 **Claves**  
-• Elo: Illyrians 1594 (68 series) | Lilmix 1414 (411 series)  
-• Forma: Illyrians ❌❌✅❌❌ | Lilmix ❌❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 15 Play-In (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Illyrians gana 2-1: 25% → cuota justa 4.07  
-• Lilmix gana 2-1: 13% → cuota justa 7.96  
-
-## Betclic vs FORZE Reload — 21/11 · 19:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana Betclic** @ **1.85** (Thunderpick) · prob 52% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.098 partidos)  
-Mapa: Betclic 53% · Serie BO3: Betclic 55% - 45% FORZE Reload  
-Casas: Betclic 50% · FORZE Reload 50%  
-🔎 **Claves**  
-• Elo: Betclic 1807 (265 series) | FORZE Reload 1778 (363 series)  
-• Forma: Betclic ✅❌❌❌❌ | FORZE Reload ✅❌✅✅✅  
-• H2H: 1: 0-1  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Betclic: ultimate 6.2, Qlocuu 6.0 | FORZE Reload: HeCkBNk 6.5, YumsaN 6.3  
-• Mapas (último año): Betclic: fuerte cache 71%, débil overpass 33% | FORZE Reload: fuerte cache 64%, débil overpass 27%  
-• Química de la plantilla: Betclic: 105 mapas juntos de media | FORZE Reload: 46 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Betclic gana 2-1: 23% → cuota justa 4.32 · casa 23%  
-• FORZE Reload gana 2-1: 21% → cuota justa 4.82 · casa 23%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.681 casos: log-loss 0.6821→0.656; sin cuotas de props, solo referencia)  
-Betclic: ultimate 36 (21-53) · Ex1st 35 (20-52) · Qlocuu 34 (19-50) · Prism 33 (19-49) · Demho 32 (18-48)  
-FORZE Reload: HeCkBNk 37 (21-54) · YumsaN 36 (20-52) · KusMe 34 (19-50) · Lack1 34 (19-50) · bl1x1 33 (19-49)  
+Actualizado 21/11/2026 19:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FORZE Reload vs WBT — 22/11 · 10:00
 

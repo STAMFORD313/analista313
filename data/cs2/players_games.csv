@@ -35013,3 +35013,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193412,133871,virtus-pro-vs-nice-try-cs2-21-11-2026,2026-11-21T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,720,25265,Virtus.pro,NT,1,de_mirage,720,13.0,3.0
 192943,133411,team-aces-vs-nexus-21-11-2026,2026-11-21T12:30:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,326,Aces,Nexus,3,de_mirage,25564,13.0,11.0
 192944,133411,team-aces-vs-nexus-21-11-2026,2026-11-21T12:30:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,326,Aces,Nexus,2,de_dust2,25564,13.0,2.0
+193597,134015,alliance-cs-vs-envyus-21-11-2026,2026-11-21T13:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,8221,781,Alliance,Envy,3,de_nuke,781,13.0,9.0
+193598,134015,alliance-cs-vs-envyus-21-11-2026,2026-11-21T13:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,8221,781,Alliance,Envy,2,de_inferno,8221,16.0,14.0
+193599,134015,alliance-cs-vs-envyus-21-11-2026,2026-11-21T13:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,8221,781,Alliance,Envy,1,de_dust2,781,13.0,10.0
+192950,133413,ex-rustec-vs-hype-tech-21-11-2026,2026-11-21T15:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,25790,ex-RUSTEC,Hype Tech,2,de_inferno,24857,13.0,9.0
+192951,133413,ex-rustec-vs-hype-tech-21-11-2026,2026-11-21T15:15:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,25790,ex-RUSTEC,Hype Tech,1,de_nuke,25790,13.0,10.0
