@@ -75897,16 +75897,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2391954,262745,Lyon,Monaco,,
 2391955,262745,Nice,Lyon,,
 2391956,262745,Paris,Marseille,,
-2392270,262676,Morocco,Germany,0,2
-2392272,262676,Netherlands,Norway,1,1
-2392274,262676,Netherlands,Morocco,3,1
-2392276,262676,Norway,Germany,3,0
-2392278,262676,Germany,Netherlands,1,4
-2392280,262676,Norway,Morocco,2,3
-2392281,262676,Morocco,Germany,0,1
-2392282,262676,Netherlands,Norway,0,4
-2392283,262676,Netherlands,Morocco,0,0
-2390737,262676,Norway,Germany,0,0
+2392270,262676,Morocco,Germany,0.0,2.0
+2392272,262676,Netherlands,Norway,1.0,1.0
+2392274,262676,Netherlands,Morocco,3.0,1.0
+2392276,262676,Norway,Germany,3.0,0.0
+2392278,262676,Germany,Netherlands,1.0,4.0
+2392280,262676,Norway,Morocco,2.0,3.0
+2392281,262676,Morocco,Germany,0.0,1.0
+2392282,262676,Netherlands,Norway,0.0,4.0
+2392283,262676,Netherlands,Morocco,0.0,0.0
+2390737,262676,Norway,Germany,0.0,0.0
 2392284,262676,Germany,Netherlands,,
 2392285,262676,Norway,Morocco,,
 2392286,262676,Morocco,Germany,,
@@ -75915,18 +75915,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2392289,262676,Norway,Germany,,
 2392290,262676,Germany,Netherlands,,
 2392291,262676,Norway,Morocco,,
-2390886,262700,Al Ahli,Al Ittihad,0,0
-2390887,262700,Al Hilal,FC Seoul,0,1
-2390888,262700,FC Seoul,Al Ahli,0,1
-2390889,262700,Al Ittihad,Gangwon FC,0,3
-2390890,262700,Gangwon FC,FC Seoul,2,1
-2390891,262700,Al Ahli,Al Hilal,1,1
-2390892,262700,Al Hilal,Gangwon FC,1,1
-2390893,262700,FC Seoul,Al Ittihad,0,2
-2390894,262700,Al Ittihad,Al Hilal,1,1
-2390895,262700,Gangwon FC,Al Ahli,2,1
-2390896,262700,Al Ittihad,Al Ahli,1,1
-2390897,262700,FC Seoul,Al Hilal,1,1
+2390886,262700,Al Ahli,Al Ittihad,0.0,0.0
+2390887,262700,Al Hilal,FC Seoul,0.0,1.0
+2390888,262700,FC Seoul,Al Ahli,0.0,1.0
+2390889,262700,Al Ittihad,Gangwon FC,0.0,3.0
+2390890,262700,Gangwon FC,FC Seoul,2.0,1.0
+2390891,262700,Al Ahli,Al Hilal,1.0,1.0
+2390892,262700,Al Hilal,Gangwon FC,1.0,1.0
+2390893,262700,FC Seoul,Al Ittihad,0.0,2.0
+2390894,262700,Al Ittihad,Al Hilal,1.0,1.0
+2390895,262700,Gangwon FC,Al Ahli,2.0,1.0
+2390896,262700,Al Ittihad,Al Ahli,1.0,1.0
+2390897,262700,FC Seoul,Al Hilal,1.0,1.0
 2390898,262700,Al Ahli,FC Seoul,,
 2390899,262700,Gangwon FC,Al Ittihad,,
 2390900,262700,FC Seoul,Gangwon FC,,
@@ -75935,14 +75935,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2390903,262700,Al Ittihad,FC Seoul,,
 2390904,262700,Al Hilal,Al Ittihad,,
 2390905,262700,Al Ahli,Gangwon FC,,
-2392154,262735,Bayern Munchen,Atleti,2,2
-2392155,262735,Liverpool,Paris,1,2
-2392156,262735,Liverpool,Bayern Munchen,4,3
-2392157,262735,Paris,Atleti,0,0
-2392158,262735,Atleti,Liverpool,1,2
-2392159,262735,Paris,Bayern Munchen,2,4
-2392160,262735,Bayern Munchen,Atleti,0,0
-2392161,262735,Liverpool,Paris,0,0
+2392154,262735,Bayern Munchen,Atleti,2.0,2.0
+2392155,262735,Liverpool,Paris,1.0,2.0
+2392156,262735,Liverpool,Bayern Munchen,4.0,3.0
+2392157,262735,Paris,Atleti,0.0,0.0
+2392158,262735,Atleti,Liverpool,1.0,2.0
+2392159,262735,Paris,Bayern Munchen,2.0,4.0
+2392160,262735,Bayern Munchen,Atleti,0.0,0.0
+2392161,262735,Liverpool,Paris,0.0,0.0
 2392162,262735,Liverpool,Bayern Munchen,,
 2391838,262735,Paris,Atleti,,
 2392163,262735,Atleti,Liverpool,,
