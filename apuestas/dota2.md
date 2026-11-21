@@ -1,28 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 21/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Power Rangers vs Team Synapse — 21/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Gana Power Rangers** @ **1.55** (Thunderpick) · prob 65% vs casas 59% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.881 partidos)  
-Mapa: Power Rangers 59% · Serie BO3: Power Rangers 71% - 29% Team Synapse  
-Casas: Power Rangers 59% · Team Synapse 41%  
-🔎 **Claves**  
-• Elo: Power Rangers 1698 (118 series) | Team Synapse 1610 (61 series)  
-• Forma: Power Rangers ✅❌✅❌✅ | Team Synapse ❌✅❌❌❌  
-• H2H: 3: 3-0  
-• Torneo: European Pro League Season 41 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Power Rangers: Nicky`Cool 3.9, bottega 3.5 | Team Synapse: Mikey 2.3, rubikon155 2.3  
-• Química de la plantilla: Power Rangers: 133 partidas juntos de media | Team Synapse: 118 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Power Rangers gana 2-1: 24% → cuota justa 4.10 · casa 24%  
-• Team Synapse gana 2-1: 17% → cuota justa 6.01 · casa 19%  
+Actualizado 21/11/2026 17:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LEGION vs DO KONCA — 22/11 · 15:00
 

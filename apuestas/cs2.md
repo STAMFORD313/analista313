@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## LPH vs Phantom Academy — 21/11 · 17:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Phantom Academy** @ **1.77** (Thunderpick) · prob 61% vs casas 52% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.095 partidos)  
-Mapa: LPH 30% · Serie BO1: LPH 30% - 70% Phantom Academy  
-Casas: LPH 48% · Phantom Academy 52%  
-🔎 **Claves**  
-• Elo: LPH 1427 (149 series) | Phantom Academy 1575 (108 series)  
-• Forma: LPH ❌❌✅❌❌ | Phantom Academy ❌✅✅❌❌  
-• H2H: 1: 1-0  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 21/11/2026 17:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Illyrians vs Lilmix — 21/11 · 19:00
 

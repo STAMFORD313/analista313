@@ -1,217 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## LASK vs Hartberg — 21/11 · 17:00
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana LASK** @ **1.32** (Bet365) · prob 74% vs casas 74% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.52 - 1.21)  
-1 51% · X 25% · 2 23%  
-1X 77% · X2 49% · 12 75%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: LASK ❌✅❌✅✅ | Hartberg ✅❌✅✅✅  
-• H2H: 27 desde 2018: 8V-14E-5D · 3.1 goles/partido · +2.5 en 63%  
-• Bajas: LASK: sin bajas; Hartberg: sin bajas  
-• Favorito de las casas: LASK @ 1.32  
-
-## Tirol vs A. Lustenau — 21/11 · 17:00
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana Tirol** @ **1.82** (Bet365) · prob 56% vs casas 56% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.77 - 1.31)  
-1 49% · X 25% · 2 25%  
-1X 75% · X2 51% · 12 75%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Tirol ❌✅➖❌➖ | A. Lustenau ❌❌❌❌✅  
-• H2H: 9 desde 2022: 5V-1E-3D · 3.3 goles/partido · +2.5 en 67%  
-• Bajas: Tirol: sin bajas; A. Lustenau: sin bajas  
-• Favorito de las casas: Tirol @ 1.82  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Gana Fenerbahce** @ **1.55** (Bwin) · prob 62% vs casas 62% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.35** (Unibet) · prob 69% vs casas 68% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.45** (Unibet) · prob 65% vs casas 63% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Kocaelispor** @ **1.83** (Unibet) · prob 52% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Kocaelispor** @ **1.43** (Unibet) · prob 63% vs casas 64% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Fenerbahce** @ **1.55** (Unibet) · prob 57% vs casas 59% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
-
-## Kocaelispor vs Fenerbahce — 21/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Fenerbahce** @ **1.71** (Unibet) · prob 56% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.73 - 1.34)  
-1 19% · X 28% · 2 53%  
-1X 47% · X2 81% · 12 72%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 39%  
-Marcadores: 0-1 16% · 0-0 13% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Kocaelispor ❌❌✅➖✅ | Fenerbahce ✅✅❌❌✅  
-• H2H: 4 desde 2008: 0V-1E-3D · 3.2 goles/partido · +2.5 en 50%  
-• Bajas: Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
-• Favorito de las casas: Fenerbahce @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 5.2: total +9.5 45% · Kocaelispor +5.5 25% · Fenerbahce +4.5 56%  
-Tarjetas 2.2 - 2.1: total +4.5 44% · Kocaelispor +2.5 38% · Fenerbahce +2.5 36%  
-Faltas 13.0 - 13.3: total +26.5 47% · Kocaelispor +13.5 43% · Fenerbahce +13.5 46%  
-Tiros a puerta 3.6 - 5.0: total +9.5 37% · Kocaelispor +5.5 17% · Fenerbahce +4.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kocaelispor + Menos de 5.5 córners de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Fenerbahce + Menos de 13.5 faltas de Kocaelispor → prob. 17%, cuota justa 5.99  
+Actualizado 21/11/2026 17:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nice vs Paris SG — 21/11 · 17:15
 
@@ -9786,6 +9575,163 @@ Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +
 Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
+
+## Go Ahead Eagles vs For Sittard — 22/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 8.5 córners** @ **1.29** (Unibet) · prob 71% vs casas 71% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.20)  
+1 51% · X 26% · 2 23%  
+1X 77% · X2 49% · 12 74%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
+Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Go Ahead Eagles ➖❌✅❌✅ | For Sittard ➖➖✅➖➖  
+• H2H: 10 desde 2021: 5V-3E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda  
+• Favorito de las casas: Go Ahead Eagles @ 1.63  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.4: total +10.5 47% · Go Ahead Eagles +5.5 64% · For Sittard +4.5 27%  
+Tarjetas 1.0 - 1.8: total +3.5 30% · Go Ahead Eagles +1.5 27% · For Sittard +1.5 52%  
+Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +11.5 39%  
+Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
+
+## Go Ahead Eagles vs For Sittard — 22/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.58** (Unibet) · prob 61% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.20)  
+1 51% · X 26% · 2 23%  
+1X 77% · X2 49% · 12 74%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
+Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Go Ahead Eagles ➖❌✅❌✅ | For Sittard ➖➖✅➖➖  
+• H2H: 10 desde 2021: 5V-3E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda  
+• Favorito de las casas: Go Ahead Eagles @ 1.63  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.4: total +10.5 47% · Go Ahead Eagles +5.5 64% · For Sittard +4.5 27%  
+Tarjetas 1.0 - 1.8: total +3.5 30% · Go Ahead Eagles +1.5 27% · For Sittard +1.5 52%  
+Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +11.5 39%  
+Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
+
+## Go Ahead Eagles vs For Sittard — 22/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 5.5 córners de Go Ahead Eagles** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.20)  
+1 51% · X 26% · 2 23%  
+1X 77% · X2 49% · 12 74%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
+Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Go Ahead Eagles ➖❌✅❌✅ | For Sittard ➖➖✅➖➖  
+• H2H: 10 desde 2021: 5V-3E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda  
+• Favorito de las casas: Go Ahead Eagles @ 1.63  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.4: total +10.5 47% · Go Ahead Eagles +5.5 64% · For Sittard +4.5 27%  
+Tarjetas 1.0 - 1.8: total +3.5 30% · Go Ahead Eagles +1.5 27% · For Sittard +1.5 52%  
+Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +11.5 39%  
+Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
+
+## Go Ahead Eagles vs For Sittard — 22/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners de Go Ahead Eagles** @ **1.21** (Unibet) · prob 77% vs casas 76% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.20)  
+1 51% · X 26% · 2 23%  
+1X 77% · X2 49% · 12 74%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
+Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Go Ahead Eagles ➖❌✅❌✅ | For Sittard ➖➖✅➖➖  
+• H2H: 10 desde 2021: 5V-3E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda  
+• Favorito de las casas: Go Ahead Eagles @ 1.63  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.4: total +10.5 47% · Go Ahead Eagles +5.5 64% · For Sittard +4.5 27%  
+Tarjetas 1.0 - 1.8: total +3.5 30% · Go Ahead Eagles +1.5 27% · For Sittard +1.5 52%  
+Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +11.5 39%  
+Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
+
+## Go Ahead Eagles vs For Sittard — 22/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 2.5 córners de For Sittard** @ **2.80** (Unibet) · prob 35% vs casas 33% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.20)  
+1 51% · X 26% · 2 23%  
+1X 77% · X2 49% · 12 74%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
+Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Go Ahead Eagles ➖❌✅❌✅ | For Sittard ➖➖✅➖➖  
+• H2H: 10 desde 2021: 5V-3E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda  
+• Favorito de las casas: Go Ahead Eagles @ 1.63  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.4: total +10.5 47% · Go Ahead Eagles +5.5 64% · For Sittard +4.5 27%  
+Tarjetas 1.0 - 1.8: total +3.5 30% · Go Ahead Eagles +1.5 27% · For Sittard +1.5 52%  
+Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +11.5 39%  
+Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
+
+## Go Ahead Eagles vs For Sittard — 22/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de For Sittard** @ **1.37** (Unibet) · prob 65% vs casas 67% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.20)  
+1 51% · X 26% · 2 23%  
+1X 77% · X2 49% · 12 74%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 62%  
+Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Go Ahead Eagles ➖❌✅❌✅ | For Sittard ➖➖✅➖➖  
+• H2H: 10 desde 2021: 5V-3E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda  
+• Favorito de las casas: Go Ahead Eagles @ 1.63  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.4: total +10.5 47% · Go Ahead Eagles +5.5 64% · For Sittard +4.5 27%  
+Tarjetas 1.0 - 1.8: total +3.5 30% · Go Ahead Eagles +1.5 27% · For Sittard +1.5 52%  
+Faltas 8.8 - 10.7: total +21.5 32% · Go Ahead Eagles +10.5 27% · For Sittard +11.5 39%  
+Tiros a puerta 6.6 - 3.9: total +10.5 47% · Go Ahead Eagles +5.5 62% · For Sittard +5.5 21%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 10.5 faltas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard + Más de 2.5 goles → prob. 20%, cuota justa 5.01  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Go Ahead Eagles + Menos de 4.5 córners de For Sittard): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 53% · ventaja +27% → 1 u en la banca de simulación  
 
 ## Austria Vienna vs Salzburg — 22/11 · 17:00
 
@@ -9865,6 +9811,156 @@ Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%
 
 - ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.37 - 0.70)  
+1 81% · X 14% · 2 6%  
+1X 94% · X2 19% · 12 86%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 46%  
+Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Trabzonspor ✅✅✅✅✅ | Eyupspor ❌❌❌❌❌  
+• H2H: 4 desde 2024: 3V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
+• Bajas: Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda  
+• Favorito de las casas: Trabzonspor @ 1.17  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +9.5 58% · Trabzonspor +5.5 66% · Eyupspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Trabzonspor +2.5 24% · Eyupspor +2.5 48%  
+Faltas 12.6 - 11.6: total +26.5 33% · Trabzonspor +13.5 39% · Eyupspor +13.5 29%  
+Tiros a puerta 7.9 - 3.0: total +9.5 64% · Trabzonspor +5.5 77% · Eyupspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 13.5 faltas de Eyupspor + Más de 2.5 goles → prob. 20%, cuota justa 5.04  
+
+## Trabzonspor vs Eyupspor — 22/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Trabzonspor** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.37 - 0.70)  
+1 81% · X 14% · 2 6%  
+1X 94% · X2 19% · 12 86%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 46%  
+Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Trabzonspor ✅✅✅✅✅ | Eyupspor ❌❌❌❌❌  
+• H2H: 4 desde 2024: 3V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
+• Bajas: Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda  
+• Favorito de las casas: Trabzonspor @ 1.17  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +9.5 58% · Trabzonspor +5.5 66% · Eyupspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Trabzonspor +2.5 24% · Eyupspor +2.5 48%  
+Faltas 12.6 - 11.6: total +26.5 33% · Trabzonspor +13.5 39% · Eyupspor +13.5 29%  
+Tiros a puerta 7.9 - 3.0: total +9.5 64% · Trabzonspor +5.5 77% · Eyupspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 13.5 faltas de Eyupspor + Más de 2.5 goles → prob. 20%, cuota justa 5.04  
+
+## Trabzonspor vs Eyupspor — 22/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 8.5 córners de Trabzonspor** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.37 - 0.70)  
+1 81% · X 14% · 2 6%  
+1X 94% · X2 19% · 12 86%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 46%  
+Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Trabzonspor ✅✅✅✅✅ | Eyupspor ❌❌❌❌❌  
+• H2H: 4 desde 2024: 3V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
+• Bajas: Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda  
+• Favorito de las casas: Trabzonspor @ 1.17  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +9.5 58% · Trabzonspor +5.5 66% · Eyupspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Trabzonspor +2.5 24% · Eyupspor +2.5 48%  
+Faltas 12.6 - 11.6: total +26.5 33% · Trabzonspor +13.5 39% · Eyupspor +13.5 29%  
+Tiros a puerta 7.9 - 3.0: total +9.5 64% · Trabzonspor +5.5 77% · Eyupspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 13.5 faltas de Eyupspor + Más de 2.5 goles → prob. 20%, cuota justa 5.04  
+
+## Trabzonspor vs Eyupspor — 22/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 9.5 córners** @ **1.79** (Unibet) · prob 55% vs casas 51% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.37 - 0.70)  
+1 81% · X 14% · 2 6%  
+1X 94% · X2 19% · 12 86%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 46%  
+Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Trabzonspor ✅✅✅✅✅ | Eyupspor ❌❌❌❌❌  
+• H2H: 4 desde 2024: 3V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
+• Bajas: Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda  
+• Favorito de las casas: Trabzonspor @ 1.17  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +9.5 58% · Trabzonspor +5.5 66% · Eyupspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Trabzonspor +2.5 24% · Eyupspor +2.5 48%  
+Faltas 12.6 - 11.6: total +26.5 33% · Trabzonspor +13.5 39% · Eyupspor +13.5 29%  
+Tiros a puerta 7.9 - 3.0: total +9.5 64% · Trabzonspor +5.5 77% · Eyupspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 13.5 faltas de Eyupspor + Más de 2.5 goles → prob. 20%, cuota justa 5.04  
+
+## Trabzonspor vs Eyupspor — 22/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.36** (Unibet) · prob 66% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.37 - 0.70)  
+1 81% · X 14% · 2 6%  
+1X 94% · X2 19% · 12 86%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 46%  
+Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Trabzonspor ✅✅✅✅✅ | Eyupspor ❌❌❌❌❌  
+• H2H: 4 desde 2024: 3V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
+• Bajas: Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda  
+• Favorito de las casas: Trabzonspor @ 1.17  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +9.5 58% · Trabzonspor +5.5 66% · Eyupspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Trabzonspor +2.5 24% · Eyupspor +2.5 48%  
+Faltas 12.6 - 11.6: total +26.5 33% · Trabzonspor +13.5 39% · Eyupspor +13.5 29%  
+Tiros a puerta 7.9 - 3.0: total +9.5 64% · Trabzonspor +5.5 77% · Eyupspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 13.5 faltas de Eyupspor + Más de 2.5 goles → prob. 20%, cuota justa 5.04  
+
+## Trabzonspor vs Eyupspor — 22/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Eyupspor** @ **3.00** (Unibet) · prob 34% vs casas 31% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.37 - 0.70)  
+1 81% · X 14% · 2 6%  
+1X 94% · X2 19% · 12 86%  
++1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 46%  
+Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Trabzonspor ✅✅✅✅✅ | Eyupspor ❌❌❌❌❌  
+• H2H: 4 desde 2024: 3V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
+• Bajas: Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda  
+• Favorito de las casas: Trabzonspor @ 1.17  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +9.5 58% · Trabzonspor +5.5 66% · Eyupspor +4.5 22%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Trabzonspor +2.5 24% · Eyupspor +2.5 48%  
+Faltas 12.6 - 11.6: total +26.5 33% · Trabzonspor +13.5 39% · Eyupspor +13.5 29%  
+Tiros a puerta 7.9 - 3.0: total +9.5 64% · Trabzonspor +5.5 77% · Eyupspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eyupspor + Menos de 4.5 córners de Eyupspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 13.5 faltas de Eyupspor + Más de 2.5 goles → prob. 20%, cuota justa 5.04  
+
+## Trabzonspor vs Eyupspor — 22/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Eyupspor** @ **1.32** (Unibet) · prob 66% vs casas 69% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 2.37 - 0.70)  
 1 81% · X 14% · 2 6%  
