@@ -1,31 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 11:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Genclerbirligi vs Gaziantep — 21/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Genclerbirligi +0 (hándicap asiático)** @ **1.73** (mejor del mercado) · prob 56% vs casas 55% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Genclerbirligi ➖❌❌✅❌ | Gaziantep ❌❌❌❌❌  
-• H2H: 6 desde 2019: 2V-1E-3D · 2.8 goles/partido · +2.5 en 67%  
-• Bajas: Genclerbirligi: 2 fuera, 2 duda (Dimitrios Goutas, Kevin Rodrigues); Gaziantep: 0 fuera, 1 duda  
-• Favorito de las casas: Genclerbirligi @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Genclerbirligi +5.5 45% · Gaziantep +4.5 42%  
-Tarjetas 2.1 - 2.6: total +4.5 50% · Genclerbirligi +2.5 36% · Gaziantep +2.5 48%  
-Faltas 14.9 - 12.9: total +26.5 58% · Genclerbirligi +13.5 62% · Gaziantep +13.5 42%  
-Tiros a puerta 5.1 - 3.9: total +9.5 42% · Genclerbirligi +5.5 41% · Gaziantep +4.5 36%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Gaziantep + Menos de 2.5 tarjetas de Genclerbirligi + Más de 13.5 faltas de Genclerbirligi → prob. 24%, cuota justa 4.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Gaziantep + Menos de 2.5 tarjetas de Genclerbirligi + Más de 13.5 faltas de Genclerbirligi + Más de 2.5 goles + Menos de 4.5 córners de Gaziantep → prob. 8%, cuota justa 12.51  
+Actualizado 21/11/2026 11:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Hannover vs Greuther Furth — 21/11 · 13:00
 
@@ -13114,6 +13089,156 @@ Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.45)  
+1 27% · X 29% · 2 44%  
+1X 56% · X2 73% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Erzurumspor ➖✅✅❌❌ | Goztep ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda  
+• Favorito de las casas: Goztep @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 42% · Erzurumspor +5.5 37% · Goztep +4.5 39%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Erzurumspor +2.5 36% · Goztep +2.5 43%  
+Faltas 11.2 - 14.9: total +26.5 45% · Erzurumspor +13.5 25% · Goztep +13.5 61%  
+Tiros a puerta 4.5 - 4.0: total +9.5 35% · Erzurumspor +5.5 30% · Goztep +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor → prob. 23%, cuota justa 4.29  
+
+## Erzurumspor vs Goztep — 22/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Erzurumspor** @ **3.00** (Unibet) · prob 34% vs casas 31% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.45)  
+1 27% · X 29% · 2 44%  
+1X 56% · X2 73% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Erzurumspor ➖✅✅❌❌ | Goztep ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda  
+• Favorito de las casas: Goztep @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 42% · Erzurumspor +5.5 37% · Goztep +4.5 39%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Erzurumspor +2.5 36% · Goztep +2.5 43%  
+Faltas 11.2 - 14.9: total +26.5 45% · Erzurumspor +13.5 25% · Goztep +13.5 61%  
+Tiros a puerta 4.5 - 4.0: total +9.5 35% · Erzurumspor +5.5 30% · Goztep +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor → prob. 23%, cuota justa 4.29  
+
+## Erzurumspor vs Goztep — 22/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Erzurumspor** @ **1.32** (Unibet) · prob 66% vs casas 69% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.45)  
+1 27% · X 29% · 2 44%  
+1X 56% · X2 73% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Erzurumspor ➖✅✅❌❌ | Goztep ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda  
+• Favorito de las casas: Goztep @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 42% · Erzurumspor +5.5 37% · Goztep +4.5 39%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Erzurumspor +2.5 36% · Goztep +2.5 43%  
+Faltas 11.2 - 14.9: total +26.5 45% · Erzurumspor +13.5 25% · Goztep +13.5 61%  
+Tiros a puerta 4.5 - 4.0: total +9.5 35% · Erzurumspor +5.5 30% · Goztep +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor → prob. 23%, cuota justa 4.29  
+
+## Erzurumspor vs Goztep — 22/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Goztep** @ **1.56** (Unibet) · prob 57% vs casas 59% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.45)  
+1 27% · X 29% · 2 44%  
+1X 56% · X2 73% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Erzurumspor ➖✅✅❌❌ | Goztep ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda  
+• Favorito de las casas: Goztep @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 42% · Erzurumspor +5.5 37% · Goztep +4.5 39%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Erzurumspor +2.5 36% · Goztep +2.5 43%  
+Faltas 11.2 - 14.9: total +26.5 45% · Erzurumspor +13.5 25% · Goztep +13.5 61%  
+Tiros a puerta 4.5 - 4.0: total +9.5 35% · Erzurumspor +5.5 30% · Goztep +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor → prob. 23%, cuota justa 4.29  
+
+## Erzurumspor vs Goztep — 22/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Goztep** @ **1.34** (Unibet) · prob 71% vs casas 68% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.45)  
+1 27% · X 29% · 2 44%  
+1X 56% · X2 73% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Erzurumspor ➖✅✅❌❌ | Goztep ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda  
+• Favorito de las casas: Goztep @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 42% · Erzurumspor +5.5 37% · Goztep +4.5 39%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Erzurumspor +2.5 36% · Goztep +2.5 43%  
+Faltas 11.2 - 14.9: total +26.5 45% · Erzurumspor +13.5 25% · Goztep +13.5 61%  
+Tiros a puerta 4.5 - 4.0: total +9.5 35% · Erzurumspor +5.5 30% · Goztep +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor → prob. 23%, cuota justa 4.29  
+
+## Erzurumspor vs Goztep — 22/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.50** (Unibet) · prob 64% vs casas 61% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.45)  
+1 27% · X 29% · 2 44%  
+1X 56% · X2 73% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Erzurumspor ➖✅✅❌❌ | Goztep ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda  
+• Favorito de las casas: Goztep @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 42% · Erzurumspor +5.5 37% · Goztep +4.5 39%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Erzurumspor +2.5 36% · Goztep +2.5 43%  
+Faltas 11.2 - 14.9: total +26.5 45% · Erzurumspor +13.5 25% · Goztep +13.5 61%  
+Tiros a puerta 4.5 - 4.0: total +9.5 35% · Erzurumspor +5.5 30% · Goztep +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor → prob. 23%, cuota justa 4.29  
+
+## Erzurumspor vs Goztep — 22/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.28 - 1.45)  
 1 27% · X 29% · 2 44%  
