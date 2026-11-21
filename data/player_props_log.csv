@@ -16460,7 +16460,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Genk vs RAAL La Louviere,Mustapha Ubandoma,Player's shots on target,0.5,1.58,0.6329,0.4909,1,1.0,1
 2026-11-21,Genk vs RAAL La Louviere,Ismaila Coulibaly,Player's shots on target,0.5,2.2,0.4545,0.2249,1,0.0,0
 2026-11-21,Genk vs RAAL La Louviere,Aaron Bibout,To score at least 2 goals,1.5,8.0,0.125,0.0023,0,0.0,0
-2026-11-21,Schalke 04 vs Stuttgart,Moussa Sylla,To Get a Card,0.5,4.0,0.25,0.0219,0,0.0,0
+2026-11-21,Schalke 04 vs Stuttgart,Moussa Sylla,To Get a Card,0.5,4.0,0.25,0.022,0,0.0,0
 2026-11-21,Schalke 04 vs Stuttgart,Robin Gosens,To Score,0.5,5.8,0.1724,0.0334,0,0.0,0
 2026-11-21,Schalke 04 vs Stuttgart,Moussa Sylla,To give an assist,0.5,5.75,0.1739,0.0125,0,0.0,0
 2026-11-21,Schalke 04 vs Stuttgart,Ermedin Demirovic,Player's shots on target,0.5,1.35,0.7407,0.6277,1,0.0,0
@@ -16746,6 +16746,172 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Newcastle vs Arsenal,Jacob Murphy,Player's shots on target,0.5,2.6,0.3846,0.2824,1,0.0,0
 2026-11-21,Newcastle vs Arsenal,William Osula,Player's shots on target,0.5,1.79,0.5587,0.4245,1,0.0,0
 2026-11-21,Newcastle vs Arsenal,William Osula,Player's shots on target,1.5,4.7,0.2128,0.1065,1,0.0,0
+2026-11-21,Sevilla vs Betis,Peque,To Get a Card,0.5,3.2,0.3125,0.0445,0,0.0,0
+2026-11-21,Sevilla vs Betis,Valentín Gómez,To Score,0.5,11.0,0.0909,0.0286,0,0.0,0
+2026-11-21,Sevilla vs Betis,Youssouf Fofana,To Score,0.5,6.25,0.16,0.0844,1,0.0,0
+2026-11-21,Sevilla vs Betis,Gabriel Suazo,To give an assist,0.5,6.25,0.16,0.0341,1,0.0,0
+2026-11-21,Sevilla vs Betis,Valentín Gómez,To Get a Card,0.5,2.7,0.3704,0.0436,0,0.0,0
+2026-11-21,Sevilla vs Betis,Andres Castrin,To Get a Card,0.5,2.25,0.4444,0.1776,1,1.0,1
+2026-11-21,Sevilla vs Betis,Juan Iglesias,To Get a Card,0.5,2.9,0.3448,0.1629,1,1.0,1
+2026-11-21,Sevilla vs Betis,Rodrigo Riquelme,To give an assist,0.5,5.75,0.1739,0.0174,0,0.0,0
+2026-11-21,Sevilla vs Betis,Robbie Ure,To Get a Card,0.5,2.55,0.3922,0.0214,0,1.0,1
+2026-11-21,Sevilla vs Betis,Lucas Stassin,To score at least 3 goals,2.5,61.0,0.0164,0.0027,1,0.0,0
+2026-11-21,Sevilla vs Betis,Julio Diaz,To Get a Card,0.5,2.3,0.4348,0.0309,0,0.0,0
+2026-11-21,Sevilla vs Betis,Pablo Fornals,To Get a Card,0.5,2.9,0.3448,0.0818,1,1.0,1
+2026-11-21,Sevilla vs Betis,Marc Roca,To Score,0.5,10.5,0.0952,0.0592,1,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,To give an assist,0.5,4.3,0.2326,0.0265,0,0.0,0
+2026-11-21,Sevilla vs Betis,Félix Correia,To Get a Card,0.5,3.3,0.303,0.1492,1,0.0,0
+2026-11-21,Sevilla vs Betis,Isaac Romero,Player's shots on target,1.5,3.6,0.2778,0.0068,0,0.0,0
+2026-11-21,Sevilla vs Betis,Abde Ezzalzouli,To give an assist,0.5,4.4,0.2273,0.1349,1,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,Player's shots on target,2.5,6.0,0.1667,0.0009,0,0.0,0
+2026-11-21,Sevilla vs Betis,Cucho Hernández,Player's shots on target,1.5,3.05,0.3279,0.0188,0,0.0,0
+2026-11-21,Sevilla vs Betis,Isco,To give an assist,0.5,4.7,0.2128,0.1641,1,1.0,1
+2026-11-21,Sevilla vs Betis,Álvaro Fidalgo,To give an assist,0.5,5.5,0.1818,0.0119,0,0.0,0
+2026-11-21,Sevilla vs Betis,Félix Correia,To Score,0.5,4.2,0.2381,0.1296,1,0.0,0
+2026-11-21,Sevilla vs Betis,Rubén Vargas,To Score,0.5,4.4,0.2273,0.0965,1,0.0,0
+2026-11-21,Sevilla vs Betis,Rubén Vargas,To give an assist,0.5,4.1,0.2439,0.1263,1,0.0,0
+2026-11-21,Sevilla vs Betis,Chidera Ejuke,Player's shots on target,0.5,1.89,0.5291,0.1048,0,0.0,0
+2026-11-21,Sevilla vs Betis,Cucho Hernández,To score at least 2 goals,1.5,13.0,0.0769,0.0027,0,0.0,0
+2026-11-21,Sevilla vs Betis,Isaac Romero,Player's shots on target,0.5,1.55,0.6452,0.1141,0,0.0,0
+2026-11-21,Sevilla vs Betis,Cucho Hernández,To Score,0.5,3.1,0.3226,0.0725,0,0.0,0
+2026-11-21,Sevilla vs Betis,Isaac Romero,To give an assist,0.5,6.0,0.1667,0.0156,0,1.0,1
+2026-11-21,Sevilla vs Betis,Giorgi Kochorashvili,To Score,0.5,7.0,0.1429,0.0245,0,0.0,0
+2026-11-21,Sevilla vs Betis,Aitor Ruibal,To Get a Card,0.5,2.55,0.3922,0.1881,1,0.0,0
+2026-11-21,Sevilla vs Betis,Giovani Lo Celso,To Score,0.5,4.5,0.2222,0.032,0,0.0,0
+2026-11-21,Sevilla vs Betis,Isaac Romero,To Score,0.5,3.7,0.2703,0.0514,0,0.0,0
+2026-11-21,Sevilla vs Betis,Peque,Player's shots on target,0.5,1.93,0.5181,0.0976,0,0.0,0
+2026-11-21,Sevilla vs Betis,Júnior Firpo,To Get a Card,0.5,2.7,0.3704,0.0385,0,1.0,1
+2026-11-21,Sevilla vs Betis,Giovani Lo Celso,To Get a Card,0.5,2.65,0.3774,0.0302,0,0.0,0
+2026-11-21,Sevilla vs Betis,Rodrigo Riquelme,Player's shots on target,0.5,2.0,0.5,0.1238,0,0.0,0
+2026-11-21,Sevilla vs Betis,Héctor Bellerín,To Get a Card,0.5,3.2,0.3125,0.1318,1,1.0,1
+2026-11-21,Sevilla vs Betis,Álvaro Fidalgo,Player's shots on target,0.5,2.95,0.339,0.0776,0,0.0,0
+2026-11-21,Sevilla vs Betis,Aitor Ruibal,To score at least 2 goals,1.5,41.0,0.0244,0.0135,1,0.0,0
+2026-11-21,Sevilla vs Betis,Juan Iglesias,Player's shots on target,0.5,4.5,0.2222,0.2137,1,0.0,0
+2026-11-21,Sevilla vs Betis,Peque,Player's shots on target,1.5,5.3,0.1887,0.0049,0,0.0,0
+2026-11-21,Sevilla vs Betis,Youssouf Fofana,Player's shots on target,1.5,6.5,0.1538,0.0914,1,0.0,0
+2026-11-21,Sevilla vs Betis,Andres Castrin,Player's shots on target,0.5,4.6,0.2174,0.1289,1,1.0,1
+2026-11-21,Sevilla vs Betis,Robbie Ure,Player's shots on target,2.5,5.6,0.1786,0.0011,0,0.0,0
+2026-11-21,Sevilla vs Betis,Valentín Gómez,Player's shots on target,0.5,4.5,0.2222,0.072,0,0.0,0
+2026-11-21,Sevilla vs Betis,Chidera Ejuke,Player's shots on target,1.5,5.0,0.2,0.0057,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucien Agoumé,Player's shots on target,0.5,4.2,0.2381,0.1635,1,0.0,0
+2026-11-21,Sevilla vs Betis,Robbie Ure,To score at least 3 goals,2.5,61.0,0.0164,0.0001,0,0.0,0
+2026-11-21,Sevilla vs Betis,Angel Ortiz,To give an assist,0.5,9.0,0.1111,0.01,0,0.0,0
+2026-11-21,Sevilla vs Betis,Júnior Firpo,Player's shots on target,0.5,4.6,0.2174,0.0632,0,0.0,0
+2026-11-21,Sevilla vs Betis,Arouna Sangante,To give an assist,0.5,15.0,0.0667,0.0105,0,0.0,0
+2026-11-21,Sevilla vs Betis,Youssouf Fofana,To give an assist,0.5,8.5,0.1176,0.1511,1,0.0,0
+2026-11-21,Sevilla vs Betis,Juan Iglesias,To give an assist,0.5,10.5,0.0952,0.0314,1,0.0,0
+2026-11-21,Sevilla vs Betis,Marc Bartra,To give an assist,0.5,12.0,0.0833,0.0197,1,0.0,0
+2026-11-21,Sevilla vs Betis,Andres Castrin,To give an assist,0.5,16.0,0.0625,0.0189,1,0.0,0
+2026-11-21,Sevilla vs Betis,Lucien Agoumé,To give an assist,0.5,8.5,0.1176,0.0665,1,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,To score at least 2 goals,1.5,10.5,0.0952,0.002,0,0.0,0
+2026-11-21,Sevilla vs Betis,Fran García,To give an assist,0.5,9.5,0.1053,0.0765,1,0.0,0
+2026-11-21,Sevilla vs Betis,Abde Ezzalzouli,Player's shots on target,1.5,3.3,0.303,0.1782,1,0.0,0
+2026-11-21,Sevilla vs Betis,Valentín Gómez,To give an assist,0.5,14.0,0.0714,0.0088,0,0.0,0
+2026-11-21,Sevilla vs Betis,Giorgi Kochorashvili,To give an assist,0.5,8.5,0.1176,0.0246,0,0.0,0
+2026-11-21,Sevilla vs Betis,Arouna Sangante,Player's shots on target,0.5,4.6,0.2174,0.0615,0,0.0,0
+2026-11-21,Sevilla vs Betis,Angel Ortiz,Player's shots on target,0.5,4.5,0.2222,0.0798,0,0.0,0
+2026-11-21,Sevilla vs Betis,Marc Bartra,Player's shots on target,0.5,3.7,0.2703,0.3139,1,0.0,0
+2026-11-21,Sevilla vs Betis,Héctor Bellerín,Player's shots on target,0.5,4.2,0.2381,0.1529,1,0.0,0
+2026-11-21,Sevilla vs Betis,Marc Roca,Player's shots on target,0.5,4.4,0.2273,0.2483,1,0.0,0
+2026-11-21,Sevilla vs Betis,Julio Diaz,To give an assist,0.5,9.5,0.1053,0.0161,0,0.0,0
+2026-11-21,Sevilla vs Betis,Diego Llorente,To give an assist,0.5,14.0,0.0714,0.0079,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,Player's shots on target,2.5,6.25,0.16,0.0437,1,1.0,0
+2026-11-21,Sevilla vs Betis,Marc Roca,To give an assist,0.5,9.5,0.1053,0.0688,1,0.0,0
+2026-11-21,Sevilla vs Betis,Héctor Bellerín,To give an assist,0.5,7.5,0.1333,0.0659,1,0.0,0
+2026-11-21,Sevilla vs Betis,Isco,Player's shots on target,1.5,4.0,0.25,0.1657,1,0.0,0
+2026-11-21,Sevilla vs Betis,Julio Diaz,To score at least 2 goals,1.5,91.0,0.011,0.0003,0,0.0,0
+2026-11-21,Sevilla vs Betis,Cucho Hernández,Player's shots on target,2.5,7.0,0.1429,0.0013,0,0.0,0
+2026-11-21,Sevilla vs Betis,Gabriel Suazo,Player's shots on target,0.5,4.4,0.2273,0.0997,1,1.0,1
+2026-11-21,Sevilla vs Betis,Fran García,Player's shots on target,0.5,4.7,0.2128,0.1344,1,0.0,0
+2026-11-21,Sevilla vs Betis,Félix Correia,Player's shots on target,1.5,4.7,0.2128,0.0517,1,0.0,0
+2026-11-21,Sevilla vs Betis,Álvaro Fidalgo,To score at least 2 goals,1.5,56.0,0.0179,0.0004,0,0.0,0
+2026-11-21,Sevilla vs Betis,Diego Llorente,Player's shots on target,0.5,4.5,0.2222,0.0611,0,0.0,0
+2026-11-21,Sevilla vs Betis,Rubén Vargas,Player's shots on target,1.5,4.6,0.2174,0.0527,1,2.0,1
+2026-11-21,Sevilla vs Betis,Abde Ezzalzouli,To Score,0.5,3.3,0.303,0.2259,1,0.0,0
+2026-11-21,Sevilla vs Betis,Rodrigo Riquelme,To Score,0.5,4.4,0.2273,0.0501,0,0.0,0
+2026-11-21,Sevilla vs Betis,Gabriel Suazo,To Score,0.5,11.5,0.087,0.0143,1,0.0,0
+2026-11-21,Sevilla vs Betis,Lucien Agoumé,To Score,0.5,11.5,0.087,0.0434,1,0.0,0
+2026-11-21,Sevilla vs Betis,Álvaro Fidalgo,To Get a Card,0.5,3.1,0.3226,0.0201,0,0.0,0
+2026-11-21,Sevilla vs Betis,Chidera Ejuke,To give an assist,0.5,4.8,0.2083,0.0122,0,0.0,0
+2026-11-21,Sevilla vs Betis,Angel Ortiz,To Get a Card,0.5,2.8,0.3571,0.0456,0,0.0,0
+2026-11-21,Sevilla vs Betis,Giorgi Kochorashvili,To score at least 2 goals,1.5,67.0,0.0149,0.0003,0,0.0,0
+2026-11-21,Sevilla vs Betis,Marc Bartra,To Get a Card,0.5,2.8,0.3571,0.1071,1,0.0,0
+2026-11-21,Sevilla vs Betis,Félix Correia,Player's shots on target,0.5,1.82,0.5495,0.3039,1,0.0,0
+2026-11-21,Sevilla vs Betis,Aitor Ruibal,To give an assist,0.5,6.25,0.16,0.0854,1,0.0,0
+2026-11-21,Sevilla vs Betis,Youssouf Fofana,To score at least 2 goals,1.5,51.0,0.0196,0.0037,1,0.0,0
+2026-11-21,Sevilla vs Betis,Giovani Lo Celso,Player's shots on target,0.5,2.02,0.495,0.1009,0,0.0,0
+2026-11-21,Sevilla vs Betis,Cucho Hernández,To give an assist,0.5,4.5,0.2222,0.0262,0,0.0,0
+2026-11-21,Sevilla vs Betis,Diego Llorente,To Get a Card,0.5,2.7,0.3704,0.0539,0,0.0,0
+2026-11-21,Sevilla vs Betis,Youssouf Fofana,Player's shots on target,0.5,2.15,0.4651,0.3958,1,0.0,0
+2026-11-21,Sevilla vs Betis,Chidera Ejuke,To Get a Card,0.5,3.2,0.3125,0.0269,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucien Agoumé,To Get a Card,0.5,2.35,0.4255,0.2049,1,1.0,1
+2026-11-21,Sevilla vs Betis,Fran García,To Score,0.5,11.0,0.0909,0.0222,1,0.0,0
+2026-11-21,Sevilla vs Betis,Giorgi Kochorashvili,Player's shots on target,0.5,2.8,0.3571,0.0769,0,0.0,0
+2026-11-21,Sevilla vs Betis,Pablo Fornals,To Score,0.5,5.1,0.1961,0.128,1,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,To Score,0.5,3.05,0.3279,0.2369,1,0.0,0
+2026-11-21,Sevilla vs Betis,Chidera Ejuke,To Score,0.5,4.5,0.2222,0.0329,0,0.0,0
+2026-11-21,Sevilla vs Betis,Robbie Ure,Player's shots on target,0.5,1.29,0.7752,0.1774,0,0.0,0
+2026-11-21,Sevilla vs Betis,Rodrigo Riquelme,To Get a Card,0.5,2.9,0.3448,0.0334,0,0.0,0
+2026-11-21,Sevilla vs Betis,Júnior Firpo,To give an assist,0.5,7.5,0.1333,0.0186,0,0.0,0
+2026-11-21,Sevilla vs Betis,Robbie Ure,Player's shots on target,1.5,2.65,0.3774,0.0168,0,0.0,0
+2026-11-21,Sevilla vs Betis,Isaac Romero,To Get a Card,0.5,2.8,0.3571,0.0733,0,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,To Get a Card,0.5,2.9,0.3448,0.0193,0,0.0,0
+2026-11-21,Sevilla vs Betis,Abde Ezzalzouli,To score at least 2 goals,1.5,15.0,0.0667,0.0277,1,0.0,0
+2026-11-21,Sevilla vs Betis,Robbie Ure,To score at least 2 goals,1.5,14.0,0.0714,0.0041,0,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,To score at least 3 goals,2.5,51.0,0.0196,0.0,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,To score at least 2 goals,1.5,13.0,0.0769,0.0306,1,0.0,0
+2026-11-21,Sevilla vs Betis,Robbie Ure,To Score,0.5,3.1,0.3226,0.0889,0,0.0,0
+2026-11-21,Sevilla vs Betis,Peque,To Score,0.5,4.6,0.2174,0.0343,0,0.0,0
+2026-11-21,Sevilla vs Betis,Aitor Ruibal,To Score,0.5,5.2,0.1923,0.1599,1,0.0,0
+2026-11-21,Sevilla vs Betis,Giovani Lo Celso,To give an assist,0.5,4.9,0.2041,0.0291,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,Player's shots on target,1.5,2.8,0.3571,0.1818,1,1.0,0
+2026-11-21,Sevilla vs Betis,Giorgi Kochorashvili,To Get a Card,0.5,2.25,0.4444,0.0315,0,0.0,0
+2026-11-21,Sevilla vs Betis,Félix Correia,To give an assist,0.5,4.7,0.2128,0.118,1,0.0,0
+2026-11-21,Sevilla vs Betis,Isaac Romero,To score at least 2 goals,1.5,20.0,0.05,0.0013,0,0.0,0
+2026-11-21,Sevilla vs Betis,Giovani Lo Celso,To score at least 2 goals,1.5,31.0,0.0323,0.0005,0,0.0,0
+2026-11-21,Sevilla vs Betis,Marc Roca,To Get a Card,0.5,2.7,0.3704,0.1497,1,0.0,0
+2026-11-21,Sevilla vs Betis,Peque,To score at least 2 goals,1.5,34.0,0.0294,0.0006,0,0.0,0
+2026-11-21,Sevilla vs Betis,Julio Diaz,To Score,0.5,9.0,0.1111,0.0259,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,To give an assist,0.5,6.0,0.1667,0.169,1,0.0,0
+2026-11-21,Sevilla vs Betis,Abde Ezzalzouli,To Get a Card,0.5,3.2,0.3125,0.1102,1,0.0,0
+2026-11-21,Sevilla vs Betis,Aitor Ruibal,Player's shots on target,0.5,2.38,0.4202,0.3902,1,0.0,0
+2026-11-21,Sevilla vs Betis,Félix Correia,To score at least 2 goals,1.5,26.0,0.0385,0.0088,1,0.0,0
+2026-11-21,Sevilla vs Betis,Marc Bartra,To Score,0.5,11.0,0.0909,0.1466,1,0.0,0
+2026-11-21,Sevilla vs Betis,Abde Ezzalzouli,Player's shots on target,0.5,1.46,0.6849,0.534,1,0.0,0
+2026-11-21,Sevilla vs Betis,Pablo Fornals,To give an assist,0.5,5.5,0.1818,0.1172,1,0.0,0
+2026-11-21,Sevilla vs Betis,Isco,Player's shots on target,0.5,1.64,0.6098,0.5172,1,0.0,0
+2026-11-21,Sevilla vs Betis,Gabriel Suazo,To Get a Card,0.5,2.45,0.4082,0.1802,1,0.0,0
+2026-11-21,Sevilla vs Betis,Cucho Hernández,Player's shots on target,0.5,1.4,0.7143,0.1875,0,0.0,0
+2026-11-21,Sevilla vs Betis,Héctor Bellerín,To Score,0.5,10.0,0.1,0.0371,1,0.0,0
+2026-11-21,Sevilla vs Betis,Pablo Fornals,To score at least 2 goals,1.5,36.0,0.0278,0.0086,1,0.0,0
+2026-11-21,Sevilla vs Betis,Júnior Firpo,To Score,0.5,11.0,0.0909,0.0229,0,0.0,0
+2026-11-21,Sevilla vs Betis,Peque,To give an assist,0.5,6.5,0.1538,0.0135,0,0.0,0
+2026-11-21,Sevilla vs Betis,Diego Llorente,To Score,0.5,11.0,0.0909,0.0201,0,0.0,0
+2026-11-21,Sevilla vs Betis,Fran García,To Get a Card,0.5,3.0,0.3333,0.1012,1,0.0,0
+2026-11-21,Sevilla vs Betis,Andres Castrin,To Score,0.5,12.0,0.0833,0.0366,1,0.0,0
+2026-11-21,Sevilla vs Betis,Isco,To Get a Card,0.5,2.5,0.4,0.1373,1,0.0,0
+2026-11-21,Sevilla vs Betis,Rodrigo Riquelme,To score at least 2 goals,1.5,30.0,0.0333,0.0013,0,0.0,0
+2026-11-21,Sevilla vs Betis,Pablo Fornals,Player's shots on target,0.5,2.28,0.4386,0.3451,1,1.0,1
+2026-11-21,Sevilla vs Betis,Isco,To Score,0.5,4.0,0.25,0.2181,1,0.0,0
+2026-11-21,Sevilla vs Betis,Youssouf Fofana,To Get a Card,0.5,2.25,0.4444,0.0865,1,0.0,0
+2026-11-21,Sevilla vs Betis,Julio Diaz,Player's shots on target,0.5,3.6,0.2778,0.0726,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,To Get a Card,0.5,3.0,0.3333,0.0745,1,0.0,0
+2026-11-21,Sevilla vs Betis,Rubén Vargas,To Get a Card,0.5,2.7,0.3704,0.1098,1,0.0,0
+2026-11-21,Sevilla vs Betis,Rubén Vargas,To score at least 2 goals,1.5,30.0,0.0333,0.0048,1,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,To Score,0.5,2.8,0.3571,0.0629,0,0.0,0
+2026-11-21,Sevilla vs Betis,Arouna Sangante,To Get a Card,0.5,2.5,0.4,0.0585,0,0.0,0
+2026-11-21,Sevilla vs Betis,Lucas Stassin,Player's shots on target,0.5,1.34,0.7463,0.5387,1,1.0,1
+2026-11-21,Sevilla vs Betis,Robbie Ure,To give an assist,0.5,5.2,0.1923,0.0304,0,0.0,0
+2026-11-21,Sevilla vs Betis,Angel Ortiz,To Score,0.5,10.5,0.0952,0.021,0,0.0,0
+2026-11-21,Sevilla vs Betis,Juan Iglesias,To Score,0.5,11.5,0.087,0.0384,1,0.0,0
+2026-11-21,Sevilla vs Betis,Álvaro Fidalgo,To Score,0.5,6.75,0.1481,0.0275,0,0.0,0
+2026-11-21,Sevilla vs Betis,Isco,To score at least 2 goals,1.5,21.0,0.0476,0.0257,1,0.0,0
+2026-11-21,Sevilla vs Betis,Chidera Ejuke,To score at least 2 goals,1.5,30.0,0.0333,0.0005,0,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,Player's shots on target,0.5,1.32,0.7576,0.1665,0,0.0,0
+2026-11-21,Sevilla vs Betis,Rubén Vargas,Player's shots on target,0.5,1.78,0.5618,0.3066,1,2.0,1
+2026-11-21,Sevilla vs Betis,Cucho Hernández,To score at least 3 goals,2.5,71.0,0.0141,0.0001,0,0.0,0
+2026-11-21,Sevilla vs Betis,Arouna Sangante,To Score,0.5,12.0,0.0833,0.0205,0,0.0,0
+2026-11-21,Sevilla vs Betis,Troy Parrott,Player's shots on target,1.5,2.75,0.3636,0.0147,0,0.0,0
 2026-11-21,Castellon vs Eldense,Jérémy Mellot,To Score,0.5,6.1,0.1639,0.0139,1,0.0,0
 2026-11-21,Castellon vs Eldense,Mariano Carmona,To score at least 2 goals,1.5,18.0,0.0556,0.0264,1,0.0,0
 2026-11-21,Castellon vs Eldense,David Ruiz Montero,To Score,0.5,9.5,0.1053,0.0236,1,0.0,0
@@ -16774,8 +16940,188 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Castellon vs Eldense,Justin Smith,To Score,0.5,7.0,0.1429,0.0671,1,0.0,0
 2026-11-21,Castellon vs Eldense,Mariano Carmona,To Score,0.5,3.45,0.2899,0.2209,1,0.0,0
 2026-11-21,Feyenoord vs Excelsior,Javi López,To score at least 2 goals,1.5,46.0,0.0217,0.0003,0,0.0,0
-2026-11-21,Feyenoord vs Excelsior,Javi López,To give an assist,0.5,5.4,0.1852,0.0117,0,0.0,0
-2026-11-21,Feyenoord vs Excelsior,Javi López,Player's shots on target,0.5,2.9,0.3448,0.1053,0,0.0,0
-2026-11-21,Feyenoord vs Excelsior,Javi López,To Score,0.5,5.6,0.1786,0.0261,0,0.0,0
-2026-11-21,Feyenoord vs Excelsior,Javi López,To Get a Card,0.5,6.5,0.1538,0.0335,0,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Daniel van Vianen,To Score,0.5,10.0,0.1,0.0267,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Thijs Kraaijeveld,To Score,0.5,4.9,0.2041,0.0207,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Givairo Read,Player's shots on target,1.5,7.5,0.1333,0.0198,1,1.0,0
+2026-11-21,Feyenoord vs Excelsior,Mika Mármol,To score at least 2 goals,1.5,41.0,0.0244,0.0003,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Charles Vanhoutte,Player's shots on target,0.5,2.4,0.4167,0.1554,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,Player's shots on target,2.5,3.2,0.3125,0.0196,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Javi López,To give an assist,0.5,5.4,0.1852,0.0108,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mika Mármol,To Score,0.5,5.75,0.1739,0.0223,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Irakli Yegoian,To Get a Card,0.5,4.2,0.2381,0.1307,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Charles Vanhoutte,To Get a Card,0.5,5.75,0.1739,0.2074,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,To score at least 3 goals,2.5,34.0,0.0294,0.0005,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Irakli Yegoian,To score at least 2 goals,1.5,35.0,0.0286,0.0111,1,1.0,0
+2026-11-21,Feyenoord vs Excelsior,Givairo Read,To score at least 2 goals,1.5,46.0,0.0217,0.0011,1,1.0,0
+2026-11-21,Feyenoord vs Excelsior,Givairo Read,To Score,0.5,5.75,0.1739,0.0455,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Kasey Bos,To Get a Card,0.5,3.5,0.2857,0.117,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Valentin Sulzbacher,To Score,0.5,7.0,0.1429,0.0372,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Aymen Sliti,To give an assist,0.5,6.75,0.1481,0.0819,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,Player's shots on target,0.5,1.35,0.7407,0.4035,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mario Domínguez,To Score,0.5,4.2,0.2381,0.1127,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Givairo Read,Player's shots on target,0.5,2.35,0.4255,0.1925,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Tsuyoshi Watanabe,To Score,0.5,6.0,0.1667,0.0458,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,To Score,0.5,2.45,0.4082,0.1425,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,To Score,0.5,1.83,0.5464,0.1921,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Charles Vanhoutte,To give an assist,0.5,4.6,0.2174,0.0748,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Eric da Silva Moreira,To Get a Card,0.5,3.7,0.2703,0.0196,0,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Thijs Kraaijeveld,Player's shots on target,1.5,9.0,0.1111,0.006,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,Player's shots on target,3.5,6.5,0.1538,0.0027,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Tsuyoshi Watanabe,To give an assist,0.5,8.0,0.125,0.0174,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Rick Meissen,Player's shots on target,0.5,6.5,0.1538,0.1325,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Thijs Kraaijeveld,To give an assist,0.5,8.0,0.125,0.0226,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Kasey Bos,Player's shots on target,0.5,5.5,0.1818,0.0894,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Irakli Yegoian,Player's shots on target,1.5,6.1,0.1639,0.0813,1,1.0,0
+2026-11-21,Feyenoord vs Excelsior,Mario Domínguez,To give an assist,0.5,8.0,0.125,0.0518,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Jan Plug,Player's shots on target,0.5,6.5,0.1538,0.1449,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Noah Naujoks,Player's shots on target,1.5,6.0,0.1667,0.1122,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Casper Widell,Player's shots on target,0.5,6.5,0.1538,0.1077,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Valentin Sulzbacher,To give an assist,0.5,7.5,0.1333,0.0121,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Noah Naujoks,To give an assist,0.5,8.0,0.125,0.0578,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Charles Vanhoutte,To score at least 2 goals,1.5,30.0,0.0333,0.0012,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,Player's shots on target,2.5,5.3,0.1887,0.0157,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Charles Vanhoutte,Player's shots on target,1.5,8.0,0.125,0.0128,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Simon Janssen,To give an assist,0.5,9.5,0.1053,0.0326,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mika Mármol,To give an assist,0.5,3.9,0.2564,0.0475,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Ilano Silva Timas,To Get a Card,0.5,4.0,0.25,0.0247,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Rick Meissen,To Get a Card,0.5,3.3,0.303,0.1157,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mika Mármol,Player's shots on target,0.5,2.9,0.3448,0.0608,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mika Mármol,To Get a Card,0.5,5.3,0.1887,0.1363,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,Player's shots on target,1.5,2.45,0.4082,0.0953,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mario Domínguez,To Get a Card,0.5,4.0,0.25,0.1677,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Javi López,Player's shots on target,0.5,2.9,0.3448,0.059,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Irakli Yegoian,Player's shots on target,0.5,2.1,0.4762,0.3751,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Tsuyoshi Watanabe,Player's shots on target,0.5,2.9,0.3448,0.2173,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Casper Widell,To Get a Card,0.5,4.9,0.2041,0.0788,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Aymen Sliti,Player's shots on target,1.5,8.0,0.125,0.0679,1,1.0,0
+2026-11-21,Feyenoord vs Excelsior,Givairo Read,To Get a Card,0.5,6.25,0.16,0.1291,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mario Domínguez,To score at least 2 goals,1.5,26.0,0.0385,0.0066,1,1.0,0
+2026-11-21,Feyenoord vs Excelsior,Daniel van Vianen,Player's shots on target,0.5,4.2,0.2381,0.0858,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Casper Widell,To Score,0.5,16.0,0.0625,0.0483,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,To score at least 3 goals,2.5,15.0,0.0667,0.0014,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Eric da Silva Moreira,Player's shots on target,0.5,4.7,0.2128,0.0708,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Ilano Silva Timas,To Score,0.5,6.1,0.1639,0.0298,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Simon Janssen,To Get a Card,0.5,3.3,0.303,0.0248,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,Player's shots on target,0.5,1.17,0.8547,0.4302,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,To give an assist,0.5,2.8,0.3571,0.1592,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Jan Plug,To Score,0.5,16.0,0.0625,0.0178,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Givairo Read,To give an assist,0.5,3.5,0.2857,0.1575,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Thijs Kraaijeveld,To score at least 2 goals,1.5,31.0,0.0323,0.0002,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Simon Janssen,Player's shots on target,0.5,5.2,0.1923,0.0743,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Aymen Sliti,To Score,0.5,6.0,0.1667,0.137,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Javi López,To Score,0.5,5.6,0.1786,0.0238,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Ilano Silva Timas,Player's shots on target,0.5,2.55,0.3922,0.0831,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Lennard Hartjes,To Get a Card,0.5,4.1,0.2439,0.1223,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Javi López,To Get a Card,0.5,6.5,0.1538,0.0415,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,To score at least 2 goals,1.5,8.5,0.1176,0.0107,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Irakli Yegoian,To give an assist,0.5,6.75,0.1481,0.148,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Irakli Yegoian,To Score,0.5,4.9,0.2041,0.1449,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Rick Meissen,To Score,0.5,16.0,0.0625,0.0361,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mario Domínguez,Player's shots on target,1.5,4.8,0.2083,0.047,1,2.0,1
+2026-11-21,Feyenoord vs Excelsior,Noah Naujoks,To score at least 2 goals,1.5,30.0,0.0333,0.0249,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Noah Naujoks,To Score,0.5,4.6,0.2174,0.2147,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Jan Plug,To Get a Card,0.5,3.6,0.2778,0.1335,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Noah Naujoks,To Get a Card,0.5,3.6,0.2778,0.0963,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Charles Vanhoutte,To Score,0.5,4.5,0.2222,0.0478,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Eric da Silva Moreira,To Score,0.5,11.5,0.087,0.0236,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,To score at least 2 goals,1.5,4.7,0.2128,0.0198,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Ilano Silva Timas,To score at least 2 goals,1.5,56.0,0.0179,0.0004,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Lennard Hartjes,To Score,0.5,9.0,0.1111,0.0829,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,Player's shots on target,1.5,1.82,0.5495,0.1097,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Thijs Kraaijeveld,To Get a Card,0.5,5.1,0.1961,0.127,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Tsuyoshi Watanabe,To Get a Card,0.5,8.5,0.1176,0.1058,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Daniel van Vianen,To Get a Card,0.5,4.4,0.2273,0.0222,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Simon Janssen,To Score,0.5,13.0,0.0769,0.0212,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Aymen Sliti,To score at least 2 goals,1.5,51.0,0.0196,0.0098,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Ilano Silva Timas,To give an assist,0.5,7.0,0.1429,0.0235,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Valentin Sulzbacher,Player's shots on target,0.5,2.9,0.3448,0.0854,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,To Get a Card,0.5,6.5,0.1538,0.1605,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Mario Domínguez,Player's shots on target,0.5,1.88,0.5319,0.2906,1,2.0,1
+2026-11-21,Feyenoord vs Excelsior,Luciano Valente,To Get a Card,0.5,5.2,0.1923,0.1196,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Aymen Sliti,Player's shots on target,0.5,2.4,0.4167,0.3451,1,1.0,1
+2026-11-21,Feyenoord vs Excelsior,Tsuyoshi Watanabe,To score at least 2 goals,1.5,46.0,0.0217,0.0011,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Lennard Hartjes,Player's shots on target,0.5,3.7,0.2703,0.2178,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Aymen Sliti,To Get a Card,0.5,5.0,0.2,0.0737,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Kasey Bos,To Score,0.5,14.0,0.0714,0.0256,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Thijs Kraaijeveld,Player's shots on target,0.5,2.5,0.4,0.1071,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Noah Naujoks,Player's shots on target,0.5,2.08,0.4808,0.4347,1,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Valentin Sulzbacher,To Get a Card,0.5,3.6,0.2778,0.0508,0,0.0,0
+2026-11-21,Feyenoord vs Excelsior,Gjivai Zechiël,To give an assist,0.5,3.1,0.3226,0.1639,1,0.0,0
+2026-11-21,Dundee vs Hearts,Joe Wright,To give an assist,0.5,7.5,0.1333,0.016,0,0.0,0
+2026-11-21,Dundee vs Hearts,Ethan Hamilton,To Get a Card,0.5,2.5,0.4,0.2196,1,0.0,0
+2026-11-21,Dundee vs Hearts,Ryan Astley,Player's shots on target,0.5,4.2,0.2381,0.1847,1,0.0,0
+2026-11-21,Dundee vs Hearts,Jamie McCart,To Score,0.5,8.5,0.1176,0.02,1,0.0,0
+2026-11-21,Dundee vs Hearts,Charlie Reilly,To give an assist,0.5,5.5,0.1818,0.0991,1,0.0,0
+2026-11-21,Dundee vs Hearts,Sabah Kerjota,Player's shots on target,0.5,1.33,0.7519,0.3216,1,2.0,1
+2026-11-21,Dundee vs Hearts,Ryan Astley,To Score,0.5,9.5,0.1053,0.0395,1,0.0,0
+2026-11-21,Dundee vs Hearts,Ethan Hamilton,To give an assist,0.5,5.75,0.1739,0.0903,1,0.0,0
+2026-11-21,Dundee vs Hearts,Cláudio Braga,To Score,0.5,2.6,0.3846,0.2792,1,1.0,1
+2026-11-21,Dundee vs Hearts,Callum Jones,To Get a Card,0.5,3.0,0.3333,0.0202,0,0.0,0
+2026-11-21,Dundee vs Hearts,Pierre Landry Kabore,To give an assist,0.5,3.8,0.2632,0.0678,1,0.0,0
+2026-11-21,Dundee vs Hearts,Charlie Reilly,To Get a Card,0.5,3.0,0.3333,0.1202,1,0.0,0
+2026-11-21,Dundee vs Hearts,Ashley Hay,To score at least 3 goals,2.5,76.0,0.0132,0.0001,0,0.0,0
+2026-11-21,Dundee vs Hearts,Ethan Hamilton,To Score,0.5,8.5,0.1176,0.0499,1,0.0,0
+2026-11-21,Dundee vs Hearts,James Wilson,Player's shots on target,0.5,1.52,0.6579,0.1083,0,0.0,0
+2026-11-21,Dundee vs Hearts,Bradley Fink,To score at least 2 goals,1.5,12.5,0.08,0.023,1,0.0,0
+2026-11-21,Dundee vs Hearts,Rogers Mato,To give an assist,0.5,4.0,0.25,0.0121,0,0.0,0
+2026-11-21,Dundee vs Hearts,Cláudio Braga,To give an assist,0.5,4.0,0.25,0.0842,1,0.0,0
+2026-11-21,Dundee vs Hearts,Cláudio Braga,To Get a Card,0.5,3.3,0.303,0.0805,1,0.0,0
+2026-11-21,Dundee vs Hearts,Alan Forrest,To Score,0.5,5.5,0.1818,0.0514,1,0.0,0
+2026-11-21,Dundee vs Hearts,Alan Forrest,To Get a Card,0.5,3.6,0.2778,0.0849,1,0.0,0
+2026-11-21,Dundee vs Hearts,Imari Samuels,To Score,0.5,8.0,0.125,0.0166,1,0.0,0
+2026-11-21,Dundee vs Hearts,James Wilson,To Get a Card,0.5,4.0,0.25,0.0208,0,0.0,0
+2026-11-21,Dundee vs Hearts,Bradley Fink,To give an assist,0.5,5.0,0.2,0.0464,1,0.0,0
+2026-11-21,Dundee vs Hearts,Joe Bevan,Player's shots on target,0.5,1.67,0.5988,0.107,0,0.0,0
+2026-11-21,Dundee vs Hearts,Drey Wright,To Get a Card,0.5,3.1,0.3226,0.1297,1,0.0,0
+2026-11-21,Dundee vs Hearts,Rogers Mato,Player's shots on target,0.5,1.55,0.6452,0.0756,0,0.0,0
+2026-11-21,Dundee vs Hearts,Joe Wright,To Score,0.5,6.75,0.1481,0.0297,0,0.0,0
+2026-11-21,Dundee vs Hearts,Rogers Mato,To Score,0.5,3.2,0.3125,0.027,0,0.0,0
+2026-11-21,Dundee vs Hearts,Rogers Mato,To score at least 2 goals,1.5,15.0,0.0667,0.0004,0,0.0,0
+2026-11-21,Dundee vs Hearts,Alan Forrest,To give an assist,0.5,5.5,0.1818,0.1091,1,0.0,0
+2026-11-21,Dundee vs Hearts,Jordi Altena,To Score,0.5,5.1,0.1961,0.0175,1,0.0,0
+2026-11-21,Dundee vs Hearts,Stuart Findlay,To Score,0.5,6.25,0.16,0.0465,1,1.0,1
+2026-11-21,Dundee vs Hearts,Callum Jones,To Score,0.5,6.0,0.1667,0.0304,0,0.0,0
+2026-11-21,Dundee vs Hearts,Ashley Hay,Player's shots on target,0.5,1.58,0.6329,0.1677,0,0.0,0
+2026-11-21,Dundee vs Hearts,Charlie Reilly,To Score,0.5,5.75,0.1739,0.1091,1,0.0,0
+2026-11-21,Dundee vs Hearts,Stuart Findlay,To Get a Card,0.5,3.2,0.3125,0.1278,1,0.0,0
+2026-11-21,Dundee vs Hearts,Jamie McCart,Player's shots on target,0.5,3.7,0.2703,0.0696,1,1.0,1
+2026-11-21,Dundee vs Hearts,Ryan Astley,To Get a Card,0.5,2.95,0.339,0.094,1,0.0,0
+2026-11-21,Dundee vs Hearts,Sabah Kerjota,To Get a Card,0.5,3.9,0.2564,0.1959,1,0.0,0
+2026-11-21,Dundee vs Hearts,Ashley Hay,Player's shots on target,1.5,3.5,0.2857,0.0149,0,0.0,0
+2026-11-21,Dundee vs Hearts,Cláudio Braga,Player's shots on target,1.5,2.45,0.4082,0.2237,1,2.0,1
+2026-11-21,Dundee vs Hearts,Sabah Kerjota,To give an assist,0.5,3.5,0.2857,0.1456,1,1.0,1
+2026-11-21,Dundee vs Hearts,Pierre Landry Kabore,Player's shots on target,0.5,1.68,0.5952,0.4161,1,2.0,1
+2026-11-21,Dundee vs Hearts,Joe Bevan,To give an assist,0.5,4.7,0.2128,0.0165,0,0.0,0
+2026-11-21,Dundee vs Hearts,Ashley Hay,To Get a Card,0.5,4.8,0.2083,0.0334,0,0.0,0
+2026-11-21,Dundee vs Hearts,James Wilson,To Score,0.5,3.1,0.3226,0.048,0,0.0,0
+2026-11-21,Dundee vs Hearts,Jordi Altena,To Get a Card,0.5,3.2,0.3125,0.1536,1,0.0,0
+2026-11-21,Dundee vs Hearts,Joe Bevan,To score at least 2 goals,1.5,18.0,0.0556,0.0008,0,0.0,0
+2026-11-21,Dundee vs Hearts,Jordi Altena,To give an assist,0.5,6.5,0.1538,0.0276,1,1.0,1
+2026-11-21,Dundee vs Hearts,Pierre Landry Kabore,To Get a Card,0.5,4.0,0.25,0.1075,1,0.0,0
+2026-11-21,Dundee vs Hearts,Sabah Kerjota,To score at least 2 goals,1.5,11.5,0.087,0.0043,1,2.0,1
+2026-11-21,Dundee vs Hearts,Jordi Altena,Player's shots on target,0.5,2.3,0.4348,0.1971,1,2.0,1
+2026-11-21,Dundee vs Hearts,Pierre Landry Kabore,To score at least 2 goals,1.5,17.0,0.0588,0.0117,1,2.0,1
+2026-11-21,Dundee vs Hearts,Ashley Hay,To give an assist,0.5,5.2,0.1923,0.0103,0,0.0,0
+2026-11-21,Dundee vs Hearts,Cláudio Braga,To score at least 2 goals,1.5,10.0,0.1,0.0432,1,1.0,0
+2026-11-21,Dundee vs Hearts,Bradley Fink,To Score,0.5,2.9,0.3448,0.2068,1,0.0,0
+2026-11-21,Dundee vs Hearts,Imari Samuels,To Get a Card,0.5,3.2,0.3125,0.1183,1,0.0,0
+2026-11-21,Dundee vs Hearts,Pierre Landry Kabore,To Score,0.5,3.5,0.2857,0.1489,1,2.0,1
+2026-11-21,Dundee vs Hearts,Drey Wright,To Score,0.5,7.0,0.1429,0.0566,1,0.0,0
+2026-11-21,Dundee vs Hearts,Cláudio Braga,Player's shots on target,0.5,1.29,0.7752,0.5891,1,2.0,1
+2026-11-21,Dundee vs Hearts,Joe Bevan,To Get a Card,0.5,3.2,0.3125,0.0237,0,0.0,0
+2026-11-21,Dundee vs Hearts,Alan Forrest,Player's shots on target,0.5,2.6,0.3846,0.2821,1,0.0,0
+2026-11-21,Dundee vs Hearts,Joe Wright,To Get a Card,0.5,2.9,0.3448,0.0348,0,0.0,0
+2026-11-21,Dundee vs Hearts,Callum Jones,To give an assist,0.5,7.0,0.1429,0.0089,0,0.0,0
+2026-11-21,Dundee vs Hearts,Sabah Kerjota,To Score,0.5,2.8,0.3571,0.0911,1,2.0,1
+2026-11-21,Dundee vs Hearts,Ashley Hay,To Score,0.5,3.2,0.3125,0.0668,0,0.0,0
+2026-11-21,Dundee vs Hearts,Bradley Fink,Player's shots on target,0.5,1.45,0.6897,0.4205,1,0.0,0
+2026-11-21,Dundee vs Hearts,Bradley Fink,To Get a Card,0.5,3.5,0.2857,0.1123,1,0.0,0
+2026-11-21,Dundee vs Hearts,Rogers Mato,To Get a Card,0.5,4.3,0.2326,0.0361,0,0.0,0
+2026-11-21,Dundee vs Hearts,Stuart Findlay,Player's shots on target,0.5,2.75,0.3636,0.1252,1,1.0,1
+2026-11-21,Dundee vs Hearts,Ashley Hay,To score at least 2 goals,1.5,15.0,0.0667,0.0023,0,0.0,0
+2026-11-21,Dundee vs Hearts,James Wilson,To score at least 2 goals,1.5,14.0,0.0714,0.0012,0,0.0,0
+2026-11-21,Dundee vs Hearts,Jamie McCart,To Get a Card,0.5,3.3,0.303,0.1503,1,0.0,0
+2026-11-21,Dundee vs Hearts,Joe Bevan,To Score,0.5,3.5,0.2857,0.0391,0,0.0,0
+2026-11-21,Dundee vs Hearts,James Wilson,To give an assist,0.5,5.5,0.1818,0.0139,0,0.0,0
+2026-11-21,Dundee vs Hearts,Drey Wright,To give an assist,0.5,5.2,0.1923,0.0527,1,0.0,0
 2026-11-21,Tenerife vs Mallorca,Antonio Sánchez,To Score,0.5,9.5,0.1053,0.0266,0,0.0,0
