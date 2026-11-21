@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 08:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 08:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Genclerbirligi vs Gaziantep — 21/11 · 11:30
 

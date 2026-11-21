@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 08:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 08:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Artrom vs Jekunam — 21/11 · 08:24
+## Lumix vs Maxa — 21/11 · 09:04
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.50** (Unibet) · prob 25% vs casas 20% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Maxa** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
 
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.758 partidos)  
-Goles esperados: Artrom 1.72 · Jekunam 2.28  
-Ganador: Artrom 24% · empate 25% · Jekunam 52%  
-Total: más de 3.5 goles 57% · menos 43%  
-Hándicap Jekunam: −1.5 31% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 75.784 partidos)  
+Goles esperados: Lumix 2.70 · Maxa 2.91  
+Ganador: Lumix 34% · empate 20% · Maxa 46%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Maxa: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Artrom ✅➖✅❌❌ | Jekunam ➖➖❌❌➖  
-• Partidos: Artrom 687 | Jekunam 1277  
-• Liga: Europa League  
-• Unibet: 1 3.15 · X 4.50 · 2 1.66 (sin margen 28%/19%/53%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.50 (+11%) · Paf España 4.50 (+11%)  
+• Forma: Lumix ❌✅➖✅❌ | Maxa ❌❌✅➖➖  
+• Partidos: Lumix 1184 | Maxa 1119  
+• Liga: Ligue 1  
+• Unibet: 1 2.14 · X 3.80 · 2 2.40 (sin margen 41%/23%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+10%) · Paf España 2.40 (+10%)  
 
-## zoyir vs Frantsuz — 21/11 · 08:24
+## v1nn vs cl1vlind — 21/11 · 09:07
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **1.96** (Unibet) · prob 54% vs casas 44% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana v1nn** @ **1.90** (Unibet) · prob 57% vs casas 46% · ventaja +9%
 
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.758 partidos)  
-Goles esperados: zoyir 4.24 · Frantsuz 3.56  
-Ganador: zoyir 54% · empate 15% · Frantsuz 31%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap zoyir: −1.5 38% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 75.784 partidos)  
+Goles esperados: v1nn 3.74 · cl1vlind 2.88  
+Ganador: v1nn 57% · empate 18% · cl1vlind 24%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap v1nn: −1.5 40% · −2.5 26%  
 🔎 **Claves**  
-• Forma: zoyir ✅✅✅➖✅ | Frantsuz ❌❌➖➖✅  
-• Partidos: zoyir 654 | Frantsuz 764  
-• Liga: Premier League 2x6  
-• Unibet: 1 1.96 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.96 (+5%) · Paf España 1.96 (+5%)  
+• Forma: v1nn ✅❌❌✅✅ | cl1vlind ✅❌✅✅❌  
+• Partidos: v1nn 771 | cl1vlind 776  
+• Liga: Serie A  
+• Unibet: 1 1.90 · X 4.20 · 2 2.63 (sin margen 46%/21%/33%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.90 (+9%) · Paf España 1.90 (+9%)  
+
+## DaVa vs Edwardson — 21/11 · 09:10
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **1.66** (Unibet) · prob 64% vs casas 53% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 75.784 partidos)  
+Goles esperados: DaVa 2.84 · Edwardson 1.71  
+Ganador: DaVa 64% · empate 19% · Edwardson 17%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap DaVa: −1.5 42% · −2.5 25%  
+🔎 **Claves**  
+• Forma: DaVa ➖➖➖✅✅ | Edwardson ✅✅➖✅✅  
+• Partidos: DaVa 1452 | Edwardson 1387  
+• Liga: Champions League AFC  
+• Unibet: 1 1.66 · X 3.45 · 2 3.95 (sin margen 53%/25%/22%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.66 (+6%) · Paf España 1.66 (+6%)  
 
