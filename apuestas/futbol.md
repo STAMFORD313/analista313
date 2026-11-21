@@ -1,1177 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 21/11/2026 13:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Man City vs Fulham — 21/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Gana Man City** @ **1.40** (Bwin) · prob 70% vs casas 70% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.12 - 0.83)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 10%  
-🔎 **Claves**  
-• Forma: Man City ✅✅❌❌❌ | Fulham ❌✅✅➖➖  
-• H2H: 30 desde 2005: 21V-5E-4D · 3.8 goles/partido · +2.5 en 80%  
-• Bajas: Man City: 2 fuera, 3 duda (Antoine Semenyo, Mateo Kovacic); Fulham: 1 fuera, 1 duda (Tom Cairney)  
-• Favorito de las casas: Man City @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.1 - 3.5: total +10.5 50% · Man City +5.5 65% · Fulham +4.5 29%  
-Tarjetas 1.2 - 2.3: total +4.5 29% · Man City +2.5 12% · Fulham +2.5 41%  
-Faltas 8.5 - 11.3: total +22.5 28% · Man City +11.5 16% · Fulham +12.5 35%  
-Tiros a puerta 6.3 - 3.0: total +8.5 58% · Man City +5.5 58% · Fulham +4.5 20%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Man City + Menos de 11.5 faltas de Man City + Menos de 4.5 tiros a puerta de Fulham → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Man City + Menos de 11.5 faltas de Man City + Menos de 4.5 tiros a puerta de Fulham + Menos de 4.5 córners de Fulham + Más de 2.5 goles → prob. 23%, cuota justa 4.31  
-
-## Millwall vs QPR — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Millwall +0 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 51% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 0.90)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 45%  
-Marcadores: 1-0 13% · 1-1 13% · 0-0 11% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Millwall ➖❌✅❌❌ | QPR ❌✅❌➖✅  
-• H2H: 24 desde 2005: 8V-9E-7D · 2.4 goles/partido · +2.5 en 33%  
-• Bajas: Millwall: 0 fuera, 1 duda; QPR: sin bajas  
-• Favorito de las casas: Millwall @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.7: total +10.5 48% · Millwall +5.5 51% · QPR +4.5 48%  
-Tarjetas 1.7 - 2.2: total +3.5 53% · Millwall +2.5 24% · QPR +2.5 37%  
-Faltas 10.3 - 10.3: total +22.5 34% · Millwall +11.5 34% · QPR +11.5 34%  
-Tiros a puerta 4.5 - 3.3: total +9.5 27% · Millwall +5.5 31% · QPR +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Millwall + Menos de 4.5 tiros a puerta de QPR + Menos de 22.5 faltas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Millwall + Menos de 4.5 tiros a puerta de QPR + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 26%, cuota justa 3.82  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Norwich -0.75 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Gana Southampton** @ **1.40** (Bwin) · prob 70% vs casas 70% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 2.5 córners de Cardiff** @ **1.28** (Unibet) · prob 72% vs casas 71% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Cardiff** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 6.5 córners de Norwich** @ **2.43** (Unibet) · prob 41% vs casas 38% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Norwich** @ **1.28** (Unibet) · prob 70% vs casas 72% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 67% vs casas 64% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Norwich vs Cardiff — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 74% vs casas 74% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.94 - 1.17)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Norwich ❌✅✅✅✅ | Cardiff ➖✅❌➖✅  
-• H2H: 26 desde 2005: 15V-3E-8D · 2.9 goles/partido · +2.5 en 54%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas  
-• Favorito de las casas: Norwich @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.0: total +10.5 47% · Norwich +5.5 56% · Cardiff +4.5 38%  
-Tarjetas 1.7 - 2.1: total +3.5 52% · Norwich +2.5 25% · Cardiff +2.5 34%  
-Faltas 11.7 - 9.9: total +22.5 42% · Norwich +11.5 50% · Cardiff +11.5 30%  
-Tiros a puerta 5.7 - 4.0: total +9.5 51% · Norwich +5.5 50% · Cardiff +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Cardiff + Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff + Más de 2.5 goles → prob. 12%, cuota justa 8.27  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Cardiff): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 42% · ventaja +0%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 13.5 córners** @ **1.27** (Unibet) · prob 75% vs casas 72% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 6.5 córners de Southampton** @ **1.80** (Unibet) · prob 53% vs casas 51% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 8.5 córners de Southampton** @ **1.34** (Unibet) · prob 68% vs casas 68% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 2.5 córners de Derby** @ **1.30** (Unibet) · prob 69% vs casas 70% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Southampton vs Derby — 21/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Derby** @ **1.53** (Unibet) · prob 64% vs casas 60% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.21 - 0.98)  
-1 72% · X 19% · 2 10%  
-1X 90% · X2 28% · 12 81%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Southampton ➖✅✅➖❌ | Derby ❌➖❌❌✅  
-• H2H: 10 desde 2005: 3V-6E-1D · 2.3 goles/partido · +2.5 en 40%  
-• Bajas: Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda  
-• Favorito de las casas: Southampton @ 1.40  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.7: total +10.5 53% · Southampton +5.5 66% · Derby +4.5 32%  
-Tarjetas 1.4 - 2.6: total +3.5 57% · Southampton +2.5 18% · Derby +2.5 49%  
-Faltas 8.3 - 13.7: total +22.5 44% · Southampton +11.5 14% · Derby +11.5 70%  
-Tiros a puerta 6.5 - 3.1: total +9.5 48% · Southampton +5.5 60% · Derby +4.5 21%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby → prob. 57%, cuota justa 1.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Menos de 4.5 tiros a puerta de Derby + Menos de 4.5 córners de Derby + Más de 2.5 goles → prob. 23%, cuota justa 4.28  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Derby + Más de 2.5 goles): cuota Unibet aprox. 2.33 (producto de piernas) · prob. 42% · ventaja -2%  
-
-## Tromso vs Viking — 21/11 · 14:00
-
-👀 candidata · 🇳🇴 Eliteserien · **Gana Viking** @ **1.86** (Bet365) · prob 54% vs casas 54% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 27% · X 28% · 2 45%  
-1X 55% · X2 73% · 12 72%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Tromso ➖➖❌❌❌ | Viking ✅✅✅❌✅  
-• H2H: 23 desde 2012: 9V-5E-9D · 3.6 goles/partido · +2.5 en 70%  
-• Bajas: Tromso: sin bajas; Viking: sin bajas  
-• Favorito de las casas: Viking @ 1.86  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Gana Montpellier** @ **2.10** (Bwin) · prob 46% vs casas 46% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **La Coruna +0.25 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 50% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Sabadell -0.25 (hándicap asiático)** @ **2.15** (mejor del mercado) · prob 46% vs casas 45% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Amedspor vs Rizespor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Amedspor -0.75 (hándicap asiático)** @ **1.90** (mejor del mercado) · prob 51% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.46 - 0.89)  
-1 60% · X 23% · 2 17%  
-1X 83% · X2 40% · 12 77%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 54%  
-Marcadores: 2-0 11% · 2-1 9% · 3-0 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Amedspor ➖✅✅✅❌ | Rizespor ❌❌❌➖✅  
-• H2H: sin precedentes  
-• Bajas: Amedspor: 1 fuera, 0 duda (Samuel Ballet); Rizespor: 0 fuera, 2 duda  
-• Favorito de las casas: Amedspor @ 1.72  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.9: total +9.5 46% · Amedspor +5.5 45% · Rizespor +4.5 35%  
-Tarjetas 2.0 - 2.5: total +4.5 47% · Amedspor +2.5 33% · Rizespor +2.5 46%  
-Faltas 14.5 - 10.8: total +26.5 40% · Amedspor +13.5 58% · Rizespor +13.5 21%  
-Tiros a puerta 5.9 - 3.4: total +9.5 45% · Amedspor +5.5 53% · Rizespor +4.5 26%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 4.5 tiros a puerta de Rizespor + Menos de 2.5 tarjetas de Amedspor → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 4.5 tiros a puerta de Rizespor + Menos de 2.5 tarjetas de Amedspor + Más de 2.5 goles + Menos de 4.5 córners de Rizespor → prob. 17%, cuota justa 6.00  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 2.5 goles** @ **3.40** (Bet365) · prob 29% vs casas 29% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Laval** @ **2.02** (Unibet) · prob 50% vs casas 44% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Laval** @ **1.61** (Unibet) · prob 50% vs casas 56% · ventaja -19%
-
-- ❌ Valor: ventaja -19% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 5.5 córners de Montpellier** @ **1.94** (Unibet) · prob 41% vs casas 46% · ventaja -20%
-
-- ❌ Valor: ventaja -20% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Montpellier** @ **1.67** (Unibet) · prob 59% vs casas 54% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 9.5 córners** @ **1.73** (Unibet) · prob 53% vs casas 52% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Laval vs Montpellier — 21/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.35** (Unibet) · prob 68% vs casas 67% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.72 - 1.31)  
-1 24% · X 29% · 2 48%  
-1X 52% · X2 76% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 38%  
-Marcadores: 0-1 17% · 0-0 14% · 1-1 13% · 0-2 11%  
-🔎 **Claves**  
-• Forma: Laval ❌➖❌✅❌ | Montpellier ✅✅✅✅❌  
-• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Laval: sin bajas; Montpellier: sin bajas  
-• Favorito de las casas: Montpellier @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +9.5 54% · Laval +5.5 40% · Montpellier +4.5 51%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Laval +2.5 32% · Montpellier +2.5 34%  
-Faltas 14.8 - 15.4: total +29.5 53% · Laval +14.5 51% · Montpellier +15.5 47%  
-Tiros a puerta 4.3 - 4.3: total +8.5 49% · Laval +4.5 43% · Montpellier +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier → prob. 24%, cuota justa 4.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Laval + Menos de 2.5 goles + Más de 3.5 tiros a puerta de Montpellier + Menos de 5.5 córners de Laval → prob. 15%, cuota justa 6.65  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 7.5 córners** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Alaves** @ **1.23** (Unibet) · prob 76% vs casas 74% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Alaves** @ **1.27** (Unibet) · prob 73% vs casas 72% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de La Coruna** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Alaves vs La Coruna — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de La Coruna** @ **1.32** (Unibet) · prob 70% vs casas 70% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.19 - 1.09)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Alaves ❌❌➖❌➖ | La Coruna ❌➖❌✅➖  
-• H2H: 8 desde 2006: 4V-2E-2D · 1.4 goles/partido · +2.5 en 12%  
-• Bajas: Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda  
-• Favorito de las casas: Alaves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +10.5 40% · Alaves +5.5 45% · La Coruna +4.5 43%  
-Tarjetas 2.3 - 2.7: total +4.5 55% · Alaves +2.5 42% · La Coruna +2.5 50%  
-Faltas 14.2 - 12.1: total +25.5 54% · Alaves +12.5 65% · La Coruna +12.5 44%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alaves +4.5 45% · La Coruna +3.5 48%  
-🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles → prob. 32%, cuota justa 3.11 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Alaves + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 2.5 tarjetas de Alaves → prob. 11%, cuota justa 9.11  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 49% · ventaja +8% → 1 u en la banca de simulación  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Sabadell** @ **2.40** (Unibet) · prob 40% vs casas 38% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Sabadell** @ **1.24** (Unibet) · prob 71% vs casas 73% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.85** (Unibet) · prob 52% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Granada** @ **1.37** (Unibet) · prob 67% vs casas 66% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Sabadell vs Granada — 21/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Granada** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 0.97)  
-1 41% · X 31% · 2 28%  
-1X 72% · X2 59% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sabadell ❌➖❌➖❌ | Granada ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Sabadell: sin bajas; Granada: 0 fuera, 2 duda  
-• Favorito de las casas: Sabadell @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.7: total +9.5 42% · Sabadell +5.5 43% · Granada +4.5 32%  
-Tarjetas 2.7 - 2.9: total +5.5 48% · Sabadell +2.5 50% · Granada +3.5 34%  
-Faltas 16.9 - 11.9: total +26.5 64% · Sabadell +13.5 77% · Granada +13.5 31%  
-Tiros a puerta 5.0 - 3.2: total +8.5 43% · Sabadell +5.5 38% · Granada +4.5 23%  
-🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Granada + Menos de 4.5 córners de Granada + Menos de 3.5 tarjetas de Granada + Menos de 2.5 goles → prob. 17%, cuota justa 5.72  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Granada + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 40% · ventaja -12%  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 córners de Samsunspor** @ **1.75** (Unibet) · prob 54% vs casas 52% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Samsunspor** @ **1.42** (Unibet) · prob 64% vs casas 65% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 8.5 córners** @ **1.30** (Unibet) · prob 72% vs casas 70% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.58** (Unibet) · prob 58% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Galatasaray** @ **1.29** (Unibet) · prob 71% vs casas 71% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
-
-## Galatasaray vs Samsunspor — 21/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 8.5 córners de Galatasaray** @ **1.55** (Unibet) · prob 60% vs casas 59% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.39 - 0.94)  
-1 81% · X 13% · 2 5%  
-1X 95% · X2 19% · 12 87%  
-+1.5 85% · +2.5 65% · +3.5 42% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 10% · 1-1 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Galatasaray ✅✅✅✅✅ | Samsunspor ❌❌❌❌✅  
-• H2H: 10 desde 2005: 9V-0E-1D · 4.3 goles/partido · +2.5 en 80%  
-• Bajas: Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda  
-• Favorito de las casas: Galatasaray @ 1.24  
-📐 **Estadísticas esperadas**  
-Córners 7.9 - 3.1: total +9.5 64% · Galatasaray +5.5 72% · Samsunspor +4.5 22%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Galatasaray +2.5 23% · Samsunspor +2.5 49%  
-Faltas 10.7 - 13.0: total +26.5 29% · Galatasaray +13.5 20% · Samsunspor +13.5 43%  
-Tiros a puerta 8.1 - 2.7: total +9.5 62% · Galatasaray +5.5 78% · Samsunspor +4.5 14%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Samsunspor + Menos de 13.5 faltas de Galatasaray + Menos de 4.5 córners de Samsunspor + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 27%, cuota justa 3.67  
+Actualizado 21/11/2026 14:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cracovia vs Jagiellonia — 21/11 · 14:45
 
@@ -13339,6 +12168,7 @@ Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%
 Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
 🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
 
 ## Kaiserslautern vs Dresden — 22/11 · 13:30
 
@@ -13364,6 +12194,7 @@ Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5
 Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
 
 ## Karlsruhe vs Osnabruck — 22/11 · 13:30
 
@@ -13389,6 +12220,625 @@ Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30
 Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
 🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
+
+## Beveren vs Gent — 22/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Gent** @ **1.44** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.19)  
+1 23% · X 31% · 2 47%  
+1X 53% · X2 77% · 12 69%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Beveren ❌❌➖❌❌ | Gent ✅✅✅❌✅  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Beveren: sin bajas; Gent: sin bajas  
+• Favorito de las casas: Gent @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.9: total +10.5 43% · Beveren +5.5 41% · Gent +4.5 52%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Beveren +1.5 46% · Gent +2.5 28%  
+Faltas 10.3 - 9.6: total +22.5 28% · Beveren +10.5 46% · Gent +11.5 26%  
+Tiros a puerta 4.7 - 4.6: total +9.5 46% · Beveren +5.5 34% · Gent +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren → prob. 37%, cuota justa 2.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren + Menos de 5.5 córners de Beveren → prob. 25%, cuota justa 4.06  
+
+## Beveren vs Gent — 22/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Gent** @ **1.24** (Unibet) · prob 74% vs casas 74% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.19)  
+1 23% · X 31% · 2 47%  
+1X 53% · X2 77% · 12 69%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Beveren ❌❌➖❌❌ | Gent ✅✅✅❌✅  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Beveren: sin bajas; Gent: sin bajas  
+• Favorito de las casas: Gent @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.9: total +10.5 43% · Beveren +5.5 41% · Gent +4.5 52%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Beveren +1.5 46% · Gent +2.5 28%  
+Faltas 10.3 - 9.6: total +22.5 28% · Beveren +10.5 46% · Gent +11.5 26%  
+Tiros a puerta 4.7 - 4.6: total +9.5 46% · Beveren +5.5 34% · Gent +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren → prob. 37%, cuota justa 2.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren + Menos de 5.5 córners de Beveren → prob. 25%, cuota justa 4.06  
+
+## Beveren vs Gent — 22/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 9.5 córners** @ **1.85** (Unibet) · prob 52% vs casas 50% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.19)  
+1 23% · X 31% · 2 47%  
+1X 53% · X2 77% · 12 69%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Beveren ❌❌➖❌❌ | Gent ✅✅✅❌✅  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Beveren: sin bajas; Gent: sin bajas  
+• Favorito de las casas: Gent @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.9: total +10.5 43% · Beveren +5.5 41% · Gent +4.5 52%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Beveren +1.5 46% · Gent +2.5 28%  
+Faltas 10.3 - 9.6: total +22.5 28% · Beveren +10.5 46% · Gent +11.5 26%  
+Tiros a puerta 4.7 - 4.6: total +9.5 46% · Beveren +5.5 34% · Gent +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren → prob. 37%, cuota justa 2.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren + Menos de 5.5 córners de Beveren → prob. 25%, cuota justa 4.06  
+
+## Beveren vs Gent — 22/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 68% vs casas 69% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.19)  
+1 23% · X 31% · 2 47%  
+1X 53% · X2 77% · 12 69%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Beveren ❌❌➖❌❌ | Gent ✅✅✅❌✅  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Beveren: sin bajas; Gent: sin bajas  
+• Favorito de las casas: Gent @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.9: total +10.5 43% · Beveren +5.5 41% · Gent +4.5 52%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Beveren +1.5 46% · Gent +2.5 28%  
+Faltas 10.3 - 9.6: total +22.5 28% · Beveren +10.5 46% · Gent +11.5 26%  
+Tiros a puerta 4.7 - 4.6: total +9.5 46% · Beveren +5.5 34% · Gent +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren → prob. 37%, cuota justa 2.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren + Menos de 5.5 córners de Beveren → prob. 25%, cuota justa 4.06  
+
+## Beveren vs Gent — 22/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Beveren** @ **1.82** (Unibet) · prob 53% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.19)  
+1 23% · X 31% · 2 47%  
+1X 53% · X2 77% · 12 69%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Beveren ❌❌➖❌❌ | Gent ✅✅✅❌✅  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Beveren: sin bajas; Gent: sin bajas  
+• Favorito de las casas: Gent @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.9: total +10.5 43% · Beveren +5.5 41% · Gent +4.5 52%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Beveren +1.5 46% · Gent +2.5 28%  
+Faltas 10.3 - 9.6: total +22.5 28% · Beveren +10.5 46% · Gent +11.5 26%  
+Tiros a puerta 4.7 - 4.6: total +9.5 46% · Beveren +5.5 34% · Gent +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren → prob. 37%, cuota justa 2.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren + Menos de 5.5 córners de Beveren → prob. 25%, cuota justa 4.06  
+
+## Beveren vs Gent — 22/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Beveren** @ **1.26** (Unibet) · prob 72% vs casas 72% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.19)  
+1 23% · X 31% · 2 47%  
+1X 53% · X2 77% · 12 69%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Beveren ❌❌➖❌❌ | Gent ✅✅✅❌✅  
+• H2H: 4 desde 2005: 1V-0E-3D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Beveren: sin bajas; Gent: sin bajas  
+• Favorito de las casas: Gent @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.9: total +10.5 43% · Beveren +5.5 41% · Gent +4.5 52%  
+Tarjetas 1.5 - 1.9: total +3.5 44% · Beveren +1.5 46% · Gent +2.5 28%  
+Faltas 10.3 - 9.6: total +22.5 28% · Beveren +10.5 46% · Gent +11.5 26%  
+Tiros a puerta 4.7 - 4.6: total +9.5 46% · Beveren +5.5 34% · Gent +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren → prob. 37%, cuota justa 2.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Gent + Menos de 2.5 tarjetas de Gent + Menos de 5.5 tiros a puerta de Beveren + Menos de 5.5 córners de Beveren → prob. 25%, cuota justa 4.06  
+
+## Cottbus vs Hertha — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Cottbus** @ **1.83** (Unibet) · prob 53% vs casas 50% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 2.07)  
+1 20% · X 25% · 2 54%  
+1X 46% · X2 80% · 12 75%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 71%  
+Marcadores: 1-1 9% · 1-2 9% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cottbus ❌➖➖❌➖ | Hertha ✅➖✅✅✅  
+• H2H: 10 desde 2006: 4V-3E-3D · 2.1 goles/partido · +2.5 en 40%  
+• Bajas: Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)  
+• Favorito de las casas: Hertha @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.8: total +10.5 54% · Cottbus +5.5 42% · Hertha +5.5 49%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Cottbus +2.5 34% · Hertha +2.5 40%  
+Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%  
+Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
+
+## Cottbus vs Hertha — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Cottbus** @ **1.27** (Unibet) · prob 71% vs casas 72% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 2.07)  
+1 20% · X 25% · 2 54%  
+1X 46% · X2 80% · 12 75%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 71%  
+Marcadores: 1-1 9% · 1-2 9% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cottbus ❌➖➖❌➖ | Hertha ✅➖✅✅✅  
+• H2H: 10 desde 2006: 4V-3E-3D · 2.1 goles/partido · +2.5 en 40%  
+• Bajas: Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)  
+• Favorito de las casas: Hertha @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.8: total +10.5 54% · Cottbus +5.5 42% · Hertha +5.5 49%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Cottbus +2.5 34% · Hertha +2.5 40%  
+Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%  
+Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
+
+## Cottbus vs Hertha — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.42** (Unibet) · prob 65% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 2.07)  
+1 20% · X 25% · 2 54%  
+1X 46% · X2 80% · 12 75%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 71%  
+Marcadores: 1-1 9% · 1-2 9% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cottbus ❌➖➖❌➖ | Hertha ✅➖✅✅✅  
+• H2H: 10 desde 2006: 4V-3E-3D · 2.1 goles/partido · +2.5 en 40%  
+• Bajas: Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)  
+• Favorito de las casas: Hertha @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.8: total +10.5 54% · Cottbus +5.5 42% · Hertha +5.5 49%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Cottbus +2.5 34% · Hertha +2.5 40%  
+Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%  
+Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
+
+## Cottbus vs Hertha — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 2.07)  
+1 20% · X 25% · 2 54%  
+1X 46% · X2 80% · 12 75%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 71%  
+Marcadores: 1-1 9% · 1-2 9% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cottbus ❌➖➖❌➖ | Hertha ✅➖✅✅✅  
+• H2H: 10 desde 2006: 4V-3E-3D · 2.1 goles/partido · +2.5 en 40%  
+• Bajas: Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)  
+• Favorito de las casas: Hertha @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.8: total +10.5 54% · Cottbus +5.5 42% · Hertha +5.5 49%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Cottbus +2.5 34% · Hertha +2.5 40%  
+Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%  
+Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
+
+## Cottbus vs Hertha — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Hertha** @ **1.35** (Unibet) · prob 66% vs casas 68% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 2.07)  
+1 20% · X 25% · 2 54%  
+1X 46% · X2 80% · 12 75%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 71%  
+Marcadores: 1-1 9% · 1-2 9% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cottbus ❌➖➖❌➖ | Hertha ✅➖✅✅✅  
+• H2H: 10 desde 2006: 4V-3E-3D · 2.1 goles/partido · +2.5 en 40%  
+• Bajas: Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)  
+• Favorito de las casas: Hertha @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.8: total +10.5 54% · Cottbus +5.5 42% · Hertha +5.5 49%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Cottbus +2.5 34% · Hertha +2.5 40%  
+Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%  
+Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
+
+## Cottbus vs Hertha — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 4.5 córners de Hertha** @ **2.88** (Unibet) · prob 34% vs casas 32% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 2.07)  
+1 20% · X 25% · 2 54%  
+1X 46% · X2 80% · 12 75%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 71%  
+Marcadores: 1-1 9% · 1-2 9% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cottbus ❌➖➖❌➖ | Hertha ✅➖✅✅✅  
+• H2H: 10 desde 2006: 4V-3E-3D · 2.1 goles/partido · +2.5 en 40%  
+• Bajas: Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)  
+• Favorito de las casas: Hertha @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.8: total +10.5 54% · Cottbus +5.5 42% · Hertha +5.5 49%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Cottbus +2.5 34% · Hertha +2.5 40%  
+Faltas 9.9 - 12.1: total +22.5 45% · Cottbus +11.5 30% · Hertha +12.5 44%  
+Tiros a puerta 4.8 - 6.0: total +10.5 51% · Cottbus +5.5 35% · Hertha +4.5 69%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 11.5 faltas de Cottbus + Más de 4.5 tiros a puerta de Hertha + Menos de 2.5 tarjetas de Cottbus + Menos de 5.5 córners de Cottbus → prob. 16%, cuota justa 6.41  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 42% · ventaja -16%  
+
+## Kaiserslautern vs Dresden — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Dresden** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 56% · X 24% · 2 20%  
+1X 80% · X2 44% · 12 76%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Kaiserslautern ➖✅✅❌✅ | Dresden ➖✅❌❌✅  
+• H2H: 10 desde 2012: 6V-1E-3D · 3.4 goles/partido · +2.5 en 80%  
+• Bajas: Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda  
+• Favorito de las casas: Kaiserslautern @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 5.0: total +10.5 53% · Kaiserslautern +5.5 51% · Dresden +5.5 38%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Kaiserslautern +2.5 34% · Dresden +2.5 45%  
+Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5 28%  
+Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
+
+## Kaiserslautern vs Dresden — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Dresden** @ **1.61** (Unibet) · prob 59% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 56% · X 24% · 2 20%  
+1X 80% · X2 44% · 12 76%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Kaiserslautern ➖✅✅❌✅ | Dresden ➖✅❌❌✅  
+• H2H: 10 desde 2012: 6V-1E-3D · 3.4 goles/partido · +2.5 en 80%  
+• Bajas: Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda  
+• Favorito de las casas: Kaiserslautern @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 5.0: total +10.5 53% · Kaiserslautern +5.5 51% · Dresden +5.5 38%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Kaiserslautern +2.5 34% · Dresden +2.5 45%  
+Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5 28%  
+Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
+
+## Kaiserslautern vs Dresden — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.29** (Unibet) · prob 73% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 56% · X 24% · 2 20%  
+1X 80% · X2 44% · 12 76%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Kaiserslautern ➖✅✅❌✅ | Dresden ➖✅❌❌✅  
+• H2H: 10 desde 2012: 6V-1E-3D · 3.4 goles/partido · +2.5 en 80%  
+• Bajas: Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda  
+• Favorito de las casas: Kaiserslautern @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 5.0: total +10.5 53% · Kaiserslautern +5.5 51% · Dresden +5.5 38%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Kaiserslautern +2.5 34% · Dresden +2.5 45%  
+Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5 28%  
+Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
+
+## Kaiserslautern vs Dresden — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 56% · X 24% · 2 20%  
+1X 80% · X2 44% · 12 76%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Kaiserslautern ➖✅✅❌✅ | Dresden ➖✅❌❌✅  
+• H2H: 10 desde 2012: 6V-1E-3D · 3.4 goles/partido · +2.5 en 80%  
+• Bajas: Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda  
+• Favorito de las casas: Kaiserslautern @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 5.0: total +10.5 53% · Kaiserslautern +5.5 51% · Dresden +5.5 38%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Kaiserslautern +2.5 34% · Dresden +2.5 45%  
+Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5 28%  
+Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
+
+## Kaiserslautern vs Dresden — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Kaiserslautern** @ **1.96** (Unibet) · prob 49% vs casas 47% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 56% · X 24% · 2 20%  
+1X 80% · X2 44% · 12 76%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Kaiserslautern ➖✅✅❌✅ | Dresden ➖✅❌❌✅  
+• H2H: 10 desde 2012: 6V-1E-3D · 3.4 goles/partido · +2.5 en 80%  
+• Bajas: Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda  
+• Favorito de las casas: Kaiserslautern @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 5.0: total +10.5 53% · Kaiserslautern +5.5 51% · Dresden +5.5 38%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Kaiserslautern +2.5 34% · Dresden +2.5 45%  
+Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5 28%  
+Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
+
+## Kaiserslautern vs Dresden — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Kaiserslautern** @ **1.42** (Unibet) · prob 63% vs casas 65% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 56% · X 24% · 2 20%  
+1X 80% · X2 44% · 12 76%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Kaiserslautern ➖✅✅❌✅ | Dresden ➖✅❌❌✅  
+• H2H: 10 desde 2012: 6V-1E-3D · 3.4 goles/partido · +2.5 en 80%  
+• Bajas: Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda  
+• Favorito de las casas: Kaiserslautern @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 5.0: total +10.5 53% · Kaiserslautern +5.5 51% · Dresden +5.5 38%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Kaiserslautern +2.5 34% · Dresden +2.5 45%  
+Faltas 10.8 - 10.7: total +22.5 40% · Kaiserslautern +11.5 39% · Dresden +12.5 28%  
+Tiros a puerta 5.7 - 4.2: total +10.5 41% · Kaiserslautern +5.5 49% · Dresden +4.5 41%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Dresden + Menos de 2.5 tarjetas de Kaiserslautern + Más de 2.5 goles + Menos de 5.5 córners de Dresden + Menos de 10.5 tiros a puerta → prob. 9%, cuota justa 10.67  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Dresden): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 40% · ventaja +8% → 1 u en la banca de simulación  
+
+## Karlsruhe vs Osnabruck — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 6.5 córners de Karlsruhe** @ **2.88** (Unibet) · prob 35% vs casas 32% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 1.34)  
+1 51% · X 25% · 2 23%  
+1X 77% · X2 49% · 12 75%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Karlsruhe ❌✅❌✅❌ | Osnabruck ➖❌✅❌❌  
+• H2H: 8 desde 2010: 3V-3E-2D · 2.6 goles/partido · +2.5 en 62%  
+• Bajas: Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas  
+• Favorito de las casas: Karlsruhe @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.3: total +10.5 44% · Karlsruhe +5.5 51% · Osnabruck +5.5 28%  
+Tarjetas 2.1 - 2.2: total +4.5 42% · Karlsruhe +2.5 34% · Osnabruck +2.5 38%  
+Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30%  
+Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
+🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
+
+## Karlsruhe vs Osnabruck — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Karlsruhe** @ **1.35** (Unibet) · prob 65% vs casas 68% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 1.34)  
+1 51% · X 25% · 2 23%  
+1X 77% · X2 49% · 12 75%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Karlsruhe ❌✅❌✅❌ | Osnabruck ➖❌✅❌❌  
+• H2H: 8 desde 2010: 3V-3E-2D · 2.6 goles/partido · +2.5 en 62%  
+• Bajas: Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas  
+• Favorito de las casas: Karlsruhe @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.3: total +10.5 44% · Karlsruhe +5.5 51% · Osnabruck +5.5 28%  
+Tarjetas 2.1 - 2.2: total +4.5 42% · Karlsruhe +2.5 34% · Osnabruck +2.5 38%  
+Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30%  
+Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
+🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
+
+## Karlsruhe vs Osnabruck — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Osnabruck** @ **1.38** (Unibet) · prob 62% vs casas 67% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 1.34)  
+1 51% · X 25% · 2 23%  
+1X 77% · X2 49% · 12 75%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Karlsruhe ❌✅❌✅❌ | Osnabruck ➖❌✅❌❌  
+• H2H: 8 desde 2010: 3V-3E-2D · 2.6 goles/partido · +2.5 en 62%  
+• Bajas: Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas  
+• Favorito de las casas: Karlsruhe @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.3: total +10.5 44% · Karlsruhe +5.5 51% · Osnabruck +5.5 28%  
+Tarjetas 2.1 - 2.2: total +4.5 42% · Karlsruhe +2.5 34% · Osnabruck +2.5 38%  
+Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30%  
+Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
+🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
+
+## Karlsruhe vs Osnabruck — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 3.5 córners de Osnabruck** @ **2.75** (Unibet) · prob 38% vs casas 33% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 1.34)  
+1 51% · X 25% · 2 23%  
+1X 77% · X2 49% · 12 75%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Karlsruhe ❌✅❌✅❌ | Osnabruck ➖❌✅❌❌  
+• H2H: 8 desde 2010: 3V-3E-2D · 2.6 goles/partido · +2.5 en 62%  
+• Bajas: Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas  
+• Favorito de las casas: Karlsruhe @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.3: total +10.5 44% · Karlsruhe +5.5 51% · Osnabruck +5.5 28%  
+Tarjetas 2.1 - 2.2: total +4.5 42% · Karlsruhe +2.5 34% · Osnabruck +2.5 38%  
+Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30%  
+Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
+🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
+
+## Karlsruhe vs Osnabruck — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 1.34)  
+1 51% · X 25% · 2 23%  
+1X 77% · X2 49% · 12 75%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Karlsruhe ❌✅❌✅❌ | Osnabruck ➖❌✅❌❌  
+• H2H: 8 desde 2010: 3V-3E-2D · 2.6 goles/partido · +2.5 en 62%  
+• Bajas: Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas  
+• Favorito de las casas: Karlsruhe @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.3: total +10.5 44% · Karlsruhe +5.5 51% · Osnabruck +5.5 28%  
+Tarjetas 2.1 - 2.2: total +4.5 42% · Karlsruhe +2.5 34% · Osnabruck +2.5 38%  
+Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30%  
+Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
+🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
+
+## Karlsruhe vs Osnabruck — 22/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.44** (Unibet) · prob 65% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 1.34)  
+1 51% · X 25% · 2 23%  
+1X 77% · X2 49% · 12 75%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Karlsruhe ❌✅❌✅❌ | Osnabruck ➖❌✅❌❌  
+• H2H: 8 desde 2010: 3V-3E-2D · 2.6 goles/partido · +2.5 en 62%  
+• Bajas: Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas  
+• Favorito de las casas: Karlsruhe @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.3: total +10.5 44% · Karlsruhe +5.5 51% · Osnabruck +5.5 28%  
+Tarjetas 2.1 - 2.2: total +4.5 42% · Karlsruhe +2.5 34% · Osnabruck +2.5 38%  
+Faltas 11.9 - 10.9: total +22.5 51% · Karlsruhe +11.5 52% · Osnabruck +12.5 30%  
+Tiros a puerta 5.7 - 4.6: total +10.5 44% · Karlsruhe +5.5 49% · Osnabruck +4.5 47%  
+🧩 Crear apuesta: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Osnabruck + Menos de 12.5 faltas de Osnabruck + Más de 2.5 goles + Menos de 2.5 tarjetas de Karlsruhe + Menos de 10.5 tiros a puerta → prob. 10%, cuota justa 9.87  
+🎯 Simulada (con cuota: Menos de 5.5 córners de Osnabruck + Más de 2.5 goles): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 49% · ventaja +18% → 1 u en la banca de simulación  
 
 ## Horsens vs Silkeborg — 22/11 · 14:00
 
@@ -13504,6 +12954,7 @@ Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 2
 Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
 🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
 
 ## Cordoba vs Oviedo — 22/11 · 14:00
 
@@ -13561,6 +13012,612 @@ Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.98 - 1.32)  
+1 20% · X 28% · 2 52%  
+1X 48% · X2 80% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Konyaspor ➖❌✅❌❌ | Besiktas ✅❌✅➖✅  
+• H2H: 36 desde 2005: 7V-9E-20D · 2.6 goles/partido · +2.5 en 47%  
+• Bajas: Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)  
+• Favorito de las casas: Besiktas @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.5: total +9.5 49% · Konyaspor +5.5 26% · Besiktas +4.5 59%  
+Tarjetas 2.4 - 2.2: total +4.5 48% · Konyaspor +2.5 44% · Besiktas +2.5 37%  
+Faltas 12.9 - 12.1: total +26.5 37% · Konyaspor +13.5 41% · Besiktas +13.5 33%  
+Tiros a puerta 3.6 - 5.0: total +9.5 36% · Konyaspor +5.5 17% · Besiktas +4.5 55%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 2.5 goles → prob. 19%, cuota justa 5.32  
+
+## Barcelona vs Villarreal — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 10.5 córners** @ **1.68** (Unibet) · prob 57% vs casas 55% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.34 - 1.00)  
+1 69% · X 19% · 2 11%  
+1X 89% · X2 31% · 12 81%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 58%  
+Marcadores: 2-1 10% · 2-0 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Barcelona ✅✅❌✅✅ | Villarreal ❌➖✅❌✅  
+• H2H: 40 desde 2005: 28V-6E-6D · 3.6 goles/partido · +2.5 en 68%  
+• Bajas: Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda  
+• Favorito de las casas: Barcelona @ 1.22  
+📐 **Estadísticas esperadas**  
+Córners 8.2 - 3.4: total +10.5 59% · Barcelona +5.5 74% · Villarreal +4.5 27%  
+Tarjetas 1.8 - 2.4: total +4.5 41% · Barcelona +2.5 27% · Villarreal +2.5 43%  
+Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 24%  
+Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
+
+## Barcelona vs Villarreal — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 15.5 córners** @ **1.09** (Unibet) · prob 85% vs casas 84% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.34 - 1.00)  
+1 69% · X 19% · 2 11%  
+1X 89% · X2 31% · 12 81%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 58%  
+Marcadores: 2-1 10% · 2-0 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Barcelona ✅✅❌✅✅ | Villarreal ❌➖✅❌✅  
+• H2H: 40 desde 2005: 28V-6E-6D · 3.6 goles/partido · +2.5 en 68%  
+• Bajas: Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda  
+• Favorito de las casas: Barcelona @ 1.22  
+📐 **Estadísticas esperadas**  
+Córners 8.2 - 3.4: total +10.5 59% · Barcelona +5.5 74% · Villarreal +4.5 27%  
+Tarjetas 1.8 - 2.4: total +4.5 41% · Barcelona +2.5 27% · Villarreal +2.5 43%  
+Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 24%  
+Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
+
+## Barcelona vs Villarreal — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Villarreal** @ **1.16** (Unibet) · prob 80% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.34 - 1.00)  
+1 69% · X 19% · 2 11%  
+1X 89% · X2 31% · 12 81%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 58%  
+Marcadores: 2-1 10% · 2-0 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Barcelona ✅✅❌✅✅ | Villarreal ❌➖✅❌✅  
+• H2H: 40 desde 2005: 28V-6E-6D · 3.6 goles/partido · +2.5 en 68%  
+• Bajas: Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda  
+• Favorito de las casas: Barcelona @ 1.22  
+📐 **Estadísticas esperadas**  
+Córners 8.2 - 3.4: total +10.5 59% · Barcelona +5.5 74% · Villarreal +4.5 27%  
+Tarjetas 1.8 - 2.4: total +4.5 41% · Barcelona +2.5 27% · Villarreal +2.5 43%  
+Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 24%  
+Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
+
+## Barcelona vs Villarreal — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 3.5 córners de Villarreal** @ **1.70** (Unibet) · prob 56% vs casas 54% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.34 - 1.00)  
+1 69% · X 19% · 2 11%  
+1X 89% · X2 31% · 12 81%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 58%  
+Marcadores: 2-1 10% · 2-0 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Barcelona ✅✅❌✅✅ | Villarreal ❌➖✅❌✅  
+• H2H: 40 desde 2005: 28V-6E-6D · 3.6 goles/partido · +2.5 en 68%  
+• Bajas: Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda  
+• Favorito de las casas: Barcelona @ 1.22  
+📐 **Estadísticas esperadas**  
+Córners 8.2 - 3.4: total +10.5 59% · Barcelona +5.5 74% · Villarreal +4.5 27%  
+Tarjetas 1.8 - 2.4: total +4.5 41% · Barcelona +2.5 27% · Villarreal +2.5 43%  
+Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 24%  
+Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
+
+## Barcelona vs Villarreal — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 8.5 córners de Barcelona** @ **2.43** (Unibet) · prob 40% vs casas 38% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.34 - 1.00)  
+1 69% · X 19% · 2 11%  
+1X 89% · X2 31% · 12 81%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 58%  
+Marcadores: 2-1 10% · 2-0 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Barcelona ✅✅❌✅✅ | Villarreal ❌➖✅❌✅  
+• H2H: 40 desde 2005: 28V-6E-6D · 3.6 goles/partido · +2.5 en 68%  
+• Bajas: Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda  
+• Favorito de las casas: Barcelona @ 1.22  
+📐 **Estadísticas esperadas**  
+Córners 8.2 - 3.4: total +10.5 59% · Barcelona +5.5 74% · Villarreal +4.5 27%  
+Tarjetas 1.8 - 2.4: total +4.5 41% · Barcelona +2.5 27% · Villarreal +2.5 43%  
+Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 24%  
+Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
+
+## Barcelona vs Villarreal — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 10.5 córners de Barcelona** @ **1.18** (Unibet) · prob 76% vs casas 78% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.34 - 1.00)  
+1 69% · X 19% · 2 11%  
+1X 89% · X2 31% · 12 81%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 58%  
+Marcadores: 2-1 10% · 2-0 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Barcelona ✅✅❌✅✅ | Villarreal ❌➖✅❌✅  
+• H2H: 40 desde 2005: 28V-6E-6D · 3.6 goles/partido · +2.5 en 68%  
+• Bajas: Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda  
+• Favorito de las casas: Barcelona @ 1.22  
+📐 **Estadísticas esperadas**  
+Córners 8.2 - 3.4: total +10.5 59% · Barcelona +5.5 74% · Villarreal +4.5 27%  
+Tarjetas 1.8 - 2.4: total +4.5 41% · Barcelona +2.5 27% · Villarreal +2.5 43%  
+Faltas 10.7 - 10.2: total +25.5 18% · Barcelona +12.5 29% · Villarreal +12.5 24%  
+Tiros a puerta 7.8 - 2.9: total +9.5 61% · Barcelona +4.5 85% · Villarreal +3.5 33%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 28%, cuota justa 3.51  
+🎯 No simulada (con cuota: Más de 5.5 córners de Barcelona + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.65 (producto de piernas) · prob. 54% · ventaja -10%  
+
+## Cordoba vs Oviedo — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Oviedo** @ **2.07** (Unibet) · prob 48% vs casas 44% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.35)  
+1 37% · X 29% · 2 33%  
+1X 67% · X2 63% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Cordoba ✅✅➖✅➖ | Oviedo ✅➖❌✅❌  
+• H2H: 10 desde 2015: 4V-3E-3D · 3.4 goles/partido · +2.5 en 60%  
+• Bajas: Cordoba: sin bajas; Oviedo: sin bajas  
+• Favorito de las casas: Cordoba @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 3.7: total +9.5 57% · Cordoba +5.5 59% · Oviedo +4.5 32%  
+Tarjetas 2.6 - 3.2: total +5.5 52% · Cordoba +2.5 49% · Oviedo +3.5 40%  
+Faltas 14.9 - 13.9: total +26.5 64% · Cordoba +13.5 62% · Oviedo +13.5 52%  
+Tiros a puerta 5.6 - 4.0: total +8.5 61% · Cordoba +5.5 48% · Oviedo +4.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo → prob. 30%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo + Menos de 3.5 tarjetas de Oviedo → prob. 16%, cuota justa 6.35  
+
+## Cordoba vs Oviedo — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Oviedo** @ **1.62** (Unibet) · prob 52% vs casas 56% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.35)  
+1 37% · X 29% · 2 33%  
+1X 67% · X2 63% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Cordoba ✅✅➖✅➖ | Oviedo ✅➖❌✅❌  
+• H2H: 10 desde 2015: 4V-3E-3D · 3.4 goles/partido · +2.5 en 60%  
+• Bajas: Cordoba: sin bajas; Oviedo: sin bajas  
+• Favorito de las casas: Cordoba @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 3.7: total +9.5 57% · Cordoba +5.5 59% · Oviedo +4.5 32%  
+Tarjetas 2.6 - 3.2: total +5.5 52% · Cordoba +2.5 49% · Oviedo +3.5 40%  
+Faltas 14.9 - 13.9: total +26.5 64% · Cordoba +13.5 62% · Oviedo +13.5 52%  
+Tiros a puerta 5.6 - 4.0: total +8.5 61% · Cordoba +5.5 48% · Oviedo +4.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo → prob. 30%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo + Menos de 3.5 tarjetas de Oviedo → prob. 16%, cuota justa 6.35  
+
+## Cordoba vs Oviedo — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Cordoba** @ **1.47** (Unibet) · prob 60% vs casas 62% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.35)  
+1 37% · X 29% · 2 33%  
+1X 67% · X2 63% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Cordoba ✅✅➖✅➖ | Oviedo ✅➖❌✅❌  
+• H2H: 10 desde 2015: 4V-3E-3D · 3.4 goles/partido · +2.5 en 60%  
+• Bajas: Cordoba: sin bajas; Oviedo: sin bajas  
+• Favorito de las casas: Cordoba @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 3.7: total +9.5 57% · Cordoba +5.5 59% · Oviedo +4.5 32%  
+Tarjetas 2.6 - 3.2: total +5.5 52% · Cordoba +2.5 49% · Oviedo +3.5 40%  
+Faltas 14.9 - 13.9: total +26.5 64% · Cordoba +13.5 62% · Oviedo +13.5 52%  
+Tiros a puerta 5.6 - 4.0: total +8.5 61% · Cordoba +5.5 48% · Oviedo +4.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo → prob. 30%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo + Menos de 3.5 tarjetas de Oviedo → prob. 16%, cuota justa 6.35  
+
+## Cordoba vs Oviedo — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Cordoba** @ **1.84** (Unibet) · prob 52% vs casas 50% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.35)  
+1 37% · X 29% · 2 33%  
+1X 67% · X2 63% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Cordoba ✅✅➖✅➖ | Oviedo ✅➖❌✅❌  
+• H2H: 10 desde 2015: 4V-3E-3D · 3.4 goles/partido · +2.5 en 60%  
+• Bajas: Cordoba: sin bajas; Oviedo: sin bajas  
+• Favorito de las casas: Cordoba @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 3.7: total +9.5 57% · Cordoba +5.5 59% · Oviedo +4.5 32%  
+Tarjetas 2.6 - 3.2: total +5.5 52% · Cordoba +2.5 49% · Oviedo +3.5 40%  
+Faltas 14.9 - 13.9: total +26.5 64% · Cordoba +13.5 62% · Oviedo +13.5 52%  
+Tiros a puerta 5.6 - 4.0: total +8.5 61% · Cordoba +5.5 48% · Oviedo +4.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo → prob. 30%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo + Menos de 3.5 tarjetas de Oviedo → prob. 16%, cuota justa 6.35  
+
+## Cordoba vs Oviedo — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 9.5 córners** @ **1.42** (Unibet) · prob 61% vs casas 64% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.35)  
+1 37% · X 29% · 2 33%  
+1X 67% · X2 63% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Cordoba ✅✅➖✅➖ | Oviedo ✅➖❌✅❌  
+• H2H: 10 desde 2015: 4V-3E-3D · 3.4 goles/partido · +2.5 en 60%  
+• Bajas: Cordoba: sin bajas; Oviedo: sin bajas  
+• Favorito de las casas: Cordoba @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 3.7: total +9.5 57% · Cordoba +5.5 59% · Oviedo +4.5 32%  
+Tarjetas 2.6 - 3.2: total +5.5 52% · Cordoba +2.5 49% · Oviedo +3.5 40%  
+Faltas 14.9 - 13.9: total +26.5 64% · Cordoba +13.5 62% · Oviedo +13.5 52%  
+Tiros a puerta 5.6 - 4.0: total +8.5 61% · Cordoba +5.5 48% · Oviedo +4.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo → prob. 30%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo + Menos de 3.5 tarjetas de Oviedo → prob. 16%, cuota justa 6.35  
+
+## Cordoba vs Oviedo — 22/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 9.5 córners** @ **2.55** (Unibet) · prob 39% vs casas 36% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.35)  
+1 37% · X 29% · 2 33%  
+1X 67% · X2 63% · 12 71%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Cordoba ✅✅➖✅➖ | Oviedo ✅➖❌✅❌  
+• H2H: 10 desde 2015: 4V-3E-3D · 3.4 goles/partido · +2.5 en 60%  
+• Bajas: Cordoba: sin bajas; Oviedo: sin bajas  
+• Favorito de las casas: Cordoba @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 3.7: total +9.5 57% · Cordoba +5.5 59% · Oviedo +4.5 32%  
+Tarjetas 2.6 - 3.2: total +5.5 52% · Cordoba +2.5 49% · Oviedo +3.5 40%  
+Faltas 14.9 - 13.9: total +26.5 64% · Cordoba +13.5 62% · Oviedo +13.5 52%  
+Tiros a puerta 5.6 - 4.0: total +8.5 61% · Cordoba +5.5 48% · Oviedo +4.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo → prob. 30%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Oviedo + Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Oviedo + Menos de 3.5 tarjetas de Oviedo → prob. 16%, cuota justa 6.35  
+
+## Kasimpasa vs Alanyaspor — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Kasimpasa** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.26)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Kasimpasa ❌✅✅➖✅ | Alanyaspor ➖❌❌❌❌  
+• H2H: 20 desde 2016: 12V-2E-6D · 3.5 goles/partido · +2.5 en 90%  
+• Bajas: Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)  
+• Favorito de las casas: Kasimpasa @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · Kasimpasa +5.5 39% · Alanyaspor +4.5 37%  
+Tarjetas 2.2 - 2.3: total +4.5 45% · Kasimpasa +2.5 37% · Alanyaspor +2.5 40%  
+Faltas 15.9 - 13.4: total +26.5 67% · Kasimpasa +13.5 70% · Alanyaspor +13.5 46%  
+Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa + Menos de 4.5 córners de Alanyaspor → prob. 21%, cuota justa 4.67  
+
+## Kasimpasa vs Alanyaspor — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Kasimpasa** @ **1.54** (Unibet) · prob 60% vs casas 60% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.26)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Kasimpasa ❌✅✅➖✅ | Alanyaspor ➖❌❌❌❌  
+• H2H: 20 desde 2016: 12V-2E-6D · 3.5 goles/partido · +2.5 en 90%  
+• Bajas: Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)  
+• Favorito de las casas: Kasimpasa @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · Kasimpasa +5.5 39% · Alanyaspor +4.5 37%  
+Tarjetas 2.2 - 2.3: total +4.5 45% · Kasimpasa +2.5 37% · Alanyaspor +2.5 40%  
+Faltas 15.9 - 13.4: total +26.5 67% · Kasimpasa +13.5 70% · Alanyaspor +13.5 46%  
+Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa + Menos de 4.5 córners de Alanyaspor → prob. 21%, cuota justa 4.67  
+
+## Kasimpasa vs Alanyaspor — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Alanyaspor** @ **1.55** (Unibet) · prob 56% vs casas 59% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.26)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Kasimpasa ❌✅✅➖✅ | Alanyaspor ➖❌❌❌❌  
+• H2H: 20 desde 2016: 12V-2E-6D · 3.5 goles/partido · +2.5 en 90%  
+• Bajas: Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)  
+• Favorito de las casas: Kasimpasa @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · Kasimpasa +5.5 39% · Alanyaspor +4.5 37%  
+Tarjetas 2.2 - 2.3: total +4.5 45% · Kasimpasa +2.5 37% · Alanyaspor +2.5 40%  
+Faltas 15.9 - 13.4: total +26.5 67% · Kasimpasa +13.5 70% · Alanyaspor +13.5 46%  
+Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa + Menos de 4.5 córners de Alanyaspor → prob. 21%, cuota justa 4.67  
+
+## Kasimpasa vs Alanyaspor — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Alanyaspor** @ **2.25** (Unibet) · prob 44% vs casas 41% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.26)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Kasimpasa ❌✅✅➖✅ | Alanyaspor ➖❌❌❌❌  
+• H2H: 20 desde 2016: 12V-2E-6D · 3.5 goles/partido · +2.5 en 90%  
+• Bajas: Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)  
+• Favorito de las casas: Kasimpasa @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · Kasimpasa +5.5 39% · Alanyaspor +4.5 37%  
+Tarjetas 2.2 - 2.3: total +4.5 45% · Kasimpasa +2.5 37% · Alanyaspor +2.5 40%  
+Faltas 15.9 - 13.4: total +26.5 67% · Kasimpasa +13.5 70% · Alanyaspor +13.5 46%  
+Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa + Menos de 4.5 córners de Alanyaspor → prob. 21%, cuota justa 4.67  
+
+## Kasimpasa vs Alanyaspor — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.26)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Kasimpasa ❌✅✅➖✅ | Alanyaspor ➖❌❌❌❌  
+• H2H: 20 desde 2016: 12V-2E-6D · 3.5 goles/partido · +2.5 en 90%  
+• Bajas: Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)  
+• Favorito de las casas: Kasimpasa @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · Kasimpasa +5.5 39% · Alanyaspor +4.5 37%  
+Tarjetas 2.2 - 2.3: total +4.5 45% · Kasimpasa +2.5 37% · Alanyaspor +2.5 40%  
+Faltas 15.9 - 13.4: total +26.5 67% · Kasimpasa +13.5 70% · Alanyaspor +13.5 46%  
+Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa + Menos de 4.5 córners de Alanyaspor → prob. 21%, cuota justa 4.67  
+
+## Kasimpasa vs Alanyaspor — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 9.5 córners** @ **1.76** (Unibet) · prob 55% vs casas 52% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.26)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Kasimpasa ❌✅✅➖✅ | Alanyaspor ➖❌❌❌❌  
+• H2H: 20 desde 2016: 12V-2E-6D · 3.5 goles/partido · +2.5 en 90%  
+• Bajas: Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)  
+• Favorito de las casas: Kasimpasa @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · Kasimpasa +5.5 39% · Alanyaspor +4.5 37%  
+Tarjetas 2.2 - 2.3: total +4.5 45% · Kasimpasa +2.5 37% · Alanyaspor +2.5 40%  
+Faltas 15.9 - 13.4: total +26.5 67% · Kasimpasa +13.5 70% · Alanyaspor +13.5 46%  
+Tiros a puerta 5.1 - 3.3: total +9.5 34% · Kasimpasa +5.5 39% · Alanyaspor +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alanyaspor + Más de 13.5 faltas de Kasimpasa + Menos de 2.5 tarjetas de Kasimpasa + Menos de 4.5 córners de Alanyaspor → prob. 21%, cuota justa 4.67  
+
+## Konyaspor vs Besiktas — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Besiktas** @ **1.46** (Unibet) · prob 61% vs casas 63% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.98 - 1.32)  
+1 20% · X 28% · 2 52%  
+1X 48% · X2 80% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Konyaspor ➖❌✅❌❌ | Besiktas ✅❌✅➖✅  
+• H2H: 36 desde 2005: 7V-9E-20D · 2.6 goles/partido · +2.5 en 47%  
+• Bajas: Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)  
+• Favorito de las casas: Besiktas @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.5: total +9.5 49% · Konyaspor +5.5 26% · Besiktas +4.5 59%  
+Tarjetas 2.4 - 2.2: total +4.5 48% · Konyaspor +2.5 44% · Besiktas +2.5 37%  
+Faltas 12.9 - 12.1: total +26.5 37% · Konyaspor +13.5 41% · Besiktas +13.5 33%  
+Tiros a puerta 3.6 - 5.0: total +9.5 36% · Konyaspor +5.5 17% · Besiktas +4.5 55%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 2.5 goles → prob. 19%, cuota justa 5.32  
+
+## Konyaspor vs Besiktas — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Besiktas** @ **1.84** (Unibet) · prob 52% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.98 - 1.32)  
+1 20% · X 28% · 2 52%  
+1X 48% · X2 80% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Konyaspor ➖❌✅❌❌ | Besiktas ✅❌✅➖✅  
+• H2H: 36 desde 2005: 7V-9E-20D · 2.6 goles/partido · +2.5 en 47%  
+• Bajas: Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)  
+• Favorito de las casas: Besiktas @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.5: total +9.5 49% · Konyaspor +5.5 26% · Besiktas +4.5 59%  
+Tarjetas 2.4 - 2.2: total +4.5 48% · Konyaspor +2.5 44% · Besiktas +2.5 37%  
+Faltas 12.9 - 12.1: total +26.5 37% · Konyaspor +13.5 41% · Besiktas +13.5 33%  
+Tiros a puerta 3.6 - 5.0: total +9.5 36% · Konyaspor +5.5 17% · Besiktas +4.5 55%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 2.5 goles → prob. 19%, cuota justa 5.32  
+
+## Konyaspor vs Besiktas — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Konyaspor** @ **1.70** (Unibet) · prob 55% vs casas 54% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.98 - 1.32)  
+1 20% · X 28% · 2 52%  
+1X 48% · X2 80% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Konyaspor ➖❌✅❌❌ | Besiktas ✅❌✅➖✅  
+• H2H: 36 desde 2005: 7V-9E-20D · 2.6 goles/partido · +2.5 en 47%  
+• Bajas: Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)  
+• Favorito de las casas: Besiktas @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.5: total +9.5 49% · Konyaspor +5.5 26% · Besiktas +4.5 59%  
+Tarjetas 2.4 - 2.2: total +4.5 48% · Konyaspor +2.5 44% · Besiktas +2.5 37%  
+Faltas 12.9 - 12.1: total +26.5 37% · Konyaspor +13.5 41% · Besiktas +13.5 33%  
+Tiros a puerta 3.6 - 5.0: total +9.5 36% · Konyaspor +5.5 17% · Besiktas +4.5 55%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 2.5 goles → prob. 19%, cuota justa 5.32  
+
+## Konyaspor vs Besiktas — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Konyaspor** @ **1.50** (Unibet) · prob 61% vs casas 61% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.98 - 1.32)  
+1 20% · X 28% · 2 52%  
+1X 48% · X2 80% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Konyaspor ➖❌✅❌❌ | Besiktas ✅❌✅➖✅  
+• H2H: 36 desde 2005: 7V-9E-20D · 2.6 goles/partido · +2.5 en 47%  
+• Bajas: Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)  
+• Favorito de las casas: Besiktas @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.5: total +9.5 49% · Konyaspor +5.5 26% · Besiktas +4.5 59%  
+Tarjetas 2.4 - 2.2: total +4.5 48% · Konyaspor +2.5 44% · Besiktas +2.5 37%  
+Faltas 12.9 - 12.1: total +26.5 37% · Konyaspor +13.5 41% · Besiktas +13.5 33%  
+Tiros a puerta 3.6 - 5.0: total +9.5 36% · Konyaspor +5.5 17% · Besiktas +4.5 55%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 2.5 goles → prob. 19%, cuota justa 5.32  
+
+## Konyaspor vs Besiktas — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 8.5 córners** @ **1.46** (Unibet) · prob 62% vs casas 63% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.98 - 1.32)  
+1 20% · X 28% · 2 52%  
+1X 48% · X2 80% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Konyaspor ➖❌✅❌❌ | Besiktas ✅❌✅➖✅  
+• H2H: 36 desde 2005: 7V-9E-20D · 2.6 goles/partido · +2.5 en 47%  
+• Bajas: Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)  
+• Favorito de las casas: Besiktas @ 1.62  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.5: total +9.5 49% · Konyaspor +5.5 26% · Besiktas +4.5 59%  
+Tarjetas 2.4 - 2.2: total +4.5 48% · Konyaspor +2.5 44% · Besiktas +2.5 37%  
+Faltas 12.9 - 12.1: total +26.5 37% · Konyaspor +13.5 41% · Besiktas +13.5 33%  
+Tiros a puerta 3.6 - 5.0: total +9.5 36% · Konyaspor +5.5 17% · Besiktas +4.5 55%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Konyaspor + Menos de 5.5 córners de Konyaspor + Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 2.5 goles → prob. 19%, cuota justa 5.32  
+
+## Konyaspor vs Besiktas — 22/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.37** (Unibet) · prob 70% vs casas 67% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 0.98 - 1.32)  
 1 20% · X 28% · 2 52%  
