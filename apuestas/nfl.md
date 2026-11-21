@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 21/11/2026 02:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Wyoming Cowboys vs New Mexico Lobos — 21/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 37.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **42.7** puntos · línea 37.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Wyoming Cowboys ✅✅✅✅✅ | New Mexico Lobos ✅✅✅✅❌  
-• H2H: 9 desde 2016: 6-3  
-• Bajas: Wyoming Cowboys: sin bajas; New Mexico Lobos: sin bajas  
-
-## Wyoming Cowboys vs New Mexico Lobos — 21/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Wyoming Cowboys +7.5** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Wyoming Cowboys cubre +7.5 con prob. 52% (casas 52%)  
-🔎 **Claves**  
-• Forma: Wyoming Cowboys ✅✅✅✅✅ | New Mexico Lobos ✅✅✅✅❌  
-• H2H: 9 desde 2016: 6-3  
-• Bajas: Wyoming Cowboys: sin bajas; New Mexico Lobos: sin bajas  
-
-## Wyoming Cowboys vs New Mexico Lobos — 21/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Wyoming Cowboys** @ **3.45** (DraftKings) · prob 28% vs casas 28% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.585 partidos y bajas)  
-Gana Wyoming Cowboys 35% · Gana New Mexico Lobos 65%  
-Casas: Wyoming Cowboys 28% · New Mexico Lobos 72%  
-Hándicap UNM -7.5 · Total puntos 37.5  
-🔎 **Claves**  
-• Forma: Wyoming Cowboys ✅✅✅✅✅ | New Mexico Lobos ✅✅✅✅❌  
-• H2H: 9 desde 2016: 6-3  
-• Bajas: Wyoming Cowboys: sin bajas; New Mexico Lobos: sin bajas  
-• Favorito de las casas: New Mexico Lobos @ 1.33  
+Actualizado 21/11/2026 03:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kansas Jayhawks vs BYU Cougars — 21/11 · 18:00
 

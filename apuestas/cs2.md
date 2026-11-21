@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 21/11/2026 02:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 03:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nuclear TigeRES vs Hype Tech — 21/11 · 10:00
 
