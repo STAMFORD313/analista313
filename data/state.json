@@ -1255,9 +1255,6 @@
   "cbb|2026-11-21|Middle Tennessee Blue Raiders|Indiana State Sycamores",
   "cbb|2026-11-21|Indiana State Sycamores|Middle Tennessee Blue Raiders",
   "cbb|2026-11-22|Stephen F. Austin Lumberjacks|Temple Owls",
-  "fc|2382390",
-  "fc|2382317",
-  "fc|2382313",
   "fc|2382555",
   "cs2|134314",
   "fc|2382917",
@@ -2257,7 +2254,10 @@
   "fc|2390445",
   "fc|2392231",
   "fc|2390698",
-  "fc|2390688"
+  "fc|2390688",
+  "fc|2392137",
+  "fc|2392253",
+  "fc|2392138"
  ],
  "signals": [
   {
@@ -4068,7 +4068,11 @@
    "version": "3bc0f40",
    "bajas": "Michigan State Spartans: sin bajas; Oregon Ducks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "7-45",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4089,7 +4093,11 @@
    "version": "3bc0f40",
    "bajas": "Michigan State Spartans: sin bajas; Oregon Ducks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-45",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -4109,7 +4117,11 @@
    "version": "3bc0f40",
    "bajas": "Michigan State Spartans: sin bajas; Oregon Ducks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "7-45",
+   "close_p": 0.8793,
+   "logged": true
   },
   {
    "market": "over",
@@ -4647,31 +4659,6 @@
    "score": "0-2",
    "result": true,
    "close_p": 0.7855,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "hotShot",
-   "odds": 2.4,
-   "book": "Unibet",
-   "implied": 0.361,
-   "edge": 0.155,
-   "sin_stake": true,
-   "p": 0.481,
-   "key": "fc|2384030",
-   "match": "hotShot vs RossFCDK",
-   "start": "2026-11-18T04:38:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hotShot vs RossFCDK (Serie A): goles esperados 2.28-1.84, 1X2 48%/23%/29%. Sin cuotas de casa.",
-   "captured": "2026-11-18T04:22",
-   "version": "6fed35c",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-1",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -47765,19 +47752,6 @@
    "start": "2026-11-21T04:47:00+00:00",
    "league": "🎮⚽ FC 27 · Club World Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.597 partidos)",
-    "Goles esperados: reddevil 1.54 · Kavviro 3.21",
-    "Ganador: reddevil 10% · empate 15% · Kavviro 75%",
-    "Total: más de 4.5 goles 51% · menos 49%",
-    "Hándicap Kavviro: −1.5 52% · −2.5 34%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: reddevil ❌❌✅➖❌ | Kavviro ✅✅✅➖➖",
-    "• Partidos: reddevil 56 | Kavviro 1074",
-    "• Liga: Club World Cup",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle reddevil vs Kavviro (Club World Cup): goles esperados 1.54-3.21, 1X2 10%/15%/75%. Sin cuotas de casa.",
    "captured": "2026-11-21T03:46",
    "version": "5fa6068",
@@ -47926,26 +47900,16 @@
    "start": "2026-11-21T04:26:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 75.627 partidos)",
-    "Goles esperados: kirman 3.09 · hrk 2.79",
-    "Ganador: kirman 43% · empate 21% · hrk 35%",
-    "Total: más de 5.5 goles 54% · menos 46%",
-    "Hándicap kirman: −1.5 30% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kirman ❌➖✅✅❌ | hrk ✅✅✅❌➖",
-    "• Partidos: kirman 792 | hrk 947",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.00 · X 4.60 · 2 1.68 (sin margen 29%/19%/52%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.00 (+30%) · Paf España 3.00 (+30%)"
-   ],
    "context": "EA FC Esoccer Battle kirman vs hrk (Serie A): goles esperados 3.09-2.79, 1X2 43%/21%/35%. Sin cuotas de casa.",
    "captured": "2026-11-21T04:24",
    "version": "7a78cc8",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -48012,6 +47976,42 @@
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "imagin",
+   "odds": 3.35,
+   "book": "Unibet",
+   "implied": 0.262,
+   "edge": 0.103,
+   "sin_stake": true,
+   "p": 0.329,
+   "key": "fc|2392137",
+   "match": "imagin vs Frantsuz",
+   "start": "2026-11-21T05:00:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 75.640 partidos)",
+    "Goles esperados: imagin 4.56 · Frantsuz 5.01",
+    "Ganador: imagin 33% · empate 14% · Frantsuz 53%",
+    "Total: más de 9.5 goles 49% · menos 51%",
+    "Hándicap Frantsuz: −1.5 36% · −2.5 25%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: imagin ❌✅✅❌✅ | Frantsuz ❌✅❌❌❌",
+    "• Partidos: imagin 356 | Frantsuz 758",
+    "• Liga: Premier League 2x6",
+    "• Unibet: 1 3.35 · X 5.80 · 2 1.50 (sin margen 26%/15%/59%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.35 (+10%) · Paf España 3.35 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle imagin vs Frantsuz (Premier League 2x6): goles esperados 4.56-5.01, 1X2 33%/14%/53%. Sin cuotas de casa.",
+   "captured": "2026-11-21T04:47",
+   "version": "115c3b4",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -48474,7 +48474,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-20T20:26:44.019849+00:00",
+ "fc_sent": "2026-11-21T04:47:45.070926+00:00",
  "sgp": {
   "nfl|2026-11-22|Detroit Lions|Tampa Bay Buccaneers": {
    "match": "Detroit Lions vs Tampa Bay Buccaneers",
@@ -65390,7 +65390,8 @@
   "nba|2026-11-22|New York Knicks|Portland Trail Blazers",
   "nba|2026-11-22|Dallas Mavericks|LA Clippers",
   "nba|2026-11-22|Minnesota Timberwolves|Memphis Grizzlies",
-  "nba|2026-11-22|San Antonio Spurs|New Orleans Pelicans"
+  "nba|2026-11-22|San Antonio Spurs|New Orleans Pelicans",
+  "nba|2026-11-22|Sacramento Kings|Boston Celtics"
  ],
  "radar_date": "2026-11-20",
  "sgp_res_sent": "2026-11-21T00:24:22.197945+00:00"

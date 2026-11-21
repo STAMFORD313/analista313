@@ -1,43 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 21/11/2026 05:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 21/11/2026 05:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## kirman vs hrk — 21/11 · 05:26
+## imagin vs Frantsuz — 21/11 · 06:00
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana kirman** @ **3.00** (Unibet) · prob 43% vs casas 29% · ventaja +30%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana imagin** @ **3.35** (Unibet) · prob 33% vs casas 26% · ventaja +10%
 
-- ❌ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 75.627 partidos)  
-Goles esperados: kirman 3.09 · hrk 2.79  
-Ganador: kirman 43% · empate 21% · hrk 35%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap kirman: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 75.640 partidos)  
+Goles esperados: imagin 4.56 · Frantsuz 5.01  
+Ganador: imagin 33% · empate 14% · Frantsuz 53%  
+Total: más de 9.5 goles 49% · menos 51%  
+Hándicap Frantsuz: −1.5 36% · −2.5 25%  
 🔎 **Claves**  
-• Forma: kirman ❌➖✅✅❌ | hrk ✅✅✅❌➖  
-• Partidos: kirman 792 | hrk 947  
-• Liga: Serie A  
-• Unibet: 1 3.00 · X 4.60 · 2 1.68 (sin margen 29%/19%/52%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+30%) · Paf España 3.00 (+30%)  
-
-## reddevil vs Kavviro — 21/11 · 05:47
-
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Kavviro** @ **1.33** (cuota justa (sin casa)) · prob 75% vs casas 75% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 75.597 partidos)  
-Goles esperados: reddevil 1.54 · Kavviro 3.21  
-Ganador: reddevil 10% · empate 15% · Kavviro 75%  
-Total: más de 4.5 goles 51% · menos 49%  
-Hándicap Kavviro: −1.5 52% · −2.5 34%  
-🔎 **Claves**  
-• Forma: reddevil ❌❌✅➖❌ | Kavviro ✅✅✅➖➖  
-• Partidos: reddevil 56 | Kavviro 1074  
-• Liga: Club World Cup  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: imagin ❌✅✅❌✅ | Frantsuz ❌✅❌❌❌  
+• Partidos: imagin 356 | Frantsuz 758  
+• Liga: Premier League 2x6  
+• Unibet: 1 3.35 · X 5.80 · 2 1.50 (sin margen 26%/15%/59%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.35 (+10%) · Paf España 3.35 (+10%)  
 
 ## Kril vs Fireline — 21/11 · 06:09
 
