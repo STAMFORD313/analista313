@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 03:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 03:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tigres UANL vs Club America — 22/11 · 04:00
 

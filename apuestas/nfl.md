@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 03:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Boise State Broncos vs San Diego State Aztecs — 22/11 · 03:30
-
-👀 candidata · 🏈 NCAA Football · **Boise State Broncos -17.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Boise State Broncos cubre -17.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Boise State Broncos ✅✅✅✅✅ | San Diego State Aztecs ❌✅❌✅✅  
-• H2H: 7 desde 2017: 4-3  
-• Bajas: Boise State Broncos: sin bajas; San Diego State Aztecs: sin bajas  
-
-## Boise State Broncos vs San Diego State Aztecs — 22/11 · 03:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Boise State Broncos** @ **1.11** (DraftKings) · prob 86% vs casas 86% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Boise State Broncos 90% · Gana San Diego State Aztecs 10%  
-Casas: Boise State Broncos 86% · San Diego State Aztecs 14%  
-Hándicap BOIS -17.5 · Total puntos 60.5  
-🔎 **Claves**  
-• Forma: Boise State Broncos ✅✅✅✅✅ | San Diego State Aztecs ❌✅❌✅✅  
-• H2H: 7 desde 2017: 4-3  
-• Bajas: Boise State Broncos: sin bajas; San Diego State Aztecs: sin bajas  
-• Favorito de las casas: Boise State Broncos @ 1.11  
+Actualizado 22/11/2026 03:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arizona State Sun Devils vs Oklahoma State Cowboys — 22/11 · 04:15
 

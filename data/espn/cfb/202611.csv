@@ -151,6 +151,7 @@ id,date,event,home,away,hs,as,res
 401856871,2026-11-21T20:30Z,Texas Tech Red Raiders at Baylor Bears,Baylor Bears,Texas Tech Red Raiders,10,20,0.0
 401858531,2026-11-21T17:00Z,Ohio State Buckeyes at Nebraska Cornhuskers,Nebraska Cornhuskers,Ohio State Buckeyes,31,28,1.0
 401858527,2026-11-21T19:30Z,Iowa Hawkeyes at Illinois Fighting Illini,Illinois Fighting Illini,Iowa Hawkeyes,17,34,0.0
+401858534,2026-11-21T23:15Z,Maryland Terrapins at USC Trojans,USC Trojans,Maryland Terrapins,35,21,1.0
 401856868,2026-11-21T18:00Z,Houston Cougars at West Virginia Mountaineers,West Virginia Mountaineers,Houston Cougars,31,34,0.0
 401856752,2026-11-21T20:45Z,Texas A&M Aggies at Oklahoma Sooners,Oklahoma Sooners,Texas A&M Aggies,28,7,1.0
 401856748,2026-11-21T17:00Z,Vanderbilt Commodores at Florida Gators,Florida Gators,Vanderbilt Commodores,34,27,1.0
@@ -181,3 +182,4 @@ id,date,event,home,away,hs,as,res
 401869953,2026-11-21T21:00Z,Georgia Southern Eagles at Troy Trojans,Troy Trojans,Georgia Southern Eagles,7,45,0.0
 401869958,2026-11-21T21:00Z,Georgia State Panthers at Marshall Thundering Herd,Marshall Thundering Herd,Georgia State Panthers,28,27,1.0
 401871101,2026-11-21T21:00Z,South Alabama Jaguars at Southern Miss Golden Eagles,Southern Miss Golden Eagles,South Alabama Jaguars,35,40,0.0
+401860920,2026-11-21T23:00Z,Washington State Cougars at Texas State Bobcats,Texas State Bobcats,Washington State Cougars,42,14,1.0
