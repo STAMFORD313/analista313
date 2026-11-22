@@ -1,74 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 15:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Sonderjyske vs Odense — 22/11 · 16:00
-
-👀 candidata · 🇩🇰 Superliga · **Empate** @ **3.85** (Bet365) · prob 25% vs casas 25% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.54)  
-1 39% · X 26% · 2 35%  
-1X 65% · X2 61% · 12 74%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Sonderjyske ❌✅❌❌➖ | Odense ➖✅➖✅❌  
-• H2H: 35 desde 2012: 11V-17E-7D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Sonderjyske: sin bajas; Odense: sin bajas  
-• Favorito de las casas: Odense @ 2.24  
-
-## Kortrijk vs St. Gilloise — 22/11 · 16:00
-
-👀 candidata · 🇧🇪 Pro League · **Gana St. Gilloise** @ **1.41** (Bwin) · prob 70% vs casas 70% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.74 - 2.15)  
-1 6% · X 16% · 2 78%  
-1X 22% · X2 94% · 12 84%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 47%  
-Marcadores: 0-2 13% · 0-1 11% · 1-2 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Kortrijk ✅❌➖❌❌ | St. Gilloise ✅➖✅✅✅  
-• H2H: 8 desde 2021: 0V-0E-8D · 3.6 goles/partido · +2.5 en 88%  
-• Bajas: Kortrijk: sin bajas; St. Gilloise: sin bajas  
-• Favorito de las casas: St. Gilloise @ 1.41  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.2: total +10.5 43% · Kortrijk +5.5 22% · St. Gilloise +4.5 67%  
-Tarjetas 2.3 - 2.1: total +3.5 61% · Kortrijk +1.5 66% · St. Gilloise +2.5 34%  
-Faltas 12.3 - 11.3: total +22.5 57% · Kortrijk +10.5 67% · St. Gilloise +11.5 46%  
-Tiros a puerta 3.1 - 6.3: total +9.5 46% · Kortrijk +5.5 11% · St. Gilloise +4.5 72%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 49%, cuota justa 2.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk + Más de 1.5 tarjetas de Kortrijk + Más de 2.5 goles → prob. 19%, cuota justa 5.35  
-
-## Panetolikos vs Volos NFC — 22/11 · 16:00
-
-👀 candidata · 🇬🇷 Super League · **Gana Volos NFC** @ **3.10** (Bet365) · prob 31% vs casas 31% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 44% · X 28% · 2 27%  
-1X 73% · X2 56% · 12 72%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Panetolikos ❌❌❌❌❌ | Volos NFC ❌➖❌❌❌  
-• H2H: 20 desde 2019: 6V-6E-8D · 2.0 goles/partido · +2.5 en 35%  
-• Bajas: Panetolikos: sin bajas; Volos NFC: sin bajas  
-• Favorito de las casas: Panetolikos @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 3.4: total +9.5 33% · Panetolikos +4.5 51% · Volos NFC +4.5 28%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Panetolikos +2.5 45% · Volos NFC +3.5 36%  
-Faltas 15.2 - 16.0: total +30.5 53% · Panetolikos +15.5 45% · Volos NFC +15.5 52%  
-Tiros a puerta 3.9 - 3.6: total +8.5 35% · Panetolikos +4.5 36% · Volos NFC +3.5 48%  
-🧩 Crear apuesta: Menos de 4.5 córners de Volos NFC + Menos de 8.5 tiros a puerta + Menos de 3.5 tarjetas de Volos NFC → prob. 30%, cuota justa 3.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Volos NFC + Menos de 8.5 tiros a puerta + Menos de 3.5 tarjetas de Volos NFC + Menos de 15.5 faltas de Panetolikos → prob. 17%, cuota justa 6.00  
+Actualizado 22/11/2026 16:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Santander vs Sociedad — 22/11 · 16:15
 
@@ -3509,6 +3441,163 @@ Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 
 Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
 🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
+
+## Asteras Tripolis vs Aris — 23/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 7.5 córners** @ **1.43** (Unibet) · prob 64% vs casas 63% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.14)  
+1 26% · X 31% · 2 43%  
+1X 57% · X2 74% · 12 69%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅  
+• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%  
+• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas  
+• Favorito de las casas: Aris @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%  
+Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%  
+Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%  
+Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
+
+## Asteras Tripolis vs Aris — 23/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.53** (Unibet) · prob 60% vs casas 59% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.14)  
+1 26% · X 31% · 2 43%  
+1X 57% · X2 74% · 12 69%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅  
+• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%  
+• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas  
+• Favorito de las casas: Aris @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%  
+Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%  
+Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%  
+Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
+
+## Asteras Tripolis vs Aris — 23/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Asteras Tripolis** @ **1.63** (Unibet) · prob 58% vs casas 55% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.14)  
+1 26% · X 31% · 2 43%  
+1X 57% · X2 74% · 12 69%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅  
+• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%  
+• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas  
+• Favorito de las casas: Aris @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%  
+Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%  
+Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%  
+Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
+
+## Asteras Tripolis vs Aris — 23/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 4.5 córners de Asteras Tripolis** @ **1.52** (Unibet) · prob 57% vs casas 59% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.14)  
+1 26% · X 31% · 2 43%  
+1X 57% · X2 74% · 12 69%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅  
+• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%  
+• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas  
+• Favorito de las casas: Aris @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%  
+Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%  
+Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%  
+Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
+
+## Asteras Tripolis vs Aris — 23/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de Aris** @ **1.87** (Unibet) · prob 46% vs casas 48% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.14)  
+1 26% · X 31% · 2 43%  
+1X 57% · X2 74% · 12 69%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅  
+• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%  
+• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas  
+• Favorito de las casas: Aris @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%  
+Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%  
+Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%  
+Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
+
+## Asteras Tripolis vs Aris — 23/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 4.5 córners de Aris** @ **1.73** (Unibet) · prob 54% vs casas 52% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.14)  
+1 26% · X 31% · 2 43%  
+1X 57% · X2 74% · 12 69%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Asteras Tripolis ✅❌➖❌➖ | Aris ✅✅✅❌✅  
+• H2H: 34 desde 2007: 8V-9E-17D · 2.5 goles/partido · +2.5 en 41%  
+• Bajas: Asteras Tripolis: sin bajas; Aris: sin bajas  
+• Favorito de las casas: Aris @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.4: total +9.5 39% · Asteras Tripolis +4.5 44% · Aris +4.5 43%  
+Tarjetas 2.5 - 2.6: total +5.5 40% · Asteras Tripolis +2.5 46% · Aris +3.5 26%  
+Faltas 14.1 - 15.2: total +30.5 40% · Asteras Tripolis +15.5 35% · Aris +15.5 45%  
+Tiros a puerta 3.9 - 3.8: total +8.5 37% · Asteras Tripolis +4.5 36% · Aris +3.5 52%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Aris + Menos de 15.5 faltas de Asteras Tripolis + Menos de 4.5 tiros a puerta de Asteras Tripolis + Menos de 9.5 córners + Menos de 2.5 goles → prob. 13%, cuota justa 7.72  
+🎯 No simulada (con cuota: Menos de 9.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 36% · ventaja -6%  
 
 ## Buyuksehyr vs Corum — 23/11 · 18:00
 

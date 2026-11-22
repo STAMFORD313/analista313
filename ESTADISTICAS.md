@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 22/11/2026 15:36
+Actualizado: 22/11/2026 16:06
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 
@@ -29,11 +29,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 1277 | 28% | 20% | 0.167 | 0.162 | -15.3 % |
-| 40%-55% | 1697 | 48% | 43% | 0.246 | 0.242 | -8.0 % |
+| 0%-40% | 1278 | 28% | 20% | 0.167 | 0.162 | -15.4 % |
+| 40%-55% | 1699 | 48% | 43% | 0.246 | 0.242 | -8.2 % |
 | 55%-70% | 1200 | 62% | 59% | 0.240 | 0.240 | -4.8 % |
 | 70%-100% | 764 | 78% | 80% | 0.158 | 0.163 | -1.3 % |
-| Total | 4938 | 51% | 47% | 0.210 | 0.209 | -8.1 % |
+| Total | 4941 | 51% | 47% | 0.210 | 0.209 | -8.1 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -46,11 +46,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽ | ganador | 176 | 45% | 45% | 0.185 | 0.184 | -11.6 % |
 | ⚽ | goles/totales | 28 | 51% | 43% | 0.243 | 0.238 | -20.6 % |
 | ⚽ | hándicap | 65 | 50% | 48% | 0.251 | 0.251 | -6.0 % |
-| ⚽💎 | ganador | 56 | 53% | 46% | 0.242 | 0.242 | -9.3 % |
+| ⚽💎 | ganador | 57 | 53% | 46% | 0.242 | 0.242 | -10.8 % |
 | ⚽💎⚽ | goles/totales | 17 | 49% | 65% | 0.252 | 0.252 | +38.4 % |
 | 🎮 | ganador | 193 | 55% | 48% | 0.220 | 0.212 | -18.0 % |
 | 🎮 | hándicap | 16 | 42% | 38% | 0.225 | 0.227 | +1.8 % |
-| 🎮⚽ | ganador | 2123 | 42% | 34% | 0.203 | 0.199 | -7.1 % |
+| 🎮⚽ | ganador | 2125 | 42% | 34% | 0.203 | 0.199 | -7.1 % |
 | 🏀 | ganador | 117 | 73% | 71% | 0.151 | 0.152 | -2.7 % |
 | 🏀 | goles/totales | 18 | 50% | 83% | 0.246 | 0.250 | +58.8 % |
 | 🏀 | hándicap | 15 | 50% | 40% | 0.254 | 0.254 | -23.1 % |
