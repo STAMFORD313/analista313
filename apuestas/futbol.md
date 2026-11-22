@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 22:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Fluminense vs Mirassol — 22/11 · 22:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Fluminense** @ **1.63** (Bet365) · prob 59% vs casas 59% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 0.80)  
-1 54% · X 26% · 2 20%  
-1X 80% · X2 46% · 12 74%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Fluminense ❌❌✅✅✅ | Mirassol ✅➖❌✅➖  
-• H2H: 3 desde 2025: 1V-0E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Fluminense: 1 fuera, 2 duda (John Kennedy); Mirassol: sin bajas  
-• Favorito de las casas: Fluminense @ 1.63  
+Actualizado 22/11/2026 22:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## River Plate vs Lanus — 22/11 · 23:00
 
