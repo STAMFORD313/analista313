@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 20:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FlyQuest RED vs Axial — 23/11 · 02:00
 
