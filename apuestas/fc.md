@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 08:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 09:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## LaikingDast vs Bomb1to — 22/11 · 08:55
+## flamez vs why — 22/11 · 09:20
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.32** (Unibet) · prob 53% vs casas 37% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **3.85** (Unibet) · prob 30% vs casas 22% · ventaja +15%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.971 partidos)  
-Goles esperados: LaikingDast 2.49 · Bomb1to 3.16  
-Ganador: LaikingDast 27% · empate 20% · Bomb1to 53%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Bomb1to: −1.5 36% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 76.995 partidos)  
+Goles esperados: flamez 4.42 · why 3.57  
+Ganador: flamez 54% · empate 16% · why 30%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap flamez: −1.5 40% · −2.5 27%  
 🔎 **Claves**  
-• Forma: LaikingDast ❌➖❌❌❌ | Bomb1to ➖➖✅➖✅  
-• Partidos: LaikingDast 553 | Bomb1to 1455  
-• Liga: Serie A  
-• Unibet: 1 2.70 · X 2.80 · 2 2.32 (sin margen 32%/31%/37%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.32 (+22%) · Paf España 2.32 (+22%)  
+• Forma: flamez ❌❌✅❌➖ | why ➖✅❌➖➖  
+• Partidos: flamez 924 | why 755  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.47 · X 4.70 · 2 3.85 (sin margen 59%/18%/23%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.85 (+15%) · Paf España 3.85 (+15%)  
 
 ## Fireline vs alosdvxl — 22/11 · 09:30
 
