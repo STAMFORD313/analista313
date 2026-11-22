@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 11:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 12:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Buffalo Bills vs Miami Dolphins — 22/11 · 19:00
 
