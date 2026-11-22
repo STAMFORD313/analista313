@@ -1,6 +1,58 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 18:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 18:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Aces vs Butterfly — 22/11 · 18:45
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Gana Aces** @ **1.48** (Thunderpick) · prob 64% vs casas 63% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.180 partidos)  
+Mapa: Aces 59% · Serie BO3: Aces 64% - 36% Butterfly  
+Casas: Aces 63% · Butterfly 37%  
+🔎 **Claves**  
+• Elo: Aces 1828 (24 series) | Butterfly 1735 (55 series)  
+• Forma: Aces ✅✅✅✅✅ | Butterfly ✅❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: CCT Europe 2026 Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Aces: topo- 6.9, karnez 6.7 | Butterfly: nitzie 6.8, Forester 6.7  
+• Mapas (último año): Aces: fuerte dust2 89%, débil cache 53% | Butterfly: fuerte mirage 64%, débil inferno 33%  
+• Química de la plantilla: Aces: 219 mapas juntos de media | Butterfly: 101 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Aces gana 2-1: 25% → cuota justa 4.05 · casa 44%  
+• Butterfly gana 2-1: 17% → cuota justa 5.75  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+Aces: karnez 39 (23-57) · topo- 38 (22-56) · MRcreed 34 (20-51) · 4X1s 34 (20-51) · salazar 32 (18-48)  
+Butterfly: nitzie 37 (22-55) · Kuruma 34 (20-50) · Krad 34 (19-50) · Forester 33 (19-48) · ayano 31 (18-46)  
+
+## Aces vs Butterfly — 22/11 · 18:45
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Aces +1.5 mapas** @ **1.48** (Thunderpick) · prob 72% vs casas 63% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.180 partidos)  
+Mapa: Aces 59% · Serie BO3: Aces 64% - 36% Butterfly  
+Casas: Aces 63% · Butterfly 37%  
+🔎 **Claves**  
+• Elo: Aces 1828 (24 series) | Butterfly 1735 (55 series)  
+• Forma: Aces ✅✅✅✅✅ | Butterfly ✅❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: CCT Europe 2026 Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Aces: topo- 6.9, karnez 6.7 | Butterfly: nitzie 6.8, Forester 6.7  
+• Mapas (último año): Aces: fuerte dust2 89%, débil cache 53% | Butterfly: fuerte mirage 64%, débil inferno 33%  
+• Química de la plantilla: Aces: 219 mapas juntos de media | Butterfly: 101 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Aces gana 2-1: 25% → cuota justa 4.05 · casa 44%  
+• Butterfly gana 2-1: 17% → cuota justa 5.75  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+Aces: karnez 39 (23-57) · topo- 38 (22-56) · MRcreed 34 (20-51) · 4X1s 34 (20-51) · salazar 32 (18-48)  
+Butterfly: nitzie 37 (22-55) · Kuruma 34 (20-50) · Krad 34 (19-50) · Forester 33 (19-48) · ayano 31 (18-46)  
 
 ## Mira vs Underworld — 22/11 · 19:00
 

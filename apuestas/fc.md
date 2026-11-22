@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 18:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 18:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## maggett0 vs Paka — 22/11 · 18:08
+## Lunjo vs cosske — 22/11 · 19:02
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Paka** @ **2.17** (Unibet) · prob 50% vs casas 40% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +9%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 77.495 partidos)  
+Goles esperados: Lunjo 2.51 · cosske 3.20  
+Ganador: Lunjo 29% · empate 19% · cosske 52%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap cosske: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Lunjo ✅➖➖❌❌ | cosske ✅✅➖✅✅  
+• Partidos: Lunjo 314 | cosske 233  
+• Liga: Super Lig  
+• Unibet: 1 2.70 · X 5.75 · 2 1.70 (sin margen 33%/15%/52%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.75 (+9%) · Paf España 5.75 (+9%)  
+
+## Maslja vs SpeciAL — 22/11 · 19:08
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana SpeciAL** @ **3.05** (Unibet) · prob 37% vs casas 29% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.468 partidos)  
-Goles esperados: maggett0 2.59 · Paka 3.08  
-Ganador: maggett0 30% · empate 21% · Paka 50%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Paka: −1.5 33% · −2.5 19%  
-🔎 **Claves**  
-• Forma: maggett0 ❌✅❌❌➖ | Paka ✅❌✅❌✅  
-• Partidos: maggett0 1103 | Paka 1092  
-• Liga: World Cup B  
-• Unibet: 1 2.10 · X 4.80 · 2 2.17 (sin margen 42%/18%/40%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.17 (+8%) · Paf España 2.17 (+8%)  
-
-## maggett0 vs Maslja — 22/11 · 18:20
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 21% vs casas 17% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.468 partidos)  
-Goles esperados: maggett0 2.82 · Maslja 2.95  
-Ganador: maggett0 36% · empate 21% · Maslja 43%  
-Total: más de 5.5 goles 52% · menos 48%  
+📊 **Escenarios** (Poisson por jugador, 77.495 partidos)  
+Goles esperados: Maslja 3.09 · SpeciAL 2.97  
+Ganador: Maslja 44% · empate 19% · SpeciAL 37%  
+Total: más de 6.5 goles 40% · menos 60%  
 Hándicap Maslja: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: maggett0 ❌✅❌❌➖ | Maslja ❌➖✅✅❌  
-• Partidos: maggett0 1103 | Maslja 1078  
+• Forma: Maslja ✅✅❌❌➖ | SpeciAL ➖➖✅❌✅  
+• Partidos: Maslja 1080 | SpeciAL 1068  
 • Liga: World Cup B  
-• Unibet: 1 2.63 · X 5.20 · 2 1.77 (sin margen 33%/17%/50%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+8%) · Paf España 5.20 (+8%)  
+• Unibet: 1 1.65 · X 4.90 · 2 3.05 (sin margen 53%/18%/29%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+12%) · Paf España 3.05 (+12%)  
 
-## Vanste vs Lunjo — 22/11 · 18:26
+## Firminho vs Mani — 22/11 · 19:11
 
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Empate** @ **5.10** (Unibet) · prob 22% vs casas 17% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Firminho** @ **2.25** (Unibet) · prob 50% vs casas 39% · ventaja +12%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.468 partidos)  
-Goles esperados: Vanste 2.09 · Lunjo 2.93  
-Ganador: Vanste 21% · empate 22% · Lunjo 57%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Lunjo: −1.5 38% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 77.495 partidos)  
+Goles esperados: Firminho 3.73 · Mani 3.31  
+Ganador: Firminho 50% · empate 17% · Mani 33%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap Firminho: −1.5 34% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Vanste ❌❌➖➖❌ | Lunjo ➖❌✅➖➖  
-• Partidos: Vanste 297 | Lunjo 312  
-• Liga: Super Lig  
-• Unibet: 1 3.65 · X 5.10 · 2 1.46 (sin margen 24%/17%/59%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+11%) · Paf España 5.10 (+11%)  
+• Forma: Firminho ✅❌❌✅✅ | Mani ✅❌❌✅❌  
+• Partidos: Firminho 987 | Mani 1068  
+• Liga: Champions League A  
+• Unibet: 1 2.25 · X 4.20 · 2 2.15 (sin margen 39%/21%/41%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+13%) · Paf España 2.25 (+13%)  
 
