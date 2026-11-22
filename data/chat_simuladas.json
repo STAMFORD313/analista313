@@ -3834,7 +3834,9 @@
     "away": "OFI Crete",
     "txt": "Más de 10.5 córners",
     "odds": 2.32,
-    "p": 0.4479319086842052
+    "p": 0.4479319086842052,
+    "ok": false,
+    "por": "hubo 7 córners"
    },
    {
     "src": "esports:dota2",
@@ -3851,9 +3853,9 @@
   "odds": 17.13,
   "p": 0.07570868195639642,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261122002532879813",
@@ -3876,7 +3878,9 @@
     "away": "Fortuna Sittard",
     "txt": "Menos de 2.5 tarjetas",
     "odds": 2.55,
-    "p": 0.4050299223070054
+    "p": 0.4050299223070054,
+    "ok": false,
+    "por": "hubo 4 tarjetas"
    },
    {
     "code": null,
@@ -3891,9 +3895,9 @@
   "odds": 10.28,
   "p": 0.10858071319360607,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261122032557213097",
