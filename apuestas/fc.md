@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 08:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 08:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## RuBIX vs A1ose — 22/11 · 08:36
+## LaikingDast vs Bomb1to — 22/11 · 08:55
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana RuBIX** @ **2.35** (Unibet) · prob 50% vs casas 37% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.32** (Unibet) · prob 53% vs casas 37% · ventaja +22%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.960 partidos)  
-Goles esperados: RuBIX 3.57 · A1ose 3.05  
-Ganador: RuBIX 50% · empate 19% · A1ose 31%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap RuBIX: −1.5 35% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 76.971 partidos)  
+Goles esperados: LaikingDast 2.49 · Bomb1to 3.16  
+Ganador: LaikingDast 27% · empate 20% · Bomb1to 53%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Bomb1to: −1.5 36% · −2.5 21%  
 🔎 **Claves**  
-• Forma: RuBIX ➖❌❌✅✅ | A1ose ❌➖✅❌➖  
-• Partidos: RuBIX 357 | A1ose 1147  
-• Liga: Europa League  
-• Unibet: 1 2.35 · X 3.65 · 2 2.20 (sin margen 37%/24%/39%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.35 (+17%) · Paf España 2.35 (+17%)  
+• Forma: LaikingDast ❌➖❌❌❌ | Bomb1to ➖➖✅➖✅  
+• Partidos: LaikingDast 553 | Bomb1to 1455  
+• Liga: Serie A  
+• Unibet: 1 2.70 · X 2.80 · 2 2.32 (sin margen 32%/31%/37%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.32 (+22%) · Paf España 2.32 (+22%)  
 
 ## Fireline vs alosdvxl — 22/11 · 09:30
 

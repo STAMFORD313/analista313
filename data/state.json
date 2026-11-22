@@ -1193,9 +1193,6 @@
   "wta|2026-11-22|Leyre Romero Gormaz|Rebeka Masarova",
   "cbb|2026-11-23|East Carolina Pirates|Indiana State Sycamores",
   "cbb|2026-11-23|Southern Illinois Salukis|Middle Tennessee Blue Raiders",
-  "fc|2384620",
-  "fc|2384785",
-  "fc|2385437",
   "fc|2383912",
   "fc|2383913",
   "fc|2384629",
@@ -2195,7 +2192,10 @@
   "fc|2392576",
   "fc|2393142",
   "fc|2393066",
-  "fc|2393143"
+  "fc|2393143",
+  "fc|2393067",
+  "fc|2393144",
+  "fc|2393491"
  ],
  "signals": [
   {
@@ -48518,7 +48518,11 @@
    "version": "aeed46e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-6",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -48600,23 +48604,44 @@
    "start": "2026-11-22T07:36:00+00:00",
    "league": "🎮⚽ FC 27 · Europa League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 76.960 partidos)",
-    "Goles esperados: RuBIX 3.57 · A1ose 3.05",
-    "Ganador: RuBIX 50% · empate 19% · A1ose 31%",
-    "Total: más de 6.5 goles 49% · menos 51%",
-    "Hándicap RuBIX: −1.5 35% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: RuBIX ➖❌❌✅✅ | A1ose ❌➖✅❌➖",
-    "• Partidos: RuBIX 357 | A1ose 1147",
-    "• Liga: Europa League",
-    "• Unibet: 1 2.35 · X 3.65 · 2 2.20 (sin margen 37%/24%/39%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.35 (+17%) · Paf España 2.35 (+17%)"
-   ],
    "context": "EA FC Esoccer Battle RuBIX vs A1ose (Europa League): goles esperados 3.57-3.05, 1X2 50%/19%/31%. Sin cuotas de casa.",
    "captured": "2026-11-22T07:35",
    "version": "a004bf2",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Bomb1to",
+   "odds": 2.32,
+   "book": "Unibet",
+   "implied": 0.372,
+   "edge": 0.223,
+   "sin_stake": true,
+   "p": 0.527,
+   "key": "fc|2393067",
+   "match": "LaikingDast vs Bomb1to",
+   "start": "2026-11-22T07:55:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 76.971 partidos)",
+    "Goles esperados: LaikingDast 2.49 · Bomb1to 3.16",
+    "Ganador: LaikingDast 27% · empate 20% · Bomb1to 53%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap Bomb1to: −1.5 36% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: LaikingDast ❌➖❌❌❌ | Bomb1to ➖➖✅➖✅",
+    "• Partidos: LaikingDast 553 | Bomb1to 1455",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.70 · X 2.80 · 2 2.32 (sin margen 32%/31%/37%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.32 (+22%) · Paf España 2.32 (+22%)"
+   ],
+   "context": "EA FC Esoccer Battle LaikingDast vs Bomb1to (Serie A): goles esperados 2.49-3.16, 1X2 27%/20%/53%. Sin cuotas de casa.",
+   "captured": "2026-11-22T07:46",
+   "version": "614b688",
    "bajas": "",
    "considered": true,
    "placed": false
