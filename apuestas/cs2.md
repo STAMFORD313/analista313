@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 16:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 16:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mira vs Underworld — 22/11 · 19:00
 

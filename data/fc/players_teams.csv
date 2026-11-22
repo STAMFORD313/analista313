@@ -77424,16 +77424,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2393563,262778,Juventus,Bologna,,
 2393564,262778,Roma,Juventus,,
 2393565,262778,Sassuolo,Napoli,,
-2393922,262812,Juventus,Sporting CP,1,1
-2393923,262812,Man City,B Dortmund,0,1
-2393924,262812,B Dortmund,Juventus,0,3
-2393925,262812,Sporting CP,Arsenal,0,3
-2393926,262812,Arsenal,B Dortmund,1,2
-2393927,262812,Juventus,Man City,3,1
-2393928,262812,Man City,Arsenal,1,2
-2393929,262812,B Dortmund,Sporting CP,2,1
-2393930,262812,Sporting CP,Man City,0,2
-2393931,262812,Arsenal,Juventus,2,2
+2393922,262812,Juventus,Sporting CP,1.0,1.0
+2393923,262812,Man City,B Dortmund,0.0,1.0
+2393924,262812,B Dortmund,Juventus,0.0,3.0
+2393925,262812,Sporting CP,Arsenal,0.0,3.0
+2393926,262812,Arsenal,B Dortmund,1.0,2.0
+2393927,262812,Juventus,Man City,3.0,1.0
+2393928,262812,Man City,Arsenal,1.0,2.0
+2393929,262812,B Dortmund,Sporting CP,2.0,1.0
+2393930,262812,Sporting CP,Man City,0.0,2.0
+2393931,262812,Arsenal,Juventus,2.0,2.0
 2393932,262812,Sporting CP,Juventus,,
 2393933,262812,B Dortmund,Man City,,
 2393934,262812,Juventus,B Dortmund,,
@@ -77444,18 +77444,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2393939,262812,Sporting CP,B Dortmund,,
 2393940,262812,Man City,Sporting CP,,
 2393941,262812,Juventus,Arsenal,,
-2393686,262827,Porto,Aston Villa,3,1
-2393687,262827,Roma,Salzburg,2,2
-2393688,262827,Salzburg,Porto,3,2
-2393689,262827,Aston Villa,Fenerbahce,2,0
-2393690,262827,Fenerbahce,Salzburg,1,1
-2393691,262827,Porto,Roma,2,0
-2393692,262827,Roma,Fenerbahce,0,0
-2393693,262827,Salzburg,Aston Villa,2,1
-2393694,262827,Aston Villa,Roma,2,4
-2393695,262827,Fenerbahce,Porto,0,1
-2393696,262827,Aston Villa,Porto,4,1
-2393697,262827,Salzburg,Roma,0,1
+2393686,262827,Porto,Aston Villa,3.0,1.0
+2393687,262827,Roma,Salzburg,2.0,2.0
+2393688,262827,Salzburg,Porto,3.0,2.0
+2393689,262827,Aston Villa,Fenerbahce,2.0,0.0
+2393690,262827,Fenerbahce,Salzburg,1.0,1.0
+2393691,262827,Porto,Roma,2.0,0.0
+2393692,262827,Roma,Fenerbahce,0.0,0.0
+2393693,262827,Salzburg,Aston Villa,2.0,1.0
+2393694,262827,Aston Villa,Roma,2.0,4.0
+2393695,262827,Fenerbahce,Porto,0.0,1.0
+2393696,262827,Aston Villa,Porto,4.0,1.0
+2393697,262827,Salzburg,Roma,0.0,1.0
 2393698,262827,Porto,Salzburg,,
 2393699,262827,Fenerbahce,Aston Villa,,
 2393700,262827,Salzburg,Fenerbahce,,
@@ -77464,3 +77464,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2393703,262827,Aston Villa,Salzburg,,
 2393704,262827,Roma,Aston Villa,,
 2393705,262827,Porto,Fenerbahce,,
+2392656,262796,Liverpool,Chelsea,2,0
+2392657,262796,Tottenham,Man City,2,3
+2392658,262796,Man City,Liverpool,1,1
+2392659,262796,Chelsea,Arsenal,2,1
+2392660,262796,Arsenal,Man City,3,2
+2392661,262796,Liverpool,Tottenham,0,1
+2392662,262796,Tottenham,Arsenal,,
+2392663,262796,Man City,Chelsea,,
+2392664,262796,Chelsea,Tottenham,,
+2392665,262796,Arsenal,Liverpool,,
+2392666,262796,Chelsea,Liverpool,,
+2392667,262796,Man City,Tottenham,,
+2392668,262796,Liverpool,Man City,,
+2392669,262796,Arsenal,Chelsea,,
+2392670,262796,Man City,Arsenal,,
+2392671,262796,Tottenham,Liverpool,,
+2392672,262796,Arsenal,Tottenham,,
+2392673,262796,Chelsea,Man City,,
+2392674,262796,Tottenham,Chelsea,,
+2392675,262796,Liverpool,Arsenal,,
