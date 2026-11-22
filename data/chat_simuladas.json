@@ -3213,7 +3213,9 @@
     "away": "Inner Circle x Insanity",
     "txt": "Gana Zero Tenacity",
     "odds": 2.46,
-    "p": 0.43060271002710027
+    "p": 0.43060271002710027,
+    "ok": "nula",
+    "por": "sin resultado"
    },
    {
     "src": "espn:nhl",
@@ -3233,9 +3235,9 @@
   "odds": 9.84,
   "p": 0.11521548584598816,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261118023000237074",
