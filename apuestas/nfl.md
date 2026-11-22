@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 21:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Los Angeles Chargers vs New York Jets — 22/11 · 22:05
-
-👀 candidata · 🏈 NFL · **Más de 41.5 puntos** @ **1.89** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **43.2** puntos · línea 41.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Los Angeles Chargers ❌❌❌❌✅ | New York Jets ❌❌❌❌❌  
-• H2H: 3 desde 2017: 3-0  
-• Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata)  
-🧩 Combinada: Gana New York Jets + Menos de 41.5 puntos → prob. 20%, cuota justa 4.90  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.70 (producto de piernas) · prob. 20% · ventaja -4%  
-
-## Los Angeles Chargers vs New York Jets — 22/11 · 22:05
-
-👀 candidata · 🏈 NFL · **Los Angeles Chargers -3** @ **1.88** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Los Angeles Chargers cubre -3 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Los Angeles Chargers ❌❌❌❌✅ | New York Jets ❌❌❌❌❌  
-• H2H: 3 desde 2017: 3-0  
-• Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata)  
-🧩 Combinada: Gana New York Jets + Menos de 41.5 puntos → prob. 20%, cuota justa 4.90  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.70 (producto de piernas) · prob. 20% · ventaja -4%  
-
-## Los Angeles Chargers vs New York Jets — 22/11 · 22:05
-
-👀 candidata · 🏈 NFL · **Gana Los Angeles Chargers** @ **1.59** (DraftKings) · prob 60% vs casas 60% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.288 partidos y bajas)  
-Gana Los Angeles Chargers 57% · Gana New York Jets 43%  
-Casas: Los Angeles Chargers 60% · New York Jets 40%  
-Hándicap LAC -3 · Total puntos 41.5  
-🔎 **Claves**  
-• Forma: Los Angeles Chargers ❌❌❌❌✅ | New York Jets ❌❌❌❌❌  
-• H2H: 3 desde 2017: 3-0  
-• Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata)  
-• Favorito de las casas: Los Angeles Chargers @ 1.59  
-🧩 Combinada: Gana New York Jets + Menos de 41.5 puntos → prob. 20%, cuota justa 4.90  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.70 (producto de piernas) · prob. 20% · ventaja -4%  
+Actualizado 22/11/2026 22:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Denver Broncos vs Las Vegas Raiders — 22/11 · 22:25
 

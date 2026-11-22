@@ -1216,9 +1216,6 @@
   "wta|2026-11-24|Zhibek Kulambayeva|Veronika Erjavec",
   "wta|2026-11-24|Lourdes Ayala|Irene Burillo",
   "wta|2026-11-24|Solana Sierra|Victoria Jimenez Kasintseva",
-  "fc|2383967",
-  "fc|2383968",
-  "cs2|133863",
   "cs2|133864",
   "cs2|133399",
   "cs2|134011",
@@ -2218,7 +2215,12 @@
   "fc|2393039",
   "fc|2393978",
   "fc|2393746",
-  "fc|2393917"
+  "fc|2393917",
+  "cs2|134782",
+  "cs2|134856",
+  "fc|2393209",
+  "fc|2393753",
+  "fc|2393208"
  ],
  "signals": [
   {
@@ -6971,31 +6973,6 @@
    "logged": true
   },
   {
-   "market": "H",
-   "pick": "mPm",
-   "odds": 1.79,
-   "book": "Unibet",
-   "implied": 0.49,
-   "edge": 0.139,
-   "sin_stake": true,
-   "p": 0.636,
-   "key": "fc|2387767",
-   "match": "mPm vs Shinobu",
-   "start": "2026-11-19T20:44:00+00:00",
-   "league": "🎮⚽ FC 27 · Copa America",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle mPm vs Shinobu (Copa America): goles esperados 3.59-2.49, 1X2 64%/15%/21%. Sin cuotas de casa.",
-   "captured": "2026-11-19T20:22",
-   "version": "fb97c27",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "7-1",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "t1",
    "team_id": 18539,
    "pick": "Nuclear TigeRES",
@@ -7473,7 +7450,11 @@
    "version": "653de25",
    "bajas": "Buffalo Bills: 1 fuera, 24 duda (Ar'maj Reed-Adams); Miami Dolphins: 4 fuera, 21 duda (Darrell Baker Jr., Jordan Phillips, Zeek Biggers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "26-9",
+   "close_p": 0.5238,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7494,7 +7475,11 @@
    "version": "653de25",
    "bajas": "Buffalo Bills: 1 fuera, 24 duda (Ar'maj Reed-Adams); Miami Dolphins: 4 fuera, 21 duda (Darrell Baker Jr., Jordan Phillips, Zeek Biggers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "26-9",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7514,7 +7499,11 @@
    "version": "653de25",
    "bajas": "Buffalo Bills: 1 fuera, 24 duda (Ar'maj Reed-Adams); Miami Dolphins: 4 fuera, 21 duda (Darrell Baker Jr., Jordan Phillips, Zeek Biggers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "26-9",
+   "close_p": 0.9036,
+   "logged": true
   },
   {
    "market": "over",
@@ -7536,7 +7525,11 @@
    "version": "653de25",
    "bajas": "Chicago Bears: 2 fuera, 23 duda (Zavier Scott, Kentavius Street); New Orleans Saints: 2 fuera, 23 duda (Asim Richards, Christen Miller)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-13",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7557,7 +7550,11 @@
    "version": "653de25",
    "bajas": "Chicago Bears: 2 fuera, 23 duda (Zavier Scott, Kentavius Street); New Orleans Saints: 2 fuera, 23 duda (Asim Richards, Christen Miller)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-13",
+   "close_p": 0.5093,
+   "logged": true
   },
   {
    "market": "home",
@@ -7577,7 +7574,11 @@
    "version": "653de25",
    "bajas": "Chicago Bears: 2 fuera, 23 duda (Zavier Scott, Kentavius Street); New Orleans Saints: 2 fuera, 23 duda (Asim Richards, Christen Miller)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "21-13",
+   "close_p": 0.8306,
+   "logged": true
   },
   {
    "market": "over",
@@ -7599,7 +7600,11 @@
    "version": "653de25",
    "bajas": "Dallas Cowboys: 4 fuera, 21 duda (Jalen Thompson, Jake Ferguson, DaRon Bland); Tennessee Titans: 2 fuera, 23 duda (Fernando Carmona, Wan'Dale Robinson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "51-30",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7620,7 +7625,11 @@
    "version": "653de25",
    "bajas": "Dallas Cowboys: 4 fuera, 21 duda (Jalen Thompson, Jake Ferguson, DaRon Bland); Tennessee Titans: 2 fuera, 23 duda (Fernando Carmona, Wan'Dale Robinson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "51-30",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7640,7 +7649,11 @@
    "version": "653de25",
    "bajas": "Dallas Cowboys: 4 fuera, 21 duda (Jalen Thompson, Jake Ferguson, DaRon Bland); Tennessee Titans: 2 fuera, 23 duda (Fernando Carmona, Wan'Dale Robinson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "51-30",
+   "close_p": 0.7458,
+   "logged": true
   },
   {
    "market": "over",
@@ -7662,7 +7675,11 @@
    "version": "653de25",
    "bajas": "Detroit Lions: 1 fuera, 24 duda (Aidan Hutchinson); Tampa Bay Buccaneers: 2 fuera, 23 duda (Josh Hayes, Jalen McMillan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-21",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7683,7 +7700,11 @@
    "version": "653de25",
    "bajas": "Detroit Lions: 1 fuera, 24 duda (Aidan Hutchinson); Tampa Bay Buccaneers: 2 fuera, 23 duda (Josh Hayes, Jalen McMillan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-21",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7703,7 +7724,11 @@
    "version": "653de25",
    "bajas": "Detroit Lions: 1 fuera, 24 duda (Aidan Hutchinson); Tampa Bay Buccaneers: 2 fuera, 23 duda (Josh Hayes, Jalen McMillan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-21",
+   "close_p": 0.6523,
+   "logged": true
   },
   {
    "market": "over",
@@ -7725,7 +7750,11 @@
    "version": "653de25",
    "bajas": "Kansas City Chiefs: 1 fuera, 24 duda (Jared Wiley); Arizona Cardinals: 4 fuera, 21 duda (James Conner, Gardner Minshew II, Jordan Burch)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "34-7",
+   "close_p": 0.4931,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7746,7 +7775,11 @@
    "version": "653de25",
    "bajas": "Kansas City Chiefs: 1 fuera, 24 duda (Jared Wiley); Arizona Cardinals: 4 fuera, 21 duda (James Conner, Gardner Minshew II, Jordan Burch)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "34-7",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7766,7 +7799,11 @@
    "version": "653de25",
    "bajas": "Kansas City Chiefs: 1 fuera, 24 duda (Jared Wiley); Arizona Cardinals: 4 fuera, 21 duda (James Conner, Gardner Minshew II, Jordan Burch)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "34-7",
+   "close_p": 0.8869,
+   "logged": true
   },
   {
    "market": "over",
@@ -7788,7 +7825,11 @@
    "version": "653de25",
    "bajas": "Philadelphia Eagles: 1 fuera, 24 duda (Will Shipley); Pittsburgh Steelers: 4 fuera, 21 duda (Roman Wilson, Michael Pittman Jr., Gennings Dunker)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "19-16",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7809,7 +7850,11 @@
    "version": "653de25",
    "bajas": "Philadelphia Eagles: 1 fuera, 24 duda (Will Shipley); Pittsburgh Steelers: 4 fuera, 21 duda (Roman Wilson, Michael Pittman Jr., Gennings Dunker)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "19-16",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7829,7 +7874,11 @@
    "version": "653de25",
    "bajas": "Philadelphia Eagles: 1 fuera, 24 duda (Will Shipley); Pittsburgh Steelers: 4 fuera, 21 duda (Roman Wilson, Michael Pittman Jr., Gennings Dunker)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "19-16",
+   "close_p": 0.3578,
+   "logged": true
   },
   {
    "market": "over",
@@ -7909,18 +7958,6 @@
    "pick": "Más de 41.5 puntos",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>43.2</b> puntos · línea 41.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Los Angeles Chargers ❌❌❌❌✅ | New York Jets ❌❌❌❌❌",
-    "• H2H: 3 desde 2017: 3-0",
-    "• Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata)",
-    "",
-    "🧩 Combinada: Gana New York Jets + Menos de 41.5 puntos → prob. 20%, cuota justa 4.90",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.70 (producto de piernas) · prob. 20% · ventaja -4%"
-   ],
    "context": "Los Angeles Chargers vs New York Jets (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 43.2 frente a línea 41.5. Forma Los Angeles Chargers ❌❌❌❌✅, New York Jets ❌❌❌❌❌. H2H 3 desde 2017: 3-0. Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata).",
    "captured": "2026-11-20T00:05",
    "version": "653de25",
@@ -7942,17 +7979,6 @@
    "pick": "Los Angeles Chargers -3",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Los Angeles Chargers cubre -3 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Los Angeles Chargers ❌❌❌❌✅ | New York Jets ❌❌❌❌❌",
-    "• H2H: 3 desde 2017: 3-0",
-    "• Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata)",
-    "",
-    "🧩 Combinada: Gana New York Jets + Menos de 41.5 puntos → prob. 20%, cuota justa 4.90",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.70 (producto de piernas) · prob. 20% · ventaja -4%"
-   ],
    "context": "Los Angeles Chargers vs New York Jets (🏈 NFL). Hándicap Los Angeles Chargers -3: margen esperado desde el Elo (gana Los Angeles Chargers 57%). Forma Los Angeles Chargers ❌❌❌❌✅, New York Jets ❌❌❌❌❌. H2H 3 desde 2017: 3-0. Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata).",
    "captured": "2026-11-20T00:05",
    "version": "653de25",
@@ -7973,21 +7999,6 @@
    "start": "2026-11-22T21:05Z",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 3.288 partidos y bajas)",
-    "Gana Los Angeles Chargers 57% · Gana New York Jets 43%",
-    "Casas: Los Angeles Chargers 60% · New York Jets 40%",
-    "Hándicap LAC -3 · Total puntos 41.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Los Angeles Chargers ❌❌❌❌✅ | New York Jets ❌❌❌❌❌",
-    "• H2H: 3 desde 2017: 3-0",
-    "• Bajas: Los Angeles Chargers: 2 fuera, 23 duda (Trey Pipkins III, Branson Taylor); New York Jets: 1 fuera, 24 duda (David Onyemata)",
-    "• Favorito de las casas: Los Angeles Chargers @ 1.59",
-    "",
-    "🧩 Combinada: Gana New York Jets + Menos de 41.5 puntos → prob. 20%, cuota justa 4.90",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.70 (producto de piernas) · prob. 20% · ventaja -4%"
-   ],
    "context": "Los Angeles Chargers vs New York Jets (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Los Angeles Chargers 57%, New York Jets 43%. Cuotas DraftKings 1.588/2.43, hándicap LAC -3, total 41.5. Forma Los Angeles Chargers ❌❌❌❌✅, New York Jets ❌❌❌❌❌. H2H 3 desde 2017: 3-0. Bajas Los Angeles Chargers: Charlie Kolar duda; Ladd McConkey duda; Dalvin Tomlinson duda; Del'Shawn Phillips duda; Daiyan Henley duda; Donte Jackson duda; Cameron Dicker duda; David Njoku duda; Oronde Gadsden duda; Kimani Vidal duda; Keaton Mitchell duda; Kendall Williamson duda; Isas Waxter duda; Bud Dupree duda; Quentin Johnston duda; Tre' Harris duda; Justin Herbert duda; Omarion Hampton duda; Rodney Shelley duda; Brenen Thompson duda; Kayode Awosika duda; Justin Eboigbe duda; Trey Pipkins III lesionado; Branson Taylor lesionado; Denzel Perryman duda. Bajas New York Jets: Geno Smith duda; Isaiah Williams duda; Omar Cooper Jr. duda; Jarvis Brownlee Jr. duda; Joseph Ossai duda; David Onyemata lesionado; Dane Belton duda; Demario Davis duda; Jamien Sherwood duda; Harrison Phillips duda; Trevin Wallace duda; Jason Sanders duda; Mason Taylor duda; Isaiah Davis duda; Dylan Parham duda; Kenyon Sadiq duda; Jelani Woods duda; Tim Patrick duda; Nate Lynn duda; Adonai Mitchell duda; Braelon Allen duda; Cade Klubnik duda; Breece Hall duda; Garrett Wilson duda; VJ Payne duda.",
    "captured": "2026-11-20T00:05",
    "version": "653de25",
@@ -11160,19 +11171,6 @@
    "start": "2026-11-22T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 2.31 - 1.06)",
-    "1 62% · X 21% · 2 17%",
-    "1X 83% · X2 38% · 12 79%",
-    "+1.5 85% · +2.5 66% · +3.5 44% · Ambos marcan 59%",
-    "Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 7%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Nashville SC ➖✅➖✅✅ | FC Cincinnati ✅✅➖✅❌",
-    "• H2H: 12 desde 2021: 5V-3E-4D · 3.4 goles/partido · +2.5 en 67%",
-    "• Bajas: Nashville SC: 0 fuera, 1 duda; FC Cincinnati: 1 fuera, 0 duda (Kevin Denkey)",
-    "• Favorito de las casas: Nashville SC @ 1.46"
-   ],
    "context": "Nashville SC vs FC Cincinnati (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 62% X 21% 2 17%, +2.5 66%, ambos marcan 59%. Forma Nashville SC ➖✅➖✅✅, FC Cincinnati ✅✅➖✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 12 desde 2021: 5V-3E-4D · 3.4 goles/partido · +2.5 en 67%. Bajas Nashville SC: C. Applewhite D duda 0 PJ. Bajas FC Cincinnati: Kevin Denkey F sancionado 32 PJ.",
    "captured": "2026-11-20T09:12",
    "version": "04002f6",
@@ -39447,10 +39445,6 @@
    "start": "2026-11-22T21:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Paraguay - Division Profesional",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: LeoVegas paga 1.85 y el precio justo de Pinnacle es 1.78 (ventaja +3.8%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Rubio Nu vs Libertad Asuncion (Paraguay - Division Profesional). Estrategia de valor: LeoVegas 1.85 frente a Pinnacle justo 1.78.",
    "captured": "2026-11-22T05:16",
    "version": "742e7b8",
@@ -40428,10 +40422,6 @@
    "start": "2026-11-22T21:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Chile - Segunda Division",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 2.28 y el precio justo de Pinnacle es 2.21 (ventaja +3.2%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Santiago City vs Provincial Osorno (Chile - Segunda Division). Estrategia de valor: Unibet 2.28 frente a Pinnacle justo 2.21.",
    "captured": "2026-11-22T10:48",
    "version": "14e39fe",
@@ -42276,10 +42266,6 @@
    "start": "2026-11-22T21:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Paraguay - Division Profesional",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: LeoVegas paga 2.04 y el precio justo de Pinnacle es 1.80 (ventaja +13.1%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Olimpia Asuncion vs Sportivo Trinidense (Paraguay - Division Profesional). Estrategia de valor: LeoVegas 2.04 frente a Pinnacle justo 1.80.",
    "captured": "2026-11-22T19:07",
    "version": "231ea38",
@@ -43984,7 +43970,11 @@
    "version": "9ff6fdf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -44030,7 +44020,11 @@
    "version": "9ff6fdf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -44046,23 +44040,83 @@
    "start": "2026-11-22T20:46:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 77.637 partidos)",
-    "Goles esperados: Lunjo 2.92 · Vanste 2.23",
-    "Ganador: Lunjo 51% · empate 23% · Vanste 26%",
-    "Total: más de 5.5 goles 41% · menos 59%",
-    "Hándicap Lunjo: −1.5 35% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Lunjo ➖➖➖➖❌ | Vanste ❌❌➖❌❌",
-    "• Partidos: Lunjo 325 | Vanste 309",
-    "• Liga: Premier League",
-    "• Unibet: 1 1.57 · X 4.75 · 2 3.45 (sin margen 56%/19%/25%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 4.75 (+8%) · Paf España 4.75 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle Lunjo vs Vanste (Premier League): goles esperados 2.92-2.23, 1X2 51%/23%/26%. Sin cuotas de casa.",
    "captured": "2026-11-22T20:38",
    "version": "958daf1",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 2.4,
+   "book": "Unibet",
+   "implied": 0.363,
+   "edge": 0.156,
+   "sin_stake": true,
+   "p": 0.482,
+   "key": "fc|2393209",
+   "match": "KravaRK vs curuza",
+   "start": "2026-11-22T21:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 77.673 partidos)",
+    "Goles esperados: KravaRK 2.47 · curuza 3.04",
+    "Ganador: KravaRK 30% · empate 22% · curuza 48%",
+    "Total: más de 5.5 goles 47% · menos 53%",
+    "Hándicap curuza: −1.5 34% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: KravaRK ❌✅✅❌❌ | curuza ✅❌❌❌✅",
+    "• Partidos: KravaRK 549 | curuza 986",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 2.05 · X 4.10 · 2 2.40 (sin margen 42%/21%/36%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.40 (+16%) · Paf España 2.40 (+16%)"
+   ],
+   "context": "EA FC Esoccer Battle KravaRK vs curuza (Portugal Primera): goles esperados 2.47-3.04, 1X2 30%/22%/48%. Sin cuotas de casa.",
+   "captured": "2026-11-22T21:17",
+   "version": "8ed6d36",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.25,
+   "book": "Unibet",
+   "implied": 0.168,
+   "edge": 0.091,
+   "sin_stake": true,
+   "p": 0.208,
+   "key": "fc|2393753",
+   "match": "Simaponika vs kkikus",
+   "start": "2026-11-22T21:31:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 77.673 partidos)",
+    "Goles esperados: Simaponika 3.00 · kkikus 2.23",
+    "Ganador: Simaponika 53% · empate 21% · kkikus 26%",
+    "Total: más de 5.5 goles 42% · menos 58%",
+    "Hándicap Simaponika: −1.5 37% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ✅✅✅❌➖ | kkikus ➖✅✅✅✅",
+    "• Partidos: Simaponika 1402 | kkikus 1195",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.50 · X 5.25 · 2 3.60 (sin margen 59%/17%/24%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.25 (+9%) · Paf España 5.25 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs kkikus (World Cup A): goles esperados 3.00-2.23, 1X2 53%/21%/26%. Sin cuotas de casa.",
+   "captured": "2026-11-22T21:17",
+   "version": "8ed6d36",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -44530,78 +44584,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-22T18:07:27.222078+00:00",
  "sgp": {
-  "nfl|2026-11-22|Detroit Lions|Tampa Bay Buccaneers": {
-   "match": "Detroit Lions vs Tampa Bay Buccaneers",
-   "start": "2026-11-22T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1553,
-     "odds": 6.25,
-     "edge": -0.03,
-     "legs": [
-      {
-       "var": "win_away",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.291,
-       "odds": 3.3,
-       "text": "Gana Tampa Bay Buccaneers"
-      },
-      {
-       "var": "total_t",
-       "sign": -1,
-       "line": 45.5,
-       "p": 0.505,
-       "odds": 1.893,
-       "text": "Menos de 45.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Tampa Bay Buccaneers + Menos de 45.5 puntos → prob. 16%, cuota justa 6.44",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.25 (producto de piernas) · prob. 16% · ventaja -3%"
-   ]
-  },
-  "nfl|2026-11-22|Philadelphia Eagles|Pittsburgh Steelers": {
-   "match": "Philadelphia Eagles vs Pittsburgh Steelers",
-   "start": "2026-11-22T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1832,
-     "odds": 5.28,
-     "edge": -0.032,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.354,
-       "odds": 2.72,
-       "text": "Gana Philadelphia Eagles"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 38.5,
-       "p": 0.492,
-       "odds": 1.943,
-       "text": "Más de 38.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Philadelphia Eagles + Más de 38.5 puntos → prob. 18%, cuota justa 5.46",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 5.28 (producto de piernas) · prob. 18% · ventaja -3%"
-   ]
-  },
   "nfl|2026-11-22|Carolina Panthers|Baltimore Ravens": {
    "match": "Carolina Panthers vs Baltimore Ravens",
    "start": "2026-11-22T18:00Z",
@@ -53584,7 +53566,7 @@
   "SP1|2026-11-23|Levante|Elche"
  ],
  "paper_sent": "2026-11-22T19:39:39.113103+00:00",
- "sgp_res_n": 655,
+ "sgp_res_n": 657,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

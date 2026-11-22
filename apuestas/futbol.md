@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 21:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nashville SC vs FC Cincinnati — 22/11 · 22:00
-
-👀 candidata · 🇺🇸 MLS · **Gana Nashville SC** @ **1.46** (Bet365) · prob 64% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.31 - 1.06)  
-1 62% · X 21% · 2 17%  
-1X 83% · X2 38% · 12 79%  
-+1.5 85% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Nashville SC ➖✅➖✅✅ | FC Cincinnati ✅✅➖✅❌  
-• H2H: 12 desde 2021: 5V-3E-4D · 3.4 goles/partido · +2.5 en 67%  
-• Bajas: Nashville SC: 0 fuera, 1 duda; FC Cincinnati: 1 fuera, 0 duda (Kevin Denkey)  
-• Favorito de las casas: Nashville SC @ 1.46  
+Actualizado 22/11/2026 22:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fluminense vs Mirassol — 22/11 · 22:30
 
