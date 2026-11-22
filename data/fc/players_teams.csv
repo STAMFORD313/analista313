@@ -77464,12 +77464,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2393703,262827,Aston Villa,Salzburg,,
 2393704,262827,Roma,Aston Villa,,
 2393705,262827,Porto,Fenerbahce,,
-2392656,262796,Liverpool,Chelsea,2,0
-2392657,262796,Tottenham,Man City,2,3
-2392658,262796,Man City,Liverpool,1,1
-2392659,262796,Chelsea,Arsenal,2,1
-2392660,262796,Arsenal,Man City,3,2
-2392661,262796,Liverpool,Tottenham,0,1
+2392656,262796,Liverpool,Chelsea,2.0,0.0
+2392657,262796,Tottenham,Man City,2.0,3.0
+2392658,262796,Man City,Liverpool,1.0,1.0
+2392659,262796,Chelsea,Arsenal,2.0,1.0
+2392660,262796,Arsenal,Man City,3.0,2.0
+2392661,262796,Liverpool,Tottenham,0.0,1.0
 2392662,262796,Tottenham,Arsenal,,
 2392663,262796,Man City,Chelsea,,
 2392664,262796,Chelsea,Tottenham,,
