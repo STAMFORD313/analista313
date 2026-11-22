@@ -142,8 +142,10 @@ id,date,event,home,away,hs,as,res
 401864545,2026-11-21T01:00Z,UTEP Miners at Air Force Falcons,Air Force Falcons,UTEP Miners,52,3,1.0
 401864542,2026-11-21T02:00Z,New Mexico Lobos at Wyoming Cowboys,Wyoming Cowboys,New Mexico Lobos,17,24,0.0
 401856746,2026-11-21T19:00Z,Chattanooga Mocs at Alabama Crimson Tide,Alabama Crimson Tide,Chattanooga Mocs,47,0,1.0
+401856755,2026-11-21T20:30Z,Arkansas Razorbacks at Texas Longhorns,Texas Longhorns,Arkansas Razorbacks,45,3,1.0
 401856866,2026-11-21T17:00Z,BYU Cougars at Kansas Jayhawks,Kansas Jayhawks,BYU Cougars,29,31,0.0
 401858310,2026-11-21T17:00Z,Wake Forest Demon Deacons at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Wake Forest Demon Deacons,29,50,0.0
+401856871,2026-11-21T20:30Z,Texas Tech Red Raiders at Baylor Bears,Baylor Bears,Texas Tech Red Raiders,10,20,0.0
 401858531,2026-11-21T17:00Z,Ohio State Buckeyes at Nebraska Cornhuskers,Nebraska Cornhuskers,Ohio State Buckeyes,31,28,1.0
 401858527,2026-11-21T19:30Z,Iowa Hawkeyes at Illinois Fighting Illini,Illinois Fighting Illini,Iowa Hawkeyes,17,34,0.0
 401856868,2026-11-21T18:00Z,Houston Cougars at West Virginia Mountaineers,West Virginia Mountaineers,Houston Cougars,31,34,0.0
@@ -166,3 +168,5 @@ id,date,event,home,away,hs,as,res
 401869946,2026-11-21T20:00Z,Coastal Carolina Chanticleers at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Coastal Carolina Chanticleers,38,24,1.0
 401871077,2026-11-21T20:00Z,Delaware Blue Hens at New Mexico State Aggies,New Mexico State Aggies,Delaware Blue Hens,30,42,0.0
 401871078,2026-11-21T20:00Z,Florida International Panthers at Kennesaw State Owls,Kennesaw State Owls,Florida International Panthers,35,24,1.0
+401858304,2026-11-21T20:30Z,NC State Wolfpack at Florida State Seminoles,Florida State Seminoles,NC State Wolfpack,10,28,0.0
+401861968,2026-11-21T20:30Z,Old Dominion Monarchs at UConn Huskies,UConn Huskies,Old Dominion Monarchs,29,21,1.0

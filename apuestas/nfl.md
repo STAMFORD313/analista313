@@ -1,126 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 00:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Miami Hurricanes vs Virginia Tech Hokies — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Miami Hurricanes -20.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Miami Hurricanes cubre -20.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Miami Hurricanes ✅✅✅❌✅ | Virginia Tech Hokies ❌✅✅❌❌  
-• H2H: 8 desde 2017: 7-1  
-• Bajas: Miami Hurricanes: sin bajas; Virginia Tech Hokies: sin bajas  
-
-## Miami Hurricanes vs Virginia Tech Hokies — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Miami Hurricanes** @ **1.06** (DraftKings) · prob 90% vs casas 90% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Miami Hurricanes 96% · Gana Virginia Tech Hokies 4%  
-Casas: Miami Hurricanes 90% · Virginia Tech Hokies 10%  
-Hándicap MIA -20.5 · Total puntos 60.5  
-🔎 **Claves**  
-• Forma: Miami Hurricanes ✅✅✅❌✅ | Virginia Tech Hokies ❌✅✅❌❌  
-• H2H: 8 desde 2017: 7-1  
-• Bajas: Miami Hurricanes: sin bajas; Virginia Tech Hokies: sin bajas  
-• Favorito de las casas: Miami Hurricanes @ 1.06  
-
-## Kansas State Wildcats vs Arizona Wildcats — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Kansas State Wildcats +7** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Kansas State Wildcats cubre +7 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Kansas State Wildcats ✅❌❌❌❌ | Arizona Wildcats ✅✅❌✅❌  
-• H2H: 2 desde 2024: 1-1  
-• Bajas: Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas  
-
-## Kansas State Wildcats vs Arizona Wildcats — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Kansas State Wildcats** @ **3.35** (DraftKings) · prob 29% vs casas 29% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Kansas State Wildcats 18% · Gana Arizona Wildcats 82%  
-Casas: Kansas State Wildcats 29% · Arizona Wildcats 71%  
-Hándicap ARIZ -7 · Total puntos 52.5  
-🔎 **Claves**  
-• Forma: Kansas State Wildcats ✅❌❌❌❌ | Arizona Wildcats ✅✅❌✅❌  
-• H2H: 2 desde 2024: 1-1  
-• Bajas: Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas  
-• Favorito de las casas: Arizona Wildcats @ 1.34  
-
-## San José State Spartans vs UNLV Rebels — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **San José State Spartans +7** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: San José State Spartans cubre +7 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: San José State Spartans ✅❌❌✅❌ | UNLV Rebels ✅❌✅❌✅  
-• H2H: 5 desde 2020: 4-1  
-• Bajas: San José State Spartans: sin bajas; UNLV Rebels: sin bajas  
-
-## San José State Spartans vs UNLV Rebels — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana San José State Spartans** @ **3.10** (DraftKings) · prob 31% vs casas 31% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana San José State Spartans 18% · Gana UNLV Rebels 82%  
-Casas: San José State Spartans 31% · UNLV Rebels 69%  
-Hándicap UNLV -7 · Total puntos 46.5  
-🔎 **Claves**  
-• Forma: San José State Spartans ✅❌❌✅❌ | UNLV Rebels ✅❌✅❌✅  
-• H2H: 5 desde 2020: 4-1  
-• Bajas: San José State Spartans: sin bajas; UNLV Rebels: sin bajas  
-• Favorito de las casas: UNLV Rebels @ 1.39  
-
-## Louisiana Tech Bulldogs vs Arkansas State Red Wolves — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Louisiana Tech Bulldogs -13.5** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Louisiana Tech Bulldogs cubre -13.5 con prob. 52% (casas 52%)  
-🔎 **Claves**  
-• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Arkansas State Red Wolves ❌✅✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Louisiana Tech Bulldogs: sin bajas; Arkansas State Red Wolves: sin bajas  
-
-## Louisiana Tech Bulldogs vs Arkansas State Red Wolves — 22/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Louisiana Tech Bulldogs** @ **1.18** (DraftKings) · prob 81% vs casas 81% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Louisiana Tech Bulldogs 82% · Gana Arkansas State Red Wolves 18%  
-Casas: Louisiana Tech Bulldogs 81% · Arkansas State Red Wolves 19%  
-Hándicap LT -13.5 · Total puntos 53.5  
-🔎 **Claves**  
-• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Arkansas State Red Wolves ❌✅✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Louisiana Tech Bulldogs: sin bajas; Arkansas State Red Wolves: sin bajas  
-• Favorito de las casas: Louisiana Tech Bulldogs @ 1.18  
+Actualizado 22/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## South Carolina Gamecocks vs Georgia Bulldogs — 22/11 · 01:30
 
@@ -1051,4 +931,92 @@ Hándicap CIN -6 · Total puntos 53.5
 • Favorito de las casas: Cincinnati Bengals @ 1.34  
 🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58  
 🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%  
+
+## Eastern Michigan Eagles vs Kent State Golden Flashes — 25/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 46.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **48.5** puntos · línea 46.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Eastern Michigan Eagles ✅❌❌❌❌ | Kent State Golden Flashes ❌✅❌❌❌  
+• H2H: 6 desde 2018: 4-2  
+• Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas  
+
+## Eastern Michigan Eagles vs Kent State Golden Flashes — 25/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Eastern Michigan Eagles -6.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Eastern Michigan Eagles cubre -6.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Eastern Michigan Eagles ✅❌❌❌❌ | Kent State Golden Flashes ❌✅❌❌❌  
+• H2H: 6 desde 2018: 4-2  
+• Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas  
+
+## Eastern Michigan Eagles vs Kent State Golden Flashes — 25/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Eastern Michigan Eagles** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.626 partidos y bajas)  
+Gana Eastern Michigan Eagles 70% · Gana Kent State Golden Flashes 30%  
+Casas: Eastern Michigan Eagles 66% · Kent State Golden Flashes 34%  
+Hándicap EMU -6.5 · Total puntos 46.5  
+🔎 **Claves**  
+• Forma: Eastern Michigan Eagles ✅❌❌❌❌ | Kent State Golden Flashes ❌✅❌❌❌  
+• H2H: 6 desde 2018: 4-2  
+• Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas  
+• Favorito de las casas: Eastern Michigan Eagles @ 1.44  
+
+## Western Michigan Broncos vs Miami (OH) RedHawks — 25/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 46.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **44.6** puntos · línea 46.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Western Michigan Broncos ✅❌✅✅✅ | Miami (OH) RedHawks ✅✅❌✅✅  
+• H2H: 6 desde 2018: 4-2  
+• Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas  
+
+## Western Michigan Broncos vs Miami (OH) RedHawks — 25/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Western Michigan Broncos -7.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Western Michigan Broncos cubre -7.5 con prob. 51% (casas 51%)  
+🔎 **Claves**  
+• Forma: Western Michigan Broncos ✅❌✅✅✅ | Miami (OH) RedHawks ✅✅❌✅✅  
+• H2H: 6 desde 2018: 4-2  
+• Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas  
+
+## Western Michigan Broncos vs Miami (OH) RedHawks — 25/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Western Michigan Broncos** @ **1.34** (DraftKings) · prob 72% vs casas 72% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.626 partidos y bajas)  
+Gana Western Michigan Broncos 67% · Gana Miami (OH) RedHawks 33%  
+Casas: Western Michigan Broncos 72% · Miami (OH) RedHawks 28%  
+Hándicap WMU -7.5 · Total puntos 46.5  
+🔎 **Claves**  
+• Forma: Western Michigan Broncos ✅❌✅✅✅ | Miami (OH) RedHawks ✅✅❌✅✅  
+• H2H: 6 desde 2018: 4-2  
+• Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas  
+• Favorito de las casas: Western Michigan Broncos @ 1.34  
 
