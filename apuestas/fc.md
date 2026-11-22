@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 06:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 06:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## curuza vs kirman — 22/11 · 06:26
+## Bomb1to vs d1pseN — 22/11 · 06:57
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana curuza** @ **3.90** (Unibet) · prob 32% vs casas 22% · ventaja +25%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana d1pseN** @ **3.30** (Unibet) · prob 35% vs casas 26% · ventaja +14%
 
-- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.837 partidos)  
-Goles esperados: curuza 3.04 · kirman 3.48  
-Ganador: curuza 32% · empate 19% · kirman 48%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap kirman: −1.5 33% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 76.860 partidos)  
+Goles esperados: Bomb1to 2.67 · d1pseN 2.51  
+Ganador: Bomb1to 43% · empate 22% · d1pseN 35%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Bomb1to: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: curuza ✅➖✅✅❌ | kirman ➖✅❌✅✅  
-• Partidos: curuza 983 | kirman 828  
-• Liga: Serie A  
-• Unibet: 1 3.90 · X 5.20 · 2 1.42 (sin margen 22%/17%/61%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.90 (+25%) · Paf España 3.90 (+25%)  
+• Forma: Bomb1to ✅❌✅✅❌ | d1pseN ❌✅➖✅❌  
+• Partidos: Bomb1to 1447 | d1pseN 357  
+• Liga: World Cup A  
+• Unibet: 1 2.20 · X 2.50 · 2 3.30 (sin margen 39%/35%/26%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.30 (+14%) · Paf España 3.30 (+14%)  
 
-## zoyir vs flamez — 22/11 · 06:36
+## A1ose vs v1nn — 22/11 · 07:00
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **2.35** (Unibet) · prob 49% vs casas 37% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana A1ose** @ **3.15** (Unibet) · prob 36% vs casas 28% · ventaja +15%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.837 partidos)  
-Goles esperados: zoyir 3.96 · flamez 3.34  
-Ganador: zoyir 49% · empate 16% · flamez 34%  
+📊 **Escenarios** (Poisson por jugador, 76.860 partidos)  
+Goles esperados: A1ose 3.52 · v1nn 3.81  
+Ganador: A1ose 36% · empate 18% · v1nn 45%  
 Total: más de 7.5 goles 45% · menos 55%  
-Hándicap zoyir: −1.5 37% · −2.5 24%  
+Hándicap v1nn: −1.5 32% · −2.5 20%  
 🔎 **Claves**  
-• Forma: zoyir ✅❌✅✅❌ | flamez ✅❌✅❌✅  
-• Partidos: zoyir 671 | flamez 917  
-• Liga: Premier League 2x6  
-• Unibet: 1 2.35 · X 4.40 · 2 2.00 (sin margen 37%/20%/43%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.35 (+16%) · Paf España 2.35 (+16%)  
+• Forma: A1ose ✅✅✅❌✅ | v1nn ➖❌✅❌✅  
+• Partidos: A1ose 1142 | v1nn 795  
+• Liga: Europa League  
+• Unibet: 1 3.15 · X 3.45 · 2 1.84 (sin margen 28%/25%/47%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.15 (+15%) · Paf España 3.15 (+15%)  
 

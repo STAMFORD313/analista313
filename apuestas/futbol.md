@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 06:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 06:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Erzurumspor vs Goztep — 22/11 · 11:30
 
