@@ -1076,18 +1076,18 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640095131,2026-11-22 18:00:00+00:00,NFL,Kansas City Chiefs,Arizona Cardinals,moneyline,,1.1,8.63,,,,2026-11-22 17:34:55.084446+00:00
 1640095131,2026-11-22 18:00:00+00:00,NFL,Kansas City Chiefs,Arizona Cardinals,spread,-14.5,1.9009,2.01,,,,2026-11-22 17:34:55.084446+00:00
 1640095131,2026-11-22 18:00:00+00:00,NFL,Kansas City Chiefs,Arizona Cardinals,total,40.5,,,,1.9709,1.9174,2026-11-22 17:34:55.084446+00:00
-1640142355,2026-11-22 21:25:00+00:00,NFL,Denver Broncos,Las Vegas Raiders,moneyline,,1.1541,6.04,,,,2026-11-22 20:08:01.700181+00:00
-1640142355,2026-11-22 21:25:00+00:00,NFL,Denver Broncos,Las Vegas Raiders,spread,-11.5,1.9524,1.9524,,,,2026-11-22 20:08:01.700181+00:00
-1640142355,2026-11-22 21:25:00+00:00,NFL,Denver Broncos,Las Vegas Raiders,total,41.0,,,,1.8772,2.01,2026-11-22 20:08:01.700181+00:00
-1640162130,2026-11-23 01:20:00+00:00,NFL,San Francisco 49ers,Minnesota Vikings,moneyline,,1.5208,2.71,,,,2026-11-22 20:08:01.700181+00:00
-1640162130,2026-11-23 01:20:00+00:00,NFL,San Francisco 49ers,Minnesota Vikings,spread,-3.5,1.9009,2.01,,,,2026-11-22 20:08:01.700181+00:00
-1640162130,2026-11-23 01:20:00+00:00,NFL,San Francisco 49ers,Minnesota Vikings,total,45.0,,,,1.885,2.0,2026-11-22 20:08:01.700181+00:00
-1640253467,2026-11-24 01:15:00+00:00,NFL,Washington Commanders,Cincinnati Bengals,moneyline,,3.39,1.3521,,,,2026-11-22 20:08:01.700181+00:00
-1640253467,2026-11-24 01:15:00+00:00,NFL,Washington Commanders,Cincinnati Bengals,spread,6.5,1.8772,2.01,,,,2026-11-22 20:08:01.700181+00:00
-1640253467,2026-11-24 01:15:00+00:00,NFL,Washington Commanders,Cincinnati Bengals,total,55.0,,,,2.0,1.8772,2026-11-22 20:08:01.700181+00:00
-1640125300,2026-11-22 21:25:00+00:00,NFL,New York Giants,Jacksonville Jaguars,moneyline,,3.42,1.3584,,,,2026-11-22 20:08:01.700181+00:00
-1640125300,2026-11-22 21:25:00+00:00,NFL,New York Giants,Jacksonville Jaguars,spread,6.0,1.9901,1.9174,,,,2026-11-22 20:08:01.700181+00:00
-1640125300,2026-11-22 21:25:00+00:00,NFL,New York Giants,Jacksonville Jaguars,total,45.0,,,,1.9009,1.9901,2026-11-22 20:08:01.700181+00:00
-1640137703,2026-11-22 21:05:00+00:00,NFL,Los Angeles Chargers,New York Jets,moneyline,,1.5952,2.5,,,,2026-11-22 20:08:01.700181+00:00
-1640137703,2026-11-22 21:05:00+00:00,NFL,Los Angeles Chargers,New York Jets,spread,-3.0,1.9009,2.01,,,,2026-11-22 20:08:01.700181+00:00
-1640137703,2026-11-22 21:05:00+00:00,NFL,Los Angeles Chargers,New York Jets,total,43.0,,,,1.9091,1.9709,2026-11-22 20:08:01.700181+00:00
+1640253467,2026-11-24 01:15:00+00:00,NFL,Washington Commanders,Cincinnati Bengals,moneyline,,3.39,1.3521,,,,2026-11-22 20:35:34.187703+00:00
+1640253467,2026-11-24 01:15:00+00:00,NFL,Washington Commanders,Cincinnati Bengals,spread,6.5,1.8772,2.01,,,,2026-11-22 20:35:34.187703+00:00
+1640253467,2026-11-24 01:15:00+00:00,NFL,Washington Commanders,Cincinnati Bengals,total,55.0,,,,2.0,1.8772,2026-11-22 20:35:34.187703+00:00
+1640125300,2026-11-22 21:25:00+00:00,NFL,New York Giants,Jacksonville Jaguars,moneyline,,3.41,1.3584,,,,2026-11-22 20:35:34.187703+00:00
+1640125300,2026-11-22 21:25:00+00:00,NFL,New York Giants,Jacksonville Jaguars,spread,6.0,1.9901,1.9174,,,,2026-11-22 20:35:34.187703+00:00
+1640125300,2026-11-22 21:25:00+00:00,NFL,New York Giants,Jacksonville Jaguars,total,45.0,,,,1.9901,1.8929,2026-11-22 20:35:34.187703+00:00
+1640137703,2026-11-22 21:05:00+00:00,NFL,Los Angeles Chargers,New York Jets,moneyline,,1.5952,2.5,,,,2026-11-22 20:35:34.187703+00:00
+1640137703,2026-11-22 21:05:00+00:00,NFL,Los Angeles Chargers,New York Jets,spread,-3.0,1.9009,2.01,,,,2026-11-22 20:35:34.187703+00:00
+1640137703,2026-11-22 21:05:00+00:00,NFL,Los Angeles Chargers,New York Jets,total,43.0,,,,1.9091,1.9709,2026-11-22 20:35:34.187703+00:00
+1640142355,2026-11-22 21:25:00+00:00,NFL,Denver Broncos,Las Vegas Raiders,moneyline,,1.1481,6.21,,,,2026-11-22 20:35:34.187703+00:00
+1640142355,2026-11-22 21:25:00+00:00,NFL,Denver Broncos,Las Vegas Raiders,spread,-11.5,1.9009,2.01,,,,2026-11-22 20:35:34.187703+00:00
+1640142355,2026-11-22 21:25:00+00:00,NFL,Denver Broncos,Las Vegas Raiders,total,41.0,,,,1.8696,2.02,2026-11-22 20:35:34.187703+00:00
+1640162130,2026-11-23 01:20:00+00:00,NFL,San Francisco 49ers,Minnesota Vikings,moneyline,,1.5208,2.71,,,,2026-11-22 20:35:34.187703+00:00
+1640162130,2026-11-23 01:20:00+00:00,NFL,San Francisco 49ers,Minnesota Vikings,spread,-3.5,1.9009,2.01,,,,2026-11-22 20:35:34.187703+00:00
+1640162130,2026-11-23 01:20:00+00:00,NFL,San Francisco 49ers,Minnesota Vikings,total,45.0,,,,1.885,2.0,2026-11-22 20:35:34.187703+00:00
