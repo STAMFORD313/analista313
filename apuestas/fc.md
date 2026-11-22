@@ -1,171 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 02:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 03:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ssstasonn vs Simaponika — 22/11 · 02:39
+## hrk vs KravaRK — 22/11 · 03:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Simaponika** @ **1.33** (cuota justa (sin casa)) · prob 75% vs casas 75% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hrk** @ **1.95** (Unibet) · prob 55% vs casas 45% · ventaja +8%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.638 partidos)  
-Goles esperados: ssstasonn 2.15 · Simaponika 4.13  
-Ganador: ssstasonn 12% · empate 13% · Simaponika 75%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Simaponika: −1.5 57% · −2.5 41%  
+📊 **Escenarios** (Poisson por jugador, 76.703 partidos)  
+Goles esperados: hrk 2.86 · KravaRK 2.26  
+Ganador: hrk 55% · empate 19% · KravaRK 25%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap hrk: −1.5 34% · −2.5 19%  
 🔎 **Claves**  
-• Forma: ssstasonn ❌❌✅❌➖ | Simaponika ❌➖❌✅❌  
-• Partidos: ssstasonn 1243 | Simaponika 1382  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Uruchi vs fantazer — 22/11 · 02:40
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.31** (cuota justa (sin casa)) · prob 76% vs casas 76% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.621 partidos)  
-Goles esperados: Uruchi 1.33 · fantazer 2.93  
-Ganador: Uruchi 11% · empate 13% · fantazer 76%  
-Total: más de 4.5 goles 42% · menos 58%  
-Hándicap fantazer: −1.5 51% · −2.5 32%  
-🔎 **Claves**  
-• Forma: Uruchi ❌❌❌✅❌ | fantazer ✅✅✅✅✅  
-• Partidos: Uruchi 1497 | fantazer 1937  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## fantazer vs Yerema — 22/11 · 02:49
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.27** (cuota justa (sin casa)) · prob 79% vs casas 79% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.621 partidos)  
-Goles esperados: fantazer 4.07 · Yerema 2.07  
-Ganador: fantazer 79% · empate 10% · Yerema 12%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap fantazer: −1.5 57% · −2.5 41%  
-🔎 **Claves**  
-• Forma: fantazer ✅✅✅✅✅ | Yerema ✅❌✅❌➖  
-• Partidos: fantazer 1937 | Yerema 809  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## rostyk vs k0mych — 22/11 · 02:50
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana rostyk** @ **1.75** (Unibet) · prob 61% vs casas 50% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.684 partidos)  
-Goles esperados: rostyk 5.32 · k0mych 4.27  
-Ganador: rostyk 61% · empate 13% · k0mych 26%  
-Total: más de 9.5 goles 49% · menos 51%  
-Hándicap rostyk: −1.5 44% · −2.5 31%  
-🔎 **Claves**  
-• Forma: rostyk ✅✅❌✅❌ | k0mych ❌❌❌❌❌  
-• Partidos: rostyk 412 | k0mych 440  
-• Liga: LaLiga 2x6  
-• Unibet: 1 1.75 · X 6.00 · 2 2.50 (sin margen 50%/15%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.75 (+7%) · Paf España 1.75 (+7%)  
-
-## Nightxx vs ssstasonn — 22/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.621 partidos)  
-Goles esperados: Nightxx 5.35 · ssstasonn 2.27  
-Ganador: Nightxx 87% · empate 8% · ssstasonn 5%  
-Total: más de 7.5 goles 49% · menos 51%  
-Hándicap Nightxx: −1.5 71% · −2.5 58%  
-🔎 **Claves**  
-• Forma: Nightxx ✅✅❌✅✅ | ssstasonn ❌❌✅❌➖  
-• Partidos: Nightxx 1087 | ssstasonn 1243  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## KravaRK vs curuza — 22/11 · 02:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana curuza** @ **2.55** (Unibet) · prob 51% vs casas 34% · ventaja +31%
-
-- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.684 partidos)  
-Goles esperados: KravaRK 2.48 · curuza 2.90  
-Ganador: KravaRK 29% · empate 20% · curuza 51%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap curuza: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: KravaRK ➖➖❌❌❌ | curuza ❌✅❌❌❌  
-• Partidos: KravaRK 533 | curuza 970  
+• Forma: hrk ✅✅✅❌❌ | KravaRK ❌❌❌✅❌  
+• Partidos: hrk 972 | KravaRK 535  
 • Liga: Champions League A  
-• Unibet: 1 1.92 · X 4.30 · 2 2.55 (sin margen 45%/20%/34%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+31%) · Paf España 2.55 (+31%)  
-
-## hrk vs Skif — 22/11 · 02:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hrk** @ **1.78** (Unibet) · prob 62% vs casas 49% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.684 partidos)  
-Goles esperados: hrk 3.62 · Skif 2.53  
-Ganador: hrk 63% · empate 16% · Skif 21%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap hrk: −1.5 43% · −2.5 28%  
-🔎 **Claves**  
-• Forma: hrk ❌✅✅✅✅ | Skif ✅➖❌✅✅  
-• Partidos: hrk 970 | Skif 779  
-• Liga: Champions League A  
-• Unibet: 1 1.78 · X 3.50 · 2 3.30 (sin margen 49%/25%/26%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.78 (+11%) · Paf España 1.78 (+11%)  
-
-## kkikus vs Nightxx — 22/11 · 03:03
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.644 partidos)  
-Goles esperados: kkikus 2.27 · Nightxx 4.05  
-Ganador: kkikus 13% · empate 14% · Nightxx 72%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap Nightxx: −1.5 54% · −2.5 38%  
-🔎 **Claves**  
-• Forma: kkikus ✅❌❌❌✅ | Nightxx ✅❌✅✅✅  
-• Partidos: kkikus 1176 | Nightxx 1088  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Skif vs kirman — 22/11 · 03:04
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **1.42** (cuota justa (sin casa)) · prob 70% vs casas 70% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.644 partidos)  
-Goles esperados: Skif 2.53 · kirman 4.11  
-Ganador: Skif 16% · empate 14% · kirman 70%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap kirman: −1.5 51% · −2.5 35%  
-🔎 **Claves**  
-• Forma: Skif ❌✅❌✅➖ | kirman ✅✅❌➖❌  
-• Partidos: Skif 776 | kirman 812  
-• Liga: Champions League A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 1.95 · X 3.90 · 2 2.63 (sin margen 45%/22%/33%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+8%) · Paf España 1.95 (+8%)  
 
 ## fantazer vs Uruchi — 22/11 · 03:25
 
@@ -202,6 +56,44 @@ Hándicap zaha: −1.5 66% · −2.5 53%
 • Partidos: k0mych 437 | zaha 431  
 • Liga: LaLiga 2x6  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## ssstasonn vs kkikus — 22/11 · 03:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 18% vs casas 15% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.703 partidos)  
+Goles esperados: ssstasonn 2.49 · kkikus 3.47  
+Ganador: ssstasonn 22% · empate 18% · kkikus 59%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap kkikus: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: ssstasonn ❌❌✅❌❌ | kkikus ✅✅➖❌✅  
+• Partidos: ssstasonn 1250 | kkikus 1181  
+• Liga: Champions League B  
+• Unibet: 1 3.60 · X 5.80 · 2 1.42 (sin margen 24%/15%/61%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+7%) · Paf España 5.80 (+7%)  
+
+## KravaRK vs kirman — 22/11 · 03:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **1.71** (Unibet) · prob 63% vs casas 51% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.703 partidos)  
+Goles esperados: KravaRK 2.24 · kirman 3.21  
+Ganador: KravaRK 20% · empate 17% · kirman 63%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap kirman: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: KravaRK ❌❌❌✅❌ | kirman ❌❌✅✅✅  
+• Partidos: KravaRK 535 | kirman 816  
+• Liga: Champions League A  
+• Unibet: 1 3.25 · X 3.95 · 2 1.71 (sin margen 27%/22%/51%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.71 (+7%) · Paf España 1.71 (+7%)  
 
 ## Yerema vs fantazer — 22/11 · 03:34
 

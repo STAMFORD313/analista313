@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 02:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## TCU Horned Frogs vs Utah Utes — 22/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **TCU Horned Frogs +7** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: TCU Horned Frogs cubre +7 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: TCU Horned Frogs ✅❌✅❌✅ | Utah Utes ✅✅✅✅✅  
-• H2H: 1 desde 2024: 1-0  
-• Bajas: TCU Horned Frogs: sin bajas; Utah Utes: sin bajas  
-
-## TCU Horned Frogs vs Utah Utes — 22/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana TCU Horned Frogs** @ **3.20** (DraftKings) · prob 30% vs casas 30% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana TCU Horned Frogs 19% · Gana Utah Utes 81%  
-Casas: TCU Horned Frogs 30% · Utah Utes 70%  
-Hándicap UTAH -7 · Total puntos 46.5  
-🔎 **Claves**  
-• Forma: TCU Horned Frogs ✅❌✅❌✅ | Utah Utes ✅✅✅✅✅  
-• H2H: 1 desde 2024: 1-0  
-• Bajas: TCU Horned Frogs: sin bajas; Utah Utes: sin bajas  
-• Favorito de las casas: Utah Utes @ 1.37  
+Actualizado 22/11/2026 03:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boise State Broncos vs San Diego State Aztecs — 22/11 · 03:30
 
