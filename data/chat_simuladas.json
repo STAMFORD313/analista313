@@ -3772,7 +3772,9 @@
     "away": "Blackburn Rovers",
     "txt": "Menos de 4.5 tarjetas",
     "odds": 2.1,
-    "p": 0.5110646228938569
+    "p": 0.5110646228938569,
+    "ok": false,
+    "por": "hubo 7 tarjetas"
    },
    {
     "code": null,
@@ -3798,9 +3800,9 @@
   "odds": 41.35,
   "p": 0.03697338470887483,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261121203048193885",
