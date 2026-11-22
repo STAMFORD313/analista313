@@ -18522,7 +18522,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Real Madrid vs Celta,Aurélien Tchouaméni,To Score,0.5,5.8,0.1724,0.0204,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Iago Aspas,Player's shots on target,0.5,2.08,0.4808,0.1244,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Eduardo Camavinga,To Score,0.5,6.5,0.1538,0.0292,1,0.0,0
-2026-11-21,Real Madrid vs Celta,Hugo González,Player's shots on target,0.5,2.17,0.4608,0.1235,0,0.0,0
+2026-11-21,Real Madrid vs Celta,Hugo González,Player's shots on target,0.5,2.17,0.4608,0.0008,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Eduardo Camavinga,To give an assist,0.5,5.3,0.1887,0.0638,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Trent Alexander-Arnold,To give an assist,0.5,3.6,0.2778,0.0947,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Arda Guler,Player's shots on target,0.5,1.26,0.7937,0.5331,1,0.0,0
@@ -18577,10 +18577,10 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Real Madrid vs Celta,Ferran Jutgla,To score at least 2 goals,1.5,35.0,0.0286,0.0014,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Couhaib Driouech,To give an assist,0.5,8.5,0.1176,0.0365,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Sergio Carreira,To give an assist,0.5,15.0,0.0667,0.0769,1,0.0,0
-2026-11-21,Real Madrid vs Celta,Hugo González,Player's shots on target,1.5,6.5,0.1538,0.008,0,0.0,0
+2026-11-21,Real Madrid vs Celta,Hugo González,Player's shots on target,1.5,6.5,0.1538,0.0,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Antonio Rüdiger,To give an assist,0.5,8.5,0.1176,0.0082,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Williot Swedberg,Player's shots on target,1.5,6.5,0.1538,0.0888,1,0.0,0
-2026-11-21,Real Madrid vs Celta,Hugo González,To give an assist,0.5,9.0,0.1111,0.0242,0,0.0,0
+2026-11-21,Real Madrid vs Celta,Hugo González,To give an assist,0.5,9.0,0.1111,0.0017,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Bernardo Silva,Player's shots on target,1.5,6.75,0.1481,0.0292,1,1.0,0
 2026-11-21,Real Madrid vs Celta,Iago Aspas,To give an assist,0.5,7.0,0.1429,0.0273,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Javi Rodríguez,Player's shots on target,0.5,4.1,0.2439,0.1789,1,0.0,0
@@ -18613,7 +18613,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Real Madrid vs Celta,Marcos Alonso,To Get a Card,0.5,3.15,0.3175,0.1658,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Kylian Mbappé,To give an assist,0.5,3.8,0.2632,0.1201,1,1.0,1
 2026-11-21,Real Madrid vs Celta,Hugo Burcio,To Score,0.5,12.5,0.08,0.0619,1,0.0,0
-2026-11-21,Real Madrid vs Celta,Hugo González,To Get a Card,0.5,3.6,0.2778,0.0181,0,0.0,0
+2026-11-21,Real Madrid vs Celta,Hugo González,To Get a Card,0.5,3.6,0.2778,0.0474,1,1.0,1
 2026-11-21,Real Madrid vs Celta,Yan Diomande,To Get a Card,0.5,4.7,0.2128,0.1272,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Aleix Febas,To Score,0.5,11.5,0.087,0.0194,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Ferran Jutgla,To Get a Card,0.5,4.5,0.2222,0.019,0,0.0,0
@@ -18633,7 +18633,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Real Madrid vs Celta,Antonio Rüdiger,To score at least 2 goals,1.5,61.0,0.0164,0.0006,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Ibrahima Konaté,To Get a Card,0.5,4.5,0.2222,0.1823,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Sebastián Cáceres,To Score,0.5,17.0,0.0588,0.0175,0,0.0,0
-2026-11-21,Real Madrid vs Celta,Hugo González,To score at least 2 goals,1.5,51.0,0.0196,0.0004,0,0.0,0
+2026-11-21,Real Madrid vs Celta,Hugo González,To score at least 2 goals,1.5,51.0,0.0196,0.0,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Hugo Burcio,To Get a Card,0.5,3.1,0.3226,0.0908,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Abdoulaye Faye,To Get a Card,0.5,3.1,0.3226,0.0452,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Vinicius Junior,To Score,0.5,2.12,0.4717,0.06,0,0.0,0
@@ -18657,7 +18657,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Real Madrid vs Celta,Kylian Mbappé,To Get a Card,0.5,4.4,0.2273,0.1484,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Sergio Carreira,To Score,0.5,18.0,0.0556,0.0502,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Aurélien Tchouaméni,To Get a Card,0.5,4.5,0.2222,0.0456,0,0.0,0
-2026-11-21,Real Madrid vs Celta,Hugo González,To Score,0.5,6.0,0.1667,0.0295,0,0.0,0
+2026-11-21,Real Madrid vs Celta,Hugo González,To Score,0.5,6.0,0.1667,0.0002,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Vinicius Junior,To score at least 2 goals,1.5,6.25,0.16,0.0018,0,0.0,0
 2026-11-21,Real Madrid vs Celta,Kylian Mbappé,Player's shots on target,3.5,2.7,0.3704,0.0996,1,0.0,0
 2026-11-21,Real Madrid vs Celta,Kylian Mbappé,Player's shots on target,2.5,1.68,0.5952,0.254,1,0.0,0

@@ -239,9 +239,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640516371,2026-11-22 00:00:00+00:00,Mexican Pacific League,Charros de Jalisco,Jaguares de Nayarit,moneyline,,1.8475,1.8929,,,,2026-11-21 23:33:10.529688+00:00
 1640516371,2026-11-22 00:00:00+00:00,Mexican Pacific League,Charros de Jalisco,Jaguares de Nayarit,spread,-1.5,2.51,1.4762,,,,2026-11-21 23:33:10.529688+00:00
 1640516371,2026-11-22 00:00:00+00:00,Mexican Pacific League,Charros de Jalisco,Jaguares de Nayarit,total,11.5,,,,1.8197,1.9174,2026-11-21 23:33:10.529688+00:00
-1640888054,2026-11-22 03:00:00+00:00,Mexican Pacific League,G2 Yaquis de Obregon,G2 Aguilas de Mexicali,moneyline,,1.8696,1.8696,,,,2026-11-22 00:33:37.154528+00:00
-1640888054,2026-11-22 03:00:00+00:00,Mexican Pacific League,G2 Yaquis de Obregon,G2 Aguilas de Mexicali,spread,-1.5,3.07,1.3195,,,,2026-11-22 00:33:37.154528+00:00
-1640888054,2026-11-22 03:00:00+00:00,Mexican Pacific League,G2 Yaquis de Obregon,G2 Aguilas de Mexicali,total,7.0,,,,1.9709,1.7812,2026-11-22 00:33:37.154528+00:00
 1640898333,2026-11-22 01:00:00+00:00,Mexican Pacific League,G1 Yaquis de Obregon,G1 Aguilas de Mexicali,moneyline,,1.8696,1.8696,,,,2026-11-22 00:33:37.154528+00:00
 1640898333,2026-11-22 01:00:00+00:00,Mexican Pacific League,G1 Yaquis de Obregon,G1 Aguilas de Mexicali,spread,1.5,1.4808,2.5,,,,2026-11-22 00:33:37.154528+00:00
 1640898333,2026-11-22 01:00:00+00:00,Mexican Pacific League,G1 Yaquis de Obregon,G1 Aguilas de Mexicali,total,7.0,,,,1.8,1.9434,2026-11-22 00:33:37.154528+00:00
@@ -251,3 +248,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640518748,2026-11-22 01:00:00+00:00,Mexican Pacific League,Naranjeros de Hermosillo,Mayos de Navojoa,moneyline,,1.3922,2.77,,,,2026-11-22 00:33:37.154528+00:00
 1640518748,2026-11-22 01:00:00+00:00,Mexican Pacific League,Naranjeros de Hermosillo,Mayos de Navojoa,spread,-1.5,1.7752,1.9709,,,,2026-11-22 00:33:37.154528+00:00
 1640518748,2026-11-22 01:00:00+00:00,Mexican Pacific League,Naranjeros de Hermosillo,Mayos de Navojoa,total,9.5,,,,1.8696,1.8696,2026-11-22 00:33:37.154528+00:00
+1640888054,2026-11-22 03:00:00+00:00,Mexican Pacific League,G2 Yaquis de Obregon,G2 Aguilas de Mexicali,moneyline,,1.8696,1.8696,,,,2026-11-22 01:05:52.618534+00:00
+1640888054,2026-11-22 03:00:00+00:00,Mexican Pacific League,G2 Yaquis de Obregon,G2 Aguilas de Mexicali,spread,-1.5,3.07,1.3195,,,,2026-11-22 01:05:52.618534+00:00
+1640888054,2026-11-22 03:00:00+00:00,Mexican Pacific League,G2 Yaquis de Obregon,G2 Aguilas de Mexicali,total,7.0,,,,1.9709,1.7812,2026-11-22 01:05:52.618534+00:00
