@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-21 14:36",
+ "fecha": "2026-11-22 02:42",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -26,17 +26,17 @@
      "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "lootlake-city-vs-backed-by-nobody-21-11-2026",
+     "brest-esport-vs-sge-vision-22-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "brest-esport-vs-sge-vision-22-11-2026",
+     "twoface-gaming-vs-backed-by-nobody-22-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ]
    ]
   },
   "3": {
-   "próximos": 6,
+   "próximos": 7,
    "ejemplo": [
     [
      "koi-lol-vs-karmine-corp-lol-05-12-2026",
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "power-rangers-dota2-vs-team-synapse-21-11-2026",
-     "European Pro League Season 41"
-    ],
-    [
      "puckchamp-vs-power-rangers-dota2-22-11-2026",
      "European Pro League Season 41"
     ],
     [
      "team-synapse-vs-interactive-philippines-23-11-2026",
+     "European Pro League Season 41"
+    ],
+    [
+     "potn9ki-vs-team-synapse-23-11-2026",
      "European Pro League Season 41"
     ]
    ]
@@ -123,12 +123,11 @@
   "Esports / CS2 / PGL Major": 8,
   "Esports / CS2 / ROG Journey": 7,
   "Esports / Dota 2 / BLAST Slam": 6,
-  "Esports / CS2 / RUSH:Brno": 2,
-  "Esports / CS2 / CCT European Series 14": 2,
-  "Esports / CS2 / NODWIN Clutch Series": 2,
-  "Esports / CS2 / CCT European Series 15": 1,
-  "Esports / CS2 / CCT South America Series": 1,
-  "Esports / CS2 / CROSSFIRE": 1,
-  "Esports / CS2 / European Pro League": 1
+  "Esports / CS2 / NODWIN Clutch Series": 3,
+  "Esports / CS2 / CROSSFIRE": 2,
+  "Esports / Overwatch 2 / OWCS Asia": 2,
+  "Esports / CS2 / European Pro League": 1,
+  "Esports / CS2 / MČR": 1,
+  "Esports / CS2 / CCT European Series 15": 1
  }
 }

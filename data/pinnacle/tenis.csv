@@ -5751,76 +5751,119 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640861008,2026-11-22 02:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,spread,1.5,1.5587,2.47,,,,2026-11-22 01:42:35.577452+00:00
 1640861008,2026-11-22 02:00:00+00:00,ITF Men Kuala Lumpur - Final,Yuto Oki,Edoardo Cherie Ligniere,total,2.5,,,,2.61,1.5051,2026-11-22 01:42:35.577452+00:00
 1640911786,2026-11-22 02:00:00+00:00,Billie Jean King Cup - Doubles,Shuko Aoyama / Eri Hozumi,Justina Gonzalez Daniele / Luciana Moyano,moneyline,,1.0979,7.31,,,,2026-11-22 01:42:35.577452+00:00
-1640935655,2026-11-23 10:00:00+00:00,ATP Challenger Playford - Qualifiers,Evan Zhu,Ethan Cook,moneyline,,1.1339,5.64,,,,2026-11-22 02:04:13.173474+00:00
-1640935655,2026-11-23 10:00:00+00:00,ATP Challenger Playford - Qualifiers,Evan Zhu,Ethan Cook,spread,-1.5,1.4587,2.69,,,,2026-11-22 02:04:13.173474+00:00
-1640935655,2026-11-23 10:00:00+00:00,ATP Challenger Playford - Qualifiers,Evan Zhu,Ethan Cook,total,2.5,,,,3.44,1.3049,2026-11-22 02:04:13.173474+00:00
-1640923566,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Yuki Mochizuki,Kosuke Ogura,moneyline,,1.885,1.9009,,,,2026-11-22 02:04:13.173474+00:00
-1640923566,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Yuki Mochizuki,Kosuke Ogura,spread,-1.5,2.88,1.4082,,,,2026-11-22 02:04:13.173474+00:00
-1640923566,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Yuki Mochizuki,Kosuke Ogura,total,2.5,,,,2.52,1.5155,2026-11-22 02:04:13.173474+00:00
-1640923451,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Dominik Palan,Chen Dong,moneyline,,1.3125,3.39,,,,2026-11-22 02:04:13.173474+00:00
-1640923451,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Dominik Palan,Chen Dong,spread,-1.5,1.8403,1.9434,,,,2026-11-22 02:04:13.173474+00:00
-1640923451,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Dominik Palan,Chen Dong,total,2.5,,,,2.75,1.4444,2026-11-22 02:04:13.173474+00:00
-1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,moneyline,,2.11,1.7463,,,,2026-11-22 02:04:13.173474+00:00
-1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,spread,1.5,1.4695,2.72,,,,2026-11-22 02:04:13.173474+00:00
-1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,total,2.5,,,,2.44,1.5682,2026-11-22 02:04:13.173474+00:00
-1640923452,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Yamato Sueoka,Herman Hoeyeraal,moneyline,,6.21,1.1094,,,,2026-11-22 02:04:13.173474+00:00
-1640923452,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Yamato Sueoka,Herman Hoeyeraal,spread,1.5,2.95,1.3937,,,,2026-11-22 02:04:13.173474+00:00
-1640923452,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Yamato Sueoka,Herman Hoeyeraal,total,2.5,,,,3.71,1.2695,2026-11-22 02:04:13.173474+00:00
-1640855505,2026-11-22 03:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,moneyline,,4.42,1.2174,,,,2026-11-22 02:04:13.173474+00:00
-1640855505,2026-11-22 03:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,spread,1.5,2.3,1.6329,,,,2026-11-22 02:04:13.173474+00:00
-1640855505,2026-11-22 03:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,total,2.5,,,,3.11,1.3774,2026-11-22 02:04:13.173474+00:00
-1640902657,2026-11-22 07:00:00+00:00,Billie Jean King Cup - Doubles,Thasaporn Naklo / Peangtarn Plipuech,Naima Karamoko / Simona Waltert,moneyline,,3.73,1.2833,,,,2026-11-22 02:04:13.173474+00:00
 1640923558,2026-11-22 02:10:21+00:00,ATP Challenger Playford - Qualifiers,Thomas Fancutt,Mustafa Ege Sik,moneyline,,1.295,3.51,,,,2026-11-22 02:04:13.173474+00:00
 1640923558,2026-11-22 02:10:21+00:00,ATP Challenger Playford - Qualifiers,Thomas Fancutt,Mustafa Ege Sik,spread,-1.5,1.8197,1.9804,,,,2026-11-22 02:04:13.173474+00:00
 1640923558,2026-11-22 02:10:21+00:00,ATP Challenger Playford - Qualifiers,Thomas Fancutt,Mustafa Ege Sik,total,2.5,,,,2.77,1.4367,2026-11-22 02:04:13.173474+00:00
 1640919651,2026-11-22 02:30:00+00:00,ATP Challenger Playford - Qualifiers,Reece Falck,Shinji Hazawa,moneyline,,2.95,1.3922,,,,2026-11-22 02:04:13.173474+00:00
 1640919651,2026-11-22 02:30:00+00:00,ATP Challenger Playford - Qualifiers,Reece Falck,Shinji Hazawa,spread,1.5,1.7937,2.0,,,,2026-11-22 02:04:13.173474+00:00
 1640919651,2026-11-22 02:30:00+00:00,ATP Challenger Playford - Qualifiers,Reece Falck,Shinji Hazawa,total,2.5,,,,2.64,1.4739,2026-11-22 02:04:13.173474+00:00
-1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,moneyline,,1.6173,2.24,,,,2026-11-22 02:04:13.173474+00:00
-1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,spread,-1.5,2.34,1.5682,,,,2026-11-22 02:04:13.173474+00:00
-1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,total,2.5,,,,2.57,1.4785,2026-11-22 02:04:13.173474+00:00
-1640855439,2026-11-22 03:30:00+00:00,Billie Jean King Cup - Playoffs,Himeno Sakatsume,Justina Gonzalez Daniele,moneyline,,1.0484,12.08,,,,2026-11-22 02:04:13.173474+00:00
-1640928447,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,David Poljak,Maxim Zhukov,moneyline,,2.32,1.5988,,,,2026-11-22 02:04:13.173474+00:00
-1640928447,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,David Poljak,Maxim Zhukov,spread,1.5,1.5376,2.46,,,,2026-11-22 02:04:13.173474+00:00
-1640928447,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,David Poljak,Maxim Zhukov,total,2.5,,,,2.42,1.5525,2026-11-22 02:04:13.173474+00:00
-1640919655,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shogo Sanada,Taiyo Yamanaka,moneyline,,7.57,1.0745,,,,2026-11-22 02:04:13.173474+00:00
-1640919655,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shogo Sanada,Taiyo Yamanaka,spread,1.5,3.94,1.2445,,,,2026-11-22 02:04:13.173474+00:00
-1640919655,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shogo Sanada,Taiyo Yamanaka,total,2.5,,,,5.19,1.1582,2026-11-22 02:04:13.173474+00:00
-1640923450,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Pavle Marinkov,Harrison Satara,moneyline,,1.1209,5.84,,,,2026-11-22 02:04:13.173474+00:00
-1640923450,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Pavle Marinkov,Harrison Satara,spread,-1.5,1.4785,2.63,,,,2026-11-22 02:04:13.173474+00:00
-1640923450,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Pavle Marinkov,Harrison Satara,total,2.5,,,,3.3,1.3257,2026-11-22 02:04:13.173474+00:00
-1640889466,2026-11-22 12:30:00+00:00,Billie Jean King Cup - Doubles,Leolia Jeanjean / Kristina Mladenovic,Storm Hunter / Maya Joint,moneyline,,2.25,1.6452,,,,2026-11-22 02:04:13.173474+00:00
-1640923568,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shinnosuke Iwamoto,Kokoro Isomura,moneyline,,11.07,1.038,,,,2026-11-22 02:04:13.173474+00:00
-1640923568,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shinnosuke Iwamoto,Kokoro Isomura,spread,1.5,6.1,1.1232,,,,2026-11-22 02:04:13.173474+00:00
-1640923568,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shinnosuke Iwamoto,Kokoro Isomura,total,2.5,,,,8.23,1.077,2026-11-22 02:04:13.173474+00:00
-1640923460,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Adhithya Ganesan,Yusuke Takahashi,moneyline,,2.14,1.6944,,,,2026-11-22 02:04:13.173474+00:00
-1640923460,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Adhithya Ganesan,Yusuke Takahashi,spread,1.5,1.5128,2.53,,,,2026-11-22 02:04:13.173474+00:00
-1640923460,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Adhithya Ganesan,Yusuke Takahashi,total,2.5,,,,2.51,1.5181,2026-11-22 02:04:13.173474+00:00
-1640928483,2026-11-22 17:00:00+00:00,ATP Finals - Final,Alexander Zverev,Carlos Alcaraz,moneyline,,2.83,1.4785,,,,2026-11-22 02:04:13.173474+00:00
-1640928483,2026-11-22 17:00:00+00:00,ATP Finals - Final,Alexander Zverev,Carlos Alcaraz,spread,1.5,1.6452,2.35,,,,2026-11-22 02:04:13.173474+00:00
-1640928483,2026-11-22 17:00:00+00:00,ATP Finals - Final,Alexander Zverev,Carlos Alcaraz,total,2.5,,,,2.34,1.6494,2026-11-22 02:04:13.173474+00:00
-1640923462,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Thanapet Chanta,Finn Bass,moneyline,,1.5988,2.32,,,,2026-11-22 02:04:13.173474+00:00
-1640923462,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Thanapet Chanta,Finn Bass,spread,-1.5,2.31,1.6024,,,,2026-11-22 02:04:13.173474+00:00
-1640923462,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Thanapet Chanta,Finn Bass,total,2.5,,,,2.71,1.4545,2026-11-22 02:04:13.173474+00:00
-1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,moneyline,,1.2695,3.71,,,,2026-11-22 02:04:13.173474+00:00
-1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,spread,-1.5,1.7752,2.03,,,,2026-11-22 02:04:13.173474+00:00
-1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,total,2.5,,,,2.71,1.4525,2026-11-22 02:04:13.173474+00:00
-1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,moneyline,,1.6711,2.23,,,,2026-11-22 02:04:13.173474+00:00
-1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,spread,-1.5,2.54,1.5291,,,,2026-11-22 02:04:13.173474+00:00
-1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,total,2.5,,,,2.57,1.5208,2026-11-22 02:04:13.173474+00:00
-1640855488,2026-11-22 04:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,moneyline,,4.54,1.2294,,,,2026-11-22 02:04:13.173474+00:00
-1640855488,2026-11-22 04:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,spread,1.5,2.2,1.7246,,,,2026-11-22 02:04:13.173474+00:00
-1640855488,2026-11-22 04:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,total,2.5,,,,2.91,1.4484,2026-11-22 02:04:13.173474+00:00
-1640923567,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Hikaru Shiraishi,Noritaka Koizumi,moneyline,,1.232,4.07,,,,2026-11-22 02:04:13.173474+00:00
-1640923567,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Hikaru Shiraishi,Noritaka Koizumi,spread,-1.5,1.6711,2.19,,,,2026-11-22 02:04:13.173474+00:00
-1640923567,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Hikaru Shiraishi,Noritaka Koizumi,total,2.5,,,,2.98,1.3861,2026-11-22 02:04:13.173474+00:00
-1640923461,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,S D Prajwal Dev,Nitin Kumar Sinha,moneyline,,1.2433,3.95,,,,2026-11-22 02:04:13.173474+00:00
-1640923461,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,S D Prajwal Dev,Nitin Kumar Sinha,spread,-1.5,1.6993,2.14,,,,2026-11-22 02:04:13.173474+00:00
-1640923461,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,S D Prajwal Dev,Nitin Kumar Sinha,total,2.5,,,,2.94,1.3953,2026-11-22 02:04:13.173474+00:00
-1640919652,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Billy Suarez,Stefan Vujic,moneyline,,3.25,1.3344,,,,2026-11-22 02:04:13.173474+00:00
-1640919652,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Billy Suarez,Stefan Vujic,spread,1.5,1.8772,1.9091,,,,2026-11-22 02:04:13.173474+00:00
-1640919652,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Billy Suarez,Stefan Vujic,total,2.5,,,,2.68,1.463,2026-11-22 02:04:13.173474+00:00
-1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,moneyline,,1.5208,2.46,,,,2026-11-22 02:04:13.173474+00:00
-1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,spread,-1.5,2.34,1.5682,,,,2026-11-22 02:04:13.173474+00:00
-1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,total,2.5,,,,2.34,1.5682,2026-11-22 02:04:13.173474+00:00
-1640855440,2026-11-22 05:00:00+00:00,Billie Jean King Cup - Playoffs,Mai Hontama,Maria Florencia Urrutia,moneyline,,1.0453,12.61,,,,2026-11-22 02:04:13.173474+00:00
+1640923567,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Hikaru Shiraishi,Noritaka Koizumi,moneyline,,1.232,4.07,,,,2026-11-22 02:42:04.019744+00:00
+1640923567,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Hikaru Shiraishi,Noritaka Koizumi,spread,-1.5,1.6711,2.19,,,,2026-11-22 02:42:04.019744+00:00
+1640923567,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Hikaru Shiraishi,Noritaka Koizumi,total,2.5,,,,2.98,1.3861,2026-11-22 02:42:04.019744+00:00
+1640928447,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,David Poljak,Maxim Zhukov,moneyline,,2.32,1.5988,,,,2026-11-22 02:42:04.019744+00:00
+1640928447,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,David Poljak,Maxim Zhukov,spread,1.5,1.5376,2.46,,,,2026-11-22 02:42:04.019744+00:00
+1640928447,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,David Poljak,Maxim Zhukov,total,2.5,,,,2.42,1.5525,2026-11-22 02:42:04.019744+00:00
+1640923450,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Pavle Marinkov,Harrison Satara,moneyline,,1.1209,5.84,,,,2026-11-22 02:42:04.019744+00:00
+1640923450,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Pavle Marinkov,Harrison Satara,spread,-1.5,1.4785,2.63,,,,2026-11-22 02:42:04.019744+00:00
+1640923450,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Pavle Marinkov,Harrison Satara,total,2.5,,,,3.3,1.3257,2026-11-22 02:42:04.019744+00:00
+1640919655,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shogo Sanada,Taiyo Yamanaka,moneyline,,7.57,1.0745,,,,2026-11-22 02:42:04.019744+00:00
+1640919655,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shogo Sanada,Taiyo Yamanaka,spread,1.5,3.94,1.2445,,,,2026-11-22 02:42:04.019744+00:00
+1640919655,2026-11-22 05:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shogo Sanada,Taiyo Yamanaka,total,2.5,,,,5.19,1.1582,2026-11-22 02:42:04.019744+00:00
+1640928502,2026-11-22 20:00:00+00:00,ATP Challenger Montevideo - Final,Matheus Pucinelli De Almeida,Thiago Seyboth Wild,moneyline,,2.65,1.5128,,,,2026-11-22 02:42:04.019744+00:00
+1640928502,2026-11-22 20:00:00+00:00,ATP Challenger Montevideo - Final,Matheus Pucinelli De Almeida,Thiago Seyboth Wild,spread,1.5,1.6623,2.29,,,,2026-11-22 02:42:04.019744+00:00
+1640928502,2026-11-22 20:00:00+00:00,ATP Challenger Montevideo - Final,Matheus Pucinelli De Almeida,Thiago Seyboth Wild,total,2.5,,,,2.47,1.5814,2026-11-22 02:42:04.019744+00:00
+1640855505,2026-11-22 03:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,moneyline,,4.42,1.2174,,,,2026-11-22 02:42:04.019744+00:00
+1640855505,2026-11-22 03:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,spread,1.5,2.3,1.6329,,,,2026-11-22 02:42:04.019744+00:00
+1640855505,2026-11-22 03:00:00+00:00,ITF Men Hua Hin - Final,Manuel Plunger,Ergi Kirkin,total,2.5,,,,3.11,1.3774,2026-11-22 02:42:04.019744+00:00
+1640855440,2026-11-22 05:00:00+00:00,Billie Jean King Cup - Playoffs,Mai Hontama,Maria Florencia Urrutia,moneyline,,1.0453,12.61,,,,2026-11-22 02:42:04.019744+00:00
+1640923607,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Aaron Funk,Cemil Tugra Duran,moneyline,,1.1091,6.06,,,,2026-11-22 02:42:04.019744+00:00
+1640923607,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Aaron Funk,Cemil Tugra Duran,spread,-1.5,1.3663,3.08,,,,2026-11-22 02:42:04.019744+00:00
+1640923607,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Aaron Funk,Cemil Tugra Duran,total,2.5,,,,3.98,1.2404,2026-11-22 02:42:04.019744+00:00
+1640923462,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Thanapet Chanta,Finn Bass,moneyline,,1.5988,2.32,,,,2026-11-22 02:42:04.019744+00:00
+1640923462,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Thanapet Chanta,Finn Bass,spread,-1.5,2.31,1.6024,,,,2026-11-22 02:42:04.019744+00:00
+1640923462,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Thanapet Chanta,Finn Bass,total,2.5,,,,2.71,1.4545,2026-11-22 02:42:04.019744+00:00
+1640923504,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,John Sperle,Vardan Manukyan,moneyline,,1.1361,5.57,,,,2026-11-22 02:42:04.019744+00:00
+1640923504,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,John Sperle,Vardan Manukyan,spread,-1.5,1.4348,2.78,,,,2026-11-22 02:42:04.019744+00:00
+1640923504,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,John Sperle,Vardan Manukyan,total,2.5,,,,3.63,1.2786,2026-11-22 02:42:04.019744+00:00
+1640855439,2026-11-22 03:30:00+00:00,Billie Jean King Cup - Playoffs,Himeno Sakatsume,Justina Gonzalez Daniele,moneyline,,1.0484,12.08,,,,2026-11-22 02:42:04.019744+00:00
+1640923503,2026-11-22 23:00:00+00:00,ATP Challenger Drummondville - Final,Liam Draxl,Dylan Dietrich,moneyline,,2.62,1.5236,,,,2026-11-22 02:42:04.019744+00:00
+1640923503,2026-11-22 23:00:00+00:00,ATP Challenger Drummondville - Final,Liam Draxl,Dylan Dietrich,spread,1.5,1.6211,2.37,,,,2026-11-22 02:42:04.019744+00:00
+1640923503,2026-11-22 23:00:00+00:00,ATP Challenger Drummondville - Final,Liam Draxl,Dylan Dietrich,total,2.5,,,,2.43,1.5952,2026-11-22 02:42:04.019744+00:00
+1640923608,2026-11-22 12:00:00+00:00,ATP Challenger Ankara - Qualifiers,Melih Anavatan,Kerem Yilmaz,moneyline,,2.29,1.6135,,,,2026-11-22 02:42:04.019744+00:00
+1640923608,2026-11-22 12:00:00+00:00,ATP Challenger Ankara - Qualifiers,Melih Anavatan,Kerem Yilmaz,spread,1.5,1.5682,2.39,,,,2026-11-22 02:42:04.019744+00:00
+1640923608,2026-11-22 12:00:00+00:00,ATP Challenger Ankara - Qualifiers,Melih Anavatan,Kerem Yilmaz,total,2.5,,,,2.51,1.5181,2026-11-22 02:42:04.019744+00:00
+1640881522,2026-11-22 11:00:00+00:00,ATP Challenger Helsinki - Final,Otto Virtanen,Toby Samuel,moneyline,,1.6329,2.37,,,,2026-11-22 02:42:04.019744+00:00
+1640881522,2026-11-22 11:00:00+00:00,ATP Challenger Helsinki - Final,Otto Virtanen,Toby Samuel,spread,-1.5,2.54,1.5525,,,,2026-11-22 02:42:04.019744+00:00
+1640881522,2026-11-22 11:00:00+00:00,ATP Challenger Helsinki - Final,Otto Virtanen,Toby Samuel,total,2.5,,,,2.35,1.6329,2026-11-22 02:42:04.019744+00:00
+1640923451,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Dominik Palan,Chen Dong,moneyline,,1.3125,3.39,,,,2026-11-22 02:42:04.019744+00:00
+1640923451,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Dominik Palan,Chen Dong,spread,-1.5,1.8403,1.9434,,,,2026-11-22 02:42:04.019744+00:00
+1640923451,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Dominik Palan,Chen Dong,total,2.5,,,,2.75,1.4444,2026-11-22 02:42:04.019744+00:00
+1640928490,2026-11-22 14:00:00+00:00,ATP Challenger Ankara - Qualifiers,Drazen Petrovic,Oliver Okonkwo,moneyline,,4.78,1.1802,,,,2026-11-22 02:42:04.019744+00:00
+1640928490,2026-11-22 14:00:00+00:00,ATP Challenger Ankara - Qualifiers,Drazen Petrovic,Oliver Okonkwo,spread,1.5,2.56,1.5025,,,,2026-11-22 02:42:04.019744+00:00
+1640928490,2026-11-22 14:00:00+00:00,ATP Challenger Ankara - Qualifiers,Drazen Petrovic,Oliver Okonkwo,total,2.5,,,,3.52,1.2941,2026-11-22 02:42:04.019744+00:00
+1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,moneyline,,1.6711,2.23,,,,2026-11-22 02:42:04.019744+00:00
+1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,spread,-1.5,2.54,1.5291,,,,2026-11-22 02:42:04.019744+00:00
+1640881562,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Willian Rejchtman Vinciguerra,Manish Sureshkumar,total,2.5,,,,2.57,1.5208,2026-11-22 02:42:04.019744+00:00
+1640923452,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Yamato Sueoka,Herman Hoeyeraal,moneyline,,6.21,1.1094,,,,2026-11-22 02:42:04.019744+00:00
+1640923452,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Yamato Sueoka,Herman Hoeyeraal,spread,1.5,2.95,1.3937,,,,2026-11-22 02:42:04.019744+00:00
+1640923452,2026-11-22 05:30:00+00:00,ATP Challenger Playford - Qualifiers,Yamato Sueoka,Herman Hoeyeraal,total,2.5,,,,3.71,1.2695,2026-11-22 02:42:04.019744+00:00
+1640928488,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Luka Talan Lopatic,Anton Chekhov,moneyline,,1.0736,7.63,,,,2026-11-22 02:42:04.019744+00:00
+1640928488,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Luka Talan Lopatic,Anton Chekhov,spread,-1.5,1.2415,3.97,,,,2026-11-22 02:42:04.019744+00:00
+1640928488,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Luka Talan Lopatic,Anton Chekhov,total,2.5,,,,5.22,1.157,2026-11-22 02:42:04.019744+00:00
+1640923569,2026-11-22 18:00:00+00:00,ATP Challenger Champaign - Final,Oliver Tarvet,Shunsuke Mitsui,moneyline,,1.2028,4.83,,,,2026-11-22 02:42:04.019744+00:00
+1640923569,2026-11-22 18:00:00+00:00,ATP Challenger Champaign - Final,Oliver Tarvet,Shunsuke Mitsui,spread,-1.5,1.6667,2.28,,,,2026-11-22 02:42:04.019744+00:00
+1640923569,2026-11-22 18:00:00+00:00,ATP Challenger Champaign - Final,Oliver Tarvet,Shunsuke Mitsui,total,2.5,,,,2.98,1.4237,2026-11-22 02:42:04.019744+00:00
+1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,moneyline,,1.6173,2.24,,,,2026-11-22 02:42:04.019744+00:00
+1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,spread,-1.5,2.34,1.5682,,,,2026-11-22 02:42:04.019744+00:00
+1640881557,2026-11-22 10:30:00+00:00,ITF Men Vale Do Lobo - Final,Patrick Schoen,Sebastian Sorger,total,2.5,,,,2.57,1.4785,2026-11-22 02:42:04.019744+00:00
+1640935655,2026-11-23 10:00:00+00:00,ATP Challenger Playford - Qualifiers,Evan Zhu,Ethan Cook,moneyline,,1.1339,5.64,,,,2026-11-22 02:42:04.019744+00:00
+1640935655,2026-11-23 10:00:00+00:00,ATP Challenger Playford - Qualifiers,Evan Zhu,Ethan Cook,spread,-1.5,1.4587,2.69,,,,2026-11-22 02:42:04.019744+00:00
+1640935655,2026-11-23 10:00:00+00:00,ATP Challenger Playford - Qualifiers,Evan Zhu,Ethan Cook,total,2.5,,,,3.44,1.3049,2026-11-22 02:42:04.019744+00:00
+1640855488,2026-11-22 04:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,moneyline,,4.54,1.2294,,,,2026-11-22 02:42:04.019744+00:00
+1640855488,2026-11-22 04:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,spread,1.5,2.2,1.7246,,,,2026-11-22 02:42:04.019744+00:00
+1640855488,2026-11-22 04:00:00+00:00,ATP Challenger Kobe - Final,Liam Broady,Yosuke Watanuki,total,2.5,,,,2.91,1.4484,2026-11-22 02:42:04.019744+00:00
+1640889466,2026-11-22 12:30:00+00:00,Billie Jean King Cup - Doubles,Leolia Jeanjean / Kristina Mladenovic,Storm Hunter / Maya Joint,moneyline,,2.25,1.6452,,,,2026-11-22 02:42:04.019744+00:00
+1640911881,2026-11-22 14:30:00+00:00,ATP Challenger Metz - Final,Francesco Passaro,Soonwoo Kwon,moneyline,,2.37,1.6329,,,,2026-11-22 02:42:04.019744+00:00
+1640911881,2026-11-22 14:30:00+00:00,ATP Challenger Metz - Final,Francesco Passaro,Soonwoo Kwon,spread,1.5,1.5814,2.46,,,,2026-11-22 02:42:04.019744+00:00
+1640911881,2026-11-22 14:30:00+00:00,ATP Challenger Metz - Final,Francesco Passaro,Soonwoo Kwon,total,2.5,,,,2.58,1.5376,2026-11-22 02:42:04.019744+00:00
+1640923505,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,S Mert Ozdemir,Egor Agafonov,moneyline,,4.5,1.1984,,,,2026-11-22 02:42:04.019744+00:00
+1640923505,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,S Mert Ozdemir,Egor Agafonov,spread,1.5,2.33,1.5952,,,,2026-11-22 02:42:04.019744+00:00
+1640923505,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,S Mert Ozdemir,Egor Agafonov,total,2.5,,,,3.1,1.361,2026-11-22 02:42:04.019744+00:00
+1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,moneyline,,2.11,1.7463,,,,2026-11-22 02:42:04.019744+00:00
+1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,spread,1.5,1.4695,2.72,,,,2026-11-22 02:42:04.019744+00:00
+1640889414,2026-11-22 05:00:00+00:00,ITF Men Bhubaneswar - SF,Dev Javia,Digvijay Pratap Singh,total,2.5,,,,2.44,1.5682,2026-11-22 02:42:04.019744+00:00
+1640923568,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shinnosuke Iwamoto,Kokoro Isomura,moneyline,,11.01,1.0384,,,,2026-11-22 02:42:04.019744+00:00
+1640923568,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shinnosuke Iwamoto,Kokoro Isomura,spread,1.5,5.9,1.1297,,,,2026-11-22 02:42:04.019744+00:00
+1640923568,2026-11-22 07:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Shinnosuke Iwamoto,Kokoro Isomura,total,2.5,,,,7.82,1.0835,2026-11-22 02:42:04.019744+00:00
+1640923460,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Adhithya Ganesan,Yusuke Takahashi,moneyline,,2.14,1.6944,,,,2026-11-22 02:42:04.019744+00:00
+1640923460,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Adhithya Ganesan,Yusuke Takahashi,spread,1.5,1.5128,2.53,,,,2026-11-22 02:42:04.019744+00:00
+1640923460,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Adhithya Ganesan,Yusuke Takahashi,total,2.5,,,,2.51,1.5181,2026-11-22 02:42:04.019744+00:00
+1640928487,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,Koray Kirci,Nikita Belozertsev,moneyline,,5.3,1.1475,,,,2026-11-22 02:42:04.019744+00:00
+1640928487,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,Koray Kirci,Nikita Belozertsev,spread,1.5,2.65,1.4739,,,,2026-11-22 02:42:04.019744+00:00
+1640928487,2026-11-22 08:00:00+00:00,ATP Challenger Ankara - Qualifiers,Koray Kirci,Nikita Belozertsev,total,2.5,,,,3.45,1.304,2026-11-22 02:42:04.019744+00:00
+1640923507,2026-11-22 12:00:00+00:00,ATP Challenger Ankara - Qualifiers,Adrian Oetzbach,Emirhan Bulut,moneyline,,1.0248,13.91,,,,2026-11-22 02:42:04.019744+00:00
+1640928491,2026-11-22 14:00:00+00:00,ATP Challenger Ankara - Qualifiers,Leonid Sheyngezikht,Robert Guna,moneyline,,3.21,1.3413,,,,2026-11-22 02:42:04.019744+00:00
+1640928491,2026-11-22 14:00:00+00:00,ATP Challenger Ankara - Qualifiers,Leonid Sheyngezikht,Robert Guna,spread,1.5,1.9259,1.8621,,,,2026-11-22 02:42:04.019744+00:00
+1640928491,2026-11-22 14:00:00+00:00,ATP Challenger Ankara - Qualifiers,Leonid Sheyngezikht,Robert Guna,total,2.5,,,,2.89,1.4065,2026-11-22 02:42:04.019744+00:00
+1640928483,2026-11-22 17:00:00+00:00,ATP Finals - Final,Alexander Zverev,Carlos Alcaraz,moneyline,,2.83,1.4785,,,,2026-11-22 02:42:04.019744+00:00
+1640928483,2026-11-22 17:00:00+00:00,ATP Finals - Final,Alexander Zverev,Carlos Alcaraz,spread,1.5,1.6452,2.35,,,,2026-11-22 02:42:04.019744+00:00
+1640928483,2026-11-22 17:00:00+00:00,ATP Finals - Final,Alexander Zverev,Carlos Alcaraz,total,2.5,,,,2.34,1.6494,2026-11-22 02:42:04.019744+00:00
+1640923461,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,S D Prajwal Dev,Nitin Kumar Sinha,moneyline,,1.2381,4.01,,,,2026-11-22 02:42:04.019744+00:00
+1640923461,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,S D Prajwal Dev,Nitin Kumar Sinha,spread,-1.5,1.6803,2.17,,,,2026-11-22 02:42:04.019744+00:00
+1640923461,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,S D Prajwal Dev,Nitin Kumar Sinha,total,2.5,,,,2.98,1.3876,2026-11-22 02:42:04.019744+00:00
+1640923506,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Kaya Arinc,Jannik Maute,moneyline,,11.31,1.0365,,,,2026-11-22 02:42:04.019744+00:00
+1640923506,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Kaya Arinc,Jannik Maute,spread,1.5,5.74,1.1353,,,,2026-11-22 02:42:04.019744+00:00
+1640923506,2026-11-22 10:00:00+00:00,ATP Challenger Ankara - Qualifiers,Kaya Arinc,Jannik Maute,total,2.5,,,,7.3,1.0929,2026-11-22 02:42:04.019744+00:00
+1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,moneyline,,1.2695,3.71,,,,2026-11-22 02:42:04.019744+00:00
+1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,spread,-1.5,1.7752,2.03,,,,2026-11-22 02:42:04.019744+00:00
+1640863891,2026-11-22 07:00:00+00:00,ITF Men Heraklion - Final,Henry Searle,Oleksii Krutykh,total,2.5,,,,2.71,1.4525,2026-11-22 02:42:04.019744+00:00
+1640902657,2026-11-22 07:00:00+00:00,Billie Jean King Cup - Doubles,Thasaporn Naklo / Peangtarn Plipuech,Naima Karamoko / Simona Waltert,moneyline,,3.73,1.2833,,,,2026-11-22 02:42:04.019744+00:00
+1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,moneyline,,1.5208,2.46,,,,2026-11-22 02:42:04.019744+00:00
+1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,spread,-1.5,2.34,1.5682,,,,2026-11-22 02:42:04.019744+00:00
+1640863191,2026-11-22 11:00:00+00:00,ITF Men Monastir - Final,Duje Ajdukovic,Fausto Tabacco,total,2.5,,,,2.34,1.5682,2026-11-22 02:42:04.019744+00:00
+1640923566,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Yuki Mochizuki,Kosuke Ogura,moneyline,,1.8475,1.9434,,,,2026-11-22 02:42:04.019744+00:00
+1640923566,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Yuki Mochizuki,Kosuke Ogura,spread,-1.5,2.83,1.4219,,,,2026-11-22 02:42:04.019744+00:00
+1640923566,2026-11-22 03:00:00+00:00,ATP Challenger Yokohama - Qualifiers,Yuki Mochizuki,Kosuke Ogura,total,2.5,,,,2.52,1.5155,2026-11-22 02:42:04.019744+00:00
+1640919652,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Billy Suarez,Stefan Vujic,moneyline,,3.25,1.3344,,,,2026-11-22 02:42:04.019744+00:00
+1640919652,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Billy Suarez,Stefan Vujic,spread,1.5,1.8772,1.9091,,,,2026-11-22 02:42:04.019744+00:00
+1640919652,2026-11-22 03:30:00+00:00,ATP Challenger Playford - Qualifiers,Billy Suarez,Stefan Vujic,total,2.5,,,,2.68,1.463,2026-11-22 02:42:04.019744+00:00
