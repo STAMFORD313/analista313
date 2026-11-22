@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 12:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UNiTY vs Monkeys — 22/11 · 13:00
-
-👀 candidata · 🎮 CS2 · MČR 2026 · **Gana UNiTY** @ **1.17** (Thunderpick) · prob 77% vs casas 79% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.135 partidos)  
-Mapa: UNiTY 67% · Serie BO3: UNiTY 74% - 26% Monkeys  
-Casas: UNiTY 79% · Monkeys 21%  
-🔎 **Claves**  
-• Elo: UNiTY 1799 (569 series) | Monkeys 1612 (4 series)  
-• Forma: UNiTY ✅✅✅❌❌ | Monkeys ✅❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: MČR 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• UNiTY gana 2-1: 24% → cuota justa 4.09 · casa 25%  
-• Monkeys gana 2-1: 12% → cuota justa 8.22 · casa 10%  
+Actualizado 22/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mira vs Underworld — 22/11 · 19:00
 

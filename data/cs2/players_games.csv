@@ -35024,3 +35024,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193602,134016,bbl-vs-sinners-21-11-2026,2026-11-21T18:30:00.000+00:00,b,3,6168,RUSH:Brno 2026,25251,200,BBL,SINNERS,1,de_mirage,200,13.0,7.0
 193417,133873,betclic-apogee-esports-vs-forze-reload-21-11-2026,2026-11-21T18:45:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,11101,10703,Betclic,FORZE Reload,2,de_nuke,11101,13.0,11.0
 193418,133873,betclic-apogee-esports-vs-forze-reload-21-11-2026,2026-11-21T18:45:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,11101,10703,Betclic,FORZE Reload,1,de_cache,11101,22.0,19.0
+193425,133876,tpudcatb-tpu-vs-phantom-esports-22-11-2026,2026-11-22T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,19204,33,Phantom,3,de_dust2,19204,13.0,6.0
+193426,133876,tpudcatb-tpu-vs-phantom-esports-22-11-2026,2026-11-22T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,19204,33,Phantom,2,de_ancient,19204,13.0,4.0
+193427,133876,tpudcatb-tpu-vs-phantom-esports-22-11-2026,2026-11-22T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,19204,33,Phantom,1,de_nuke,22191,13.0,11.0
