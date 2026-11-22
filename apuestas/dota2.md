@@ -1,6 +1,28 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 22/11/2026 04:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## PuckChamp vs Power Rangers — 22/11 · 14:00
+
+👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Gana Power Rangers** @ **1.50** (Thunderpick) · prob 63% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.895 partidos)  
+Mapa: PuckChamp 44% · Serie BO3: PuckChamp 37% - 63% Power Rangers  
+Casas: PuckChamp 38% · Power Rangers 62%  
+🔎 **Claves**  
+• Elo: PuckChamp 1654 (70 series) | Power Rangers 1710 (120 series)  
+• Forma: PuckChamp ❌✅✅❌✅ | Power Rangers ✅❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: European Pro League Season 41 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): PuckChamp: krol9ash 4.1, gbc 3.7 | Power Rangers: alberkaaa 4.7, Nicky`Cool 4.7  
+• Química de la plantilla: PuckChamp: 109 partidas juntos de media | Power Rangers: 135 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PuckChamp gana 2-1: 19% → cuota justa 5.41 · casa 18%  
+• Power Rangers gana 2-1: 24% → cuota justa 4.24 · casa 25%  
 
 ## LEGION vs DO KONCA — 22/11 · 15:00
 

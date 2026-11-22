@@ -1,66 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 04:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Oregon State Beavers vs Utah State Aggies — 22/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Oregon State Beavers -9.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Oregon State Beavers cubre -9.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Oregon State Beavers ✅✅❌❌❌ | Utah State Aggies ✅❌✅✅❌  
-• H2H: 1 desde 2021: 0-1  
-• Bajas: Oregon State Beavers: sin bajas; Utah State Aggies: sin bajas  
-
-## Oregon State Beavers vs Utah State Aggies — 22/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Oregon State Beavers** @ **1.28** (DraftKings) · prob 75% vs casas 75% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Oregon State Beavers 62% · Gana Utah State Aggies 38%  
-Casas: Oregon State Beavers 75% · Utah State Aggies 25%  
-Hándicap ORST -9.5 · Total puntos 50.5  
-🔎 **Claves**  
-• Forma: Oregon State Beavers ✅✅❌❌❌ | Utah State Aggies ✅❌✅✅❌  
-• H2H: 1 desde 2021: 0-1  
-• Bajas: Oregon State Beavers: sin bajas; Utah State Aggies: sin bajas  
-• Favorito de las casas: Oregon State Beavers @ 1.28  
-
-## Nevada Wolf Pack vs Hawai'i Rainbow Warriors — 22/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Nevada Wolf Pack -4.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Nevada Wolf Pack cubre -4.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Nevada Wolf Pack ❌✅❌❌✅ | Hawai'i Rainbow Warriors ❌❌✅✅❌  
-• H2H: 8 desde 2017: 3-5  
-• Bajas: Nevada Wolf Pack: sin bajas; Hawai'i Rainbow Warriors: sin bajas  
-
-## Nevada Wolf Pack vs Hawai'i Rainbow Warriors — 22/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Nevada Wolf Pack** @ **1.49** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Nevada Wolf Pack 54% · Gana Hawai'i Rainbow Warriors 46%  
-Casas: Nevada Wolf Pack 64% · Hawai'i Rainbow Warriors 36%  
-Hándicap NEV -4.5 · Total puntos 40.5  
-🔎 **Claves**  
-• Forma: Nevada Wolf Pack ❌✅❌❌✅ | Hawai'i Rainbow Warriors ❌❌✅✅❌  
-• H2H: 8 desde 2017: 3-5  
-• Bajas: Nevada Wolf Pack: sin bajas; Hawai'i Rainbow Warriors: sin bajas  
-• Favorito de las casas: Nevada Wolf Pack @ 1.49  
+Actualizado 22/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Buffalo Bills vs Miami Dolphins — 22/11 · 19:00
 
