@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-22 05:16",
- "n": 4874,
+ "fecha": "2026-11-22 05:47",
+ "n": 4878,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5",
@@ -343,8 +343,8 @@
    "n": 1482,
    "roi": -0.1178,
    "se": 0.0456,
-   "roi_antigua": -0.2146,
-   "roi_nueva": -0.0453,
+   "roi_antigua": -0.2171,
+   "roi_nueva": -0.043,
    "clv": 0.0218,
    "clv_se": 0.0137,
    "clv_n": 150
@@ -493,22 +493,22 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 2302,
-   "roi": -0.0696,
+   "n": 2306,
+   "roi": -0.0695,
    "se": 0.0312,
-   "roi_antigua": -0.124,
-   "roi_nueva": -0.0277,
+   "roi_antigua": -0.1258,
+   "roi_nueva": -0.0261,
    "clv": 0.015,
    "clv_se": 0.0059,
    "clv_n": 230
   },
   {
    "segmento": "cuota=1.5-2",
-   "n": 1493,
-   "roi": -0.0516,
+   "n": 1495,
+   "roi": -0.0517,
    "se": 0.0231,
    "roi_antigua": -0.048,
-   "roi_nueva": -0.0553,
+   "roi_nueva": -0.0555,
    "clv": -0.0294,
    "clv_se": 0.0043,
    "clv_n": 236
