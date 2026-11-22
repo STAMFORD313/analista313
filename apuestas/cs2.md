@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 00:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FlyQuest RED vs Axial — 23/11 · 02:00
 
@@ -285,4 +285,24 @@ Casas: Eternal Fire 56% · FlyQuest 44%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
 Eternal Fire: jottAAA 15 (8-23) · Kvem 15 (8-23) · regali 15 (7-22) · soulfly 14 (7-22) · MisteM 13 (6-20)  
 FlyQuest: Vexite 15 (8-23) · jks 15 (8-23) · nettik 14 (7-22) · aliStair 14 (7-22) · INS 14 (7-21)  
+
+## DONSTU vs Fortress — 24/11 · 12:30
+
+👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana DONSTU** @ **1.20** (Thunderpick) · prob 75% vs casas 77% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.194 partidos)  
+Mapa: DONSTU 66% · Serie BO3: DONSTU 73% - 27% Fortress  
+Casas: DONSTU 77% · Fortress 23%  
+🔎 **Claves**  
+• Elo: DONSTU 1514 (116 series) | Fortress 1337 (77 series)  
+• Forma: DONSTU ❌✅❌✅❌ | Fortress ❌✅✅❌✅  
+• H2H: 1: 1-0  
+• Torneo: European Pro League Series 11 Play-In (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DONSTU gana 2-1: 25% → cuota justa 4.06  
+• Fortress gana 2-1: 13% → cuota justa 7.87  
 

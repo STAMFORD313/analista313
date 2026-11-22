@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Chicago Fire vs Charlotte — 23/11 · 00:30
-
-👀 candidata · 🇺🇸 MLS · **Gana Chicago Fire** @ **1.61** (Bet365) · prob 59% vs casas 59% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.51)  
-1 42% · X 26% · 2 32%  
-1X 68% · X2 58% · 12 74%  
-+1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Chicago Fire ❌✅➖✅❌ | Charlotte ➖❌✅✅➖  
-• H2H: 10 desde 2022: 5V-0E-5D · 3.7 goles/partido · +2.5 en 70%  
-• Bajas: Chicago Fire: 0 fuera, 3 duda; Charlotte: 0 fuera, 5 duda  
-• Favorito de las casas: Chicago Fire @ 1.61  
+Actualizado 23/11/2026 00:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Instituto vs Huracan — 23/11 · 02:00
 
