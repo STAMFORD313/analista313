@@ -76807,18 +76807,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2391225,262709,Atleti,Barcelona,,
 2391226,262709,Real Madrid,Barcelona,,
 2391227,262709,Real Madrid,Atleti,,
-2391186,262685,Bayern Munchen,Frankfurt,2,2
-2391187,262685,B Dortmund,Leipzig,1,2
-2391188,262685,Leipzig,Bayern Munchen,4,0
-2391189,262685,Frankfurt,Stuttgart,0,2
-2391190,262685,Stuttgart,Leipzig,2,1
-2391191,262685,Bayern Munchen,B Dortmund,2,1
-2391192,262685,B Dortmund,Stuttgart,0,3
-2391193,262685,Leipzig,Frankfurt,0,1
-2391194,262685,Frankfurt,B Dortmund,1,0
-2391195,262685,Stuttgart,Bayern Munchen,3,1
-2391196,262685,Frankfurt,Bayern Munchen,0,2
-2391197,262685,Leipzig,B Dortmund,0,1
+2391186,262685,Bayern Munchen,Frankfurt,2.0,2.0
+2391187,262685,B Dortmund,Leipzig,1.0,2.0
+2391188,262685,Leipzig,Bayern Munchen,4.0,0.0
+2391189,262685,Frankfurt,Stuttgart,0.0,2.0
+2391190,262685,Stuttgart,Leipzig,2.0,1.0
+2391191,262685,Bayern Munchen,B Dortmund,2.0,1.0
+2391192,262685,B Dortmund,Stuttgart,0.0,3.0
+2391193,262685,Leipzig,Frankfurt,0.0,1.0
+2391194,262685,Frankfurt,B Dortmund,1.0,0.0
+2391195,262685,Stuttgart,Bayern Munchen,3.0,1.0
+2391196,262685,Frankfurt,Bayern Munchen,0.0,2.0
+2391197,262685,Leipzig,B Dortmund,0.0,1.0
 2391198,262685,Bayern Munchen,Leipzig,,
 2391199,262685,Stuttgart,Frankfurt,,
 2391200,262685,Leipzig,Stuttgart,,
@@ -76827,16 +76827,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2391203,262685,Frankfurt,Leipzig,,
 2391204,262685,B Dortmund,Frankfurt,,
 2391205,262685,Bayern Munchen,Stuttgart,,
-2392117,262748,Sporting CP,B Dortmund,1,2
-2392118,262748,Juventus,Arsenal,3,2
-2392119,262748,Arsenal,Sporting CP,3,2
-2392120,262748,B Dortmund,Man City,2,2
-2392121,262748,Man City,Arsenal,4,1
-2392122,262748,Sporting CP,Juventus,1,0
-2392123,262748,Juventus,Man City,1,1
-2392124,262748,Arsenal,B Dortmund,1,0
-2392125,262748,B Dortmund,Juventus,1,0
-2392126,262748,Man City,Sporting CP,2,0
+2392117,262748,Sporting CP,B Dortmund,1.0,2.0
+2392118,262748,Juventus,Arsenal,3.0,2.0
+2392119,262748,Arsenal,Sporting CP,3.0,2.0
+2392120,262748,B Dortmund,Man City,2.0,2.0
+2392121,262748,Man City,Arsenal,4.0,1.0
+2392122,262748,Sporting CP,Juventus,1.0,0.0
+2392123,262748,Juventus,Man City,1.0,1.0
+2392124,262748,Arsenal,B Dortmund,1.0,0.0
+2392125,262748,B Dortmund,Juventus,1.0,0.0
+2392126,262748,Man City,Sporting CP,2.0,0.0
 2392127,262748,B Dortmund,Sporting CP,,
 2392128,262748,Arsenal,Juventus,,
 2392129,262748,Sporting CP,Arsenal,,
@@ -76847,3 +76847,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2392134,262748,B Dortmund,Arsenal,,
 2392135,262748,Juventus,B Dortmund,,
 2392136,262748,Sporting CP,Man City,,
+2391787,262696,Real Madrid,Boca Juniors,2,1
+2391788,262696,Paris,River Plate,2,2
+2391789,262696,River Plate,Real Madrid,2,3
+2391790,262696,Boca Juniors,Man City,1,0
+2391791,262696,Man City,River Plate,1,2
+2391792,262696,Real Madrid,Paris,0,5
+2391793,262696,Paris,Man City,4,1
+2391794,262696,River Plate,Boca Juniors,1,1
+2391795,262696,Boca Juniors,Paris,1,4
+2391796,262696,Man City,Real Madrid,0,2
+2391797,262696,Boca Juniors,Real Madrid,0,1
+2391798,262696,River Plate,Paris,4,4
+2391799,262696,Real Madrid,River Plate,,
+2391800,262696,Man City,Boca Juniors,,
+2391801,262696,River Plate,Man City,,
+2391802,262696,Paris,Real Madrid,,
+2391803,262696,Man City,Paris,,
+2391804,262696,Boca Juniors,River Plate,,
+2391805,262696,Paris,Boca Juniors,,
+2391806,262696,Real Madrid,Man City,,
+2391006,262706,Bologna,Napoli,1,1
+2391007,262706,Sassuolo,Juventus,2,1
+2391008,262706,Juventus,Bologna,3,0
+2391009,262706,Napoli,Roma,2,4
+2391010,262706,Roma,Juventus,2,2
+2391011,262706,Bologna,Sassuolo,2,1
+2391012,262706,Sassuolo,Roma,3,2
+2391013,262706,Juventus,Napoli,1,1
+2391014,262706,Napoli,Sassuolo,1,2
+2391015,262706,Roma,Bologna,3,1
+2391016,262706,Napoli,Bologna,,
+2391017,262706,Juventus,Sassuolo,,
+2391018,262706,Bologna,Juventus,,
+2391019,262706,Roma,Napoli,,
+2391020,262706,Juventus,Roma,,
+2391021,262706,Sassuolo,Bologna,,
+2391022,262706,Roma,Sassuolo,,
+2391023,262706,Napoli,Juventus,,
+2391024,262706,Sassuolo,Napoli,,
+2391025,262706,Bologna,Roma,,
