@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 09:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FORZE Reload vs WBT — 22/11 · 10:00
-
-👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana WBT** @ **2.70** (Thunderpick) · prob 35% vs casas 34% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.129 partidos)  
-Mapa: FORZE Reload 57% · Serie BO5: FORZE Reload 64% - 36% WBT  
-Casas: FORZE Reload 66% · WBT 34%  
-🔎 **Claves**  
-• Elo: FORZE Reload 1795 (364 series) | WBT 1716 (63 series)  
-• Forma: FORZE Reload ❌✅✅✅✅ | WBT ❌✅✅✅❌  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 10 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 22/11/2026 10:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UNiTY vs Monkeys — 22/11 · 13:00
 
