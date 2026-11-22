@@ -19432,7 +19432,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Cordoba vs Oviedo,David Jiménez,To Score,0.5,11.0,0.0909,0.0218,1,0.0,0
 2026-11-22,Cordoba vs Oviedo,Carlos Fernández,To score at least 2 goals,1.5,16.0,0.0625,0.0027,0,0.0,0
 2026-11-22,Cordoba vs Oviedo,Carlos Dominguez,To Score,0.5,10.5,0.0952,0.1656,1,0.0,0
-2026-11-22,Cordoba vs Oviedo,Juan Cruz,To Score,0.5,11.5,0.087,0.0221,0,0.0,0
+2026-11-22,Cordoba vs Oviedo,Juan Cruz,To Score,0.5,11.5,0.087,0.0307,0,0.0,0
 2026-11-22,Kasimpasa vs Alanyaspor,Yusuf Ozdemir,To Score,0.5,5.2,0.1923,0.0692,1,0.0,0
 2026-11-22,Kasimpasa vs Alanyaspor,Ali Yavuz Kol,To Score,0.5,3.7,0.2703,0.0541,1,0.0,0
 2026-11-22,Kasimpasa vs Alanyaspor,Iván Cédric,To Score,0.5,3.95,0.2532,0.0266,0,0.0,0
@@ -20930,3 +20930,181 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Milan vs Frosinone,Christian Pulisic,Player's shots on target,1.5,2.3,0.4348,0.1539,1,1.0,0
 2026-11-22,Milan vs Frosinone,Mario Gila,To Score,0.5,7.0,0.1429,0.0432,1,0.0,0
 2026-11-22,Milan vs Frosinone,Omari Hutchinson,To Score,0.5,3.3,0.303,0.028,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Lucas Torró,Player's shots on target,0.5,2.75,0.3636,0.0739,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,Player's shots on target,0.5,1.38,0.7246,0.7013,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,To Get a Card,0.5,3.8,0.2632,0.0371,0,1.0,1
+2026-11-22,Osasuna vs Malaga,Adrián Niño,To Get a Card,0.5,5.75,0.1739,0.1075,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Ramón Enríquez,To Score,0.5,10.5,0.0952,0.0234,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Iñigo Arguibide,To give an assist,0.5,6.5,0.1538,0.0098,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Iker Muñoz,Player's shots on target,0.5,3.5,0.2857,0.0775,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Puga,To Get a Card,0.5,2.6,0.3846,0.0538,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,To Score,0.5,3.7,0.2703,0.3312,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rafa Rodríguez,To score at least 2 goals,1.5,56.0,0.0179,0.0033,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rafa Rodríguez,To Score,0.5,6.25,0.16,0.0799,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Moi Gómez,To Get a Card,0.5,4.5,0.2222,0.1428,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Álex Pastor,To Score,0.5,15.0,0.0667,0.0295,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rafa Rodríguez,To Get a Card,0.5,2.6,0.3846,0.1289,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,To score at least 2 goals,1.5,20.0,0.05,0.0622,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raul Moro,To score at least 2 goals,1.5,35.0,0.0286,0.0002,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ángel Recio,Player's shots on target,0.5,5.5,0.1818,0.0995,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Pablo Martínez,To Get a Card,0.5,3.0,0.3333,0.1191,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Iker Muñoz,To Get a Card,0.5,3.5,0.2857,0.0506,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Diego Rico,Player's shots on target,0.5,4.2,0.2381,0.0785,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jose Salinas,To Get a Card,0.5,2.95,0.339,0.1564,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,Player's shots on target,0.5,1.35,0.7407,0.1778,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jorge Herrando,To Score,0.5,9.5,0.1053,0.0192,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Raul Moro,To give an assist,0.5,4.5,0.2222,0.0199,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,To score at least 3 goals,2.5,61.0,0.0164,0.0,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Rubén García,Player's shots on target,0.5,1.52,0.6579,0.327,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Moi Gómez,To Score,0.5,10.5,0.0952,0.0495,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jens Cajuste,To Score,0.5,12.0,0.0833,0.0266,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,To score at least 2 goals,1.5,14.0,0.0714,0.0016,0,0.0,0
+2026-11-22,Osasuna vs Malaga,David Larrubia,To Score,0.5,5.5,0.1818,0.1391,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,To Score,0.5,2.75,0.3636,0.0509,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Izan Merino,Player's shots on target,0.5,4.8,0.2083,0.0589,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Iñigo Arguibide,To Get a Card,0.5,3.2,0.3125,0.02,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Raul Moro,Player's shots on target,0.5,2.08,0.4808,0.0752,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ramón Enríquez,To Get a Card,0.5,3.6,0.2778,0.0505,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Pablo Martínez,To Score,0.5,9.0,0.1111,0.0917,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Asier Osambela,To Score,0.5,10.0,0.1,0.0391,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Valentin Rosier,To Get a Card,0.5,3.6,0.2778,0.2006,1,0.0,0
+2026-11-22,Osasuna vs Malaga,David Larrubia,To Get a Card,0.5,4.6,0.2174,0.1692,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,Player's shots on target,2.5,6.75,0.1481,0.1223,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Lucas Torró,To Get a Card,0.5,3.4,0.2941,0.034,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jens Cajuste,To give an assist,0.5,9.0,0.1111,0.0206,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Unai Santos,To give an assist,0.5,12.0,0.0833,0.0128,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Alejandro Catena,To give an assist,0.5,9.0,0.1111,0.0582,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jose Salinas,Player's shots on target,0.5,5.5,0.1818,0.1216,1,0.0,0
+2026-11-22,Osasuna vs Malaga,David Larrubia,Player's shots on target,1.5,6.0,0.1667,0.1071,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Valentin Rosier,Player's shots on target,0.5,4.2,0.2381,0.1056,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,Player's shots on target,3.5,5.4,0.1852,0.0178,1,1.0,0
+2026-11-22,Osasuna vs Malaga,Alejandro Catena,Player's shots on target,0.5,4.2,0.2381,0.1674,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Moi Gómez,Player's shots on target,0.5,4.1,0.2439,0.2018,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raul Moro,Player's shots on target,1.5,6.0,0.1667,0.0029,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Enzo Boyomo,To give an assist,0.5,12.0,0.0833,0.0429,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jorge Herrando,Player's shots on target,0.5,3.9,0.2564,0.0706,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,Player's shots on target,2.5,6.25,0.16,0.0005,0,0.0,0
+2026-11-22,Osasuna vs Malaga,David Larrubia,To give an assist,0.5,7.5,0.1333,0.0548,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jose Salinas,To give an assist,0.5,17.0,0.0588,0.0245,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Ángel Recio,To give an assist,0.5,17.0,0.0588,0.02,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rubén García,To give an assist,0.5,3.9,0.2564,0.0987,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Einar Galilea,To give an assist,0.5,17.0,0.0588,0.0077,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,To give an assist,0.5,12.0,0.0833,0.095,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Lucas Torró,To give an assist,0.5,8.5,0.1176,0.0092,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,To Score,0.5,2.0,0.5,0.3412,1,1.0,1
+2026-11-22,Osasuna vs Malaga,Rubén García,To score at least 2 goals,1.5,17.0,0.0588,0.002,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rubén García,To Score,0.5,3.4,0.2941,0.0624,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Álex Pastor,To Get a Card,0.5,2.6,0.3846,0.1516,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Dotor,To score at least 2 goals,1.5,91.0,0.011,0.008,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,To score at least 3 goals,2.5,101.0,0.0099,0.0081,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rubén García,Player's shots on target,2.5,9.0,0.1111,0.0077,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Einar Galilea,Player's shots on target,0.5,5.0,0.2,0.0575,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ramón Enríquez,Player's shots on target,0.5,3.9,0.2564,0.0716,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Enzo Boyomo,Player's shots on target,0.5,4.3,0.2326,0.1061,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Izan Merino,To give an assist,0.5,17.0,0.0588,0.0097,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jon Moncayola,Player's shots on target,0.5,4.0,0.25,0.2134,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Puga,To give an assist,0.5,12.5,0.08,0.0088,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jorge Herrando,To give an assist,0.5,10.0,0.1,0.0119,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Álex Pastor,To give an assist,0.5,18.0,0.0556,0.0217,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Diego Rico,To give an assist,0.5,8.5,0.1176,0.0275,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,Player's shots on target,1.5,1.63,0.6135,0.2571,1,1.0,0
+2026-11-22,Osasuna vs Malaga,Jon Moncayola,To Get a Card,0.5,3.9,0.2564,0.2362,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Valentin Rosier,To Score,0.5,10.5,0.0952,0.0338,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Einar Galilea,To Get a Card,0.5,2.9,0.3448,0.0492,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Lucas Torró,To score at least 2 goals,1.5,56.0,0.0179,0.0002,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Asier Osambela,To give an assist,0.5,5.5,0.1818,0.011,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Alejandro Catena,To Get a Card,0.5,2.8,0.3571,0.2296,1,1.0,1
+2026-11-22,Osasuna vs Malaga,Pablo Martínez,To give an assist,0.5,6.0,0.1667,0.1712,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Iñigo Arguibide,To score at least 2 goals,1.5,71.0,0.0141,0.0002,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ángel Recio,To Get a Card,0.5,2.8,0.3571,0.0902,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Puga,Player's shots on target,0.5,5.3,0.1887,0.0489,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Izan Merino,To Score,0.5,13.0,0.0769,0.0172,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jose Salinas,To Score,0.5,14.0,0.0714,0.0228,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raul Moro,To Score,0.5,5.0,0.2,0.0216,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Enzo Boyomo,To Score,0.5,10.5,0.0952,0.0254,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Unai Santos,To Score,0.5,10.0,0.1,0.0286,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Dotor,To Get a Card,0.5,3.0,0.3333,0.2061,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Iñigo Arguibide,To Score,0.5,8.0,0.125,0.0219,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jorge Herrando,To Get a Card,0.5,3.5,0.2857,0.0388,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,To score at least 2 goals,1.5,10.0,0.1,0.0013,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,To Get a Card,0.5,4.0,0.25,0.1525,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,To give an assist,0.5,4.2,0.2381,0.0198,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,Player's shots on target,2.5,6.25,0.16,0.0011,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Dotor,To give an assist,0.5,5.75,0.1739,0.0682,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,To Score,0.5,3.15,0.3175,0.0563,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Asier Osambela,Player's shots on target,0.5,4.0,0.25,0.0955,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Dotor,Player's shots on target,0.5,3.7,0.2703,0.356,1,0.0,0
+2026-11-22,Osasuna vs Malaga,David Larrubia,Player's shots on target,0.5,2.04,0.4902,0.4256,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,To Get a Card,0.5,3.7,0.2703,0.0286,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Unai Santos,Player's shots on target,0.5,4.2,0.2381,0.08,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Álex Pastor,Player's shots on target,0.5,5.3,0.1887,0.1065,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Asier Osambela,To Get a Card,0.5,3.3,0.303,0.0396,0,1.0,1
+2026-11-22,Osasuna vs Malaga,Rubén García,To Get a Card,0.5,4.3,0.2326,0.1397,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Puga,To Score,0.5,14.0,0.0714,0.0161,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,To score at least 3 goals,2.5,20.0,0.05,0.0089,1,1.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,To score at least 2 goals,1.5,5.8,0.1724,0.0663,1,1.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,To give an assist,0.5,4.8,0.2083,0.0229,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,Player's shots on target,2.5,2.9,0.3448,0.0768,1,1.0,0
+2026-11-22,Osasuna vs Malaga,Raul Moro,To Get a Card,0.5,3.7,0.2703,0.0184,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Alejandro Catena,To Score,0.5,10.5,0.0952,0.0691,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Adrián Niño,Player's shots on target,1.5,2.95,0.339,0.3404,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Izan Merino,To Get a Card,0.5,3.3,0.303,0.0301,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Iker Muñoz,To Score,0.5,8.5,0.1176,0.0202,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,To give an assist,0.5,4.8,0.2083,0.0323,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Pablo Martínez,Player's shots on target,0.5,3.3,0.303,0.2665,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Iker Muñoz,To score at least 2 goals,1.5,81.0,0.0123,0.0002,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,Player's shots on target,0.5,1.34,0.7463,0.1418,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Ramón Enríquez,To give an assist,0.5,4.8,0.2083,0.0297,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,Player's shots on target,1.5,2.85,0.3509,0.0106,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Iñigo Arguibide,Player's shots on target,0.5,3.4,0.2941,0.0711,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jon Moncayola,To give an assist,0.5,5.75,0.1739,0.0591,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Unai Santos,To Get a Card,0.5,3.2,0.3125,0.0362,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Iker Muñoz,To give an assist,0.5,5.75,0.1739,0.0097,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Rubén García,To score at least 3 goals,2.5,91.0,0.011,0.0,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Valentin Rosier,To give an assist,0.5,7.0,0.1429,0.0247,1,1.0,1
+2026-11-22,Osasuna vs Malaga,Einar Galilea,To Score,0.5,13.0,0.0769,0.0201,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Rafa Rodríguez,Player's shots on target,0.5,2.6,0.3846,0.3072,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Enzo Boyomo,To Get a Card,0.5,3.05,0.3279,0.1442,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Raúl García,Player's shots on target,1.5,2.85,0.3509,0.0168,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jon Moncayola,To Score,0.5,10.0,0.1,0.039,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Ángel Recio,To Score,0.5,15.0,0.0667,0.0183,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rubén García,Player's shots on target,1.5,3.5,0.2857,0.0605,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Jens Cajuste,To Get a Card,0.5,2.9,0.3448,0.0251,0,0.0,0
+2026-11-22,Osasuna vs Malaga,David Larrubia,To score at least 2 goals,1.5,41.0,0.0244,0.0102,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Ante Budimir,Player's shots on target,0.5,1.06,0.9434,0.6249,1,1.0,1
+2026-11-22,Osasuna vs Malaga,Jens Cajuste,Player's shots on target,0.5,4.7,0.2128,0.0777,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Jonathan Dubasin,To score at least 3 goals,2.5,46.0,0.0217,0.0,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Carlos Dotor,To Score,0.5,9.5,0.1053,0.124,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Lucas Torró,To Score,0.5,7.0,0.1429,0.018,0,0.0,0
+2026-11-22,Osasuna vs Malaga,Diego Rico,To Score,0.5,10.0,0.1,0.0201,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Diego Rico,To Get a Card,0.5,3.5,0.2857,0.1485,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Rafa Rodríguez,To give an assist,0.5,4.5,0.2222,0.1066,1,0.0,0
+2026-11-22,Osasuna vs Malaga,Moi Gómez,To give an assist,0.5,6.75,0.1481,0.1398,1,0.0,0
+2026-11-22,Girona vs Eibar,Sergio Cubero,To Score,0.5,12.0,0.0833,0.019,0,0.0,0
+2026-11-22,Girona vs Eibar,Abel Ruiz,To Score,0.5,2.8,0.3571,0.0469,0,0.0,0
+2026-11-22,Girona vs Eibar,Sergio Álvarez,To Score,0.5,11.5,0.087,0.0267,0,0.0,0
+2026-11-22,Girona vs Eibar,Yáser Asprilla,To score at least 2 goals,1.5,15.0,0.0667,0.0201,1,0.0,0
+2026-11-22,Girona vs Eibar,Lucas Núñez,To Score,0.5,6.5,0.1538,0.0293,0,0.0,0
+2026-11-22,Girona vs Eibar,Yáser Asprilla,To Score,0.5,3.2,0.3125,0.1935,1,0.0,0
+2026-11-22,Girona vs Eibar,Cristhian Stuani,To score at least 2 goals,1.5,10.5,0.0952,0.0021,0,0.0,0
+2026-11-22,Girona vs Eibar,Anaitz Arbilla,To Score,0.5,10.5,0.0952,0.0372,1,0.0,0
+2026-11-22,Girona vs Eibar,David López,To Score,0.5,7.5,0.1333,0.0208,1,0.0,0
+2026-11-22,Girona vs Eibar,Vladyslav Vanat,To score at least 2 goals,1.5,7.5,0.1333,0.0401,1,1.0,0
+2026-11-22,Girona vs Eibar,Portu,To Score,0.5,3.7,0.2703,0.0296,0,0.0,0
+2026-11-22,Girona vs Eibar,Donny van de Beek,To Score,0.5,5.0,0.2,0.0335,0,0.0,0
+2026-11-22,Girona vs Eibar,Alejandro Francés,To Score,0.5,7.5,0.1333,0.0166,1,0.0,0
+2026-11-22,Girona vs Eibar,Portu,To score at least 2 goals,1.5,19.0,0.0526,0.0004,0,0.0,0
+2026-11-22,Girona vs Eibar,Abdul Mumin,To Score,0.5,8.5,0.1176,0.0346,1,0.0,0
+2026-11-22,Girona vs Eibar,Lander Olaetxea,To Score,0.5,6.25,0.16,0.025,0,0.0,0
+2026-11-22,Girona vs Eibar,Fran Beltran,To Score,0.5,7.5,0.1333,0.0722,1,0.0,0
+2026-11-22,Girona vs Eibar,Vladyslav Vanat,To Score,0.5,2.32,0.431,0.2694,1,1.0,1
+2026-11-22,Girona vs Eibar,Ivan Gil,To Score,0.5,5.8,0.1724,0.0555,0,0.0,0
+2026-11-22,Girona vs Eibar,Pejiño,To Score,0.5,6.1,0.1639,0.0499,0,0.0,0
+2026-11-22,Girona vs Eibar,Unai Hernández,To Score,0.5,4.25,0.2353,0.038,0,1.0,1
+2026-11-22,Girona vs Eibar,Abel Ruiz,To score at least 2 goals,1.5,11.5,0.087,0.0011,0,0.0,0
+2026-11-22,Girona vs Eibar,Javier Martón,To score at least 2 goals,1.5,18.0,0.0556,0.0305,1,0.0,0
+2026-11-22,Girona vs Eibar,Mateu Morey,To Score,0.5,8.0,0.125,0.0235,1,0.0,0
+2026-11-22,Girona vs Eibar,Javier Martón,To Score,0.5,3.5,0.2857,0.2367,1,0.0,0
+2026-11-22,Girona vs Eibar,Jon Guruzeta,To Score,0.5,5.5,0.1818,0.1461,1,0.0,0
+2026-11-22,Girona vs Eibar,Peru Nolaskoain,To Score,0.5,8.5,0.1176,0.0476,1,0.0,0
+2026-11-22,Girona vs Eibar,Cristhian Stuani,To Score,0.5,2.65,0.3774,0.0636,0,0.0,0
