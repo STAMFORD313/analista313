@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 23:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Guadalajara Chivas vs Cruz Azul — 23/11 · 00:07
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Guadalajara Chivas** @ **2.24** (Bet365) · prob 44% vs casas 44% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.27)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Guadalajara Chivas ➖✅✅✅➖ | Cruz Azul ✅✅✅✅✅  
-• H2H: 32 desde 2012: 6V-9E-17D · 2.2 goles/partido · +2.5 en 44%  
-• Bajas: Guadalajara Chivas: sin bajas; Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez)  
-• Favorito de las casas: Guadalajara Chivas @ 2.24  
+Actualizado 23/11/2026 00:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chicago Fire vs Charlotte — 23/11 · 00:30
 
