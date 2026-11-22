@@ -1193,11 +1193,6 @@
   "wta|2026-11-22|Leyre Romero Gormaz|Rebeka Masarova",
   "cbb|2026-11-23|East Carolina Pirates|Indiana State Sycamores",
   "cbb|2026-11-23|Southern Illinois Salukis|Middle Tennessee Blue Raiders",
-  "fc|2382750",
-  "fc|2384755",
-  "fc|2384599",
-  "fc|2384600",
-  "cs2|133463",
   "dota2|133563",
   "fc|2383801",
   "fc|2382532",
@@ -2197,7 +2192,15 @@
   "dota2|134130",
   "fc|2391009",
   "fc|2391008",
-  "fc|2391006"
+  "fc|2391006",
+  "cs2|134821",
+  "cs2|134820",
+  "cs2|134822",
+  "cs2|134823",
+  "cs2|134824",
+  "fc|2391012",
+  "fc|2391227",
+  "fc|2391013"
  ],
  "signals": [
   {
@@ -5933,7 +5936,9 @@
    "version": "08c301e",
    "bajas": "Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "28-35"
   },
   {
    "market": "home",
@@ -5953,7 +5958,11 @@
    "version": "08c301e",
    "bajas": "Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-35",
+   "close_p": 0.2421,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6072,7 +6081,11 @@
    "version": "08c301e",
    "bajas": "South Carolina Gamecocks: sin bajas; Georgia Bulldogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "6-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -6092,7 +6105,11 @@
    "version": "08c301e",
    "bajas": "South Carolina Gamecocks: sin bajas; Georgia Bulldogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "6-34",
+   "close_p": 0.8518,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6113,7 +6130,11 @@
    "version": "08c301e",
    "bajas": "Notre Dame Fighting Irish: sin bajas; SMU Mustangs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-3",
+   "close_p": 0.5046,
+   "logged": true
   },
   {
    "market": "home",
@@ -6133,7 +6154,11 @@
    "version": "08c301e",
    "bajas": "Notre Dame Fighting Irish: sin bajas; SMU Mustangs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-3",
+   "close_p": 0.9038,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6154,7 +6179,11 @@
    "version": "08c301e",
    "bajas": "Missouri Tigers: sin bajas; Kentucky Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-14",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6174,7 +6203,11 @@
    "version": "08c301e",
    "bajas": "Missouri Tigers: sin bajas; Kentucky Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-14",
+   "close_p": 0.6418,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6195,7 +6228,11 @@
    "version": "08c301e",
    "bajas": "Louisville Cardinals: sin bajas; Pittsburgh Panthers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-10",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6215,7 +6252,11 @@
    "version": "08c301e",
    "bajas": "Louisville Cardinals: sin bajas; Pittsburgh Panthers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-10",
+   "close_p": 0.7928,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6236,7 +6277,11 @@
    "version": "08c301e",
    "bajas": "California Golden Bears: sin bajas; Stanford Cardinal: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-44",
+   "close_p": 0.492,
+   "logged": true
   },
   {
    "market": "home",
@@ -6256,7 +6301,11 @@
    "version": "08c301e",
    "bajas": "California Golden Bears: sin bajas; Stanford Cardinal: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-44",
+   "close_p": 0.4452,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6912,31 +6961,6 @@
    "considered": true,
    "placed": false,
    "score": "1-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "RossFCDK",
-   "odds": 3.2,
-   "book": "Unibet",
-   "implied": 0.271,
-   "edge": 0.269,
-   "sin_stake": true,
-   "p": 0.396,
-   "key": "fc|2385837",
-   "match": "RossFCDK vs OG",
-   "start": "2026-11-19T04:14:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle RossFCDK vs OG (Serie A): goles esperados 2.41-2.31, 1X2 40%/22%/38%. Sin cuotas de casa.",
-   "captured": "2026-11-19T03:54",
-   "version": "1543242",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-2",
    "result": false,
    "close_p": null,
    "logged": true
@@ -48030,7 +48054,11 @@
    "version": "e5a8d56",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-22|Renofa Yamaguchi|Reilac Shiga",
@@ -48152,26 +48180,16 @@
    "start": "2026-11-22T04:02:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 76.770 partidos)",
-    "Goles esperados: KravaRK 2.50 · curuza 3.14",
-    "Ganador: KravaRK 30% · empate 19% · curuza 51%",
-    "Total: más de 5.5 goles 50% · menos 50%",
-    "Hándicap curuza: −1.5 35% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: KravaRK ❌✅✅❌❌ | curuza ➖❌✅✅✅",
-    "• Partidos: KravaRK 541 | curuza 978",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.00 · X 4.40 · 2 2.38 (sin margen 44%/20%/37%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.38 (+22%) · Paf España 2.38 (+22%)"
-   ],
    "context": "EA FC Esoccer Battle KravaRK vs curuza (Serie A): goles esperados 2.50-3.14, 1X2 30%/19%/51%. Sin cuotas de casa.",
    "captured": "2026-11-22T03:45",
    "version": "c8c6a3a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -48187,26 +48205,16 @@
    "start": "2026-11-22T04:02:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 76.770 partidos)",
-    "Goles esperados: hrk 3.72 · Skif 2.56",
-    "Ganador: hrk 63% · empate 16% · Skif 21%",
-    "Total: más de 6.5 goles 44% · menos 56%",
-    "Hándicap hrk: −1.5 44% · −2.5 29%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hrk ❌✅✅❌✅ | Skif ➖❌❌❌❌",
-    "• Partidos: hrk 978 | Skif 787",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.78 · X 3.40 · 2 3.45 (sin margen 49%/26%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.78 (+12%) · Paf España 1.78 (+12%)"
-   ],
    "context": "EA FC Esoccer Battle hrk vs Skif (Serie A): goles esperados 3.72-2.56, 1X2 63%/16%/21%. Sin cuotas de casa.",
    "captured": "2026-11-22T03:45",
    "version": "c8c6a3a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -48222,23 +48230,118 @@
    "start": "2026-11-22T03:50:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 76.770 partidos)",
-    "Goles esperados: Skif 2.73 · KravaRK 3.07",
-    "Ganador: Skif 33% · empate 19% · KravaRK 47%",
-    "Total: más de 5.5 goles 52% · menos 48%",
-    "Hándicap KravaRK: −1.5 31% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Skif ➖❌❌❌❌ | KravaRK ❌✅✅❌❌",
-    "• Partidos: Skif 787 | KravaRK 541",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.20 · X 3.75 · 2 2.33 (sin margen 40%/23%/37%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.33 (+11%) · Paf España 2.33 (+11%)"
-   ],
    "context": "EA FC Esoccer Battle Skif vs KravaRK (Serie A): goles esperados 2.73-3.07, 1X2 33%/19%/47%. Sin cuotas de casa.",
    "captured": "2026-11-22T03:45",
    "version": "c8c6a3a",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "1-5",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 3.8,
+   "book": "Unibet",
+   "implied": 0.232,
+   "edge": 0.235,
+   "sin_stake": true,
+   "p": 0.325,
+   "key": "fc|2391012",
+   "match": "kirman vs curuza",
+   "start": "2026-11-22T04:26:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 76.794 partidos)",
+    "Goles esperados: kirman 3.45 · curuza 3.01",
+    "Ganador: kirman 49% · empate 18% · curuza 33%",
+    "Total: más de 6.5 goles 47% · menos 53%",
+    "Hándicap kirman: −1.5 33% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kirman ❌✅❌✅➖ | curuza ❌✅✅✅✅",
+    "• Partidos: kirman 824 | curuza 979",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.49 · X 5.00 · 2 3.80 (sin margen 59%/18%/23%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.80 (+24%) · Paf España 3.80 (+24%)"
+   ],
+   "context": "EA FC Esoccer Battle kirman vs curuza (Serie A): goles esperados 3.45-3.01, 1X2 49%/18%/33%. Sin cuotas de casa.",
+   "captured": "2026-11-22T04:16",
+   "version": "f906c86",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "rostyk",
+   "odds": 1.75,
+   "book": "Unibet",
+   "implied": 0.504,
+   "edge": 0.085,
+   "sin_stake": true,
+   "p": 0.62,
+   "key": "fc|2391227",
+   "match": "k0mych vs rostyk",
+   "start": "2026-11-22T04:32:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 76.794 partidos)",
+    "Goles esperados: k0mych 4.25 · rostyk 5.33",
+    "Ganador: k0mych 25% · empate 13% · rostyk 62%",
+    "Total: más de 9.5 goles 49% · menos 51%",
+    "Hándicap rostyk: −1.5 44% · −2.5 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: k0mych ❌❌➖❌✅ | rostyk ❌➖❌❌✅",
+    "• Partidos: k0mych 445 | rostyk 418",
+    "• Liga: LaLiga 2x6",
+    "• Unibet: 1 2.48 · X 6.25 · 2 1.75 (sin margen 36%/14%/50%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.75 (+9%) · Paf España 1.75 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle k0mych vs rostyk (LaLiga 2x6): goles esperados 4.25-5.33, 1X2 25%/13%/62%. Sin cuotas de casa.",
+   "captured": "2026-11-22T04:16",
+   "version": "f906c86",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "hrk",
+   "odds": 2.02,
+   "book": "Unibet",
+   "implied": 0.431,
+   "edge": 0.078,
+   "sin_stake": true,
+   "p": 0.534,
+   "key": "fc|2391013",
+   "match": "hrk vs KravaRK",
+   "start": "2026-11-22T04:26:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 76.794 partidos)",
+    "Goles esperados: hrk 2.95 · KravaRK 2.27",
+    "Ganador: hrk 53% · empate 20% · KravaRK 27%",
+    "Total: más de 5.5 goles 42% · menos 58%",
+    "Hándicap hrk: −1.5 35% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hrk ✅❌✅➖✅ | KravaRK ✅❌❌✅❌",
+    "• Partidos: hrk 980 | KravaRK 543",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.02 · X 3.95 · 2 2.50 (sin margen 43%/22%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.02 (+8%) · Paf España 2.02 (+8%)"
+   ],
+   "context": "EA FC Esoccer Battle hrk vs KravaRK (Serie A): goles esperados 2.95-2.27, 1X2 53%/20%/27%. Sin cuotas de casa.",
+   "captured": "2026-11-22T04:16",
+   "version": "f906c86",
    "bajas": "",
    "considered": true,
    "placed": false
