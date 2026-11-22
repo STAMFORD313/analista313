@@ -1,755 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 20:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 2.5 goles** @ **2.63** (Bet365) · prob 37% vs casas 37% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Gana Inter** @ **1.63** (Bwin) · prob 60% vs casas 60% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 11.5 córners** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 5.5 córners de Marseille** @ **1.81** (Unibet) · prob 52% vs casas 51% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 8.5 córners de Marseille** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 1.5 córners de Le Mans** @ **1.19** (Unibet) · prob 77% vs casas 77% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Marseille vs Le Mans — 22/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Le Mans** @ **1.28** (Unibet) · prob 75% vs casas 72% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.47 - 1.11)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 88% · +2.5 69% · +3.5 48% · Ambos marcan 62%  
-Marcadores: 2-1 9% · 2-0 9% · 1-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Marseille ✅✅✅✅✅ | Le Mans ❌❌➖❌➖  
-• H2H: 10 desde 2005: 4V-4E-2D · 1.8 goles/partido · +2.5 en 30%  
-• Bajas: Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda  
-• Favorito de las casas: Marseille @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 3.1: total +9.5 44% · Marseille +5.5 53% · Le Mans +4.5 23%  
-Tarjetas 1.7 - 2.3: total +4.5 36% · Marseille +2.5 24% · Le Mans +2.5 40%  
-Faltas 10.8 - 11.7: total +24.5 34% · Marseille +11.5 40% · Le Mans +12.5 40%  
-Tiros a puerta 6.4 - 3.4: total +9.5 52% · Marseille +5.5 60% · Le Mans +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Le Mans + Menos de 2.5 tarjetas de Marseille + Menos de 4.5 tiros a puerta de Le Mans + Más de 2.5 goles + Menos de 24.5 faltas → prob. 20%, cuota justa 4.94  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -11%  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Le Mans + Más de 2.5 goles): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 54% · ventaja +3%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Inter** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Inter** @ **1.62** (Unibet) · prob 58% vs casas 57% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Atalanta** @ **1.73** (Unibet) · prob 55% vs casas 53% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Atalanta** @ **1.13** (Unibet) · prob 83% vs casas 82% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.18** (Unibet) · prob 79% vs casas 78% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Atalanta vs Inter — 22/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.14** (Unibet) · prob 82% vs casas 80% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.65)  
-1 19% · X 26% · 2 55%  
-1X 45% · X2 81% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atalanta ❌➖➖❌✅ | Inter ✅✅✅❌✅  
-• H2H: 38 desde 2006: 6V-13E-19D · 2.9 goles/partido · +2.5 en 47%  
-• Bajas: Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)  
-• Favorito de las casas: Inter @ 1.63  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.2: total +9.5 45% · Atalanta +5.5 26% · Inter +4.5 55%  
-Tarjetas 1.5 - 1.6: total +3.5 38% · Atalanta +1.5 45% · Inter +2.5 21%  
-Faltas 9.7 - 9.8: total +22.5 26% · Atalanta +11.5 28% · Inter +11.5 29%  
-Tiros a puerta 4.0 - 5.5: total +9.5 48% · Atalanta +4.5 38% · Inter +4.5 62%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Inter + Menos de 22.5 faltas + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta → prob. 30%, cuota justa 3.35  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Inter + Menos de 5.5 córners de Atalanta + Menos de 4.5 tiros a puerta de Atalanta): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 40% · ventaja +1%  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Gana Ath Madrid** @ **1.62** (Bwin) · prob 61% vs casas 61% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Burgos -0.5 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 47% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Ath Madrid** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 4.5 córners de Ath Madrid** @ **2.40** (Unibet) · prob 41% vs casas 38% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 9.5 córners** @ **1.83** (Unibet) · prob 53% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Getafe** @ **1.23** (Unibet) · prob 76% vs casas 74% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Getafe vs Ath Madrid — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Getafe** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.80 - 1.15)  
-1 18% · X 29% · 2 53%  
-1X 47% · X2 82% · 12 71%  
-+1.5 59% · +2.5 31% · +3.5 13% · Ambos marcan 38%  
-Marcadores: 0-1 16% · 0-0 15% · 1-1 14% · 1-0 11%  
-🔎 **Claves**  
-• Forma: Getafe ❌➖❌✅❌ | Ath Madrid ✅✅✅✅❌  
-• H2H: 40 desde 2005: 5V-7E-28D · 2.3 goles/partido · +2.5 en 32%  
-• Bajas: Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 5.3: total +10.5 32% · Getafe +5.5 22% · Ath Madrid +4.5 57%  
-Tarjetas 2.5 - 2.3: total +4.5 53% · Getafe +2.5 46% · Ath Madrid +2.5 42%  
-Faltas 12.5 - 12.8: total +25.5 47% · Getafe +12.5 48% · Ath Madrid +12.5 51%  
-Tiros a puerta 3.2 - 4.5: total +9.5 26% · Getafe +4.5 23% · Ath Madrid +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Getafe + Menos de 4.5 tiros a puerta de Getafe + Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid → prob. 28%, cuota justa 3.62  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.42 (producto de piernas) · prob. 46% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (larga): cuota Unibet aprox. 4.23 (producto de piernas) · prob. 28% · ventaja +17% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 40% · ventaja +25% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Burgos** @ **2.14** (Unibet) · prob 45% vs casas 42% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Burgos** @ **1.33** (Unibet) · prob 67% vs casas 68% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Albacete** @ **1.58** (Unibet) · prob 56% vs casas 58% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Albacete** @ **1.30** (Unibet) · prob 72% vs casas 70% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.32** (Unibet) · prob 72% vs casas 69% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
-
-## Burgos vs Albacete — 22/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.30** (Unibet) · prob 71% vs casas 70% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.31 - 0.82)  
-1 52% · X 28% · 2 20%  
-1X 80% · X2 48% · 12 72%  
-+1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ✅✅➖✅❌ | Albacete ❌✅✅✅✅  
-• H2H: 8 desde 2022: 3V-2E-3D · 2.1 goles/partido · +2.5 en 38%  
-• Bajas: Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)  
-• Favorito de las casas: Burgos @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.1: total +9.5 51% · Burgos +5.5 47% · Albacete +4.5 39%  
-Tarjetas 2.4 - 2.8: total +5.5 43% · Burgos +2.5 44% · Albacete +3.5 31%  
-Faltas 12.3 - 13.7: total +26.5 45% · Burgos +13.5 35% · Albacete +13.5 50%  
-Tiros a puerta 4.9 - 3.1: total +8.5 41% · Burgos +5.5 36% · Albacete +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Albacete + Menos de 3.5 tarjetas de Albacete + Menos de 13.5 faltas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 15%, cuota justa 6.69  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 39% · ventaja +6% → 1 u en la banca de simulación  
+Actualizado 22/11/2026 21:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nashville SC vs FC Cincinnati — 22/11 · 22:00
 
@@ -1441,6 +692,463 @@ Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%
 Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
 🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
+
+## Nantes vs Grenoble — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 6.5 córners de Nantes** @ **1.79** (Unibet) · prob 50% vs casas 50% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 1.28)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅  
+• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Nantes: sin bajas; Grenoble: sin bajas  
+• Favorito de las casas: Nantes @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%  
+Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%  
+Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%  
+Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41  
+
+## Nantes vs Grenoble — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 7.5 córners de Nantes** @ **1.50** (Unibet) · prob 61% vs casas 60% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 1.28)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅  
+• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Nantes: sin bajas; Grenoble: sin bajas  
+• Favorito de las casas: Nantes @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%  
+Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%  
+Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%  
+Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41  
+
+## Nantes vs Grenoble — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 9.5 córners** @ **1.67** (Unibet) · prob 54% vs casas 54% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 1.28)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅  
+• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Nantes: sin bajas; Grenoble: sin bajas  
+• Favorito de las casas: Nantes @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%  
+Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%  
+Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%  
+Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41  
+
+## Nantes vs Grenoble — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.37** (Unibet) · prob 67% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 1.28)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅  
+• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Nantes: sin bajas; Grenoble: sin bajas  
+• Favorito de las casas: Nantes @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%  
+Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%  
+Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%  
+Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41  
+
+## Nantes vs Grenoble — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 2.5 córners de Grenoble** @ **1.57** (Unibet) · prob 59% vs casas 57% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 1.28)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅  
+• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Nantes: sin bajas; Grenoble: sin bajas  
+• Favorito de las casas: Nantes @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%  
+Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%  
+Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%  
+Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41  
+
+## Nantes vs Grenoble — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 3.5 córners de Grenoble** @ **1.50** (Unibet) · prob 59% vs casas 60% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 1.28)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Nantes ➖❌❌➖✅ | Grenoble ❌❌❌❌✅  
+• H2H: 6 desde 2007: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Nantes: sin bajas; Grenoble: sin bajas  
+• Favorito de las casas: Nantes @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 3.3: total +9.5 54% · Nantes +5.5 61% · Grenoble +4.5 25%  
+Tarjetas 1.9 - 2.8: total +4.5 49% · Nantes +2.5 30% · Grenoble +2.5 52%  
+Faltas 15.9 - 15.8: total +29.5 62% · Nantes +14.5 61% · Grenoble +15.5 51%  
+Tiros a puerta 5.7 - 2.9: total +8.5 48% · Nantes +4.5 65% · Grenoble +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Grenoble + Menos de 2.5 tarjetas de Nantes + Menos de 3.5 tiros a puerta de Grenoble + Más de 29.5 faltas → prob. 23%, cuota justa 4.41  
+
+## Sochaux vs Dunkerque — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Dunkerque** @ **1.58** (Unibet) · prob 55% vs casas 57% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.27)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅  
+• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%  
+• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas  
+• Favorito de las casas: Sochaux @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%  
+Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%  
+Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%  
+Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27  
+
+## Sochaux vs Dunkerque — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Dunkerque** @ **1.55** (Unibet) · prob 61% vs casas 58% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.27)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅  
+• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%  
+• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas  
+• Favorito de las casas: Sochaux @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%  
+Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%  
+Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%  
+Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27  
+
+## Sochaux vs Dunkerque — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 8.5 córners** @ **1.52** (Unibet) · prob 56% vs casas 59% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.27)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅  
+• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%  
+• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas  
+• Favorito de las casas: Sochaux @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%  
+Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%  
+Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%  
+Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27  
+
+## Sochaux vs Dunkerque — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 10.5 córners** @ **1.46** (Unibet) · prob 66% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.27)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅  
+• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%  
+• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas  
+• Favorito de las casas: Sochaux @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%  
+Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%  
+Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%  
+Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27  
+
+## Sochaux vs Dunkerque — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Sochaux** @ **1.61** (Unibet) · prob 55% vs casas 56% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.27)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅  
+• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%  
+• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas  
+• Favorito de las casas: Sochaux @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%  
+Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%  
+Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%  
+Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27  
+
+## Sochaux vs Dunkerque — 23/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Sochaux** @ **1.58** (Unibet) · prob 59% vs casas 57% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 1.27)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Sochaux ➖❌❌❌❌ | Dunkerque ❌✅➖❌✅  
+• H2H: 4 desde 2021: 2V-1E-1D · 0.8 goles/partido · +2.5 en 0%  
+• Bajas: Sochaux: sin bajas; Dunkerque: sin bajas  
+• Favorito de las casas: Sochaux @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.9: total +9.5 42% · Sochaux +5.5 39% · Dunkerque +4.5 36%  
+Tarjetas 1.8 - 2.2: total +4.5 36% · Sochaux +2.5 26% · Dunkerque +2.5 38%  
+Faltas 15.1 - 14.1: total +29.5 46% · Sochaux +14.5 53% · Dunkerque +15.5 34%  
+Tiros a puerta 4.1 - 3.7: total +8.5 38% · Sochaux +4.5 39% · Dunkerque +3.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Sochaux + Menos de 15.5 faltas de Dunkerque + Menos de 4.5 córners de Dunkerque + Menos de 8.5 tiros a puerta → prob. 19%, cuota justa 5.27  
+
+## Monza vs Fiorentina — 23/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.19** (Unibet) · prob 76% vs casas 78% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.57)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖  
+• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%  
+Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%  
+Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%  
+Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
+
+## Monza vs Fiorentina — 23/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 7.5 córners** @ **2.88** (Unibet) · prob 35% vs casas 32% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.57)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖  
+• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%  
+Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%  
+Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%  
+Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
+
+## Monza vs Fiorentina — 23/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Monza** @ **1.20** (Unibet) · prob 75% vs casas 76% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.57)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖  
+• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%  
+Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%  
+Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%  
+Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
+
+## Monza vs Fiorentina — 23/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Monza** @ **2.40** (Unibet) · prob 41% vs casas 38% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.57)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖  
+• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%  
+Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%  
+Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%  
+Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
+
+## Monza vs Fiorentina — 23/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Fiorentina** @ **1.19** (Unibet) · prob 77% vs casas 77% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.57)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖  
+• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%  
+Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%  
+Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%  
+Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
+
+## Monza vs Fiorentina — 23/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Fiorentina** @ **1.79** (Unibet) · prob 54% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.57)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Monza ✅❌❌❌❌ | Fiorentina ❌❌➖✅➖  
+• H2H: 6 desde 2023: 2V-2E-2D · 3.0 goles/partido · +2.5 en 67%  
+• Bajas: Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 4.5: total +9.5 37% · Monza +5.5 27% · Fiorentina +4.5 44%  
+Tarjetas 2.1 - 1.9: total +3.5 56% · Monza +1.5 63% · Fiorentina +2.5 29%  
+Faltas 13.0 - 11.0: total +22.5 59% · Monza +11.5 63% · Fiorentina +11.5 42%  
+Tiros a puerta 4.7 - 5.0: total +9.5 49% · Monza +4.5 49% · Fiorentina +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina + Más de 11.5 faltas de Monza + Más de 2.5 goles → prob. 18%, cuota justa 5.44  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Monza + Menos de 2.5 tarjetas de Fiorentina): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 53% · ventaja -5%  
 
 ## Brentford vs Everton — 23/11 · 21:00
 
@@ -1466,6 +1174,7 @@ Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%
 Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
 
 ## Levante vs Elche — 23/11 · 21:00
 
@@ -1491,6 +1200,9 @@ Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%
 Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
 
 ## Gimnasia L.P. vs Newells Old Boys — 23/11 · 21:00
 
@@ -1509,6 +1221,330 @@ Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%
 • H2H: 14 desde 2013: 8V-3E-3D · 2.2 goles/partido · +2.5 en 43%  
 • Bajas: Gimnasia L.P.: sin bajas; Newells Old Boys: sin bajas  
 • Favorito de las casas: Gimnasia L.P. @ 2.14  
+
+## Brentford vs Everton — 23/11 · 21:00
+
+👀 candidata · 🏴 Premier League · **Más de 3.5 córners de Brentford** @ **1.24** (Unibet) · prob 74% vs casas 74% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.02)  
+1 41% · X 29% · 2 29%  
+1X 71% · X2 59% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅  
+• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%  
+• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas  
+• Favorito de las casas: Brentford @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%  
+Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%  
+Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%  
+Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
+
+## Brentford vs Everton — 23/11 · 21:00
+
+👀 candidata · 🏴 Premier League · **Menos de 8.5 córners de Brentford** @ **1.14** (Unibet) · prob 82% vs casas 80% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.02)  
+1 41% · X 29% · 2 29%  
+1X 71% · X2 59% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅  
+• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%  
+• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas  
+• Favorito de las casas: Brentford @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%  
+Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%  
+Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%  
+Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
+
+## Brentford vs Everton — 23/11 · 21:00
+
+👀 candidata · 🏴 Premier League · **Menos de 10.5 córners** @ **1.72** (Unibet) · prob 55% vs casas 54% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.02)  
+1 41% · X 29% · 2 29%  
+1X 71% · X2 59% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅  
+• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%  
+• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas  
+• Favorito de las casas: Brentford @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%  
+Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%  
+Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%  
+Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
+
+## Brentford vs Everton — 23/11 · 21:00
+
+👀 candidata · 🏴 Premier League · **Más de 6.5 córners** @ **1.09** (Unibet) · prob 85% vs casas 84% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.02)  
+1 41% · X 29% · 2 29%  
+1X 71% · X2 59% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅  
+• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%  
+• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas  
+• Favorito de las casas: Brentford @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%  
+Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%  
+Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%  
+Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
+
+## Brentford vs Everton — 23/11 · 21:00
+
+👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Everton** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.02)  
+1 41% · X 29% · 2 29%  
+1X 71% · X2 59% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅  
+• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%  
+• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas  
+• Favorito de las casas: Brentford @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%  
+Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%  
+Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%  
+Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
+
+## Brentford vs Everton — 23/11 · 21:00
+
+👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Everton** @ **1.40** (Unibet) · prob 68% vs casas 66% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.02)  
+1 41% · X 29% · 2 29%  
+1X 71% · X2 59% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Brentford ➖❌➖✅❌ | Everton ➖❌❌✅✅  
+• H2H: 10 desde 2021: 3V-4E-3D · 2.6 goles/partido · +2.5 en 40%  
+• Bajas: Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas  
+• Favorito de las casas: Brentford @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +10.5 43% · Brentford +5.5 47% · Everton +4.5 45%  
+Tarjetas 1.8 - 2.1: total +4.5 34% · Brentford +2.5 26% · Everton +2.5 35%  
+Faltas 10.6 - 10.0: total +22.5 34% · Brentford +11.5 38% · Everton +12.5 22%  
+Tiros a puerta 4.6 - 4.0: total +8.5 48% · Brentford +5.5 31% · Everton +4.5 37%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Everton + Menos de 2.5 tarjetas de Brentford + Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles → prob. 14%, cuota justa 7.13  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Brentford + Menos de 10.5 córners + Menos de 2.5 goles): cuota Unibet aprox. 4.94 (producto de piernas) · prob. 25% · ventaja +24% → 1 u en la banca de simulación  
+
+## Levante vs Elche — 23/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Elche** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 1.43)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌  
+• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%  
+• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)  
+• Favorito de las casas: Levante @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%  
+Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%  
+Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%  
+Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
+
+## Levante vs Elche — 23/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Elche** @ **1.25** (Unibet) · prob 75% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 1.43)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌  
+• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%  
+• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)  
+• Favorito de las casas: Levante @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%  
+Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%  
+Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%  
+Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
+
+## Levante vs Elche — 23/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Levante** @ **1.35** (Unibet) · prob 70% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 1.43)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌  
+• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%  
+• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)  
+• Favorito de las casas: Levante @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%  
+Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%  
+Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%  
+Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
+
+## Levante vs Elche — 23/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Levante** @ **1.18** (Unibet) · prob 78% vs casas 78% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 1.43)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌  
+• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%  
+• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)  
+• Favorito de las casas: Levante @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%  
+Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%  
+Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%  
+Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
+
+## Levante vs Elche — 23/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 8.5 córners** @ **1.65** (Unibet) · prob 57% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 1.43)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌  
+• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%  
+• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)  
+• Favorito de las casas: Levante @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%  
+Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%  
+Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%  
+Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
+
+## Levante vs Elche — 23/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.13** (Unibet) · prob 82% vs casas 81% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 1.43)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Levante ➖✅❌❌➖ | Elche ➖➖✅❌❌  
+• H2H: 22 desde 2005: 12V-7E-3D · 2.0 goles/partido · +2.5 en 32%  
+• Bajas: Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)  
+• Favorito de las casas: Levante @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Levante +5.5 44% · Elche +4.5 37%  
+Tarjetas 2.0 - 2.5: total +4.5 48% · Levante +2.5 33% · Elche +2.5 47%  
+Faltas 13.0 - 12.9: total +25.5 51% · Levante +12.5 53% · Elche +12.5 52%  
+Tiros a puerta 5.5 - 3.9: total +9.5 46% · Levante +4.5 62% · Elche +3.5 53%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante → prob. 19%, cuota justa 5.19  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.14 (producto de piernas) · prob. 28% · ventaja -13%  
+🎯 No simulada (larga): cuota Unibet aprox. 5.21 (producto de piernas) · prob. 19% · ventaja +0%  
+🎯 Simulada (con cuota: Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 44% · ventaja +22% → 1 u en la banca de simulación  
 
 ## Internacional vs Vitoria — 23/11 · 23:30
 
