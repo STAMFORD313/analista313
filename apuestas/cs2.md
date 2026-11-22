@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 17:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 18:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mira vs Underworld — 22/11 · 19:00
 
@@ -167,4 +167,50 @@ Casas: 9z 58% · Lynn Vision 42%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
 9z: luchov 15 (8-23) · dgt 15 (7-22) · HUASOPEEK 14 (7-22) · meyern 13 (7-20) · max 13 (6-20)  
 Lynn Vision: z4kr 14 (7-22) · Starry 14 (7-22) · Westmelon 14 (7-21) · EmiliaQAQ 13 (6-20) · C4LLM3SU3 12 (6-19)  
+
+## 100 Thieves vs Chinggis Warriors — 24/11 · 06:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana 100 Thieves** @ **1.15** (Thunderpick) · prob 82% vs casas 81% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.178 partidos)  
+Mapa: 100 Thieves 86% · Serie BO1: 100 Thieves 82% - 18% Chinggis Warriors  
+Casas: 100 Thieves 81% · Chinggis Warriors 19%  
+🔎 **Claves**  
+• Elo: 100 Thieves 1982 (99 series) | Chinggis Warriors 1666 (183 series)  
+• Forma: 100 Thieves ✅✅✅✅✅ | Chinggis Warriors ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): 100 Thieves: poiii 7.2, dev1ce 7.0 | Chinggis Warriors: yAmi 6.1, Efire 5.8  
+• Mapas (último año): 100 Thieves: fuerte dust2 84%, débil anubis 47% | Chinggis Warriors: fuerte nuke 67%, débil inferno 33%  
+• Química de la plantilla: 100 Thieves: 126 mapas juntos de media | Chinggis Warriors: 32 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+100 Thieves: poiii 17 (9-25) · dev1ce 16 (9-25) · sirah 16 (8-24) · rain 15 (8-23) · Gizmy 14 (7-22)  
+Chinggis Warriors: hasteka 14 (7-21) · yAmi 13 (7-21) · tikuak 12 (6-19) · ROUX 12 (6-19) · Efire 12 (6-19)  
+
+## Ninjas in Pyjamas vs M80 — 24/11 · 06:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana Ninjas in Pyjamas** @ **1.65** (Thunderpick) · prob 56% vs casas 56% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.178 partidos)  
+Mapa: Ninjas in Pyjamas 63% · Serie BO1: Ninjas in Pyjamas 57% - 43% M80  
+Casas: Ninjas in Pyjamas 56% · M80 44%  
+🔎 **Claves**  
+• Elo: Ninjas in Pyjamas 1960 (352 series) | M80 1865 (325 series)  
+• Forma: Ninjas in Pyjamas ✅✅✅❌❌ | M80 ❌❌✅✅❌  
+• H2H: 3: 1-2  
+• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Ninjas in Pyjamas: xKacpersky 6.3, stavn 6.3 | M80: slaxz 6.2, s1n 6.2  
+• Mapas (último año): Ninjas in Pyjamas: fuerte nuke 73%, débil overpass 17% | M80: fuerte mirage 63%, débil inferno 50%  
+• Química de la plantilla: Ninjas in Pyjamas: 94 mapas juntos de media | M80: 275 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+Ninjas in Pyjamas: stavn 15 (8-24) · xKacpersky 15 (8-23) · adamb 15 (8-23) · sjuush 14 (7-22) · Krimbo 14 (7-21)  
+M80: lake 14 (7-22) · slaxz 14 (7-22) · JBa 13 (7-21) · Swisher 13 (6-20) · s1n 12 (6-19)  
 
