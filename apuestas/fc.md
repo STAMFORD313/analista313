@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 16:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 16:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Lx7ss vs Paka — 22/11 · 16:10
+## maggett0 vs Lx7ss — 22/11 · 16:46
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +12%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.363 partidos)  
-Goles esperados: Lx7ss 2.88 · Paka 3.27  
-Ganador: Lx7ss 33% · empate 20% · Paka 46%  
+📊 **Escenarios** (Poisson por jugador, 77.391 partidos)  
+Goles esperados: maggett0 2.99 · Lx7ss 3.20  
+Ganador: maggett0 35% · empate 20% · Lx7ss 45%  
 Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Paka: −1.5 32% · −2.5 19%  
+Hándicap Lx7ss: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Lx7ss ✅❌✅➖✅ | Paka ➖✅✅❌❌  
-• Partidos: Lx7ss 1228 | Paka 1085  
+• Forma: maggett0 ✅❌✅❌❌ | Lx7ss ✅➖✅✅❌  
+• Partidos: maggett0 1099 | Lx7ss 1230  
 • Liga: Serie A  
-• Unibet: 1 2.50 · X 5.40 · 2 1.79 (sin margen 35%/16%/49%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+10%) · Paf España 5.40 (+10%)  
+• Unibet: 1 2.35 · X 5.50 · 2 1.87 (sin margen 37%/16%/47%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+12%) · Paf España 5.50 (+12%)  
 
-## Vanste vs Lunjo — 22/11 · 16:16
+## spirtes vs ramzes — 22/11 · 16:50
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.30** (Unibet) · prob 20% vs casas 16% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana spirtes** @ **2.35** (Unibet) · prob 46% vs casas 37% · ventaja +9%
 
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.363 partidos)  
-Goles esperados: Vanste 2.12 · Lunjo 2.96  
-Ganador: Vanste 22% · empate 21% · Lunjo 58%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Lunjo: −1.5 38% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 77.391 partidos)  
+Goles esperados: spirtes 3.21 · ramzes 2.94  
+Ganador: spirtes 46% · empate 16% · ramzes 37%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap spirtes: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Vanste ❌✅❌❌➖ | Lunjo ❌✅❌✅✅  
-• Partidos: Vanste 289 | Lunjo 305  
-• Liga: Champions League B  
-• Unibet: 1 3.85 · X 5.30 · 2 1.41 (sin margen 22%/16%/61%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+9%) · Paf España 5.30 (+9%)  
+• Forma: spirtes ✅✅➖✅✅ | ramzes ✅➖✅➖➖  
+• Partidos: spirtes 1367 | ramzes 1260  
+• Liga: A-League  
+• Unibet: 1 2.35 · X 5.75 · 2 1.85 (sin margen 37%/15%/47%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+9%) · Paf España 2.35 (+9%)  
 
-## SDI vs spirtes — 22/11 · 16:16
+## Maslja vs SpeciAL — 22/11 · 16:58
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana spirtes** @ **1.83** (Unibet) · prob 58% vs casas 48% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana SpeciAL** @ **2.85** (Unibet) · prob 38% vs casas 31% · ventaja +7%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.363 partidos)  
-Goles esperados: SDI 2.89 · spirtes 3.60  
-Ganador: SDI 29% · empate 13% · spirtes 58%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap spirtes: −1.5 37% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 77.391 partidos)  
+Goles esperados: Maslja 3.26 · SpeciAL 3.03  
+Ganador: Maslja 42% · empate 20% · SpeciAL 38%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap Maslja: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: SDI ✅➖❌✅✅ | spirtes ✅✅✅✅➖  
-• Partidos: SDI 733 | spirtes 1365  
-• Liga: Eredivisie  
-• Unibet: 1 2.35 · X 6.00 · 2 1.83 (sin margen 37%/15%/48%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.83 (+6%) · Paf España 1.83 (+6%)  
+• Forma: Maslja ❌✅✅✅✅ | SpeciAL ❌➖✅❌✅  
+• Partidos: Maslja 1073 | SpeciAL 1061  
+• Liga: Serie A  
+• Unibet: 1 1.73 · X 4.60 · 2 2.85 (sin margen 50%/19%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+7%) · Paf España 2.85 (+7%)  
 
