@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 18:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sarpsborg 08 vs Lillestrom — 22/11 · 19:15
 

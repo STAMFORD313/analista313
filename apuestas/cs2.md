@@ -1,78 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 18:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Aces vs Butterfly — 22/11 · 18:45
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Gana Aces** @ **1.48** (Thunderpick) · prob 64% vs casas 63% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.180 partidos)  
-Mapa: Aces 59% · Serie BO3: Aces 64% - 36% Butterfly  
-Casas: Aces 63% · Butterfly 37%  
-🔎 **Claves**  
-• Elo: Aces 1828 (24 series) | Butterfly 1735 (55 series)  
-• Forma: Aces ✅✅✅✅✅ | Butterfly ✅❌✅✅✅  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Aces: topo- 6.9, karnez 6.7 | Butterfly: nitzie 6.8, Forester 6.7  
-• Mapas (último año): Aces: fuerte dust2 89%, débil cache 53% | Butterfly: fuerte mirage 64%, débil inferno 33%  
-• Química de la plantilla: Aces: 219 mapas juntos de media | Butterfly: 101 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Aces gana 2-1: 25% → cuota justa 4.05 · casa 44%  
-• Butterfly gana 2-1: 17% → cuota justa 5.75  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
-Aces: karnez 39 (23-57) · topo- 38 (22-56) · MRcreed 34 (20-51) · 4X1s 34 (20-51) · salazar 32 (18-48)  
-Butterfly: nitzie 37 (22-55) · Kuruma 34 (20-50) · Krad 34 (19-50) · Forester 33 (19-48) · ayano 31 (18-46)  
-
-## Aces vs Butterfly — 22/11 · 18:45
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 14 · **Aces +1.5 mapas** @ **1.48** (Thunderpick) · prob 72% vs casas 63% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.180 partidos)  
-Mapa: Aces 59% · Serie BO3: Aces 64% - 36% Butterfly  
-Casas: Aces 63% · Butterfly 37%  
-🔎 **Claves**  
-• Elo: Aces 1828 (24 series) | Butterfly 1735 (55 series)  
-• Forma: Aces ✅✅✅✅✅ | Butterfly ✅❌✅✅✅  
-• H2H: sin precedentes  
-• Torneo: CCT Europe 2026 Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Aces: topo- 6.9, karnez 6.7 | Butterfly: nitzie 6.8, Forester 6.7  
-• Mapas (último año): Aces: fuerte dust2 89%, débil cache 53% | Butterfly: fuerte mirage 64%, débil inferno 33%  
-• Química de la plantilla: Aces: 219 mapas juntos de media | Butterfly: 101 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Aces gana 2-1: 25% → cuota justa 4.05 · casa 44%  
-• Butterfly gana 2-1: 17% → cuota justa 5.75  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
-Aces: karnez 39 (23-57) · topo- 38 (22-56) · MRcreed 34 (20-51) · 4X1s 34 (20-51) · salazar 32 (18-48)  
-Butterfly: nitzie 37 (22-55) · Kuruma 34 (20-50) · Krad 34 (19-50) · Forester 33 (19-48) · ayano 31 (18-46)  
-
-## Mira vs Underworld — 22/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Mira** @ **1.15** (Thunderpick) · prob 75% vs casas 80% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.137 partidos)  
-Mapa: Mira 64% · Serie BO3: Mira 70% - 30% Underworld  
-Casas: Mira 80% · Underworld 20%  
-🔎 **Claves**  
-• Elo: Mira 1574 (10 series) | Underworld 1425 (22 series)  
-• Forma: Mira ❌❌✅✅❌ | Underworld ❌❌✅✅❌  
-• H2H: 2: 2-0  
-• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
-• Cambios de plantilla: Mira  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Mira gana 2-1: 25% → cuota justa 4.01  
-• Underworld gana 2-1: 14% → cuota justa 7.01  
+Actualizado 22/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FlyQuest RED vs Axial — 23/11 · 02:00
 
@@ -265,4 +193,50 @@ Casas: Ninjas in Pyjamas 56% · M80 44%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
 Ninjas in Pyjamas: stavn 15 (8-24) · xKacpersky 15 (8-23) · adamb 15 (8-23) · sjuush 14 (7-22) · Krimbo 14 (7-21)  
 M80: lake 14 (7-22) · slaxz 14 (7-22) · JBa 13 (7-21) · Swisher 13 (6-20) · s1n 12 (6-19)  
+
+## PARIVISION vs DENDELE — 24/11 · 07:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana DENDELE** @ **2.30** (Thunderpick) · prob 41% vs casas 40% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.181 partidos)  
+Mapa: PARIVISION 58% · Serie BO1: PARIVISION 58% - 42% DENDELE  
+Casas: PARIVISION 60% · DENDELE 40%  
+🔎 **Claves**  
+• Elo: PARIVISION 1969 (324 series) | DENDELE 1912 (31 series)  
+• Forma: PARIVISION ❌❌✅❌❌ | DENDELE ❌✅✅✅✅  
+• H2H: sin precedentes  
+• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): PARIVISION: Jame 6.2, FL1T 6.1 | DENDELE: doc 6.7, koala 6.7  
+• Mapas (último año): PARIVISION: fuerte ancient 63%, débil cache 33% | DENDELE: fuerte inferno 75%, débil ancient 42%  
+• Química de la plantilla: PARIVISION: 113 mapas juntos de media | DENDELE: 400 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+PARIVISION: xiELO 14 (7-22) · Jame 14 (7-22) · HObbit 14 (7-22) · zweih 14 (7-21) · FL1T 14 (7-21)  
+DENDELE: doc 14 (7-22) · koala 14 (7-22) · rdnzao 13 (7-21) · maxxkor 13 (7-20) · gafolo 12 (6-18)  
+
+## Liquid vs BC.Game — 24/11 · 07:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana Liquid** @ **1.75** (Thunderpick) · prob 54% vs casas 53% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.181 partidos)  
+Mapa: Liquid 59% · Serie BO1: Liquid 56% - 44% BC.Game  
+Casas: Liquid 53% · BC.Game 47%  
+🔎 **Claves**  
+• Elo: Liquid 1917 (304 series) | BC.Game 1857 (255 series)  
+• Forma: Liquid ❌✅❌✅❌ | BC.Game ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Liquid: EliGE 6.6, NAF 6.2 | BC.Game: Senzu 6.5, asap 6.2  
+• Mapas (último año): Liquid: fuerte inferno 65%, débil dust2 22% | BC.Game: fuerte cache 67%, débil anubis 0%  
+• Química de la plantilla: Liquid: 98 mapas juntos de media | BC.Game: 68 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+Liquid: EliGE 15 (8-24) · malbsMd 14 (7-22) · Jorko 14 (7-22) · NAF 14 (7-21) · JT 12 (6-19)  
+BC.Game: s1mple 15 (8-24) · Senzu 15 (8-23) · asap 14 (7-22) · mzinho 14 (7-21) · Magisk 13 (6-20)  
 
