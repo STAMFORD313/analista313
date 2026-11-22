@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 19:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FlyQuest RED vs Axial — 23/11 · 02:00
 
@@ -239,4 +239,50 @@ Casas: Liquid 53% · BC.Game 47%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
 Liquid: EliGE 15 (8-24) · malbsMd 14 (7-22) · Jorko 14 (7-22) · NAF 14 (7-21) · JT 12 (6-19)  
 BC.Game: s1mple 15 (8-24) · Senzu 15 (8-23) · asap 14 (7-22) · mzinho 14 (7-21) · Magisk 13 (6-20)  
+
+## FaZe vs Wildcard — 24/11 · 08:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana FaZe** @ **1.40** (Thunderpick) · prob 67% vs casas 66% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.183 partidos)  
+Mapa: FaZe 65% · Serie BO1: FaZe 67% - 33% Wildcard  
+Casas: FaZe 66% · Wildcard 34%  
+🔎 **Claves**  
+• Elo: FaZe 1943 (330 series) | Wildcard 1832 (359 series)  
+• Forma: FaZe ✅❌❌❌❌ | Wildcard ❌✅✅✅❌  
+• H2H: 1: 1-0  
+• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): FaZe: frozen 6.5, JBOEN 6.4 | Wildcard: nEMANHA 6.8, HexT 6.4  
+• Mapas (último año): FaZe: fuerte nuke 67%, débil anubis 31% | Wildcard: fuerte nuke 65%, débil dust2 48%  
+• Química de la plantilla: FaZe: 114 mapas juntos de media | Wildcard: 66 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+FaZe: JBOEN 16 (8-24) · frozen 15 (8-23) · Twistzz 15 (8-23) · jcobbb 14 (7-22) · Neityu 13 (7-21)  
+Wildcard: nEMANHA 14 (7-21) · fr3nd 13 (7-21) · cxzi 13 (7-21) · HexT 13 (7-21) · reck 13 (6-20)  
+
+## Eternal Fire vs FlyQuest — 24/11 · 08:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana FlyQuest** @ **2.10** (Thunderpick) · prob 49% vs casas 44% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.183 partidos)  
+Mapa: Eternal Fire 48% · Serie BO1: Eternal Fire 47% - 53% FlyQuest  
+Casas: Eternal Fire 56% · FlyQuest 44%  
+🔎 **Claves**  
+• Elo: Eternal Fire 1921 (455 series) | FlyQuest 1932 (179 series)  
+• Forma: Eternal Fire ✅✅❌✅❌ | FlyQuest ✅✅✅✅✅  
+• H2H: 3: 2-1  
+• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Eternal Fire: Kvem 6.7, regali 6.5 | FlyQuest: INS 6.6, nettik 6.4  
+• Mapas (último año): Eternal Fire: fuerte ancient 68%, débil mirage 40% | FlyQuest: fuerte anubis 81%, débil nuke 40%  
+• Química de la plantilla: Eternal Fire: 109 mapas juntos de media | FlyQuest: 140 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
+Eternal Fire: jottAAA 15 (8-23) · Kvem 15 (8-23) · regali 15 (7-22) · soulfly 14 (7-22) · MisteM 13 (6-20)  
+FlyQuest: Vexite 15 (8-23) · jks 15 (8-23) · nettik 14 (7-22) · aliStair 14 (7-22) · INS 14 (7-21)  
 

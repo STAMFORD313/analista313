@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 19:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Rosario Central vs Gimnasia Mendoza — 22/11 · 20:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Rosario Central** @ **1.37** (Bet365) · prob 70% vs casas 70% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.70 - 0.67)  
-1 61% · X 23% · 2 16%  
-1X 84% · X2 39% · 12 77%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 40%  
-Marcadores: 1-0 15% · 2-0 14% · 1-1 11% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Rosario Central ✅✅✅✅✅ | Gimnasia Mendoza ✅❌❌➖➖  
-• H2H: sin precedentes  
-• Bajas: Rosario Central: sin bajas; Gimnasia Mendoza: sin bajas  
-• Favorito de las casas: Rosario Central @ 1.37  
-
-## Athletico-PR vs Remo — 22/11 · 20:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Athletico-PR** @ **1.37** (Bet365) · prob 65% vs casas 65% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.97 - 0.91)  
-1 56% · X 24% · 2 20%  
-1X 80% · X2 44% · 12 76%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 52%  
-Marcadores: 2-0 11% · 1-1 11% · 1-0 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Athletico-PR ❌➖❌❌❌ | Remo ➖❌✅❌✅  
-• H2H: 1 desde 2026: 1V-0E-0D · 3.0 goles/partido · +2.5 en 100%  
-• Bajas: Athletico-PR: sin bajas; Remo: 0 fuera, 1 duda  
-• Favorito de las casas: Athletico-PR @ 1.37  
+Actualizado 22/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Marseille vs Le Mans — 22/11 · 20:45
 
