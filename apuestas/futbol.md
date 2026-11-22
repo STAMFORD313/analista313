@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UNAM Pumas vs Monterrey — 22/11 · 02:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana UNAM Pumas** @ **2.60** (Bet365) · prob 37% vs casas 37% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.52 - 1.44)  
-1 42% · X 27% · 2 32%  
-1X 68% · X2 58% · 12 73%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: UNAM Pumas ✅❌➖✅➖ | Monterrey ✅❌➖❌✅  
-• H2H: 31 desde 2012: 8V-6E-17D · 2.7 goles/partido · +2.5 en 39%  
-• Bajas: UNAM Pumas: 0 fuera, 1 duda; Monterrey: sin bajas  
-• Favorito de las casas: Monterrey @ 2.58  
+Actualizado 22/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tigres UANL vs Club America — 22/11 · 04:00
 

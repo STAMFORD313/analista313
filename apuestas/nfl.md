@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UAB Blazers vs UTSA Roadrunners — 22/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **UAB Blazers +6.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: UAB Blazers cubre +6.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: UAB Blazers ❌✅❌✅✅ | UTSA Roadrunners ✅✅✅❌✅  
-• H2H: 6 desde 2018: 3-3  
-• Bajas: UAB Blazers: sin bajas; UTSA Roadrunners: sin bajas  
-
-## UAB Blazers vs UTSA Roadrunners — 22/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana UAB Blazers** @ **3.00** (DraftKings) · prob 32% vs casas 32% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana UAB Blazers 26% · Gana UTSA Roadrunners 74%  
-Casas: UAB Blazers 32% · UTSA Roadrunners 68%  
-Hándicap UTSA -6.5 · Total puntos 51.5  
-🔎 **Claves**  
-• Forma: UAB Blazers ❌✅❌✅✅ | UTSA Roadrunners ✅✅✅❌✅  
-• H2H: 6 desde 2018: 3-3  
-• Bajas: UAB Blazers: sin bajas; UTSA Roadrunners: sin bajas  
-• Favorito de las casas: UTSA Roadrunners @ 1.41  
+Actualizado 22/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## TCU Horned Frogs vs Utah Utes — 22/11 · 03:00
 

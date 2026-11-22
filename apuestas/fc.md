@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## kkikus vs ssstasonn — 22/11 · 02:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 18% vs casas 15% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.668 partidos)  
+Goles esperados: kkikus 3.46 · ssstasonn 2.47  
+Ganador: kkikus 60% · empate 18% · ssstasonn 22%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap kkikus: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: kkikus ❌❌✅✅✅ | ssstasonn ➖❌❌❌❌  
+• Partidos: kkikus 1178 | ssstasonn 1247  
+• Liga: Champions League B  
+• Unibet: 1 1.52 · X 5.80 · 2 3.30 (sin margen 58%/15%/27%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+7%) · Paf España 5.80 (+7%)  
 
 ## ssstasonn vs Simaponika — 22/11 · 02:39
 
