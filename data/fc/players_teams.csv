@@ -77760,12 +77760,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2393763,262833,Spain,Brazil,,
 2393764,262833,France,Spain,,
 2393765,262833,England,Argentina,,
-2393206,262817,Vitoria SC,Porto,0,2
-2393207,262817,Sporting CP,Benfica,0,2
-2393208,262817,Benfica,Vitoria SC,1,0
-2393209,262817,Porto,Braga,0,3
-2393210,262817,Braga,Benfica,2,3
-2393211,262817,Vitoria SC,Sporting CP,1,0
+2393206,262817,Vitoria SC,Porto,0.0,2.0
+2393207,262817,Sporting CP,Benfica,0.0,2.0
+2393208,262817,Benfica,Vitoria SC,1.0,0.0
+2393209,262817,Porto,Braga,0.0,3.0
+2393210,262817,Braga,Benfica,2.0,3.0
+2393211,262817,Vitoria SC,Sporting CP,1.0,0.0
 2393212,262817,Sporting CP,Braga,,
 2393213,262817,Benfica,Porto,,
 2393214,262817,Porto,Sporting CP,,

@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 22:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## River Plate vs Lanus — 22/11 · 23:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Empate** @ **3.75** (Bet365) · prob 26% vs casas 26% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.93)  
-1 49% · X 27% · 2 24%  
-1X 76% · X2 51% · 12 73%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: River Plate ➖✅✅❌✅ | Lanus ✅✅➖➖➖  
-• H2H: 16 desde 2012: 10V-4E-2D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: River Plate: sin bajas; Lanus: sin bajas  
-• Favorito de las casas: River Plate @ 1.61  
+Actualizado 22/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bragantino vs Vasco — 22/11 · 23:30
 

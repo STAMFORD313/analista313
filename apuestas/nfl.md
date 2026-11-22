@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 22:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## San Francisco 49ers vs Minnesota Vikings — 23/11 · 02:20
 
