@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bragantino vs Vasco — 22/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Empate** @ **3.55** (Bet365) · prob 26% vs casas 26% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.11)  
-1 46% · X 27% · 2 27%  
-1X 73% · X2 54% · 12 73%  
-+1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Bragantino ➖❌✅✅❌ | Vasco ✅❌✅✅✅  
-• H2H: 9 desde 2020: 4V-3E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Bragantino: 0 fuera, 3 duda; Vasco: sin bajas  
-• Favorito de las casas: Bragantino @ 1.84  
+Actualizado 22/11/2026 23:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Guadalajara Chivas vs Cruz Azul — 23/11 · 00:07
 

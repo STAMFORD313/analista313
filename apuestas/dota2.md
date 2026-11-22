@@ -1,6 +1,28 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 22/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 23:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Team Synapse vs InterActive Philippines — 23/11 · 11:00
+
+👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Gana Team Synapse** @ **1.38** (Thunderpick) · prob 68% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.901 partidos)  
+Mapa: Team Synapse 49% · Serie BO3: Team Synapse 68% - 32% InterActive Philippines  
+Casas: Team Synapse 67% · InterActive Philippines 33%  
+🔎 **Claves**  
+• Elo: Team Synapse 1610 (62 series) | InterActive Philippines 1622 (219 series)  
+• Forma: Team Synapse ✅❌❌❌❌ | InterActive Philippines ✅❌❌❌✅  
+• H2H: 1: 1-0  
+• Torneo: European Pro League Season 41 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Synapse: Pastil 2.6, rubikon155 2.1 | InterActive Philippines: Lewis 5.2, Akashi 3.0  
+• Química de la plantilla: Team Synapse: 79 partidas juntos de media | InterActive Philippines: 92 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Synapse gana 2-1: 21% → cuota justa 4.80  
+• InterActive Philippines gana 2-1: 22% → cuota justa 4.56  
 
 ## Team Nemesis vs Xtreme Gaming — 23/11 · 15:00
 

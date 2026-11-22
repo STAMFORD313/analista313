@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 23:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## curuza vs KravaRK — 22/11 · 23:22
+## Kosta vs Stenido — 22/11 · 23:54
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana curuza** @ **2.38** (Unibet) · prob 49% vs casas 37% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana Stenido** @ **1.67** (Unibet) · prob 66% vs casas 53% · ventaja +10%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.718 partidos)  
-Goles esperados: curuza 3.03 · KravaRK 2.42  
-Ganador: curuza 49% · empate 22% · KravaRK 29%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap curuza: −1.5 34% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 77.743 partidos)  
+Goles esperados: Kosta 4.37 · Stenido 5.95  
+Ganador: Kosta 22% · empate 13% · Stenido 66%  
+Total: más de 10.5 goles 46% · menos 54%  
+Hándicap Stenido: −1.5 51% · −2.5 38%  
 🔎 **Claves**  
-• Forma: curuza ✅✅✅❌✅ | KravaRK ❌✅❌✅❌  
-• Partidos: curuza 990 | KravaRK 553  
-• Liga: Portugal Primera  
-• Unibet: 1 2.38 · X 4.20 · 2 2.04 (sin margen 37%/21%/43%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+17%) · Paf España 2.38 (+17%)  
+• Forma: Kosta ❌➖❌❌❌ | Stenido ❌➖❌✅➖  
+• Partidos: Kosta 339 | Stenido 251  
+• Liga: Argentina Super League 2x6  
+• Unibet: 1 2.65 · X 6.25 · 2 1.67 (sin margen 33%/14%/53%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.67 (+10%) · Paf España 1.67 (+10%)  
 
-## kkikus vs Simaponika — 22/11 · 23:31
+## marto1505 vs pecata1505 — 23/11 · 00:02
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.50** (Unibet) · prob 21% vs casas 16% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **5.50** (Unibet) · prob 22% vs casas 16% · ventaja +23%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.718 partidos)  
-Goles esperados: kkikus 2.17 · Simaponika 2.93  
-Ganador: kkikus 26% · empate 21% · Simaponika 53%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Simaponika: −1.5 36% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 77.743 partidos)  
+Goles esperados: marto1505 2.68 · pecata1505 3.05  
+Ganador: marto1505 34% · empate 22% · pecata1505 44%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap pecata1505: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: kkikus ✅✅❌✅❌ | Simaponika ➖➖❌✅✅  
-• Partidos: kkikus 1199 | Simaponika 1406  
-• Liga: World Cup A  
-• Unibet: 1 3.50 · X 5.50 · 2 1.50 (sin margen 25%/16%/59%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.50 (+15%) · Paf España 5.50 (+15%)  
+• Forma: marto1505 ❌❌➖✅➖ | pecata1505 ❌➖❌❌➖  
+• Partidos: marto1505 71 | pecata1505 59  
+• Liga: Premier League  
+• Unibet: 1 2.25 · X 5.50 · 2 1.94 (sin margen 39%/16%/45%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+23%) · Paf España 5.50 (+23%)  
 
-## hrk vs curuza — 22/11 · 23:34
+## Nightxx vs kkikus — 23/11 · 00:05
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana curuza** @ **3.30** (Unibet) · prob 35% vs casas 27% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **7.50** (Unibet) · prob 16% vs casas 12% · ventaja +18%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.718 partidos)  
-Goles esperados: hrk 2.96 · curuza 2.92  
-Ganador: hrk 43% · empate 22% · curuza 35%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap hrk: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 77.743 partidos)  
+Goles esperados: Nightxx 3.89 · kkikus 2.35  
+Ganador: Nightxx 69% · empate 16% · kkikus 15%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Nightxx: −1.5 50% · −2.5 34%  
 🔎 **Claves**  
-• Forma: hrk ✅✅➖❌❌ | curuza ✅✅✅❌✅  
-• Partidos: hrk 990 | curuza 990  
-• Liga: Portugal Primera  
-• Unibet: 1 1.71 · X 3.95 · 2 3.30 (sin margen 51%/22%/27%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.30 (+17%) · Paf España 3.30 (+17%)  
+• Forma: Nightxx ✅➖✅✅✅ | kkikus ❌✅❌❌➖  
+• Partidos: Nightxx 1114 | kkikus 1201  
+• Liga: Serie A  
+• Unibet: 1 1.18 · X 7.50 · 2 5.80 (sin margen 73%/12%/15%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+18%) · Paf España 7.50 (+18%)  
 
