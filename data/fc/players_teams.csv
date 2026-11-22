@@ -76927,13 +76927,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2393843,262792,Arsenal,Man City,,
 2393844,262792,Chelsea,Arsenal,,
 2393845,262792,Tottenham,Liverpool,,
-2393466,262782,Leipzig,Stuttgart,0,2
-2393467,262782,Bayern Munchen,B Dortmund,2,0
-2393468,262782,B Dortmund,Leipzig,2,1
-2393469,262782,Stuttgart,Frankfurt,2,1
-2393471,262782,Leipzig,Bayern Munchen,3,1
-2393472,262782,Bayern Munchen,Frankfurt,0,1
-2393473,262782,B Dortmund,Stuttgart,1,0
+2393466,262782,Leipzig,Stuttgart,0.0,2.0
+2393467,262782,Bayern Munchen,B Dortmund,2.0,0.0
+2393468,262782,B Dortmund,Leipzig,2.0,1.0
+2393469,262782,Stuttgart,Frankfurt,2.0,1.0
+2393471,262782,Leipzig,Bayern Munchen,3.0,1.0
+2393472,262782,Bayern Munchen,Frankfurt,0.0,1.0
+2393473,262782,B Dortmund,Stuttgart,1.0,0.0
 2393474,262782,Stuttgart,Bayern Munchen,,
 2393475,262782,Frankfurt,Leipzig,,
 2393476,262782,Stuttgart,Leipzig,,
@@ -76946,3 +76946,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2393483,262782,Stuttgart,B Dortmund,,
 2393484,262782,Bayern Munchen,Stuttgart,,
 2393485,262782,Leipzig,Frankfurt,,
+2393046,262793,France,England,2,1
+2393047,262793,Argentina,Brazil,3,3
+2393048,262793,Brazil,France,3,1
+2393049,262793,England,Spain,3,1
+2393050,262793,Spain,Brazil,1,3
+2393051,262793,France,Argentina,2,1
+2393052,262793,Argentina,Spain,1,1
+2393053,262793,Brazil,England,1,1
+2393054,262793,England,Argentina,2,1
+2393055,262793,Spain,France,0,0
+2393056,262793,England,France,,
+2393057,262793,Brazil,Argentina,,
+2393058,262793,France,Brazil,,
+2393059,262793,Spain,England,,
+2393060,262793,Brazil,Spain,,
+2393061,262793,Argentina,France,,
+2393062,262793,Spain,Argentina,,
+2393063,262793,England,Brazil,,
+2393064,262793,Argentina,England,,
+2393065,262793,France,Spain,,
+2393126,262811,Aston Villa,Salzburg,2,2
+2393127,262811,Roma,Fenerbahce,1,2
+2393128,262811,Fenerbahce,Aston Villa,2,3
+2393129,262811,Salzburg,Porto,2,1
+2393130,262811,Porto,Fenerbahce,2,1
+2393131,262811,Aston Villa,Roma,2,2
+2393132,262811,Roma,Porto,3,1
+2393133,262811,Fenerbahce,Salzburg,1,2
+2393134,262811,Salzburg,Roma,,
+2393135,262811,Porto,Aston Villa,,
+2393136,262811,Salzburg,Aston Villa,,
+2393137,262811,Fenerbahce,Roma,,
+2393138,262811,Aston Villa,Fenerbahce,,
+2393139,262811,Porto,Salzburg,,
+2393140,262811,Fenerbahce,Porto,,
+2393141,262811,Roma,Aston Villa,,
+2393142,262811,Porto,Roma,,
+2393143,262811,Salzburg,Fenerbahce,,
+2393144,262811,Roma,Salzburg,,
+2393145,262811,Aston Villa,Porto,,
+2392906,262840,Inter Miami CF,Atlanta United,1,1
+2392907,262840,LA Galaxy,Los Angeles FC,1,1
+2392908,262840,Los Angeles FC,Inter Miami CF,0,3
+2392909,262840,Atlanta United,Seattle Sounders FC,0,0
+2392910,262840,Seattle Sounders FC,Los Angeles FC,0,4
+2392911,262840,Inter Miami CF,LA Galaxy,1,1
+2392912,262840,LA Galaxy,Seattle Sounders FC,2,1
+2392913,262840,Los Angeles FC,Atlanta United,2,2
+2392914,262840,Atlanta United,LA Galaxy,3,1
+2392915,262840,Seattle Sounders FC,Inter Miami CF,1,1
+2392916,262840,Atlanta United,Inter Miami CF,,
+2392917,262840,Los Angeles FC,LA Galaxy,,
+2392918,262840,Inter Miami CF,Los Angeles FC,,
+2392919,262840,Seattle Sounders FC,Atlanta United,,
+2392920,262840,Los Angeles FC,Seattle Sounders FC,,
+2392921,262840,LA Galaxy,Inter Miami CF,,
+2392922,262840,Seattle Sounders FC,LA Galaxy,,
+2392923,262840,Atlanta United,Los Angeles FC,,
+2392924,262840,LA Galaxy,Atlanta United,,
+2392925,262840,Inter Miami CF,Seattle Sounders FC,,

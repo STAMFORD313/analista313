@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 07:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 07:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## KraftVK vs LaikingDast — 22/11 · 07:33
+## RuBIX vs cl1vlind — 22/11 · 07:48
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana LaikingDast** @ **3.45** (Unibet) · prob 33% vs casas 25% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +8%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.885 partidos)  
-Goles esperados: KraftVK 3.32 · LaikingDast 2.76  
-Ganador: KraftVK 47% · empate 20% · LaikingDast 33%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap KraftVK: −1.5 35% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 76.912 partidos)  
+Goles esperados: RuBIX 3.47 · cl1vlind 2.57  
+Ganador: RuBIX 57% · empate 19% · cl1vlind 24%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap RuBIX: −1.5 40% · −2.5 25%  
 🔎 **Claves**  
-• Forma: KraftVK ✅✅✅➖✅ | LaikingDast ✅✅✅❌✅  
-• Partidos: KraftVK 1006 | LaikingDast 546  
-• Liga: World Cup A  
-• Unibet: 1 1.77 · X 3.45 · 2 3.45 (sin margen 49%/25%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.45 (+12%) · Paf España 3.45 (+12%)  
-
-## A1ose vs RuBIX — 22/11 · 07:36
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana RuBIX** @ **2.28** (Unibet) · prob 50% vs casas 38% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.885 partidos)  
-Goles esperados: A1ose 3.05 · RuBIX 3.57  
-Ganador: A1ose 31% · empate 19% · RuBIX 50%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap RuBIX: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: A1ose ✅✅❌✅❌ | RuBIX ✅✅✅✅✅  
-• Partidos: A1ose 1143 | RuBIX 352  
+• Forma: RuBIX ✅✅✅➖❌ | cl1vlind ❌❌➖✅➖  
+• Partidos: RuBIX 354 | cl1vlind 803  
 • Liga: Europa League  
-• Unibet: 1 2.04 · X 4.70 · 2 2.28 (sin margen 43%/19%/38%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.28 (+14%) · Paf España 2.28 (+14%)  
+• Unibet: 1 1.49 · X 5.75 · 2 3.25 (sin margen 58%/15%/27%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.75 (+9%) · Paf España 5.75 (+9%)  
 
-## Hyper vs Ganger_29 — 22/11 · 07:42
+## imagin vs v1nniePuh — 22/11 · 07:48
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Hyper** @ **2.80** (Unibet) · prob 40% vs casas 31% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana imagin** @ **3.00** (Unibet) · prob 36% vs casas 29% · ventaja +8%
 
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.885 partidos)  
-Goles esperados: Hyper 3.43 · Ganger_29 3.18  
-Ganador: Hyper 40% · empate 19% · Ganger_29 41%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Hyper: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 76.912 partidos)  
+Goles esperados: imagin 4.54 · v1nniePuh 5.16  
+Ganador: imagin 36% · empate 14% · v1nniePuh 50%  
+Total: más de 9.5 goles 50% · menos 50%  
+Hándicap v1nniePuh: −1.5 39% · −2.5 27%  
 🔎 **Claves**  
-• Forma: Hyper ❌✅❌✅✅ | Ganger_29 ✅❌❌❌❌  
-• Partidos: Hyper 706 | Ganger_29 1052  
-• Liga: Bundesliga  
-• Unibet: 1 2.80 · X 3.25 · 2 2.06 (sin margen 31%/27%/42%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+13%) · Paf España 2.80 (+13%)  
+• Forma: imagin ➖✅✅❌❌ | v1nniePuh ❌❌➖✅➖  
+• Partidos: imagin 383 | v1nniePuh 804  
+• Liga: Premier League 2x6  
+• Unibet: 1 3.00 · X 5.10 · 2 1.65 (sin margen 29%/17%/53%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+8%) · Paf España 3.00 (+8%)  
+
+## d1pseN vs Bomb1to — 22/11 · 07:57
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Bomb1to** @ **2.85** (Unibet) · prob 44% vs casas 30% · ventaja +25%
+
+- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.912 partidos)  
+Goles esperados: d1pseN 2.48 · Bomb1to 2.68  
+Ganador: d1pseN 34% · empate 22% · Bomb1to 44%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Bomb1to: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: d1pseN ❌➖❌✅➖ | Bomb1to ❌❌✅✅➖  
+• Partidos: d1pseN 361 | Bomb1to 1451  
+• Liga: World Cup A  
+• Unibet: 1 2.75 · X 2.28 · 2 2.85 (sin margen 32%/38%/30%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+25%) · Paf España 2.85 (+25%)  
 

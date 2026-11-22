@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 22/11/2026 07:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 07:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PuckChamp vs Power Rangers — 22/11 · 14:00
 
