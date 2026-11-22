@@ -3852,5 +3852,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261122002532879813",
+  "creada": "2026-11-22 00:25:32.879855+00:00",
+  "titulo": "Barrido · Combinada cuota 10.3",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-22 10:30:00+00:00",
+    "home": "Ramnicu Valcea",
+    "away": "Metalul Buzau",
+    "txt": "Gana Metalul Buzau",
+    "odds": 2.18,
+    "p": 0.4846
+   },
+   {
+    "code": "N1",
+    "start": "2026-11-22 15:45:00+00:00",
+    "home": "Go Ahead Eagles",
+    "away": "Fortuna Sittard",
+    "txt": "Menos de 2.5 tarjetas",
+    "odds": 2.55,
+    "p": 0.4050299223070054
+   },
+   {
+    "code": null,
+    "start": "2026-11-22 21:00:00+00:00",
+    "home": "Rubio Nu",
+    "away": "Libertad Asuncion",
+    "txt": "Gana Libertad Asuncion",
+    "odds": 1.85,
+    "p": 0.5532
+   }
+  ],
+  "odds": 10.28,
+  "p": 0.10858071319360607,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
