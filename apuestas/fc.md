@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 15:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 15:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## LaikingDast vs KraftVK — 22/11 · 15:13
+## ramzes vs spirtes — 22/11 · 15:40
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana LaikingDast** @ **3.65** (Unibet) · prob 31% vs casas 24% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana spirtes** @ **2.17** (Unibet) · prob 50% vs casas 40% · ventaja +8%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.305 partidos)  
-Goles esperados: LaikingDast 2.81 · KraftVK 3.40  
-Ganador: LaikingDast 31% · empate 20% · KraftVK 49%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap KraftVK: −1.5 35% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 77.333 partidos)  
+Goles esperados: ramzes 2.96 · spirtes 3.22  
+Ganador: ramzes 36% · empate 14% · spirtes 50%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap spirtes: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: LaikingDast ❌❌✅❌✅ | KraftVK ❌❌❌✅➖  
-• Partidos: LaikingDast 575 | KraftVK 1034  
-• Liga: Champions League B  
-• Unibet: 1 3.65 · X 3.45 · 2 1.72 (sin margen 24%/25%/51%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.65 (+15%) · Paf España 3.65 (+15%)  
+• Forma: ramzes ✅❌✅➖✅ | spirtes ✅➖✅✅✅  
+• Partidos: ramzes 1256 | spirtes 1363  
+• Liga: Eredivisie  
+• Unibet: 1 2.02 · X 5.30 · 2 2.17 (sin margen 43%/16%/40%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.17 (+8%) · Paf España 2.17 (+8%)  
 
-## RuBIX vs A1ose — 22/11 · 15:16
+## Lx7ss vs maggett0 — 22/11 · 15:46
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana RuBIX** @ **2.40** (Unibet) · prob 49% vs casas 36% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +9%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 77.333 partidos)  
+Goles esperados: Lx7ss 3.23 · maggett0 3.04  
+Ganador: Lx7ss 45% · empate 20% · maggett0 35%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap Lx7ss: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Lx7ss ❌❌✅❌✅ | maggett0 ✅❌✅❌✅  
+• Partidos: Lx7ss 1226 | maggett0 1095  
+• Liga: Serie A  
+• Unibet: 1 1.84 · X 5.40 · 2 2.43 (sin margen 48%/16%/36%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+9%) · Paf España 5.40 (+9%)  
+
+## maggett0 vs Paka — 22/11 · 15:58
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Paka** @ **2.20** (Unibet) · prob 51% vs casas 40% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.305 partidos)  
-Goles esperados: RuBIX 3.56 · A1ose 3.11  
-Ganador: RuBIX 49% · empate 17% · A1ose 33%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap RuBIX: −1.5 34% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 77.333 partidos)  
+Goles esperados: maggett0 2.64 · Paka 3.23  
+Ganador: maggett0 28% · empate 20% · Paka 51%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Paka: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: RuBIX ✅✅✅❌✅ | A1ose ✅➖❌✅❌  
-• Partidos: RuBIX 381 | A1ose 1171  
-• Liga: LaLiga  
-• Unibet: 1 2.40 · X 4.50 · 2 1.97 (sin margen 36%/19%/44%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+18%) · Paf España 2.40 (+18%)  
+• Forma: maggett0 ✅❌✅❌✅ | Paka ✅❌➖✅✅  
+• Partidos: maggett0 1095 | Paka 1083  
+• Liga: Serie A  
+• Unibet: 1 2.17 · X 4.30 · 2 2.20 (sin margen 40%/20%/40%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.20 (+13%) · Paf España 2.20 (+13%)  
 
