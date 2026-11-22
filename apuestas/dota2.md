@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 22/11/2026 06:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 07:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PuckChamp vs Power Rangers — 22/11 · 14:00
 
@@ -155,6 +155,28 @@ Casas: Team Spirit Academy 62% · Allied 38%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Team Spirit Academy gana 2-1: 25% → cuota justa 4.02 · casa 26%  
 • Allied gana 2-1: 12% → cuota justa 8.19 · casa 17%  
+
+## Zero Tenacity vs Inner Circle x Insanity — 22/11 · 20:00
+
+👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Gana Zero Tenacity** @ **2.57** (Thunderpick) · prob 41% vs casas 36% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.895 partidos)  
+Mapa: Zero Tenacity 38% · Serie BO3: Zero Tenacity 46% - 54% Inner Circle x Insanity  
+Casas: Zero Tenacity 36% · Inner Circle x Insanity 64%  
+🔎 **Claves**  
+• Elo: Zero Tenacity 1682 (387 series) | Inner Circle x Insanity 1795 (154 series)  
+• Forma: Zero Tenacity ✅✅❌❌✅ | Inner Circle x Insanity ✅✅✅❌❌  
+• H2H: 8: 5-3  
+• Torneo: European Pro League Season 41 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Zero Tenacity: niche 4.4, Nesfeer 3.7 | Inner Circle x Insanity: Norma 3.9, yowaai 3.2  
+• Química de la plantilla: Zero Tenacity: 86 partidas juntos de media | Inner Circle x Insanity: 202 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Zero Tenacity gana 2-1: 15% → cuota justa 6.57 · casa 18%  
+• Inner Circle x Insanity gana 2-1: 25% → cuota justa 4.04 · casa 25%  
 
 ## Team Nemesis vs Xtreme Gaming — 23/11 · 15:00
 
