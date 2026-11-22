@@ -1,61 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 07:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 08:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## RuBIX vs cl1vlind — 22/11 · 07:48
+## Fireline vs Kril — 22/11 · 08:34
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Volta FA Cup · **Gana Kril** @ **1.33** (cuota justa (sin casa)) · prob 75% vs casas 75% · ventaja +0%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.912 partidos)  
-Goles esperados: RuBIX 3.47 · cl1vlind 2.57  
-Ganador: RuBIX 57% · empate 19% · cl1vlind 24%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap RuBIX: −1.5 40% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 76.941 partidos)  
+Goles esperados: Fireline 2.37 · Kril 4.30  
+Ganador: Fireline 13% · empate 11% · Kril 75%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Kril: −1.5 56% · −2.5 40%  
 🔎 **Claves**  
-• Forma: RuBIX ✅✅✅➖❌ | cl1vlind ❌❌➖✅➖  
-• Partidos: RuBIX 354 | cl1vlind 803  
-• Liga: Europa League  
-• Unibet: 1 1.49 · X 5.75 · 2 3.25 (sin margen 58%/15%/27%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.75 (+9%) · Paf España 5.75 (+9%)  
+• Forma: Fireline ➖✅❌➖✅ | Kril ➖✅✅➖✅  
+• Partidos: Fireline 338 | Kril 979  
+• Liga: Volta FA Cup  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
-## imagin vs v1nniePuh — 22/11 · 07:48
+## Fireline vs alosdvxl — 22/11 · 09:30
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana imagin** @ **3.00** (Unibet) · prob 36% vs casas 29% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana alosdvxl** @ **1.42** (cuota justa (sin casa)) · prob 71% vs casas 71% · ventaja +0%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.912 partidos)  
-Goles esperados: imagin 4.54 · v1nniePuh 5.16  
-Ganador: imagin 36% · empate 14% · v1nniePuh 50%  
-Total: más de 9.5 goles 50% · menos 50%  
-Hándicap v1nniePuh: −1.5 39% · −2.5 27%  
+📊 **Escenarios** (Poisson por jugador, 76.941 partidos)  
+Goles esperados: Fireline 3.11 · alosdvxl 4.89  
+Ganador: Fireline 18% · empate 11% · alosdvxl 71%  
+Total: más de 8.5 goles 41% · menos 59%  
+Hándicap alosdvxl: −1.5 53% · −2.5 39%  
 🔎 **Claves**  
-• Forma: imagin ➖✅✅❌❌ | v1nniePuh ❌❌➖✅➖  
-• Partidos: imagin 383 | v1nniePuh 804  
-• Liga: Premier League 2x6  
-• Unibet: 1 3.00 · X 5.10 · 2 1.65 (sin margen 29%/17%/53%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+8%) · Paf España 3.00 (+8%)  
+• Forma: Fireline ➖✅❌➖✅ | alosdvxl ✅❌✅✅➖  
+• Partidos: Fireline 338 | alosdvxl 1700  
+• Liga: Volta World Cup B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
-## d1pseN vs Bomb1to — 22/11 · 07:57
+## Kril vs Fireline — 22/11 · 09:39
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Bomb1to** @ **2.85** (Unibet) · prob 44% vs casas 30% · ventaja +25%
+👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.35** (cuota justa (sin casa)) · prob 74% vs casas 74% · ventaja +0%
 
-- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.912 partidos)  
-Goles esperados: d1pseN 2.48 · Bomb1to 2.68  
-Ganador: d1pseN 34% · empate 22% · Bomb1to 44%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap Bomb1to: −1.5 28% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 76.941 partidos)  
+Goles esperados: Kril 4.24 · Fireline 2.33  
+Ganador: Kril 74% · empate 12% · Fireline 14%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Kril: −1.5 56% · −2.5 40%  
 🔎 **Claves**  
-• Forma: d1pseN ❌➖❌✅➖ | Bomb1to ❌❌✅✅➖  
-• Partidos: d1pseN 361 | Bomb1to 1451  
-• Liga: World Cup A  
-• Unibet: 1 2.75 · X 2.28 · 2 2.85 (sin margen 32%/38%/30%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+25%) · Paf España 2.85 (+25%)  
+• Forma: Kril ➖✅✅➖✅ | Fireline ➖✅❌➖✅  
+• Partidos: Kril 979 | Fireline 338  
+• Liga: Volta World Cup B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
