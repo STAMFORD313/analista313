@@ -3936,5 +3936,38 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261122162350142274",
+  "creada": "2026-11-22 16:23:50.142312+00:00",
+  "titulo": "Barrido · Combinada cuota 5.3",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-22 18:30:00+00:00",
+    "home": "Estrella del Sur",
+    "away": "Canuelas",
+    "txt": "Gana Estrella del Sur",
+    "odds": 2.6,
+    "p": 0.4202
+   },
+   {
+    "src": "espn:nhl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-23 00:00:00+00:00",
+    "home": "St. Louis Blues",
+    "away": "Edmonton Oilers",
+    "txt": "Gana Edmonton Oilers",
+    "odds": 2.05,
+    "p": 0.50318
+   }
+  ],
+  "odds": 5.33,
+  "p": 0.211436236,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
