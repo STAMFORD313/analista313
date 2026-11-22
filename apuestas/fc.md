@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 22:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 22:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## KravaRK vs curuza — 22/11 · 22:22
+## marto1505 vs Jokadinho — 22/11 · 22:28
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana curuza** @ **2.40** (Unibet) · prob 48% vs casas 36% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana marto1505** @ **5.60** (Unibet) · prob 21% vs casas 15% · ventaja +17%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.673 partidos)  
-Goles esperados: KravaRK 2.47 · curuza 3.04  
-Ganador: KravaRK 30% · empate 22% · curuza 48%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap curuza: −1.5 34% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 77.681 partidos)  
+Goles esperados: marto1505 2.56 · Jokadinho 3.55  
+Ganador: marto1505 21% · empate 16% · Jokadinho 63%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Jokadinho: −1.5 41% · −2.5 26%  
 🔎 **Claves**  
-• Forma: KravaRK ❌✅✅❌❌ | curuza ✅❌❌❌✅  
-• Partidos: KravaRK 549 | curuza 986  
-• Liga: Portugal Primera  
-• Unibet: 1 2.05 · X 4.10 · 2 2.40 (sin margen 42%/21%/36%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+16%) · Paf España 2.40 (+16%)  
+• Forma: marto1505 ✅❌❌❌❌ | Jokadinho ✅✅✅❌✅  
+• Partidos: marto1505 65 | Jokadinho 1037  
+• Liga: LaLiga  
+• Unibet: 1 5.60 · X 5.80 · 2 1.24 (sin margen 15%/15%/70%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+17%) · Paf España 5.60 (+17%)  
 
 ## Simaponika vs kkikus — 22/11 · 22:31
 

@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 22:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 22:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fluminense vs Mirassol — 22/11 · 22:30
 

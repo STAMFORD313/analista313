@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 22:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 22:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Denver Broncos vs Las Vegas Raiders — 22/11 · 22:25
 

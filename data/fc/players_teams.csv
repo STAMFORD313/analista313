@@ -77685,18 +77685,78 @@ id,tournament_id,club1,club2,ht1,ht2
 2393979,262819,Arsenal,Tottenham,,
 2393980,262819,Liverpool,Arsenal,,
 2393981,262819,Chelsea,Man City,,
-2393912,262805,Sporting CP,B Dortmund,2,4
-2393915,262805,Arsenal,B Dortmund,0,3
-2393917,262805,Arsenal,Sporting CP,2,4
-2393918,262805,Sporting CP,B Dortmund,0,1
+2393912,262805,Sporting CP,B Dortmund,2.0,4.0
+2393915,262805,Arsenal,B Dortmund,0.0,3.0
+2393917,262805,Arsenal,Sporting CP,2.0,4.0
+2393918,262805,Sporting CP,B Dortmund,0.0,1.0
 2393921,262805,Arsenal,B Dortmund,,
-2393036,262836,Ecuador,Argentina,0,3
-2393037,262836,Colombia,Brazil,2,1
-2393038,262836,Brazil,Ecuador,1,0
-2393039,262836,Argentina,Uruguay,2,0
-2393040,262836,Uruguay,Brazil,1,3
-2393041,262836,Ecuador,Colombia,1,1
-2393042,262836,Colombia,Uruguay,1,2
-2393043,262836,Brazil,Argentina,3,3
-2393044,262836,Argentina,Colombia,1,5
-2393045,262836,Uruguay,Ecuador,4,2
+2393036,262836,Ecuador,Argentina,0.0,3.0
+2393037,262836,Colombia,Brazil,2.0,1.0
+2393038,262836,Brazil,Ecuador,1.0,0.0
+2393039,262836,Argentina,Uruguay,2.0,0.0
+2393040,262836,Uruguay,Brazil,1.0,3.0
+2393041,262836,Ecuador,Colombia,1.0,1.0
+2393042,262836,Colombia,Uruguay,1.0,2.0
+2393043,262836,Brazil,Argentina,3.0,3.0
+2393044,262836,Argentina,Colombia,1.0,5.0
+2393045,262836,Uruguay,Ecuador,4.0,2.0
+2393606,262781,Villarreal,Real Madrid,3,0
+2393607,262781,Athletic Club,Atleti,1,2
+2393608,262781,Atleti,Villarreal,4,0
+2393609,262781,Real Madrid,Barcelona,0,1
+2393610,262781,Barcelona,Atleti,0,1
+2393611,262781,Villarreal,Athletic Club,1,1
+2393612,262781,Athletic Club,Barcelona,2,1
+2393613,262781,Atleti,Real Madrid,2,3
+2393614,262781,Real Madrid,Athletic Club,,
+2393615,262781,Barcelona,Villarreal,,
+2393616,262781,Real Madrid,Villarreal,,
+2393617,262781,Atleti,Athletic Club,,
+2393618,262781,Villarreal,Atleti,,
+2393619,262781,Barcelona,Real Madrid,,
+2393620,262781,Atleti,Barcelona,,
+2393621,262781,Athletic Club,Villarreal,,
+2393622,262781,Barcelona,Athletic Club,,
+2393623,262781,Real Madrid,Atleti,,
+2393624,262781,Athletic Club,Real Madrid,,
+2393625,262781,Villarreal,Barcelona,,
+2392716,262809,Atleti,Paris,0,2
+2392717,262809,Real Madrid,Liverpool,4,2
+2392718,262809,Liverpool,Atleti,0,2
+2392719,262809,Paris,Bayern Munchen,2,1
+2392720,262809,Bayern Munchen,Liverpool,1,1
+2392721,262809,Atleti,Real Madrid,1,1
+2392722,262809,Real Madrid,Bayern Munchen,2,0
+2392723,262809,Liverpool,Paris,1,2
+2392724,262809,Paris,Real Madrid,1,2
+2392725,262809,Bayern Munchen,Atleti,0,3
+2392726,262809,Paris,Atleti,1,0
+2392727,262809,Liverpool,Real Madrid,0,0
+2392728,262809,Atleti,Liverpool,,
+2392729,262809,Bayern Munchen,Paris,,
+2392730,262809,Liverpool,Bayern Munchen,,
+2392731,262809,Real Madrid,Atleti,,
+2392732,262809,Bayern Munchen,Real Madrid,,
+2392733,262809,Paris,Liverpool,,
+2392734,262809,Real Madrid,Paris,,
+2392735,262809,Atleti,Bayern Munchen,,
+2393746,262833,England,Spain,1,3
+2393747,262833,France,Brazil,1,1
+2393748,262833,Brazil,England,1,0
+2393749,262833,Spain,Argentina,0,0
+2393750,262833,Argentina,Brazil,0,0
+2393751,262833,England,France,1,0
+2393752,262833,France,Argentina,,
+2393753,262833,Brazil,Spain,,
+2393754,262833,Spain,France,,
+2393755,262833,Argentina,England,,
+2393756,262833,Spain,England,,
+2393757,262833,Brazil,France,,
+2393758,262833,England,Brazil,,
+2393759,262833,Argentina,Spain,,
+2393760,262833,Brazil,Argentina,,
+2393761,262833,France,England,,
+2393762,262833,Argentina,France,,
+2393763,262833,Spain,Brazil,,
+2393764,262833,France,Spain,,
+2393765,262833,England,Argentina,,
