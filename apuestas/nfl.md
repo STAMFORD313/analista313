@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 02:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## TCU Horned Frogs vs Utah Utes — 22/11 · 03:00
 

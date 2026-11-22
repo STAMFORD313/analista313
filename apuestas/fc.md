@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## kkikus vs ssstasonn — 22/11 · 02:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 18% vs casas 15% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.668 partidos)  
-Goles esperados: kkikus 3.46 · ssstasonn 2.47  
-Ganador: kkikus 60% · empate 18% · ssstasonn 22%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap kkikus: −1.5 41% · −2.5 26%  
-🔎 **Claves**  
-• Forma: kkikus ❌❌✅✅✅ | ssstasonn ➖❌❌❌❌  
-• Partidos: kkikus 1178 | ssstasonn 1247  
-• Liga: Champions League B  
-• Unibet: 1 1.52 · X 5.80 · 2 3.30 (sin margen 58%/15%/27%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+7%) · Paf España 5.80 (+7%)  
+Actualizado 22/11/2026 02:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ssstasonn vs Simaponika — 22/11 · 02:39
 
@@ -75,6 +56,25 @@ Hándicap fantazer: −1.5 57% · −2.5 41%
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## rostyk vs k0mych — 22/11 · 02:50
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana rostyk** @ **1.75** (Unibet) · prob 61% vs casas 50% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.684 partidos)  
+Goles esperados: rostyk 5.32 · k0mych 4.27  
+Ganador: rostyk 61% · empate 13% · k0mych 26%  
+Total: más de 9.5 goles 49% · menos 51%  
+Hándicap rostyk: −1.5 44% · −2.5 31%  
+🔎 **Claves**  
+• Forma: rostyk ✅✅❌✅❌ | k0mych ❌❌❌❌❌  
+• Partidos: rostyk 412 | k0mych 440  
+• Liga: LaLiga 2x6  
+• Unibet: 1 1.75 · X 6.00 · 2 2.50 (sin margen 50%/15%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.75 (+7%) · Paf España 1.75 (+7%)  
+
 ## Nightxx vs ssstasonn — 22/11 · 02:51
 
 👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
@@ -92,6 +92,44 @@ Hándicap Nightxx: −1.5 71% · −2.5 58%
 • Partidos: Nightxx 1087 | ssstasonn 1243  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## KravaRK vs curuza — 22/11 · 02:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana curuza** @ **2.55** (Unibet) · prob 51% vs casas 34% · ventaja +31%
+
+- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.684 partidos)  
+Goles esperados: KravaRK 2.48 · curuza 2.90  
+Ganador: KravaRK 29% · empate 20% · curuza 51%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap curuza: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: KravaRK ➖➖❌❌❌ | curuza ❌✅❌❌❌  
+• Partidos: KravaRK 533 | curuza 970  
+• Liga: Champions League A  
+• Unibet: 1 1.92 · X 4.30 · 2 2.55 (sin margen 45%/20%/34%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+31%) · Paf España 2.55 (+31%)  
+
+## hrk vs Skif — 22/11 · 02:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hrk** @ **1.78** (Unibet) · prob 62% vs casas 49% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.684 partidos)  
+Goles esperados: hrk 3.62 · Skif 2.53  
+Ganador: hrk 63% · empate 16% · Skif 21%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap hrk: −1.5 43% · −2.5 28%  
+🔎 **Claves**  
+• Forma: hrk ❌✅✅✅✅ | Skif ✅➖❌✅✅  
+• Partidos: hrk 970 | Skif 779  
+• Liga: Champions League A  
+• Unibet: 1 1.78 · X 3.50 · 2 3.30 (sin margen 49%/25%/26%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.78 (+11%) · Paf España 1.78 (+11%)  
 
 ## kkikus vs Nightxx — 22/11 · 03:03
 
