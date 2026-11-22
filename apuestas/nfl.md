@@ -1,36 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 03:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Arizona State Sun Devils vs Oklahoma State Cowboys — 22/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Arizona State Sun Devils +3** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Arizona State Sun Devils cubre +3 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Arizona State Sun Devils ❌✅❌✅✅ | Oklahoma State Cowboys ❌✅❌✅❌  
-• H2H: 3 desde 2022: 1-2  
-• Bajas: Arizona State Sun Devils: sin bajas; Oklahoma State Cowboys: sin bajas  
-
-## Arizona State Sun Devils vs Oklahoma State Cowboys — 22/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Gana Arizona State Sun Devils** @ **2.30** (DraftKings) · prob 42% vs casas 42% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.588 partidos y bajas)  
-Gana Arizona State Sun Devils 71% · Gana Oklahoma State Cowboys 29%  
-Casas: Arizona State Sun Devils 42% · Oklahoma State Cowboys 58%  
-Hándicap OKST -3 · Total puntos 61.5  
-🔎 **Claves**  
-• Forma: Arizona State Sun Devils ❌✅❌✅✅ | Oklahoma State Cowboys ❌✅❌✅❌  
-• H2H: 3 desde 2022: 1-2  
-• Bajas: Arizona State Sun Devils: sin bajas; Oklahoma State Cowboys: sin bajas  
-• Favorito de las casas: Oklahoma State Cowboys @ 1.65  
+Actualizado 22/11/2026 04:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oregon State Beavers vs Utah State Aggies — 22/11 · 04:30
 

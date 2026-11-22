@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 22/11/2026 03:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Tigres UANL vs Club America — 22/11 · 04:00
-
-👀 candidata · 🇲🇽 Liga MX · **Empate** @ **3.80** (Bet365) · prob 26% vs casas 26% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.52 - 1.32)  
-1 36% · X 28% · 2 36%  
-1X 64% · X2 64% · 12 72%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Tigres UANL ➖❌➖❌❌ | Club America ✅❌➖➖➖  
-• H2H: 40 desde 2012: 12V-11E-17D · 2.5 goles/partido · +2.5 en 45%  
-• Bajas: Tigres UANL: 1 fuera, 1 duda (Marcelo Flores); Club America: 0 fuera, 1 duda  
-• Favorito de las casas: Club America @ 2.08  
+Actualizado 22/11/2026 04:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Erzurumspor vs Goztep — 22/11 · 11:30
 
