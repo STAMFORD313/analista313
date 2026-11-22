@@ -141,8 +141,8 @@ id,date,event,home,away,hs,as,res
 401866468,2026-11-21T00:30Z,Bowling Green Falcons at Toledo Rockets,Toledo Rockets,Bowling Green Falcons,19,0,1.0
 401864545,2026-11-21T01:00Z,UTEP Miners at Air Force Falcons,Air Force Falcons,UTEP Miners,52,3,1.0
 401864542,2026-11-21T02:00Z,New Mexico Lobos at Wyoming Cowboys,Wyoming Cowboys,New Mexico Lobos,17,24,0.0
-401869958,2026-11-21T21:00Z,Georgia State Panthers at Marshall Thundering Herd,Marshall Thundering Herd,Georgia State Panthers,28,27,1.0
 401856746,2026-11-21T19:00Z,Chattanooga Mocs at Alabama Crimson Tide,Alabama Crimson Tide,Chattanooga Mocs,47,0,1.0
+401858528,2026-11-21T20:30Z,UCLA Bruins at Michigan Wolverines,Michigan Wolverines,UCLA Bruins,18,16,1.0
 401856755,2026-11-21T20:30Z,Arkansas Razorbacks at Texas Longhorns,Texas Longhorns,Arkansas Razorbacks,45,3,1.0
 401858535,2026-11-21T20:30Z,Indiana Hoosiers at Washington Huskies,Washington Huskies,Indiana Hoosiers,27,24,1.0
 401856866,2026-11-21T17:00Z,BYU Cougars at Kansas Jayhawks,Kansas Jayhawks,BYU Cougars,29,31,0.0
@@ -175,4 +175,7 @@ id,date,event,home,away,hs,as,res
 401858304,2026-11-21T20:30Z,NC State Wolfpack at Florida State Seminoles,Florida State Seminoles,NC State Wolfpack,10,28,0.0
 401858532,2026-11-21T20:30Z,Rutgers Scarlet Knights at Penn State Nittany Lions,Penn State Nittany Lions,Rutgers Scarlet Knights,24,25,0.0
 401861968,2026-11-21T20:30Z,Old Dominion Monarchs at UConn Huskies,UConn Huskies,Old Dominion Monarchs,29,21,1.0
+401864543,2026-11-21T21:00Z,Northern Illinois Huskies at North Dakota State Bison,North Dakota State Bison,Northern Illinois Huskies,31,25,1.0
 401869953,2026-11-21T21:00Z,Georgia Southern Eagles at Troy Trojans,Troy Trojans,Georgia Southern Eagles,7,45,0.0
+401869958,2026-11-21T21:00Z,Georgia State Panthers at Marshall Thundering Herd,Marshall Thundering Herd,Georgia State Panthers,28,27,1.0
+401871101,2026-11-21T21:00Z,South Alabama Jaguars at Southern Miss Golden Eagles,Southern Miss Golden Eagles,South Alabama Jaguars,35,40,0.0

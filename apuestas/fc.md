@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 01:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ssstasonn vs Simaponika — 22/11 · 02:39
 
@@ -74,6 +74,42 @@ Hándicap Nightxx: −1.5 71% · −2.5 58%
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## kkikus vs Nightxx — 22/11 · 03:03
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.644 partidos)  
+Goles esperados: kkikus 2.27 · Nightxx 4.05  
+Ganador: kkikus 13% · empate 14% · Nightxx 72%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap Nightxx: −1.5 54% · −2.5 38%  
+🔎 **Claves**  
+• Forma: kkikus ✅❌❌❌✅ | Nightxx ✅❌✅✅✅  
+• Partidos: kkikus 1176 | Nightxx 1088  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Skif vs kirman — 22/11 · 03:04
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **1.42** (cuota justa (sin casa)) · prob 70% vs casas 70% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.644 partidos)  
+Goles esperados: Skif 2.53 · kirman 4.11  
+Ganador: Skif 16% · empate 14% · kirman 70%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap kirman: −1.5 51% · −2.5 35%  
+🔎 **Claves**  
+• Forma: Skif ❌✅❌✅➖ | kirman ✅✅❌➖❌  
+• Partidos: Skif 776 | kirman 812  
+• Liga: Champions League A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
 ## fantazer vs Uruchi — 22/11 · 03:25
 
 👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.31** (cuota justa (sin casa)) · prob 76% vs casas 76% · ventaja +0%
@@ -108,5 +144,23 @@ Hándicap zaha: −1.5 66% · −2.5 53%
 • Forma: k0mych ❌❌❌❌❌ | zaha ✅✅❌✅✅  
 • Partidos: k0mych 437 | zaha 431  
 • Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Yerema vs fantazer — 22/11 · 03:34
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.28** (cuota justa (sin casa)) · prob 78% vs casas 78% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 76.644 partidos)  
+Goles esperados: Yerema 2.08 · fantazer 4.04  
+Ganador: Yerema 12% · empate 10% · fantazer 78%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap fantazer: −1.5 57% · −2.5 40%  
+🔎 **Claves**  
+• Forma: Yerema ❌➖❌✅➖ | fantazer ✅✅✅➖➖  
+• Partidos: Yerema 812 | fantazer 1940  
+• Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
