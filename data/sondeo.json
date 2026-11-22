@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-22 02:42",
+ "fecha": "2026-11-22 15:03",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "puckchamp-vs-power-rangers-dota2-22-11-2026",
-     "European Pro League Season 41"
-    ],
-    [
      "team-synapse-vs-interactive-philippines-23-11-2026",
      "European Pro League Season 41"
     ],
     [
      "potn9ki-vs-team-synapse-23-11-2026",
+     "European Pro League Season 41"
+    ],
+    [
+     "puckchamp-vs-interactive-philippines-23-11-2026",
      "European Pro League Season 41"
     ]
    ]
@@ -123,11 +123,10 @@
   "Esports / CS2 / PGL Major": 8,
   "Esports / CS2 / ROG Journey": 7,
   "Esports / Dota 2 / BLAST Slam": 6,
-  "Esports / CS2 / NODWIN Clutch Series": 3,
-  "Esports / CS2 / CROSSFIRE": 2,
-  "Esports / Overwatch 2 / OWCS Asia": 2,
-  "Esports / CS2 / European Pro League": 1,
-  "Esports / CS2 / MČR": 1,
-  "Esports / CS2 / CCT European Series 15": 1
+  "Esports / CS2 / CCT European Series 14": 1,
+  "Esports / CS2 / RUSH:Brno": 1,
+  "Esports / CS2 / CCT European Series 15": 1,
+  "Esports / CS2 / NODWIN Clutch Series": 1,
+  "Esports / CS2 / CROSSFIRE": 1
  }
 }
