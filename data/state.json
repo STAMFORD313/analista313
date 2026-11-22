@@ -1193,10 +1193,6 @@
   "wta|2026-11-22|Leyre Romero Gormaz|Rebeka Masarova",
   "cbb|2026-11-23|East Carolina Pirates|Indiana State Sycamores",
   "cbb|2026-11-23|Southern Illinois Salukis|Middle Tennessee Blue Raiders",
-  "cs2|134511",
-  "cs2|134512",
-  "cs2|134513",
-  "fc|2384619",
   "fc|2384620",
   "fc|2384785",
   "fc|2385437",
@@ -2196,7 +2192,10 @@
   "cs2|134780",
   "fc|2392568",
   "fc|2392578",
-  "fc|2392576"
+  "fc|2392576",
+  "fc|2393142",
+  "fc|2393066",
+  "fc|2393143"
  ],
  "signals": [
   {
@@ -6518,7 +6517,9 @@
    "version": "08c301e",
    "bajas": "Arizona State Sun Devils: sin bajas; Oklahoma State Cowboys: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "27-30"
   },
   {
    "market": "home",
@@ -6538,7 +6539,11 @@
    "version": "08c301e",
    "bajas": "Arizona State Sun Devils: sin bajas; Oklahoma State Cowboys: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "27-30",
+   "close_p": 0.4061,
+   "logged": true
   },
   {
    "market": "sph",
@@ -47724,7 +47729,11 @@
     "confianza": null,
     "modelo": null
    },
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": 0.4619,
+   "logged": true
   },
   {
    "market": "t1",
@@ -47971,7 +47980,11 @@
    "version": "f3c1fda",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": 0.4912,
+   "logged": true
   },
   {
    "market": "H",
@@ -48500,19 +48513,6 @@
    "start": "2026-11-22T07:34:00+00:00",
    "league": "🎮⚽ FC 27 · Volta FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 76.941 partidos)",
-    "Goles esperados: Fireline 2.37 · Kril 4.30",
-    "Ganador: Fireline 13% · empate 11% · Kril 75%",
-    "Total: más de 6.5 goles 50% · menos 50%",
-    "Hándicap Kril: −1.5 56% · −2.5 40%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Fireline ➖✅❌➖✅ | Kril ➖✅✅➖✅",
-    "• Partidos: Fireline 338 | Kril 979",
-    "• Liga: Volta FA Cup",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle Fireline vs Kril (Volta FA Cup): goles esperados 2.37-4.30, 1X2 13%/11%/75%. Sin cuotas de casa.",
    "captured": "2026-11-22T07:15",
    "version": "aeed46e",
@@ -48582,6 +48582,41 @@
    "context": "EA FC Esoccer Battle Fireline vs alosdvxl (Volta World Cup B): goles esperados 3.11-4.89, 1X2 18%/11%/71%. Sin cuotas de casa.",
    "captured": "2026-11-22T07:15",
    "version": "aeed46e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "RuBIX",
+   "odds": 2.35,
+   "book": "Unibet",
+   "implied": 0.369,
+   "edge": 0.171,
+   "sin_stake": true,
+   "p": 0.498,
+   "key": "fc|2393142",
+   "match": "RuBIX vs A1ose",
+   "start": "2026-11-22T07:36:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 76.960 partidos)",
+    "Goles esperados: RuBIX 3.57 · A1ose 3.05",
+    "Ganador: RuBIX 50% · empate 19% · A1ose 31%",
+    "Total: más de 6.5 goles 49% · menos 51%",
+    "Hándicap RuBIX: −1.5 35% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: RuBIX ➖❌❌✅✅ | A1ose ❌➖✅❌➖",
+    "• Partidos: RuBIX 357 | A1ose 1147",
+    "• Liga: Europa League",
+    "• Unibet: 1 2.35 · X 3.65 · 2 2.20 (sin margen 37%/24%/39%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.35 (+17%) · Paf España 2.35 (+17%)"
+   ],
+   "context": "EA FC Esoccer Battle RuBIX vs A1ose (Europa League): goles esperados 3.57-3.05, 1X2 50%/19%/31%. Sin cuotas de casa.",
+   "captured": "2026-11-22T07:35",
+   "version": "a004bf2",
    "bajas": "",
    "considered": true,
    "placed": false

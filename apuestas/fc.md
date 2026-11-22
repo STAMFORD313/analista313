@@ -1,24 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 08:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 08:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Fireline vs Kril — 22/11 · 08:34
+## RuBIX vs A1ose — 22/11 · 08:36
 
-👀 candidata · 🎮⚽ FC 27 · Volta FA Cup · **Gana Kril** @ **1.33** (cuota justa (sin casa)) · prob 75% vs casas 75% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana RuBIX** @ **2.35** (Unibet) · prob 50% vs casas 37% · ventaja +17%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.941 partidos)  
-Goles esperados: Fireline 2.37 · Kril 4.30  
-Ganador: Fireline 13% · empate 11% · Kril 75%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Kril: −1.5 56% · −2.5 40%  
+📊 **Escenarios** (Poisson por jugador, 76.960 partidos)  
+Goles esperados: RuBIX 3.57 · A1ose 3.05  
+Ganador: RuBIX 50% · empate 19% · A1ose 31%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap RuBIX: −1.5 35% · −2.5 22%  
 🔎 **Claves**  
-• Forma: Fireline ➖✅❌➖✅ | Kril ➖✅✅➖✅  
-• Partidos: Fireline 338 | Kril 979  
-• Liga: Volta FA Cup  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: RuBIX ➖❌❌✅✅ | A1ose ❌➖✅❌➖  
+• Partidos: RuBIX 357 | A1ose 1147  
+• Liga: Europa League  
+• Unibet: 1 2.35 · X 3.65 · 2 2.20 (sin margen 37%/24%/39%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+17%) · Paf España 2.35 (+17%)  
 
 ## Fireline vs alosdvxl — 22/11 · 09:30
 
