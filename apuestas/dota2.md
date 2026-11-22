@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 22/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 19:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Zero Tenacity vs Inner Circle x Insanity — 22/11 · 20:00
 
