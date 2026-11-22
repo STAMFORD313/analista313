@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 22/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 01:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## South Carolina Gamecocks vs Georgia Bulldogs — 22/11 · 01:30
 

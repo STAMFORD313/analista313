@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 22/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 01:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FORZE Reload vs WBT — 22/11 · 10:00
 
