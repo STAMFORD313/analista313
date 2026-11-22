@@ -1,59 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 22/11/2026 09:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 22/11/2026 09:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## flamez vs why — 22/11 · 09:20
+## Hyper vs Ganger_29 — 22/11 · 09:52
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **3.85** (Unibet) · prob 30% vs casas 22% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Hyper** @ **2.63** (Unibet) · prob 48% vs casas 33% · ventaja +27%
+
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 77.020 partidos)  
+Goles esperados: Hyper 3.45 · Ganger_29 3.08  
+Ganador: Hyper 48% · empate 18% · Ganger_29 34%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Hyper: −1.5 32% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Hyper ➖❌✅❌❌ | Ganger_29 ❌❌❌➖✅  
+• Partidos: Hyper 715 | Ganger_29 1061  
+• Liga: Ligue 1  
+• Unibet: 1 2.63 · X 3.35 · 2 2.12 (sin margen 33%/26%/41%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+27%) · Paf España 2.63 (+27%)  
+
+## Bomb1to vs LaikingDast — 22/11 · 09:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.35** (Unibet) · prob 52% vs casas 37% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 77.020 partidos)  
+Goles esperados: Bomb1to 3.14 · LaikingDast 2.51  
+Ganador: Bomb1to 52% · empate 21% · LaikingDast 27%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Bomb1to: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅➖➖➖❌ | LaikingDast ❌❌➖✅❌  
+• Partidos: Bomb1to 1459 | LaikingDast 556  
+• Liga: Serie A  
+• Unibet: 1 2.35 · X 2.48 · 2 3.05 (sin margen 37%/35%/28%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+22%) · Paf España 2.35 (+22%)  
+
+## Ganger_29 vs Lumix — 22/11 · 10:04
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Lumix** @ **2.12** (Unibet) · prob 54% vs casas 41% · ventaja +15%
 
 - ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 76.995 partidos)  
-Goles esperados: flamez 4.42 · why 3.57  
-Ganador: flamez 54% · empate 16% · why 30%  
-Total: más de 7.5 goles 54% · menos 46%  
-Hándicap flamez: −1.5 40% · −2.5 27%  
+📊 **Escenarios** (Poisson por jugador, 77.020 partidos)  
+Goles esperados: Ganger_29 2.40 · Lumix 3.06  
+Ganador: Ganger_29 26% · empate 19% · Lumix 54%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Lumix: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: flamez ❌❌✅❌➖ | why ➖✅❌➖➖  
-• Partidos: flamez 924 | why 755  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.47 · X 4.70 · 2 3.85 (sin margen 59%/18%/23%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+15%) · Paf España 3.85 (+15%)  
-
-## Fireline vs alosdvxl — 22/11 · 09:30
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana alosdvxl** @ **1.42** (cuota justa (sin casa)) · prob 71% vs casas 71% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.941 partidos)  
-Goles esperados: Fireline 3.11 · alosdvxl 4.89  
-Ganador: Fireline 18% · empate 11% · alosdvxl 71%  
-Total: más de 8.5 goles 41% · menos 59%  
-Hándicap alosdvxl: −1.5 53% · −2.5 39%  
-🔎 **Claves**  
-• Forma: Fireline ➖✅❌➖✅ | alosdvxl ✅❌✅✅➖  
-• Partidos: Fireline 338 | alosdvxl 1700  
-• Liga: Volta World Cup B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Kril vs Fireline — 22/11 · 09:39
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.35** (cuota justa (sin casa)) · prob 74% vs casas 74% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 76.941 partidos)  
-Goles esperados: Kril 4.24 · Fireline 2.33  
-Ganador: Kril 74% · empate 12% · Fireline 14%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Kril: −1.5 56% · −2.5 40%  
-🔎 **Claves**  
-• Forma: Kril ➖✅✅➖✅ | Fireline ➖✅❌➖✅  
-• Partidos: Kril 979 | Fireline 338  
-• Liga: Volta World Cup B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: Ganger_29 ❌❌❌➖✅ | Lumix ➖➖➖➖✅  
+• Partidos: Ganger_29 1061 | Lumix 1219  
+• Liga: Ligue 1  
+• Unibet: 1 2.85 · X 3.05 · 2 2.12 (sin margen 30%/28%/41%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+15%) · Paf España 2.12 (+15%)  
 
