@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 16:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SINQU vs ROUNDS — 23/11 · 16:30
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana SINQU** @ **1.88** (Thunderpick) · prob 52% vs casas 49% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.170 partidos)  
-Mapa: SINQU 54% · Serie BO3: SINQU 56% - 44% ROUNDS  
-Casas: SINQU 49% · ROUNDS 51%  
-🔎 **Claves**  
-• Elo: SINQU 1430 (80 series) | ROUNDS 1391 (192 series)  
-• Forma: SINQU ✅✅❌❌❌ | ROUNDS ✅✅❌❌❌  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• SINQU gana 2-1: 23% → cuota justa 4.26  
-• ROUNDS gana 2-1: 20% → cuota justa 4.95  
+Actualizado 23/11/2026 16:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HEROIC vs Imperial — 24/11 · 05:00
 

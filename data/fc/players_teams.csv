@@ -78545,23 +78545,83 @@ id,tournament_id,club1,club2,ht1,ht2
 2395534,262951,Spain,Argentina,,
 2395536,262951,Argentina,France,,
 2395538,262951,Spain,England,,
-2394580,262935,PSV,Ajax,0,0
-2394581,262935,Feyenoord,Twente,3,3
-2394582,262935,Twente,PSV,1,2
-2394583,262935,Ajax,AZ Alkmaar,0,3
-2394584,262935,AZ Alkmaar,Twente,3,1
-2394585,262935,PSV,Feyenoord,2,2
-2394586,262935,Feyenoord,AZ Alkmaar,1,2
-2394587,262935,Twente,Ajax,3,0
-2394588,262935,Ajax,Feyenoord,1,0
-2394589,262935,AZ Alkmaar,PSV,0,0
-2394590,262935,Ajax,PSV,1,0
-2394591,262935,Twente,Feyenoord,2,1
-2394592,262935,PSV,Twente,1,3
-2394593,262935,AZ Alkmaar,Ajax,1,2
+2394580,262935,PSV,Ajax,0.0,0.0
+2394581,262935,Feyenoord,Twente,3.0,3.0
+2394582,262935,Twente,PSV,1.0,2.0
+2394583,262935,Ajax,AZ Alkmaar,0.0,3.0
+2394584,262935,AZ Alkmaar,Twente,3.0,1.0
+2394585,262935,PSV,Feyenoord,2.0,2.0
+2394586,262935,Feyenoord,AZ Alkmaar,1.0,2.0
+2394587,262935,Twente,Ajax,3.0,0.0
+2394588,262935,Ajax,Feyenoord,1.0,0.0
+2394589,262935,AZ Alkmaar,PSV,0.0,0.0
+2394590,262935,Ajax,PSV,1.0,0.0
+2394591,262935,Twente,Feyenoord,2.0,1.0
+2394592,262935,PSV,Twente,1.0,3.0
+2394593,262935,AZ Alkmaar,Ajax,1.0,2.0
 2394594,262935,Twente,AZ Alkmaar,,
 2394595,262935,Feyenoord,PSV,,
 2394596,262935,AZ Alkmaar,Feyenoord,,
 2394597,262935,Ajax,Twente,,
 2394598,262935,Feyenoord,Ajax,,
 2394599,262935,PSV,AZ Alkmaar,,
+2395036,262902,Salzburg,Porto,2,0
+2395037,262902,Roma,Aston Villa,1,2
+2395038,262902,Aston Villa,Salzburg,2,3
+2395039,262902,Porto,Fenerbahce,0,1
+2395040,262902,Fenerbahce,Aston Villa,3,2
+2395041,262902,Salzburg,Roma,6,2
+2395042,262902,Roma,Fenerbahce,0,0
+2395043,262902,Aston Villa,Porto,0,1
+2395044,262902,Porto,Roma,1,2
+2395045,262902,Fenerbahce,Salzburg,1,1
+2395046,262902,Porto,Salzburg,1,1
+2395047,262902,Aston Villa,Roma,0,0
+2395048,262902,Salzburg,Aston Villa,,
+2395049,262902,Fenerbahce,Porto,,
+2395050,262902,Aston Villa,Fenerbahce,,
+2395051,262902,Roma,Salzburg,,
+2395052,262902,Fenerbahce,Roma,,
+2395053,262902,Porto,Aston Villa,,
+2395054,262902,Roma,Porto,,
+2395055,262902,Salzburg,Fenerbahce,,
+2396185,262910,Juventus,Sporting CP,2,1
+2396186,262910,Man City,B Dortmund,1,2
+2396187,262910,B Dortmund,Juventus,2,0
+2396188,262910,Sporting CP,Arsenal,2,3
+2396189,262910,Arsenal,B Dortmund,2,0
+2396190,262910,Juventus,Man City,0,3
+2396191,262910,Man City,Arsenal,1,0
+2396192,262910,B Dortmund,Sporting CP,3,3
+2396193,262910,Sporting CP,Man City,1,2
+2396194,262910,Arsenal,Juventus,1,2
+2396195,262910,Sporting CP,Juventus,,
+2396196,262910,B Dortmund,Man City,,
+2396197,262910,Juventus,B Dortmund,,
+2396198,262910,Arsenal,Sporting CP,,
+2396199,262910,B Dortmund,Arsenal,,
+2396200,262910,Man City,Juventus,,
+2396201,262910,Arsenal,Man City,,
+2396202,262910,Sporting CP,B Dortmund,,
+2396203,262910,Man City,Sporting CP,,
+2396204,262910,Juventus,Arsenal,,
+2395846,262939,Sassuolo,Juventus,0,1
+2395847,262939,Roma,Bologna,2,1
+2395848,262939,Bologna,Sassuolo,1,1
+2395849,262939,Juventus,Napoli,0,4
+2395850,262939,Napoli,Bologna,3,2
+2395851,262939,Sassuolo,Roma,1,3
+2395852,262939,Roma,Napoli,2,2
+2395853,262939,Bologna,Juventus,0,0
+2395854,262939,Juventus,Roma,1,2
+2395325,262939,Napoli,Sassuolo,1,1
+2395855,262939,Juventus,Sassuolo,1,0
+2395856,262939,Bologna,Roma,0,1
+2395857,262939,Sassuolo,Bologna,0,1
+2395858,262939,Napoli,Juventus,0,2
+2395859,262939,Bologna,Napoli,,
+2395860,262939,Roma,Sassuolo,,
+2395861,262939,Napoli,Roma,,
+2395862,262939,Juventus,Bologna,,
+2395863,262939,Roma,Juventus,,
+2395335,262939,Sassuolo,Napoli,,
