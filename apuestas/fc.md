@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 13:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 14:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Smetana vs Loka — 23/11 · 13:54
+## Uncle vs Bomb1to — 23/11 · 14:37
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.95** (Unibet) · prob 64% vs casas 45% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Bomb1to** @ **2.60** (Unibet) · prob 44% vs casas 33% · ventaja +14%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.364 partidos)  
-Goles esperados: Smetana 3.36 · Loka 4.37  
-Ganador: Smetana 23% · empate 13% · Loka 64%  
-Total: más de 7.5 goles 51% · menos 49%  
-Hándicap Loka: −1.5 42% · −2.5 29%  
-🔎 **Claves**  
-• Forma: Smetana ❌❌❌✅✅ | Loka ❌❌❌❌➖  
-• Partidos: Smetana 1443 | Loka 1460  
-• Liga: CSL  
-• Unibet: 1 2.30 · X 5.10 · 2 1.95 (sin margen 38%/17%/45%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.95 (+24%) · Paf España 1.95 (+24%)  
-
-## berg vs kamito — 23/11 · 13:54
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana kamito** @ **2.85** (Unibet) · prob 38% vs casas 31% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.392 partidos)  
-Goles esperados: berg 4.47 · kamito 3.74  
-Ganador: berg 48% · empate 14% · kamito 38%  
-Total: más de 8.5 goles 44% · menos 56%  
-Hándicap berg: −1.5 39% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 78.420 partidos)  
+Goles esperados: Uncle 2.57 · Bomb1to 2.77  
+Ganador: Uncle 34% · empate 22% · Bomb1to 44%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap Bomb1to: −1.5 28% · −2.5 15%  
 🔎 **Claves**  
-• Forma: berg ❌✅❌❌❌ | kamito ✅✅❌❌❌  
-• Partidos: berg 1176 | kamito 717  
-• Liga: CSL  
-• Unibet: 1 1.57 · X 6.25 · 2 2.85 (sin margen 55%/14%/31%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+9%) · Paf España 2.85 (+9%)  
+• Forma: Uncle ✅❌➖➖➖ | Bomb1to ❌➖➖➖❌  
+• Partidos: Uncle 860 | Bomb1to 1507  
+• Liga: Champions League B  
+• Unibet: 1 2.75 · X 2.48 · 2 2.60 (sin margen 32%/35%/33%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+14%) · Paf España 2.60 (+14%)  
+
+## dor1an vs cl1vlind — 23/11 · 14:40
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana cl1vlind** @ **2.12** (Unibet) · prob 52% vs casas 41% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.420 partidos)  
+Goles esperados: dor1an 2.55 · cl1vlind 2.97  
+Ganador: dor1an 29% · empate 19% · cl1vlind 52%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap cl1vlind: −1.5 32% · −2.5 18%  
+🔎 **Claves**  
+• Forma: dor1an ➖❌✅❌❌ | cl1vlind ✅✅✅❌❌  
+• Partidos: dor1an 410 | cl1vlind 859  
+• Liga: LaLiga  
+• Unibet: 1 2.63 · X 3.30 · 2 2.12 (sin margen 33%/26%/41%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+11%) · Paf España 2.12 (+11%)  
+
+## cl1vlind vs v1nn — 23/11 · 14:52
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana v1nn** @ **2.12** (Unibet) · prob 55% vs casas 41% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.420 partidos)  
+Goles esperados: cl1vlind 2.99 · v1nn 3.74  
+Ganador: cl1vlind 29% · empate 17% · v1nn 54%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap v1nn: −1.5 38% · −2.5 24%  
+🔎 **Claves**  
+• Forma: cl1vlind ✅✅✅❌❌ | v1nn ❌✅✅✅✅  
+• Partidos: cl1vlind 859 | v1nn 854  
+• Liga: LaLiga  
+• Unibet: 1 2.23 · X 4.40 · 2 2.12 (sin margen 39%/20%/41%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+15%) · Paf España 2.12 (+15%)  
 
