@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 06:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 06:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Frantsuz vs TikitakaMaster — 23/11 · 06:18
+## kamito vs Loka — 23/11 · 06:50
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana Frantsuz** @ **3.45** (Unibet) · prob 32% vs casas 26% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · MLS · **Gana Loka** @ **1.35** (Unibet) · prob 82% vs casas 64% · ventaja +11%
 
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.030 partidos)  
+Goles esperados: kamito 2.50 · Loka 4.88  
+Ganador: kamito 10% · empate 8% · Loka 82%  
+Total: más de 7.5 goles 46% · menos 54%  
+Hándicap Loka: −1.5 62% · −2.5 47%  
+🔎 **Claves**  
+• Forma: kamito ❌❌❌❌❌ | Loka ✅✅✅✅✅  
+• Partidos: kamito 692 | Loka 1436  
+• Liga: MLS  
+• Unibet: 1 4.35 · X 5.50 · 2 1.35 (sin margen 20%/16%/64%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.35 (+11%) · Paf España 1.35 (+11%)  
+
+## A1ose vs v1nn — 23/11 · 07:00
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana A1ose** @ **3.05** (Unibet) · prob 35% vs casas 28% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.989 partidos)  
-Goles esperados: Frantsuz 3.84 · TikitakaMaster 4.50  
-Ganador: Frantsuz 32% · empate 15% · TikitakaMaster 52%  
-Total: más de 8.5 goles 45% · menos 55%  
-Hándicap TikitakaMaster: −1.5 38% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 78.030 partidos)  
+Goles esperados: A1ose 3.51 · v1nn 3.85  
+Ganador: A1ose 35% · empate 18% · v1nn 46%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap v1nn: −1.5 33% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Frantsuz ✅✅❌✅✅ | TikitakaMaster ✅❌✅✅❌  
-• Partidos: Frantsuz 781 | TikitakaMaster 833  
-• Liga: Premier League 2x6  
-• Unibet: 1 3.45 · X 5.30 · 2 1.52 (sin margen 26%/17%/58%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.45 (+11%) · Paf España 3.45 (+11%)  
+• Forma: A1ose ✅❌➖✅❌ | v1nn ✅✅❌❌❌  
+• Partidos: A1ose 1174 | v1nn 827  
+• Liga: Europa League  
+• Unibet: 1 3.05 · X 3.15 · 2 1.97 (sin margen 28%/28%/44%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+8%) · Paf España 3.05 (+8%)  
 
-## zoyir vs imagin — 23/11 · 06:18
+## cl1vlind vs dor1an — 23/11 · 07:00
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Empate** @ **7.50** (Unibet) · prob 14% vs casas 12% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana cl1vlind** @ **2.06** (Unibet) · prob 51% vs casas 42% · ventaja +5%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.011 partidos)  
-Goles esperados: zoyir 4.62 · imagin 3.44  
-Ganador: zoyir 65% · empate 14% · imagin 21%  
-Total: más de 8.5 goles 42% · menos 58%  
-Hándicap zoyir: −1.5 45% · −2.5 32%  
-🔎 **Claves**  
-• Forma: zoyir ✅❌✅❌✅ | imagin ❌❌✅❌❌  
-• Partidos: zoyir 691 | imagin 399  
-• Liga: Premier League 2x6  
-• Unibet: 1 1.28 · X 7.50 · 2 4.20 (sin margen 68%/12%/21%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.50 (+6%) · Paf España 7.50 (+6%)  
-
-## TikitakaMaster vs zoyir — 23/11 · 06:36
-
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **2.70** (Unibet) · prob 41% vs casas 32% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.011 partidos)  
-Goles esperados: TikitakaMaster 3.62 · zoyir 3.41  
-Ganador: TikitakaMaster 42% · empate 18% · zoyir 41%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap TikitakaMaster: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 78.030 partidos)  
+Goles esperados: cl1vlind 3.18 · dor1an 2.61  
+Ganador: cl1vlind 51% · empate 20% · dor1an 28%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap cl1vlind: −1.5 34% · −2.5 20%  
 🔎 **Claves**  
-• Forma: TikitakaMaster ✅❌✅✅❌ | zoyir ✅❌✅❌✅  
-• Partidos: TikitakaMaster 833 | zoyir 691  
-• Liga: Premier League 2x6  
-• Unibet: 1 1.72 · X 5.20 · 2 2.70 (sin margen 51%/17%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+10%) · Paf España 2.70 (+10%)  
+• Forma: cl1vlind ✅➖✅➖❌ | dor1an ❌➖❌✅✅  
+• Partidos: cl1vlind 832 | dor1an 384  
+• Liga: Europa League  
+• Unibet: 1 2.06 · X 3.15 · 2 2.85 (sin margen 42%/28%/30%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.06 (+5%) · Paf España 2.06 (+5%)  
 
