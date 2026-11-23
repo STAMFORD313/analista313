@@ -3966,14 +3966,17 @@
     "away": "Edmonton Oilers",
     "txt": "Gana Edmonton Oilers",
     "odds": 2.05,
-    "p": 0.50318
+    "p": 0.50318,
+    "ok": false,
+    "por": "ganó St. Louis Blues 5-4",
+    "clv": -0.02
    }
   ],
   "odds": 5.33,
   "p": 0.211436236,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
