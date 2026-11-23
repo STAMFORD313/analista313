@@ -35041,3 +35041,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192960,133416,butterfly-vs-team-aces-22-11-2026,2026-11-22T17:45:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25564,24855,Aces,Butterfly,1,de_dust2,25564,13.0,1.0
 193435,133879,phantom-esports-vs-betclic-apogee-esports-23-11-2026,2026-11-23T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,11101,19204,Betclic,Phantom,2,de_nuke,19204,13.0,9.0
 193436,133879,phantom-esports-vs-betclic-apogee-esports-23-11-2026,2026-11-23T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,11101,19204,Betclic,Phantom,1,de_ancient,11101,13.0,11.0
+193432,133878,virtus-pro-vs-iberian-soul-23-11-2026,2026-11-23T12:30:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19100,720,Iberian Soul,Virtus.pro,2,de_mirage,720,13.0,6.0
+193433,133878,virtus-pro-vs-iberian-soul-23-11-2026,2026-11-23T12:30:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19100,720,Iberian Soul,Virtus.pro,1,de_ancient,720,16.0,14.0
