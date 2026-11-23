@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 01:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Instituto vs Huracan — 23/11 · 02:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Instituto** @ **2.02** (Bet365) · prob 46% vs casas 46% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.08 - 0.91)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 40%  
-Marcadores: 0-0 14% · 1-0 14% · 1-1 14% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Instituto ➖✅✅➖➖ | Huracan ❌❌❌❌✅  
-• H2H: 4 desde 2023: 2V-1E-1D · 1.8 goles/partido · +2.5 en 25%  
-• Bajas: Instituto: sin bajas; Huracan: sin bajas  
-• Favorito de las casas: Instituto @ 2.02  
-
-## Queretaro vs Necaxa — 23/11 · 02:10
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Queretaro** @ **2.02** (Bet365) · prob 48% vs casas 48% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.28)  
-1 47% · X 26% · 2 27%  
-1X 73% · X2 53% · 12 74%  
-+1.5 76% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Queretaro ❌❌❌❌❌ | Necaxa ❌❌➖❌✅  
-• H2H: 23 desde 2016: 6V-6E-11D · 2.3 goles/partido · +2.5 en 43%  
-• Bajas: Queretaro: sin bajas; Necaxa: sin bajas  
-• Favorito de las casas: Queretaro @ 2.02  
+Actualizado 23/11/2026 02:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vancouver Whitecaps vs Real Salt Lake — 23/11 · 02:30
 
