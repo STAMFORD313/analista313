@@ -1181,9 +1181,6 @@
   "wta|2026-11-25|Sol Ailin Larraya Guidi|Maria Lourdes Carle",
   "cbb|2026-11-23|Arkansas State Red Wolves|Southern Utah Thunderbirds",
   "wta|2026-11-25|Ipek Oz|Julia Riera",
-  "cs2|133406",
-  "cs2|133944",
-  "fc|2386488",
   "fc|2385778",
   "fc|2386489",
   "fc|2385781",
@@ -41318,7 +41315,11 @@
    "version": "5cf04f0",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -41675,7 +41676,11 @@
    "version": "84e5f13",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -41691,26 +41696,16 @@
    "start": "2026-11-23T21:46:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 78.870 partidos)",
-    "Goles esperados: OG 2.01 · hotShot 2.39",
-    "Ganador: OG 29% · empate 25% · hotShot 47%",
-    "Total: más de 4.5 goles 45% · menos 55%",
-    "Hándicap hotShot: −1.5 29% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: OG ➖➖➖❌❌ | hotShot ❌❌➖✅➖",
-    "• Partidos: OG 713 | hotShot 709",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 4.00 · X 2.55 · 2 1.98 (sin margen 22%/34%/44%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 4.00 (+14%) · Paf España 4.00 (+14%)"
-   ],
    "context": "EA FC Esoccer Battle OG vs hotShot (Portugal Primera): goles esperados 2.01-2.39, 1X2 29%/25%/47%. Sin cuotas de casa.",
    "captured": "2026-11-23T21:38",
    "version": "0e5b206",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -41726,20 +41721,6 @@
    "start": "2026-11-23T21:58:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 78.870 partidos)",
-    "Goles esperados: hotShot 1.85 · Inquisitor 2.20",
-    "Ganador: hotShot 29% · empate 26% · Inquisitor 45%",
-    "Total: más de 4.5 goles 38% · menos 62%",
-    "Hándicap Inquisitor: −1.5 27% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hotShot ❌❌➖✅➖ | Inquisitor ❌❌✅✅❌",
-    "• Partidos: hotShot 709 | Inquisitor 744",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 2.65 · X 2.80 · 2 2.38 (sin margen 33%/31%/36%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.38 (+8%) · Paf España 2.38 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle hotShot vs Inquisitor (Portugal Primera): goles esperados 1.85-2.20, 1X2 29%/26%/45%. Sin cuotas de casa.",
    "captured": "2026-11-23T21:38",
    "version": "0e5b206",
