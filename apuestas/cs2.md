@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 09:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 10:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs ROUNDS — 23/11 · 16:30
 
@@ -285,4 +285,24 @@ Casas: HAVU 75% · KUUSAMO 25%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • HAVU gana 2-1: 25% → cuota justa 4.05  
 • KUUSAMO gana 2-1: 13% → cuota justa 7.74  
+
+## MEIA NOITE vs RED Canids Academy — 24/11 · 22:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana RED Canids Academy** @ **1.70** (Thunderpick) · prob 55% vs casas 54% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.201 partidos)  
+Mapa: MEIA NOITE 46% · Serie BO3: MEIA NOITE 44% - 56% RED Canids Academy  
+Casas: MEIA NOITE 46% · RED Canids Academy 54%  
+🔎 **Claves**  
+• Elo: MEIA NOITE 1553 (51 series) | RED Canids Academy 1598 (139 series)  
+• Forma: MEIA NOITE ✅✅✅❌❌ | RED Canids Academy ❌✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• MEIA NOITE gana 2-1: 20% → cuota justa 5.01  
+• RED Canids Academy gana 2-1: 24% → cuota justa 4.23  
 
