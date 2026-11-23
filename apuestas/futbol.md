@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 18:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 18:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Brondby vs Midtjylland — 23/11 · 19:00
 
