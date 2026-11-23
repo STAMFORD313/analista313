@@ -753,4 +753,42 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-22,Burgos vs Albacete,valor,2,0.3878,0,1,0.6258,2.73,0.06,1,-1.0,Menos de 2.5 goles + Menos de 4.5 córners de Albacete,10
 2026-11-22,Los Angeles Chargers vs New York Jets,nfl,2,0.2041,0,1,0.444,4.7,-0.04,0,,Gana New York Jets + Menos de 41.5 puntos,10
 2026-11-22,New York Giants vs Jacksonville Jaguars,nfl,2,0.1624,0,1,0.4055,5.98,-0.03,0,,Gana New York Giants + Más de 46.5 puntos,10
-2026-11-23,San Francisco 49ers vs Minnesota Vikings,nfl,2,0.2042,0,1,0.445,4.72,-0.037,0,,Gana Minnesota Vikings + Menos de 46.5 puntos,01
+2026-11-23,San Francisco 49ers vs Minnesota Vikings,nfl,2,0.2042,0,1,0.445,4.72,-0.037,0,,Gana Minnesota Vikings + Menos de 46.5 puntos,1
+2026-11-20,Bayern Munich vs FC Koln,corta,3,0.6944,0,2,0.878,,,0,,Más de 5.5 tiros a puerta de Bayern Munich + Menos de 21.5 faltas + Menos de 2.5 tarjetas de Bayern Munich,011
+2026-11-20,Bayern Munich vs FC Koln,larga,5,0.4641,0,2,0.8466,,,0,,Más de 5.5 tiros a puerta de Bayern Munich + Menos de 21.5 faltas + Menos de 2.5 tarjetas de Bayern Munich + Más de 5.5 córners de Bayern Munich + Más de 2.5 goles,01100
+2026-11-20,Bayern Munich vs FC Koln,valor,2,0.6732,0,1,0.8202,1.43,-0.037,0,,Menos de 2.5 tarjetas de Bayern Munich + Más de 5.5 córners de Bayern Munich,10
+2026-11-21,Man City vs Fulham,corta,3,0.5989,1,3,0.8391,,,0,,Menos de 2.5 tarjetas de Man City + Menos de 11.5 faltas de Man City + Menos de 4.5 tiros a puerta de Fulham,111
+2026-11-21,Man City vs Fulham,larga,5,0.232,0,3,0.7579,,,0,,Menos de 2.5 tarjetas de Man City + Menos de 11.5 faltas de Man City + Menos de 4.5 tiros a puerta de Fulham + Menos de 4.5 córners de Fulham + Más de 2.5 goles,11100
+2026-11-21,Millwall vs QPR,corta,3,0.4021,0,0,0.7275,,,0,,Menos de 2.5 tarjetas de Millwall + Menos de 4.5 tiros a puerta de QPR + Menos de 22.5 faltas,000
+2026-11-21,Millwall vs QPR,larga,4,0.2621,0,1,0.6947,,,0,,Menos de 2.5 tarjetas de Millwall + Menos de 4.5 tiros a puerta de QPR + Menos de 22.5 faltas + Menos de 2.5 goles,0001
+2026-11-21,Amedspor vs Rizespor,corta,3,0.399,0,2,0.7333,,,0,,Menos de 13.5 faltas de Rizespor + Menos de 4.5 tiros a puerta de Rizespor + Menos de 2.5 tarjetas de Amedspor,101
+2026-11-21,Amedspor vs Rizespor,larga,5,0.1666,0,3,0.6993,,,0,,Menos de 13.5 faltas de Rizespor + Menos de 4.5 tiros a puerta de Rizespor + Menos de 2.5 tarjetas de Amedspor + Más de 2.5 goles + Menos de 4.5 córners de Rizespor,10101
+2026-11-21,M'gladbach vs Dortmund,corta,3,0.3697,0,2,0.6976,,,0,,Menos de 5.5 tiros a puerta de M'gladbach + Menos de 5.5 córners de M'gladbach + Menos de 2.5 tarjetas de Dortmund,101
+2026-11-21,M'gladbach vs Dortmund,larga,5,0.1255,0,3,0.6602,,,0,,Menos de 5.5 tiros a puerta de M'gladbach + Menos de 5.5 córners de M'gladbach + Menos de 2.5 tarjetas de Dortmund + Más de 10.5 faltas de M'gladbach + Más de 2.5 goles,10110
+2026-11-21,Wolves vs Charlton,corta,3,0.4901,1,3,0.7855,,,0,,Menos de 4.5 tiros a puerta de Charlton + Más de 5.5 córners de Wolves + Menos de 2.5 tarjetas de Wolves,111
+2026-11-21,Wolves vs Charlton,larga,4,0.3292,1,4,0.7599,,,0,,Menos de 4.5 tiros a puerta de Charlton + Más de 5.5 córners de Wolves + Menos de 2.5 tarjetas de Wolves + Más de 11.5 faltas de Charlton,1111
+2026-11-21,Sociedad B vs Cadiz,corta,3,0.3918,0,1,0.7157,,,0,,Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz,001
+2026-11-21,Sociedad B vs Cadiz,larga,4,0.2507,0,2,0.7047,,,0,,Menos de 4.5 tiros a puerta de Cadiz + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Cadiz + Menos de 3.5 tarjetas de Cadiz,0011
+2026-11-21,Nice vs Paris SG,corta,3,0.6322,1,3,0.855,,,0,,Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice,111
+2026-11-21,Nice vs Paris SG,larga,5,0.2641,1,5,0.7775,,,0,,Menos de 12.5 faltas de Paris SG + Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice + Menos de 5.5 córners de Nice + Más de 2.5 goles,11111
+2026-11-21,Nice vs Paris SG,valor,2,0.6616,1,2,0.8108,1.35,-0.11,0,,Menos de 2.5 tarjetas de Paris SG + Menos de 5.5 tiros a puerta de Nice,11
+2026-11-21,Dundee vs Hearts,corta,3,0.414,1,3,0.7393,,,0,,Menos de 5.5 tiros a puerta de Dundee + Menos de 6.5 córners de Dundee + Menos de 2.5 tarjetas de Dundee,111
+2026-11-21,Dundee vs Hearts,larga,5,0.1618,1,5,0.7,,,0,,Menos de 5.5 tiros a puerta de Dundee + Menos de 6.5 córners de Dundee + Menos de 2.5 tarjetas de Dundee + Menos de 12.5 faltas de Dundee + Más de 2.5 goles,11111
+2026-11-21,Dundee vs Hearts,valor,2,0.4134,1,2,0.6465,2.42,-0.001,0,,Menos de 2.5 tarjetas de Dundee + Más de 2.5 goles,11
+2026-11-22,Erzurumspor vs Goztep,corta,3,0.3497,1,3,0.6999,,,0,,Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor,111
+2026-11-22,Erzurumspor vs Goztep,larga,4,0.2329,1,4,0.682,,,0,,Menos de 13.5 faltas de Erzurumspor + Menos de 5.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 5.5 córners de Erzurumspor,1111
+2026-11-22,Kortrijk vs St. Gilloise,corta,3,0.4877,1,3,0.78,,,0,,Menos de 5.5 tiros a puerta de Kortrijk + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk,111
+2026-11-22,Kortrijk vs St. Gilloise,larga,5,0.187,0,4,0.711,,,0,,Menos de 5.5 tiros a puerta de Kortrijk + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk + Más de 1.5 tarjetas de Kortrijk + Más de 2.5 goles,11110
+2026-11-22,Santander vs Sociedad,corta,3,0.3403,1,3,0.6702,,,0,,Más de 3.5 tiros a puerta de Sociedad + Menos de 12.5 faltas de Santander + Más de 2.5 goles,111
+2026-11-22,Santander vs Sociedad,larga,5,0.138,0,4,0.6488,,,0,,Más de 3.5 tiros a puerta de Sociedad + Menos de 12.5 faltas de Santander + Más de 2.5 goles + Menos de 5.5 córners de Santander + Menos de 2.5 tarjetas de Santander,11101
+2026-11-22,Sp Gijon vs Las Palmas,corta,3,0.3981,0,1,0.7265,,,0,,Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas,100
+2026-11-22,Sp Gijon vs Las Palmas,larga,4,0.2469,0,1,0.6926,,,0,,Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas,1000
+2026-11-22,Lorient vs Rennes,corta,3,0.41,0,2,0.7345,2.45,0.004,0,,Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient,110
+2026-11-22,Lorient vs Rennes,larga,5,0.1871,0,3,0.717,,,0,,Menos de 5.5 tiros a puerta de Lorient + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 córners de Lorient + Menos de 11.5 faltas de Lorient + Más de 2.5 goles,11010
+2026-11-22,Lorient vs Rennes,valor,2,0.4898,0,1,0.7017,2.62,0.284,1,-1.0,Menos de 2.5 tarjetas de Lorient + Más de 2.5 goles,10
+2026-11-22,Liverpool vs Man United,corta,3,0.4193,1,3,0.7474,,,0,,Menos de 12.5 faltas de Man United + Menos de 2.5 tarjetas de Liverpool + Menos de 4.5 tiros a puerta de Man United,111
+2026-11-22,Liverpool vs Man United,larga,4,0.2615,0,3,0.7063,,,0,,Menos de 12.5 faltas de Man United + Menos de 2.5 tarjetas de Liverpool + Menos de 4.5 tiros a puerta de Man United + Menos de 4.5 córners de Man United,1110
+2026-11-22,Anderlecht vs Oud-Heverlee Leuven,corta,3,0.3808,1,3,0.7127,,,0,,Menos de 4.5 tiros a puerta de Oud-Heverlee Leuven + Menos de 4.5 córners de Oud-Heverlee Leuven + Más de 11.5 faltas de Oud-Heverlee Leuven,111
+2026-11-22,Anderlecht vs Oud-Heverlee Leuven,larga,4,0.2571,1,4,0.6846,,,0,,Menos de 4.5 tiros a puerta de Oud-Heverlee Leuven + Menos de 4.5 córners de Oud-Heverlee Leuven + Más de 11.5 faltas de Oud-Heverlee Leuven + Más de 3.5 tarjetas,1111
+2026-11-22,Celta B vs Valladolid,corta,3,0.277,0,1,0.6605,,,0,,Menos de 5.5 córners de Celta B + Menos de 5.5 tiros a puerta de Celta B + Más de 2.5 goles,100
+2026-11-22,Celta B vs Valladolid,larga,5,0.101,0,1,0.6351,,,0,,Menos de 5.5 córners de Celta B + Menos de 5.5 tiros a puerta de Celta B + Más de 2.5 goles + Menos de 3.5 tarjetas de Valladolid + Menos de 13.5 faltas de Celta B,10000

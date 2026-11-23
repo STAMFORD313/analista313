@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 17:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 17:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Buyuksehyr vs Corum — 23/11 · 18:00
 

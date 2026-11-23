@@ -5541,3 +5541,175 @@ fecha,deporte,mercado,p,implied,odds,edge,gano,retorno,clv,apostada,ia,ia_aposta
 2026-11-23,🎮⚽,H,0.463,0.336,2.6,0.205,0,0.0,,0,,,2026-11-23T15:06,fe61d58,,Unibet
 2026-11-23,🎮⚽,D,0.204,0.162,5.4,0.099,0,0.0,,0,,,2026-11-23T15:06,fe61d58,,Unibet
 2026-11-23,🎮⚽,A,0.457,0.376,2.32,0.06,1,2.32,,0,,,2026-11-23T15:34,fbe6783,,Unibet
+2026-11-20,⚽,D,0.265,0.265,3.7,-0.019,0,0.0,0.076,0,,,2026-11-20T10:43,86d565b,"Bielefeld: sin bajas; Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty)",Bwin
+2026-11-20,⚽,AHH,0.539,0.526,1.8,-0.031,1,1.8,,0,,,2026-11-20T10:43,86d565b,"Darmstadt: 0 fuera, 1 duda; Heidenheim: 0 fuera, 1 duda",mejor del mercado
+2026-11-20,⚽,H,0.451,0.451,2.15,-0.03,1,2.15,-0.036,0,,,2026-11-20T10:43,86d565b,Annecy: sin bajas; Clermont: sin bajas,Bwin
+2026-11-20,⚽,O25,0.585,0.585,1.65,-0.034,1,1.65,0.044,0,,,2026-11-20T10:43,86d565b,Guingamp: sin bajas; Rodez: sin bajas,Bet365
+2026-11-20,⚽,O25,0.482,0.482,2.05,-0.011,1,2.05,0.085,0,,,2026-11-20T10:43,86d565b,Metz: sin bajas; Boulogne: sin bajas,Bet365
+2026-11-20,⚽,AHA,0.483,0.47,2.03,-0.02,0,0.0,,0,,,2026-11-20T10:43,86d565b,Nancy: sin bajas; Dijon: sin bajas,mejor del mercado
+2026-11-20,⚽,O25,0.476,0.476,2.08,-0.01,1,2.08,0.051,0,,,2026-11-20T10:43,86d565b,Red Star: sin bajas; Pau FC: sin bajas,Bet365
+2026-11-20,⚽,AHA,0.492,0.487,2.05,0.009,1,2.05,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",mejor del mercado
+2026-11-20,⚽,corners_t_o,0.299,0.259,3.55,0.062,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",Unibet
+2026-11-20,⚽,corners_t_u,0.774,0.801,1.14,-0.117,1,1.14,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",Unibet
+2026-11-20,⚽,corners_h_o,0.283,0.234,3.9,0.103,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",Unibet
+2026-11-20,⚽,corners_h_u,0.717,0.766,1.19,-0.146,1,1.19,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",Unibet
+2026-11-20,⚽,corners_a_o,0.756,0.747,1.22,-0.078,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",Unibet
+2026-11-20,⚽,corners_a_u,0.773,0.754,1.21,-0.065,1,1.21,,0,,,2026-11-20T10:43,86d565b,"Bayern Munich: 2 fuera, 7 duda (Manuel Neuer, Serge Gnabry); FC Koln: 1 fuera, 3 duda (Timo Huebers)",Unibet
+2026-11-20,⚽,AHH,0.502,0.499,1.93,-0.032,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Verona: 1 fuera, 3 duda (Giacomo Toniolo); Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)",mejor del mercado
+2026-11-20,⚽,AHA,0.489,0.485,1.95,-0.046,1,1.95,,0,,,2026-11-20T10:43,86d565b,"Andorra: sin bajas; Leganes: 0 fuera, 1 duda",mejor del mercado
+2026-11-20,⚽,A,0.273,0.273,3.6,-0.016,0,0.0,0.192,0,,,2026-11-20T10:43,86d565b,Cercle Brugge: sin bajas; Westerlo: sin bajas,Bwin
+2026-11-20,⚽,AHH,0.501,0.505,1.93,-0.033,1,1.93,,0,,,2026-11-20T10:43,86d565b,"Troyes: sin bajas; Le Havre: 1 fuera, 4 duda (Ayumu Seko)",mejor del mercado
+2026-11-20,⚽,AHA,0.484,0.477,2.03,-0.017,1,2.03,,0,,,2026-11-20T10:43,86d565b,"Ath Bilbao: 4 fuera, 2 duda (Yuri Berchiche, Maroan Sannadi, Gorka Guruzeta); Espanol: 2 fuera, 0 duda (Pol Lozano, Kike Garcia)",mejor del mercado
+2026-11-21,⚽,AHH,0.558,0.554,1.73,-0.035,1,1.73,,0,,,2026-11-20T10:43,86d565b,"Genclerbirligi: 2 fuera, 2 duda (Dimitrios Goutas, Kevin Rodrigues); Gaziantep: 0 fuera, 1 duda",mejor del mercado
+2026-11-21,⚽,H,0.554,0.554,1.75,-0.031,1,1.75,0.144,0,,,2026-11-20T10:43,86d565b,"Hannover: 0 fuera, 1 duda; Greuther Furth: 0 fuera, 4 duda",Bwin
+2026-11-21,⚽,O25,0.65,0.65,1.48,-0.039,1,1.48,0.007,0,,,2026-11-20T10:43,86d565b,"Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma); Braunschweig: 0 fuera, 4 duda",Bet365
+2026-11-21,⚽,AHA,0.492,0.491,1.98,-0.027,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara); Holstein Kiel: 1 fuera, 2 duda (Patrick Erras)",mejor del mercado
+2026-11-21,⚽,H,0.703,0.703,1.4,-0.016,0,0.0,0.029,0,,,2026-11-20T10:43,86d565b,"Man City: 2 fuera, 3 duda (Antoine Semenyo, Mateo Kovacic); Fulham: 1 fuera, 1 duda (Tom Cairney)",Bwin
+2026-11-21,⚽,AHH,0.508,0.501,1.93,-0.02,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Millwall: 0 fuera, 1 duda; QPR: sin bajas",mejor del mercado
+2026-11-21,⚽,AHH,0.489,0.489,1.98,-0.031,1,1.49,,0,,,2026-11-20T10:43,86d565b,"Norwich: 1 fuera, 1 duda (Gabriel Forsyth); Cardiff: sin bajas",mejor del mercado
+2026-11-21,⚽,H,0.7,0.7,1.4,-0.02,1,1.4,-0.054,0,,,2026-11-20T10:43,86d565b,"Southampton: 0 fuera, 2 duda; Derby: 0 fuera, 4 duda",Bwin
+2026-11-21,⚽,A,0.46,0.46,2.1,-0.033,0,0.0,0.014,0,,,2026-11-20T10:43,86d565b,Laval: sin bajas; Montpellier: sin bajas,Bwin
+2026-11-21,⚽,AHA,0.498,0.495,1.95,-0.03,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Alaves: 2 fuera, 0 duda (Mikel Rodriguez, Facundo Garces); La Coruna: 0 fuera, 2 duda",mejor del mercado
+2026-11-21,⚽,AHH,0.456,0.453,2.15,-0.019,0,0.5,,0,,,2026-11-20T10:43,86d565b,"Sabadell: sin bajas; Granada: 0 fuera, 2 duda",mejor del mercado
+2026-11-21,⚽,AHH,0.513,0.505,1.9,-0.025,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Amedspor: 1 fuera, 0 duda (Samuel Ballet); Rizespor: 0 fuera, 2 duda",mejor del mercado
+2026-11-21,⚽,U25,0.293,0.293,3.4,-0.003,0,0.0,0.043,0,,,2026-11-20T10:43,86d565b,"Galatasaray: 4 fuera, 2 duda (Metehan Baltaci, Abdulkerim Bardakci, Victor Osimhen); Samsunspor: 0 fuera, 3 duda",Bet365
+2026-11-21,⚽,AHA,0.489,0.483,2.03,-0.007,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Como: 2 fuera, 5 duda (Jesus Rodriguez, Edoardo Goldaniga); Cagliari: 5 fuera, 5 duda (Adam Obert, Roberto Gagliardini, Mattia Felici)",mejor del mercado
+2026-11-21,⚽,AHA,0.465,0.455,2.2,0.022,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares); Lecce: 2 fuera, 2 duda (Santiago Pierotti, Filip Marchwinski)",mejor del mercado
+2026-11-21,⚽,H,0.536,0.536,1.8,-0.035,0,0.0,0.084,0,,,2026-11-20T10:43,86d565b,"Ascoli: sin bajas; Vicenza: 0 fuera, 1 duda",Bwin
+2026-11-21,⚽,AHH,0.484,0.478,2.0,-0.031,1,2.0,,0,,,2026-11-20T10:43,86d565b,"Carrarese: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)",mejor del mercado
+2026-11-21,⚽,H,0.603,0.603,1.6,-0.035,1,1.6,-0.006,0,,,2026-11-20T10:43,86d565b,"Modena: 0 fuera, 3 duda; Juve Stabia: 0 fuera, 4 duda",Bwin
+2026-11-21,⚽,O25,0.463,0.463,2.08,-0.038,1,2.08,0.035,0,,,2026-11-20T10:43,86d565b,"Sampdoria: 1 fuera, 6 duda (Manuel Cicconi); Benevento: sin bajas",Bet365
+2026-11-21,⚽,A,0.428,0.428,2.25,-0.037,0,0.0,0.092,0,,,2026-11-20T10:43,86d565b,"Sudtirol: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)",Betfred
+2026-11-21,⚽,U25,0.295,0.295,3.4,0.003,1,3.4,0.033,0,,,2026-11-20T10:43,86d565b,"Ein Frankfurt: 1 fuera, 2 duda (Elias Baum); Hoffenheim: 1 fuera, 7 duda (Valentin Gendrey)",Bet365
+2026-11-21,⚽,AHH,0.532,0.519,1.88,-0.001,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Elversberg: 0 fuera, 4 duda; Freiburg: 2 fuera, 2 duda (Bruno Ogbus, Florent Muslija)",mejor del mercado
+2026-11-21,⚽,AHA,0.512,0.503,1.93,-0.012,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Leverkusen: 0 fuera, 7 duda; Paderborn: 0 fuera, 6 duda",mejor del mercado
+2026-11-21,⚽,A,0.644,0.644,1.53,-0.015,1,1.53,0.055,0,,,2026-11-20T10:43,86d565b,"Union Berlin: 4 fuera, 3 duda (Felix Uduokhai, Derrick Koehn, Stanley N'Soki); RB Leipzig: 3 fuera, 3 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu)",Bwin
+2026-11-21,⚽,AHA,0.528,0.527,1.8,-0.05,1,1.8,,0,,,2026-11-20T10:43,86d565b,Charleroi: sin bajas; St Truiden: sin bajas,mejor del mercado
+2026-11-21,⚽,H,0.544,0.544,1.8,-0.022,0,0.0,0.059,0,,,2026-11-20T10:43,86d565b,"Aston Villa: 3 fuera, 2 duda (Matty Cash, Matteo Ruggeri, Amadou Onana); Sunderland: 4 fuera, 4 duda (Daniel Ballard, Omar Alderete, Habib Diarra)",Betfred
+2026-11-21,⚽,O25,0.516,0.516,1.91,-0.014,0,0.0,-0.03,0,,,2026-11-20T10:43,86d565b,"Bournemouth: 1 fuera, 4 duda (Alex Toth); Nott'm Forest: 2 fuera, 2 duda (Nicolas Dominguez, Nicolo Savona)",Bet365
+2026-11-21,⚽,AHH,0.517,0.515,1.88,-0.028,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Chelsea: 5 fuera, 3 duda (Maxence Lacroix, Joao Pedro, Reece James); Leeds: 1 fuera, 1 duda (Mateo Joseph)",mejor del mercado
+2026-11-21,⚽,H,0.391,0.391,2.5,-0.024,1,2.5,0.012,0,,,2026-11-20T10:43,86d565b,"Coventry: 4 fuera, 3 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles); Crystal Palace: 4 fuera, 2 duda (Jean-Philippe Mateta, Takehiro Tomiyasu, Ismaila Sarr)",Betfred
+2026-11-21,⚽,H,0.631,0.631,1.55,-0.022,1,1.55,0.054,0,,,2026-11-20T10:43,86d565b,"Tottenham: 3 fuera, 3 duda (Savio, Wilson Odobert, Xavi Simons); Ipswich: 1 fuera, 1 duda (Jack Taylor)",Bwin
+2026-11-21,⚽,O25,0.515,0.515,1.91,-0.017,0,0.0,0.085,0,,,2026-11-20T10:43,86d565b,"Bolton: 0 fuera, 1 duda; Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky)",Bet365
+2026-11-21,⚽,A,0.375,0.375,2.6,-0.024,1,2.6,0.0,0,,,2026-11-20T10:43,86d565b,"Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wrexham: sin bajas",Bet365
+2026-11-21,⚽,H,0.696,0.696,1.41,-0.019,1,1.41,0.029,0,,,2026-11-20T10:43,86d565b,"Middlesbrough: 0 fuera, 2 duda; Bristol City: sin bajas",Bwin
+2026-11-21,⚽,H,0.613,0.613,1.58,-0.031,1,1.58,0.019,0,,,2026-11-20T10:43,86d565b,Sheffield United: sin bajas; Watford: sin bajas,Bwin
+2026-11-21,⚽,O25,0.451,0.451,2.2,-0.008,0,0.0,0.063,0,,,2026-11-20T10:43,86d565b,"Stoke: sin bajas; Birmingham: 0 fuera, 1 duda",Bet365
+2026-11-21,⚽,AHA,0.509,0.499,1.93,-0.017,1,1.93,,0,,,2026-11-20T10:43,86d565b,"West Ham: sin bajas; Preston: 0 fuera, 2 duda",mejor del mercado
+2026-11-21,⚽,AHA,0.513,0.507,1.9,-0.025,1,1.9,,0,,,2026-11-20T10:43,86d565b,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",mejor del mercado
+2026-11-21,⚽,H,0.829,0.829,1.18,-0.021,1,1.18,0.009,0,,,2026-11-20T10:43,86d565b,"Celtic: 0 fuera, 3 duda; St Mirren: 0 fuera, 3 duda",Bwin
+2026-11-21,⚽,AHA,0.539,0.537,1.8,-0.03,0,0.5,,0,,,2026-11-20T10:43,86d565b,Falkirk: sin bajas; St Johnstone: sin bajas,mejor del mercado
+2026-11-21,⚽,AHH,0.487,0.488,1.98,-0.035,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Hibernian: 0 fuera, 1 duda; Dundee United: sin bajas",mejor del mercado
+2026-11-21,⚽,AHH,0.492,0.485,1.98,-0.027,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Kilmarnock: 0 fuera, 1 duda; Aberdeen: sin bajas",mejor del mercado
+2026-11-21,⚽,AHA,0.504,0.501,1.93,-0.028,1,1.93,,0,,,2026-11-20T10:43,86d565b,"Vallecano: 2 fuera, 3 duda (Unai Lopez, Augusto Batalla); Valencia: 2 fuera, 6 duda (Jose Gaya, Sergi Canos)",mejor del mercado
+2026-11-21,⚽,A,0.252,0.252,3.9,-0.018,1,3.9,-0.076,0,,,2026-11-20T10:43,86d565b,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Bet365
+2026-11-21,⚽,U25,0.269,0.269,3.6,-0.03,0,0.0,-0.055,0,,,2026-11-20T10:43,86d565b,"Nijmegen: 0 fuera, 4 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)",Bet365
+2026-11-21,⚽,A,0.623,0.623,1.55,-0.035,0,0.0,-0.019,0,,,2026-11-20T10:43,86d565b,"Kocaelispor: 0 fuera, 3 duda; Fenerbahce: 1 fuera, 1 duda (Archie Brown)",Bwin
+2026-11-21,⚽,AHH,0.504,0.499,1.95,-0.017,1,1.475,,0,,,2026-11-20T10:43,86d565b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",mejor del mercado
+2026-11-21,⚽,A,0.55,0.55,1.77,-0.027,0,0.0,-0.059,0,,,2026-11-20T10:43,86d565b,"Catanzaro: 0 fuera, 1 duda; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",Bwin
+2026-11-21,⚽,AHH,0.49,0.479,2.03,-0.004,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Parma: 1 fuera, 3 duda (Abdoulaye N'Diaye); Roma: 3 fuera, 5 duda (Wesley, Paulo Dybala, Lorenzo Pellegrini)",mejor del mercado
+2026-11-21,⚽,H,0.67,0.67,1.46,-0.022,1,1.46,0.035,0,,,2026-11-20T10:43,86d565b,Genk: sin bajas; RAAL La Louviere: sin bajas,Bwin
+2026-11-21,⚽,AHA,0.477,0.477,2.03,-0.031,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Schalke 04: 0 fuera, 7 duda; Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo)",mejor del mercado
+2026-11-21,⚽,A,0.612,0.612,1.6,-0.021,0,0.0,0.06,0,,,2026-11-20T10:43,86d565b,"Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Joelinton, Ewen Jaouen); Arsenal: 2 fuera, 2 duda (Bukayo Saka, Max Dowman)",Bwin
+2026-11-21,⚽,AHH,0.475,0.465,2.05,-0.027,1,1.525,,0,,,2026-11-20T10:43,86d565b,Kalamata: sin bajas; AEK: sin bajas,mejor del mercado
+2026-11-21,⚽,O25,0.513,0.513,1.91,-0.019,0,0.0,-0.005,0,,,2026-11-20T10:43,86d565b,"Sevilla: 2 fuera, 5 duda (Isaac Romero, Manu Bueno); Betis: 1 fuera, 2 duda (Facundo Bernal)",Bet365
+2026-11-21,⚽,H,0.672,0.672,1.44,-0.033,1,1.44,0.059,0,,,2026-11-20T10:43,86d565b,Castellon: sin bajas; Eldense: sin bajas,Bwin
+2026-11-21,⚽,AHA,0.496,0.488,2.0,-0.009,1,2.0,,0,,,2026-11-20T10:43,86d565b,"Feyenoord: 6 fuera, 3 duda (Luciano Valente, Jaden Slory, Jordan Bos); Excelsior: sin bajas",mejor del mercado
+2026-11-21,⚽,AHH,0.497,0.5,1.95,-0.031,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Cambuur: 0 fuera, 1 duda",mejor del mercado
+2026-11-21,⚽,A,0.472,0.472,2.05,-0.033,1,2.05,-0.038,0,,,2026-11-20T10:43,86d565b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Sky Bet
+2026-11-21,⚽,AHH,0.498,0.493,1.95,-0.029,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Empoli: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)",mejor del mercado
+2026-11-21,⚽,AHH,0.496,0.488,1.95,-0.033,0,0.0,,0,,,2026-11-20T10:43,86d565b,Reims: sin bajas; St Etienne: sin bajas,mejor del mercado
+2026-11-21,⚽,AHA,0.535,0.535,1.8,-0.037,0,0.0,,0,,,2026-11-20T10:43,86d565b,"St Pauli: 1 fuera, 0 duda (Louis Oppie); Bochum: 1 fuera, 4 duda (Philipp Strompf)",mejor del mercado
+2026-11-21,⚽,A,0.695,0.695,1.4,-0.028,1,1.4,0.069,0,,,2026-11-20T10:43,86d565b,Mechelen: sin bajas; Club Brugge: sin bajas,Bwin
+2026-11-21,⚽,AHA,0.495,0.491,1.93,-0.044,1,1.4649999999999999,,0,,,2026-11-20T10:43,86d565b,Waregem: sin bajas; Antwerp: sin bajas,mejor del mercado
+2026-11-21,⚽,AHH,0.512,0.515,1.91,-0.022,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Toulouse: 2 fuera, 2 duda (Aron Doennum, Aron Doennum)",mejor del mercado
+2026-11-21,⚽,A,0.296,0.296,3.3,-0.024,1,3.3,0.051,0,,,2026-11-20T10:43,86d565b,"Lille: 1 fuera, 2 duda (Hamza Igamane); Lyon: 1 fuera, 3 duda (Keito Nakamura)",Bet365
+2026-11-21,⚽,H,0.69,0.69,1.42,-0.02,0,0.0,0.036,0,,,2026-11-20T10:43,86d565b,"Monaco: 0 fuera, 5 duda; Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh)",Bwin
+2026-11-21,⚽,AHH,0.499,0.495,1.95,-0.027,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli); Brest: 0 fuera, 2 duda",mejor del mercado
+2026-11-21,⚽,H,0.653,0.653,1.5,-0.02,1,1.5,-0.051,0,,,2026-11-20T10:43,86d565b,"Napoli: 3 fuera, 6 duda (Stanislav Lobotka, David Neres, Luca Marianucci); Torino: 1 fuera, 2 duda (Franco Israel)",Betfred
+2026-11-21,⚽,H,0.388,0.388,2.5,-0.03,0,0.0,-0.035,0,,,2026-11-20T10:43,86d565b,"Groningen: 4 fuera, 0 duda (Etienne Vaessen, Etienne Vaessen, Hans Hateboer); Heerenveen: sin bajas",Bet365
+2026-11-21,⚽,AHH,0.466,0.463,2.08,-0.03,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Telstar: 0 fuera, 1 duda; Zwolle: 0 fuera, 2 duda",mejor del mercado
+2026-11-21,⚽,H,0.833,0.833,1.19,-0.008,1,1.19,0.026,0,,,2026-11-20T10:43,86d565b,"Real Madrid: 2 fuera, 4 duda (Vinicius Junior, Rodrygo); Celta: 0 fuera, 7 duda",Bwin
+2026-11-21,⚽,AHH,0.504,0.495,1.93,-0.028,1,1.4649999999999999,,0,,,2026-11-20T10:43,86d565b,"Tenerife: sin bajas; Mallorca: 0 fuera, 1 duda",mejor del mercado
+2026-11-22,⚽,U25,0.519,0.519,1.85,-0.04,1,1.85,0.142,0,,,2026-11-20T10:43,86d565b,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Bet365
+2026-11-22,⚽,H,0.892,0.892,1.11,-0.009,1,1.11,0.037,0,,,2026-11-20T10:43,86d565b,"Twente: 0 fuera, 4 duda; Willem II: 1 fuera, 3 duda (Amine Lachkar)",Bwin
+2026-11-22,⚽,H,0.718,0.718,1.37,-0.017,1,1.37,-0.035,0,,,2026-11-20T10:43,86d565b,"Juventus: 7 fuera, 5 duda (Gleison Bremer, Pierre Kalulu, Nico Gonzalez); Venezia: 3 fuera, 3 duda (Bartol Franjic, Marin Sverko, Daniel Fila)",Bwin
+2026-11-22,⚽,AHA,0.494,0.495,1.95,-0.037,1,1.95,,0,,,2026-11-20T10:43,86d565b,"Burnley: 0 fuera, 2 duda; Blackburn: sin bajas",mejor del mercado
+2026-11-22,⚽,AHH,0.531,0.522,1.83,-0.029,1,1.83,,0,,,2026-11-20T10:43,86d565b,Beveren: sin bajas; Gent: sin bajas,mejor del mercado
+2026-11-22,⚽,A,0.597,0.597,1.62,-0.033,1,1.62,0.087,0,,,2026-11-20T10:43,86d565b,"Cottbus: sin bajas; Hertha: 1 fuera, 1 duda (Linus Gechter)",Bwin
+2026-11-22,⚽,H,0.433,0.433,2.25,-0.026,0,0.0,0.16,0,,,2026-11-20T10:43,86d565b,"Kaiserslautern: 3 fuera, 0 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck); Dresden: 0 fuera, 3 duda",Bwin
+2026-11-22,⚽,AHH,0.486,0.48,2.0,-0.028,0,0.5,,0,,,2026-11-20T10:43,86d565b,"Karlsruhe: 0 fuera, 1 duda; Osnabruck: sin bajas",mejor del mercado
+2026-11-22,⚽,H,0.803,0.803,1.22,-0.02,1,1.22,0.025,0,,,2026-11-20T10:43,86d565b,"Barcelona: 2 fuera, 4 duda (Rodri, Roony Bardghji); Villarreal: 0 fuera, 4 duda",Bwin
+2026-11-22,⚽,A,0.255,0.255,3.8,-0.03,0,0.0,0.111,0,,,2026-11-20T10:43,86d565b,Cordoba: sin bajas; Oviedo: sin bajas,Bet365
+2026-11-22,⚽,U25,0.496,0.496,1.95,-0.033,0,0.0,0.048,0,,,2026-11-20T10:43,86d565b,"Kasimpasa: 2 fuera, 2 duda (E. Mendes Da, Claudio Winck); Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy)",Bet365
+2026-11-22,⚽,AHH,0.478,0.471,2.03,-0.03,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag); Besiktas: 1 fuera, 0 duda (Orkun Kokcu)",mejor del mercado
+2026-11-22,⚽,H,0.816,0.816,1.2,-0.02,1,1.2,-0.024,0,,,2026-11-20T10:43,86d565b,"Ajax: 1 fuera, 3 duda (Anton Gaaei); Den Haag: 0 fuera, 2 duda",Bwin
+2026-11-22,⚽,A,0.551,0.551,1.75,-0.035,1,1.75,0.023,0,,,2026-11-20T10:43,86d565b,"Sparta Rotterdam: 1 fuera, 2 duda (Bruno Martins Indi); AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)",Bwin
+2026-11-22,⚽,AHH,0.48,0.467,2.05,-0.015,1,2.05,,0,,,2026-11-20T10:43,86d565b,"Hull: 4 fuera, 5 duda (Matt Crooks, Hidemasa Morita, Matt Targett); Brighton: 6 fuera, 4 duda (Zadok Yohanna, Matias Orozco, Femi Azeez)",mejor del mercado
+2026-11-22,⚽,AHA,0.509,0.503,1.93,-0.017,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Paris FC: 2 fuera, 2 duda (Mamadou Mbow, Nhoa Sangui); Angers: 2 fuera, 0 duda (Yassin Belkhdim, Jordan Lefort)",mejor del mercado
+2026-11-22,⚽,AHA,0.509,0.503,1.93,-0.018,1,1.93,,0,,,2026-11-20T10:43,86d565b,"Bologna: 3 fuera, 4 duda (Antonio Raimondo, Emil Holm, Thijs Dallinga); Udinese: 4 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye)",mejor del mercado
+2026-11-22,⚽,AHH,0.478,0.475,2.03,-0.03,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)",mejor del mercado
+2026-11-22,⚽,A,0.312,0.312,3.1,-0.033,0,0.0,0.003,0,,,2026-11-20T10:43,86d565b,Avellino: sin bajas; Mantova: sin bajas,Bet365
+2026-11-22,⚽,U25,0.333,0.333,3.0,-0.002,0,0.0,0.068,0,,,2026-11-20T10:43,86d565b,"Augsburg: 1 fuera, 6 duda (Kristijan Jakic); Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa)",Bet365
+2026-11-22,⚽,A,0.695,0.695,1.41,-0.02,1,1.41,0.085,0,,,2026-11-20T10:43,86d565b,Kortrijk: sin bajas; St. Gilloise: sin bajas,Bwin
+2026-11-22,⚽,A,0.314,0.314,3.1,-0.025,0,0.0,0.088,0,,,2026-11-20T10:43,86d565b,Panetolikos: sin bajas; Volos NFC: sin bajas,Bet365
+2026-11-22,⚽,U25,0.293,0.293,3.4,-0.005,0,0.0,0.156,0,,,2026-11-20T10:43,86d565b,"Santander: 0 fuera, 2 duda; Sociedad: 1 fuera, 1 duda (Alvaro Odriozola)",Bet365
+2026-11-22,⚽,O25,0.5,0.5,1.95,-0.025,0,0.0,0.01,0,,,2026-11-20T10:43,86d565b,Sp Gijon: sin bajas; Las Palmas: sin bajas,Bet365
+2026-11-22,⚽,H,0.797,0.797,1.23,-0.02,1,1.23,0.051,0,,,2026-11-20T10:43,86d565b,Panathinaikos: sin bajas; OFI Crete: sin bajas,Bwin
+2026-11-22,⚽,AHA,0.534,0.533,1.8,-0.039,1,1.8,,0,,,2026-11-20T10:43,86d565b,"Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof); For Sittard: 0 fuera, 1 duda",mejor del mercado
+2026-11-22,⚽,AHA,0.552,0.544,1.8,-0.006,1,1.8,,0,,,2026-11-20T10:43,86d565b,"Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy); Eyupspor: 0 fuera, 5 duda",mejor del mercado
+2026-11-22,⚽,O25,0.512,0.512,1.91,-0.022,0,0.0,-0.095,0,,,2026-11-20T10:43,86d565b,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Bet365
+2026-11-22,⚽,O25,0.47,0.47,2.05,-0.036,0,0.0,0.02,0,,,2026-11-20T10:43,86d565b,"Arezzo: sin bajas; Padova: 1 fuera, 2 duda (Giovanni Giunti)",Bet365
+2026-11-22,⚽,H,0.573,0.573,1.72,-0.015,1,1.72,0.082,0,,,2026-11-20T10:43,86d565b,"Werder Bremen: 3 fuera, 5 duda (Felix Agu, Keke Topp, Jens Stage); Hamburg: 1 fuera, 8 duda (Nicolai Remberg)",Bwin
+2026-11-22,⚽,AHH,0.501,0.5,1.95,-0.023,1,1.95,,0,,,2026-11-20T10:43,86d565b,"Liverpool: 5 fuera, 2 duda (Jeremie Frimpong, Conor Bradley, Giovanni Leoni); Man United: 5 fuera, 3 duda (Lisandro Martinez, Luke Shaw, Carlos Baleba)",mejor del mercado
+2026-11-22,⚽,H,0.827,0.827,1.18,-0.024,1,1.18,0.026,0,,,2026-11-20T10:43,86d565b,Olympiakos: sin bajas; Iraklis: sin bajas,Bwin
+2026-11-22,⚽,AHA,0.478,0.475,2.03,-0.03,0,0.0,,0,,,2026-11-20T10:43,86d565b,"Milan: 5 fuera, 5 duda (Samuel Chukwueze, Alexis Saelemaekers, Fikayo Tomori); Frosinone: 0 fuera, 2 duda",mejor del mercado
+2026-11-22,⚽,H,0.66,0.66,1.47,-0.03,1,1.47,-0.026,0,,,2026-11-20T10:43,86d565b,Anderlecht: sin bajas; Oud-Heverlee Leuven: sin bajas,Bwin
+2026-11-22,⚽,H,0.703,0.703,1.41,-0.009,1,1.41,0.068,0,,,2026-11-20T10:43,86d565b,PAOK: sin bajas; Kifisia: sin bajas,Bwin
+2026-11-22,⚽,H,0.53,0.53,1.83,-0.03,1,1.83,0.046,0,,,2026-11-20T10:43,86d565b,"Osasuna: 1 fuera, 3 duda (Iker Munoz); Malaga: 2 fuera, 3 duda (Julen Lobete, Diego Murillo)",Betfred
+2026-11-22,⚽,AHH,0.54,0.532,1.8,-0.027,1,1.8,,0,,,2026-11-20T10:43,86d565b,"Celta B: sin bajas; Valladolid: 0 fuera, 1 duda",mejor del mercado
+2026-11-22,⚽,AHH,0.528,0.53,1.8,-0.05,1,1.8,,0,,,2026-11-20T10:43,86d565b,"Girona: sin bajas; Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de)",mejor del mercado
+2026-11-22,⚽,AHH,0.491,0.48,2.0,-0.018,0,0.0,,0,,,2026-11-20T10:43,86d565b,Lommel SK: sin bajas; Standard: sin bajas,mejor del mercado
+2026-11-22,⚽,U25,0.373,0.373,2.63,-0.02,0,0.0,0.11,0,,,2026-11-20T10:43,86d565b,"Marseille: 0 fuera, 2 duda; Le Mans: 0 fuera, 2 duda",Bet365
+2026-11-22,⚽,A,0.604,0.604,1.63,-0.016,0,0.0,0.025,0,,,2026-11-20T10:43,86d565b,"Atalanta: 1 fuera, 4 duda (Isak Hien); Inter: 3 fuera, 5 duda (Ange-Yoan Bonny, Lautaro Martinez, Valentin Carboni)",Bwin
+2026-11-22,⚽,A,0.613,0.613,1.62,-0.007,1,1.62,0.059,0,,,2026-11-20T10:43,86d565b,"Getafe: 5 fuera, 1 duda (Martin Satriano, Djene, Nemanja Gudelj); Ath Madrid: 1 fuera, 5 duda (Robin Le Normand)",Bwin
+2026-11-22,⚽,AHH,0.471,0.47,2.05,-0.035,1,2.05,,0,,,2026-11-20T10:43,86d565b,"Burgos: 1 fuera, 0 duda (Jon Karrikaburu); Albacete: 2 fuera, 0 duda (Jose Corpas, Antonio Puertas)",mejor del mercado
+2026-11-21,⚽,corners_t_o,0.362,0.321,2.85,0.032,1,2.85,,0,,,2026-11-20T15:23,20f734a,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",Unibet
+2026-11-21,⚽,corners_t_u,0.638,0.679,1.35,-0.139,0,0.0,,0,,,2026-11-20T15:23,20f734a,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",Unibet
+2026-11-21,⚽,corners_a_o,0.605,0.61,1.5,-0.093,1,1.5,,0,,,2026-11-20T15:23,20f734a,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",Unibet
+2026-11-21,⚽,corners_a_u,0.577,0.559,1.64,-0.053,0,0.0,,0,,,2026-11-20T15:23,20f734a,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",Unibet
+2026-11-21,⚽,corners_h_o,0.316,0.269,3.4,0.073,0,0.0,,0,,,2026-11-20T15:23,20f734a,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",Unibet
+2026-11-21,⚽,corners_h_u,0.684,0.731,1.25,-0.144,1,1.25,,0,,,2026-11-20T15:23,20f734a,"Wolves: sin bajas; Charlton: 1 fuera, 0 duda (Zach Mitchell)",Unibet
+2026-11-21,⚽,corners_h_o,0.597,0.603,1.5,-0.104,1,1.5,,0,,,2026-11-20T15:23,20f734a,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Unibet
+2026-11-21,⚽,corners_h_u,0.538,0.526,1.73,-0.069,0,0.0,,0,,,2026-11-20T15:23,20f734a,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Unibet
+2026-11-21,⚽,corners_t_o,0.692,0.705,1.3,-0.101,1,1.3,,0,,,2026-11-20T15:23,20f734a,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Unibet
+2026-11-21,⚽,corners_t_u,0.736,0.694,1.32,-0.029,1,1.32,,0,,,2026-11-20T15:23,20f734a,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Unibet
+2026-11-21,⚽,corners_a_o,0.507,0.537,1.7,-0.138,0,0.0,,0,,,2026-11-20T15:23,20f734a,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Unibet
+2026-11-21,⚽,corners_a_u,0.493,0.463,1.97,-0.028,1,1.97,,0,,,2026-11-20T15:23,20f734a,"Sociedad B: sin bajas; Cadiz: 0 fuera, 1 duda",Unibet
+2026-11-21,⚽,corners_t_o,0.73,0.722,1.27,-0.073,0,0.0,,0,,,2026-11-20T16:25,a7bf99b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",Unibet
+2026-11-21,⚽,corners_t_u,0.781,0.758,1.21,-0.055,1,1.21,,0,,,2026-11-20T16:25,a7bf99b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",Unibet
+2026-11-21,⚽,corners_h_u,0.763,0.768,1.19,-0.092,1,1.19,,0,,,2026-11-20T16:25,a7bf99b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",Unibet
+2026-11-21,⚽,corners_h_o,0.514,0.488,1.89,-0.028,0,0.0,,0,,,2026-11-20T16:25,a7bf99b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",Unibet
+2026-11-21,⚽,corners_a_o,0.762,0.771,1.19,-0.093,1,1.19,,0,,,2026-11-20T16:25,a7bf99b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",Unibet
+2026-11-21,⚽,corners_a_u,0.497,0.472,1.95,-0.031,1,1.95,,0,,,2026-11-20T16:25,a7bf99b,"Nice: 2 fuera, 5 duda (Antoine Mendy, Laurent Abergel); Paris SG: 1 fuera, 5 duda (K. Kvaratskhelia)",Unibet
+2026-11-21,⚽,corners_t_o,0.616,0.602,1.52,-0.064,0,0.0,,0,,,2026-11-20T17:55,199768b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Unibet
+2026-11-21,⚽,corners_t_u,0.687,0.679,1.35,-0.073,1,1.35,,0,,,2026-11-20T17:55,199768b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Unibet
+2026-11-21,⚽,corners_a_o,0.652,0.654,1.4,-0.087,1,1.4,,0,,,2026-11-20T17:55,199768b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Unibet
+2026-11-21,⚽,corners_a_u,0.703,0.684,1.34,-0.058,0,0.0,,0,,,2026-11-20T17:55,199768b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Unibet
+2026-11-21,⚽,corners_h_o,0.638,0.61,1.5,-0.043,0,0.0,,0,,,2026-11-20T17:55,199768b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Unibet
+2026-11-21,⚽,corners_h_u,0.751,0.752,1.22,-0.084,1,1.22,,0,,,2026-11-20T17:55,199768b,"Dundee: sin bajas; Hearts: 6 fuera, 4 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott)",Unibet
+2026-11-22,⚽,corners_h_o,0.339,0.306,3.0,0.016,0,0.0,,0,,,2026-11-21T10:48,1b0a8a9,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Unibet
+2026-11-22,⚽,corners_h_u,0.661,0.694,1.32,-0.127,1,1.32,,0,,,2026-11-21T10:48,1b0a8a9,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Unibet
+2026-11-22,⚽,corners_a_o,0.574,0.588,1.56,-0.105,1,1.56,,0,,,2026-11-21T10:48,1b0a8a9,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Unibet
+2026-11-22,⚽,corners_a_u,0.712,0.684,1.34,-0.045,1,1.34,,0,,,2026-11-21T10:48,1b0a8a9,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Unibet
+2026-11-22,⚽,corners_t_o,0.642,0.613,1.5,-0.036,1,1.5,,0,,,2026-11-21T10:48,1b0a8a9,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Unibet
+2026-11-22,⚽,corners_t_u,0.697,0.705,1.3,-0.094,1,1.3,,0,,,2026-11-21T10:48,1b0a8a9,"Erzurumspor: sin bajas; Goztep: 0 fuera, 2 duda",Unibet
+2026-11-22,⚽,corners_t_u,0.53,0.505,1.82,-0.035,0,0.0,,0,,,2026-11-21T16:40,1f31efc,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Unibet
+2026-11-22,⚽,corners_t_o,0.797,0.795,1.16,-0.075,1,1.16,,0,,,2026-11-21T16:40,1f31efc,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Unibet
+2026-11-22,⚽,corners_a_o,0.679,0.677,1.36,-0.077,1,1.36,,0,,,2026-11-21T16:40,1f31efc,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Unibet
+2026-11-22,⚽,corners_a_u,0.606,0.595,1.55,-0.061,1,1.55,,0,,,2026-11-21T16:40,1f31efc,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Unibet
+2026-11-22,⚽,corners_h_u,0.567,0.543,1.7,-0.037,0,0.0,,0,,,2026-11-21T16:40,1f31efc,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Unibet
+2026-11-22,⚽,corners_h_o,0.747,0.749,1.22,-0.089,1,1.22,,0,,,2026-11-21T16:40,1f31efc,"Lorient: 1 fuera, 3 duda (Bandiougou Fadiga); Rennes: 1 fuera, 1 duda (Brice Samba)",Unibet
+2026-11-23,🐉,t1,0.687,0.673,1.38,-0.052,0,0.0,-0.023,0,,,2026-11-22T02:07,960044f,,Thunderpick
+2026-11-23,🎮⚽,A,0.421,0.33,2.65,0.116,0,0.0,,0,,,2026-11-23T15:34,fbe6783,,Unibet
+2026-11-23,🎮⚽,A,0.341,0.267,3.3,0.127,1,3.3,,0,,,2026-11-23T16:07,6768347,,Unibet
