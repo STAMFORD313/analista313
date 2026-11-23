@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ALKA vs RUSH — 23/11 · 01:25
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana RUSH** @ **1.90** (Thunderpick) · prob 49% vs casas 49% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.196 partidos)  
-Mapa: ALKA 50% · Serie BO3: ALKA 51% - 49% RUSH  
-Casas: ALKA 51% · RUSH 49%  
-🔎 **Claves**  
-• Elo: ALKA 1574 (107 series) | RUSH 1570 (37 series)  
-• Forma: ALKA ✅✅✅✅✅ | RUSH ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ALKA gana 2-1: 22% → cuota justa 4.51  
-• RUSH gana 2-1: 22% → cuota justa 4.57  
+Actualizado 23/11/2026 01:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FlyQuest RED vs Axial — 23/11 · 02:00
 

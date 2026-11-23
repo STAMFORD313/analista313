@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## KravaRK vs Skif — 23/11 · 01:20
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana KravaRK** @ **2.18** (Unibet) · prob 48% vs casas 40% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.785 partidos)  
-Goles esperados: KravaRK 3.02 · Skif 2.51  
-Ganador: KravaRK 48% · empate 21% · Skif 31%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap KravaRK: −1.5 33% · −2.5 19%  
-🔎 **Claves**  
-• Forma: KravaRK ❌✅❌✅✅ | Skif ➖❌❌❌❌  
-• Partidos: KravaRK 559 | Skif 805  
-• Liga: World Cup A  
-• Unibet: 1 2.18 · X 3.85 · 2 2.30 (sin margen 40%/23%/38%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+6%) · Paf España 2.18 (+6%)  
+Actualizado 23/11/2026 01:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ssstasonn vs Simaponika — 23/11 · 02:15
 
