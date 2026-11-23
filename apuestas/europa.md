@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 24/11/2026 00:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 00:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bodo/Glimt vs LASK Linz — 24/11 · 18:45
 

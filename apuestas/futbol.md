@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 00:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 00:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Santos vs Gremio — 24/11 · 01:00
 

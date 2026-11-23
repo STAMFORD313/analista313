@@ -1,43 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 00:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 00:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Kosta vs zaha — 24/11 · 00:12
+## Dov1n vs Noltzer — 24/11 · 00:50
 
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana zaha** @ **1.07** (cuota justa (sin casa)) · prob 93% vs casas 93% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **6.25** (Unibet) · prob 20% vs casas 14% · ventaja +28%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.916 partidos)  
-Goles esperados: Kosta 3.28 · zaha 8.07  
-Ganador: Kosta 3% · empate 4% · zaha 93%  
-Total: más de 11.5 goles 44% · menos 56%  
-Hándicap zaha: −1.5 82% · −2.5 73%  
-🔎 **Claves**  
-• Forma: Kosta ❌❌❌❌❌ | zaha ✅❌✅✅✅  
-• Partidos: Kosta 354 | zaha 442  
-• Liga: Argentina Super League 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## kkikus vs ssstasonn — 24/11 · 00:17
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 15% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.937 partidos)  
-Goles esperados: kkikus 3.38 · ssstasonn 2.55  
-Ganador: kkikus 56% · empate 19% · ssstasonn 24%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap kkikus: −1.5 38% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 78.958 partidos)  
+Goles esperados: Dov1n 3.35 · Noltzer 3.27  
+Ganador: Dov1n 44% · empate 20% · Noltzer 35%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Dov1n: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: kkikus ❌❌✅❌❌ | ssstasonn ❌❌❌✅❌  
-• Partidos: kkikus 1234 | ssstasonn 1303  
-• Liga: Serie A  
-• Unibet: 1 1.71 · X 6.00 · 2 2.55 (sin margen 51%/15%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+17%) · Paf España 6.00 (+17%)  
+• Forma: Dov1n ✅✅✅➖✅ | Noltzer ✅➖➖➖➖  
+• Partidos: Dov1n 1121 | Noltzer 140  
+• Liga: Premier League  
+• Unibet: 1 2.04 · X 6.25 · 2 2.05 (sin margen 43%/14%/43%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+28%) · Paf España 6.25 (+28%)  
 
 ## ssstasonn vs tizzy — 24/11 · 00:53
 
@@ -56,6 +38,25 @@ Hándicap tizzy: −1.5 79% · −2.5 66%
 • Partidos: ssstasonn 1303 | tizzy 459  
 • Liga: Serie A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## OG vs hotShot — 24/11 · 00:56
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana OG** @ **3.85** (Unibet) · prob 31% vs casas 23% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.958 partidos)  
+Goles esperados: OG 2.05 · hotShot 2.41  
+Ganador: OG 31% · empate 24% · hotShot 45%  
+Total: más de 4.5 goles 46% · menos 54%  
+Hándicap hotShot: −1.5 29% · −2.5 15%  
+🔎 **Claves**  
+• Forma: OG ➖❌✅❌➖ | hotShot ✅❌❌❌❌  
+• Partidos: OG 721 | hotShot 716  
+• Liga: World Cup A  
+• Unibet: 1 3.85 · X 2.63 · 2 1.96 (sin margen 23%/33%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.85 (+20%) · Paf España 3.85 (+20%)  
 
 ## zaha vs Kosta — 24/11 · 01:06
 
