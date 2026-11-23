@@ -77982,16 +77982,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2392903,262797,Atleti,Barcelona,,
 2392904,262797,Real Madrid,Barcelona,,
 2392905,262797,Real Madrid,Atleti,,
-2393666,262787,B Dortmund,Man City,1,2
-2393667,262787,Arsenal,Juventus,4,3
-2393668,262787,Juventus,B Dortmund,1,0
-2393669,262787,Man City,Sporting CP,0,3
-2393670,262787,Sporting CP,Juventus,0,1
-2393671,262787,B Dortmund,Arsenal,0,3
-2393672,262787,Arsenal,Sporting CP,3,0
-2393673,262787,Juventus,Man City,3,2
-2393674,262787,Man City,Arsenal,0,2
-2393675,262787,Sporting CP,B Dortmund,0,1
+2393666,262787,B Dortmund,Man City,1.0,2.0
+2393667,262787,Arsenal,Juventus,4.0,3.0
+2393668,262787,Juventus,B Dortmund,1.0,0.0
+2393669,262787,Man City,Sporting CP,0.0,3.0
+2393670,262787,Sporting CP,Juventus,0.0,1.0
+2393671,262787,B Dortmund,Arsenal,0.0,3.0
+2393672,262787,Arsenal,Sporting CP,3.0,0.0
+2393673,262787,Juventus,Man City,3.0,2.0
+2393674,262787,Man City,Arsenal,0.0,2.0
+2393675,262787,Sporting CP,B Dortmund,0.0,1.0
 2393676,262787,Man City,B Dortmund,,
 2393677,262787,Juventus,Arsenal,,
 2393678,262787,B Dortmund,Juventus,,
@@ -78002,18 +78002,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2393683,262787,Man City,Juventus,,
 2393684,262787,Arsenal,Man City,,
 2393685,262787,B Dortmund,Sporting CP,,
-2392796,262825,Stuttgart,Leipzig,1,1
-2392797,262825,Bayern Munchen,B Dortmund,0,1
-2392798,262825,B Dortmund,Stuttgart,1,2
-2392799,262825,Leipzig,Frankfurt,1,0
-2392800,262825,Frankfurt,B Dortmund,2,1
-2392801,262825,Stuttgart,Bayern Munchen,3,1
-2392802,262825,Bayern Munchen,Frankfurt,1,1
-2392803,262825,B Dortmund,Leipzig,1,2
-2392804,262825,Leipzig,Bayern Munchen,1,2
-2392805,262825,Frankfurt,Stuttgart,0,2
-2392806,262825,Leipzig,Stuttgart,0,0
-2392807,262825,B Dortmund,Bayern Munchen,0,4
+2392796,262825,Stuttgart,Leipzig,1.0,1.0
+2392797,262825,Bayern Munchen,B Dortmund,0.0,1.0
+2392798,262825,B Dortmund,Stuttgart,1.0,2.0
+2392799,262825,Leipzig,Frankfurt,1.0,0.0
+2392800,262825,Frankfurt,B Dortmund,2.0,1.0
+2392801,262825,Stuttgart,Bayern Munchen,3.0,1.0
+2392802,262825,Bayern Munchen,Frankfurt,1.0,1.0
+2392803,262825,B Dortmund,Leipzig,1.0,2.0
+2392804,262825,Leipzig,Bayern Munchen,1.0,2.0
+2392805,262825,Frankfurt,Stuttgart,0.0,2.0
+2392806,262825,Leipzig,Stuttgart,0.0,0.0
+2392807,262825,B Dortmund,Bayern Munchen,0.0,4.0
 2392808,262825,Stuttgart,B Dortmund,,
 2392809,262825,Frankfurt,Leipzig,,
 2392810,262825,B Dortmund,Frankfurt,,
@@ -78022,3 +78022,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2392813,262825,Leipzig,B Dortmund,,
 2392814,262825,Bayern Munchen,Leipzig,,
 2392815,262825,Stuttgart,Frankfurt,,
+2393266,262824,Roma,Juventus,4,3
+2393267,262824,Bologna,Sassuolo,2,1
+2393268,262824,Sassuolo,Roma,1,3
+2393269,262824,Juventus,Napoli,1,2
+2393270,262824,Napoli,Sassuolo,3,2
+2393271,262824,Roma,Bologna,2,2
+2393272,262824,Bologna,Napoli,1,1
+2393273,262824,Sassuolo,Juventus,1,1
+2393274,262824,Juventus,Bologna,1,2
+2393275,262824,Napoli,Roma,2,1
+2393276,262824,Juventus,Roma,,
+2393277,262824,Sassuolo,Bologna,,
+2393278,262824,Roma,Sassuolo,,
+2393279,262824,Napoli,Juventus,,
+2393280,262824,Sassuolo,Napoli,,
+2393281,262824,Bologna,Roma,,
+2393282,262824,Napoli,Bologna,,
+2393283,262824,Juventus,Sassuolo,,
+2393284,262824,Bologna,Juventus,,
+2393285,262824,Roma,Napoli,,
+2393806,262838,River Plate,Man City,2,3
+2393807,262838,Real Madrid,Boca Juniors,2,3
+2393808,262838,Boca Juniors,River Plate,0,4
+2393809,262838,Man City,Paris,1,0
+2393810,262838,Paris,Boca Juniors,1,4
+2393811,262838,River Plate,Real Madrid,1,0
+2393812,262838,Real Madrid,Paris,1,2
+2393813,262838,Boca Juniors,Man City,1,0
+2393814,262838,Man City,Real Madrid,1,2
+2393815,262838,Paris,River Plate,3,3
+2393816,262838,Man City,River Plate,3,2
+2393817,262838,Boca Juniors,Real Madrid,3,1
+2393818,262838,River Plate,Boca Juniors,,
+2393819,262838,Paris,Man City,,
+2393820,262838,Boca Juniors,Paris,,
+2393821,262838,Real Madrid,River Plate,,
+2393822,262838,Paris,Real Madrid,,
+2393823,262838,Man City,Boca Juniors,,
+2393824,262838,Real Madrid,Man City,,
+2393825,262838,River Plate,Paris,,
