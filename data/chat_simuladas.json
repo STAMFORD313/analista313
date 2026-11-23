@@ -3978,5 +3978,38 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261123072337501635",
+  "creada": "2026-11-23 07:23:37.501672+00:00",
+  "titulo": "Barrido · Combinada cuota 5.5",
+  "legs": [
+   {
+    "code": "BRA",
+    "start": "2026-11-23 22:30:00+00:00",
+    "home": "Internacional",
+    "away": "Vitória",
+    "txt": "Menos de 5.5 tarjetas",
+    "odds": 2.28,
+    "p": 0.4493775961179798
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-24 04:00:00+00:00",
+    "home": "9z",
+    "away": "Lynn Vision",
+    "txt": "Gana Lynn Vision",
+    "odds": 2.4,
+    "p": 0.43921999999999994
+   }
+  ],
+  "odds": 5.47,
+  "p": 0.19737562776693907,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
