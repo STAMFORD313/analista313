@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 02:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Simaponika vs kkikus — 23/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.851 partidos)  
-Goles esperados: Simaponika 3.15 · kkikus 2.25  
-Ganador: Simaponika 58% · empate 20% · kkikus 22%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Simaponika: −1.5 39% · −2.5 24%  
-🔎 **Claves**  
-• Forma: Simaponika ✅❌❌❌✅ | kkikus ❌❌✅❌➖  
-• Partidos: Simaponika 1417 | kkikus 1210  
-• Liga: Champions League B  
-• Unibet: 1 1.37 · X 5.80 · 2 3.95 (sin margen 63%/15%/22%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+15%) · Paf España 5.80 (+15%)  
-
-## hrk vs Skif — 23/11 · 02:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hrk** @ **1.72** (Unibet) · prob 64% vs casas 51% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.851 partidos)  
-Goles esperados: hrk 3.77 · Skif 2.54  
-Ganador: hrk 64% · empate 15% · Skif 20%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap hrk: −1.5 45% · −2.5 30%  
-🔎 **Claves**  
-• Forma: hrk ✅❌➖❌✅ | Skif ❌➖➖✅✅  
-• Partidos: hrk 1002 | Skif 811  
-• Liga: Champions League A  
-• Unibet: 1 1.72 · X 4.00 · 2 3.20 (sin margen 51%/22%/27%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.72 (+11%) · Paf España 1.72 (+11%)  
+Actualizado 23/11/2026 02:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Stenido vs nicky — 23/11 · 03:08
 
