@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 05:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Asteras Tripolis vs Aris — 23/11 · 16:00
 
