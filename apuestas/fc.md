@@ -1,25 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 10:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 10:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## RuBIX vs A1ose — 23/11 · 10:46
+## Uncle vs KraftVK — 23/11 · 11:15
 
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana RuBIX** @ **2.48** (Unibet) · prob 48% vs casas 35% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana KraftVK** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +9%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.211 partidos)  
-Goles esperados: RuBIX 3.54 · A1ose 3.06  
-Ganador: RuBIX 48% · empate 18% · A1ose 34%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap RuBIX: −1.5 34% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 78.248 partidos)  
+Goles esperados: Uncle 2.65 · KraftVK 2.91  
+Ganador: Uncle 35% · empate 21% · KraftVK 44%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap KraftVK: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: RuBIX ❌✅✅❌➖ | A1ose ✅➖➖✅❌  
-• Partidos: RuBIX 396 | A1ose 1186  
-• Liga: Champions League AFC  
-• Unibet: 1 2.48 · X 3.90 · 2 2.04 (sin margen 35%/22%/43%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+19%) · Paf España 2.48 (+19%)  
+• Forma: Uncle ❌➖✅➖➖ | KraftVK ✅➖❌❌✅  
+• Partidos: Uncle 849 | KraftVK 1052  
+• Liga: World Cup B  
+• Unibet: 1 2.50 · X 2.85 · 2 2.48 (sin margen 35%/30%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+9%) · Paf España 2.48 (+9%)  
+
+## Bomb1to vs Uncle — 23/11 · 11:27
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Uncle** @ **3.40** (Unibet) · prob 34% vs casas 26% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.248 partidos)  
+Goles esperados: Bomb1to 2.74 · Uncle 2.52  
+Ganador: Bomb1to 44% · empate 22% · Uncle 34%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Bomb1to: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Bomb1to ➖✅❌➖✅ | Uncle ❌➖✅➖➖  
+• Partidos: Bomb1to 1495 | Uncle 849  
+• Liga: World Cup B  
+• Unibet: 1 2.12 · X 2.60 · 2 3.40 (sin margen 41%/33%/26%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.40 (+16%) · Paf España 3.40 (+16%)  
 
 ## A1ose vs v1nn — 23/11 · 11:30
 
@@ -58,6 +77,25 @@ Hándicap v1nniePuh: −1.5 35% · −2.5 25%
 • Liga: Champions League A 2x6  
 • Unibet: 1 1.52 · X 6.40 · 2 3.00 (sin margen 57%/14%/29%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.00 (+18%) · Paf España 3.00 (+18%)  
+
+## Ganger_29 vs w1nkos — 23/11 · 11:36
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana w1nkos** @ **2.50** (Unibet) · prob 46% vs casas 35% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.248 partidos)  
+Goles esperados: Ganger_29 3.02 · w1nkos 3.47  
+Ganador: Ganger_29 35% · empate 19% · w1nkos 46%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap w1nkos: −1.5 33% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Ganger_29 ✅✅❌✅✅ | w1nkos ❌❌✅❌❌  
+• Partidos: Ganger_29 1093 | w1nkos 1384  
+• Liga: World Cup A  
+• Unibet: 1 1.96 · X 4.20 · 2 2.50 (sin margen 44%/21%/35%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+15%) · Paf España 2.50 (+15%)  
 
 ## v1nn vs cl1vlind — 23/11 · 11:42
 
