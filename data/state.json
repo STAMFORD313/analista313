@@ -2180,7 +2180,10 @@
   "fc|2395905",
   "fc|2394816",
   "fc|2394819",
-  "fc|2395571"
+  "fc|2395571",
+  "fc|2394823",
+  "fc|2395111",
+  "fc|2394822"
  ],
  "signals": [
   {
@@ -22440,31 +22443,6 @@
    "logged": true
   },
   {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 4.7,
-   "book": "Unibet",
-   "implied": 0.187,
-   "edge": 0.114,
-   "sin_stake": true,
-   "p": 0.237,
-   "key": "fc|2389257",
-   "match": "hrk vs kirman",
-   "start": "2026-11-20T22:10:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hrk vs kirman (Portugal Primera): goles esperados 2.52-2.80, 1X2 32%/24%/44%. Sin cuotas de casa.",
-   "captured": "2026-11-20T21:26",
-   "version": "fa2f87a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "t2",
    "team_id": 23942,
    "pick": "EAC",
@@ -41726,7 +41704,11 @@
    "version": "0e5b206",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -41759,6 +41741,41 @@
    "context": "EA FC Esoccer Battle zaha vs Kosta (Argentina Super League 2x6): goles esperados 8.27-3.32, 1X2 92%/4%/4%. Sin cuotas de casa.",
    "captured": "2026-11-23T21:38",
    "version": "0e5b206",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "hotShot",
+   "odds": 2.75,
+   "book": "Unibet",
+   "implied": 0.315,
+   "edge": 0.144,
+   "sin_stake": true,
+   "p": 0.416,
+   "key": "fc|2394823",
+   "match": "hotShot vs DangerDim77",
+   "start": "2026-11-23T22:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 78.896 partidos)",
+    "Goles esperados: hotShot 2.72 · DangerDim77 2.51",
+    "Ganador: hotShot 42% · empate 23% · DangerDim77 36%",
+    "Total: más de 5.5 goles 42% · menos 58%",
+    "Hándicap hotShot: −1.5 28% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hotShot ✅➖✅✅✅ | DangerDim77 ➖❌➖❌❌",
+    "• Partidos: hotShot 712 | DangerDim77 668",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 2.75 · X 3.50 · 2 1.98 (sin margen 31%/25%/44%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.75 (+14%) · Paf España 2.75 (+14%)"
+   ],
+   "context": "EA FC Esoccer Battle hotShot vs DangerDim77 (Portugal Primera): goles esperados 2.72-2.51, 1X2 42%/23%/36%. Sin cuotas de casa.",
+   "captured": "2026-11-23T22:14",
+   "version": "e90a21c",
    "bajas": "",
    "considered": true,
    "placed": false

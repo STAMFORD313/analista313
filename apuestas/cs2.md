@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 23:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 23:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HEROIC vs Imperial — 24/11 · 05:00
 
