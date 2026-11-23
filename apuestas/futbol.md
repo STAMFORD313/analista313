@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 19:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 19:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ceuta vs Almeria — 23/11 · 20:30
 
