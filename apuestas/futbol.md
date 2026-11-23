@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 23:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Internacional vs Vitoria — 23/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Internacional** @ **1.62** (media del mercado) · prob 60% vs casas 60% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.86 - 0.81)  
-1 53% · X 25% · 2 22%  
-1X 78% · X2 47% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Internacional ❌✅❌✅❌ | Vitoria ➖➖❌❌✅  
-• H2H: 13 desde 2013: 5V-2E-6D · 2.5 goles/partido · +2.5 en 46%  
-• Bajas: Internacional: 0 fuera, 1 duda; Vitoria: sin bajas  
-• Favorito de las casas: Internacional @ 1.62  
+Actualizado 23/11/2026 23:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Botafogo RJ vs Sao Paulo — 24/11 · 00:00
 
