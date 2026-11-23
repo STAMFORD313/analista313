@@ -78963,3 +78963,35 @@ id,tournament_id,club1,club2,ht1,ht2
 2394827,262913,Porto,Benfica,,
 2394828,262913,Sporting CP,Porto,,
 2394829,262913,Vitoria SC,Braga,,
+2394322,262886,Morocco,Czechia,1,0
+2394323,262886,Netherlands,Germany,0,1
+2394324,262886,Germany,Morocco,1,2
+2394325,262886,Czechia,Norway,2,0
+2394326,262886,Norway,Germany,0,2
+2394327,262886,Morocco,Netherlands,2,0
+2394328,262886,Netherlands,Norway,0,3
+2394329,262886,Germany,Czechia,2,2
+2394330,262886,Czechia,Netherlands,1,2
+2394331,262886,Norway,Morocco,1,2
+2394332,262886,Czechia,Morocco,2,2
+2394333,262886,Germany,Netherlands,0,0
+2394334,262886,Morocco,Germany,0,1
+2394335,262886,Norway,Czechia,2,0
+2394336,262886,Germany,Norway,,
+2394337,262886,Netherlands,Morocco,,
+2394338,262886,Norway,Netherlands,,
+2394339,262886,Czechia,Germany,,
+2394340,262886,Netherlands,Czechia,,
+2394341,262886,Morocco,Norway,,
+2395570,262956,Boca Juniors,River Plate,2,0
+2395571,262956,Boca Juniors,Racing Club,5,1
+2395572,262956,River Plate,Racing Club,2,0
+2395573,262956,River Plate,Boca Juniors,0,5
+2395574,262956,Racing Club,Boca Juniors,,
+2395575,262956,Racing Club,River Plate,,
+2395576,262956,Boca Juniors,River Plate,,
+2395577,262956,Boca Juniors,Racing Club,,
+2395578,262956,River Plate,Racing Club,,
+2395579,262956,River Plate,Boca Juniors,,
+2395580,262956,Racing Club,Boca Juniors,,
+2395581,262956,Racing Club,River Plate,,

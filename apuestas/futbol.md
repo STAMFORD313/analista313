@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 23:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Botafogo RJ vs Sao Paulo — 24/11 · 00:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Botafogo RJ** @ **2.35** (mejor del mercado) · prob 41% vs casas 41% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.92)  
-1 47% · X 27% · 2 25%  
-1X 75% · X2 53% · 12 73%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 49%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Botafogo RJ ✅❌❌✅❌ | Sao Paulo ✅➖❌➖❌  
-• H2H: 25 desde 2012: 7V-8E-10D · 2.7 goles/partido · +2.5 en 52%  
-• Bajas: Botafogo RJ: 0 fuera, 1 duda; Sao Paulo: 0 fuera, 5 duda  
-• Favorito de las casas: Botafogo RJ @ 2.35  
+Actualizado 24/11/2026 00:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Santos vs Gremio — 24/11 · 01:00
 
