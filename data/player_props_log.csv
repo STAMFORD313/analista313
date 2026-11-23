@@ -21666,3 +21666,297 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Ceuta vs Almeria,Javi Muñoz,To Score,0.5,6.25,0.16,0.0972,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Sergio Arribas,To Score,0.5,2.25,0.4444,0.2711,1,2.0,1
 2026-11-23,Ceuta vs Almeria,Léo Baptistão,To score at least 2 goals,1.5,13.0,0.0769,0.0013,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Andrea Carboni,Player's shots on target,0.5,4.3,0.2326,0.1763,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To give an assist,0.5,4.0,0.25,0.0364,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Pedro Goncalves,To score at least 2 goals,1.5,20.0,0.05,0.0155,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Idrissa Touré,To Get a Card,0.5,3.6,0.2778,0.046,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,To give an assist,0.5,4.2,0.2381,0.0265,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Ricardo Mangas,To Score,0.5,6.75,0.1481,0.0797,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,To score at least 2 goals,1.5,25.0,0.04,0.0004,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To score at least 2 goals,1.5,8.0,0.125,0.0288,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To score at least 2 goals,1.5,10.5,0.0952,0.0151,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To Get a Card,0.5,4.5,0.2222,0.1682,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To score at least 3 goals,2.5,46.0,0.0217,0.0009,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Saba Goglichidze,To Score,0.5,12.5,0.08,0.0462,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,To Score,0.5,6.4,0.1562,0.0226,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,To Get a Card,0.5,4.3,0.2326,0.1147,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,To Score,0.5,5.0,0.2,0.0482,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Victor Valdepenas,To give an assist,0.5,6.25,0.16,0.0119,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To score at least 3 goals,2.5,31.0,0.0323,0.0025,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Pedro Goncalves,To Score,0.5,3.7,0.2703,0.1707,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,To score at least 2 goals,1.5,23.0,0.0435,0.0004,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Cher Ndour,Player's shots on target,0.5,2.0,0.5,0.2811,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,To give an assist,0.5,5.5,0.1818,0.0933,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Cher Ndour,To score at least 2 goals,1.5,23.0,0.0435,0.0034,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Lorenzo Lucchesi,Player's shots on target,0.5,4.1,0.2439,0.0862,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Cher Ndour,To Get a Card,0.5,4.0,0.25,0.1114,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,Player's shots on target,1.5,2.65,0.3774,0.2384,1,2.0,1
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,Player's shots on target,0.5,1.38,0.7246,0.6054,1,2.0,1
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,Player's shots on target,2.5,5.5,0.1818,0.0679,1,2.0,0
+2026-11-23,Monza vs Fiorentina,Ricardo Mangas,Player's shots on target,0.5,2.7,0.3704,0.2513,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,To give an assist,0.5,5.75,0.1739,0.0211,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,To Get a Card,0.5,4.7,0.2128,0.0236,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,To Get a Card,0.5,4.2,0.2381,0.0226,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Jan Ziolkowski,To Get a Card,0.5,4.2,0.2381,0.0399,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,Player's shots on target,2.5,10.0,0.1,0.0004,0,2.0,0
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,To score at least 3 goals,2.5,51.0,0.0196,0.0086,1,2.0,0
+2026-11-23,Monza vs Fiorentina,Idrissa Touré,To Score,0.5,7.5,0.1333,0.0248,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,Player's shots on target,1.5,2.2,0.4545,0.1165,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To Score,0.5,3.7,0.2703,0.0539,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,To score at least 2 goals,1.5,34.0,0.0294,0.0012,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,Player's shots on target,1.5,4.3,0.2326,0.003,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Marco Brescianini,To Get a Card,0.5,4.3,0.2326,0.0223,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Leonardo Colombo,Player's shots on target,1.5,5.0,0.2,0.0451,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Radu Dragusin,To give an assist,0.5,9.0,0.1111,0.0417,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,Player's shots on target,3.5,9.5,0.1053,0.003,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Jay Robinson,Player's shots on target,1.5,3.2,0.3125,0.1337,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,Player's shots on target,2.5,6.0,0.1667,0.0317,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,Player's shots on target,1.5,4.2,0.2381,0.0085,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Samuele Birindelli,To give an assist,0.5,8.0,0.125,0.0921,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Jan Ziolkowski,To give an assist,0.5,12.0,0.0833,0.0113,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Ebenezer Akinsanmiro,Player's shots on target,0.5,2.9,0.3448,0.1758,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Idrissa Touré,Player's shots on target,0.5,2.9,0.3448,0.0848,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Marco Brescianini,Player's shots on target,1.5,7.0,0.1429,0.0044,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Cher Ndour,Player's shots on target,1.5,5.3,0.1887,0.0438,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Lorenzo Lucchesi,To give an assist,0.5,11.0,0.0909,0.0073,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Adam Bakoune,To give an assist,0.5,11.5,0.087,0.0242,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Cher Ndour,To give an assist,0.5,7.0,0.1429,0.0952,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Saba Goglichidze,To give an assist,0.5,11.0,0.0909,0.0217,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Radu Dragusin,To score at least 2 goals,1.5,67.0,0.0149,0.0001,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Eddy Kouadio,To give an assist,0.5,9.5,0.1053,0.0214,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Ricardo Mangas,To Get a Card,0.5,3.7,0.2703,0.1254,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Lorenzo Lucchesi,To Score,0.5,11.0,0.0909,0.021,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To Get a Card,0.5,4.3,0.2326,0.137,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Andrea Carboni,To give an assist,0.5,7.0,0.1429,0.0309,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Jan Ziolkowski,To Score,0.5,10.5,0.0952,0.0301,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Jan Ziolkowski,Player's shots on target,0.5,4.0,0.25,0.0754,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,Player's shots on target,0.5,1.79,0.5587,0.0764,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,To score at least 3 goals,2.5,131.0,0.0076,0.0,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Ricardo Mangas,To score at least 2 goals,1.5,71.0,0.0141,0.0033,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Lorenzo Lucchesi,To score at least 2 goals,1.5,121.0,0.0083,0.0002,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Pedro Goncalves,Player's shots on target,1.5,4.4,0.2273,0.1354,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Mathis Mout,To Score,0.5,3.9,0.2564,0.0273,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Marco Brescianini,To give an assist,0.5,6.25,0.16,0.0255,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Adam Bakoune,Player's shots on target,0.5,4.7,0.2128,0.076,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Radu Dragusin,Player's shots on target,0.5,3.3,0.303,0.0741,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Saba Goglichidze,To Get a Card,0.5,4.0,0.25,0.1586,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,Player's shots on target,1.5,2.75,0.3636,0.1487,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Ebenezer Akinsanmiro,To Score,0.5,7.0,0.1429,0.0477,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Eddy Kouadio,To Score,0.5,11.0,0.0909,0.0557,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,To Score,0.5,4.2,0.2381,0.0291,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To give an assist,0.5,3.8,0.2632,0.0317,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Pedro Goncalves,To Get a Card,0.5,4.3,0.2326,0.1295,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,Player's shots on target,0.5,1.41,0.7092,0.4931,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Ricardo Mangas,To give an assist,0.5,7.0,0.1429,0.0969,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,Player's shots on target,0.5,1.62,0.6173,0.1275,0,2.0,1
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To Score,0.5,2.8,0.3571,0.1685,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Ebenezer Akinsanmiro,To Get a Card,0.5,4.2,0.2381,0.0955,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,To Score,0.5,5.8,0.1724,0.0668,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Saba Goglichidze,Player's shots on target,0.5,4.9,0.2041,0.1119,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To give an assist,0.5,4.3,0.2326,0.0501,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To Score,0.5,2.4,0.4167,0.2301,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To score at least 2 goals,1.5,21.0,0.0476,0.0015,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To score at least 3 goals,2.5,121.0,0.0083,0.0,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Victor Valdepenas,To score at least 2 goals,1.5,76.0,0.0132,0.0008,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To Score,0.5,4.4,0.2273,0.0683,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,To give an assist,0.5,6.0,0.1667,0.0277,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To score at least 2 goals,1.5,30.0,0.0333,0.0024,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,To Get a Card,0.5,4.3,0.2326,0.0276,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,Player's shots on target,0.5,3.0,0.3333,0.0878,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To Get a Card,0.5,4.2,0.2381,0.0417,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To Get a Card,0.5,3.7,0.2703,0.2411,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Pedro Goncalves,To give an assist,0.5,4.2,0.2381,0.2047,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,To score at least 2 goals,1.5,11.5,0.087,0.0647,1,2.0,1
+2026-11-23,Monza vs Fiorentina,Lorenzo Lucchesi,To Get a Card,0.5,3.7,0.2703,0.0594,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Leonardo Colombo,Player's shots on target,0.5,1.92,0.5208,0.2848,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Jay Robinson,To score at least 2 goals,1.5,17.0,0.0588,0.0127,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,To Get a Card,0.5,3.8,0.2632,0.2328,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,Player's shots on target,0.5,1.76,0.5682,0.1279,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Marco Brescianini,Player's shots on target,0.5,2.32,0.431,0.0919,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,Player's shots on target,0.5,2.02,0.495,0.1515,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,Player's shots on target,1.5,3.6,0.2778,0.0085,0,2.0,1
+2026-11-23,Monza vs Fiorentina,Jay Robinson,To give an assist,0.5,5.4,0.1852,0.0831,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Jay Robinson,Player's shots on target,0.5,1.52,0.6579,0.4704,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Marco Brescianini,To score at least 2 goals,1.5,31.0,0.0323,0.0003,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Samuele Birindelli,To Get a Card,0.5,4.0,0.25,0.1584,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Marco Brescianini,To Score,0.5,4.7,0.2128,0.0251,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To give an assist,0.5,6.5,0.1538,0.0882,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Andrea Carboni,To Get a Card,0.5,4.7,0.2128,0.1507,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,To score at least 2 goals,1.5,46.0,0.0217,0.0023,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,To score at least 2 goals,1.5,56.0,0.0179,0.0003,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Jay Robinson,To Get a Card,0.5,4.1,0.2439,0.0671,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Radu Dragusin,To Score,0.5,7.0,0.1429,0.0169,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Eddy Kouadio,To Get a Card,0.5,3.5,0.2857,0.1834,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Andrea Carboni,To Score,0.5,12.5,0.08,0.0366,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,To give an assist,0.5,4.5,0.2222,0.0388,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,Player's shots on target,0.5,2.7,0.3704,0.2246,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Victor Valdepenas,Player's shots on target,0.5,3.6,0.2778,0.0967,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Eddy Kouadio,Player's shots on target,0.5,4.2,0.2381,0.1972,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Victor Valdepenas,To Get a Card,0.5,4.0,0.25,0.0341,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Samuele Birindelli,To Score,0.5,8.5,0.1176,0.0789,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,To give an assist,0.5,5.2,0.1923,0.0734,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Ebenezer Akinsanmiro,To give an assist,0.5,6.75,0.1481,0.0746,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Victor Valdepenas,To Score,0.5,8.0,0.125,0.0399,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Samuele Birindelli,Player's shots on target,0.5,2.6,0.3846,0.3532,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Jay Robinson,To Score,0.5,3.4,0.2941,0.1548,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Cher Ndour,To Score,0.5,4.0,0.25,0.0809,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Gustavo Varela,To Score,0.5,2.85,0.3509,0.3374,1,2.0,1
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,Player's shots on target,2.5,4.3,0.2326,0.0215,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,Player's shots on target,0.5,1.27,0.7874,0.4421,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Adam Bakoune,To Score,0.5,12.0,0.0833,0.0223,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Radu Dragusin,To Get a Card,0.5,4.2,0.2381,0.1406,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Idrissa Touré,To give an assist,0.5,5.5,0.1818,0.0098,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Pedro Goncalves,Player's shots on target,0.5,1.8,0.5556,0.4729,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Adam Bakoune,To Get a Card,0.5,3.6,0.2778,0.0292,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,To Get a Card,0.5,4.5,0.2222,0.0286,0,0.0,0
+2026-11-23,Levante vs Elche,Gonzalo Villar,Player's shots on target,0.5,2.65,0.3774,0.2707,1,0.0,0
+2026-11-23,Levante vs Elche,Kevin Lomónaco,To Score,0.5,12.0,0.0833,0.0171,0,0.0,0
+2026-11-23,Levante vs Elche,Hugo Sotelo,To Score,0.5,7.0,0.1429,0.0208,0,0.0,0
+2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,Player's shots on target,0.5,4.4,0.2273,0.0749,0,0.0,0
+2026-11-23,Levante vs Elche,Ezequiel Ponce,To Get a Card,0.5,2.7,0.3704,0.0307,0,0.0,0
+2026-11-23,Levante vs Elche,Petar Ratkov,To score at least 2 goals,1.5,18.0,0.0556,0.0006,0,0.0,0
+2026-11-23,Levante vs Elche,Grady Diangana,To Get a Card,0.5,4.5,0.2222,0.0424,0,0.0,0
+2026-11-23,Levante vs Elche,Ezequiel Ponce,Player's shots on target,0.5,1.49,0.6711,0.105,0,0.0,0
+2026-11-23,Levante vs Elche,Thiago Fernandez,To score at least 2 goals,1.5,17.0,0.0588,0.0021,1,0.0,0
+2026-11-23,Levante vs Elche,Roger Brugué,Player's shots on target,0.5,1.61,0.6211,0.4746,1,0.0,0
+2026-11-23,Levante vs Elche,Martim Neto,To give an assist,0.5,6.0,0.1667,0.0201,0,0.0,0
+2026-11-23,Levante vs Elche,Thomas Lemar,To Get a Card,0.5,3.1,0.3226,0.0405,0,0.0,0
+2026-11-23,Levante vs Elche,Manu Sánchez,To give an assist,0.5,8.0,0.125,0.0341,1,0.0,0
+2026-11-23,Levante vs Elche,Gonzalo Villar,To give an assist,0.5,6.25,0.16,0.0628,1,0.0,0
+2026-11-23,Levante vs Elche,Jorge Cabello,To Get a Card,0.5,3.9,0.2564,0.0248,0,0.0,0
+2026-11-23,Levante vs Elche,Petar Ratkov,Player's shots on target,0.5,1.61,0.6211,0.095,0,0.0,0
+2026-11-23,Levante vs Elche,Enzo Bardeli,Player's shots on target,0.5,1.87,0.5348,0.1045,0,0.0,0
+2026-11-23,Levante vs Elche,Nacho Pérez,To Score,0.5,8.5,0.1176,0.0321,0,0.0,0
+2026-11-23,Levante vs Elche,Pedro Bigas,To Get a Card,0.5,2.9,0.3448,0.029,0,0.0,0
+2026-11-23,Levante vs Elche,Iván Romero,To give an assist,0.5,3.8,0.2632,0.0413,1,0.0,0
+2026-11-23,Levante vs Elche,Nacho Pérez,Player's shots on target,0.5,3.6,0.2778,0.0868,0,0.0,0
+2026-11-23,Levante vs Elche,Thomas Lemar,Player's shots on target,0.5,2.7,0.3704,0.0934,0,0.0,0
+2026-11-23,Levante vs Elche,Matia Barzic,To Get a Card,0.5,3.5,0.2857,0.0682,0,0.0,0
+2026-11-23,Levante vs Elche,Lucas Cepeda,To Get a Card,0.5,3.4,0.2941,0.1638,1,0.0,0
+2026-11-23,Levante vs Elche,Grady Diangana,Player's shots on target,0.5,2.75,0.3636,0.0877,0,0.0,0
+2026-11-23,Levante vs Elche,Martim Neto,To Score,0.5,8.5,0.1176,0.0267,0,0.0,0
+2026-11-23,Levante vs Elche,Ezequiel Ponce,To score at least 2 goals,1.5,17.0,0.0588,0.0005,0,0.0,0
+2026-11-23,Levante vs Elche,Grady Diangana,To score at least 2 goals,1.5,56.0,0.0179,0.0004,0,0.0,0
+2026-11-23,Levante vs Elche,Gonzalo Villar,To Score,0.5,6.25,0.16,0.0628,1,0.0,0
+2026-11-23,Levante vs Elche,Jon Ander Olasagasti,To give an assist,0.5,5.0,0.2,0.1181,1,1.0,1
+2026-11-23,Levante vs Elche,Hugo Sotelo,Player's shots on target,0.5,3.1,0.3226,0.0596,0,0.0,0
+2026-11-23,Levante vs Elche,Jorge Cabello,To give an assist,0.5,13.0,0.0769,0.0089,0,0.0,0
+2026-11-23,Levante vs Elche,Hugo Sotelo,To give an assist,0.5,6.5,0.1538,0.0145,0,0.0,0
+2026-11-23,Levante vs Elche,Martim Neto,Player's shots on target,0.5,3.6,0.2778,0.077,0,0.0,0
+2026-11-23,Levante vs Elche,Pedro Bigas,Player's shots on target,0.5,5.0,0.2,0.0727,0,0.0,0
+2026-11-23,Levante vs Elche,Ezequiel Ponce,Player's shots on target,1.5,3.4,0.2941,0.0057,0,0.0,0
+2026-11-23,Levante vs Elche,Roy Revivo,Player's shots on target,0.5,3.9,0.2564,0.1987,1,1.0,1
+2026-11-23,Levante vs Elche,Enzo Bardeli,Player's shots on target,1.5,5.3,0.1887,0.0057,0,0.0,0
+2026-11-23,Levante vs Elche,Javier Morcillo,Player's shots on target,0.5,2.55,0.3922,0.2477,1,0.0,0
+2026-11-23,Levante vs Elche,Pedro Bigas,To give an assist,0.5,12.0,0.0833,0.0184,0,0.0,0
+2026-11-23,Levante vs Elche,Roy Revivo,To give an assist,0.5,8.5,0.1176,0.0793,1,0.0,0
+2026-11-23,Levante vs Elche,Kevin Lomónaco,To give an assist,0.5,12.0,0.0833,0.0108,0,0.0,0
+2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,To give an assist,0.5,10.5,0.0952,0.0105,0,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,To score at least 3 goals,2.5,46.0,0.0217,0.003,1,0.0,0
+2026-11-23,Levante vs Elche,Hugo Sotelo,To score at least 2 goals,1.5,61.0,0.0164,0.0002,0,0.0,0
+2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,To score at least 2 goals,1.5,131.0,0.0076,0.0006,0,0.0,0
+2026-11-23,Levante vs Elche,Iván Romero,Player's shots on target,1.5,2.8,0.3571,0.155,1,0.0,0
+2026-11-23,Levante vs Elche,Lucas Cepeda,Player's shots on target,1.5,4.8,0.2083,0.1321,1,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,Player's shots on target,1.5,4.9,0.2041,0.026,1,0.0,0
+2026-11-23,Levante vs Elche,Matia Barzic,Player's shots on target,0.5,5.0,0.2,0.0653,0,0.0,0
+2026-11-23,Levante vs Elche,Matia Barzic,To give an assist,0.5,12.0,0.0833,0.0084,0,0.0,0
+2026-11-23,Levante vs Elche,Petar Ratkov,Player's shots on target,1.5,3.8,0.2632,0.0047,0,0.0,0
+2026-11-23,Levante vs Elche,Jorge Cabello,Player's shots on target,0.5,4.3,0.2326,0.0614,0,0.0,0
+2026-11-23,Levante vs Elche,Aïssa Mandi,To score at least 2 goals,1.5,111.0,0.009,0.0002,1,0.0,0
+2026-11-23,Levante vs Elche,Josan,To score at least 2 goals,1.5,61.0,0.0164,0.0004,0,0.0,0
+2026-11-23,Levante vs Elche,Iván Romero,To Score,0.5,2.85,0.3509,0.1948,1,0.0,0
+2026-11-23,Levante vs Elche,Adrián De La Fuente,To Get a Card,0.5,3.2,0.3125,0.2156,1,0.0,0
+2026-11-23,Levante vs Elche,Aïssa Mandi,To Get a Card,0.5,4.4,0.2273,0.1754,1,1.0,1
+2026-11-23,Levante vs Elche,Victor Chust,Player's shots on target,0.5,4.8,0.2083,0.1152,1,0.0,0
+2026-11-23,Levante vs Elche,Thomas Lemar,To score at least 2 goals,1.5,56.0,0.0179,0.0007,0,0.0,0
+2026-11-23,Levante vs Elche,Nacho Pérez,To score at least 2 goals,1.5,91.0,0.011,0.0005,0,0.0,0
+2026-11-23,Levante vs Elche,Iván Romero,To score at least 3 goals,2.5,51.0,0.0196,0.0014,1,0.0,0
+2026-11-23,Levante vs Elche,Federico Redondo,Player's shots on target,0.5,4.6,0.2174,0.1414,1,1.0,1
+2026-11-23,Levante vs Elche,Manu Sánchez,Player's shots on target,0.5,4.3,0.2326,0.118,1,0.0,0
+2026-11-23,Levante vs Elche,Victor Chust,To give an assist,0.5,15.0,0.0667,0.0393,1,0.0,0
+2026-11-23,Levante vs Elche,Thiago Fernandez,Player's shots on target,1.5,3.6,0.2778,0.0476,1,0.0,0
+2026-11-23,Levante vs Elche,Kevin Lomónaco,Player's shots on target,0.5,5.0,0.2,0.0569,0,0.0,0
+2026-11-23,Levante vs Elche,Roger Brugué,Player's shots on target,1.5,3.9,0.2564,0.1364,1,0.0,0
+2026-11-23,Levante vs Elche,Adrián De La Fuente,To give an assist,0.5,11.0,0.0909,0.027,1,0.0,0
+2026-11-23,Levante vs Elche,Aïssa Mandi,To give an assist,0.5,11.5,0.087,0.0158,1,0.0,0
+2026-11-23,Levante vs Elche,Jeremy Toljan,To score at least 2 goals,1.5,91.0,0.011,0.0002,1,0.0,0
+2026-11-23,Levante vs Elche,Jeremy Toljan,To give an assist,0.5,7.5,0.1333,0.0793,1,0.0,0
+2026-11-23,Levante vs Elche,Federico Redondo,To Get a Card,0.5,3.15,0.3175,0.2382,1,1.0,1
+2026-11-23,Levante vs Elche,Thiago Fernandez,Player's shots on target,0.5,1.55,0.6452,0.2922,1,0.0,0
+2026-11-23,Levante vs Elche,Petar Ratkov,To Get a Card,0.5,4.7,0.2128,0.024,0,0.0,0
+2026-11-23,Levante vs Elche,Enzo Bardeli,To Get a Card,0.5,4.0,0.25,0.0178,0,0.0,0
+2026-11-23,Levante vs Elche,Jeremy Toljan,Player's shots on target,0.5,3.8,0.2632,0.0601,1,0.0,0
+2026-11-23,Levante vs Elche,Thiago Fernandez,To Score,0.5,3.5,0.2857,0.0639,1,0.0,0
+2026-11-23,Levante vs Elche,Aïssa Mandi,Player's shots on target,0.5,4.2,0.2381,0.1053,1,0.0,0
+2026-11-23,Levante vs Elche,Thiago Fernandez,To give an assist,0.5,5.0,0.2,0.1364,1,0.0,0
+2026-11-23,Levante vs Elche,Javier Morcillo,To score at least 2 goals,1.5,46.0,0.0217,0.0017,1,0.0,0
+2026-11-23,Levante vs Elche,Jorge Cabello,To Score,0.5,10.0,0.1,0.0198,0,0.0,0
+2026-11-23,Levante vs Elche,Jon Ander Olasagasti,To score at least 2 goals,1.5,51.0,0.0196,0.0027,1,0.0,0
+2026-11-23,Levante vs Elche,Josan,To Get a Card,0.5,4.1,0.2439,0.0379,0,0.0,0
+2026-11-23,Levante vs Elche,Jon Ander Olasagasti,To Score,0.5,6.25,0.16,0.0731,1,0.0,0
+2026-11-23,Levante vs Elche,Victor Chust,To Score,0.5,12.5,0.08,0.0381,1,0.0,0
+2026-11-23,Levante vs Elche,Martim Neto,To Get a Card,0.5,3.3,0.303,0.0435,0,0.0,0
+2026-11-23,Levante vs Elche,Javier Morcillo,To give an assist,0.5,7.5,0.1333,0.0511,1,0.0,0
+2026-11-23,Levante vs Elche,Roy Revivo,To Get a Card,0.5,3.1,0.3226,0.1293,1,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,To give an assist,0.5,5.0,0.2,0.0408,1,0.0,0
+2026-11-23,Levante vs Elche,Adrián De La Fuente,To Score,0.5,5.8,0.1724,0.1026,1,0.0,0
+2026-11-23,Levante vs Elche,Federico Redondo,To give an assist,0.5,9.5,0.1053,0.0268,1,0.0,0
+2026-11-23,Levante vs Elche,Jeremy Toljan,To Get a Card,0.5,3.3,0.303,0.1787,1,0.0,0
+2026-11-23,Levante vs Elche,Thiago Fernandez,To Get a Card,0.5,4.0,0.25,0.1214,1,1.0,1
+2026-11-23,Levante vs Elche,Iván Romero,To Get a Card,0.5,5.0,0.2,0.1424,1,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,To Get a Card,0.5,2.75,0.3636,0.1293,1,0.0,0
+2026-11-23,Levante vs Elche,Ezequiel Ponce,To Score,0.5,3.4,0.2941,0.0323,0,0.0,0
+2026-11-23,Levante vs Elche,Grady Diangana,To Score,0.5,6.4,0.1562,0.0282,0,0.0,0
+2026-11-23,Levante vs Elche,Thomas Lemar,To Score,0.5,6.1,0.1639,0.0376,0,0.0,0
+2026-11-23,Levante vs Elche,Josan,To give an assist,0.5,7.5,0.1333,0.0401,0,0.0,0
+2026-11-23,Levante vs Elche,Gonzalo Villar,To score at least 2 goals,1.5,56.0,0.0179,0.002,1,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,To Score,0.5,4.2,0.2381,0.1141,1,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,To score at least 2 goals,1.5,25.0,0.04,0.0068,1,0.0,0
+2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,To Get a Card,0.5,3.6,0.2778,0.0194,0,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,To Score,0.5,2.75,0.3636,0.2438,1,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,To score at least 2 goals,1.5,10.0,0.1,0.0325,1,0.0,0
+2026-11-23,Levante vs Elche,Matia Barzic,To Score,0.5,12.0,0.0833,0.0262,0,0.0,0
+2026-11-23,Levante vs Elche,Roger Brugué,To Score,0.5,3.5,0.2857,0.2124,1,0.0,0
+2026-11-23,Levante vs Elche,Josan,To Score,0.5,7.0,0.1429,0.0281,0,0.0,0
+2026-11-23,Levante vs Elche,Iván Romero,To score at least 2 goals,1.5,11.5,0.087,0.0203,1,0.0,0
+2026-11-23,Levante vs Elche,Lucas Cepeda,To score at least 2 goals,1.5,26.0,0.0385,0.003,1,0.0,0
+2026-11-23,Levante vs Elche,Petar Ratkov,To Score,0.5,3.6,0.2778,0.0341,0,0.0,0
+2026-11-23,Levante vs Elche,Iván Romero,Player's shots on target,0.5,1.34,0.7463,0.5023,1,0.0,0
+2026-11-23,Levante vs Elche,Jon Ander Olasagasti,Player's shots on target,0.5,2.75,0.3636,0.2853,1,0.0,0
+2026-11-23,Levante vs Elche,Roy Revivo,To Score,0.5,9.5,0.1053,0.0401,1,1.0,1
+2026-11-23,Levante vs Elche,Javier Morcillo,To Score,0.5,5.6,0.1786,0.0574,1,0.0,0
+2026-11-23,Levante vs Elche,Javier Morcillo,To Get a Card,0.5,3.3,0.303,0.2016,1,0.0,0
+2026-11-23,Levante vs Elche,Federico Redondo,To Score,0.5,10.0,0.1,0.0586,1,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,Player's shots on target,0.5,1.3,0.7692,0.4939,1,0.0,0
+2026-11-23,Levante vs Elche,Fer Niño,Player's shots on target,1.5,2.65,0.3774,0.1493,1,0.0,0
+2026-11-23,Levante vs Elche,Hugo Sotelo,To Get a Card,0.5,4.3,0.2326,0.0382,0,0.0,0
+2026-11-23,Levante vs Elche,Victor Chust,To Get a Card,0.5,3.0,0.3333,0.1721,1,0.0,0
+2026-11-23,Levante vs Elche,Roger Brugué,To score at least 2 goals,1.5,17.0,0.0588,0.0243,1,0.0,0
+2026-11-23,Levante vs Elche,Josan,Player's shots on target,0.5,3.05,0.3279,0.0818,0,0.0,0
+2026-11-23,Levante vs Elche,Gonzalo Villar,To Get a Card,0.5,2.45,0.4082,0.2201,1,0.0,0
+2026-11-23,Levante vs Elche,Manu Sánchez,To Score,0.5,10.0,0.1,0.0212,1,0.0,0
+2026-11-23,Levante vs Elche,Thomas Lemar,To give an assist,0.5,6.5,0.1538,0.0104,0,0.0,0
+2026-11-23,Levante vs Elche,Grady Diangana,To give an assist,0.5,7.0,0.1429,0.0138,0,0.0,0
+2026-11-23,Levante vs Elche,Lucas Cepeda,To Score,0.5,4.3,0.2326,0.0761,1,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,Player's shots on target,0.5,1.87,0.5348,0.219,1,0.0,0
+2026-11-23,Levante vs Elche,Jeremy Toljan,To Score,0.5,8.5,0.1176,0.0178,1,0.0,0
+2026-11-23,Levante vs Elche,Adrián De La Fuente,To score at least 2 goals,1.5,46.0,0.0217,0.0054,1,0.0,0
+2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,To Score,0.5,10.0,0.1,0.033,0,0.0,0
+2026-11-23,Levante vs Elche,Petar Ratkov,To give an assist,0.5,4.1,0.2439,0.0223,0,0.0,0
+2026-11-23,Levante vs Elche,Jon Ander Olasagasti,To Get a Card,0.5,3.5,0.2857,0.0957,1,0.0,0
+2026-11-23,Levante vs Elche,Aïssa Mandi,To Score,0.5,9.5,0.1053,0.0191,1,0.0,0
+2026-11-23,Levante vs Elche,Manu Sánchez,To Get a Card,0.5,4.6,0.2174,0.1535,1,0.0,0
+2026-11-23,Levante vs Elche,Roger Brugué,To Get a Card,0.5,4.5,0.2222,0.1077,1,0.0,0
+2026-11-23,Levante vs Elche,Lucas Cepeda,To give an assist,0.5,4.5,0.2222,0.1144,1,0.0,0
+2026-11-23,Levante vs Elche,Pedro Bigas,To Score,0.5,12.0,0.0833,0.0248,0,0.0,0
+2026-11-23,Levante vs Elche,Ezequiel Ponce,To give an assist,0.5,4.5,0.2222,0.0139,0,0.0,0
+2026-11-23,Levante vs Elche,Roger Brugué,To give an assist,0.5,5.0,0.2,0.084,1,0.0,0
+2026-11-23,Levante vs Elche,Enzo Bardeli,To give an assist,0.5,6.0,0.1667,0.0289,0,0.0,0
+2026-11-23,Levante vs Elche,Nacho Pérez,To Get a Card,0.5,3.5,0.2857,0.024,0,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,To give an assist,0.5,5.2,0.1923,0.081,1,1.0,1
+2026-11-23,Levante vs Elche,Lucas Cepeda,Player's shots on target,0.5,1.82,0.5495,0.4678,1,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,To Get a Card,0.5,3.5,0.2857,0.1709,1,0.0,0
+2026-11-23,Levante vs Elche,Enzo Bardeli,To Score,0.5,3.9,0.2564,0.0413,0,0.0,0
+2026-11-23,Levante vs Elche,Enzo Bardeli,To score at least 2 goals,1.5,25.0,0.04,0.0009,0,0.0,0
+2026-11-23,Levante vs Elche,Adrián De La Fuente,Player's shots on target,0.5,2.65,0.3774,0.2957,1,0.0,0
+2026-11-23,Levante vs Elche,Nacho Pérez,To give an assist,0.5,11.0,0.0909,0.0097,0,0.0,0
