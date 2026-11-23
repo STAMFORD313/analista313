@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 08:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 09:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs ROUNDS — 23/11 · 16:30
 
@@ -225,6 +225,26 @@ Casas: DONSTU 77% · Fortress 23%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • DONSTU gana 2-1: 25% → cuota justa 4.06  
 • Fortress gana 2-1: 13% → cuota justa 7.87  
+
+## Inner Circle Academy vs Passion Academy — 24/11 · 12:30
+
+👀 candidata · 🎮 CS2 · United21 Season 59 · **Gana Inner Circle Academy** @ **1.13** (Thunderpick) · prob 85% vs casas 82% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.201 partidos)  
+Mapa: Inner Circle Academy 78% · Serie BO3: Inner Circle Academy 88% - 12% Passion Academy  
+Casas: Inner Circle Academy 82% · Passion Academy 18%  
+🔎 **Claves**  
+• Elo: Inner Circle Academy 1685 (106 series) | Passion Academy 1347 (37 series)  
+• Forma: Inner Circle Academy ❌❌✅✅❌ | Passion Academy ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: United21 Season 59 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Inner Circle Academy gana 2-1: 19% → cuota justa 5.22 · casa 26%  
+• Passion Academy gana 2-1: 5% → cuota justa 18.50 · casa 8%  
 
 ## boyband vs BOJONG — 24/11 · 16:30
 

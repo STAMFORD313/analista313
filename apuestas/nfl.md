@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 23/11/2026 08:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 09:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Washington Commanders vs Cincinnati Bengals — 24/11 · 02:15
 
