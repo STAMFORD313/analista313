@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 06:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs ROUNDS — 23/11 · 16:30
 
@@ -245,4 +245,24 @@ Casas: boyband 57% · BOJONG 43%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • boyband gana 2-1: 22% → cuota justa 4.61  
 • BOJONG gana 2-1: 22% → cuota justa 4.47  
+
+## HAVU vs KUUSAMO — 24/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana KUUSAMO** @ **3.61** (Thunderpick) · prob 26% vs casas 25% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.201 partidos)  
+Mapa: HAVU 66% · Serie BO3: HAVU 73% - 27% KUUSAMO  
+Casas: HAVU 75% · KUUSAMO 25%  
+🔎 **Claves**  
+• Elo: HAVU 1612 (379 series) | KUUSAMO 1439 (154 series)  
+• Forma: HAVU ✅✅✅❌✅ | KUUSAMO ❌✅✅✅❌  
+• H2H: 3: 3-0  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• HAVU gana 2-1: 25% → cuota justa 4.05  
+• KUUSAMO gana 2-1: 13% → cuota justa 7.74  
 
