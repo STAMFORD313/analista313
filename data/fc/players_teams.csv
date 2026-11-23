@@ -78407,3 +78407,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2394567,262932,Shanghai Shenhua,Shanghai Port,,
 2394568,262932,Shandong Taishan,Shanghai Shenhua,,
 2395631,262932,Chengdu Rongcheng,Beijing Guoan,,
+2394202,262885,Roma,Juventus,1,6
+2394203,262885,Bologna,Sassuolo,1,2
+2394204,262885,Sassuolo,Roma,3,0
+2394205,262885,Juventus,Napoli,2,2
+2394206,262885,Napoli,Sassuolo,2,1
+2394207,262885,Roma,Bologna,1,2
+2394208,262885,Bologna,Napoli,2,2
+2394209,262885,Sassuolo,Juventus,5,4
+2394210,262885,Juventus,Bologna,0,0
+2394211,262885,Napoli,Roma,0,6
+2394212,262885,Juventus,Roma,,
+2394213,262885,Sassuolo,Bologna,,
+2394214,262885,Roma,Sassuolo,,
+2394215,262885,Napoli,Juventus,,
+2394216,262885,Sassuolo,Napoli,,
+2394217,262885,Bologna,Roma,,
+2394218,262885,Napoli,Bologna,,
+2394219,262885,Juventus,Sassuolo,,
+2394220,262885,Bologna,Juventus,,
+2394221,262885,Roma,Napoli,,
+2395996,262954,Real Madrid,Atleti,1,5
+2395997,262954,Bayern Munchen,Liverpool,2,2
+2395998,262954,Bayern Munchen,Real Madrid,3,2
+2395999,262954,Liverpool,Atleti,1,0
+2396000,262954,Atleti,Bayern Munchen,0,1
+2396001,262954,Liverpool,Real Madrid,1,2
+2396002,262954,Real Madrid,Atleti,,
+2396003,262954,Bayern Munchen,Liverpool,,
+2395505,262954,Bayern Munchen,Real Madrid,,
+2396004,262954,Liverpool,Atleti,,
