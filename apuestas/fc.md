@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 10:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 11:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Uncle vs KraftVK — 23/11 · 11:15
+## kamito vs Loka — 23/11 · 11:20
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana KraftVK** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.37** (Unibet) · prob 84% vs casas 63% · ventaja +15%
 
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.248 partidos)  
-Goles esperados: Uncle 2.65 · KraftVK 2.91  
-Ganador: Uncle 35% · empate 21% · KraftVK 44%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap KraftVK: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 78.260 partidos)  
+Goles esperados: kamito 2.87 · Loka 5.97  
+Ganador: kamito 9% · empate 7% · Loka 84%  
+Total: más de 8.5 goles 52% · menos 48%  
+Hándicap Loka: −1.5 70% · −2.5 57%  
 🔎 **Claves**  
-• Forma: Uncle ❌➖✅➖➖ | KraftVK ✅➖❌❌✅  
-• Partidos: Uncle 849 | KraftVK 1052  
-• Liga: World Cup B  
-• Unibet: 1 2.50 · X 2.85 · 2 2.48 (sin margen 35%/30%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+9%) · Paf España 2.48 (+9%)  
+• Forma: kamito ❌❌❌❌❌ | Loka ✅✅✅✅✅  
+• Partidos: kamito 708 | Loka 1452  
+• Liga: CSL  
+• Unibet: 1 3.70 · X 6.50 · 2 1.37 (sin margen 23%/13%/63%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.37 (+15%) · Paf España 1.37 (+15%)  
 
 ## Bomb1to vs Uncle — 23/11 · 11:27
 
@@ -96,6 +96,25 @@ Hándicap w1nkos: −1.5 33% · −2.5 21%
 • Liga: World Cup A  
 • Unibet: 1 1.96 · X 4.20 · 2 2.50 (sin margen 44%/21%/35%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.50 (+15%) · Paf España 2.50 (+15%)  
+
+## zoyir vs TikitakaMaster — 23/11 · 11:36
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **3.15** (Unibet) · prob 35% vs casas 28% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.260 partidos)  
+Goles esperados: zoyir 3.45 · TikitakaMaster 3.80  
+Ganador: zoyir 35% · empate 17% · TikitakaMaster 48%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap TikitakaMaster: −1.5 33% · −2.5 21%  
+🔎 **Claves**  
+• Forma: zoyir ✅✅❌➖✅ | TikitakaMaster ❌✅✅✅✅  
+• Partidos: zoyir 703 | TikitakaMaster 845  
+• Liga: Champions League A 2x6  
+• Unibet: 1 3.15 · X 5.75 · 2 1.52 (sin margen 28%/15%/57%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.15 (+10%) · Paf España 3.15 (+10%)  
 
 ## v1nn vs cl1vlind — 23/11 · 11:42
 
