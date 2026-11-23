@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 07:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 08:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Uncle vs Bomb1to — 23/11 · 07:57
+## Frantsuz vs zoyir — 23/11 · 08:24
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Uncle** @ **3.30** (Unibet) · prob 34% vs casas 26% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **2.18** (Unibet) · prob 49% vs casas 40% · ventaja +7%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.076 partidos)  
-Goles esperados: Uncle 2.50 · Bomb1to 2.78  
-Ganador: Uncle 34% · empate 22% · Bomb1to 44%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Bomb1to: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 78.103 partidos)  
+Goles esperados: Frantsuz 3.59 · zoyir 3.91  
+Ganador: Frantsuz 34% · empate 17% · zoyir 49%  
+Total: más de 7.5 goles 48% · menos 52%  
+Hándicap zoyir: −1.5 33% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Uncle ❌❌➖➖✅ | Bomb1to ➖✅➖✅✅  
-• Partidos: Uncle 837 | Bomb1to 1483  
-• Liga: World Cup A  
-• Unibet: 1 3.30 · X 2.48 · 2 2.23 (sin margen 26%/35%/39%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.30 (+12%) · Paf España 3.30 (+12%)  
+• Forma: Frantsuz ❌✅✅➖❌ | zoyir ➖✅❌➖❌  
+• Partidos: Frantsuz 786 | zoyir 696  
+• Liga: Premier League 2x6  
+• Unibet: 1 2.00 · X 5.40 · 2 2.18 (sin margen 44%/16%/40%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.18 (+7%) · Paf España 2.18 (+7%)  
 
-## w1nkos vs Ganger_29 — 23/11 · 08:06
+## RuBIX vs A1ose — 23/11 · 08:36
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana w1nkos** @ **2.43** (Unibet) · prob 50% vs casas 36% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana RuBIX** @ **2.38** (Unibet) · prob 48% vs casas 37% · ventaja +14%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.076 partidos)  
-Goles esperados: w1nkos 3.66 · Ganger_29 2.99  
-Ganador: w1nkos 50% · empate 18% · Ganger_29 32%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap w1nkos: −1.5 37% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 78.103 partidos)  
+Goles esperados: RuBIX 3.78 · A1ose 3.25  
+Ganador: RuBIX 48% · empate 19% · A1ose 33%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap RuBIX: −1.5 35% · −2.5 22%  
 🔎 **Claves**  
-• Forma: w1nkos ➖❌❌✅✅ | Ganger_29 ❌✅❌❌✅  
-• Partidos: w1nkos 1374 | Ganger_29 1084  
-• Liga: Bundesliga  
-• Unibet: 1 2.43 · X 4.00 · 2 2.06 (sin margen 36%/22%/42%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.43 (+22%) · Paf España 2.43 (+22%)  
+• Forma: RuBIX ✅✅✅✅❌ | A1ose ❌➖❌✅✅  
+• Partidos: RuBIX 388 | A1ose 1179  
+• Liga: Europa League  
+• Unibet: 1 2.38 · X 4.70 · 2 1.97 (sin margen 37%/19%/45%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+14%) · Paf España 2.38 (+14%)  
 
-## mko1919 vs Uncle — 23/11 · 08:09
+## Totti vs Ganger_29 — 23/11 · 08:40
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **5.30** (Unibet) · prob 25% vs casas 17% · ventaja +31%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Totti** @ **2.60** (Unibet) · prob 41% vs casas 33% · ventaja +7%
 
-- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.076 partidos)  
-Goles esperados: mko1919 2.30 · Uncle 3.00  
-Ganador: mko1919 25% · empate 20% · Uncle 55%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap Uncle: −1.5 36% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 78.103 partidos)  
+Goles esperados: Totti 2.88 · Ganger_29 2.81  
+Ganador: Totti 41% · empate 20% · Ganger_29 39%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Totti: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: mko1919 ❌❌❌➖❌ | Uncle ❌❌➖➖✅  
-• Partidos: mko1919 1380 | Uncle 837  
-• Liga: World Cup A  
-• Unibet: 1 5.30 · X 3.60 · 2 1.50 (sin margen 17%/25%/59%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+31%) · Paf España 5.30 (+31%)  
+• Forma: Totti ❌✅✅❌❌ | Ganger_29 ❌✅❌❌✅  
+• Partidos: Totti 1174 | Ganger_29 1084  
+• Liga: Ligue 1  
+• Unibet: 1 2.60 · X 3.60 · 2 2.05 (sin margen 33%/24%/42%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+7%) · Paf España 2.60 (+7%)  
 

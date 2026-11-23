@@ -78107,16 +78107,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2395474,262950,Chelsea,Man City,,
 2395475,262950,Tottenham,Arsenal,,
 2395456,262950,Tottenham,Man City,,
-2394650,262898,Spain,Brazil,0,1
-2394651,262898,France,Argentina,0,3
-2394652,262898,Argentina,Spain,1,1
-2394653,262898,Brazil,England,1,2
-2394654,262898,England,Argentina,0,0
-2394655,262898,Spain,France,3,1
-2394656,262898,France,England,0,2
-2394657,262898,Argentina,Brazil,3,1
-2394658,262898,Brazil,France,2,1
-2394659,262898,England,Spain,0,1
+2394650,262898,Spain,Brazil,0.0,1.0
+2394651,262898,France,Argentina,0.0,3.0
+2394652,262898,Argentina,Spain,1.0,1.0
+2394653,262898,Brazil,England,1.0,2.0
+2394654,262898,England,Argentina,0.0,0.0
+2394655,262898,Spain,France,3.0,1.0
+2394656,262898,France,England,0.0,2.0
+2394657,262898,Argentina,Brazil,3.0,1.0
+2394658,262898,Brazil,France,2.0,1.0
+2394659,262898,England,Spain,0.0,1.0
 2394660,262898,Brazil,Spain,,
 2394661,262898,Argentina,France,,
 2394662,262898,Spain,Argentina,,
@@ -78127,14 +78127,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2394667,262898,Brazil,Argentina,,
 2394668,262898,France,Brazil,,
 2394669,262898,Spain,England,,
-2394730,262909,Porto,Fenerbahce,2,3
-2394731,262909,Aston Villa,Roma,1,3
-2394732,262909,Roma,Porto,2,3
-2394733,262909,Fenerbahce,Salzburg,1,2
-2394734,262909,Salzburg,Roma,3,2
-2394735,262909,Porto,Aston Villa,2,2
-2394736,262909,Aston Villa,Salzburg,2,1
-2394737,262909,Roma,Fenerbahce,3,1
+2394730,262909,Porto,Fenerbahce,2.0,3.0
+2394731,262909,Aston Villa,Roma,1.0,3.0
+2394732,262909,Roma,Porto,2.0,3.0
+2394733,262909,Fenerbahce,Salzburg,1.0,2.0
+2394734,262909,Salzburg,Roma,3.0,2.0
+2394735,262909,Porto,Aston Villa,2.0,2.0
+2394736,262909,Aston Villa,Salzburg,2.0,1.0
+2394737,262909,Roma,Fenerbahce,3.0,1.0
 2394738,262909,Fenerbahce,Aston Villa,,
 2394739,262909,Salzburg,Porto,,
 2394740,262909,Fenerbahce,Porto,,
@@ -78147,16 +78147,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2394747,262909,Fenerbahce,Roma,,
 2394748,262909,Aston Villa,Fenerbahce,,
 2394749,262909,Porto,Salzburg,,
-2394510,262938,Inter Miami CF,Atlanta United,2,0
-2394511,262938,LA Galaxy,Los Angeles FC,1,1
-2394512,262938,Los Angeles FC,Inter Miami CF,1,1
-2395608,262938,Atlanta United,Seattle Sounders FC,0,3
-2395609,262938,Seattle Sounders FC,Los Angeles FC,3,2
-2394515,262938,Inter Miami CF,LA Galaxy,1,3
-2395610,262938,LA Galaxy,Seattle Sounders FC,2,3
-2394517,262938,Los Angeles FC,Atlanta United,1,2
-2394518,262938,Atlanta United,LA Galaxy,0,1
-2395611,262938,Seattle Sounders FC,Inter Miami CF,0,1
+2394510,262938,Inter Miami CF,Atlanta United,2.0,0.0
+2394511,262938,LA Galaxy,Los Angeles FC,1.0,1.0
+2394512,262938,Los Angeles FC,Inter Miami CF,1.0,1.0
+2395608,262938,Atlanta United,Seattle Sounders FC,0.0,3.0
+2395609,262938,Seattle Sounders FC,Los Angeles FC,3.0,2.0
+2394515,262938,Inter Miami CF,LA Galaxy,1.0,3.0
+2395610,262938,LA Galaxy,Seattle Sounders FC,2.0,3.0
+2394517,262938,Los Angeles FC,Atlanta United,1.0,2.0
+2394518,262938,Atlanta United,LA Galaxy,0.0,1.0
+2395611,262938,Seattle Sounders FC,Inter Miami CF,0.0,1.0
 2394520,262938,Atlanta United,Inter Miami CF,,
 2394521,262938,Los Angeles FC,LA Galaxy,,
 2394522,262938,Inter Miami CF,Los Angeles FC,,
