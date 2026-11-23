@@ -3306,7 +3306,9 @@
     "away": "KAMUI",
     "txt": "Gana KAMUI",
     "odds": 2.1,
-    "p": 0.5529603174603175
+    "p": 0.5529603174603175,
+    "ok": "nula",
+    "por": "sin resultado"
    },
    {
     "code": null,
@@ -3315,7 +3317,9 @@
     "away": "Al-Quwa Al-Jawiya",
     "txt": "Empate",
     "odds": 3.05,
-    "p": 0.4081
+    "p": 0.4081,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
@@ -3334,9 +3338,9 @@
   "odds": 15.05,
   "p": 0.1061943367135973,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261119190848087206",
