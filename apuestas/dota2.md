@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 23/11/2026 18:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 19:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GamerLegion vs PARIVISION — 24/11 · 15:00
 
