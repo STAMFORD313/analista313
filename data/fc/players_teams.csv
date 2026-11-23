@@ -78187,3 +78187,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2394159,262878,Newcastle,Brighton,,
 2394160,262878,Aston Villa,Newcastle,,
 2394161,262878,Nottm Forest,Man Utd,,
+2394670,262899,Roma,Juventus,3,1
+2394671,262899,Bologna,Sassuolo,2,2
+2394672,262899,Sassuolo,Roma,3,1
+2394673,262899,Juventus,Napoli,0,2
+2394674,262899,Napoli,Sassuolo,0,3
+2394675,262899,Roma,Bologna,1,1
+2394676,262899,Bologna,Napoli,1,2
+2394677,262899,Sassuolo,Juventus,2,3
+2394678,262899,Juventus,Bologna,,
+2394679,262899,Napoli,Roma,,
+2394680,262899,Juventus,Roma,,
+2394681,262899,Sassuolo,Bologna,,
+2394682,262899,Roma,Sassuolo,,
+2394683,262899,Napoli,Juventus,,
+2394684,262899,Sassuolo,Napoli,,
+2394685,262899,Bologna,Roma,,
+2394686,262899,Napoli,Bologna,,
+2394687,262899,Juventus,Sassuolo,,
+2394688,262899,Bologna,Juventus,,
+2394689,262899,Roma,Napoli,,
+2394530,262933,Middlesbrough,Wolves,1,0
+2394531,262933,West Ham,Burnley,1,4
+2394532,262933,Burnley,Middlesbrough,5,1
+2395616,262933,Wolves,Southampton,1,1
+2395617,262933,Southampton,Burnley,0,3
+2394535,262933,Middlesbrough,West Ham,2,5
+2395618,262933,West Ham,Southampton,0,4
+2394537,262933,Burnley,Wolves,4,0
+2394538,262933,Wolves,West Ham,,
+2395619,262933,Southampton,Middlesbrough,,
+2394540,262933,Wolves,Middlesbrough,,
+2394541,262933,Burnley,West Ham,,
+2394542,262933,Middlesbrough,Burnley,,
+2395620,262933,Southampton,Wolves,,
+2395621,262933,Burnley,Southampton,,
+2394545,262933,West Ham,Middlesbrough,,
+2395622,262933,Southampton,West Ham,,
+2394547,262933,Wolves,Burnley,,
+2394548,262933,West Ham,Wolves,,
+2395623,262933,Middlesbrough,Southampton,,
+2395664,262945,Lyon,Paris,1,2
+2395257,262945,Marseille,Nice,1,2
+2395665,262945,Nice,Lyon,1,4
+2395666,262945,Paris,Monaco,4,0
+2395667,262945,Monaco,Nice,2,1
+2395668,262945,Lyon,Marseille,3,1
+2395669,262945,Marseille,Monaco,3,2
+2395263,262945,Nice,Paris,3,1
+2395264,262945,Paris,Marseille,2,1
+2395670,262945,Monaco,Lyon,2,0
+2395671,262945,Paris,Lyon,1,4
+2395267,262945,Nice,Marseille,1,0
+2395672,262945,Lyon,Nice,,
+2395673,262945,Monaco,Paris,,
+2395674,262945,Nice,Monaco,,
+2395675,262945,Marseille,Lyon,,
+2395676,262945,Monaco,Marseille,,
+2395273,262945,Paris,Nice,,
+2395274,262945,Marseille,Paris,,
+2395677,262945,Lyon,Monaco,,

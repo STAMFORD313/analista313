@@ -1,60 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 09:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 09:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Ganger_29 vs w1nkos — 23/11 · 09:16
+## A1ose vs RuBIX — 23/11 · 09:46
 
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana w1nkos** @ **2.38** (Unibet) · prob 51% vs casas 36% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana RuBIX** @ **2.48** (Unibet) · prob 48% vs casas 35% · ventaja +19%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.153 partidos)  
-Goles esperados: Ganger_29 2.90 · w1nkos 3.65  
-Ganador: Ganger_29 31% · empate 18% · w1nkos 51%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap w1nkos: −1.5 38% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 78.178 partidos)  
+Goles esperados: A1ose 3.14 · RuBIX 3.62  
+Ganador: A1ose 34% · empate 18% · RuBIX 48%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap RuBIX: −1.5 34% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Ganger_29 ❌✅❌➖❌ | w1nkos ✅✅❌✅✅  
-• Partidos: Ganger_29 1087 | w1nkos 1378  
-• Liga: Ligue 1  
-• Unibet: 1 2.07 · X 4.00 · 2 2.38 (sin margen 42%/22%/36%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+22%) · Paf España 2.38 (+22%)  
+• Forma: A1ose ✅✅➖✅➖ | RuBIX ✅✅➖❌✅  
+• Partidos: A1ose 1183 | RuBIX 393  
+• Liga: Champions League AFC  
+• Unibet: 1 1.92 · X 4.50 · 2 2.48 (sin margen 45%/19%/35%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+19%) · Paf España 2.48 (+19%)  
 
-## imagin vs Frantsuz — 23/11 · 09:20
+## Ganger_29 vs Pavlinho19 — 23/11 · 10:04
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana Frantsuz** @ **21.00** (Unibet) · prob 58% vs casas 4% · ventaja +1115%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Pavlinho19** @ **2.00** (Unibet) · prob 60% vs casas 44% · ventaja +21%
 
-- ❌ Valor: ventaja +1115% (mín. 286% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 78.153 partidos)  
-Goles esperados: imagin 4.36 · Frantsuz 5.17  
-Ganador: imagin 28% · empate 14% · Frantsuz 58%  
-Total: más de 9.5 goles 48% · menos 52%  
-Hándicap Frantsuz: −1.5 41% · −2.5 29%  
-🔎 **Claves**  
-• Forma: imagin ➖➖✅❌✅ | Frantsuz ✅➖❌❌❌  
-• Partidos: imagin 405 | Frantsuz 788  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.05 · X 8.50 · 2 21.00 (sin margen 85%/11%/4%) · ventaja +1115%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Ganger_29 vs Totti — 23/11 · 09:40
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Totti** @ **2.65** (Unibet) · prob 43% vs casas 33% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.153 partidos)  
-Goles esperados: Ganger_29 2.74 · Totti 2.89  
-Ganador: Ganger_29 37% · empate 20% · Totti 43%  
+📊 **Escenarios** (Poisson por jugador, 78.178 partidos)  
+Goles esperados: Ganger_29 2.31 · Pavlinho19 3.28  
+Ganador: Ganger_29 21% · empate 18% · Pavlinho19 60%  
 Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Totti: −1.5 28% · −2.5 16%  
+Hándicap Pavlinho19: −1.5 40% · −2.5 25%  
 🔎 **Claves**  
-• Forma: Ganger_29 ❌✅❌➖❌ | Totti ✅❌❌✅➖  
-• Partidos: Ganger_29 1087 | Totti 1176  
+• Forma: Ganger_29 ❌➖❌❌✅ | Pavlinho19 ❌❌✅➖✅  
+• Partidos: Ganger_29 1089 | Pavlinho19 1171  
 • Liga: Ligue 1  
-• Unibet: 1 2.02 · X 3.60 · 2 2.65 (sin margen 43%/24%/33%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.65 (+13%) · Paf España 2.65 (+13%)  
+• Unibet: 1 2.55 · X 3.90 · 2 2.00 (sin margen 34%/22%/44%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+21%) · Paf España 2.00 (+21%)  
+
+## v1nn vs A1ose — 23/11 · 10:10
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana A1ose** @ **3.10** (Unibet) · prob 39% vs casas 28% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 78.178 partidos)  
+Goles esperados: v1nn 3.75 · A1ose 3.54  
+Ganador: v1nn 44% · empate 17% · A1ose 39%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap v1nn: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: v1nn ✅❌❌➖✅ | A1ose ✅✅➖✅➖  
+• Partidos: v1nn 837 | A1ose 1183  
+• Liga: Champions League AFC  
+• Unibet: 1 1.71 · X 4.25 · 2 3.10 (sin margen 51%/21%/28%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+21%) · Paf España 3.10 (+21%)  
 
