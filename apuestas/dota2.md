@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 23/11/2026 14:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 14:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Nemesis vs Xtreme Gaming — 23/11 · 15:00
 
