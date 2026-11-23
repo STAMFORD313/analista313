@@ -1,31 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 17:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Buyuksehyr vs Corum — 23/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Gana Buyuksehyr** @ **1.90** (Bwin) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.26 - 1.58)  
-1 59% · X 23% · 2 18%  
-1X 82% · X2 41% · 12 77%  
-+1.5 90% · +2.5 74% · +3.5 53% · Ambos marcan 71%  
-Marcadores: 2-1 9% · 1-1 8% · 2-2 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Buyuksehyr ➖✅❌✅✅ | Corum ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Bajas: Buyuksehyr: sin bajas; Corum: 2 fuera, 0 duda (Gokhan Sazdagi, Berat Ozdemir)  
-• Favorito de las casas: Buyuksehyr @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 3.7: total +9.5 47% · Buyuksehyr +5.5 48% · Corum +4.5 33%  
-Tarjetas 1.9 - 2.3: total +4.5 42% · Buyuksehyr +2.5 30% · Corum +2.5 41%  
-Faltas 13.7 - 12.3: total +26.5 45% · Buyuksehyr +13.5 50% · Corum +13.5 36%  
-Tiros a puerta 5.8 - 3.8: total +9.5 49% · Buyuksehyr +5.5 51% · Corum +4.5 34%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 2.5 tarjetas de Buyuksehyr + Menos de 4.5 córners de Corum → prob. 35%, cuota justa 2.88 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 2.5 tarjetas de Buyuksehyr + Menos de 4.5 córners de Corum + Menos de 4.5 tiros a puerta de Corum + Menos de 13.5 faltas de Corum → prob. 15%, cuota justa 6.70  
+Actualizado 23/11/2026 18:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Brondby vs Midtjylland — 23/11 · 19:00
 

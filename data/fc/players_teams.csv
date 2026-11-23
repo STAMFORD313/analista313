@@ -78645,14 +78645,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2394259,262879,Man City,Tottenham,,
 2394260,262879,Liverpool,Man City,,
 2394261,262879,Arsenal,Chelsea,,
-2394600,262937,Adelaide United,Melbourne City,1,1
-2394601,262937,Sydney FC,Melbourne Victory,3,0
-2394602,262937,Melbourne Victory,Adelaide United,0,0
-2394603,262937,Melbourne City,Western Sydney Wanderers,3,1
-2394604,262937,Western Sydney Wanderers,Melbourne Victory,2,2
-2394605,262937,Adelaide United,Sydney FC,1,1
-2394606,262937,Sydney FC,Western Sydney Wanderers,6,1
-2394607,262937,Melbourne Victory,Melbourne City,0,2
+2394600,262937,Adelaide United,Melbourne City,1.0,1.0
+2394601,262937,Sydney FC,Melbourne Victory,3.0,0.0
+2394602,262937,Melbourne Victory,Adelaide United,0.0,0.0
+2394603,262937,Melbourne City,Western Sydney Wanderers,3.0,1.0
+2394604,262937,Western Sydney Wanderers,Melbourne Victory,2.0,2.0
+2394605,262937,Adelaide United,Sydney FC,1.0,1.0
+2394606,262937,Sydney FC,Western Sydney Wanderers,6.0,1.0
+2394607,262937,Melbourne Victory,Melbourne City,0.0,2.0
 2394608,262937,Melbourne City,Sydney FC,,
 2394609,262937,Western Sydney Wanderers,Adelaide United,,
 2394610,262937,Melbourne City,Adelaide United,,

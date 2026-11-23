@@ -1,28 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 23/11/2026 17:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Aurora Gaming vs LGD Gaming — 23/11 · 18:00
-
-👀 candidata · 🐉 Dota 2 · BLAST Slam IX · **Gana Aurora Gaming** @ **1.45** (Thunderpick) · prob 68% vs casas 64% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.901 partidos)  
-Mapa: Aurora Gaming 56% · Serie BO3: Aurora Gaming 71% - 29% LGD Gaming  
-Casas: Aurora Gaming 64% · LGD Gaming 36%  
-🔎 **Claves**  
-• Elo: Aurora Gaming 1998 (329 series) | LGD Gaming 1943 (112 series)  
-• Forma: Aurora Gaming ✅❌❌✅❌ | LGD Gaming ✅✅❌❌✅  
-• H2H: 5: 2-3  
-• Torneo: BLAST Slam IX (nivel S)  
-• Cambios de plantilla: Aurora Gaming  
-• Jugadores en forma (KDA últimas 10 partidas): Aurora Gaming: Ws 4.3, Mikoto 3.9 | LGD Gaming: SumaiL 3.1, Wits 2.9  
-• Química de la plantilla: Aurora Gaming: 204 partidas juntos de media | LGD Gaming: 60 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Aurora Gaming gana 2-1: 24% → cuota justa 4.24 · casa 26%  
-• LGD Gaming gana 2-1: 19% → cuota justa 5.40 · casa 17%  
+Actualizado 23/11/2026 18:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GamerLegion vs PARIVISION — 24/11 · 15:00
 
