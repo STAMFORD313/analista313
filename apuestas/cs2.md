@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 23/11/2026 03:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 04:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs ROUNDS — 23/11 · 16:30
 

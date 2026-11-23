@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 03:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 04:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Jokadinho vs Noltzer — 23/11 · 03:24
+## marto1505 vs pecata1505 — 23/11 · 04:32
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 15% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.50** (Unibet) · prob 21% vs casas 16% · ventaja +16%
 
 - ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.888 partidos)  
-Goles esperados: Jokadinho 3.34 · Noltzer 2.90  
-Ganador: Jokadinho 51% · empate 19% · Noltzer 30%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap Jokadinho: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 77.927 partidos)  
+Goles esperados: marto1505 2.71 · pecata1505 3.04  
+Ganador: marto1505 33% · empate 21% · pecata1505 46%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap pecata1505: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Jokadinho ➖✅✅➖❌ | Noltzer ❌❌❌❌❌  
-• Partidos: Jokadinho 1056 | Noltzer 118  
-• Liga: World Cup B  
-• Unibet: 1 1.64 · X 6.00 · 2 2.80 (sin margen 54%/15%/32%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+16%) · Paf España 6.00 (+16%)  
+• Forma: marto1505 ➖✅❌❌✅ | pecata1505 ✅✅✅❌✅  
+• Partidos: marto1505 87 | pecata1505 75  
+• Liga: Champions League B  
+• Unibet: 1 2.23 · X 5.50 · 2 1.96 (sin margen 39%/16%/45%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+16%) · Paf España 5.50 (+16%)  
 
-## hrk vs kirman — 23/11 · 03:40
+## Skif vs KravaRK — 23/11 · 04:50
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.80** (Unibet) · prob 46% vs casas 31% · ventaja +30%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana KravaRK** @ **2.12** (Unibet) · prob 52% vs casas 41% · ventaja +9%
 
-- ✅ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 77.888 partidos)  
-Goles esperados: hrk 2.75 · kirman 3.13  
-Ganador: hrk 35% · empate 19% · kirman 46%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap kirman: −1.5 32% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 77.927 partidos)  
+Goles esperados: Skif 2.54 · KravaRK 3.18  
+Ganador: Skif 28% · empate 21% · KravaRK 52%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap KravaRK: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: hrk ❌✅❌✅✅ | kirman ❌✅✅✅✅  
-• Partidos: hrk 1005 | kirman 849  
-• Liga: Champions League A  
-• Unibet: 1 1.75 · X 4.60 · 2 2.80 (sin margen 50%/19%/31%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+30%) · Paf España 2.80 (+30%)  
-
-## kkikus vs Simaponika — 23/11 · 03:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.888 partidos)  
-Goles esperados: kkikus 2.31 · Simaponika 3.20  
-Ganador: kkikus 22% · empate 20% · Simaponika 58%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap Simaponika: −1.5 39% · −2.5 24%  
-🔎 **Claves**  
-• Forma: kkikus ➖✅➖❌✅ | Simaponika ✅✅❌✅✅  
-• Partidos: kkikus 1214 | Simaponika 1421  
-• Liga: Champions League B  
-• Unibet: 1 4.00 · X 5.80 · 2 1.37 (sin margen 22%/15%/63%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+14%) · Paf España 5.80 (+14%)  
+• Forma: Skif ❌❌❌❌❌ | KravaRK ❌➖✅✅➖  
+• Partidos: Skif 817 | KravaRK 571  
+• Liga: Serie A  
+• Unibet: 1 2.38 · X 3.85 · 2 2.12 (sin margen 36%/23%/41%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+9%) · Paf España 2.12 (+9%)  
 
