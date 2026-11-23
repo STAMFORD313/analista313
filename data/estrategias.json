@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-23 07:16",
- "n": 5269,
+ "fecha": "2026-11-23 07:45",
+ "n": 5270,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5",
@@ -230,10 +230,10 @@
   },
   {
    "segmento": "cuota=>2.5",
-   "n": 1569,
-   "roi": -0.1258,
+   "n": 1570,
+   "roi": -0.1264,
    "se": 0.0439,
-   "roi_antigua": -0.2032,
+   "roi_antigua": -0.2043,
    "roi_nueva": -0.0592,
    "clv": 0.0191,
    "clv_se": 0.0134,
@@ -372,10 +372,10 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 2426,
-   "roi": -0.0808,
+   "n": 2427,
+   "roi": -0.0812,
    "se": 0.0302,
-   "roi_antigua": -0.1126,
+   "roi_antigua": -0.1134,
    "roi_nueva": -0.0521,
    "clv": 0.0136,
    "clv_se": 0.0058,
@@ -427,10 +427,10 @@
   },
   {
    "segmento": "mercado=1X2 · cuota=>2.5",
-   "n": 1338,
-   "roi": -0.1124,
+   "n": 1339,
+   "roi": -0.113,
    "se": 0.0492,
-   "roi_antigua": -0.1986,
+   "roi_antigua": -0.1999,
    "roi_nueva": -0.0382,
    "clv": 0.0411,
    "clv_se": 0.0121,
@@ -446,6 +446,22 @@
    "clv": -0.0404,
    "clv_se": 0.0045,
    "clv_n": 59
+  },
+  {
+   "segmento": "deporte=🎮⚽",
+   "n": 2190,
+   "roi": -0.0766,
+   "se": 0.0326,
+   "roi_antigua": -0.1108,
+   "roi_nueva": -0.0503
+  },
+  {
+   "segmento": "deporte=🎮⚽ · mercado=1X2",
+   "n": 2190,
+   "roi": -0.0766,
+   "se": 0.0326,
+   "roi_antigua": -0.1108,
+   "roi_nueva": -0.0503
   },
   {
    "segmento": "deporte=🏈 · mercado=hándicap",
@@ -492,20 +508,15 @@
    "clv_n": 23
   },
   {
-   "segmento": "deporte=🎮⚽",
-   "n": 2189,
-   "roi": -0.0762,
-   "se": 0.0326,
-   "roi_antigua": -0.1099,
-   "roi_nueva": -0.0503
-  },
-  {
-   "segmento": "deporte=🎮⚽ · mercado=1X2",
-   "n": 2189,
-   "roi": -0.0762,
-   "se": 0.0326,
-   "roi_antigua": -0.1099,
-   "roi_nueva": -0.0503
+   "segmento": "ventaja=5-15%",
+   "n": 1387,
+   "roi": -0.0889,
+   "se": 0.0397,
+   "roi_antigua": -0.0923,
+   "roi_nueva": -0.0865,
+   "clv": -0.0068,
+   "clv_se": 0.0164,
+   "clv_n": 44
   },
   {
    "segmento": "deporte=🏈 · mercado=ganador · ventaja=<0",
@@ -517,17 +528,6 @@
    "clv": -0.0394,
    "clv_se": 0.0044,
    "clv_n": 205
-  },
-  {
-   "segmento": "ventaja=5-15%",
-   "n": 1386,
-   "roi": -0.0883,
-   "se": 0.0397,
-   "roi_antigua": -0.0923,
-   "roi_nueva": -0.0854,
-   "clv": -0.0068,
-   "clv_se": 0.0164,
-   "clv_n": 44
   },
   {
    "segmento": "mercado=1X2 · cuota=2-2.5 · ventaja=5-15%",
