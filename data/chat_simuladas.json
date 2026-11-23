@@ -4015,5 +4015,40 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261123221006922676",
+  "creada": "2026-11-23 22:10:06.922717+00:00",
+  "titulo": "Barrido · Combinada cuota 5.5",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-24 09:00:00+00:00",
+    "home": "INFINITE Talent",
+    "away": "TheChampionGG",
+    "txt": "Gana INFINITE Talent",
+    "odds": 2.2,
+    "p": 0.48093030303030293
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-24 19:00:00+00:00",
+    "home": "Power Rangers",
+    "away": "Inner Circle x Insanity",
+    "txt": "Gana Power Rangers",
+    "odds": 2.52,
+    "p": 0.4289502645502645
+   }
+  ],
+  "odds": 5.54,
+  "p": 0.20629518071508732,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
