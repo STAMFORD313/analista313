@@ -1,61 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 23/11/2026 02:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nightxx vs ssstasonn — 23/11 · 02:39
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.16** (cuota justa (sin casa)) · prob 86% vs casas 86% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.806 partidos)  
-Goles esperados: Nightxx 5.36 · ssstasonn 2.32  
-Ganador: Nightxx 86% · empate 8% · ssstasonn 6%  
-Total: más de 7.5 goles 50% · menos 50%  
-Hándicap Nightxx: −1.5 71% · −2.5 57%  
-🔎 **Claves**  
-• Forma: Nightxx ✅✅✅➖✅ | ssstasonn ❌❌✅✅✅  
-• Partidos: Nightxx 1120 | ssstasonn 1276  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## kirman vs hrk — 23/11 · 02:40
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.851 partidos)  
-Goles esperados: kirman 3.12 · hrk 2.77  
-Ganador: kirman 46% · empate 19% · hrk 35%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap kirman: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: kirman ✅✅❌✅✅ | hrk ✅❌➖❌✅  
-• Partidos: kirman 847 | hrk 1002  
-• Liga: Champions League A  
-• Unibet: 1 2.40 · X 4.35 · 2 1.98 (sin margen 36%/20%/44%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+10%) · Paf España 2.40 (+10%)  
-
-## Sheva vs Kostolom89 — 23/11 · 02:49
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.29** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 77.806 partidos)  
-Goles esperados: Sheva 4.00 · Kostolom89 2.15  
-Ganador: Sheva 77% · empate 10% · Kostolom89 12%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Sheva: −1.5 55% · −2.5 39%  
-🔎 **Claves**  
-• Forma: Sheva ✅✅✅❌✅ | Kostolom89 ✅❌➖❌❌  
-• Partidos: Sheva 1840 | Kostolom89 994  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 23/11/2026 02:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Simaponika vs kkikus — 23/11 · 02:51
 
@@ -94,4 +39,42 @@ Hándicap hrk: −1.5 45% · −2.5 30%
 • Liga: Champions League A  
 • Unibet: 1 1.72 · X 4.00 · 2 3.20 (sin margen 51%/22%/27%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.72 (+11%) · Paf España 1.72 (+11%)  
+
+## Stenido vs nicky — 23/11 · 03:08
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Stenido** @ **2.50** (Unibet) · prob 43% vs casas 35% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 77.864 partidos)  
+Goles esperados: Stenido 4.91 · nicky 4.97  
+Ganador: Stenido 43% · empate 15% · nicky 43%  
+Total: más de 9.5 goles 53% · menos 47%  
+Hándicap nicky: −1.5 32% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Stenido ❌✅✅✅❌ | nicky ✅❌✅✅✅  
+• Partidos: Stenido 257 | nicky 426  
+• Liga: LaLiga 2x6  
+• Unibet: 1 2.50 · X 6.25 · 2 1.72 (sin margen 35%/14%/51%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+7%) · Paf España 2.50 (+7%)  
+
+## kkikus vs Nightxx — 23/11 · 03:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **8.50** (Unibet) · prob 14% vs casas 10% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 77.864 partidos)  
+Goles esperados: kkikus 2.38 · Nightxx 4.15  
+Ganador: kkikus 13% · empate 14% · Nightxx 72%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Nightxx: −1.5 53% · −2.5 38%  
+🔎 **Claves**  
+• Forma: kkikus ✅❌➖✅➖ | Nightxx ✅✅✅❌✅  
+• Partidos: kkikus 1212 | Nightxx 1125  
+• Liga: Champions League B  
+• Unibet: 1 5.80 · X 8.50 · 2 1.16 (sin margen 15%/10%/75%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.50 (+22%) · Paf España 8.50 (+22%)  
 

@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 23/11/2026 02:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## San Francisco 49ers vs Minnesota Vikings — 23/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Más de 46.5 puntos** @ **1.92** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **40.5** puntos · línea 46.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: San Francisco 49ers ✅✅❌✅✅ | Minnesota Vikings ✅✅❌❌✅  
-• H2H: 7 desde 2017: 3-4  
-• Bajas: San Francisco 49ers: 3 fuera, 22 duda (Christian Kirk, De'Zhaun Stribling, Brandon Aiyuk); Minnesota Vikings: 3 fuera, 22 duda (Bo Richter, Kyler Murray, Jordan Addison)  
-🧩 Combinada: Gana Minnesota Vikings + Menos de 46.5 puntos → prob. 20%, cuota justa 4.90  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 20% · ventaja -4%  
-
-## San Francisco 49ers vs Minnesota Vikings — 23/11 · 02:20
-
-👀 candidata · 🏈 NFL · **San Francisco 49ers -3.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: San Francisco 49ers cubre -3.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: San Francisco 49ers ✅✅❌✅✅ | Minnesota Vikings ✅✅❌❌✅  
-• H2H: 7 desde 2017: 3-4  
-• Bajas: San Francisco 49ers: 3 fuera, 22 duda (Christian Kirk, De'Zhaun Stribling, Brandon Aiyuk); Minnesota Vikings: 3 fuera, 22 duda (Bo Richter, Kyler Murray, Jordan Addison)  
-🧩 Combinada: Gana Minnesota Vikings + Menos de 46.5 puntos → prob. 20%, cuota justa 4.90  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 20% · ventaja -4%  
-
-## San Francisco 49ers vs Minnesota Vikings — 23/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Gana San Francisco 49ers** @ **1.57** (DraftKings) · prob 61% vs casas 61% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.288 partidos y bajas)  
-Gana San Francisco 49ers 64% · Gana Minnesota Vikings 36%  
-Casas: San Francisco 49ers 61% · Minnesota Vikings 39%  
-Hándicap SF -3.5 · Total puntos 46.5  
-🔎 **Claves**  
-• Forma: San Francisco 49ers ✅✅❌✅✅ | Minnesota Vikings ✅✅❌❌✅  
-• H2H: 7 desde 2017: 3-4  
-• Bajas: San Francisco 49ers: 3 fuera, 22 duda (Christian Kirk, De'Zhaun Stribling, Brandon Aiyuk); Minnesota Vikings: 3 fuera, 22 duda (Bo Richter, Kyler Murray, Jordan Addison)  
-• Favorito de las casas: San Francisco 49ers @ 1.57  
-🧩 Combinada: Gana Minnesota Vikings + Menos de 46.5 puntos → prob. 20%, cuota justa 4.90  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 20% · ventaja -4%  
+Actualizado 23/11/2026 02:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Washington Commanders vs Cincinnati Bengals — 24/11 · 02:15
 
