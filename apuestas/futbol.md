@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 23/11/2026 21:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 23/11/2026 22:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Internacional vs Vitoria — 23/11 · 23:30
 
