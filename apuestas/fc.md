@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## tizzy vs kkikus — 24/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.26** (cuota justa (sin casa)) · prob 80% vs casas 80% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.004 partidos)  
-Goles esperados: tizzy 4.60 · kkikus 2.14  
-Ganador: tizzy 80% · empate 11% · kkikus 9%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap tizzy: −1.5 64% · −2.5 48%  
-🔎 **Claves**  
-• Forma: tizzy ❌❌✅✅✅ | kkikus ❌✅❌❌❌  
-• Partidos: tizzy 465 | kkikus 1240  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 24/11/2026 02:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## zaha vs URIST — 24/11 · 02:50
 

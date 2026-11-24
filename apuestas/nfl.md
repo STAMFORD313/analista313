@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Washington Commanders vs Cincinnati Bengals — 24/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Más de 53.5 puntos** @ **1.86** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **48.7** puntos · línea 53.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Washington Commanders ➖❌✅❌✅ | Cincinnati Bengals ✅✅✅✅✅  
-• H2H: 6 desde 2019: 4-2  
-• Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)  
-🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58  
-🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%  
-
-## Washington Commanders vs Cincinnati Bengals — 24/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Washington Commanders +6** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Washington Commanders cubre +6 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Washington Commanders ➖❌✅❌✅ | Cincinnati Bengals ✅✅✅✅✅  
-• H2H: 6 desde 2019: 4-2  
-• Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)  
-🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58  
-🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%  
-
-## Washington Commanders vs Cincinnati Bengals — 24/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Gana Washington Commanders** @ **3.40** (DraftKings) · prob 28% vs casas 28% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.289 partidos y bajas)  
-Gana Washington Commanders 26% · Gana Cincinnati Bengals 74%  
-Casas: Washington Commanders 28% · Cincinnati Bengals 72%  
-Hándicap CIN -6 · Total puntos 53.5  
-🔎 **Claves**  
-• Forma: Washington Commanders ➖❌✅❌✅ | Cincinnati Bengals ✅✅✅✅✅  
-• H2H: 6 desde 2019: 4-2  
-• Bajas: Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)  
-• Favorito de las casas: Cincinnati Bengals @ 1.34  
-🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58  
-🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%  
+Actualizado 24/11/2026 02:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eastern Michigan Eagles vs Kent State Golden Flashes — 25/11 · 01:00
 
