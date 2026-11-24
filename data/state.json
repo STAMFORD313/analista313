@@ -1168,9 +1168,6 @@
   "uel|2026-11-26|TSG Hoffenheim|SK Sturm Graz",
   "cbb|2026-11-24|BYU Cougars|Ole Miss Rebels",
   "cbb|2026-11-25|Washington Huskies|Clemson Tigers",
-  "cs2|134721",
-  "cs2|134716",
-  "cs2|134724",
   "cs2|134717",
   "cs2|134725",
   "cs2|134718",
@@ -2170,7 +2167,11 @@
   "fc|2395159",
   "fc|2394874",
   "fc|2395590",
-  "fc|2395947"
+  "fc|2395947",
+  "cs2|134981",
+  "fc|2397056",
+  "fc|2395169",
+  "fc|2395171"
  ],
  "signals": [
   {
@@ -22290,7 +22291,11 @@
    "version": "f893219",
    "bajas": "Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "22-20",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -22311,7 +22316,11 @@
    "version": "f893219",
    "bajas": "Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "22-20",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -22331,7 +22340,11 @@
    "version": "f893219",
    "bajas": "Washington Commanders: 2 fuera, 23 duda (Jacory Croskey-Merritt, Laremy Tunsil); Cincinnati Bengals: 2 fuera, 23 duda (Swayze Bozeman, Andrei Iosivas)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "22-20",
+   "close_p": 0.2833,
+   "logged": true
   },
   {
    "market": "t1",
@@ -22622,31 +22635,6 @@
    "bajas": "",
    "considered": true,
    "placed": false
-  },
-  {
-   "market": "H",
-   "pick": "kirman",
-   "odds": 3.0,
-   "book": "Unibet",
-   "implied": 0.291,
-   "edge": 0.303,
-   "sin_stake": true,
-   "p": 0.434,
-   "key": "fc|2392231",
-   "match": "kirman vs hrk",
-   "start": "2026-11-21T04:26:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle kirman vs hrk (Serie A): goles esperados 3.09-2.79, 1X2 43%/21%/35%. Sin cuotas de casa.",
-   "captured": "2026-11-21T04:24",
-   "version": "7a78cc8",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
   },
   {
    "market": "A",
@@ -26030,7 +26018,11 @@
    "version": "479abaf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -42588,7 +42580,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "5-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -42604,26 +42600,16 @@
    "start": "2026-11-24T04:14:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 79.138 partidos)",
-    "Goles esperados: hotShot 2.21 · Kray 2.50",
-    "Ganador: hotShot 33% · empate 24% · Kray 43%",
-    "Total: más de 4.5 goles 51% · menos 49%",
-    "Hándicap Kray: −1.5 28% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hotShot ➖✅✅❌❌ | Kray ✅✅➖❌➖",
-    "• Partidos: hotShot 732 | Kray 765",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.38 · X 4.80 · 2 1.93 (sin margen 37%/18%/45%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 4.80 (+14%) · Paf España 4.80 (+14%)"
-   ],
    "context": "EA FC Esoccer Battle hotShot vs Kray (Serie A): goles esperados 2.21-2.50, 1X2 33%/24%/43%. Sin cuotas de casa.",
    "captured": "2026-11-24T04:00",
    "version": "ba02a48",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -42639,20 +42625,6 @@
    "start": "2026-11-24T04:14:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 79.138 partidos)",
-    "Goles esperados: URIST 5.01 · Kosta 4.24",
-    "Ganador: URIST 54% · empate 15% · Kosta 32%",
-    "Total: más de 9.5 goles 44% · menos 56%",
-    "Hándicap URIST: −1.5 40% · −2.5 28%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: URIST ❌❌❌✅❌ | Kosta ✅❌✅❌❌",
-    "• Partidos: URIST 186 | Kosta 365",
-    "• Liga: LaLiga 2x6",
-    "• Unibet: 1 2.10 · X 7.50 · 2 1.88 (sin margen 42%/12%/47%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.10 (+13%) · Paf España 2.10 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle URIST vs Kosta (LaLiga 2x6): goles esperados 5.01-4.24, 1X2 54%/15%/32%. Sin cuotas de casa.",
    "captured": "2026-11-24T04:00",
    "version": "ba02a48",
@@ -42674,23 +42646,118 @@
    "start": "2026-11-24T04:08:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 79.138 partidos)",
-    "Goles esperados: Dov1n 3.28 · Jokadinho 3.62",
-    "Ganador: Dov1n 35% · empate 19% · Jokadinho 46%",
-    "Total: más de 6.5 goles 54% · menos 46%",
-    "Hándicap Jokadinho: −1.5 32% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dov1n ✅✅❌❌✅ | Jokadinho ✅✅✅✅➖",
-    "• Partidos: Dov1n 1137 | Jokadinho 1093",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.08 · X 5.80 · 2 2.05 (sin margen 42%/15%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.80 (+10%) · Paf España 5.80 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle Dov1n vs Jokadinho (Champions League B): goles esperados 3.28-3.62, 1X2 35%/19%/46%. Sin cuotas de casa.",
    "captured": "2026-11-24T04:00",
    "version": "ba02a48",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 7.0,
+   "book": "Unibet",
+   "implied": 0.124,
+   "edge": 0.14,
+   "sin_stake": true,
+   "p": 0.163,
+   "key": "fc|2397056",
+   "match": "zoyir vs why",
+   "start": "2026-11-24T05:00:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 79.160 partidos)",
+    "Goles esperados: zoyir 4.14 · why 3.09",
+    "Ganador: zoyir 58% · empate 16% · why 26%",
+    "Total: más de 7.5 goles 44% · menos 56%",
+    "Hándicap zoyir: −1.5 43% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: zoyir ✅➖❌❌✅ | why ➖❌❌❌✅",
+    "• Partidos: zoyir 711 | why 767",
+    "• Liga: Premier League 2x6",
+    "• Unibet: 1 1.41 · X 7.00 · 2 3.30 (sin margen 61%/12%/26%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 7.00 (+14%) · Paf España 7.00 (+14%)"
+   ],
+   "context": "EA FC Esoccer Battle zoyir vs why (Premier League 2x6): goles esperados 4.14-3.09, 1X2 58%/16%/26%. Sin cuotas de casa.",
+   "captured": "2026-11-24T04:31",
+   "version": "af63993",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.6,
+   "book": "Unibet",
+   "implied": 0.157,
+   "edge": 0.074,
+   "sin_stake": true,
+   "p": 0.192,
+   "key": "fc|2395169",
+   "match": "ssstasonn vs kkikus",
+   "start": "2026-11-24T04:47:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 79.160 partidos)",
+    "Goles esperados: ssstasonn 2.65 · kkikus 3.09",
+    "Ganador: ssstasonn 29% · empate 19% · kkikus 51%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap kkikus: −1.5 32% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌❌✅✅ | kkikus ❌❌➖✅✅",
+    "• Partidos: ssstasonn 1322 | kkikus 1253",
+    "• Liga: Club World Cup",
+    "• Unibet: 1 2.50 · X 5.60 · 2 1.78 (sin margen 35%/16%/49%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.60 (+7%) · Paf España 5.60 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs kkikus (Club World Cup): goles esperados 2.65-3.09, 1X2 29%/19%/51%. Sin cuotas de casa.",
+   "captured": "2026-11-24T04:31",
+   "version": "af63993",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.2,
+   "book": "Unibet",
+   "implied": 0.168,
+   "edge": 0.074,
+   "sin_stake": true,
+   "p": 0.206,
+   "key": "fc|2395171",
+   "match": "Kavviro vs tizzy",
+   "start": "2026-11-24T04:59:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 79.160 partidos)",
+    "Goles esperados: Kavviro 2.83 · tizzy 2.29",
+    "Ganador: Kavviro 49% · empate 21% · tizzy 31%",
+    "Total: más de 5.5 goles 40% · menos 60%",
+    "Hándicap Kavviro: −1.5 33% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Kavviro ✅✅✅➖❌ | tizzy ❌✅➖✅➖",
+    "• Partidos: Kavviro 1110 | tizzy 478",
+    "• Liga: Club World Cup",
+    "• Unibet: 1 1.98 · X 5.20 · 2 2.23 (sin margen 44%/17%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.20 (+7%) · Paf España 5.20 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle Kavviro vs tizzy (Club World Cup): goles esperados 2.83-2.29, 1X2 49%/21%/31%. Sin cuotas de casa.",
+   "captured": "2026-11-24T04:31",
+   "version": "af63993",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -43158,42 +43225,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-24T03:30:23.207688+00:00",
  "sgp": {
-  "nfl|2026-11-24|Washington Commanders|Cincinnati Bengals": {
-   "match": "Washington Commanders vs Cincinnati Bengals",
-   "start": "2026-11-24T01:15Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1519,
-     "odds": 6.33,
-     "edge": -0.039,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.283,
-       "odds": 3.4,
-       "text": "Gana Washington Commanders"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 53.5,
-       "p": 0.514,
-       "odds": 1.862,
-       "text": "Más de 53.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Washington Commanders + Más de 53.5 puntos → prob. 15%, cuota justa 6.58",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.33 (producto de piernas) · prob. 15% · ventaja -4%"
-   ]
-  },
   "ucl|2026-11-24|Galatasaray|Aston Villa": {
    "match": "Galatasaray vs Aston Villa",
    "start": "2026-11-24T17:45:00+00:00",

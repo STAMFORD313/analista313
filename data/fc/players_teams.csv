@@ -79165,14 +79165,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2395589,262957,Atleti,Barcelona,,
 2395590,262957,Real Madrid,Barcelona,,
 2395591,262957,Real Madrid,Atleti,,
-2394382,262889,Frankfurt,B Dortmund,1,1
-2394383,262889,Stuttgart,Bayern Munchen,1,1
-2394384,262889,Bayern Munchen,Frankfurt,0,2
-2394385,262889,B Dortmund,Leipzig,0,1
-2394386,262889,Leipzig,Bayern Munchen,2,0
-2394387,262889,Frankfurt,Stuttgart,0,0
-2394388,262889,Stuttgart,Leipzig,1,0
-2394389,262889,Bayern Munchen,B Dortmund,0,3
+2394382,262889,Frankfurt,B Dortmund,1.0,1.0
+2394383,262889,Stuttgart,Bayern Munchen,1.0,1.0
+2394384,262889,Bayern Munchen,Frankfurt,0.0,2.0
+2394385,262889,B Dortmund,Leipzig,0.0,1.0
+2394386,262889,Leipzig,Bayern Munchen,2.0,0.0
+2394387,262889,Frankfurt,Stuttgart,0.0,0.0
+2394388,262889,Stuttgart,Leipzig,1.0,0.0
+2394389,262889,Bayern Munchen,B Dortmund,0.0,3.0
 2394390,262889,B Dortmund,Stuttgart,,
 2394391,262889,Leipzig,Frankfurt,,
 2394392,262889,B Dortmund,Frankfurt,,
@@ -79185,3 +79185,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2394399,262889,B Dortmund,Bayern Munchen,,
 2394400,262889,Stuttgart,B Dortmund,,
 2394401,262889,Frankfurt,Leipzig,,
+2395156,262908,Real Madrid,River Plate,2,2
+2395157,262908,Man City,Boca Juniors,4,1
+2395158,262908,Boca Juniors,Real Madrid,1,4
+2395159,262908,River Plate,Paris,2,1
+2395160,262908,Paris,Boca Juniors,3,0
+2395161,262908,Real Madrid,Man City,4,2
+2395162,262908,Man City,Paris,4,2
+2395163,262908,Boca Juniors,River Plate,0,0
+2395164,262908,River Plate,Man City,2,1
+2395165,262908,Paris,Real Madrid,0,3
+2395166,262908,River Plate,Real Madrid,,
+2395167,262908,Boca Juniors,Man City,,
+2395168,262908,Real Madrid,Boca Juniors,,
+2395169,262908,Paris,River Plate,,
+2395170,262908,Boca Juniors,Paris,,
+2395171,262908,Man City,Real Madrid,,
+2395172,262908,Paris,Man City,,
+2395173,262908,River Plate,Boca Juniors,,
+2395174,262908,Man City,River Plate,,
+2395175,262908,Real Madrid,Paris,,
+2397519,262948,B Dortmund,Man City,1,2
+2395437,262948,Arsenal,Juventus,2,2
+2397520,262948,Juventus,B Dortmund,3,1
+2395944,262948,Man City,Sporting CP,3,1
+2395440,262948,Sporting CP,Juventus,0,1
+2397521,262948,B Dortmund,Arsenal,2,2
+2395442,262948,Arsenal,Sporting CP,4,0
+2395946,262948,Juventus,Man City,1,0
+2395947,262948,Man City,Arsenal,1,1
+2397522,262948,Sporting CP,B Dortmund,0,2
+2397523,262948,Man City,B Dortmund,3,0
+2395447,262948,Juventus,Arsenal,1,2
+2397524,262948,B Dortmund,Juventus,,
+2395951,262948,Sporting CP,Man City,,
+2395450,262948,Juventus,Sporting CP,,
+2397525,262948,Arsenal,B Dortmund,,
+2395452,262948,Sporting CP,Arsenal,,
+2395953,262948,Man City,Juventus,,
+2395954,262948,Arsenal,Man City,,
+2397526,262948,B Dortmund,Sporting CP,,
