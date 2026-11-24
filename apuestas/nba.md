@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 18:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 19:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rice Owls vs UIC Flames — 24/11 · 19:30
 

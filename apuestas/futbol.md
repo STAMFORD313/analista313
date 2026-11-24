@@ -1,188 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 18:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Catanzaro +0.5 (hándicap asiático)** @ **1.85** (mejor del mercado) · prob 52% vs casas 51% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Juve Stabia** @ **1.86** (Unibet) · prob 48% vs casas 48% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Juve Stabia** @ **1.73** (Unibet) · prob 52% vs casas 52% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.48** (Unibet) · prob 61% vs casas 61% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 61% vs casas 60% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Catanzaro** @ **1.68** (Unibet) · prob 53% vs casas 53% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
-
-## Juve Stabia vs Catanzaro — 24/11 · 19:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Catanzaro** @ **1.48** (Unibet) · prob 62% vs casas 61% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.04)  
-1 42% · X 30% · 2 28%  
-1X 72% · X2 58% · 12 70%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Juve Stabia ✅❌➖✅❌ | Catanzaro ❌➖➖❌✅  
-• H2H: 4 desde 2024: 1V-3E-0D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas  
-• Favorito de las casas: Juve Stabia @ 1.93  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.0: total +9.5 49% · Juve Stabia +5.5 48% · Catanzaro +4.5 36%  
-Tarjetas 1.8 - 2.3: total +4.5 40% · Juve Stabia +2.5 28% · Catanzaro +2.5 41%  
-Faltas 15.0 - 13.2: total +27.5 53% · Juve Stabia +13.5 63% · Catanzaro +13.5 45%  
-Tiros a puerta 4.9 - 3.4: total +8.5 44% · Juve Stabia +5.5 37% · Catanzaro +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 27%, cuota justa 3.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Juve Stabia + Menos de 4.5 córners de Catanzaro + Menos de 5.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Juve Stabia + Menos de 2.5 goles → prob. 11%, cuota justa 9.16  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Catanzaro + Menos de 2.5 goles): cuota Unibet aprox. 3.08 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
+Actualizado 24/11/2026 19:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Benevento vs Empoli — 24/11 · 20:00
 
@@ -2915,6 +2733,163 @@ Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%
 Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cremonese vs Avellino — 25/11 · 19:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Cremonese** @ **1.65** (Unibet) · prob 57% vs casas 54% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 0.86)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Cremonese ❌✅✅✅❌ | Avellino ❌➖✅➖✅  
+• H2H: 4 desde 2005: 2V-1E-1D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Cremonese @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.6: total +9.5 43% · Cremonese +5.5 46% · Avellino +4.5 30%  
+Tarjetas 1.9 - 2.2: total +4.5 40% · Cremonese +2.5 30% · Avellino +2.5 39%  
+Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%  
+Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cremonese vs Avellino — 25/11 · 19:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Cremonese** @ **1.54** (Unibet) · prob 56% vs casas 58% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 0.86)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Cremonese ❌✅✅✅❌ | Avellino ❌➖✅➖✅  
+• H2H: 4 desde 2005: 2V-1E-1D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Cremonese @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.6: total +9.5 43% · Cremonese +5.5 46% · Avellino +4.5 30%  
+Tarjetas 1.9 - 2.2: total +4.5 40% · Cremonese +2.5 30% · Avellino +2.5 39%  
+Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%  
+Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cremonese vs Avellino — 25/11 · 19:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.62** (Unibet) · prob 55% vs casas 55% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 0.86)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Cremonese ❌✅✅✅❌ | Avellino ❌➖✅➖✅  
+• H2H: 4 desde 2005: 2V-1E-1D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Cremonese @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.6: total +9.5 43% · Cremonese +5.5 46% · Avellino +4.5 30%  
+Tarjetas 1.9 - 2.2: total +4.5 40% · Cremonese +2.5 30% · Avellino +2.5 39%  
+Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%  
+Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cremonese vs Avellino — 25/11 · 19:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 0.86)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Cremonese ❌✅✅✅❌ | Avellino ❌➖✅➖✅  
+• H2H: 4 desde 2005: 2V-1E-1D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Cremonese @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.6: total +9.5 43% · Cremonese +5.5 46% · Avellino +4.5 30%  
+Tarjetas 1.9 - 2.2: total +4.5 40% · Cremonese +2.5 30% · Avellino +2.5 39%  
+Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%  
+Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cremonese vs Avellino — 25/11 · 19:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Avellino** @ **1.68** (Unibet) · prob 50% vs casas 54% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 0.86)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Cremonese ❌✅✅✅❌ | Avellino ❌➖✅➖✅  
+• H2H: 4 desde 2005: 2V-1E-1D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Cremonese @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.6: total +9.5 43% · Cremonese +5.5 46% · Avellino +4.5 30%  
+Tarjetas 1.9 - 2.2: total +4.5 40% · Cremonese +2.5 30% · Avellino +2.5 39%  
+Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%  
+Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cremonese vs Avellino — 25/11 · 19:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Avellino** @ **1.93** (Unibet) · prob 50% vs casas 46% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.36 - 0.86)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Cremonese ❌✅✅✅❌ | Avellino ❌➖✅➖✅  
+• H2H: 4 desde 2005: 2V-1E-1D · 2.0 goles/partido · +2.5 en 50%  
+• Bajas: Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Cremonese @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.6: total +9.5 43% · Cremonese +5.5 46% · Avellino +4.5 30%  
+Tarjetas 1.9 - 2.2: total +4.5 40% · Cremonese +2.5 30% · Avellino +2.5 39%  
+Faltas 12.9 - 12.3: total +27.5 32% · Cremonese +13.5 42% · Avellino +13.5 35%  
+Tiros a puerta 5.4 - 3.1: total +8.5 47% · Cremonese +5.5 45% · Avellino +3.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas → prob. 36%, cuota justa 2.82 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Avellino + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 43% · ventaja +8% → 1 u en la banca de simulación  
 
 ## Mantova vs Arezzo — 25/11 · 20:00
 
