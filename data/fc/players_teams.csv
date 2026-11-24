@@ -79345,16 +79345,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2396023,262992,LA Galaxy,Atlanta United,,
 2396024,262992,Inter Miami CF,Seattle Sounders FC,,
 2396006,262992,LA Galaxy,Los Angeles FC,,
-2396385,263018,Porto,Fenerbahce,2,1
-2396386,263018,Aston Villa,Roma,1,0
-2396387,263018,Roma,Porto,1,3
-2396388,263018,Fenerbahce,Salzburg,2,3
-2396389,263018,Salzburg,Roma,1,2
-2396390,263018,Porto,Aston Villa,2,1
-2396391,263018,Aston Villa,Salzburg,0,1
-2396392,263018,Roma,Fenerbahce,1,1
-2396393,263018,Fenerbahce,Aston Villa,0,0
-2396394,263018,Salzburg,Porto,1,0
+2396385,263018,Porto,Fenerbahce,2.0,1.0
+2396386,263018,Aston Villa,Roma,1.0,0.0
+2396387,263018,Roma,Porto,1.0,3.0
+2396388,263018,Fenerbahce,Salzburg,2.0,3.0
+2396389,263018,Salzburg,Roma,1.0,2.0
+2396390,263018,Porto,Aston Villa,2.0,1.0
+2396391,263018,Aston Villa,Salzburg,0.0,1.0
+2396392,263018,Roma,Fenerbahce,1.0,1.0
+2396393,263018,Fenerbahce,Aston Villa,0.0,0.0
+2396394,263018,Salzburg,Porto,1.0,0.0
 2396395,263018,Fenerbahce,Porto,,
 2396396,263018,Roma,Aston Villa,,
 2396397,263018,Porto,Roma,,
@@ -79365,3 +79365,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2396402,263018,Fenerbahce,Roma,,
 2396403,263018,Aston Villa,Fenerbahce,,
 2396404,263018,Porto,Salzburg,,
+2396165,262995,Man Utd,Brighton,2,1
+2397535,262995,Nottm Forest,Aston Villa,2,1
+2397536,262995,Aston Villa,Man Utd,2,0
+2396168,262995,Brighton,Newcastle,5,2
+2397537,262995,Newcastle,Aston Villa,5,3
+2396170,262995,Man Utd,Nottm Forest,2,2
+2396171,262995,Nottm Forest,Newcastle,2,3
+2397538,262995,Aston Villa,Brighton,2,2
+2396173,262995,Brighton,Nottm Forest,1,1
+2396174,262995,Newcastle,Man Utd,2,0
+2396175,262995,Brighton,Man Utd,2,2
+2397539,262995,Aston Villa,Nottm Forest,0,1
+2397540,262995,Man Utd,Aston Villa,,
+2396178,262995,Newcastle,Brighton,,
+2397541,262995,Aston Villa,Newcastle,,
+2396180,262995,Nottm Forest,Man Utd,,
+2396181,262995,Newcastle,Nottm Forest,,
+2397542,262995,Brighton,Aston Villa,,
+2396183,262995,Nottm Forest,Brighton,,
+2396184,262995,Man Utd,Newcastle,,
