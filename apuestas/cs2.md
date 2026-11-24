@@ -1,52 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 06:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## PARIVISION vs DENDELE — 24/11 · 07:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana DENDELE** @ **2.30** (Thunderpick) · prob 41% vs casas 40% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.181 partidos)  
-Mapa: PARIVISION 58% · Serie BO1: PARIVISION 58% - 42% DENDELE  
-Casas: PARIVISION 60% · DENDELE 40%  
-🔎 **Claves**  
-• Elo: PARIVISION 1969 (324 series) | DENDELE 1912 (31 series)  
-• Forma: PARIVISION ❌❌✅❌❌ | DENDELE ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): PARIVISION: Jame 6.2, FL1T 6.1 | DENDELE: doc 6.7, koala 6.7  
-• Mapas (último año): PARIVISION: fuerte ancient 63%, débil cache 33% | DENDELE: fuerte inferno 75%, débil ancient 42%  
-• Química de la plantilla: PARIVISION: 113 mapas juntos de media | DENDELE: 400 mapas juntos de media  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
-PARIVISION: xiELO 14 (7-22) · Jame 14 (7-22) · HObbit 14 (7-22) · zweih 14 (7-21) · FL1T 14 (7-21)  
-DENDELE: doc 14 (7-22) · koala 14 (7-22) · rdnzao 13 (7-21) · maxxkor 13 (7-20) · gafolo 12 (6-18)  
-
-## Liquid vs BC.Game — 24/11 · 07:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana Liquid** @ **1.75** (Thunderpick) · prob 54% vs casas 53% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.181 partidos)  
-Mapa: Liquid 59% · Serie BO1: Liquid 56% - 44% BC.Game  
-Casas: Liquid 53% · BC.Game 47%  
-🔎 **Claves**  
-• Elo: Liquid 1917 (304 series) | BC.Game 1857 (255 series)  
-• Forma: Liquid ❌✅❌✅❌ | BC.Game ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Liquid: EliGE 6.6, NAF 6.2 | BC.Game: Senzu 6.5, asap 6.2  
-• Mapas (último año): Liquid: fuerte inferno 65%, débil dust2 22% | BC.Game: fuerte cache 67%, débil anubis 0%  
-• Química de la plantilla: Liquid: 98 mapas juntos de media | BC.Game: 68 mapas juntos de media  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.569 casos: log-loss 0.682→0.6561; sin cuotas de props, solo referencia)  
-Liquid: EliGE 15 (8-24) · malbsMd 14 (7-22) · Jorko 14 (7-22) · NAF 14 (7-21) · JT 12 (6-19)  
-BC.Game: s1mple 15 (8-24) · Senzu 15 (8-23) · asap 14 (7-22) · mzinho 14 (7-21) · Magisk 13 (6-20)  
+Actualizado 24/11/2026 07:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FaZe vs Wildcard — 24/11 · 08:00
 
