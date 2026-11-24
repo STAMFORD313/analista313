@@ -79905,14 +79905,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2397142,263048,Belgium,Netherlands,,
 2397143,263048,Morocco,Belgium,,
 2397144,263048,Germany,Portugal,,
-2396585,262997,England,Spain,2,1
-2396586,262997,France,Argentina,3,4
-2396587,262997,Argentina,England,0,0
-2396588,262997,Spain,Germany,3,2
-2396589,262997,Germany,Argentina,1,3
-2396590,262997,England,France,0,2
-2396591,262997,France,Germany,3,1
-2396592,262997,Argentina,Spain,3,0
+2396585,262997,England,Spain,2.0,1.0
+2396586,262997,France,Argentina,3.0,4.0
+2396587,262997,Argentina,England,0.0,0.0
+2396588,262997,Spain,Germany,3.0,2.0
+2396589,262997,Germany,Argentina,1.0,3.0
+2396590,262997,England,France,0.0,2.0
+2396591,262997,France,Germany,3.0,1.0
+2396592,262997,Argentina,Spain,3.0,0.0
 2396593,262997,Spain,France,,
 2396594,262997,Germany,England,,
 2396595,262997,Spain,England,,
@@ -79925,16 +79925,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2396602,262997,Spain,Argentina,,
 2396603,262997,France,Spain,,
 2396604,262997,England,Germany,,
-2397455,263020,Galatasaray,Basaksehir,1,3
-2397456,263020,Trabzonspor,Fenerbahce,1,0
-2397457,263020,Fenerbahce,Galatasaray,1,2
-2397458,263020,Basaksehir,Besiktas,0,1
-2397459,263020,Besiktas,Fenerbahce,2,0
-2397460,263020,Galatasaray,Trabzonspor,1,0
-2397461,263020,Trabzonspor,Besiktas,0,3
-2397462,263020,Fenerbahce,Basaksehir,0,0
-2397463,263020,Basaksehir,Trabzonspor,2,0
-2397464,263020,Besiktas,Galatasaray,0,0
+2397455,263020,Galatasaray,Basaksehir,1.0,3.0
+2397456,263020,Trabzonspor,Fenerbahce,1.0,0.0
+2397457,263020,Fenerbahce,Galatasaray,1.0,2.0
+2397458,263020,Basaksehir,Besiktas,0.0,1.0
+2397459,263020,Besiktas,Fenerbahce,2.0,0.0
+2397460,263020,Galatasaray,Trabzonspor,1.0,0.0
+2397461,263020,Trabzonspor,Besiktas,0.0,3.0
+2397462,263020,Fenerbahce,Basaksehir,0.0,0.0
+2397463,263020,Basaksehir,Trabzonspor,2.0,0.0
+2397464,263020,Besiktas,Galatasaray,0.0,0.0
 2397465,263020,Basaksehir,Galatasaray,,
 2397466,263020,Fenerbahce,Trabzonspor,,
 2397467,263020,Galatasaray,Fenerbahce,,
@@ -79945,12 +79945,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2397472,263020,Basaksehir,Fenerbahce,,
 2397473,263020,Trabzonspor,Basaksehir,,
 2397474,263020,Galatasaray,Besiktas,,
-2397405,263061,Man City,Juventus,3,3
-2397406,263061,B Dortmund,Arsenal,0,5
-2397407,263061,Arsenal,Man City,2,1
-2397408,263061,Juventus,Sporting CP,2,4
-2397409,263061,Sporting CP,Arsenal,3,1
-2397410,263061,Man City,B Dortmund,3,1
+2397405,263061,Man City,Juventus,3.0,3.0
+2397406,263061,B Dortmund,Arsenal,0.0,5.0
+2397407,263061,Arsenal,Man City,2.0,1.0
+2397408,263061,Juventus,Sporting CP,2.0,4.0
+2397409,263061,Sporting CP,Arsenal,3.0,1.0
+2397410,263061,Man City,B Dortmund,3.0,1.0
 2397411,263061,B Dortmund,Sporting CP,,
 2397412,263061,Arsenal,Juventus,,
 2397413,263061,Juventus,B Dortmund,,

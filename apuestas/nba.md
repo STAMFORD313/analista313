@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 18:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 18:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rice Owls vs UIC Flames — 24/11 · 19:30
 
@@ -133,6 +133,50 @@ Hándicap BYU -1.5 · Total puntos 160.5
 • H2H: 1 desde 2024: 0-1  
 • Bajas: BYU Cougars: sin bajas; Ole Miss Rebels: sin bajas  
 • Favorito de las casas: BYU Cougars @ 1.89  
+
+## Long Beach State Beach vs Arkansas State Red Wolves — 24/11 · 21:30
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 158.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **155.4** puntos · línea 158.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: Long Beach State Beach ❌❌✅❌❌ | Arkansas State Red Wolves ❌❌✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Long Beach State Beach: sin bajas; Arkansas State Red Wolves: sin bajas  
+
+## Long Beach State Beach vs Arkansas State Red Wolves — 24/11 · 21:30
+
+👀 candidata · 🏀 NCAA Basketball · **Long Beach State Beach +4.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Long Beach State Beach cubre +4.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Long Beach State Beach ❌❌✅❌❌ | Arkansas State Red Wolves ❌❌✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Long Beach State Beach: sin bajas; Arkansas State Red Wolves: sin bajas  
+
+## Long Beach State Beach vs Arkansas State Red Wolves — 24/11 · 21:30
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Long Beach State Beach** @ **2.64** (DraftKings) · prob 36% vs casas 36% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.118 partidos y bajas)  
+Gana Long Beach State Beach 43% · Gana Arkansas State Red Wolves 57%  
+Casas: Long Beach State Beach 36% · Arkansas State Red Wolves 64%  
+Hándicap ARST -4.5 · Total puntos 158.5  
+🔎 **Claves**  
+• Forma: Long Beach State Beach ❌❌✅❌❌ | Arkansas State Red Wolves ❌❌✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Long Beach State Beach: sin bajas; Arkansas State Red Wolves: sin bajas  
+• Favorito de las casas: Arkansas State Red Wolves @ 1.50  
 
 ## Arizona Wildcats vs Providence Friars — 24/11 · 23:00
 
