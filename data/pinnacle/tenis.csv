@@ -6276,193 +6276,202 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640991965,2026-11-24 04:30:00+00:00,ITF Men Bhopal - R1,Suraj R Prabodh,Madhwin Kamath,spread,1.5,1.9901,1.8333,,,,2026-11-24 04:26:39.954818+00:00
 1640991965,2026-11-24 04:30:00+00:00,ITF Men Bhopal - R1,Suraj R Prabodh,Madhwin Kamath,total,2.5,,,,2.91,1.4202,2026-11-24 04:26:39.954818+00:00
 1640978388,2026-11-24 04:30:04+00:00,ATP Challenger Playford - R1,Harrison Satara,Jason Kubler,moneyline,,8.48,1.0693,,,,2026-11-24 04:26:39.954818+00:00
-1641000841,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Matyas Kozlovsky,Claus Piening,moneyline,,1.7752,2.03,,,,2026-11-24 04:56:02.431105+00:00
-1641000841,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Matyas Kozlovsky,Claus Piening,spread,-1.5,2.52,1.5155,,,,2026-11-24 04:56:02.431105+00:00
-1641000841,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Matyas Kozlovsky,Claus Piening,total,2.5,,,,2.73,1.4505,2026-11-24 04:56:02.431105+00:00
-1640923536,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Rio Noguchi,Maximus Jones,moneyline,,1.361,3.24,,,,2026-11-24 04:56:02.431105+00:00
-1640923536,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Rio Noguchi,Maximus Jones,spread,-1.5,2.03,1.813,,,,2026-11-24 04:56:02.431105+00:00
-1640923536,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Rio Noguchi,Maximus Jones,total,2.5,,,,2.58,1.5263,2026-11-24 04:56:02.431105+00:00
-1640991969,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Patrik Homola,Michael Savano,moneyline,,2.79,1.4505,,,,2026-11-24 04:56:02.431105+00:00
-1640991969,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Patrik Homola,Michael Savano,spread,1.5,1.7463,2.11,,,,2026-11-24 04:56:02.431105+00:00
-1640991969,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Patrik Homola,Michael Savano,total,2.5,,,,2.71,1.4739,2026-11-24 04:56:02.431105+00:00
-1640991936,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Enrique Carrascosa Diaz,Roberto Perez Socas,moneyline,,1.2762,3.78,,,,2026-11-24 04:56:02.431105+00:00
-1640991936,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Enrique Carrascosa Diaz,Roberto Perez Socas,spread,-1.5,1.6993,2.18,,,,2026-11-24 04:56:02.431105+00:00
-1640991936,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Enrique Carrascosa Diaz,Roberto Perez Socas,total,2.5,,,,3.19,1.3623,2026-11-24 04:56:02.431105+00:00
-1640991937,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Mickael Kaouk,Timeo Trufelli,moneyline,,1.2278,4.12,,,,2026-11-24 04:56:02.431105+00:00
-1640991937,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Mickael Kaouk,Timeo Trufelli,spread,-1.5,1.625,2.27,,,,2026-11-24 04:56:02.431105+00:00
-1640991937,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Mickael Kaouk,Timeo Trufelli,total,2.5,,,,3.15,1.3509,2026-11-24 04:56:02.431105+00:00
-1640983716,2026-11-24 05:30:00+00:00,ATP Challenger Playford - R1,Omar Jasika,Evan Zhu,moneyline,,1.3663,3.21,,,,2026-11-24 04:56:02.431105+00:00
-1640983716,2026-11-24 05:30:00+00:00,ATP Challenger Playford - R1,Omar Jasika,Evan Zhu,spread,-1.5,2.03,1.8197,,,,2026-11-24 04:56:02.431105+00:00
-1640983716,2026-11-24 05:30:00+00:00,ATP Challenger Playford - R1,Omar Jasika,Evan Zhu,total,2.5,,,,2.5,1.5556,2026-11-24 04:56:02.431105+00:00
-1640923512,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Yanaki Milev,Oleg Prihodko,moneyline,,2.26,1.6494,,,,2026-11-24 04:56:02.431105+00:00
-1640923512,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Yanaki Milev,Oleg Prihodko,spread,1.5,1.5435,2.5,,,,2026-11-24 04:56:02.431105+00:00
-1640923512,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Yanaki Milev,Oleg Prihodko,total,2.5,,,,2.57,1.5181,2026-11-24 04:56:02.431105+00:00
-1640935625,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Andres Martin,Radu Mihai Papoe,moneyline,,1.885,1.9346,,,,2026-11-24 04:56:02.431105+00:00
-1640935625,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Andres Martin,Radu Mihai Papoe,spread,-1.5,2.92,1.4184,,,,2026-11-24 04:56:02.431105+00:00
-1640935625,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Andres Martin,Radu Mihai Papoe,total,2.5,,,,2.48,1.5495,2026-11-24 04:56:02.431105+00:00
-1640928494,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Tuncay Duran,Yanki Erel,moneyline,,2.63,1.4975,,,,2026-11-24 04:56:02.431105+00:00
-1640928494,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Tuncay Duran,Yanki Erel,spread,1.5,1.7299,2.13,,,,2026-11-24 04:56:02.431105+00:00
-1640928494,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Tuncay Duran,Yanki Erel,total,2.5,,,,2.74,1.4651,2026-11-24 04:56:02.431105+00:00
-1640992327,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Leo Raquillet,Yaroslav Demin,moneyline,,3.8,1.2747,,,,2026-11-24 04:56:02.431105+00:00
-1640992327,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Leo Raquillet,Yaroslav Demin,spread,1.5,2.08,1.7692,,,,2026-11-24 04:56:02.431105+00:00
-1640992327,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Leo Raquillet,Yaroslav Demin,total,2.5,,,,2.87,1.4292,2026-11-24 04:56:02.431105+00:00
-1641000864,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Yassine Smiej,Petr Bar Biryukov,moneyline,,8.71,1.0663,,,,2026-11-24 04:56:02.431105+00:00
-1640988517,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Benjamin Pietri,Roberto Carballes Baena,moneyline,,3.09,1.3817,,,,2026-11-24 04:56:02.431105+00:00
-1640988517,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Benjamin Pietri,Roberto Carballes Baena,spread,1.5,1.8772,1.9434,,,,2026-11-24 04:56:02.431105+00:00
-1640988517,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Benjamin Pietri,Roberto Carballes Baena,total,2.5,,,,2.81,1.4464,2026-11-24 04:56:02.431105+00:00
-1640992336,2026-11-24 08:05:00+00:00,ATP Challenger Hersonissos - R1,Gabriel Ghetu,Ioannis Kountourakis,moneyline,,1.2646,3.89,,,,2026-11-24 04:56:02.431105+00:00
-1640992336,2026-11-24 08:05:00+00:00,ATP Challenger Hersonissos - R1,Gabriel Ghetu,Ioannis Kountourakis,spread,-1.5,1.7407,2.12,,,,2026-11-24 04:56:02.431105+00:00
-1640992336,2026-11-24 08:05:00+00:00,ATP Challenger Hersonissos - R1,Gabriel Ghetu,Ioannis Kountourakis,total,2.5,,,,2.96,1.4098,2026-11-24 04:56:02.431105+00:00
-1640991932,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Pedro Rodenas,Leyton Rivera,moneyline,,1.0876,8.12,,,,2026-11-24 04:56:02.431105+00:00
-1640935623,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Johannus Monday,Philip Henning,moneyline,,2.44,1.5682,,,,2026-11-24 04:56:02.431105+00:00
-1640935623,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Johannus Monday,Philip Henning,spread,1.5,1.5917,2.38,,,,2026-11-24 04:56:02.431105+00:00
-1640935623,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Johannus Monday,Philip Henning,total,2.5,,,,2.49,1.5464,2026-11-24 04:56:02.431105+00:00
-1640991950,2026-11-24 09:30:00+00:00,ITF Men Monastir 2 - R1,Louis Allen,Pietro Marino,moneyline,,13.15,1.0362,,,,2026-11-24 04:56:02.431105+00:00
-1640991950,2026-11-24 09:30:00+00:00,ITF Men Monastir 2 - R1,Louis Allen,Pietro Marino,spread,1.5,4.79,1.1795,,,,2026-11-24 04:56:02.431105+00:00
-1640991950,2026-11-24 09:30:00+00:00,ITF Men Monastir 2 - R1,Louis Allen,Pietro Marino,total,2.5,,,,5.62,1.1401,2026-11-24 04:56:02.431105+00:00
-1640923417,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Jie Cui,Benjamin Hassan,moneyline,,1.6993,2.2,,,,2026-11-24 04:56:02.431105+00:00
-1640923417,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Jie Cui,Benjamin Hassan,spread,-1.5,2.64,1.5076,,,,2026-11-24 04:56:02.431105+00:00
-1640923417,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Jie Cui,Benjamin Hassan,total,2.5,,,,2.4,1.5952,2026-11-24 04:56:02.431105+00:00
-1641000813,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Luca Castagnola,Elijah Sanogo,moneyline,,1.5291,2.49,,,,2026-11-24 04:56:02.431105+00:00
-1641000813,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Luca Castagnola,Elijah Sanogo,spread,-1.5,2.18,1.6757,,,,2026-11-24 04:56:02.431105+00:00
-1641000813,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Luca Castagnola,Elijah Sanogo,total,2.5,,,,2.67,1.4673,2026-11-24 04:56:02.431105+00:00
-1641000814,2026-11-24 08:30:00+00:00,ITF Men Monastir 2 - R1,Theo Herrmann,Daniel Domingos,moneyline,,2.04,1.7937,,,,2026-11-24 04:56:02.431105+00:00
-1641000814,2026-11-24 08:30:00+00:00,ITF Men Monastir 2 - R1,Theo Herrmann,Daniel Domingos,spread,1.5,1.4673,2.73,,,,2026-11-24 04:56:02.431105+00:00
-1641000814,2026-11-24 08:30:00+00:00,ITF Men Monastir 2 - R1,Theo Herrmann,Daniel Domingos,total,2.5,,,,2.6,1.5076,2026-11-24 04:56:02.431105+00:00
-1640928508,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Dimitris Azoidis,Dimitar Kuzmanov,moneyline,,6.04,1.1304,,,,2026-11-24 04:56:02.431105+00:00
-1640928508,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Dimitris Azoidis,Dimitar Kuzmanov,spread,1.5,2.85,1.4348,,,,2026-11-24 04:56:02.431105+00:00
-1640928508,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Dimitris Azoidis,Dimitar Kuzmanov,total,2.5,,,,3.64,1.2933,2026-11-24 04:56:02.431105+00:00
-1640988518,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Alibek Kachmazov,Miles Jones,moneyline,,1.2809,3.74,,,,2026-11-24 04:56:02.431105+00:00
-1640988518,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Alibek Kachmazov,Miles Jones,spread,-1.5,1.8403,1.9804,,,,2026-11-24 04:56:02.431105+00:00
-1640988518,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Alibek Kachmazov,Miles Jones,total,2.5,,,,2.72,1.4695,2026-11-24 04:56:02.431105+00:00
-1640935501,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Semen Pankin,Nikolai Barsukov,moneyline,,1.5102,2.59,,,,2026-11-24 04:56:02.431105+00:00
-1640935501,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Semen Pankin,Nikolai Barsukov,spread,-1.5,2.23,1.6711,,,,2026-11-24 04:56:02.431105+00:00
-1640935501,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Semen Pankin,Nikolai Barsukov,total,2.5,,,,2.59,1.5128,2026-11-24 04:56:02.431105+00:00
-1641013577,2026-11-24 22:30:00+00:00,ITF Men Santa Cruz - R1,Murkel Dellien,Santiago Pesino,moneyline,,1.0498,9.16,,,,2026-11-24 04:56:02.431105+00:00
-1640928509,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Ioannis Xilas,Sergey Fomin,moneyline,,1.4219,2.9,,,,2026-11-24 04:56:02.431105+00:00
-1640928509,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Ioannis Xilas,Sergey Fomin,spread,-1.5,2.04,1.7937,,,,2026-11-24 04:56:02.431105+00:00
-1640928509,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Ioannis Xilas,Sergey Fomin,total,2.5,,,,2.72,1.4695,2026-11-24 04:56:02.431105+00:00
-1641000839,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Parth Aggarwal,Aryan Lakshmanan,moneyline,,4.03,1.25,,,,2026-11-24 04:56:02.431105+00:00
-1641000839,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Parth Aggarwal,Aryan Lakshmanan,spread,1.5,2.2,1.6849,,,,2026-11-24 04:56:02.431105+00:00
-1641000839,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Parth Aggarwal,Aryan Lakshmanan,total,2.5,,,,3.09,1.3817,2026-11-24 04:56:02.431105+00:00
-1640973655,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Victoria Bosio,Laura Samson,moneyline,,5.58,1.1473,,,,2026-11-24 04:56:02.431105+00:00
-1640973655,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Victoria Bosio,Laura Samson,spread,1.5,2.66,1.4878,,,,2026-11-24 04:56:02.431105+00:00
-1640973655,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Victoria Bosio,Laura Samson,total,2.5,,,,3.42,1.3236,2026-11-24 04:56:02.431105+00:00
 1640923564,2026-11-24 06:00:00+00:00,ATP Challenger Playford - R1,Dane Sweeny,Jake Delaney,moneyline,,1.2882,3.74,,,,2026-11-24 04:56:02.431105+00:00
 1640923564,2026-11-24 06:00:00+00:00,ATP Challenger Playford - R1,Dane Sweeny,Jake Delaney,spread,-1.5,1.9346,1.9009,,,,2026-11-24 04:56:02.431105+00:00
 1640923564,2026-11-24 06:00:00+00:00,ATP Challenger Playford - R1,Dane Sweeny,Jake Delaney,total,2.5,,,,2.51,1.5525,2026-11-24 04:56:02.431105+00:00
-1640923513,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Svyatoslav Gulin,Goncalo Marques,moneyline,,1.2208,4.37,,,,2026-11-24 04:56:02.431105+00:00
-1640923513,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Svyatoslav Gulin,Goncalo Marques,spread,-1.5,1.6061,2.36,,,,2026-11-24 04:56:02.431105+00:00
-1640923513,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Svyatoslav Gulin,Goncalo Marques,total,2.5,,,,3.25,1.3497,2026-11-24 04:56:02.431105+00:00
-1640973570,2026-11-24 20:00:00+00:00,WTA 125k Buenos Aires - R1,Nadia Podoroska,Leyre Romero Gormaz,moneyline,,2.1,1.7463,,,,2026-11-24 04:56:02.431105+00:00
-1640973570,2026-11-24 20:00:00+00:00,WTA 125k Buenos Aires - R1,Nadia Podoroska,Leyre Romero Gormaz,spread,1.5,1.5291,2.54,,,,2026-11-24 04:56:02.431105+00:00
-1640973570,2026-11-24 20:00:00+00:00,WTA 125k Buenos Aires - R1,Nadia Podoroska,Leyre Romero Gormaz,total,2.5,,,,2.68,1.4831,2026-11-24 04:56:02.431105+00:00
-1640992335,2026-11-24 10:30:00+00:00,ITF Men Heraklion - R1,Pablo De La Cierva Sanchez,Henri Haupt,moneyline,,2.58,1.495,,,,2026-11-24 04:56:02.431105+00:00
-1640992335,2026-11-24 10:30:00+00:00,ITF Men Heraklion - R1,Pablo De La Cierva Sanchez,Henri Haupt,spread,1.5,1.7519,2.06,,,,2026-11-24 04:56:02.431105+00:00
-1640992335,2026-11-24 10:30:00+00:00,ITF Men Heraklion - R1,Pablo De La Cierva Sanchez,Henri Haupt,total,2.5,,,,2.91,1.4016,2026-11-24 04:56:02.431105+00:00
-1640935503,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Lorenzo Giustino,Giulio Perego,moneyline,,1.2688,3.85,,,,2026-11-24 04:56:02.431105+00:00
-1640935503,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Lorenzo Giustino,Giulio Perego,spread,-1.5,1.7576,2.09,,,,2026-11-24 04:56:02.431105+00:00
-1640935503,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Lorenzo Giustino,Giulio Perego,total,2.5,,,,2.89,1.4255,2026-11-24 04:56:02.431105+00:00
-1640935624,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Ryan Peniston,Oleksii Krutykh,moneyline,,2.72,1.4695,,,,2026-11-24 04:56:02.431105+00:00
-1640935624,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Ryan Peniston,Oleksii Krutykh,spread,1.5,1.6711,2.23,,,,2026-11-24 04:56:02.431105+00:00
-1640935624,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Ryan Peniston,Oleksii Krutykh,total,2.5,,,,2.49,1.5464,2026-11-24 04:56:02.431105+00:00
-1640973246,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Guiomar Maristany Zuleta De Reales,Luna Maria Cinalli,moneyline,,1.0376,12.24,,,,2026-11-24 04:56:02.431105+00:00
-1640973246,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Guiomar Maristany Zuleta De Reales,Luna Maria Cinalli,spread,-1.5,1.1887,4.85,,,,2026-11-24 04:56:02.431105+00:00
-1640973246,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Guiomar Maristany Zuleta De Reales,Luna Maria Cinalli,total,2.5,,,,5.75,1.1464,2026-11-24 04:56:02.431105+00:00
-1640935495,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Alexandr Binda,Matisse Bobichon,moneyline,,2.75,1.463,,,,2026-11-24 04:56:02.431105+00:00
-1640935495,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Alexandr Binda,Matisse Bobichon,spread,1.5,1.6944,2.19,,,,2026-11-24 04:56:02.431105+00:00
-1640935495,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Alexandr Binda,Matisse Bobichon,total,2.5,,,,2.57,1.5208,2026-11-24 04:56:02.431105+00:00
-1640923614,2026-11-24 13:00:00+00:00,ATP Challenger Ankara - R1,Leonardo Rossi,Daniel Rincon,moneyline,,4.74,1.1957,,,,2026-11-24 04:56:02.431105+00:00
-1640923614,2026-11-24 13:00:00+00:00,ATP Challenger Ankara - R1,Leonardo Rossi,Daniel Rincon,spread,1.5,2.35,1.6098,,,,2026-11-24 04:56:02.431105+00:00
-1640923614,2026-11-24 13:00:00+00:00,ATP Challenger Ankara - R1,Leonardo Rossi,Daniel Rincon,total,2.5,,,,3.11,1.3759,2026-11-24 04:56:02.431105+00:00
-1640992367,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Conor Brady,Karl Friberg,moneyline,,3.31,1.3401,,,,2026-11-24 04:56:02.431105+00:00
-1640992367,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Conor Brady,Karl Friberg,spread,1.5,2.03,1.8,,,,2026-11-24 04:56:02.431105+00:00
-1640992367,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Conor Brady,Karl Friberg,total,2.5,,,,3.03,1.3922,2026-11-24 04:56:02.431105+00:00
-1640992344,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Josh Manuel,Kris Van Wyk,moneyline,,4.81,1.1783,,,,2026-11-24 04:56:02.431105+00:00
-1640992344,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Josh Manuel,Kris Van Wyk,spread,1.5,2.45,1.5435,,,,2026-11-24 04:56:02.431105+00:00
-1640992344,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Josh Manuel,Kris Van Wyk,total,2.5,,,,3.23,1.3367,2026-11-24 04:56:02.431105+00:00
-1640923511,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Thomas Faurel,Joao Domingues,moneyline,,1.3717,3.13,,,,2026-11-24 04:56:02.431105+00:00
-1640923511,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Thomas Faurel,Joao Domingues,spread,-1.5,1.9091,1.9091,,,,2026-11-24 04:56:02.431105+00:00
-1640923511,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Thomas Faurel,Joao Domingues,total,2.5,,,,2.84,1.4367,2026-11-24 04:56:02.431105+00:00
-1641000842,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,James Beaven,Oliwier Sterniczuk,moneyline,,1.1031,6.83,,,,2026-11-24 04:56:02.431105+00:00
-1641000842,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,James Beaven,Oliwier Sterniczuk,spread,-1.5,1.3448,3.19,,,,2026-11-24 04:56:02.431105+00:00
-1641000842,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,James Beaven,Oliwier Sterniczuk,total,2.5,,,,4.05,1.2347,2026-11-24 04:56:02.431105+00:00
-1640991966,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Nikita Ianin,Aniketh Venkataraman,moneyline,,1.1923,4.79,,,,2026-11-24 04:56:02.431105+00:00
-1640991966,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Nikita Ianin,Aniketh Venkataraman,spread,-1.5,1.5291,2.54,,,,2026-11-24 04:56:02.431105+00:00
-1640991966,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Nikita Ianin,Aniketh Venkataraman,total,2.5,,,,3.52,1.3086,2026-11-24 04:56:02.431105+00:00
-1640991933,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,moneyline,,1.3759,3.03,,,,2026-11-24 04:56:02.431105+00:00
-1640991933,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,spread,-1.5,1.9259,1.8621,,,,2026-11-24 04:56:02.431105+00:00
-1640991933,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,total,2.5,,,,2.8,1.4274,2026-11-24 04:56:02.431105+00:00
-1640991914,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Diego Dedura,Joshua Sheehy,moneyline,,1.3521,3.24,,,,2026-11-24 04:56:02.431105+00:00
-1640991914,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Diego Dedura,Joshua Sheehy,spread,-1.5,1.9804,1.8403,,,,2026-11-24 04:56:02.431105+00:00
-1640991914,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Diego Dedura,Joshua Sheehy,total,2.5,,,,2.61,1.5051,2026-11-24 04:56:02.431105+00:00
-1640973566,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Lucia Bronzetti,Alicia Herrero Linana,moneyline,,1.3802,3.09,,,,2026-11-24 04:56:02.431105+00:00
-1640973566,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Lucia Bronzetti,Alicia Herrero Linana,spread,-1.5,1.9615,1.8547,,,,2026-11-24 04:56:02.431105+00:00
-1640973566,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Lucia Bronzetti,Alicia Herrero Linana,total,2.5,,,,2.76,1.4587,2026-11-24 04:56:02.431105+00:00
-1641020822,2026-11-24 21:00:00+00:00,ITF Men Santa Cruz - R1,Thomas Enrique Menzel Piccioli,Benjamin Torrealba,moneyline,,2.82,1.3891,,,,2026-11-24 04:56:02.431105+00:00
-1641020822,2026-11-24 21:00:00+00:00,ITF Men Santa Cruz - R1,Thomas Enrique Menzel Piccioli,Benjamin Torrealba,spread,1.5,1.8,1.9259,,,,2026-11-24 04:56:02.431105+00:00
-1641020822,2026-11-24 21:00:00+00:00,ITF Men Santa Cruz - R1,Thomas Enrique Menzel Piccioli,Benjamin Torrealba,total,2.5,,,,2.74,1.4082,2026-11-24 04:56:02.431105+00:00
-1640928506,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Juan Cruz Martin Manzano,Vladyslav Orlov,moneyline,,1.4926,2.65,,,,2026-11-24 04:56:02.431105+00:00
-1640928506,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Juan Cruz Martin Manzano,Vladyslav Orlov,spread,-1.5,2.17,1.7042,,,,2026-11-24 04:56:02.431105+00:00
-1640928506,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Juan Cruz Martin Manzano,Vladyslav Orlov,total,2.5,,,,2.68,1.4831,2026-11-24 04:56:02.431105+00:00
-1640991935,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Jaume Casas Blasi,John Hallquist Lithen,moneyline,,5.78,1.1451,,,,2026-11-24 04:56:02.431105+00:00
-1640991935,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Jaume Casas Blasi,John Hallquist Lithen,spread,1.5,2.77,1.4545,,,,2026-11-24 04:56:02.431105+00:00
-1640991935,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Jaume Casas Blasi,John Hallquist Lithen,total,2.5,,,,3.63,1.295,2026-11-24 04:56:02.431105+00:00
-1640992337,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Jan Sadzik,Conor Gannon,moneyline,,3.91,1.2481,,,,2026-11-24 04:56:02.431105+00:00
-1640992337,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Jan Sadzik,Conor Gannon,spread,1.5,2.24,1.641,,,,2026-11-24 04:56:02.431105+00:00
-1640992337,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Jan Sadzik,Conor Gannon,total,2.5,,,,3.19,1.3436,2026-11-24 04:56:02.431105+00:00
-1640992368,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Deney Wassermann,Liam Hignett,moneyline,,2.13,1.7042,,,,2026-11-24 04:56:02.431105+00:00
-1640992368,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Deney Wassermann,Liam Hignett,spread,1.5,1.5291,2.49,,,,2026-11-24 04:56:02.431105+00:00
-1640992368,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Deney Wassermann,Liam Hignett,total,2.5,,,,2.73,1.4484,2026-11-24 04:56:02.431105+00:00
-1641025181,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Valentino Conte,Victor Bini,moneyline,,3.6,1.2681,,,,2026-11-24 04:56:02.431105+00:00
-1641025181,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Valentino Conte,Victor Bini,spread,1.5,2.1,1.6993,,,,2026-11-24 04:56:02.431105+00:00
-1641025181,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Valentino Conte,Victor Bini,total,2.5,,,,3.02,1.361,2026-11-24 04:56:02.431105+00:00
-1640991934,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Valentin Gonzalez-Galino,Ali Habib,moneyline,,1.6369,2.29,,,,2026-11-24 04:56:02.431105+00:00
-1640991934,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Valentin Gonzalez-Galino,Ali Habib,spread,-1.5,2.4,1.5848,,,,2026-11-24 04:56:02.431105+00:00
-1640991934,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Valentin Gonzalez-Galino,Ali Habib,total,2.5,,,,2.78,1.4525,2026-11-24 04:56:02.431105+00:00
-1640973657,2026-11-25 09:00:00+00:00,WTA 125k Buenos Aires - R1,Sol Ailin Larraya Guidi,Maria Lourdes Carle,moneyline,,14.21,1.029,,,,2026-11-24 04:56:02.431105+00:00
-1640973657,2026-11-25 09:00:00+00:00,WTA 125k Buenos Aires - R1,Sol Ailin Larraya Guidi,Maria Lourdes Carle,spread,1.5,4.85,1.1887,,,,2026-11-24 04:56:02.431105+00:00
-1640973657,2026-11-25 09:00:00+00:00,WTA 125k Buenos Aires - R1,Sol Ailin Larraya Guidi,Maria Lourdes Carle,total,2.5,,,,5.45,1.1585,2026-11-24 04:56:02.431105+00:00
-1640983686,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Zhibek Kulambayeva,Veronika Erjavec,moneyline,,3.11,1.3759,,,,2026-11-24 04:56:02.431105+00:00
-1640983686,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Zhibek Kulambayeva,Veronika Erjavec,spread,1.5,1.8475,1.9709,,,,2026-11-24 04:56:02.431105+00:00
-1640983686,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Zhibek Kulambayeva,Veronika Erjavec,total,2.5,,,,2.68,1.4831,2026-11-24 04:56:02.431105+00:00
-1641000843,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Jan Psota,Jonas Gundacker,moneyline,,6.51,1.1112,,,,2026-11-24 04:56:02.431105+00:00
-1641000843,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Jan Psota,Jonas Gundacker,spread,1.5,3.2,1.3425,,,,2026-11-24 04:56:02.431105+00:00
-1641000843,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Jan Psota,Jonas Gundacker,total,2.5,,,,4.17,1.2232,2026-11-24 04:56:02.431105+00:00
-1641007639,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Branko Djuric,Federico Iannaccone,moneyline,,1.7246,2.14,,,,2026-11-24 04:56:02.431105+00:00
-1641007639,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Branko Djuric,Federico Iannaccone,spread,-1.5,2.62,1.5025,,,,2026-11-24 04:56:02.431105+00:00
-1641007639,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Branko Djuric,Federico Iannaccone,total,2.5,,,,2.55,1.5263,2026-11-24 04:56:02.431105+00:00
-1640988516,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Nikita Mashtakov,Anas Mazdrashki,moneyline,,1.7092,2.17,,,,2026-11-24 04:56:02.431105+00:00
-1640988516,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Nikita Mashtakov,Anas Mazdrashki,spread,-1.5,2.58,1.5155,,,,2026-11-24 04:56:02.431105+00:00
-1640988516,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Nikita Mashtakov,Anas Mazdrashki,total,2.5,,,,2.55,1.5263,2026-11-24 04:56:02.431105+00:00
-1640973567,2026-11-24 18:00:00+00:00,WTA 125k Buenos Aires - R1,Solana Sierra,Victoria Jimenez Kasintseva,moneyline,,1.2618,3.91,,,,2026-11-24 04:56:02.431105+00:00
-1640973567,2026-11-24 18:00:00+00:00,WTA 125k Buenos Aires - R1,Solana Sierra,Victoria Jimenez Kasintseva,spread,-1.5,1.7353,2.12,,,,2026-11-24 04:56:02.431105+00:00
-1640973567,2026-11-24 18:00:00+00:00,WTA 125k Buenos Aires - R1,Solana Sierra,Victoria Jimenez Kasintseva,total,2.5,,,,2.89,1.4255,2026-11-24 04:56:02.431105+00:00
-1640992332,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Carles Hernandez,Alvaro Peiro Serrano,moneyline,,1.0942,7.24,,,,2026-11-24 04:56:02.431105+00:00
-1640992332,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Carles Hernandez,Alvaro Peiro Serrano,spread,-1.5,1.3906,2.96,,,,2026-11-24 04:56:02.431105+00:00
-1640992332,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Carles Hernandez,Alvaro Peiro Serrano,total,2.5,,,,3.64,1.2786,2026-11-24 04:56:02.431105+00:00
-1640938413,2026-11-24 15:00:00+00:00,Davis Cup - Tie Winner,Czech Republic,Canada,moneyline,,1.1305,5.97,,,,2026-11-24 04:56:02.431105+00:00
-1640992339,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Oliver Okonkwo,Nikita Belozertsev,moneyline,,2.26,1.6536,,,,2026-11-24 04:56:02.431105+00:00
-1640992339,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Oliver Okonkwo,Nikita Belozertsev,spread,1.5,1.5556,2.47,,,,2026-11-24 04:56:02.431105+00:00
-1640992339,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Oliver Okonkwo,Nikita Belozertsev,total,2.5,,,,2.57,1.5208,2026-11-24 04:56:02.431105+00:00
-1640992310,2026-11-24 14:00:00+00:00,ATP Challenger Ankara - R1,Robert Guna,Dusan Obradovic,moneyline,,1.5917,2.39,,,,2026-11-24 04:56:02.431105+00:00
-1640992310,2026-11-24 14:00:00+00:00,ATP Challenger Ankara - R1,Robert Guna,Dusan Obradovic,spread,-1.5,2.45,1.565,,,,2026-11-24 04:56:02.431105+00:00
-1640992310,2026-11-24 14:00:00+00:00,ATP Challenger Ankara - R1,Robert Guna,Dusan Obradovic,total,2.5,,,,2.52,1.5376,2026-11-24 04:56:02.431105+00:00
-1640923423,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Niels Mcdonald,Luca Staeheli,moneyline,,1.7353,2.15,,,,2026-11-24 04:56:02.431105+00:00
-1640923423,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Niels Mcdonald,Luca Staeheli,spread,-1.5,2.58,1.5263,,,,2026-11-24 04:56:02.431105+00:00
-1640923423,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Niels Mcdonald,Luca Staeheli,total,2.5,,,,2.59,1.5208,2026-11-24 04:56:02.431105+00:00
-1640992311,2026-11-24 12:00:00+00:00,ATP Challenger Ankara - R1,Kenta Miyoshi,Jannik Maute,moneyline,,1.0871,7.36,,,,2026-11-24 04:56:02.431105+00:00
-1640992311,2026-11-24 12:00:00+00:00,ATP Challenger Ankara - R1,Kenta Miyoshi,Jannik Maute,spread,-1.5,1.3731,3.13,,,,2026-11-24 04:56:02.431105+00:00
-1640992311,2026-11-24 12:00:00+00:00,ATP Challenger Ankara - R1,Kenta Miyoshi,Jannik Maute,total,2.5,,,,3.78,1.2762,2026-11-24 04:56:02.431105+00:00
-1640991967,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,David Petrofsky,Aleksandr Braynin,moneyline,,3.88,1.2653,,,,2026-11-24 04:56:02.431105+00:00
-1640991967,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,David Petrofsky,Aleksandr Braynin,spread,1.5,2.11,1.7463,,,,2026-11-24 04:56:02.431105+00:00
-1640991967,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,David Petrofsky,Aleksandr Braynin,total,2.5,,,,2.91,1.4202,2026-11-24 04:56:02.431105+00:00
-1641007638,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Kimmer Coppejans,Wojciech Marek,moneyline,,1.1048,6.76,,,,2026-11-24 04:56:02.431105+00:00
-1641007638,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Kimmer Coppejans,Wojciech Marek,spread,-1.5,1.4255,2.89,,,,2026-11-24 04:56:02.431105+00:00
-1641007638,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Kimmer Coppejans,Wojciech Marek,total,2.5,,,,3.54,1.3058,2026-11-24 04:56:02.431105+00:00
-1640991951,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Ahmed Darmoul,Bozo Barun,moneyline,,9.89,1.0575,,,,2026-11-24 04:56:02.431105+00:00
-1640991951,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Ahmed Darmoul,Bozo Barun,spread,1.5,4.23,1.2188,,,,2026-11-24 04:56:02.431105+00:00
-1640991951,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Ahmed Darmoul,Bozo Barun,total,2.5,,,,5.21,1.1575,2026-11-24 04:56:02.431105+00:00
-1640991968,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Brian Bozemoj,Josef Svoboda,moneyline,,1.0627,9.37,,,,2026-11-24 04:56:02.431105+00:00
-1640991968,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Brian Bozemoj,Josef Svoboda,spread,-1.5,1.2058,4.39,,,,2026-11-24 04:56:02.431105+00:00
-1640991968,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Brian Bozemoj,Josef Svoboda,total,2.5,,,,5.6,1.1408,2026-11-24 04:56:02.431105+00:00
+1640923423,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Niels Mcdonald,Luca Staeheli,moneyline,,1.7353,2.15,,,,2026-11-24 05:26:40.489602+00:00
+1640923423,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Niels Mcdonald,Luca Staeheli,spread,-1.5,2.58,1.5263,,,,2026-11-24 05:26:40.489602+00:00
+1640923423,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Niels Mcdonald,Luca Staeheli,total,2.5,,,,2.59,1.5208,2026-11-24 05:26:40.489602+00:00
+1640991969,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Patrik Homola,Michael Savano,moneyline,,2.79,1.4505,,,,2026-11-24 05:26:40.489602+00:00
+1640991969,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Patrik Homola,Michael Savano,spread,1.5,1.7463,2.11,,,,2026-11-24 05:26:40.489602+00:00
+1640991969,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Patrik Homola,Michael Savano,total,2.5,,,,2.71,1.4739,2026-11-24 05:26:40.489602+00:00
+1640983686,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Zhibek Kulambayeva,Veronika Erjavec,moneyline,,3.11,1.3759,,,,2026-11-24 05:26:40.489602+00:00
+1640983686,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Zhibek Kulambayeva,Veronika Erjavec,spread,1.5,1.8475,1.9709,,,,2026-11-24 05:26:40.489602+00:00
+1640983686,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Zhibek Kulambayeva,Veronika Erjavec,total,2.5,,,,2.68,1.4831,2026-11-24 05:26:40.489602+00:00
+1641007639,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Branko Djuric,Federico Iannaccone,moneyline,,1.7246,2.14,,,,2026-11-24 05:26:40.489602+00:00
+1641007639,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Branko Djuric,Federico Iannaccone,spread,-1.5,2.62,1.5025,,,,2026-11-24 05:26:40.489602+00:00
+1641007639,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Branko Djuric,Federico Iannaccone,total,2.5,,,,2.55,1.5263,2026-11-24 05:26:40.489602+00:00
+1640935623,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Johannus Monday,Philip Henning,moneyline,,2.44,1.5682,,,,2026-11-24 05:26:40.489602+00:00
+1640935623,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Johannus Monday,Philip Henning,spread,1.5,1.5917,2.38,,,,2026-11-24 05:26:40.489602+00:00
+1640935623,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Johannus Monday,Philip Henning,total,2.5,,,,2.49,1.5464,2026-11-24 05:26:40.489602+00:00
+1641000842,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,James Beaven,Oliwier Sterniczuk,moneyline,,1.1031,6.83,,,,2026-11-24 05:26:40.489602+00:00
+1641000842,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,James Beaven,Oliwier Sterniczuk,spread,-1.5,1.3448,3.19,,,,2026-11-24 05:26:40.489602+00:00
+1641000842,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,James Beaven,Oliwier Sterniczuk,total,2.5,,,,4.05,1.2347,2026-11-24 05:26:40.489602+00:00
+1640991914,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Diego Dedura,Joshua Sheehy,moneyline,,1.3521,3.24,,,,2026-11-24 05:26:40.489602+00:00
+1640991914,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Diego Dedura,Joshua Sheehy,spread,-1.5,1.9804,1.8403,,,,2026-11-24 05:26:40.489602+00:00
+1640991914,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Diego Dedura,Joshua Sheehy,total,2.5,,,,2.61,1.5051,2026-11-24 05:26:40.489602+00:00
+1640973570,2026-11-24 20:00:00+00:00,WTA 125k Buenos Aires - R1,Nadia Podoroska,Leyre Romero Gormaz,moneyline,,2.1,1.7463,,,,2026-11-24 05:26:40.489602+00:00
+1640973570,2026-11-24 20:00:00+00:00,WTA 125k Buenos Aires - R1,Nadia Podoroska,Leyre Romero Gormaz,spread,1.5,1.5291,2.54,,,,2026-11-24 05:26:40.489602+00:00
+1640973570,2026-11-24 20:00:00+00:00,WTA 125k Buenos Aires - R1,Nadia Podoroska,Leyre Romero Gormaz,total,2.5,,,,2.68,1.4831,2026-11-24 05:26:40.489602+00:00
+1640991935,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Jaume Casas Blasi,John Hallquist Lithen,moneyline,,5.78,1.1451,,,,2026-11-24 05:26:40.489602+00:00
+1640991935,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Jaume Casas Blasi,John Hallquist Lithen,spread,1.5,2.77,1.4545,,,,2026-11-24 05:26:40.489602+00:00
+1640991935,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Jaume Casas Blasi,John Hallquist Lithen,total,2.5,,,,3.63,1.295,2026-11-24 05:26:40.489602+00:00
+1640928494,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Tuncay Duran,Yanki Erel,moneyline,,2.63,1.4975,,,,2026-11-24 05:26:40.489602+00:00
+1640928494,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Tuncay Duran,Yanki Erel,spread,1.5,1.7299,2.13,,,,2026-11-24 05:26:40.489602+00:00
+1640928494,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Tuncay Duran,Yanki Erel,total,2.5,,,,2.74,1.4651,2026-11-24 05:26:40.489602+00:00
+1640992344,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Josh Manuel,Kris Van Wyk,moneyline,,4.81,1.1783,,,,2026-11-24 05:26:40.489602+00:00
+1640992344,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Josh Manuel,Kris Van Wyk,spread,1.5,2.45,1.5435,,,,2026-11-24 05:26:40.489602+00:00
+1640992344,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Josh Manuel,Kris Van Wyk,total,2.5,,,,3.23,1.3367,2026-11-24 05:26:40.489602+00:00
+1640992336,2026-11-24 08:05:00+00:00,ATP Challenger Hersonissos - R1,Gabriel Ghetu,Ioannis Kountourakis,moneyline,,1.2646,3.89,,,,2026-11-24 05:26:40.489602+00:00
+1640992336,2026-11-24 08:05:00+00:00,ATP Challenger Hersonissos - R1,Gabriel Ghetu,Ioannis Kountourakis,spread,-1.5,1.7407,2.12,,,,2026-11-24 05:26:40.489602+00:00
+1640992336,2026-11-24 08:05:00+00:00,ATP Challenger Hersonissos - R1,Gabriel Ghetu,Ioannis Kountourakis,total,2.5,,,,2.96,1.4098,2026-11-24 05:26:40.489602+00:00
+1640991937,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Mickael Kaouk,Timeo Trufelli,moneyline,,1.2278,4.12,,,,2026-11-24 05:26:40.489602+00:00
+1640991937,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Mickael Kaouk,Timeo Trufelli,spread,-1.5,1.625,2.27,,,,2026-11-24 05:26:40.489602+00:00
+1640991937,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Mickael Kaouk,Timeo Trufelli,total,2.5,,,,3.15,1.3509,2026-11-24 05:26:40.489602+00:00
+1640992311,2026-11-24 12:00:00+00:00,ATP Challenger Ankara - R1,Kenta Miyoshi,Jannik Maute,moneyline,,1.0871,7.36,,,,2026-11-24 05:26:40.489602+00:00
+1640992311,2026-11-24 12:00:00+00:00,ATP Challenger Ankara - R1,Kenta Miyoshi,Jannik Maute,spread,-1.5,1.3731,3.13,,,,2026-11-24 05:26:40.489602+00:00
+1640992311,2026-11-24 12:00:00+00:00,ATP Challenger Ankara - R1,Kenta Miyoshi,Jannik Maute,total,2.5,,,,3.78,1.2762,2026-11-24 05:26:40.489602+00:00
+1640992337,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Jan Sadzik,Conor Gannon,moneyline,,3.91,1.2481,,,,2026-11-24 05:26:40.489602+00:00
+1640992337,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Jan Sadzik,Conor Gannon,spread,1.5,2.24,1.641,,,,2026-11-24 05:26:40.489602+00:00
+1640992337,2026-11-24 09:30:00+00:00,ITF Men Heraklion - R1,Jan Sadzik,Conor Gannon,total,2.5,,,,3.19,1.3436,2026-11-24 05:26:40.489602+00:00
+1640928509,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Ioannis Xilas,Sergey Fomin,moneyline,,1.4219,2.9,,,,2026-11-24 05:26:40.489602+00:00
+1640928509,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Ioannis Xilas,Sergey Fomin,spread,-1.5,2.04,1.7937,,,,2026-11-24 05:26:40.489602+00:00
+1640928509,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Ioannis Xilas,Sergey Fomin,total,2.5,,,,2.72,1.4695,2026-11-24 05:26:40.489602+00:00
+1640988516,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Nikita Mashtakov,Anas Mazdrashki,moneyline,,1.7092,2.17,,,,2026-11-24 05:26:40.489602+00:00
+1640988516,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Nikita Mashtakov,Anas Mazdrashki,spread,-1.5,2.58,1.5155,,,,2026-11-24 05:26:40.489602+00:00
+1640988516,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Nikita Mashtakov,Anas Mazdrashki,total,2.5,,,,2.55,1.5263,2026-11-24 05:26:40.489602+00:00
+1640973566,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Lucia Bronzetti,Alicia Herrero Linana,moneyline,,1.3802,3.09,,,,2026-11-24 05:26:40.489602+00:00
+1640973566,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Lucia Bronzetti,Alicia Herrero Linana,spread,-1.5,1.9615,1.8547,,,,2026-11-24 05:26:40.489602+00:00
+1640973566,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Lucia Bronzetti,Alicia Herrero Linana,total,2.5,,,,2.76,1.4587,2026-11-24 05:26:40.489602+00:00
+1640991968,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Brian Bozemoj,Josef Svoboda,moneyline,,1.0627,9.37,,,,2026-11-24 05:26:40.489602+00:00
+1640991968,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Brian Bozemoj,Josef Svoboda,spread,-1.5,1.2058,4.39,,,,2026-11-24 05:26:40.489602+00:00
+1640991968,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Brian Bozemoj,Josef Svoboda,total,2.5,,,,5.6,1.1408,2026-11-24 05:26:40.489602+00:00
+1640991951,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Ahmed Darmoul,Bozo Barun,moneyline,,9.89,1.0575,,,,2026-11-24 05:26:40.489602+00:00
+1640991951,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Ahmed Darmoul,Bozo Barun,spread,1.5,4.23,1.2188,,,,2026-11-24 05:26:40.489602+00:00
+1640991951,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Ahmed Darmoul,Bozo Barun,total,2.5,,,,5.21,1.1575,2026-11-24 05:26:40.489602+00:00
+1640991967,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,David Petrofsky,Aleksandr Braynin,moneyline,,3.88,1.2653,,,,2026-11-24 05:26:40.489602+00:00
+1640991967,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,David Petrofsky,Aleksandr Braynin,spread,1.5,2.11,1.7463,,,,2026-11-24 05:26:40.489602+00:00
+1640991967,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,David Petrofsky,Aleksandr Braynin,total,2.5,,,,2.91,1.4202,2026-11-24 05:26:40.489602+00:00
+1640928506,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Juan Cruz Martin Manzano,Vladyslav Orlov,moneyline,,1.4926,2.65,,,,2026-11-24 05:26:40.489602+00:00
+1640928506,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Juan Cruz Martin Manzano,Vladyslav Orlov,spread,-1.5,2.17,1.7042,,,,2026-11-24 05:26:40.489602+00:00
+1640928506,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Juan Cruz Martin Manzano,Vladyslav Orlov,total,2.5,,,,2.68,1.4831,2026-11-24 05:26:40.489602+00:00
+1640923417,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Jie Cui,Benjamin Hassan,moneyline,,1.7092,2.19,,,,2026-11-24 05:26:40.489602+00:00
+1640923417,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Jie Cui,Benjamin Hassan,spread,-1.5,2.65,1.5025,,,,2026-11-24 05:26:40.489602+00:00
+1640923417,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Jie Cui,Benjamin Hassan,total,2.5,,,,2.4,1.5988,2026-11-24 05:26:40.489602+00:00
+1640923513,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Svyatoslav Gulin,Goncalo Marques,moneyline,,1.2208,4.37,,,,2026-11-24 05:26:40.489602+00:00
+1640923513,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Svyatoslav Gulin,Goncalo Marques,spread,-1.5,1.6061,2.36,,,,2026-11-24 05:26:40.489602+00:00
+1640923513,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Svyatoslav Gulin,Goncalo Marques,total,2.5,,,,3.25,1.3497,2026-11-24 05:26:40.489602+00:00
+1641000813,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Luca Castagnola,Elijah Sanogo,moneyline,,1.5291,2.49,,,,2026-11-24 05:26:40.489602+00:00
+1641000813,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Luca Castagnola,Elijah Sanogo,spread,-1.5,2.18,1.6757,,,,2026-11-24 05:26:40.489602+00:00
+1641000813,2026-11-24 10:30:00+00:00,ITF Men Monastir 2 - R1,Luca Castagnola,Elijah Sanogo,total,2.5,,,,2.67,1.4673,2026-11-24 05:26:40.489602+00:00
+1640935495,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Alexandr Binda,Matisse Bobichon,moneyline,,2.75,1.463,,,,2026-11-24 05:26:40.489602+00:00
+1640935495,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Alexandr Binda,Matisse Bobichon,spread,1.5,1.6944,2.19,,,,2026-11-24 05:26:40.489602+00:00
+1640935495,2026-11-24 11:00:00+00:00,ATP Challenger Ankara - R1,Alexandr Binda,Matisse Bobichon,total,2.5,,,,2.57,1.5208,2026-11-24 05:26:40.489602+00:00
+1640992310,2026-11-24 14:00:00+00:00,ATP Challenger Ankara - R1,Robert Guna,Dusan Obradovic,moneyline,,1.5917,2.39,,,,2026-11-24 05:26:40.489602+00:00
+1640992310,2026-11-24 14:00:00+00:00,ATP Challenger Ankara - R1,Robert Guna,Dusan Obradovic,spread,-1.5,2.45,1.565,,,,2026-11-24 05:26:40.489602+00:00
+1640992310,2026-11-24 14:00:00+00:00,ATP Challenger Ankara - R1,Robert Guna,Dusan Obradovic,total,2.5,,,,2.52,1.5376,2026-11-24 05:26:40.489602+00:00
+1641007638,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Kimmer Coppejans,Wojciech Marek,moneyline,,1.1048,6.76,,,,2026-11-24 05:26:40.489602+00:00
+1641007638,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Kimmer Coppejans,Wojciech Marek,spread,-1.5,1.4255,2.89,,,,2026-11-24 05:26:40.489602+00:00
+1641007638,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Kimmer Coppejans,Wojciech Marek,total,2.5,,,,3.54,1.3058,2026-11-24 05:26:40.489602+00:00
+1640923511,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Thomas Faurel,Joao Domingues,moneyline,,1.3717,3.13,,,,2026-11-24 05:26:40.489602+00:00
+1640923511,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Thomas Faurel,Joao Domingues,spread,-1.5,1.9091,1.9091,,,,2026-11-24 05:26:40.489602+00:00
+1640923511,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Thomas Faurel,Joao Domingues,total,2.5,,,,2.84,1.4367,2026-11-24 05:26:40.489602+00:00
+1640988519,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Mees Rottgering,Gilles Arnaud Bailly,moneyline,,1.7143,2.15,,,,2026-11-24 05:26:40.489602+00:00
+1640988519,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Mees Rottgering,Gilles Arnaud Bailly,spread,-1.5,2.6,1.5102,,,,2026-11-24 05:26:40.489602+00:00
+1640988519,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Mees Rottgering,Gilles Arnaud Bailly,total,2.5,,,,2.56,1.5208,2026-11-24 05:26:40.489602+00:00
+1640988517,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Benjamin Pietri,Roberto Carballes Baena,moneyline,,3.09,1.3817,,,,2026-11-24 05:26:40.489602+00:00
+1640988517,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Benjamin Pietri,Roberto Carballes Baena,spread,1.5,1.8772,1.9434,,,,2026-11-24 05:26:40.489602+00:00
+1640988517,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Benjamin Pietri,Roberto Carballes Baena,total,2.5,,,,2.81,1.4464,2026-11-24 05:26:40.489602+00:00
+1640991932,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Pedro Rodenas,Leyton Rivera,moneyline,,1.0876,8.12,,,,2026-11-24 05:26:40.489602+00:00
+1640991934,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Valentin Gonzalez-Galino,Ali Habib,moneyline,,1.6579,2.25,,,,2026-11-24 05:26:40.489602+00:00
+1640991934,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Valentin Gonzalez-Galino,Ali Habib,spread,-1.5,2.44,1.5682,,,,2026-11-24 05:26:40.489602+00:00
+1640991934,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Valentin Gonzalez-Galino,Ali Habib,total,2.5,,,,2.78,1.4545,2026-11-24 05:26:40.489602+00:00
+1641000814,2026-11-24 08:30:00+00:00,ITF Men Monastir 2 - R1,Theo Herrmann,Daniel Domingos,moneyline,,2.04,1.7937,,,,2026-11-24 05:26:40.489602+00:00
+1641000814,2026-11-24 08:30:00+00:00,ITF Men Monastir 2 - R1,Theo Herrmann,Daniel Domingos,spread,1.5,1.4673,2.73,,,,2026-11-24 05:26:40.489602+00:00
+1641000814,2026-11-24 08:30:00+00:00,ITF Men Monastir 2 - R1,Theo Herrmann,Daniel Domingos,total,2.5,,,,2.6,1.5076,2026-11-24 05:26:40.489602+00:00
+1641000839,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Parth Aggarwal,Aryan Lakshmanan,moneyline,,4.03,1.25,,,,2026-11-24 05:26:40.489602+00:00
+1641000839,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Parth Aggarwal,Aryan Lakshmanan,spread,1.5,2.2,1.6849,,,,2026-11-24 05:26:40.489602+00:00
+1641000839,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Parth Aggarwal,Aryan Lakshmanan,total,2.5,,,,3.09,1.3817,2026-11-24 05:26:40.489602+00:00
+1641025181,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Valentino Conte,Victor Bini,moneyline,,3.09,1.346,,,,2026-11-24 05:26:40.489602+00:00
+1641025181,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Valentino Conte,Victor Bini,spread,1.5,1.9615,1.8,,,,2026-11-24 05:26:40.489602+00:00
+1641025181,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Valentino Conte,Victor Bini,total,2.5,,,,2.96,1.3731,2026-11-24 05:26:40.489602+00:00
+1640992339,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Oliver Okonkwo,Nikita Belozertsev,moneyline,,2.26,1.6536,,,,2026-11-24 05:26:40.489602+00:00
+1640992339,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Oliver Okonkwo,Nikita Belozertsev,spread,1.5,1.5556,2.47,,,,2026-11-24 05:26:40.489602+00:00
+1640992339,2026-11-24 10:00:00+00:00,ATP Challenger Ankara - R1,Oliver Okonkwo,Nikita Belozertsev,total,2.5,,,,2.57,1.5208,2026-11-24 05:26:40.489602+00:00
+1640991966,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Nikita Ianin,Aniketh Venkataraman,moneyline,,1.1923,4.79,,,,2026-11-24 05:26:40.489602+00:00
+1640991966,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Nikita Ianin,Aniketh Venkataraman,spread,-1.5,1.5291,2.54,,,,2026-11-24 05:26:40.489602+00:00
+1640991966,2026-11-24 05:30:00+00:00,ITF Men Bhopal - R1,Nikita Ianin,Aniketh Venkataraman,total,2.5,,,,3.52,1.3086,2026-11-24 05:26:40.489602+00:00
+1641025180,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Nicolas Villalon,Lautaro Rocha Lautaroerocha,moneyline,,1.5155,2.47,,,,2026-11-24 05:26:40.489602+00:00
+1641025180,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Nicolas Villalon,Lautaro Rocha Lautaroerocha,spread,-1.5,2.12,1.6897,,,,2026-11-24 05:26:40.489602+00:00
+1641025180,2026-11-24 20:00:00+00:00,ITF Men Santa Cruz - R1,Nicolas Villalon,Lautaro Rocha Lautaroerocha,total,2.5,,,,2.72,1.431,2026-11-24 05:26:40.489602+00:00
+1641000841,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Matyas Kozlovsky,Claus Piening,moneyline,,1.7752,2.03,,,,2026-11-24 05:26:40.489602+00:00
+1641000841,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Matyas Kozlovsky,Claus Piening,spread,-1.5,2.52,1.5155,,,,2026-11-24 05:26:40.489602+00:00
+1641000841,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Matyas Kozlovsky,Claus Piening,total,2.5,,,,2.73,1.4505,2026-11-24 05:26:40.489602+00:00
+1640983716,2026-11-24 06:30:00+00:00,ATP Challenger Playford - R1,Omar Jasika,Evan Zhu,moneyline,,1.361,3.24,,,,2026-11-24 05:26:40.489602+00:00
+1640983716,2026-11-24 06:30:00+00:00,ATP Challenger Playford - R1,Omar Jasika,Evan Zhu,spread,-1.5,2.01,1.8333,,,,2026-11-24 05:26:40.489602+00:00
+1640983716,2026-11-24 06:30:00+00:00,ATP Challenger Playford - R1,Omar Jasika,Evan Zhu,total,2.5,,,,2.51,1.5495,2026-11-24 05:26:40.489602+00:00
+1640992327,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Leo Raquillet,Yaroslav Demin,moneyline,,3.8,1.2747,,,,2026-11-24 05:26:40.489602+00:00
+1640992327,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Leo Raquillet,Yaroslav Demin,spread,1.5,2.08,1.7692,,,,2026-11-24 05:26:40.489602+00:00
+1640992327,2026-11-24 14:00:00+00:00,ATP Challenger Hersonissos - R1,Leo Raquillet,Yaroslav Demin,total,2.5,,,,2.87,1.4292,2026-11-24 05:26:40.489602+00:00
+1640935624,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Ryan Peniston,Oleksii Krutykh,moneyline,,2.72,1.4695,,,,2026-11-24 05:26:40.489602+00:00
+1640935624,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Ryan Peniston,Oleksii Krutykh,spread,1.5,1.6711,2.23,,,,2026-11-24 05:26:40.489602+00:00
+1640935624,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Ryan Peniston,Oleksii Krutykh,total,2.5,,,,2.49,1.5464,2026-11-24 05:26:40.489602+00:00
+1640923614,2026-11-24 13:00:00+00:00,ATP Challenger Ankara - R1,Leonardo Rossi,Daniel Rincon,moneyline,,4.74,1.1957,,,,2026-11-24 05:26:40.489602+00:00
+1640923614,2026-11-24 13:00:00+00:00,ATP Challenger Ankara - R1,Leonardo Rossi,Daniel Rincon,spread,1.5,2.35,1.6098,,,,2026-11-24 05:26:40.489602+00:00
+1640923614,2026-11-24 13:00:00+00:00,ATP Challenger Ankara - R1,Leonardo Rossi,Daniel Rincon,total,2.5,,,,3.11,1.3759,2026-11-24 05:26:40.489602+00:00
+1641013577,2026-11-24 22:30:00+00:00,ITF Men Santa Cruz - R1,Murkel Dellien,Santiago Pesino,moneyline,,1.0529,9.59,,,,2026-11-24 05:26:40.489602+00:00
+1640988518,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Alibek Kachmazov,Miles Jones,moneyline,,1.2809,3.74,,,,2026-11-24 05:26:40.489602+00:00
+1640988518,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Alibek Kachmazov,Miles Jones,spread,-1.5,1.8403,1.9804,,,,2026-11-24 05:26:40.489602+00:00
+1640988518,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Alibek Kachmazov,Miles Jones,total,2.5,,,,2.72,1.4695,2026-11-24 05:26:40.489602+00:00
+1640992335,2026-11-24 10:30:00+00:00,ITF Men Heraklion - R1,Pablo De La Cierva Sanchez,Henri Haupt,moneyline,,2.58,1.495,,,,2026-11-24 05:26:40.489602+00:00
+1640992335,2026-11-24 10:30:00+00:00,ITF Men Heraklion - R1,Pablo De La Cierva Sanchez,Henri Haupt,spread,1.5,1.7519,2.06,,,,2026-11-24 05:26:40.489602+00:00
+1640992335,2026-11-24 10:30:00+00:00,ITF Men Heraklion - R1,Pablo De La Cierva Sanchez,Henri Haupt,total,2.5,,,,2.91,1.4016,2026-11-24 05:26:40.489602+00:00
+1640973657,2026-11-25 09:00:00+00:00,WTA 125k Buenos Aires - R1,Sol Ailin Larraya Guidi,Maria Lourdes Carle,moneyline,,14.21,1.029,,,,2026-11-24 05:26:40.489602+00:00
+1640973657,2026-11-25 09:00:00+00:00,WTA 125k Buenos Aires - R1,Sol Ailin Larraya Guidi,Maria Lourdes Carle,spread,1.5,4.85,1.1887,,,,2026-11-24 05:26:40.489602+00:00
+1640973657,2026-11-25 09:00:00+00:00,WTA 125k Buenos Aires - R1,Sol Ailin Larraya Guidi,Maria Lourdes Carle,total,2.5,,,,5.45,1.1585,2026-11-24 05:26:40.489602+00:00
+1640928508,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Dimitris Azoidis,Dimitar Kuzmanov,moneyline,,6.04,1.1304,,,,2026-11-24 05:26:40.489602+00:00
+1640928508,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Dimitris Azoidis,Dimitar Kuzmanov,spread,1.5,2.85,1.4348,,,,2026-11-24 05:26:40.489602+00:00
+1640928508,2026-11-24 10:00:00+00:00,ATP Challenger Hersonissos - R1,Dimitris Azoidis,Dimitar Kuzmanov,total,2.5,,,,3.64,1.2933,2026-11-24 05:26:40.489602+00:00
+1640935625,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Andres Martin,Radu Mihai Papoe,moneyline,,1.9091,1.9091,,,,2026-11-24 05:26:40.489602+00:00
+1640935625,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Andres Martin,Radu Mihai Papoe,spread,-1.5,2.95,1.4098,,,,2026-11-24 05:26:40.489602+00:00
+1640935625,2026-11-24 08:00:00+00:00,ATP Challenger Hersonissos - R1,Andres Martin,Radu Mihai Papoe,total,2.5,,,,2.48,1.5525,2026-11-24 05:26:40.489602+00:00
+1640991950,2026-11-24 09:30:00+00:00,ITF Men Monastir 2 - R1,Louis Allen,Pietro Marino,moneyline,,13.15,1.0362,,,,2026-11-24 05:26:40.489602+00:00
+1640991950,2026-11-24 09:30:00+00:00,ITF Men Monastir 2 - R1,Louis Allen,Pietro Marino,spread,1.5,4.79,1.1795,,,,2026-11-24 05:26:40.489602+00:00
+1640991950,2026-11-24 09:30:00+00:00,ITF Men Monastir 2 - R1,Louis Allen,Pietro Marino,total,2.5,,,,5.62,1.1401,2026-11-24 05:26:40.489602+00:00
+1640991936,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Enrique Carrascosa Diaz,Roberto Perez Socas,moneyline,,1.2762,3.78,,,,2026-11-24 05:26:40.489602+00:00
+1640991936,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Enrique Carrascosa Diaz,Roberto Perez Socas,spread,-1.5,1.6993,2.18,,,,2026-11-24 05:26:40.489602+00:00
+1640991936,2026-11-24 08:00:00+00:00,ITF Men Madrid - R1,Enrique Carrascosa Diaz,Roberto Perez Socas,total,2.5,,,,3.19,1.3623,2026-11-24 05:26:40.489602+00:00
+1640938413,2026-11-24 15:00:00+00:00,Davis Cup - Tie Winner,Czech Republic,Canada,moneyline,,1.1305,5.97,,,,2026-11-24 05:26:40.489602+00:00
+1641000864,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Yassine Smiej,Petr Bar Biryukov,moneyline,,8.71,1.0663,,,,2026-11-24 05:26:40.489602+00:00
+1640973567,2026-11-24 18:00:00+00:00,WTA 125k Buenos Aires - R1,Solana Sierra,Victoria Jimenez Kasintseva,moneyline,,1.2618,3.91,,,,2026-11-24 05:26:40.489602+00:00
+1640973567,2026-11-24 18:00:00+00:00,WTA 125k Buenos Aires - R1,Solana Sierra,Victoria Jimenez Kasintseva,spread,-1.5,1.7353,2.12,,,,2026-11-24 05:26:40.489602+00:00
+1640973567,2026-11-24 18:00:00+00:00,WTA 125k Buenos Aires - R1,Solana Sierra,Victoria Jimenez Kasintseva,total,2.5,,,,2.89,1.4255,2026-11-24 05:26:40.489602+00:00
+1640923512,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Yanaki Milev,Oleg Prihodko,moneyline,,2.26,1.6494,,,,2026-11-24 05:26:40.489602+00:00
+1640923512,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Yanaki Milev,Oleg Prihodko,spread,1.5,1.5435,2.5,,,,2026-11-24 05:26:40.489602+00:00
+1640923512,2026-11-24 09:00:00+00:00,ATP Challenger Ankara - R1,Yanaki Milev,Oleg Prihodko,total,2.5,,,,2.57,1.5181,2026-11-24 05:26:40.489602+00:00
+1640935503,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Lorenzo Giustino,Giulio Perego,moneyline,,1.2688,3.85,,,,2026-11-24 05:26:40.489602+00:00
+1640935503,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Lorenzo Giustino,Giulio Perego,spread,-1.5,1.7576,2.09,,,,2026-11-24 05:26:40.489602+00:00
+1640935503,2026-11-24 12:00:00+00:00,ATP Challenger Monastir - R1,Lorenzo Giustino,Giulio Perego,total,2.5,,,,2.89,1.4255,2026-11-24 05:26:40.489602+00:00
+1640992368,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Deney Wassermann,Liam Hignett,moneyline,,2.13,1.7042,,,,2026-11-24 05:26:40.489602+00:00
+1640992368,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Deney Wassermann,Liam Hignett,spread,1.5,1.5291,2.49,,,,2026-11-24 05:26:40.489602+00:00
+1640992368,2026-11-24 09:30:00+00:00,ITF Men Hradec Kralove - R1,Deney Wassermann,Liam Hignett,total,2.5,,,,2.73,1.4484,2026-11-24 05:26:40.489602+00:00
+1640988515,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Oleksandr Ovcharenko,Pavlos Tsitsipas,moneyline,,1.1859,4.9,,,,2026-11-24 05:26:40.489602+00:00
+1640988515,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Oleksandr Ovcharenko,Pavlos Tsitsipas,spread,-1.5,1.565,2.45,,,,2026-11-24 05:26:40.489602+00:00
+1640988515,2026-11-24 12:00:00+00:00,ATP Challenger Hersonissos - R1,Oleksandr Ovcharenko,Pavlos Tsitsipas,total,2.5,,,,3.24,1.3521,2026-11-24 05:26:40.489602+00:00
+1640992332,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Carles Hernandez,Alvaro Peiro Serrano,moneyline,,1.0987,7.5,,,,2026-11-24 05:26:40.489602+00:00
+1640992332,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Carles Hernandez,Alvaro Peiro Serrano,spread,-1.5,1.3984,3.0,,,,2026-11-24 05:26:40.489602+00:00
+1640992332,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Carles Hernandez,Alvaro Peiro Serrano,total,2.5,,,,3.7,1.2857,2026-11-24 05:26:40.489602+00:00
+1640992367,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Conor Brady,Karl Friberg,moneyline,,3.31,1.3401,,,,2026-11-24 05:26:40.489602+00:00
+1640992367,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Conor Brady,Karl Friberg,spread,1.5,2.03,1.8,,,,2026-11-24 05:26:40.489602+00:00
+1640992367,2026-11-24 08:30:00+00:00,ITF Men Hradec Kralove - R1,Conor Brady,Karl Friberg,total,2.5,,,,3.03,1.3922,2026-11-24 05:26:40.489602+00:00
+1640923536,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Rio Noguchi,Maximus Jones,moneyline,,1.361,3.24,,,,2026-11-24 05:26:40.489602+00:00
+1640923536,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Rio Noguchi,Maximus Jones,spread,-1.5,2.03,1.813,,,,2026-11-24 05:26:40.489602+00:00
+1640923536,2026-11-24 06:00:00+00:00,ATP Challenger Yokohama - R1,Rio Noguchi,Maximus Jones,total,2.5,,,,2.58,1.5263,2026-11-24 05:26:40.489602+00:00
+1640935501,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Semen Pankin,Nikolai Barsukov,moneyline,,1.5102,2.59,,,,2026-11-24 05:26:40.489602+00:00
+1640935501,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Semen Pankin,Nikolai Barsukov,spread,-1.5,2.23,1.6711,,,,2026-11-24 05:26:40.489602+00:00
+1640935501,2026-11-24 14:00:00+00:00,ATP Challenger Monastir - R1,Semen Pankin,Nikolai Barsukov,total,2.5,,,,2.59,1.5128,2026-11-24 05:26:40.489602+00:00
+1640973246,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Guiomar Maristany Zuleta De Reales,Luna Maria Cinalli,moneyline,,1.0376,12.24,,,,2026-11-24 05:26:40.489602+00:00
+1640973246,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Guiomar Maristany Zuleta De Reales,Luna Maria Cinalli,spread,-1.5,1.1887,4.85,,,,2026-11-24 05:26:40.489602+00:00
+1640973246,2026-11-24 16:00:00+00:00,WTA 125k Buenos Aires - R1,Guiomar Maristany Zuleta De Reales,Luna Maria Cinalli,total,2.5,,,,5.75,1.1464,2026-11-24 05:26:40.489602+00:00
+1640991933,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,moneyline,,1.3846,3.07,,,,2026-11-24 05:26:40.489602+00:00
+1640991933,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,spread,-1.5,1.9434,1.8772,,,,2026-11-24 05:26:40.489602+00:00
+1640991933,2026-11-24 09:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,total,2.5,,,,2.84,1.4367,2026-11-24 05:26:40.489602+00:00
+1641000843,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Jan Psota,Jonas Gundacker,moneyline,,6.51,1.1112,,,,2026-11-24 05:26:40.489602+00:00
+1641000843,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Jan Psota,Jonas Gundacker,spread,1.5,3.2,1.3425,,,,2026-11-24 05:26:40.489602+00:00
+1641000843,2026-11-24 10:30:00+00:00,ITF Men Hradec Kralove - R1,Jan Psota,Jonas Gundacker,total,2.5,,,,4.17,1.2232,2026-11-24 05:26:40.489602+00:00
+1640973655,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Victoria Bosio,Laura Samson,moneyline,,5.58,1.1473,,,,2026-11-24 05:26:40.489602+00:00
+1640973655,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Victoria Bosio,Laura Samson,spread,1.5,2.66,1.4878,,,,2026-11-24 05:26:40.489602+00:00
+1640973655,2026-11-24 14:30:00+00:00,WTA 125k Buenos Aires - R1,Victoria Bosio,Laura Samson,total,2.5,,,,3.42,1.3236,2026-11-24 05:26:40.489602+00:00
+1641020822,2026-11-24 21:00:00+00:00,ITF Men Santa Cruz - R1,Thomas Enrique Menzel Piccioli,Benjamin Torrealba,moneyline,,2.86,1.3968,,,,2026-11-24 05:26:40.489602+00:00
+1641020822,2026-11-24 21:00:00+00:00,ITF Men Santa Cruz - R1,Thomas Enrique Menzel Piccioli,Benjamin Torrealba,spread,1.5,1.813,1.9434,,,,2026-11-24 05:26:40.489602+00:00
+1641020822,2026-11-24 21:00:00+00:00,ITF Men Santa Cruz - R1,Thomas Enrique Menzel Piccioli,Benjamin Torrealba,total,2.5,,,,2.78,1.4184,2026-11-24 05:26:40.489602+00:00
