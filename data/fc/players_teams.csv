@@ -79405,16 +79405,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2397012,263053,Monaco,Lyon,,
 2397013,263053,Paris,Monaco,,
 2397014,263053,Marseille,Nice,,
-2396025,262987,Middlesbrough,Wolves,2,1
-2396026,262987,West Ham,Burnley,4,0
-2396027,262987,Burnley,Middlesbrough,3,0
-2396028,262987,Wolves,Southampton,0,2
-2396029,262987,Southampton,Burnley,1,0
-2396030,262987,Middlesbrough,West Ham,1,1
-2396031,262987,West Ham,Southampton,1,0
-2396032,262987,Burnley,Wolves,2,0
-2396033,262987,Wolves,West Ham,4,1
-2396034,262987,Southampton,Middlesbrough,1,2
+2396025,262987,Middlesbrough,Wolves,2.0,1.0
+2396026,262987,West Ham,Burnley,4.0,0.0
+2396027,262987,Burnley,Middlesbrough,3.0,0.0
+2396028,262987,Wolves,Southampton,0.0,2.0
+2396029,262987,Southampton,Burnley,1.0,0.0
+2396030,262987,Middlesbrough,West Ham,1.0,1.0
+2396031,262987,West Ham,Southampton,1.0,0.0
+2396032,262987,Burnley,Wolves,2.0,0.0
+2396033,262987,Wolves,West Ham,4.0,1.0
+2396034,262987,Southampton,Middlesbrough,1.0,2.0
 2396035,262987,Wolves,Middlesbrough,,
 2396036,262987,Burnley,West Ham,,
 2396037,262987,Middlesbrough,Burnley,,
@@ -79425,18 +79425,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2396042,262987,Wolves,Burnley,,
 2396043,262987,West Ham,Wolves,,
 2396044,262987,Middlesbrough,Southampton,,
-2396325,263008,Roma,Juventus,2,3
-2396326,263008,Bologna,Sassuolo,1,0
-2396327,263008,Sassuolo,Roma,3,2
-2396328,263008,Juventus,Napoli,0,2
-2396329,263008,Napoli,Sassuolo,3,3
-2396330,263008,Roma,Bologna,3,1
-2396331,263008,Bologna,Napoli,2,0
-2396332,263008,Sassuolo,Juventus,2,1
-2396333,263008,Juventus,Bologna,0,3
-2396334,263008,Napoli,Roma,3,2
-2396335,263008,Juventus,Roma,1,1
-2396336,263008,Sassuolo,Bologna,3,1
+2396325,263008,Roma,Juventus,2.0,3.0
+2396326,263008,Bologna,Sassuolo,1.0,0.0
+2396327,263008,Sassuolo,Roma,3.0,2.0
+2396328,263008,Juventus,Napoli,0.0,2.0
+2396329,263008,Napoli,Sassuolo,3.0,3.0
+2396330,263008,Roma,Bologna,3.0,1.0
+2396331,263008,Bologna,Napoli,2.0,0.0
+2396332,263008,Sassuolo,Juventus,2.0,1.0
+2396333,263008,Juventus,Bologna,0.0,3.0
+2396334,263008,Napoli,Roma,3.0,2.0
+2396335,263008,Juventus,Roma,1.0,1.0
+2396336,263008,Sassuolo,Bologna,3.0,1.0
 2396337,263008,Roma,Sassuolo,,
 2396338,263008,Napoli,Juventus,,
 2396339,263008,Sassuolo,Napoli,,
@@ -79445,14 +79445,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2396342,263008,Juventus,Sassuolo,,
 2396343,263008,Bologna,Juventus,,
 2396344,263008,Roma,Napoli,,
-2396405,263021,Gangwon FC,FC Seoul,1,1
-2396406,263021,Al Ahli,Al Hilal,0,0
-2396407,263021,Al Hilal,Gangwon FC,1,3
-2396408,263021,FC Seoul,Al Ittihad,2,3
-2396409,263021,Al Ittihad,Al Hilal,2,0
-2396410,263021,Gangwon FC,Al Ahli,1,0
-2396411,263021,Al Ahli,Al Ittihad,0,0
-2396412,263021,Al Hilal,FC Seoul,1,4
+2396405,263021,Gangwon FC,FC Seoul,1.0,1.0
+2396406,263021,Al Ahli,Al Hilal,0.0,0.0
+2396407,263021,Al Hilal,Gangwon FC,1.0,3.0
+2396408,263021,FC Seoul,Al Ittihad,2.0,3.0
+2396409,263021,Al Ittihad,Al Hilal,2.0,0.0
+2396410,263021,Gangwon FC,Al Ahli,1.0,0.0
+2396411,263021,Al Ahli,Al Ittihad,0.0,0.0
+2396412,263021,Al Hilal,FC Seoul,1.0,4.0
 2396413,263021,FC Seoul,Al Ahli,,
 2396414,263021,Al Ittihad,Gangwon FC,,
 2396415,263021,FC Seoul,Gangwon FC,,
@@ -79465,3 +79465,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2396422,263021,FC Seoul,Al Hilal,,
 2396423,263021,Al Ahli,FC Seoul,,
 2396424,263021,Gangwon FC,Al Ittihad,,
+2396245,262998,Norway,Morocco,2,1
+2397543,262998,Czechia,Netherlands,3,0
+2397544,262998,Netherlands,Norway,1,2
+2396248,262998,Morocco,Germany,7,2
+2397545,262998,Germany,Netherlands,1,1
+2396250,262998,Norway,Czechia,0,0
+2396251,262998,Czechia,Germany,1,3
+2397546,262998,Netherlands,Morocco,3,1
+2396253,262998,Morocco,Czechia,1,3
+2396254,262998,Germany,Norway,1,0
+2396255,262998,Morocco,Norway,2,2
+2397547,262998,Netherlands,Czechia,4,2
+2397548,262998,Norway,Netherlands,1,1
+2396258,262998,Germany,Morocco,3,4
+2397549,262998,Netherlands,Germany,,
+2396260,262998,Czechia,Norway,,
+2396261,262998,Germany,Czechia,,
+2397550,262998,Morocco,Netherlands,,
+2396263,262998,Czechia,Morocco,,
+2396264,262998,Norway,Germany,,
+2397075,263060,Liverpool,Paris,4,0
+2397076,263060,Bayern Munchen,Atleti,1,0
+2397077,263060,Atleti,Liverpool,2,3
+2397078,263060,Paris,Real Madrid,2,2
+2397079,263060,Real Madrid,Atleti,3,2
+2397080,263060,Liverpool,Bayern Munchen,1,1
+2397081,263060,Bayern Munchen,Real Madrid,1,1
+2397082,263060,Atleti,Paris,3,2
+2397083,263060,Paris,Bayern Munchen,,
+2397084,263060,Real Madrid,Liverpool,,
+2397085,263060,Paris,Liverpool,,
+2397086,263060,Atleti,Bayern Munchen,,
+2397087,263060,Liverpool,Atleti,,
+2397088,263060,Real Madrid,Paris,,
+2397089,263060,Atleti,Real Madrid,,
+2397090,263060,Bayern Munchen,Liverpool,,
+2397091,263060,Real Madrid,Bayern Munchen,,
+2397092,263060,Paris,Atleti,,
+2397093,263060,Bayern Munchen,Paris,,
+2397094,263060,Liverpool,Real Madrid,,
