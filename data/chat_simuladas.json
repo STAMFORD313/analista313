@@ -4052,5 +4052,40 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261124094649311685",
+  "creada": "2026-11-24 09:46:49.311745+00:00",
+  "titulo": "Barrido · Combinada cuota 6.1",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-24 15:30:00+00:00",
+    "home": "boyband",
+    "away": "BOJONG",
+    "txt": "Gana BOJONG",
+    "odds": 2.38,
+    "p": 0.43371204481792713
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-24 19:00:00+00:00",
+    "home": "XI",
+    "away": "OldBoys FR",
+    "txt": "Gana XI",
+    "odds": 2.57,
+    "p": 0.4112033722438392
+   }
+  ],
+  "odds": 6.12,
+  "p": 0.17834385541190276,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
