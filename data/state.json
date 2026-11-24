@@ -1223,14 +1223,7 @@
   "cbb|2026-11-24|Tulsa Golden Hurricane|Illinois State Redbirds",
   "cbb|2026-11-24|Navy Midshipmen|Penn State Berks PENN STATE-LEHIGH VALLEY",
   "cbb|2026-11-24|Wyoming Cowboys|Kent State Golden Flashes",
-  "fc|2388653",
-  "fc|2388654",
-  "fc|2388697",
-  "fc|2388706",
-  "fc|2388326",
-  "fc|2387731",
-  "fc|2388331",
-  "fc|2388336",
+  "wta|2026-11-26|Sofia Costoulas|Varvara Lepchenko",
   "fc|2388710",
   "dota2|133565",
   "fc|2388716",
@@ -2223,7 +2216,6 @@
   "fc|2396144",
   "fc|2397432",
   "fc|2397308",
-  "wta|2026-11-26|Sofia Costoulas|Varvara Lepchenko",
   "cs2|134514",
   "cs2|134515",
   "cs2|134866",
@@ -2231,7 +2223,10 @@
   "cs2|134885",
   "fc|2397314",
   "fc|2396471",
-  "fc|2396725"
+  "fc|2396725",
+  "fc|2397322",
+  "fc|2397319",
+  "fc|2396474"
  ],
  "signals": [
   {
@@ -12606,27 +12601,6 @@
    "logged": true
   },
   {
-   "key": "vp|2026-11-21|Carabobo|Portuguesa",
-   "market": "U25",
-   "line": 2.5,
-   "odds": 2.18,
-   "book": "Smarkets",
-   "p": 0.4958,
-   "implied": 0.4958,
-   "edge": 0.0788,
-   "match": "Carabobo vs Portuguesa",
-   "start": "2026-11-21T21:30:00+00:00",
-   "league": "💎 Valor vs Pinnacle · Venezuela - Primera Division",
-   "sport": "⚽💎⚽",
-   "sin_stake": true,
-   "context": "Carabobo vs Portuguesa: menos de 2.5 goles, valor contra Pinnacle.",
-   "captured": "2026-11-21T19:11",
-   "version": "0043846",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
    "key": "vp|2026-11-22|Athletico Paranaense|Remo",
    "market": "H",
    "pick": "Athletico Paranaense",
@@ -13271,58 +13245,6 @@
    "logged": true
   },
   {
-   "key": "vp|2026-11-21|Carabobo|Portuguesa",
-   "market": "H",
-   "pick": "Carabobo",
-   "odds": 1.93,
-   "book": "Smarkets",
-   "p": 0.5916,
-   "implied": 0.5916,
-   "edge": 0.1424,
-   "match": "Carabobo vs Portuguesa",
-   "start": "2026-11-21T21:30:00+00:00",
-   "league": "💎 Valor vs Pinnacle · Venezuela - Primera Division",
-   "sport": "⚽💎",
-   "context": "Carabobo vs Portuguesa (Venezuela - Primera Division). Estrategia de valor: Smarkets 1.93 frente a Pinnacle justo 1.69.",
-   "captured": "2026-11-21T21:05",
-   "version": "7886574",
-   "bajas": "",
-   "considered": true,
-   "ai": {
-    "apostar": true,
-    "motivo": null,
-    "confianza": null,
-    "modelo": null
-   },
-   "placed": false
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 4.9,
-   "book": "Unibet",
-   "implied": 0.178,
-   "edge": 0.153,
-   "sin_stake": true,
-   "p": 0.235,
-   "key": "fc|2390953",
-   "match": "hrk vs KravaRK",
-   "start": "2026-11-21T21:46:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hrk vs KravaRK (Portugal Primera): goles esperados 2.65-2.11, 1X2 51%/24%/26%. Sin cuotas de casa.",
-   "captured": "2026-11-21T21:05",
-   "version": "7886574",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "2-2",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "A",
    "pick": "kirman",
    "odds": 2.9,
@@ -13344,32 +13266,6 @@
    "placed": false,
    "anunciada": true,
    "score": "3-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 8.0,
-   "book": "Unibet",
-   "implied": 0.109,
-   "edge": 0.1,
-   "sin_stake": true,
-   "p": 0.137,
-   "key": "fc|2391735",
-   "match": "kkikus vs Nightxx",
-   "start": "2026-11-21T21:43:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle kkikus vs Nightxx (World Cup A): goles esperados 2.18-4.08, 1X2 12%/14%/75%. Sin cuotas de casa.",
-   "captured": "2026-11-21T21:36",
-   "version": "2491b13",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "2-4",
    "result": false,
    "close_p": null,
    "logged": true
@@ -13972,7 +13868,11 @@
    "version": "4f2cb14",
    "bajas": "Arsenal: sin bajas; Borussia Dortmund: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "close_p": 0.6523,
+   "logged": true
   },
   {
    "market": "home",
@@ -14032,7 +13932,11 @@
    "version": "4f2cb14",
    "bajas": "Manchester City: sin bajas; Napoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "close_p": 0.7548,
+   "logged": true
   },
   {
    "market": "home",
@@ -14052,7 +13956,11 @@
    "version": "4f2cb14",
    "bajas": "RB Leipzig: sin bajas; Lens: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "close_p": 0.6972,
+   "logged": true
   },
   {
    "market": "home",
@@ -14092,7 +14000,11 @@
    "version": "4f2cb14",
    "bajas": "Slovan Bratislava: sin bajas; Real Betis: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-2",
+   "close_p": 0.7396,
+   "logged": true
   },
   {
    "key": "vp|2026-11-22|Ramnicu Valcea|Metalul Buzau",
@@ -20339,7 +20251,11 @@
    "version": "74d4b14",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": true,
+   "close_p": 0.2413,
+   "logged": true
   },
   {
    "market": "A",
@@ -32511,15 +32427,6 @@
    "pick": "Más de 143.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>153.4</b> puntos · línea 143.5",
-    "Más 49% · Menos 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tulsa Golden Hurricane ✅✅✅❌❌ | Illinois State Redbirds ❌❌✅✅❌",
-    "• H2H: 4 desde 2016: 1-3",
-    "• Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas"
-   ],
    "context": "Tulsa Golden Hurricane vs Illinois State Redbirds (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 153.4 frente a línea 143.5. Forma Tulsa Golden Hurricane ✅✅✅❌❌, Illinois State Redbirds ❌❌✅✅❌. H2H 4 desde 2016: 1-3. Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas.",
    "captured": "2026-11-24T20:53",
    "version": "64afee0",
@@ -32541,14 +32448,6 @@
    "pick": "Tulsa Golden Hurricane -1.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Tulsa Golden Hurricane cubre -1.5 con prob. 46% (casas 46%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tulsa Golden Hurricane ✅✅✅❌❌ | Illinois State Redbirds ❌❌✅✅❌",
-    "• H2H: 4 desde 2016: 1-3",
-    "• Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas"
-   ],
    "context": "Tulsa Golden Hurricane vs Illinois State Redbirds (🏀 NCAA Basketball). Hándicap Tulsa Golden Hurricane -1.5: margen esperado desde el Elo (gana Tulsa Golden Hurricane 72%). Forma Tulsa Golden Hurricane ✅✅✅❌❌, Illinois State Redbirds ❌❌✅✅❌. H2H 4 desde 2016: 1-3. Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas.",
    "captured": "2026-11-24T20:53",
    "version": "64afee0",
@@ -32569,18 +32468,6 @@
    "start": "2026-11-24T21:30Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.124 partidos y bajas)",
-    "Gana Tulsa Golden Hurricane 72% · Gana Illinois State Redbirds 28%",
-    "Casas: Tulsa Golden Hurricane 50% · Illinois State Redbirds 50%",
-    "Hándicap TLSA -1.5 · Total puntos 143.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tulsa Golden Hurricane ✅✅✅❌❌ | Illinois State Redbirds ❌❌✅✅❌",
-    "• H2H: 4 desde 2016: 1-3",
-    "• Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas",
-    "• Favorito de las casas: Tulsa Golden Hurricane @ 1.89"
-   ],
    "context": "Tulsa Golden Hurricane vs Illinois State Redbirds (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Tulsa Golden Hurricane 72%, Illinois State Redbirds 28%. Cuotas DraftKings 1.893/1.926, hándicap TLSA -1.5, total 143.5. Forma Tulsa Golden Hurricane ✅✅✅❌❌, Illinois State Redbirds ❌❌✅✅❌. H2H 4 desde 2016: 1-3. Bajas Tulsa Golden Hurricane: ninguna. Bajas Illinois State Redbirds: ninguna.",
    "captured": "2026-11-24T20:53",
    "version": "64afee0",
@@ -32724,7 +32611,11 @@
    "version": "64afee0",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-24|Coquimbo Unido|Union La Calera",
@@ -32802,23 +32693,44 @@
    "start": "2026-11-24T21:43:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 80.060 partidos)",
-    "Goles esperados: kkikus 1.30 · Kavviro 3.43",
-    "Ganador: kkikus 7% · empate 12% · Kavviro 81%",
-    "Total: más de 4.5 goles 51% · menos 49%",
-    "Hándicap Kavviro: −1.5 60% · −2.5 42%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ❌❌➖➖❌ | Kavviro ❌✅➖➖✅",
-    "• Partidos: kkikus 1259 | Kavviro 1117",
-    "• Liga: World Cup A",
-    "• Unibet: 1 10.50 · X 9.00 · 2 1.07 (sin margen 8%/10%/82%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 9.00 (+6%) · Paf España 9.00 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle kkikus vs Kavviro (World Cup A): goles esperados 1.30-3.43, 1X2 7%/12%/81%. Sin cuotas de casa.",
    "captured": "2026-11-24T21:23",
    "version": "ce653d3",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "tizzy",
+   "odds": 1.18,
+   "book": "Unibet",
+   "implied": 0.734,
+   "edge": 0.063,
+   "sin_stake": true,
+   "p": 0.901,
+   "key": "fc|2397322",
+   "match": "tizzy vs ssstasonn",
+   "start": "2026-11-24T22:31:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 80.084 partidos)",
+    "Goles esperados: tizzy 5.38 · ssstasonn 2.00",
+    "Ganador: tizzy 90% · empate 6% · ssstasonn 4%",
+    "Total: más de 7.5 goles 46% · menos 54%",
+    "Hándicap tizzy: −1.5 75% · −2.5 62%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: tizzy ✅✅➖✅❌ | ssstasonn ❌❌❌❌✅",
+    "• Partidos: tizzy 486 | ssstasonn 1331",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.18 · X 7.00 · 2 6.10 (sin margen 73%/12%/14%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.18 (+6%) · Paf España 1.18 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle tizzy vs ssstasonn (World Cup A): goles esperados 5.38-2.00, 1X2 90%/6%/4%. Sin cuotas de casa.",
+   "captured": "2026-11-24T21:54",
+   "version": "826ec0e",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -38656,7 +38568,8 @@
      "line": 8.5,
      "text": "Menos de 8.5 tiros a puerta"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "E1|2026-11-25|Watford|Blackburn": {
    "match": "Watford vs Blackburn",
@@ -38787,7 +38700,8 @@
      "line": 11.5,
      "text": "Menos de 11.5 faltas de Blackburn"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "E1|2026-11-25|Stoke|Millwall": {
    "match": "Stoke vs Millwall",
@@ -38948,10 +38862,11 @@
      "line": 4.5,
      "text": "Menos de 4.5 córners de Millwall"
     }
-   ]
+   ],
+   "anunciada": true
   }
  },
- "combo_sent": "2026-11-24T18:24:35.687490+00:00",
+ "combo_sent": "2026-11-24T21:54:11.543605+00:00",
  "fc_sim_sent": "2026-11-24T17:23:00.662569+00:00",
  "fc_sim_n": 3309,
  "kambi_ok": [

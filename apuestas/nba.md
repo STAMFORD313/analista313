@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 22:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Tulsa Golden Hurricane vs Illinois State Redbirds — 24/11 · 22:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 143.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **153.4** puntos · línea 143.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Tulsa Golden Hurricane ✅✅✅❌❌ | Illinois State Redbirds ❌❌✅✅❌  
-• H2H: 4 desde 2016: 1-3  
-• Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas  
-
-## Tulsa Golden Hurricane vs Illinois State Redbirds — 24/11 · 22:30
-
-👀 candidata · 🏀 NCAA Basketball · **Tulsa Golden Hurricane -1.5** @ **2.10** (DraftKings) · prob 46% vs casas 46% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Tulsa Golden Hurricane cubre -1.5 con prob. 46% (casas 46%)  
-🔎 **Claves**  
-• Forma: Tulsa Golden Hurricane ✅✅✅❌❌ | Illinois State Redbirds ❌❌✅✅❌  
-• H2H: 4 desde 2016: 1-3  
-• Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas  
-
-## Tulsa Golden Hurricane vs Illinois State Redbirds — 24/11 · 22:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Tulsa Golden Hurricane** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.124 partidos y bajas)  
-Gana Tulsa Golden Hurricane 72% · Gana Illinois State Redbirds 28%  
-Casas: Tulsa Golden Hurricane 50% · Illinois State Redbirds 50%  
-Hándicap TLSA -1.5 · Total puntos 143.5  
-🔎 **Claves**  
-• Forma: Tulsa Golden Hurricane ✅✅✅❌❌ | Illinois State Redbirds ❌❌✅✅❌  
-• H2H: 4 desde 2016: 1-3  
-• Bajas: Tulsa Golden Hurricane: sin bajas; Illinois State Redbirds: sin bajas  
-• Favorito de las casas: Tulsa Golden Hurricane @ 1.89  
+Actualizado 24/11/2026 22:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arizona Wildcats vs Providence Friars — 24/11 · 23:00
 

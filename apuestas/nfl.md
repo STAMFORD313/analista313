@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 22:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 22:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eastern Michigan Eagles vs Kent State Golden Flashes — 25/11 · 01:00
 
