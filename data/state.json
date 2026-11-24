@@ -1224,9 +1224,6 @@
   "cbb|2026-11-24|Navy Midshipmen|Penn State Berks PENN STATE-LEHIGH VALLEY",
   "cbb|2026-11-24|Wyoming Cowboys|Kent State Golden Flashes",
   "wta|2026-11-26|Sofia Costoulas|Varvara Lepchenko",
-  "fc|2388710",
-  "dota2|133565",
-  "fc|2388716",
   "fc|2390006",
   "fc|2388473",
   "cs2|133490",
@@ -2226,7 +2223,13 @@
   "fc|2396725",
   "fc|2397322",
   "fc|2397319",
-  "fc|2396474"
+  "fc|2396474",
+  "dota2|134156",
+  "dota2|134158",
+  "dota2|134342",
+  "fc|2396727",
+  "fc|2396480",
+  "fc|2397183"
  ],
  "signals": [
   {
@@ -13245,58 +13248,6 @@
    "logged": true
   },
   {
-   "market": "A",
-   "pick": "kirman",
-   "odds": 2.9,
-   "book": "Unibet",
-   "implied": 0.301,
-   "edge": 0.297,
-   "sin_stake": true,
-   "p": 0.447,
-   "key": "fc|2390957",
-   "match": "hrk vs kirman",
-   "start": "2026-11-21T22:10:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hrk vs kirman (Portugal Primera): goles esperados 2.72-3.04, 1X2 33%/22%/45%. Sin cuotas de casa.",
-   "captured": "2026-11-21T21:36",
-   "version": "2491b13",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "3-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.5,
-   "book": "Unibet",
-   "implied": 0.157,
-   "edge": 0.058,
-   "sin_stake": true,
-   "p": 0.192,
-   "key": "fc|2390955",
-   "match": "curuza vs Skif",
-   "start": "2026-11-21T21:58:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle curuza vs Skif (Portugal Primera): goles esperados 3.66-2.83, 1X2 56%/19%/25%. Sin cuotas de casa.",
-   "captured": "2026-11-21T21:36",
-   "version": "2491b13",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "3-3",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "D",
    "pick": "Empate",
    "odds": 6.1,
@@ -13892,7 +13843,11 @@
    "version": "4f2cb14",
    "bajas": "Como: sin bajas; AEK Athens: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": 0.7548,
+   "logged": true
   },
   {
    "market": "away",
@@ -13912,7 +13867,11 @@
    "version": "4f2cb14",
    "bajas": "Feyenoord Rotterdam: sin bajas; FC Porto: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "close_p": 0.4779,
+   "logged": true
   },
   {
    "market": "home",
@@ -13980,7 +13939,11 @@
    "version": "4f2cb14",
    "bajas": "Real Madrid: sin bajas; PSV Eindhoven: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "5-1",
+   "close_p": 0.8514,
+   "logged": true
   },
   {
    "market": "away",
@@ -23763,7 +23726,11 @@
    "version": "301d716",
    "bajas": "BYU Cougars: sin bajas; Ole Miss Rebels: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "63-73",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -23784,7 +23751,11 @@
    "version": "301d716",
    "bajas": "BYU Cougars: sin bajas; Ole Miss Rebels: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "63-73",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -23804,7 +23775,11 @@
    "version": "301d716",
    "bajas": "BYU Cougars: sin bajas; Ole Miss Rebels: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "63-73",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24415,15 +24390,6 @@
    "pick": "Más de 154.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>160.6</b> puntos · línea 154.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Arizona Wildcats ✅✅✅✅✅ | Providence Friars ❌✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Arizona Wildcats: sin bajas; Providence Friars: sin bajas"
-   ],
    "context": "Arizona Wildcats vs Providence Friars (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 160.6 frente a línea 154.5. Forma Arizona Wildcats ✅✅✅✅✅, Providence Friars ❌✅✅✅✅. H2H sin precedentes. Bajas: Arizona Wildcats: sin bajas; Providence Friars: sin bajas.",
    "captured": "2026-11-24T07:30",
    "version": "2155d7e",
@@ -24445,14 +24411,6 @@
    "pick": "Arizona Wildcats -7.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Arizona Wildcats cubre -7.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Arizona Wildcats ✅✅✅✅✅ | Providence Friars ❌✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Arizona Wildcats: sin bajas; Providence Friars: sin bajas"
-   ],
    "context": "Arizona Wildcats vs Providence Friars (🏀 NCAA Basketball). Hándicap Arizona Wildcats -7.5: margen esperado desde el Elo (gana Arizona Wildcats 91%). Forma Arizona Wildcats ✅✅✅✅✅, Providence Friars ❌✅✅✅✅. H2H sin precedentes. Bajas: Arizona Wildcats: sin bajas; Providence Friars: sin bajas.",
    "captured": "2026-11-24T07:30",
    "version": "2155d7e",
@@ -24473,18 +24431,6 @@
    "start": "2026-11-24T22:00Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.117 partidos y bajas)",
-    "Gana Arizona Wildcats 91% · Gana Providence Friars 9%",
-    "Casas: Arizona Wildcats 74% · Providence Friars 26%",
-    "Hándicap ARIZ -7.5 · Total puntos 154.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Arizona Wildcats ✅✅✅✅✅ | Providence Friars ❌✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Arizona Wildcats: sin bajas; Providence Friars: sin bajas",
-    "• Favorito de las casas: Arizona Wildcats @ 1.29"
-   ],
    "context": "Arizona Wildcats vs Providence Friars (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Arizona Wildcats 91%, Providence Friars 9%. Cuotas DraftKings 1.294/3.7, hándicap ARIZ -7.5, total 154.5. Forma Arizona Wildcats ✅✅✅✅✅, Providence Friars ❌✅✅✅✅. H2H sin precedentes. Bajas Arizona Wildcats: ninguna. Bajas Providence Friars: ninguna.",
    "captured": "2026-11-24T07:30",
    "version": "2155d7e",
@@ -32631,10 +32577,6 @@
    "league": "💎 Valor vs Pinnacle · Chile - Cup",
    "sport": "⚽💎⚽",
    "sin_stake": true,
-   "info": [
-    "💎 <b>Valor contra Pinnacle (goles)</b>: Smarkets paga 2.14 y el justo de Pinnacle es 2.07 (+3.3%)",
-    "Candidata sin dinero hasta demostrar su CLV."
-   ],
    "context": "Coquimbo Unido vs Union La Calera: menos de 2.5 goles, valor contra Pinnacle.",
    "captured": "2026-11-24T21:23",
    "version": "ce653d3",
@@ -32698,7 +32640,11 @@
    "version": "ce653d3",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -32731,6 +32677,45 @@
    "context": "EA FC Esoccer Battle tizzy vs ssstasonn (World Cup A): goles esperados 5.38-2.00, 1X2 90%/6%/4%. Sin cuotas de casa.",
    "captured": "2026-11-24T21:54",
    "version": "826ec0e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 15143,
+   "pick": "Aurora Gaming",
+   "odds": 1.43,
+   "book": "Thunderpick",
+   "p": 0.694,
+   "implied": 0.65,
+   "edge": -0.007,
+   "key": "dota2|134342",
+   "match": "GamerLegion vs Aurora Gaming",
+   "start": "2026-11-26T10:00:00+00:00",
+   "league": "🐉 Dota 2 · BLAST Slam IX",
+   "sport": "🐉",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 11.919 partidos)",
+    "Mapa: GamerLegion 46% · Serie BO3: GamerLegion 26% - 74% Aurora Gaming",
+    "Casas: GamerLegion 35% · Aurora Gaming 65%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: GamerLegion 1990 (122 series) | Aurora Gaming 2027 (331 series)",
+    "• Forma: GamerLegion ❌❌✅✅❌ | Aurora Gaming ❌✅❌✅✅",
+    "• H2H: 5: 0-5",
+    "• Torneo: BLAST Slam IX (nivel S)",
+    "• Cambios de plantilla: ninguno",
+    "• Jugadores en forma (KDA últimas 10 partidas): GamerLegion: RCY 5.0, Fayde 4.2 | Aurora Gaming: Ws 5.0, Mikoto 4.3",
+    "• Química de la plantilla: GamerLegion: 347 partidas juntos de media | Aurora Gaming: 210 partidas juntos de media",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• GamerLegion gana 2-1: 20% → cuota justa 5.12 · casa 17%",
+    "• Aurora Gaming gana 2-1: 23% → cuota justa 4.36 · casa 27%"
+   ],
+   "context": "Dota 2 GamerLegion vs Aurora Gaming, BO3, torneo BLAST Slam IX nivel s. Elo por mapa 1990 vs 2027 (prob. mapa 46%, serie 26%). Forma ❌❌✅✅❌ / ❌✅❌✅✅ (✅ victoria ❌ derrota). H2H 5: 0-5. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.65/1.43.",
+   "captured": "2026-11-24T22:23",
+   "version": "b8cc613",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -33423,81 +33408,6 @@
    ],
    "priced": false
   },
-  "ucl|2026-11-24|Manchester City|Napoli": {
-   "match": "Manchester City vs Napoli",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3705,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7579,
-       "text": "Menos de 2.5 tarjetas de Manchester City",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.747,
-       "text": "Menos de 12.5 faltas de Napoli",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6522,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2429,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7579,
-       "text": "Menos de 2.5 tarjetas de Manchester City",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.747,
-       "text": "Menos de 12.5 faltas de Napoli",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6522,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6471,
-       "text": "Menos de 4.5 tiros a puerta de Napoli",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
   "ucl|2026-11-24|RB Leipzig|Lens": {
    "match": "RB Leipzig vs Lens",
    "start": "2026-11-24T20:00:00+00:00",
@@ -33583,89 +33493,6 @@
   },
   "ucl|2026-11-24|Real Madrid|PSV Eindhoven": {
    "match": "Real Madrid vs PSV Eindhoven",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3337,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7821,
-       "text": "Menos de 2.5 tarjetas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6972,
-       "text": "Menos de 11.5 faltas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6016,
-       "text": "Menos de 5.5 córners de RB Leipzig",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0856,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7821,
-       "text": "Menos de 2.5 tarjetas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6972,
-       "text": "Menos de 11.5 faltas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6016,
-       "text": "Menos de 5.5 córners de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5866,
-       "text": "Más de 2.5 goles",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5654,
-       "text": "Menos de 4.5 tiros a puerta de Lens",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "ucl|2026-11-24|Slovan Bratislava|Real Betis": {
-   "match": "Slovan Bratislava vs Real Betis",
    "start": "2026-11-24T20:00:00+00:00",
    "combos": [
     {
@@ -39008,7 +38835,7 @@
   "E1|2026-11-25|Stoke|Millwall"
  ],
  "paper_sent": "2026-11-24T20:23:56.054854+00:00",
- "sgp_res_n": 816,
+ "sgp_res_n": 820,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

@@ -80123,16 +80123,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2397432,263063,Arsenal,Juventus,4.0,1.0
 2397433,263063,Juventus,B Dortmund,,
 2397434,263063,Sporting CP,Man City,,
-2397305,263014,Brazil,Spain,2,0
-2397306,263014,Argentina,England,2,1
-2397307,263014,England,Brazil,0,2
-2397308,263014,Spain,France,6,0
-2397309,263014,France,England,1,1
-2397310,263014,Brazil,Argentina,0,2
-2397311,263014,Argentina,France,1,0
-2397312,263014,England,Spain,2,3
-2397313,263014,Spain,Argentina,3,1
-2397314,263014,France,Brazil,1,3
+2397305,263014,Brazil,Spain,2.0,0.0
+2397306,263014,Argentina,England,2.0,1.0
+2397307,263014,England,Brazil,0.0,2.0
+2397308,263014,Spain,France,6.0,0.0
+2397309,263014,France,England,1.0,1.0
+2397310,263014,Brazil,Argentina,0.0,2.0
+2397311,263014,Argentina,France,1.0,0.0
+2397312,263014,England,Spain,2.0,3.0
+2397313,263014,Spain,Argentina,3.0,1.0
+2397314,263014,France,Brazil,1.0,3.0
 2397315,263014,Spain,Brazil,,
 2397316,263014,England,Argentina,,
 2397317,263014,Brazil,England,,
@@ -80143,14 +80143,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2397322,263014,Spain,England,,
 2397323,263014,Argentina,Spain,,
 2397324,263014,Brazil,France,,
-2396465,263022,Braga,Benfica,2,0
-2396466,263022,Vitoria SC,Sporting CP,0,3
-2396467,263022,Sporting CP,Braga,0,1
-2396468,263022,Benfica,Porto,3,1
-2396469,263022,Porto,Sporting CP,0,2
-2396470,263022,Braga,Vitoria SC,0,1
-2396471,263022,Vitoria SC,Porto,2,1
-2396472,263022,Sporting CP,Benfica,3,2
+2396465,263022,Braga,Benfica,2.0,0.0
+2396466,263022,Vitoria SC,Sporting CP,0.0,3.0
+2396467,263022,Sporting CP,Braga,0.0,1.0
+2396468,263022,Benfica,Porto,3.0,1.0
+2396469,263022,Porto,Sporting CP,0.0,2.0
+2396470,263022,Braga,Vitoria SC,0.0,1.0
+2396471,263022,Vitoria SC,Porto,2.0,1.0
+2396472,263022,Sporting CP,Benfica,3.0,2.0
 2396473,263022,Benfica,Vitoria SC,,
 2396474,263022,Porto,Braga,,
 2396475,263022,Benfica,Braga,,
