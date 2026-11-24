@@ -1,888 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Gana Benevento** @ **1.55** (Bwin) · prob 63% vs casas 63% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.81** (Unibet) · prob 52% vs casas 50% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 58% vs casas 60% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Benevento** @ **1.68** (Unibet) · prob 55% vs casas 53% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 6.5 córners de Benevento** @ **1.55** (Unibet) · prob 57% vs casas 58% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Empoli** @ **1.94** (Unibet) · prob 48% vs casas 46% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Benevento vs Empoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Empoli** @ **1.67** (Unibet) · prob 52% vs casas 54% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.11)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖❌➖❌ | Empoli ❌❌➖➖❌  
-• H2H: 2 desde 2019: 1V-1E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Benevento: sin bajas; Empoli: sin bajas  
-• Favorito de las casas: Benevento @ 1.55  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 3.8: total +9.5 55% · Benevento +5.5 57% · Empoli +4.5 33%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Benevento +2.5 31% · Empoli +2.5 49%  
-Faltas 13.4 - 13.4: total +27.5 43% · Benevento +13.5 47% · Empoli +13.5 47%  
-Tiros a puerta 6.0 - 3.1: total +8.5 55% · Benevento +5.5 54% · Empoli +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Benevento + Menos de 4.5 córners de Empoli + Menos de 3.5 tiros a puerta de Empoli + Menos de 27.5 faltas → prob. 19%, cuota justa 5.30  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Ascoli -0 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Ascoli** @ **1.78** (Unibet) · prob 48% vs casas 50% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Ascoli** @ **1.45** (Unibet) · prob 65% vs casas 62% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Cesena** @ **1.77** (Unibet) · prob 53% vs casas 51% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Cesena** @ **1.45** (Unibet) · prob 60% vs casas 62% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 62% vs casas 61% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Cesena vs Ascoli — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 60% vs casas 60% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.24 - 1.35)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cesena ❌✅➖✅✅ | Ascoli ✅✅➖➖➖  
-• H2H: 12 desde 2007: 3V-4E-5D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas  
-• Favorito de las casas: Cesena @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.6: total +9.5 51% · Cesena +5.5 41% · Ascoli +4.5 47%  
-Tarjetas 2.3 - 2.1: total +4.5 45% · Cesena +2.5 40% · Ascoli +2.5 36%  
-Faltas 15.4 - 10.6: total +27.5 38% · Cesena +13.5 66% · Ascoli +13.5 19%  
-Tiros a puerta 4.5 - 4.3: total +8.5 51% · Cesena +5.5 30% · Ascoli +3.5 61%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Cesena + Menos de 2.5 tarjetas de Ascoli + Menos de 5.5 córners de Cesena → prob. 25%, cuota justa 3.94  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Gana Palermo** @ **1.50** (Bwin) · prob 65% vs casas 65% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Palermo** @ **1.61** (Unibet) · prob 52% vs casas 56% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Palermo** @ **2.02** (Unibet) · prob 48% vs casas 44% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.43** (Unibet) · prob 60% vs casas 63% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.57** (Unibet) · prob 61% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Sudtirol** @ **1.89** (Unibet) · prob 47% vs casas 48% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Palermo vs Sudtirol — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Sudtirol** @ **1.71** (Unibet) · prob 53% vs casas 52% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.98)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Palermo ✅➖✅➖❌ | Sudtirol ➖❌➖➖✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda  
-• Favorito de las casas: Palermo @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.6: total +9.5 46% · Palermo +5.5 49% · Sudtirol +4.5 30%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Palermo +2.5 26% · Sudtirol +2.5 44%  
-Faltas 12.5 - 14.5: total +27.5 45% · Palermo +13.5 38% · Sudtirol +13.5 58%  
-Tiros a puerta 5.9 - 3.3: total +8.5 55% · Palermo +5.5 52% · Sudtirol +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol → prob. 21%, cuota justa 4.67  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Empate** @ **3.25** (BetVictor) · prob 30% vs casas 30% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.70** (Unibet) · prob 55% vs casas 53% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 11.5 córners** @ **1.36** (Unibet) · prob 66% vs casas 66% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Vicenza** @ **1.66** (Unibet) · prob 54% vs casas 54% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Vicenza** @ **1.54** (Unibet) · prob 60% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Carrarese** @ **1.80** (Unibet) · prob 53% vs casas 50% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Vicenza vs Carrarese — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Carrarese** @ **1.79** (Unibet) · prob 47% vs casas 50% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.40)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Vicenza ✅❌❌❌➖ | Carrarese ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Vicenza: sin bajas; Carrarese: sin bajas  
-• Favorito de las casas: Carrarese @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 5.2: total +9.5 57% · Vicenza +5.5 39% · Carrarese +4.5 56%  
-Tarjetas 2.2 - 2.2: total +4.5 43% · Vicenza +2.5 37% · Carrarese +2.5 37%  
-Faltas 13.5 - 11.4: total +27.5 31% · Vicenza +13.5 48% · Carrarese +13.5 27%  
-Tiros a puerta 4.1 - 4.0: total +8.5 43% · Vicenza +5.5 25% · Carrarese +3.5 56%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza → prob. 25%, cuota justa 3.95  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Virtus Entella +0.25 (hándicap asiático)** @ **1.90** (mejor del mercado) · prob 51% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.55** (Unibet) · prob 58% vs casas 58% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 64% vs casas 62% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Verona** @ **2.08** (Unibet) · prob 47% vs casas 43% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Verona** @ **1.58** (Unibet) · prob 53% vs casas 57% · ventaja -17%
-
-- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Virtus Entella** @ **1.68** (Unibet) · prob 49% vs casas 53% · ventaja -17%
-
-- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
-
-## Virtus Entella vs Verona — 24/11 · 20:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Virtus Entella** @ **1.92** (Unibet) · prob 51% vs casas 47% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.09)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Virtus Entella ❌➖❌❌❌ | Verona ➖✅✅➖❌  
-• H2H: 2 desde 2016: 0V-0E-2D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda  
-• Favorito de las casas: Verona @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.9: total +9.5 47% · Virtus Entella +5.5 31% · Verona +4.5 52%  
-Tarjetas 2.4 - 2.4: total +4.5 52% · Virtus Entella +2.5 44% · Verona +2.5 43%  
-Faltas 12.4 - 14.8: total +27.5 46% · Virtus Entella +13.5 36% · Verona +13.5 61%  
-Tiros a puerta 4.1 - 3.9: total +8.5 42% · Virtus Entella +5.5 25% · Verona +3.5 54%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona → prob. 13%, cuota justa 7.51  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 41% · ventaja +3%  
+Actualizado 24/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bristol City vs Wrexham — 24/11 · 20:45
 
@@ -2947,6 +2065,456 @@ Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56
 
 - ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.34)  
+1 37% · X 29% · 2 34%  
+1X 66% · X2 63% · 12 71%  
++1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pisa ➖➖❌➖✅ | Modena ✅✅➖✅✅  
+• H2H: 10 desde 2007: 2V-4E-4D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda  
+• Favorito de las casas: Pisa @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.6: total +9.5 58% · Pisa +5.5 49% · Modena +4.5 46%  
+Tarjetas 2.3 - 2.1: total +4.5 45% · Pisa +2.5 41% · Modena +2.5 35%  
+Faltas 12.2 - 13.4: total +27.5 35% · Pisa +13.5 34% · Modena +13.5 46%  
+Tiros a puerta 4.9 - 4.2: total +8.5 55% · Pisa +5.5 37% · Modena +3.5 58%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners → prob. 16%, cuota justa 6.34  
+
+## Mantova vs Arezzo — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Mantova** @ **2.18** (Unibet) · prob 45% vs casas 41% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.17)  
+1 45% · X 29% · 2 27%  
+1X 73% · X2 55% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌➖➖❌ | Arezzo ❌❌➖❌➖  
+• H2H: 4 desde 2005: 1V-2E-1D · 1.8 goles/partido · +2.5 en 0%  
+• Bajas: Mantova: sin bajas; Arezzo: sin bajas  
+• Favorito de las casas: Mantova @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.7: total +9.5 47% · Mantova +5.5 49% · Arezzo +4.5 32%  
+Tarjetas 2.0 - 2.7: total +4.5 50% · Mantova +2.5 34% · Arezzo +2.5 50%  
+Faltas 15.3 - 15.7: total +27.5 70% · Mantova +13.5 65% · Arezzo +13.5 68%  
+Tiros a puerta 5.3 - 3.3: total +8.5 48% · Mantova +5.5 43% · Arezzo +3.5 41%  
+🧩 Crear apuesta: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo → prob. 20%, cuota justa 4.96  
+
+## Mantova vs Arezzo — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Mantova** @ **1.52** (Unibet) · prob 55% vs casas 59% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.17)  
+1 45% · X 29% · 2 27%  
+1X 73% · X2 55% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌➖➖❌ | Arezzo ❌❌➖❌➖  
+• H2H: 4 desde 2005: 1V-2E-1D · 1.8 goles/partido · +2.5 en 0%  
+• Bajas: Mantova: sin bajas; Arezzo: sin bajas  
+• Favorito de las casas: Mantova @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.7: total +9.5 47% · Mantova +5.5 49% · Arezzo +4.5 32%  
+Tarjetas 2.0 - 2.7: total +4.5 50% · Mantova +2.5 34% · Arezzo +2.5 50%  
+Faltas 15.3 - 15.7: total +27.5 70% · Mantova +13.5 65% · Arezzo +13.5 68%  
+Tiros a puerta 5.3 - 3.3: total +8.5 48% · Mantova +5.5 43% · Arezzo +3.5 41%  
+🧩 Crear apuesta: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo → prob. 20%, cuota justa 4.96  
+
+## Mantova vs Arezzo — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.71** (Unibet) · prob 56% vs casas 52% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.17)  
+1 45% · X 29% · 2 27%  
+1X 73% · X2 55% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌➖➖❌ | Arezzo ❌❌➖❌➖  
+• H2H: 4 desde 2005: 1V-2E-1D · 1.8 goles/partido · +2.5 en 0%  
+• Bajas: Mantova: sin bajas; Arezzo: sin bajas  
+• Favorito de las casas: Mantova @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.7: total +9.5 47% · Mantova +5.5 49% · Arezzo +4.5 32%  
+Tarjetas 2.0 - 2.7: total +4.5 50% · Mantova +2.5 34% · Arezzo +2.5 50%  
+Faltas 15.3 - 15.7: total +27.5 70% · Mantova +13.5 65% · Arezzo +13.5 68%  
+Tiros a puerta 5.3 - 3.3: total +8.5 48% · Mantova +5.5 43% · Arezzo +3.5 41%  
+🧩 Crear apuesta: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo → prob. 20%, cuota justa 4.96  
+
+## Mantova vs Arezzo — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 9.5 córners** @ **1.55** (Unibet) · prob 55% vs casas 58% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.17)  
+1 45% · X 29% · 2 27%  
+1X 73% · X2 55% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌➖➖❌ | Arezzo ❌❌➖❌➖  
+• H2H: 4 desde 2005: 1V-2E-1D · 1.8 goles/partido · +2.5 en 0%  
+• Bajas: Mantova: sin bajas; Arezzo: sin bajas  
+• Favorito de las casas: Mantova @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.7: total +9.5 47% · Mantova +5.5 49% · Arezzo +4.5 32%  
+Tarjetas 2.0 - 2.7: total +4.5 50% · Mantova +2.5 34% · Arezzo +2.5 50%  
+Faltas 15.3 - 15.7: total +27.5 70% · Mantova +13.5 65% · Arezzo +13.5 68%  
+Tiros a puerta 5.3 - 3.3: total +8.5 48% · Mantova +5.5 43% · Arezzo +3.5 41%  
+🧩 Crear apuesta: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo → prob. 20%, cuota justa 4.96  
+
+## Mantova vs Arezzo — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Arezzo** @ **1.78** (Unibet) · prob 49% vs casas 50% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.17)  
+1 45% · X 29% · 2 27%  
+1X 73% · X2 55% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌➖➖❌ | Arezzo ❌❌➖❌➖  
+• H2H: 4 desde 2005: 1V-2E-1D · 1.8 goles/partido · +2.5 en 0%  
+• Bajas: Mantova: sin bajas; Arezzo: sin bajas  
+• Favorito de las casas: Mantova @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.7: total +9.5 47% · Mantova +5.5 49% · Arezzo +4.5 32%  
+Tarjetas 2.0 - 2.7: total +4.5 50% · Mantova +2.5 34% · Arezzo +2.5 50%  
+Faltas 15.3 - 15.7: total +27.5 70% · Mantova +13.5 65% · Arezzo +13.5 68%  
+Tiros a puerta 5.3 - 3.3: total +8.5 48% · Mantova +5.5 43% · Arezzo +3.5 41%  
+🧩 Crear apuesta: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo → prob. 20%, cuota justa 4.96  
+
+## Mantova vs Arezzo — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Arezzo** @ **1.81** (Unibet) · prob 51% vs casas 50% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.17)  
+1 45% · X 29% · 2 27%  
+1X 73% · X2 55% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌➖➖❌ | Arezzo ❌❌➖❌➖  
+• H2H: 4 desde 2005: 1V-2E-1D · 1.8 goles/partido · +2.5 en 0%  
+• Bajas: Mantova: sin bajas; Arezzo: sin bajas  
+• Favorito de las casas: Mantova @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.7: total +9.5 47% · Mantova +5.5 49% · Arezzo +4.5 32%  
+Tarjetas 2.0 - 2.7: total +4.5 50% · Mantova +2.5 34% · Arezzo +2.5 50%  
+Faltas 15.3 - 15.7: total +27.5 70% · Mantova +13.5 65% · Arezzo +13.5 68%  
+Tiros a puerta 5.3 - 3.3: total +8.5 48% · Mantova +5.5 43% · Arezzo +3.5 41%  
+🧩 Crear apuesta: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo → prob. 20%, cuota justa 4.96  
+
+## Padova vs Sampdoria — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 59% vs casas 60% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 0.97)  
+1 38% · X 30% · 2 32%  
+1X 68% · X2 62% · 12 70%  
++1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ✅✅➖➖➖ | Sampdoria ➖❌✅✅✅  
+• H2H: 4 desde 2011: 0V-2E-2D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda  
+• Favorito de las casas: Sampdoria @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.7: total +9.5 46% · Padova +5.5 33% · Sampdoria +4.5 48%  
+Tarjetas 2.2 - 2.4: total +4.5 47% · Padova +2.5 37% · Sampdoria +2.5 43%  
+Faltas 14.3 - 13.9: total +27.5 54% · Padova +13.5 56% · Sampdoria +13.5 52%  
+Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova → prob. 12%, cuota justa 8.28  
+
+## Padova vs Sampdoria — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.47** (Unibet) · prob 63% vs casas 61% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 0.97)  
+1 38% · X 30% · 2 32%  
+1X 68% · X2 62% · 12 70%  
++1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ✅✅➖➖➖ | Sampdoria ➖❌✅✅✅  
+• H2H: 4 desde 2011: 0V-2E-2D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda  
+• Favorito de las casas: Sampdoria @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.7: total +9.5 46% · Padova +5.5 33% · Sampdoria +4.5 48%  
+Tarjetas 2.2 - 2.4: total +4.5 47% · Padova +2.5 37% · Sampdoria +2.5 43%  
+Faltas 14.3 - 13.9: total +27.5 54% · Padova +13.5 56% · Sampdoria +13.5 52%  
+Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova → prob. 12%, cuota justa 8.28  
+
+## Padova vs Sampdoria — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Padova** @ **1.48** (Unibet) · prob 62% vs casas 61% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 0.97)  
+1 38% · X 30% · 2 32%  
+1X 68% · X2 62% · 12 70%  
++1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ✅✅➖➖➖ | Sampdoria ➖❌✅✅✅  
+• H2H: 4 desde 2011: 0V-2E-2D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda  
+• Favorito de las casas: Sampdoria @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.7: total +9.5 46% · Padova +5.5 33% · Sampdoria +4.5 48%  
+Tarjetas 2.2 - 2.4: total +4.5 47% · Padova +2.5 37% · Sampdoria +2.5 43%  
+Faltas 14.3 - 13.9: total +27.5 54% · Padova +13.5 56% · Sampdoria +13.5 52%  
+Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova → prob. 12%, cuota justa 8.28  
+
+## Padova vs Sampdoria — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Padova** @ **1.68** (Unibet) · prob 53% vs casas 53% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 0.97)  
+1 38% · X 30% · 2 32%  
+1X 68% · X2 62% · 12 70%  
++1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ✅✅➖➖➖ | Sampdoria ➖❌✅✅✅  
+• H2H: 4 desde 2011: 0V-2E-2D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda  
+• Favorito de las casas: Sampdoria @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.7: total +9.5 46% · Padova +5.5 33% · Sampdoria +4.5 48%  
+Tarjetas 2.2 - 2.4: total +4.5 47% · Padova +2.5 37% · Sampdoria +2.5 43%  
+Faltas 14.3 - 13.9: total +27.5 54% · Padova +13.5 56% · Sampdoria +13.5 52%  
+Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova → prob. 12%, cuota justa 8.28  
+
+## Padova vs Sampdoria — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Sampdoria** @ **1.72** (Unibet) · prob 50% vs casas 52% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 0.97)  
+1 38% · X 30% · 2 32%  
+1X 68% · X2 62% · 12 70%  
++1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ✅✅➖➖➖ | Sampdoria ➖❌✅✅✅  
+• H2H: 4 desde 2011: 0V-2E-2D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda  
+• Favorito de las casas: Sampdoria @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.7: total +9.5 46% · Padova +5.5 33% · Sampdoria +4.5 48%  
+Tarjetas 2.2 - 2.4: total +4.5 47% · Padova +2.5 37% · Sampdoria +2.5 43%  
+Faltas 14.3 - 13.9: total +27.5 54% · Padova +13.5 56% · Sampdoria +13.5 52%  
+Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova → prob. 12%, cuota justa 8.28  
+
+## Padova vs Sampdoria — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Sampdoria** @ **1.49** (Unibet) · prob 63% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 0.97)  
+1 38% · X 30% · 2 32%  
+1X 68% · X2 62% · 12 70%  
++1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ✅✅➖➖➖ | Sampdoria ➖❌✅✅✅  
+• H2H: 4 desde 2011: 0V-2E-2D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda  
+• Favorito de las casas: Sampdoria @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.7: total +9.5 46% · Padova +5.5 33% · Sampdoria +4.5 48%  
+Tarjetas 2.2 - 2.4: total +4.5 47% · Padova +2.5 37% · Sampdoria +2.5 43%  
+Faltas 14.3 - 13.9: total +27.5 54% · Padova +13.5 56% · Sampdoria +13.5 52%  
+Tiros a puerta 3.8 - 4.0: total +8.5 38% · Padova +5.5 19% · Sampdoria +3.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova → prob. 12%, cuota justa 8.28  
+
+## Pisa vs Modena — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Pisa** @ **2.35** (Unibet) · prob 44% vs casas 38% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.34)  
+1 37% · X 29% · 2 34%  
+1X 66% · X2 63% · 12 71%  
++1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pisa ➖➖❌➖✅ | Modena ✅✅➖✅✅  
+• H2H: 10 desde 2007: 2V-4E-4D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda  
+• Favorito de las casas: Pisa @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.6: total +9.5 58% · Pisa +5.5 49% · Modena +4.5 46%  
+Tarjetas 2.3 - 2.1: total +4.5 45% · Pisa +2.5 41% · Modena +2.5 35%  
+Faltas 12.2 - 13.4: total +27.5 35% · Pisa +13.5 34% · Modena +13.5 46%  
+Tiros a puerta 4.9 - 4.2: total +8.5 55% · Pisa +5.5 37% · Modena +3.5 58%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners → prob. 16%, cuota justa 6.34  
+
+## Pisa vs Modena — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Pisa** @ **1.45** (Unibet) · prob 56% vs casas 62% · ventaja -18%
+
+- ❌ Valor: ventaja -18% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.34)  
+1 37% · X 29% · 2 34%  
+1X 66% · X2 63% · 12 71%  
++1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pisa ➖➖❌➖✅ | Modena ✅✅➖✅✅  
+• H2H: 10 desde 2007: 2V-4E-4D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda  
+• Favorito de las casas: Pisa @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.6: total +9.5 58% · Pisa +5.5 49% · Modena +4.5 46%  
+Tarjetas 2.3 - 2.1: total +4.5 45% · Pisa +2.5 41% · Modena +2.5 35%  
+Faltas 12.2 - 13.4: total +27.5 35% · Pisa +13.5 34% · Modena +13.5 46%  
+Tiros a puerta 4.9 - 4.2: total +8.5 55% · Pisa +5.5 37% · Modena +3.5 58%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners → prob. 16%, cuota justa 6.34  
+
+## Pisa vs Modena — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 10.5 córners** @ **2.33** (Unibet) · prob 42% vs casas 38% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.34)  
+1 37% · X 29% · 2 34%  
+1X 66% · X2 63% · 12 71%  
++1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pisa ➖➖❌➖✅ | Modena ✅✅➖✅✅  
+• H2H: 10 desde 2007: 2V-4E-4D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda  
+• Favorito de las casas: Pisa @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.6: total +9.5 58% · Pisa +5.5 49% · Modena +4.5 46%  
+Tarjetas 2.3 - 2.1: total +4.5 45% · Pisa +2.5 41% · Modena +2.5 35%  
+Faltas 12.2 - 13.4: total +27.5 35% · Pisa +13.5 34% · Modena +13.5 46%  
+Tiros a puerta 4.9 - 4.2: total +8.5 55% · Pisa +5.5 37% · Modena +3.5 58%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners → prob. 16%, cuota justa 6.34  
+
+## Pisa vs Modena — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.46** (Unibet) · prob 58% vs casas 62% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.34)  
+1 37% · X 29% · 2 34%  
+1X 66% · X2 63% · 12 71%  
++1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pisa ➖➖❌➖✅ | Modena ✅✅➖✅✅  
+• H2H: 10 desde 2007: 2V-4E-4D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda  
+• Favorito de las casas: Pisa @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.6: total +9.5 58% · Pisa +5.5 49% · Modena +4.5 46%  
+Tarjetas 2.3 - 2.1: total +4.5 45% · Pisa +2.5 41% · Modena +2.5 35%  
+Faltas 12.2 - 13.4: total +27.5 35% · Pisa +13.5 34% · Modena +13.5 46%  
+Tiros a puerta 4.9 - 4.2: total +8.5 55% · Pisa +5.5 37% · Modena +3.5 58%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners → prob. 16%, cuota justa 6.34  
+
+## Pisa vs Modena — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Modena** @ **1.89** (Unibet) · prob 47% vs casas 48% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.34)  
+1 37% · X 29% · 2 34%  
+1X 66% · X2 63% · 12 71%  
++1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pisa ➖➖❌➖✅ | Modena ✅✅➖✅✅  
+• H2H: 10 desde 2007: 2V-4E-4D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda  
+• Favorito de las casas: Pisa @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.6: total +9.5 58% · Pisa +5.5 49% · Modena +4.5 46%  
+Tarjetas 2.3 - 2.1: total +4.5 45% · Pisa +2.5 41% · Modena +2.5 35%  
+Faltas 12.2 - 13.4: total +27.5 35% · Pisa +13.5 34% · Modena +13.5 46%  
+Tiros a puerta 4.9 - 4.2: total +8.5 55% · Pisa +5.5 37% · Modena +3.5 58%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa → prob. 28%, cuota justa 3.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners → prob. 16%, cuota justa 6.34  
+
+## Pisa vs Modena — 25/11 · 20:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Modena** @ **1.71** (Unibet) · prob 53% vs casas 52% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.46 - 1.34)  
 1 37% · X 29% · 2 34%  

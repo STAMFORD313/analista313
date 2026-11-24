@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 24/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arsenal vs Borussia Dortmund — 24/11 · 21:00
 

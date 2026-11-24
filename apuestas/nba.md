@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Oregon State Beavers vs San Francisco Dons — 24/11 · 20:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 147.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **149.9** puntos · línea 147.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Oregon State Beavers ✅✅✅✅✅ | San Francisco Dons ✅✅❌✅❌  
-• H2H: 5 desde 2025: 3-2  
-• Bajas: Oregon State Beavers: sin bajas; San Francisco Dons: sin bajas  
-
-## Oregon State Beavers vs San Francisco Dons — 24/11 · 20:00
-
-👀 candidata · 🏀 NCAA Basketball · **Oregon State Beavers +8.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Oregon State Beavers cubre +8.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Oregon State Beavers ✅✅✅✅✅ | San Francisco Dons ✅✅❌✅❌  
-• H2H: 5 desde 2025: 3-2  
-• Bajas: Oregon State Beavers: sin bajas; San Francisco Dons: sin bajas  
-
-## Oregon State Beavers vs San Francisco Dons — 24/11 · 20:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana San Francisco Dons** @ **1.24** (DraftKings) · prob 78% vs casas 78% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.118 partidos y bajas)  
-Gana Oregon State Beavers 83% · Gana San Francisco Dons 17%  
-Casas: Oregon State Beavers 22% · San Francisco Dons 78%  
-Hándicap ORST -8.5 · Total puntos 147.5  
-🔎 **Claves**  
-• Forma: Oregon State Beavers ✅✅✅✅✅ | San Francisco Dons ✅✅❌✅❌  
-• H2H: 5 desde 2025: 3-2  
-• Bajas: Oregon State Beavers: sin bajas; San Francisco Dons: sin bajas  
-• Favorito de las casas: San Francisco Dons @ 1.24  
+Actualizado 24/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BYU Cougars vs Ole Miss Rebels — 24/11 · 20:30
 

@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## mPm vs Gazi — 24/11 · 19:58
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.25** (Unibet) · prob 18% vs casas 14% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.924 partidos)  
-Goles esperados: mPm 3.39 · Gazi 2.54  
-Ganador: mPm 57% · empate 18% · Gazi 26%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap mPm: −1.5 39% · −2.5 24%  
-🔎 **Claves**  
-• Forma: mPm ✅✅✅✅➖ | Gazi ✅❌❌✅➖  
-• Partidos: mPm 892 | Gazi 634  
-• Liga: Copa America  
-• Unibet: 1 1.42 · X 6.25 · 2 3.50 (sin margen 61%/14%/25%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.25 (+10%) · Paf España 6.25 (+10%)  
-
-## Rodja vs maggett0 — 24/11 · 20:04
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.40** (Unibet) · prob 21% vs casas 16% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.904 partidos)  
-Goles esperados: Rodja 3.12 · maggett0 2.96  
-Ganador: Rodja 44% · empate 21% · maggett0 35%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Rodja: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Rodja ✅❌✅✅❌ | maggett0 ❌❌❌❌➖  
-• Partidos: Rodja 1181 | maggett0 1133  
-• Liga: Europa League  
-• Unibet: 1 1.72 · X 5.40 · 2 2.65 (sin margen 51%/16%/33%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+12%) · Paf España 5.40 (+12%)  
+Actualizado 24/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Lunjo vs Djape — 24/11 · 20:34
 
@@ -58,4 +20,61 @@ Hándicap Djape: −1.5 34% · −2.5 20%
 • Liga: Premier League  
 • Unibet: 1 2.12 · X 4.60 · 2 2.18 (sin margen 41%/19%/40%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.18 (+8%) · Paf España 2.18 (+8%)  
+
+## Gazi vs Shinobu — 24/11 · 20:34
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.25** (Unibet) · prob 22% vs casas 17% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.950 partidos)  
+Goles esperados: Gazi 2.32 · Shinobu 2.39  
+Ganador: Gazi 43% · empate 22% · Shinobu 36%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap Shinobu: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Gazi ✅➖❌✅✅ | Shinobu ❌✅➖❌✅  
+• Partidos: Gazi 637 | Shinobu 1745  
+• Liga: Copa America  
+• Unibet: 1 1.87 · X 5.25 · 2 2.40 (sin margen 47%/17%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.25 (+14%) · Paf España 5.25 (+14%)  
+
+## ZORO vs Mani — 24/11 · 20:43
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana ZORO** @ **2.15** (Unibet) · prob 51% vs casas 41% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.950 partidos)  
+Goles esperados: ZORO 3.29 · Mani 2.73  
+Ganador: ZORO 51% · empate 18% · Mani 30%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap ZORO: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: ZORO ➖❌✅❌❌ | Mani ❌❌❌❌❌  
+• Partidos: ZORO 1042 | Mani 1119  
+• Liga: Serie A  
+• Unibet: 1 2.15 · X 4.30 · 2 2.23 (sin margen 41%/20%/39%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.15 (+11%) · Paf España 2.15 (+11%)  
+
+## mPm vs SDI — 24/11 · 20:46
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **7.50** (Unibet) · prob 15% vs casas 12% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.950 partidos)  
+Goles esperados: mPm 4.24 · SDI 3.11  
+Ganador: mPm 62% · empate 15% · SDI 23%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap mPm: −1.5 44% · −2.5 30%  
+🔎 **Claves**  
+• Forma: mPm ✅➖✅❌❌ | SDI ❌❌➖❌❌  
+• Partidos: mPm 895 | SDI 805  
+• Liga: Copa America  
+• Unibet: 1 1.47 · X 7.50 · 2 2.95 (sin margen 59%/12%/29%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+11%) · Paf España 7.50 (+11%)  
 
