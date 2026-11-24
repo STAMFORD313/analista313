@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 13:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 13:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs RuBIX — 24/11 · 13:03
+## Hyper vs Lumix — 24/11 · 13:46
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 14% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Lumix** @ **2.18** (Unibet) · prob 50% vs casas 40% · ventaja +9%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.550 partidos)  
-Goles esperados: cl1vlind 2.94 · RuBIX 3.38  
-Ganador: cl1vlind 33% · empate 19% · RuBIX 48%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap RuBIX: −1.5 33% · −2.5 20%  
-🔎 **Claves**  
-• Forma: cl1vlind ✅❌✅➖✅ | RuBIX ❌❌✅✅❌  
-• Partidos: cl1vlind 887 | RuBIX 438  
-• Liga: World Cup B  
-• Unibet: 1 3.05 · X 6.00 · 2 1.52 (sin margen 28%/14%/57%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+13%) · Paf España 6.00 (+13%)  
-
-## MeLToSik vs Flewless_phoenix — 24/11 · 13:18
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **5.60** (Unibet) · prob 23% vs casas 16% · ventaja +31%
-
-- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.550 partidos)  
-Goles esperados: MeLToSik 2.35 · Flewless_phoenix 3.14  
-Ganador: MeLToSik 23% · empate 19% · Flewless_phoenix 58%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap Flewless_phoenix: −1.5 37% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 79.576 partidos)  
+Goles esperados: Hyper 2.94 · Lumix 3.25  
+Ganador: Hyper 30% · empate 20% · Lumix 50%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Lumix: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: MeLToSik ❌❌➖❌➖ | Flewless_phoenix ❌✅✅➖➖  
-• Partidos: MeLToSik 1435 | Flewless_phoenix 211  
-• Liga: Bundesliga  
-• Unibet: 1 5.60 · X 4.50 · 2 1.33 (sin margen 15%/19%/65%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.60 (+31%) · Paf España 5.60 (+31%)  
+• Forma: Hyper ✅➖✅❌✅ | Lumix ➖❌➖❌❌  
+• Partidos: Hyper 760 | Lumix 1263  
+• Liga: FA Cup  
+• Unibet: 1 2.40 · X 3.65 · 2 2.18 (sin margen 36%/24%/40%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.18 (+9%) · Paf España 2.18 (+9%)  
 
-## DaVa vs Jekunam — 24/11 · 13:18
+## RuBIX vs v1nn — 24/11 · 13:49
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **1.86** (Unibet) · prob 57% vs casas 47% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +10%
 
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.550 partidos)  
-Goles esperados: DaVa 2.81 · Jekunam 2.12  
-Ganador: DaVa 57% · empate 20% · Jekunam 23%  
-Total: más de 4.5 goles 55% · menos 45%  
-Hándicap DaVa: −1.5 35% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 79.576 partidos)  
+Goles esperados: RuBIX 3.35 · v1nn 3.52  
+Ganador: RuBIX 37% · empate 19% · v1nn 44%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap v1nn: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: DaVa ✅✅✅➖❌ | Jekunam ✅❌➖❌➖  
-• Partidos: DaVa 1499 | Jekunam 1326  
-• Liga: Bundesliga  
-• Unibet: 1 1.86 · X 3.15 · 2 3.40 (sin margen 47%/28%/26%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.86 (+5%) · Paf España 1.86 (+5%)  
+• Forma: RuBIX ✅✅❌❌❌ | v1nn ✅✅➖✅➖  
+• Partidos: RuBIX 440 | v1nn 883  
+• Liga: Champions League B  
+• Unibet: 1 2.10 · X 5.80 · 2 2.04 (sin margen 42%/15%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+10%) · Paf España 5.80 (+10%)  
+
+## cl1vlind vs A1ose — 24/11 · 13:49
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cl1vlind** @ **3.00** (Unibet) · prob 36% vs casas 29% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.576 partidos)  
+Goles esperados: cl1vlind 3.33 · A1ose 3.57  
+Ganador: cl1vlind 36% · empate 19% · A1ose 45%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap A1ose: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: cl1vlind ❌✅➖✅✅ | A1ose ➖❌❌✅✅  
+• Partidos: cl1vlind 888 | A1ose 1230  
+• Liga: Champions League B  
+• Unibet: 1 3.00 · X 2.95 · 2 2.07 (sin margen 29%/29%/42%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+7%) · Paf España 3.00 (+7%)  
 
