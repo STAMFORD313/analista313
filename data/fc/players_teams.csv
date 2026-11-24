@@ -79155,13 +79155,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2394867,262917,Real Madrid,Bayern Munchen,,
 2394868,262917,Atleti,Real Madrid,,
 2394869,262917,Liverpool,Paris,,
-2395582,262957,Atleti,Real Madrid,4,1
-2395583,262957,Atleti,Barcelona,1,3
-2395584,262957,Real Madrid,Barcelona,2,2
-2395585,262957,Real Madrid,Atleti,2,5
-2395586,262957,Barcelona,Atleti,3,6
-2395587,262957,Barcelona,Real Madrid,1,1
+2395582,262957,Atleti,Real Madrid,4.0,1.0
+2395583,262957,Atleti,Barcelona,1.0,3.0
+2395584,262957,Real Madrid,Barcelona,2.0,2.0
+2395585,262957,Real Madrid,Atleti,2.0,5.0
+2395586,262957,Barcelona,Atleti,3.0,6.0
+2395587,262957,Barcelona,Real Madrid,1.0,1.0
 2395588,262957,Atleti,Real Madrid,,
 2395589,262957,Atleti,Barcelona,,
 2395590,262957,Real Madrid,Barcelona,,
 2395591,262957,Real Madrid,Atleti,,
+2394382,262889,Frankfurt,B Dortmund,1,1
+2394383,262889,Stuttgart,Bayern Munchen,1,1
+2394384,262889,Bayern Munchen,Frankfurt,0,2
+2394385,262889,B Dortmund,Leipzig,0,1
+2394386,262889,Leipzig,Bayern Munchen,2,0
+2394387,262889,Frankfurt,Stuttgart,0,0
+2394388,262889,Stuttgart,Leipzig,1,0
+2394389,262889,Bayern Munchen,B Dortmund,0,3
+2394390,262889,B Dortmund,Stuttgart,,
+2394391,262889,Leipzig,Frankfurt,,
+2394392,262889,B Dortmund,Frankfurt,,
+2394393,262889,Bayern Munchen,Stuttgart,,
+2394394,262889,Frankfurt,Bayern Munchen,,
+2394395,262889,Leipzig,B Dortmund,,
+2394396,262889,Bayern Munchen,Leipzig,,
+2394397,262889,Stuttgart,Frankfurt,,
+2394398,262889,Leipzig,Stuttgart,,
+2394399,262889,B Dortmund,Bayern Munchen,,
+2394400,262889,Stuttgart,B Dortmund,,
+2394401,262889,Frankfurt,Leipzig,,
