@@ -1,47 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 24/11/2026 18:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bodo/Glimt vs LASK Linz — 24/11 · 18:45
-
-👀 candidata · 🏆 Champions League · **Gana Bodo/Glimt** @ **1.57** (DraftKings) · prob 60% vs casas 61% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.169 partidos y bajas)  
-1 59% · X 18% · 2 23%  
-Casas: 1 61% · X 19% · 2 20%  
-Hándicap BODO -175 · Total puntos 3.5  
-🔎 **Claves**  
-• Forma: Bodo/Glimt ❌❌✅❌➖ | LASK Linz ➖❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Bodo/Glimt: sin bajas; LASK Linz: sin bajas  
-• Favorito de las casas: Bodo/Glimt @ 1.57  
-
-## Galatasaray vs Aston Villa — 24/11 · 18:45
-
-👀 candidata · 🏆 Champions League · **Gana Aston Villa** @ **2.40** (DraftKings) · prob 42% vs casas 40% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.169 partidos y bajas)  
-1 35% · X 21% · 2 45%  
-Casas: 1 36% · X 24% · 2 40%  
-Hándicap AVL +140 · Total puntos 3.5  
-🔎 **Claves**  
-• Forma: Galatasaray ❌❌❌✅✅ | Aston Villa ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Galatasaray: sin bajas; Aston Villa: sin bajas  
-• Favorito de las casas: Aston Villa @ 2.40  
-📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
-Córners 6.2 - 3.7: total +10.5 41% · Galatasaray +5.5 55% · Aston Villa +4.5 31%  
-Tarjetas 2.0 - 2.3: total +4.5 44% · Galatasaray +2.5 33% · Aston Villa +2.5 41%  
-Faltas 12.2 - 10.5: total +24.5 35% · Galatasaray +12.5 45% · Aston Villa +13.5 18%  
-Tiros a puerta 6.6 - 3.2: total +9.5 51% · Galatasaray +5.5 62% · Aston Villa +4.5 23%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Aston Villa + Menos de 4.5 tiros a puerta de Aston Villa + Menos de 4.5 córners de Aston Villa → prob. 45%, cuota justa 2.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Aston Villa + Menos de 4.5 tiros a puerta de Aston Villa + Menos de 4.5 córners de Aston Villa + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles → prob. 19%, cuota justa 5.17  
+Actualizado 24/11/2026 18:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arsenal vs Borussia Dortmund — 24/11 · 21:00
 
