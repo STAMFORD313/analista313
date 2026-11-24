@@ -4032,7 +4032,9 @@
     "away": "TheChampionGG",
     "txt": "Gana INFINITE Talent",
     "odds": 2.2,
-    "p": 0.48093030303030293
+    "p": 0.48093030303030293,
+    "ok": false,
+    "por": "ganó TheChampionGG 2-1"
    },
    {
     "src": "esports:dota2",
@@ -4049,9 +4051,9 @@
   "odds": 5.54,
   "p": 0.20629518071508732,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261124094649311685",
@@ -4067,7 +4069,9 @@
     "away": "BOJONG",
     "txt": "Gana BOJONG",
     "odds": 2.38,
-    "p": 0.43371204481792713
+    "p": 0.43371204481792713,
+    "ok": true,
+    "por": "ganó BOJONG 2-1"
    },
    {
     "src": "esports:cs2",
