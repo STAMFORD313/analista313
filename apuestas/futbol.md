@@ -1,363 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 20:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Derby +1.5 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 51% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners de Wolves** @ **3.00** (Unibet) · prob 36% vs casas 31% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 8.5 córners de Wolves** @ **1.32** (Unibet) · prob 64% vs casas 69% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 11.5 córners** @ **2.40** (Unibet) · prob 44% vs casas 38% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.30** (Unibet) · prob 66% vs casas 70% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 2.5 córners de Derby** @ **1.43** (Unibet) · prob 64% vs casas 64% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Wolves vs Derby — 24/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Derby** @ **1.37** (Unibet) · prob 69% vs casas 67% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 1.08)  
-1 67% · X 21% · 2 12%  
-1X 88% · X2 33% · 12 79%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Wolves ✅✅✅➖✅ | Derby ➖❌❌✅❌  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Wolves: sin bajas; Derby: 0 fuera, 3 duda  
-• Favorito de las casas: Wolves @ 1.31  
-📐 **Estadísticas esperadas**  
-Córners 8.2 - 3.5: total +10.5 60% · Wolves +5.5 74% · Derby +4.5 29%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Wolves +2.5 24% · Derby +2.5 48%  
-Faltas 11.1 - 12.5: total +22.5 57% · Wolves +11.5 44% · Derby +11.5 58%  
-Tiros a puerta 5.9 - 3.0: total +8.5 52% · Wolves +4.5 67% · Derby +3.5 36%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves → prob. 41%, cuota justa 2.43 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 5.5 córners de Wolves + Más de 4.5 tiros a puerta de Wolves + Más de 11.5 faltas de Derby + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Más de 5.5 córners de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.44 (producto de piernas) · prob. 42% · ventaja +2%  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Gana Rangers** @ **1.25** (Bet365) · prob 79% vs casas 79% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 13.5 córners** @ **3.45** (Unibet) · prob 30% vs casas 27% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 14.5 córners** @ **1.15** (Unibet) · prob 77% vs casas 79% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 10.5 córners de Rangers** @ **4.00** (Unibet) · prob 27% vs casas 23% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 10.5 córners de Rangers** @ **1.20** (Unibet) · prob 73% vs casas 77% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 1.5 córners de Aberdeen** @ **1.20** (Unibet) · prob 79% vs casas 77% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
-
-## Rangers vs Aberdeen — 24/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 4.5 córners de Aberdeen** @ **1.30** (Unibet) · prob 73% vs casas 71% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.33 - 0.71)  
-1 81% · X 14% · 2 5%  
-1X 95% · X2 19% · 12 86%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 47%  
-Marcadores: 2-0 13% · 1-0 11% · 3-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rangers ➖✅➖✅✅ | Aberdeen ✅❌❌❌✅  
-• H2H: 62 desde 2005: 36V-15E-11D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas  
-• Favorito de las casas: Rangers @ 1.25  
-📐 **Estadísticas esperadas**  
-Córners 8.9 - 3.3: total +11.5 55% · Rangers +6.5 70% · Aberdeen +5.5 14%  
-Tarjetas 1.3 - 2.1: total +4.5 25% · Rangers +2.5 13% · Aberdeen +2.5 35%  
-Faltas 10.8 - 11.7: total +24.5 33% · Rangers +12.5 30% · Aberdeen +12.5 39%  
-Tiros a puerta 8.4 - 2.6: total +9.5 64% · Rangers +5.5 80% · Aberdeen +4.5 13%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen → prob. 66%, cuota justa 1.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles → prob. 27%, cuota justa 3.75  
+Actualizado 24/11/2026 21:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Palmeiras — 24/11 · 22:00
 
@@ -1791,6 +1434,163 @@ Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%
 Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
+
+## Stoke vs Millwall — 25/11 · 21:00
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.30** (Unibet) · prob 71% vs casas 70% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.04)  
+1 45% · X 30% · 2 26%  
+1X 74% · X2 55% · 12 70%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Stoke ➖✅✅✅✅ | Millwall ❌✅❌❌❌  
+• H2H: 18 desde 2005: 4V-5E-9D · 1.6 goles/partido · +2.5 en 22%  
+• Bajas: Stoke: sin bajas; Millwall: 0 fuera, 1 duda  
+• Favorito de las casas: Stoke @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Stoke +5.5 56% · Millwall +4.5 42%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Stoke +2.5 28% · Millwall +2.5 40%  
+Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%  
+Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
+
+## Stoke vs Millwall — 25/11 · 21:00
+
+👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.04)  
+1 45% · X 30% · 2 26%  
+1X 74% · X2 55% · 12 70%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Stoke ➖✅✅✅✅ | Millwall ❌✅❌❌❌  
+• H2H: 18 desde 2005: 4V-5E-9D · 1.6 goles/partido · +2.5 en 22%  
+• Bajas: Stoke: sin bajas; Millwall: 0 fuera, 1 duda  
+• Favorito de las casas: Stoke @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Stoke +5.5 56% · Millwall +4.5 42%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Stoke +2.5 28% · Millwall +2.5 40%  
+Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%  
+Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
+
+## Stoke vs Millwall — 25/11 · 21:00
+
+👀 candidata · 🏴 Championship · **Más de 5.5 córners de Stoke** @ **1.79** (Unibet) · prob 53% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.04)  
+1 45% · X 30% · 2 26%  
+1X 74% · X2 55% · 12 70%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Stoke ➖✅✅✅✅ | Millwall ❌✅❌❌❌  
+• H2H: 18 desde 2005: 4V-5E-9D · 1.6 goles/partido · +2.5 en 22%  
+• Bajas: Stoke: sin bajas; Millwall: 0 fuera, 1 duda  
+• Favorito de las casas: Stoke @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Stoke +5.5 56% · Millwall +4.5 42%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Stoke +2.5 28% · Millwall +2.5 40%  
+Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%  
+Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
+
+## Stoke vs Millwall — 25/11 · 21:00
+
+👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Stoke** @ **1.32** (Unibet) · prob 69% vs casas 69% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.04)  
+1 45% · X 30% · 2 26%  
+1X 74% · X2 55% · 12 70%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Stoke ➖✅✅✅✅ | Millwall ❌✅❌❌❌  
+• H2H: 18 desde 2005: 4V-5E-9D · 1.6 goles/partido · +2.5 en 22%  
+• Bajas: Stoke: sin bajas; Millwall: 0 fuera, 1 duda  
+• Favorito de las casas: Stoke @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Stoke +5.5 56% · Millwall +4.5 42%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Stoke +2.5 28% · Millwall +2.5 40%  
+Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%  
+Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
+
+## Stoke vs Millwall — 25/11 · 21:00
+
+👀 candidata · 🏴 Championship · **Más de 3.5 córners de Millwall** @ **1.45** (Unibet) · prob 61% vs casas 63% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.04)  
+1 45% · X 30% · 2 26%  
+1X 74% · X2 55% · 12 70%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Stoke ➖✅✅✅✅ | Millwall ❌✅❌❌❌  
+• H2H: 18 desde 2005: 4V-5E-9D · 1.6 goles/partido · +2.5 en 22%  
+• Bajas: Stoke: sin bajas; Millwall: 0 fuera, 1 duda  
+• Favorito de las casas: Stoke @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Stoke +5.5 56% · Millwall +4.5 42%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Stoke +2.5 28% · Millwall +2.5 40%  
+Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%  
+Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
+
+## Stoke vs Millwall — 25/11 · 21:00
+
+👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Millwall** @ **1.80** (Unibet) · prob 55% vs casas 51% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.04)  
+1 45% · X 30% · 2 26%  
+1X 74% · X2 55% · 12 70%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Stoke ➖✅✅✅✅ | Millwall ❌✅❌❌❌  
+• H2H: 18 desde 2005: 4V-5E-9D · 1.6 goles/partido · +2.5 en 22%  
+• Bajas: Stoke: sin bajas; Millwall: 0 fuera, 1 duda  
+• Favorito de las casas: Stoke @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Stoke +5.5 56% · Millwall +4.5 42%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Stoke +2.5 28% · Millwall +2.5 40%  
+Faltas 9.6 - 12.8: total +22.5 48% · Stoke +11.5 26% · Millwall +11.5 62%  
+Tiros a puerta 4.2 - 3.2: total +8.5 33% · Stoke +4.5 40% · Millwall +3.5 40%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall → prob. 15%, cuota justa 6.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 4.37 (producto de piernas) · prob. 34% · ventaja +47% → 1 u en la banca de simulación  
 
 ## Atletico-MG vs Corinthians — 26/11 · 00:00
 

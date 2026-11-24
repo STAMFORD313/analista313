@@ -813,3 +813,5 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-23,Levante vs Elche,larga,4,0.1927,0,1,0.6426,5.21,0.004,0,,Menos de 2.5 tarjetas de Levante + Menos de 10.5 córners + Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante,100
 2026-11-23,Levante vs Elche,valor,2,0.4441,0,0,0.6262,2.76,0.224,1,-1.0,Más de 2.5 goles + Más de 4.5 tiros a puerta de Levante,0
 2026-11-24,Washington Commanders vs Cincinnati Bengals,nfl,2,0.1519,0,1,0.3985,6.33,-0.039,0,,Gana Washington Commanders + Más de 53.5 puntos,10
+2026-11-24,Galatasaray vs Aston Villa,corta,3,0.4452,1,3,0.7586,,,0,,Menos de 13.5 faltas de Aston Villa + Menos de 4.5 tiros a puerta de Aston Villa + Menos de 4.5 córners de Aston Villa,111
+2026-11-24,Galatasaray vs Aston Villa,larga,5,0.1933,0,4,0.7209,,,0,,Menos de 13.5 faltas de Aston Villa + Menos de 4.5 tiros a puerta de Aston Villa + Menos de 4.5 córners de Aston Villa + Menos de 2.5 tarjetas de Galatasaray + Más de 2.5 goles,11110
