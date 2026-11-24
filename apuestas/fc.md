@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 01:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kosta vs zaha — 24/11 · 02:00
-
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana zaha** @ **1.08** (cuota justa (sin casa)) · prob 93% vs casas 93% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.937 partidos)  
-Goles esperados: Kosta 3.26 · zaha 7.99  
-Ganador: Kosta 3% · empate 4% · zaha 93%  
-Total: más de 11.5 goles 43% · menos 57%  
-Hándicap zaha: −1.5 82% · −2.5 73%  
-🔎 **Claves**  
-• Forma: Kosta ❌❌❌❌➖ | zaha ✅❌✅✅✅  
-• Partidos: Kosta 355 | zaha 442  
-• Liga: Argentina Super League 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 24/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## tizzy vs kkikus — 24/11 · 02:15
 
@@ -125,6 +107,60 @@ Hándicap tizzy: −1.5 64% · −2.5 48%
 🔎 **Claves**  
 • Forma: kkikus ❌✅❌❌❌ | tizzy ❌❌✅✅✅  
 • Partidos: kkikus 1240 | tizzy 465  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## ssstasonn vs Kavviro — 24/11 · 03:51
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.026 partidos)  
+Goles esperados: ssstasonn 1.30 · Kavviro 4.14  
+Ganador: ssstasonn 4% · empate 9% · Kavviro 87%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Kavviro: −1.5 71% · −2.5 54%  
+🔎 **Claves**  
+• Forma: ssstasonn ❌✅✅✅❌ | Kavviro ✅✅❌❌✅  
+• Partidos: ssstasonn 1311 | Kavviro 1099  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kosta vs zaha — 24/11 · 04:02
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.07** (cuota justa (sin casa)) · prob 94% vs casas 94% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.026 partidos)  
+Goles esperados: Kosta 3.27 · zaha 8.06  
+Ganador: Kosta 3% · empate 4% · zaha 94%  
+Total: más de 11.5 goles 44% · menos 56%  
+Hándicap zaha: −1.5 82% · −2.5 73%  
+🔎 **Claves**  
+• Forma: Kosta ➖❌❌❌❌ | zaha ✅✅✅✅✅  
+• Partidos: Kosta 359 | zaha 447  
+• Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## tizzy vs ssstasonn — 24/11 · 04:03
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.13** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.026 partidos)  
+Goles esperados: tizzy 5.59 · ssstasonn 2.09  
+Ganador: tizzy 89% · empate 7% · ssstasonn 4%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap tizzy: −1.5 76% · −2.5 63%  
+🔎 **Claves**  
+• Forma: tizzy ✅✅✅✅✅ | ssstasonn ❌✅✅✅❌  
+• Partidos: tizzy 467 | ssstasonn 1311  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
