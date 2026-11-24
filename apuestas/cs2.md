@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 23:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 00:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eternal Fire vs 100 Thieves — 25/11 · 07:00
 
