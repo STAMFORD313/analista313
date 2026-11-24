@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 00:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Santos vs Gremio — 24/11 · 01:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Santos** @ **1.57** (mejor del mercado) · prob 59% vs casas 59% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.45 - 1.10)  
-1 48% · X 27% · 2 25%  
-1X 75% · X2 52% · 12 73%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 8%  
-🔎 **Claves**  
-• Forma: Santos ✅➖➖❌✅ | Gremio ❌✅✅❌➖  
-• H2H: 25 desde 2012: 6V-11E-8D · 2.6 goles/partido · +2.5 en 44%  
-• Bajas: Santos: 0 fuera, 2 duda; Gremio: 0 fuera, 1 duda  
-• Favorito de las casas: Santos @ 1.57  
+Actualizado 24/11/2026 01:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. Louis City vs Los Angeles FC — 24/11 · 02:00
 

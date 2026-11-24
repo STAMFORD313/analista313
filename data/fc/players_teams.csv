@@ -78995,14 +78995,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2395579,262956,River Plate,Boca Juniors,,
 2395580,262956,Racing Club,Boca Juniors,,
 2395581,262956,Racing Club,River Plate,,
-2397503,262944,Tottenham,Liverpool,2,3
-2395397,262944,Man City,Chelsea,2,2
-2397504,262944,Chelsea,Tottenham,1,3
-2395916,262944,Liverpool,Arsenal,2,0
-2395400,262944,Arsenal,Chelsea,2,1
-2397505,262944,Tottenham,Man City,1,2
-2395402,262944,Man City,Arsenal,2,2
-2395918,262944,Chelsea,Liverpool,0,1
+2397503,262944,Tottenham,Liverpool,2.0,3.0
+2395397,262944,Man City,Chelsea,2.0,2.0
+2397504,262944,Chelsea,Tottenham,1.0,3.0
+2395916,262944,Liverpool,Arsenal,2.0,0.0
+2395400,262944,Arsenal,Chelsea,2.0,1.0
+2397505,262944,Tottenham,Man City,1.0,2.0
+2395402,262944,Man City,Arsenal,2.0,2.0
+2395918,262944,Chelsea,Liverpool,0.0,1.0
 2395919,262944,Liverpool,Man City,,
 2397506,262944,Arsenal,Tottenham,,
 2397507,262944,Liverpool,Tottenham,,
@@ -79015,3 +79015,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2395925,262944,Liverpool,Chelsea,,
 2395926,262944,Man City,Liverpool,,
 2397510,262944,Tottenham,Arsenal,,
+2395116,262906,Bologna,Napoli,2,1
+2395117,262906,Roma,Juventus,3,1
+2395118,262906,Juventus,Bologna,4,2
+2395119,262906,Napoli,Sassuolo,1,2
+2395120,262906,Sassuolo,Juventus,2,1
+2395121,262906,Bologna,Roma,1,2
+2395122,262906,Roma,Sassuolo,1,1
+2395123,262906,Juventus,Napoli,0,0
+2395124,262906,Napoli,Roma,0,3
+2395125,262906,Sassuolo,Bologna,1,1
+2395126,262906,Napoli,Bologna,0,0
+2395127,262906,Juventus,Roma,0,0
+2395128,262906,Bologna,Juventus,,
+2395129,262906,Sassuolo,Napoli,,
+2395130,262906,Juventus,Sassuolo,,
+2395131,262906,Roma,Bologna,,
+2395132,262906,Sassuolo,Roma,,
+2395133,262906,Napoli,Juventus,,
+2395134,262906,Roma,Napoli,,
+2395135,262906,Bologna,Sassuolo,,
+2394830,262916,Spain,Brazil,0,0
+2394831,262916,France,Argentina,1,2
+2394832,262916,Argentina,Spain,0,1
+2394833,262916,Brazil,England,2,3
+2394834,262916,England,Argentina,1,0
+2394835,262916,Spain,France,2,2
+2394836,262916,France,England,2,2
+2394837,262916,Argentina,Brazil,3,1
+2394838,262916,Brazil,France,,
+2394839,262916,England,Spain,,
+2394840,262916,Brazil,Spain,,
+2394841,262916,Argentina,France,,
+2394842,262916,Spain,Argentina,,
+2394843,262916,England,Brazil,,
+2394844,262916,Argentina,England,,
+2394845,262916,France,Spain,,
+2394846,262916,England,France,,
+2394847,262916,Brazil,Argentina,,
+2394848,262916,France,Brazil,,
+2394849,262916,Spain,England,,

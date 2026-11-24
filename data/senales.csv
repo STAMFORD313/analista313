@@ -5745,3 +5745,56 @@ fecha,deporte,mercado,p,implied,odds,edge,gano,retorno,clv,apostada,ia,ia_aposta
 2026-11-23,🏀,home,0.718,0.718,1.336,-0.041,1,1.336,,0,,,2026-11-23T20:37,a991f0c,Arkansas State Red Wolves: sin bajas; Southern Utah Thunderbirds: sin bajas,DraftKings
 2026-11-23,🎮⚽,A,0.932,0.932,1.07,0.0,1,1.07,,0,,,2026-11-23T22:37,c0b30f9,,cuota justa (sin casa)
 2026-11-23,🎮⚽,D,0.194,0.146,6.0,0.166,0,0.0,,0,,,2026-11-23T23:08,5481908,,Unibet
+2026-11-23,⚽,D,0.294,0.294,3.4,-0.002,0,0.0,0.164,0,,,2026-11-21T00:24,f893219,Asteras Tripolis: sin bajas; Aris: sin bajas,Bwin
+2026-11-23,⚽,H,0.506,0.506,1.9,-0.038,1,1.9,0.022,0,,,2026-11-21T00:24,f893219,"Buyuksehyr: sin bajas; Corum: 2 fuera, 0 duda (Gokhan Sazdagi, Berat Ozdemir)",Bwin
+2026-11-23,⚽,H,0.267,0.267,3.6,-0.038,0,0.0,0.056,0,,,2026-11-21T00:24,f893219,Ceuta: sin bajas; Almeria: sin bajas,Bet365
+2026-11-23,⚽,AHA,0.545,0.532,1.8,-0.018,1,1.4,,0,,,2026-11-21T00:24,f893219,Nantes: sin bajas; Grenoble: sin bajas,mejor del mercado
+2026-11-23,⚽,O25,0.514,0.514,1.85,-0.05,1,1.85,0.016,0,,,2026-11-21T00:24,f893219,Sochaux: sin bajas; Dunkerque: sin bajas,Bet365
+2026-11-23,⚽,A,0.496,0.496,2.0,-0.007,0,0.0,0.031,0,,,2026-11-21T00:24,f893219,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Betfred
+2026-11-23,⚽,AHH,0.518,0.517,1.88,-0.026,1,1.88,,0,,,2026-11-21T00:24,f893219,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",mejor del mercado
+2026-11-23,⚽,A,0.299,0.299,3.25,-0.028,0,0.0,-0.069,0,,,2026-11-21T00:24,f893219,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Bet365
+2026-11-23,⚽,corners_t_o,0.635,0.627,1.43,-0.092,0,0.0,,0,,,2026-11-22T15:06,8939b4b,Asteras Tripolis: sin bajas; Aris: sin bajas,Unibet
+2026-11-23,⚽,corners_t_u,0.597,0.586,1.53,-0.086,1,1.53,,0,,,2026-11-22T15:06,8939b4b,Asteras Tripolis: sin bajas; Aris: sin bajas,Unibet
+2026-11-23,⚽,corners_h_o,0.577,0.551,1.63,-0.06,0,0.0,,0,,,2026-11-22T15:06,8939b4b,Asteras Tripolis: sin bajas; Aris: sin bajas,Unibet
+2026-11-23,⚽,corners_h_u,0.574,0.589,1.52,-0.127,1,1.52,,0,,,2026-11-22T15:06,8939b4b,Asteras Tripolis: sin bajas; Aris: sin bajas,Unibet
+2026-11-23,⚽,corners_a_o,0.457,0.481,1.87,-0.145,0,0.0,,0,,,2026-11-22T15:06,8939b4b,Asteras Tripolis: sin bajas; Aris: sin bajas,Unibet
+2026-11-23,⚽,corners_a_u,0.543,0.519,1.73,-0.061,1,1.73,,0,,,2026-11-22T15:06,8939b4b,Asteras Tripolis: sin bajas; Aris: sin bajas,Unibet
+2026-11-23,⚽,corners_h_o,0.406,0.374,2.43,-0.014,1,2.43,,0,,,2026-11-22T19:39,0c80a52,Ceuta: sin bajas; Almeria: sin bajas,Unibet
+2026-11-23,⚽,corners_h_u,0.594,0.626,1.45,-0.138,0,0.0,,0,,,2026-11-22T19:39,0c80a52,Ceuta: sin bajas; Almeria: sin bajas,Unibet
+2026-11-23,⚽,corners_t_o,0.6,0.623,1.47,-0.118,1,1.47,,0,,,2026-11-22T19:39,0c80a52,Ceuta: sin bajas; Almeria: sin bajas,Unibet
+2026-11-23,⚽,corners_t_u,0.622,0.584,1.57,-0.023,0,0.0,,0,,,2026-11-22T19:39,0c80a52,Ceuta: sin bajas; Almeria: sin bajas,Unibet
+2026-11-23,⚽,corners_a_o,0.594,0.663,1.37,-0.186,0,0.0,,0,,,2026-11-22T19:39,0c80a52,Ceuta: sin bajas; Almeria: sin bajas,Unibet
+2026-11-23,⚽,corners_a_u,0.406,0.337,2.7,0.097,1,2.7,,0,,,2026-11-22T19:39,0c80a52,Ceuta: sin bajas; Almeria: sin bajas,Unibet
+2026-11-23,⚽,corners_h_o,0.495,0.501,1.79,-0.114,1,1.79,,0,,,2026-11-22T20:06,9ff6fdf,Nantes: sin bajas; Grenoble: sin bajas,Unibet
+2026-11-23,⚽,corners_h_u,0.612,0.598,1.5,-0.082,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,Nantes: sin bajas; Grenoble: sin bajas,Unibet
+2026-11-23,⚽,corners_t_o,0.541,0.537,1.67,-0.097,1,1.67,,0,,,2026-11-22T20:06,9ff6fdf,Nantes: sin bajas; Grenoble: sin bajas,Unibet
+2026-11-23,⚽,corners_t_u,0.668,0.655,1.37,-0.085,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,Nantes: sin bajas; Grenoble: sin bajas,Unibet
+2026-11-23,⚽,corners_a_o,0.588,0.572,1.57,-0.077,1,1.57,,0,,,2026-11-22T20:06,9ff6fdf,Nantes: sin bajas; Grenoble: sin bajas,Unibet
+2026-11-23,⚽,corners_a_u,0.593,0.595,1.5,-0.11,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,Nantes: sin bajas; Grenoble: sin bajas,Unibet
+2026-11-23,⚽,corners_a_o,0.545,0.566,1.58,-0.139,1,1.58,,0,,,2026-11-22T20:06,9ff6fdf,Sochaux: sin bajas; Dunkerque: sin bajas,Unibet
+2026-11-23,⚽,corners_a_u,0.609,0.578,1.55,-0.056,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,Sochaux: sin bajas; Dunkerque: sin bajas,Unibet
+2026-11-23,⚽,corners_t_o,0.564,0.589,1.52,-0.142,1,1.52,,0,,,2026-11-22T20:06,9ff6fdf,Sochaux: sin bajas; Dunkerque: sin bajas,Unibet
+2026-11-23,⚽,corners_t_u,0.656,0.615,1.46,-0.043,1,1.46,,0,,,2026-11-22T20:06,9ff6fdf,Sochaux: sin bajas; Dunkerque: sin bajas,Unibet
+2026-11-23,⚽,corners_h_o,0.547,0.556,1.61,-0.12,1,1.61,,0,,,2026-11-22T20:06,9ff6fdf,Sochaux: sin bajas; Dunkerque: sin bajas,Unibet
+2026-11-23,⚽,corners_h_u,0.587,0.567,1.58,-0.073,1,1.58,,0,,,2026-11-22T20:06,9ff6fdf,Sochaux: sin bajas; Dunkerque: sin bajas,Unibet
+2026-11-23,⚽,corners_t_o,0.76,0.775,1.19,-0.096,1,1.19,,0,,,2026-11-22T20:06,9ff6fdf,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Unibet
+2026-11-23,⚽,corners_t_u,0.348,0.319,2.88,0.002,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Unibet
+2026-11-23,⚽,corners_h_o,0.749,0.76,1.2,-0.101,1,1.2,,0,,,2026-11-22T20:06,9ff6fdf,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Unibet
+2026-11-23,⚽,corners_h_u,0.408,0.383,2.4,-0.02,1,2.4,,0,,,2026-11-22T20:06,9ff6fdf,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Unibet
+2026-11-23,⚽,corners_a_o,0.77,0.771,1.19,-0.084,1,1.19,,0,,,2026-11-22T20:06,9ff6fdf,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Unibet
+2026-11-23,⚽,corners_a_u,0.535,0.515,1.79,-0.042,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,"Monza: 1 fuera, 1 duda (Ivan Juric); Fiorentina: 3 fuera, 6 duda (Marin Pongracic, Luca Ranieri, Fabiano Parisi)",Unibet
+2026-11-23,⚽,corners_h_o,0.744,0.738,1.24,-0.078,1,1.24,,0,,,2026-11-22T20:06,9ff6fdf,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",Unibet
+2026-11-23,⚽,corners_h_u,0.82,0.801,1.14,-0.065,1,1.14,,0,,,2026-11-22T20:06,9ff6fdf,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",Unibet
+2026-11-23,⚽,corners_t_u,0.553,0.535,1.72,-0.049,1,1.72,,0,,,2026-11-22T20:06,9ff6fdf,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",Unibet
+2026-11-23,⚽,corners_t_o,0.85,0.841,1.09,-0.073,1,1.09,,0,,,2026-11-22T20:06,9ff6fdf,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",Unibet
+2026-11-23,⚽,corners_a_o,0.766,0.762,1.2,-0.081,1,1.2,,0,,,2026-11-22T20:06,9ff6fdf,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",Unibet
+2026-11-23,⚽,corners_a_u,0.677,0.659,1.4,-0.053,1,1.4,,0,,,2026-11-22T20:06,9ff6fdf,"Brentford: 5 fuera, 2 duda (Igor Thiago, Fabio Carvalho, Rico Henry); Everton: sin bajas",Unibet
+2026-11-23,⚽,corners_a_o,0.705,0.694,1.32,-0.069,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Unibet
+2026-11-23,⚽,corners_a_u,0.746,0.734,1.25,-0.067,1,1.25,,0,,,2026-11-22T20:06,9ff6fdf,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Unibet
+2026-11-23,⚽,corners_h_o,0.703,0.682,1.35,-0.051,1,1.35,,0,,,2026-11-22T20:06,9ff6fdf,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Unibet
+2026-11-23,⚽,corners_h_u,0.784,0.781,1.18,-0.075,1,1.18,,0,,,2026-11-22T20:06,9ff6fdf,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Unibet
+2026-11-23,⚽,corners_t_o,0.572,0.558,1.65,-0.056,0,0.0,,0,,,2026-11-22T20:06,9ff6fdf,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Unibet
+2026-11-23,⚽,corners_t_u,0.82,0.809,1.13,-0.073,1,1.13,,0,,,2026-11-22T20:06,9ff6fdf,"Levante: sin bajas; Elche: 1 fuera, 5 duda (Adam Boayar)",Unibet
+2026-11-23,🎮⚽,A,0.91,0.91,1.1,0.0,1,1.1,,0,,,2026-11-23T23:08,5481908,,cuota justa (sin casa)
+2026-11-23,🎮⚽,D,0.204,0.141,6.25,0.277,0,0.0,,0,,,2026-11-23T23:37,1816db9,,Unibet
+2026-11-23,🎮⚽,H,0.312,0.226,3.85,0.2,0,0.0,,0,,,2026-11-23T23:37,1816db9,,Unibet

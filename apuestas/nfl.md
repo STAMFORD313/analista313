@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 00:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 01:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Washington Commanders vs Cincinnati Bengals — 24/11 · 02:15
 
@@ -189,4 +189,192 @@ Hándicap LAR -3 · Total puntos 45.5
 • Favorito de las casas: Los Angeles Rams @ 1.62  
 🧩 Combinada: Gana Green Bay Packers + Menos de 45.5 puntos → prob. 21%, cuota justa 4.81  
 🎯 No simulada (NFL): cuota DraftKings aprox. 4.59 (producto de piernas) · prob. 21% · ventaja -5%  
+
+## Detroit Lions vs Chicago Bears — 26/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 55.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **53.6** puntos · línea 55.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Detroit Lions ✅✅✅✅✅ | Chicago Bears ✅✅✅✅✅  
+• H2H: 19 desde 2016: 11-8  
+• Bajas: Detroit Lions: 4 fuera, 21 duda (Ennis Rakestraw Jr., D.J. Reed, Cade Mays); Chicago Bears: 1 fuera, 24 duda (Kyler Gordon)  
+🧩 Combinada: Gana Detroit Lions + Más de 55.5 puntos → prob. 22%, cuota justa 4.47  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.24 (producto de piernas) · prob. 22% · ventaja -5%  
+
+## Detroit Lions vs Chicago Bears — 26/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Detroit Lions +2.5** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Detroit Lions cubre +2.5 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Detroit Lions ✅✅✅✅✅ | Chicago Bears ✅✅✅✅✅  
+• H2H: 19 desde 2016: 11-8  
+• Bajas: Detroit Lions: 4 fuera, 21 duda (Ennis Rakestraw Jr., D.J. Reed, Cade Mays); Chicago Bears: 1 fuera, 24 duda (Kyler Gordon)  
+🧩 Combinada: Gana Detroit Lions + Más de 55.5 puntos → prob. 22%, cuota justa 4.47  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.24 (producto de piernas) · prob. 22% · ventaja -5%  
+
+## Detroit Lions vs Chicago Bears — 26/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Detroit Lions** @ **2.22** (DraftKings) · prob 43% vs casas 43% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.300 partidos y bajas)  
+Gana Detroit Lions 54% · Gana Chicago Bears 46%  
+Casas: Detroit Lions 43% · Chicago Bears 57%  
+Hándicap CHI -2.5 · Total puntos 55.5  
+🔎 **Claves**  
+• Forma: Detroit Lions ✅✅✅✅✅ | Chicago Bears ✅✅✅✅✅  
+• H2H: 19 desde 2016: 11-8  
+• Bajas: Detroit Lions: 4 fuera, 21 duda (Ennis Rakestraw Jr., D.J. Reed, Cade Mays); Chicago Bears: 1 fuera, 24 duda (Kyler Gordon)  
+• Favorito de las casas: Chicago Bears @ 1.69  
+🧩 Combinada: Gana Detroit Lions + Más de 55.5 puntos → prob. 22%, cuota justa 4.47  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.24 (producto de piernas) · prob. 22% · ventaja -5%  
+
+## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
+
+👀 candidata · 🏈 NFL · **Más de 48.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **51.1** puntos · línea 48.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Dallas Cowboys ✅❌✅❌✅ | Philadelphia Eagles ❌❌❌❌✅  
+• H2H: 20 desde 2017: 11-9  
+• Bajas: Dallas Cowboys: 7 fuera, 18 duda (Jake Ferguson, DaRon Bland, P.J. Locke); Philadelphia Eagles: 3 fuera, 22 duda (Smael Mondon Jr., Zack Baun, Dontayvion Wicks)  
+
+## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
+
+👀 candidata · 🏈 NFL · **Dallas Cowboys -8.5** @ **1.90** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Dallas Cowboys cubre -8.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Dallas Cowboys ✅❌✅❌✅ | Philadelphia Eagles ❌❌❌❌✅  
+• H2H: 20 desde 2017: 11-9  
+• Bajas: Dallas Cowboys: 7 fuera, 18 duda (Jake Ferguson, DaRon Bland, P.J. Locke); Philadelphia Eagles: 3 fuera, 22 duda (Smael Mondon Jr., Zack Baun, Dontayvion Wicks)  
+
+## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
+
+👀 candidata · 🏈 NFL · **Gana Dallas Cowboys** @ **1.20** (DraftKings) · prob 80% vs casas 80% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.300 partidos y bajas)  
+Gana Dallas Cowboys 71% · Gana Philadelphia Eagles 29%  
+Casas: Dallas Cowboys 80% · Philadelphia Eagles 20%  
+Hándicap DAL -8.5 · Total puntos 48.5  
+🔎 **Claves**  
+• Forma: Dallas Cowboys ✅❌✅❌✅ | Philadelphia Eagles ❌❌❌❌✅  
+• H2H: 20 desde 2017: 11-9  
+• Bajas: Dallas Cowboys: 7 fuera, 18 duda (Jake Ferguson, DaRon Bland, P.J. Locke); Philadelphia Eagles: 3 fuera, 22 duda (Smael Mondon Jr., Zack Baun, Dontayvion Wicks)  
+• Favorito de las casas: Dallas Cowboys @ 1.20  
+
+## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **57.4** puntos · línea 47.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Texas Tech Red Raiders ❌✅✅✅✅ | TCU Horned Frogs ❌✅❌✅❌  
+• H2H: 8 desde 2017: 2-6  
+• Bajas: Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas  
+
+## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Texas Tech Red Raiders -13.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Texas Tech Red Raiders cubre -13.5 con prob. 51% (casas 51%)  
+🔎 **Claves**  
+• Forma: Texas Tech Red Raiders ❌✅✅✅✅ | TCU Horned Frogs ❌✅❌✅❌  
+• H2H: 8 desde 2017: 2-6  
+• Bajas: Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas  
+
+## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Texas Tech Red Raiders** @ **1.18** (DraftKings) · prob 81% vs casas 81% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.655 partidos y bajas)  
+Gana Texas Tech Red Raiders 85% · Gana TCU Horned Frogs 15%  
+Casas: Texas Tech Red Raiders 81% · TCU Horned Frogs 19%  
+Hándicap TTU -13.5 · Total puntos 47.5  
+🔎 **Claves**  
+• Forma: Texas Tech Red Raiders ❌✅✅✅✅ | TCU Horned Frogs ❌✅❌✅❌  
+• H2H: 8 desde 2017: 2-6  
+• Bajas: Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas  
+• Favorito de las casas: Texas Tech Red Raiders @ 1.18  
+
+## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
+
+👀 candidata · 🏈 NFL · **Más de 47.5 puntos** @ **1.86** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **47.5** puntos · línea 47.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: Buffalo Bills ✅✅✅✅✅ | Kansas City Chiefs ❌❌✅✅✅  
+• H2H: 11 desde 2017: 6-5  
+• Bajas: Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)  
+🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%  
+
+## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
+
+👀 candidata · 🏈 NFL · **Buffalo Bills -3** @ **2.00** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Buffalo Bills cubre -3 con prob. 48% (casas 48%)  
+🔎 **Claves**  
+• Forma: Buffalo Bills ✅✅✅✅✅ | Kansas City Chiefs ❌❌✅✅✅  
+• H2H: 11 desde 2017: 6-5  
+• Bajas: Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)  
+🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%  
+
+## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
+
+👀 candidata · 🏈 NFL · **Gana Buffalo Bills** @ **1.67** (DraftKings) · prob 58% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.300 partidos y bajas)  
+Gana Buffalo Bills 71% · Gana Kansas City Chiefs 29%  
+Casas: Buffalo Bills 58% · Kansas City Chiefs 42%  
+Hándicap BUF -3 · Total puntos 47.5  
+🔎 **Claves**  
+• Forma: Buffalo Bills ✅✅✅✅✅ | Kansas City Chiefs ❌❌✅✅✅  
+• H2H: 11 desde 2017: 6-5  
+• Bajas: Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)  
+• Favorito de las casas: Buffalo Bills @ 1.67  
+🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%  
 
