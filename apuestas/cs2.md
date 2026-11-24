@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 21:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## MEIA NOITE vs RED Canids Academy — 24/11 · 22:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana RED Canids Academy** @ **1.70** (Thunderpick) · prob 55% vs casas 54% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.201 partidos)  
-Mapa: MEIA NOITE 46% · Serie BO3: MEIA NOITE 44% - 56% RED Canids Academy  
-Casas: MEIA NOITE 46% · RED Canids Academy 54%  
-🔎 **Claves**  
-• Elo: MEIA NOITE 1553 (51 series) | RED Canids Academy 1598 (139 series)  
-• Forma: MEIA NOITE ✅✅✅❌❌ | RED Canids Academy ❌✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• MEIA NOITE gana 2-1: 20% → cuota justa 5.01  
-• RED Canids Academy gana 2-1: 24% → cuota justa 4.23  
+Actualizado 24/11/2026 22:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eternal Fire vs 100 Thieves — 25/11 · 07:00
 
@@ -297,4 +277,24 @@ Casas: Elusive 48% · Villainous 52%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Elusive gana 2-1: 24% → cuota justa 4.19  
 • Villainous gana 2-1: 20% → cuota justa 5.13  
+
+## KAMUI vs Tulpar — 26/11 · 10:00
+
+👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana Tulpar** @ **2.40** (Thunderpick) · prob 40% vs casas 38% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.267 partidos)  
+Mapa: KAMUI 55% · Serie BO3: KAMUI 58% - 42% Tulpar  
+Casas: KAMUI 62% · Tulpar 38%  
+🔎 **Claves**  
+• Elo: KAMUI 1637 (17 series) | Tulpar 1582 (2 series)  
+• Forma: KAMUI ✅✅✅❌❌ | Tulpar ✅✅  
+• H2H: sin precedentes  
+• Torneo: European Pro League Series 11 Play-In (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• KAMUI gana 2-1: 24% → cuota justa 4.18  
+• Tulpar gana 2-1: 19% → cuota justa 5.14  
 

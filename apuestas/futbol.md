@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 21:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Chapecoense-SC vs Palmeiras — 24/11 · 22:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Chapecoense-SC** @ **3.50** (Bet365) · prob 28% vs casas 28% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.83 - 2.49)  
-1 12% · X 17% · 2 71%  
-1X 29% · X2 88% · 12 83%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 52%  
-Marcadores: 0-2 11% · 0-3 9% · 1-2 9% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Chapecoense-SC ❌❌❌❌❌ | Palmeiras ✅➖✅❌➖  
-• H2H: 15 desde 2014: 4V-2E-9D · 2.4 goles/partido · +2.5 en 33%  
-• Bajas: Chapecoense-SC: 0 fuera, 4 duda; Palmeiras: 1 fuera, 1 duda (Jefte)  
-• Favorito de las casas: Palmeiras @ 2.05  
+Actualizado 24/11/2026 22:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## San Jose Earthquakes vs Houston Dynamo — 25/11 · 04:00
 

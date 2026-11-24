@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 21:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Lindenwood Lions vs New Haven Chargers — 24/11 · 22:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 133.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **143.9** puntos · línea 133.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Lindenwood Lions ✅✅❌❌❌ | New Haven Chargers ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Lindenwood Lions: sin bajas; New Haven Chargers: sin bajas  
-
-## Lindenwood Lions vs New Haven Chargers — 24/11 · 22:00
-
-👀 candidata · 🏀 NCAA Basketball · **Lindenwood Lions +2.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Lindenwood Lions cubre +2.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Lindenwood Lions ✅✅❌❌❌ | New Haven Chargers ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Lindenwood Lions: sin bajas; New Haven Chargers: sin bajas  
-
-## Lindenwood Lions vs New Haven Chargers — 24/11 · 22:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Lindenwood Lions** @ **2.10** (DraftKings) · prob 46% vs casas 46% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.123 partidos y bajas)  
-Gana Lindenwood Lions 68% · Gana New Haven Chargers 32%  
-Casas: Lindenwood Lions 46% · New Haven Chargers 54%  
-Hándicap LIN -2.5 · Total puntos 133.5  
-🔎 **Claves**  
-• Forma: Lindenwood Lions ✅✅❌❌❌ | New Haven Chargers ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Lindenwood Lions: sin bajas; New Haven Chargers: sin bajas  
-• Favorito de las casas: New Haven Chargers @ 1.77  
+Actualizado 24/11/2026 22:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tulsa Golden Hurricane vs Illinois State Redbirds — 24/11 · 22:30
 
