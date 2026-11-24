@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 19:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Rice Owls vs UIC Flames — 24/11 · 19:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 142.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **148.4** puntos · línea 142.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Rice Owls ❌❌✅✅✅ | UIC Flames ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Bajas: Rice Owls: sin bajas; UIC Flames: sin bajas  
-
-## Rice Owls vs UIC Flames — 24/11 · 19:30
-
-👀 candidata · 🏀 NCAA Basketball · **Rice Owls +7.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Rice Owls cubre +7.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Rice Owls ❌❌✅✅✅ | UIC Flames ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Bajas: Rice Owls: sin bajas; UIC Flames: sin bajas  
-
-## Rice Owls vs UIC Flames — 24/11 · 19:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Rice Owls** @ **3.50** (DraftKings) · prob 27% vs casas 27% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.117 partidos y bajas)  
-Gana Rice Owls 57% · Gana UIC Flames 43%  
-Casas: Rice Owls 27% · UIC Flames 73%  
-Hándicap UIC -7.5 · Total puntos 142.5  
-🔎 **Claves**  
-• Forma: Rice Owls ❌❌✅✅✅ | UIC Flames ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Bajas: Rice Owls: sin bajas; UIC Flames: sin bajas  
-• Favorito de las casas: UIC Flames @ 1.32  
+Actualizado 24/11/2026 19:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oregon State Beavers vs San Francisco Dons — 24/11 · 20:00
 
@@ -221,6 +177,50 @@ Hándicap ARIZ -7.5 · Total puntos 154.5
 • H2H: sin precedentes  
 • Bajas: Arizona Wildcats: sin bajas; Providence Friars: sin bajas  
 • Favorito de las casas: Arizona Wildcats @ 1.29  
+
+## Bellarmine Knights vs Georgia Southern Eagles — 25/11 · 01:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 152.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **160.0** puntos · línea 152.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Bellarmine Knights ❌✅❌❌✅ | Georgia Southern Eagles ❌❌❌✅✅  
+• H2H: sin precedentes  
+• Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas  
+
+## Bellarmine Knights vs Georgia Southern Eagles — 25/11 · 01:00
+
+👀 candidata · 🏀 NCAA Basketball · **Bellarmine Knights +2.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Bellarmine Knights cubre +2.5 con prob. 51% (casas 51%)  
+🔎 **Claves**  
+• Forma: Bellarmine Knights ❌✅❌❌✅ | Georgia Southern Eagles ❌❌❌✅✅  
+• H2H: sin precedentes  
+• Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas  
+
+## Bellarmine Knights vs Georgia Southern Eagles — 25/11 · 01:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Bellarmine Knights** @ **2.20** (DraftKings) · prob 44% vs casas 44% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.119 partidos y bajas)  
+Gana Bellarmine Knights 46% · Gana Georgia Southern Eagles 54%  
+Casas: Bellarmine Knights 44% · Georgia Southern Eagles 56%  
+Hándicap GASO -2.5 · Total puntos 152.5  
+🔎 **Claves**  
+• Forma: Bellarmine Knights ❌✅❌❌✅ | Georgia Southern Eagles ❌❌❌✅✅  
+• H2H: sin precedentes  
+• Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas  
+• Favorito de las casas: Georgia Southern Eagles @ 1.70  
 
 ## Colorado State Rams vs VCU Rams — 25/11 · 04:30
 
