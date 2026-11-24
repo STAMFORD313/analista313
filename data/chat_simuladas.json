@@ -3995,7 +3995,9 @@
     "away": "Vitória",
     "txt": "Menos de 5.5 tarjetas",
     "odds": 2.28,
-    "p": 0.4493775961179798
+    "p": 0.4493775961179798,
+    "ok": false,
+    "por": "hubo 8 tarjetas"
    },
    {
     "src": "esports:cs2",
@@ -4012,9 +4014,9 @@
   "odds": 5.47,
   "p": 0.19737562776693907,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261123221006922676",
