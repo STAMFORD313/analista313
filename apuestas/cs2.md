@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 15:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 15:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## boyband vs BOJONG — 24/11 · 16:30
 

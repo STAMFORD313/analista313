@@ -79705,3 +79705,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2396462,263028,Villarreal,Barcelona,,
 2396463,263028,Real Madrid,Villarreal,,
 2396464,263028,Athletic Club,Atleti,,
+2396075,262989,PSV,Ajax,1,1
+2396076,262989,Feyenoord,Twente,1,0
+2396077,262989,Twente,PSV,2,1
+2396078,262989,Ajax,AZ Alkmaar,1,0
+2396079,262989,AZ Alkmaar,Twente,1,2
+2396080,262989,PSV,Feyenoord,2,2
+2396081,262989,Feyenoord,AZ Alkmaar,1,3
+2396082,262989,Twente,Ajax,1,3
+2396083,262989,Ajax,Feyenoord,0,0
+2396084,262989,AZ Alkmaar,PSV,1,0
+2396085,262989,Ajax,PSV,,
+2396086,262989,Twente,Feyenoord,,
+2396087,262989,PSV,Twente,,
+2396088,262989,AZ Alkmaar,Ajax,,
+2396089,262989,Twente,AZ Alkmaar,,
+2396090,262989,Feyenoord,PSV,,
+2396091,262989,AZ Alkmaar,Feyenoord,,
+2396092,262989,Ajax,Twente,,
+2396093,262989,Feyenoord,Ajax,,
+2396094,262989,PSV,AZ Alkmaar,,
+2396545,262994,Paris,Real Madrid,1,3
+2396546,262994,Bayern Munchen,Atleti,3,4
+2396547,262994,Atleti,Paris,0,1
+2396548,262994,Real Madrid,Liverpool,1,0
+2396549,262994,Liverpool,Atleti,2,3
+2396550,262994,Paris,Bayern Munchen,1,3
+2396551,262994,Bayern Munchen,Liverpool,2,1
+2396552,262994,Atleti,Real Madrid,3,0
+2396553,262994,Real Madrid,Bayern Munchen,0,1
+2396554,262994,Liverpool,Paris,1,1
+2396555,262994,Real Madrid,Paris,0,1
+2396556,262994,Atleti,Bayern Munchen,0,2
+2396557,262994,Paris,Atleti,,
+2396558,262994,Liverpool,Real Madrid,,
+2396559,262994,Atleti,Liverpool,,
+2396560,262994,Bayern Munchen,Paris,,
+2396561,262994,Liverpool,Bayern Munchen,,
+2396562,262994,Real Madrid,Atleti,,
+2396563,262994,Bayern Munchen,Real Madrid,,
+2396564,262994,Paris,Liverpool,,
+2397385,263059,Argentina,England,3,2
+2397386,263059,Spain,Germany,2,2
+2397387,263059,Germany,Argentina,4,1
+2397388,263059,England,France,1,3
+2397389,263059,France,Germany,1,2
+2397390,263059,Argentina,Spain,2,1
+2397391,263059,Spain,France,5,4
+2397392,263059,Germany,England,4,1
+2397393,263059,England,Spain,,
+2397394,263059,France,Argentina,,
+2397395,263059,England,Argentina,,
+2397396,263059,Germany,Spain,,
+2397397,263059,Argentina,Germany,,
+2397398,263059,France,England,,
+2397399,263059,Germany,France,,
+2397400,263059,Spain,Argentina,,
+2397401,263059,France,Spain,,
+2397402,263059,England,Germany,,
+2397403,263059,Spain,England,,
+2397404,263059,Argentina,France,,
