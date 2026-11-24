@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 14:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 15:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Juve Stabia vs Catanzaro — 24/11 · 19:00
 
