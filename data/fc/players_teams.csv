@@ -79245,34 +79245,34 @@ id,tournament_id,club1,club2,ht1,ht2
 2394887,262918,Juventus,Sassuolo,,
 2394888,262918,Bologna,Juventus,,
 2394889,262918,Roma,Napoli,,
-2396145,262993,Denmark,USA,0,2
-2397527,262993,Sweden,Mexico,1,1
-2397528,262993,Mexico,Denmark,3,1
-2396148,262993,USA,Ghana,0,0
-2397529,262993,Ghana,Mexico,2,3
-2396150,262993,Denmark,Sweden,0,1
-2396151,262993,Sweden,Ghana,2,2
-2397530,262993,Mexico,USA,3,3
-2396153,262993,USA,Sweden,1,3
-2396154,262993,Ghana,Denmark,2,0
-2396155,262993,USA,Denmark,2,0
-2397531,262993,Mexico,Sweden,2,5
-2397532,262993,Denmark,Mexico,6,0
-2396158,262993,Ghana,USA,2,3
+2396145,262993,Denmark,USA,0.0,2.0
+2397527,262993,Sweden,Mexico,1.0,1.0
+2397528,262993,Mexico,Denmark,3.0,1.0
+2396148,262993,USA,Ghana,0.0,0.0
+2397529,262993,Ghana,Mexico,2.0,3.0
+2396150,262993,Denmark,Sweden,0.0,1.0
+2396151,262993,Sweden,Ghana,2.0,2.0
+2397530,262993,Mexico,USA,3.0,3.0
+2396153,262993,USA,Sweden,1.0,3.0
+2396154,262993,Ghana,Denmark,2.0,0.0
+2396155,262993,USA,Denmark,2.0,0.0
+2397531,262993,Mexico,Sweden,2.0,5.0
+2397532,262993,Denmark,Mexico,6.0,0.0
+2396158,262993,Ghana,USA,2.0,3.0
 2397533,262993,Mexico,Ghana,,
 2396160,262993,Sweden,Denmark,,
 2396161,262993,Ghana,Sweden,,
 2397534,262993,USA,Mexico,,
 2396163,262993,Sweden,USA,,
 2396164,262993,Denmark,Ghana,,
-2397055,263058,Man City,Chelsea,1,3
-2397056,263058,Arsenal,Liverpool,2,3
-2397057,263058,Liverpool,Man City,3,3
-2397058,263058,Chelsea,Tottenham,1,4
-2397059,263058,Tottenham,Liverpool,2,2
-2397060,263058,Man City,Arsenal,0,3
-2397061,263058,Arsenal,Tottenham,0,1
-2397062,263058,Liverpool,Chelsea,1,1
+2397055,263058,Man City,Chelsea,1.0,3.0
+2397056,263058,Arsenal,Liverpool,2.0,3.0
+2397057,263058,Liverpool,Man City,3.0,3.0
+2397058,263058,Chelsea,Tottenham,1.0,4.0
+2397059,263058,Tottenham,Liverpool,2.0,2.0
+2397060,263058,Man City,Arsenal,0.0,3.0
+2397061,263058,Arsenal,Tottenham,0.0,1.0
+2397062,263058,Liverpool,Chelsea,1.0,1.0
 2397063,263058,Chelsea,Arsenal,,
 2397064,263058,Tottenham,Man City,,
 2397065,263058,Chelsea,Man City,,
@@ -79285,3 +79285,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2397072,263058,Chelsea,Liverpool,,
 2397073,263058,Arsenal,Chelsea,,
 2397074,263058,Man City,Tottenham,,
+2396305,263007,Spain,Brazil,1,1
+2396306,263007,France,Argentina,2,0
+2396307,263007,Argentina,Spain,1,2
+2396308,263007,Brazil,England,0,1
+2396309,263007,England,Argentina,,
+2396310,263007,Spain,France,,
+2396311,263007,France,England,,
+2396312,263007,Argentina,Brazil,,
+2396313,263007,Brazil,France,,
+2396314,263007,England,Spain,,
+2396315,263007,Brazil,Spain,,
+2396316,263007,Argentina,France,,
+2396317,263007,Spain,Argentina,,
+2396318,263007,England,Brazil,,
+2396319,263007,Argentina,England,,
+2396320,263007,France,Spain,,
+2396321,263007,England,France,,
+2396322,263007,Brazil,Argentina,,
+2396323,263007,France,Brazil,,
+2396324,263007,Spain,England,,
+2396975,263051,Bayern Munchen,Frankfurt,0,0
+2396976,263051,Stuttgart,Leipzig,3,2
+2396977,263051,Leipzig,Bayern Munchen,0,0
+2396978,263051,Frankfurt,B Dortmund,0,2
+2396979,263051,B Dortmund,Leipzig,0,2
+2396980,263051,Bayern Munchen,Stuttgart,1,2
+2396981,263051,Stuttgart,B Dortmund,,
+2396982,263051,Leipzig,Frankfurt,,
+2396983,263051,Frankfurt,Stuttgart,,
+2396984,263051,B Dortmund,Bayern Munchen,,
+2396985,263051,Frankfurt,Bayern Munchen,,
+2396986,263051,Leipzig,Stuttgart,,
+2396987,263051,Bayern Munchen,Leipzig,,
+2396988,263051,B Dortmund,Frankfurt,,
+2396989,263051,Leipzig,B Dortmund,,
+2396990,263051,Stuttgart,Bayern Munchen,,
+2396991,263051,B Dortmund,Stuttgart,,
+2396992,263051,Frankfurt,Leipzig,,
+2396993,263051,Stuttgart,Frankfurt,,
+2396994,263051,Bayern Munchen,B Dortmund,,
