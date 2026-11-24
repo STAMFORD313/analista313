@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 01:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 01:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. Louis City vs Los Angeles FC — 24/11 · 02:00
 
