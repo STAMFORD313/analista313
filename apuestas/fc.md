@@ -1,78 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 02:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## zaha vs URIST — 24/11 · 02:50
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.18** (cuota justa (sin casa)) · prob 85% vs casas 85% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.004 partidos)  
-Goles esperados: zaha 6.29 · URIST 3.15  
-Ganador: zaha 85% · empate 7% · URIST 8%  
-Total: más de 9.5 goles 47% · menos 53%  
-Hándicap zaha: −1.5 70% · −2.5 57%  
-🔎 **Claves**  
-• Forma: zaha ✅✅✅✅✅ | URIST ❌➖❌✅❌  
-• Partidos: zaha 446 | URIST 178  
-• Liga: LaLiga 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Kavviro vs ssstasonn — 24/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.13** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.983 partidos)  
-Goles esperados: Kavviro 4.31 · ssstasonn 1.27  
-Ganador: Kavviro 89% · empate 8% · ssstasonn 3%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap Kavviro: −1.5 74% · −2.5 58%  
-🔎 **Claves**  
-• Forma: Kavviro ✅✅✅✅✅ | ssstasonn ❌✅✅❌❌  
-• Partidos: Kavviro 1095 | ssstasonn 1307  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## ssstasonn vs tizzy — 24/11 · 03:03
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.12** (cuota justa (sin casa)) · prob 90% vs casas 90% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.983 partidos)  
-Goles esperados: ssstasonn 2.10 · tizzy 5.70  
-Ganador: ssstasonn 4% · empate 6% · tizzy 90%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap tizzy: −1.5 77% · −2.5 65%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌✅✅❌❌ | tizzy ✅✅❌❌✅  
-• Partidos: ssstasonn 1307 | tizzy 463  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## zaha vs Kosta — 24/11 · 03:08
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.08** (cuota justa (sin casa)) · prob 92% vs casas 92% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 78.983 partidos)  
-Goles esperados: zaha 8.00 · Kosta 3.23  
-Ganador: zaha 93% · empate 4% · Kosta 4%  
-Total: más de 11.5 goles 43% · menos 57%  
-Hándicap zaha: −1.5 82% · −2.5 73%  
-🔎 **Claves**  
-• Forma: zaha ✅✅✅✅✅ | Kosta ❌❌➖❌❌  
-• Partidos: zaha 445 | Kosta 357  
-• Liga: LaLiga 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 24/11/2026 03:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## kkikus vs tizzy — 24/11 · 03:15
 
@@ -91,6 +19,44 @@ Hándicap tizzy: −1.5 64% · −2.5 48%
 • Partidos: kkikus 1240 | tizzy 465  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## OG vs hotShot — 24/11 · 03:16
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana OG** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.062 partidos)  
+Goles esperados: OG 2.06 · hotShot 2.46  
+Ganador: OG 33% · empate 21% · hotShot 46%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap hotShot: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: OG ❌❌❌❌✅ | hotShot ✅➖✅❌✅  
+• Partidos: OG 729 | hotShot 725  
+• Liga: Champions League A  
+• Unibet: 1 3.60 · X 2.70 · 2 2.00 (sin margen 24%/32%/44%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)  
+
+## URIST vs Kosta — 24/11 · 03:26
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana URIST** @ **2.23** (Unibet) · prob 54% vs casas 39% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.062 partidos)  
+Goles esperados: URIST 4.94 · Kosta 4.15  
+Ganador: URIST 54% · empate 15% · Kosta 31%  
+Total: más de 9.5 goles 42% · menos 58%  
+Hándicap URIST: −1.5 40% · −2.5 28%  
+🔎 **Claves**  
+• Forma: URIST ✅❌✅❌❌ | Kosta ❌❌❌❌✅  
+• Partidos: URIST 181 | Kosta 361  
+• Liga: LaLiga 2x6  
+• Unibet: 1 2.23 · X 8.00 · 2 1.76 (sin margen 39%/11%/50%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.23 (+20%) · Paf España 2.23 (+20%)  
 
 ## ssstasonn vs Kavviro — 24/11 · 03:51
 
