@@ -1224,12 +1224,6 @@
   "cbb|2026-11-24|Navy Midshipmen|Penn State Berks PENN STATE-LEHIGH VALLEY",
   "cbb|2026-11-24|Wyoming Cowboys|Kent State Golden Flashes",
   "wta|2026-11-26|Sofia Costoulas|Varvara Lepchenko",
-  "fc|2390006",
-  "fc|2388473",
-  "cs2|133490",
-  "fc|2390009",
-  "fc|2388341",
-  "fc|2387747",
   "fc|2388347",
   "fc|2388483",
   "fc|2390012",
@@ -2229,7 +2223,11 @@
   "dota2|134342",
   "fc|2396727",
   "fc|2396480",
-  "fc|2397183"
+  "fc|2397183",
+  "cs2|134788",
+  "fc|2396484",
+  "fc|2397325",
+  "fc|2396483"
  ],
  "signals": [
   {
@@ -4687,30 +4685,6 @@
    "result": true,
    "score": "35-10",
    "close_p": 0.6654,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "odds": 2.34,
-   "book": "Bet365",
-   "p": 0.42,
-   "implied": 0.42,
-   "edge": -0.017,
-   "key": "MEX|2026-11-21|Pachuca|Toluca",
-   "match": "Pachuca vs Toluca",
-   "pick": "Toluca",
-   "start": "2026-11-21T22:50:00+00:00",
-   "league": "🇲🇽 Liga MX",
-   "sport": "⚽",
-   "context": "Pachuca vs Toluca (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 37% X 28% 2 35%, +2.5 52%, ambos marcan 56%. Forma Pachuca ❌❌✅✅✅, Toluca ➖➖➖➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 31 desde 2012: 11V-7E-13D · 2.9 goles/partido · +2.5 en 55%. Bajas Pachuca: ninguna. Bajas Toluca: ninguna.",
-   "captured": "2026-11-20T09:12",
-   "version": "04002f6",
-   "bajas": "Pachuca: sin bajas; Toluca: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "2-0",
-   "clv": 0.004,
    "logged": true
   },
   {
@@ -13244,81 +13218,6 @@
    "result": true,
    "fuente": "ESPN",
    "score": "1-0",
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 6.1,
-   "book": "Unibet",
-   "implied": 0.142,
-   "edge": 0.203,
-   "sin_stake": true,
-   "p": 0.197,
-   "key": "fc|2391744",
-   "match": "kkikus vs Simaponika",
-   "start": "2026-11-21T22:31:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle kkikus vs Simaponika (World Cup A): goles esperados 2.12-3.17, 1X2 21%/20%/59%. Sin cuotas de casa.",
-   "captured": "2026-11-21T22:05",
-   "version": "3218a2b",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.1,
-   "book": "Unibet",
-   "implied": 0.172,
-   "edge": 0.198,
-   "sin_stake": true,
-   "p": 0.235,
-   "key": "fc|2390963",
-   "match": "KravaRK vs hrk",
-   "start": "2026-11-21T22:46:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle KravaRK vs hrk (Portugal Primera): goles esperados 2.17-2.65, 1X2 27%/23%/50%. Sin cuotas de casa.",
-   "captured": "2026-11-21T22:05",
-   "version": "3218a2b",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 8.0,
-   "book": "Unibet",
-   "implied": 0.108,
-   "edge": 0.095,
-   "sin_stake": true,
-   "p": 0.137,
-   "key": "fc|2391745",
-   "match": "Nightxx vs kkikus",
-   "start": "2026-11-21T22:43:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Nightxx vs kkikus (World Cup A): goles esperados 4.12-2.20, 1X2 75%/14%/12%. Sin cuotas de casa.",
-   "captured": "2026-11-21T22:05",
-   "version": "3218a2b",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-2",
-   "result": false,
    "close_p": null,
    "logged": true
   },
@@ -32436,15 +32335,6 @@
    "pick": "Más de 143.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>151.3</b> puntos · línea 143.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wyoming Cowboys ✅❌✅✅✅ | Kent State Golden Flashes ❌✅❌❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas"
-   ],
    "context": "Wyoming Cowboys vs Kent State Golden Flashes (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 151.3 frente a línea 143.5. Forma Wyoming Cowboys ✅❌✅✅✅, Kent State Golden Flashes ❌✅❌❌✅. H2H sin precedentes. Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas.",
    "captured": "2026-11-24T20:53",
    "version": "64afee0",
@@ -32466,14 +32356,6 @@
    "pick": "Wyoming Cowboys -9.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Wyoming Cowboys cubre -9.5 con prob. 48% (casas 48%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wyoming Cowboys ✅❌✅✅✅ | Kent State Golden Flashes ❌✅❌❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas"
-   ],
    "context": "Wyoming Cowboys vs Kent State Golden Flashes (🏀 NCAA Basketball). Hándicap Wyoming Cowboys -9.5: margen esperado desde el Elo (gana Wyoming Cowboys 84%). Forma Wyoming Cowboys ✅❌✅✅✅, Kent State Golden Flashes ❌✅❌❌✅. H2H sin precedentes. Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas.",
    "captured": "2026-11-24T20:53",
    "version": "64afee0",
@@ -32494,18 +32376,6 @@
    "start": "2026-11-24T22:30Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.124 partidos y bajas)",
-    "Gana Wyoming Cowboys 84% · Gana Kent State Golden Flashes 16%",
-    "Casas: Wyoming Cowboys 78% · Kent State Golden Flashes 22%",
-    "Hándicap WYO -9.5 · Total puntos 143.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wyoming Cowboys ✅❌✅✅✅ | Kent State Golden Flashes ❌✅❌❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas",
-    "• Favorito de las casas: Wyoming Cowboys @ 1.23"
-   ],
    "context": "Wyoming Cowboys vs Kent State Golden Flashes (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Wyoming Cowboys 84%, Kent State Golden Flashes 16%. Cuotas DraftKings 1.227/4.4, hándicap WYO -9.5, total 143.5. Forma Wyoming Cowboys ✅❌✅✅✅, Kent State Golden Flashes ❌✅❌❌✅. H2H sin precedentes. Bajas Wyoming Cowboys: ninguna. Bajas Kent State Golden Flashes: ninguna.",
    "captured": "2026-11-24T20:53",
    "version": "64afee0",
@@ -32660,26 +32530,16 @@
    "start": "2026-11-24T22:31:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 80.084 partidos)",
-    "Goles esperados: tizzy 5.38 · ssstasonn 2.00",
-    "Ganador: tizzy 90% · empate 6% · ssstasonn 4%",
-    "Total: más de 7.5 goles 46% · menos 54%",
-    "Hándicap tizzy: −1.5 75% · −2.5 62%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: tizzy ✅✅➖✅❌ | ssstasonn ❌❌❌❌✅",
-    "• Partidos: tizzy 486 | ssstasonn 1331",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.18 · X 7.00 · 2 6.10 (sin margen 73%/12%/14%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.18 (+6%) · Paf España 1.18 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle tizzy vs ssstasonn (World Cup A): goles esperados 5.38-2.00, 1X2 90%/6%/4%. Sin cuotas de casa.",
    "captured": "2026-11-24T21:54",
    "version": "826ec0e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "t2",
@@ -33183,397 +33043,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-24T20:23:54.593180+00:00",
  "sgp": {
-  "ucl|2026-11-24|Arsenal|Borussia Dortmund": {
-   "match": "Arsenal vs Borussia Dortmund",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.394,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7495,
-       "text": "Menos de 2.5 tarjetas de Arsenal",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7389,
-       "text": "Menos de 4.5 tiros a puerta de Borussia Dortmund",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6676,
-       "text": "Menos de 4.5 córners de Borussia Dortmund",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2532,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7495,
-       "text": "Menos de 2.5 tarjetas de Arsenal",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7389,
-       "text": "Menos de 4.5 tiros a puerta de Borussia Dortmund",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6676,
-       "text": "Menos de 4.5 córners de Borussia Dortmund",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6185,
-       "text": "Menos de 11.5 faltas de Arsenal",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "ucl|2026-11-24|Como|AEK Athens": {
-   "match": "Como vs AEK Athens",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.394,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7495,
-       "text": "Menos de 2.5 tarjetas de Arsenal",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7389,
-       "text": "Menos de 4.5 tiros a puerta de Borussia Dortmund",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6676,
-       "text": "Menos de 4.5 córners de Borussia Dortmund",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2532,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7495,
-       "text": "Menos de 2.5 tarjetas de Arsenal",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7389,
-       "text": "Menos de 4.5 tiros a puerta de Borussia Dortmund",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6676,
-       "text": "Menos de 4.5 córners de Borussia Dortmund",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6185,
-       "text": "Menos de 11.5 faltas de Arsenal",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "ucl|2026-11-24|Feyenoord Rotterdam|FC Porto": {
-   "match": "Feyenoord Rotterdam vs FC Porto",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3792,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7824,
-       "text": "Menos de 2.5 tarjetas de Feyenoord Rotterdam",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7461,
-       "text": "Menos de 12.5 faltas de Feyenoord Rotterdam",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6425,
-       "text": "Menos de 5.5 tiros a puerta de Feyenoord Rotterdam",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2462,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7824,
-       "text": "Menos de 2.5 tarjetas de Feyenoord Rotterdam",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7461,
-       "text": "Menos de 12.5 faltas de Feyenoord Rotterdam",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6425,
-       "text": "Menos de 5.5 tiros a puerta de Feyenoord Rotterdam",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.636,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "ucl|2026-11-24|RB Leipzig|Lens": {
-   "match": "RB Leipzig vs Lens",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3337,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7821,
-       "text": "Menos de 2.5 tarjetas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6972,
-       "text": "Menos de 11.5 faltas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6016,
-       "text": "Menos de 5.5 córners de RB Leipzig",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0856,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7821,
-       "text": "Menos de 2.5 tarjetas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6972,
-       "text": "Menos de 11.5 faltas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6016,
-       "text": "Menos de 5.5 córners de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5866,
-       "text": "Más de 2.5 goles",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5654,
-       "text": "Menos de 4.5 tiros a puerta de Lens",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "ucl|2026-11-24|Real Madrid|PSV Eindhoven": {
-   "match": "Real Madrid vs PSV Eindhoven",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3337,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7821,
-       "text": "Menos de 2.5 tarjetas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6972,
-       "text": "Menos de 11.5 faltas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6016,
-       "text": "Menos de 5.5 córners de RB Leipzig",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0856,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7821,
-       "text": "Menos de 2.5 tarjetas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6972,
-       "text": "Menos de 11.5 faltas de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6016,
-       "text": "Menos de 5.5 córners de RB Leipzig",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5866,
-       "text": "Más de 2.5 goles",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5654,
-       "text": "Menos de 4.5 tiros a puerta de Lens",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
   "nfl|2026-11-26|Los Angeles Rams|Green Bay Packers": {
    "match": "Los Angeles Rams vs Green Bay Packers",
    "start": "2026-11-26T01:00Z",
@@ -38835,7 +38304,7 @@
   "E1|2026-11-25|Stoke|Millwall"
  ],
  "paper_sent": "2026-11-24T20:23:56.054854+00:00",
- "sgp_res_n": 820,
+ "sgp_res_n": 830,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

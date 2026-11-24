@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 23:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Wyoming Cowboys vs Kent State Golden Flashes — 24/11 · 23:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 143.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **151.3** puntos · línea 143.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Wyoming Cowboys ✅❌✅✅✅ | Kent State Golden Flashes ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas  
-
-## Wyoming Cowboys vs Kent State Golden Flashes — 24/11 · 23:30
-
-👀 candidata · 🏀 NCAA Basketball · **Wyoming Cowboys -9.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Wyoming Cowboys cubre -9.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Wyoming Cowboys ✅❌✅✅✅ | Kent State Golden Flashes ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas  
-
-## Wyoming Cowboys vs Kent State Golden Flashes — 24/11 · 23:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Wyoming Cowboys** @ **1.23** (DraftKings) · prob 78% vs casas 78% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.124 partidos y bajas)  
-Gana Wyoming Cowboys 84% · Gana Kent State Golden Flashes 16%  
-Casas: Wyoming Cowboys 78% · Kent State Golden Flashes 22%  
-Hándicap WYO -9.5 · Total puntos 143.5  
-🔎 **Claves**  
-• Forma: Wyoming Cowboys ✅❌✅✅✅ | Kent State Golden Flashes ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Wyoming Cowboys: sin bajas; Kent State Golden Flashes: sin bajas  
-• Favorito de las casas: Wyoming Cowboys @ 1.23  
+Actualizado 24/11/2026 23:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bellarmine Knights vs Georgia Southern Eagles — 25/11 · 01:00
 
