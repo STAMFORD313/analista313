@@ -79565,18 +79565,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2397032,263055,Argentina,England,,
 2397033,263055,France,Argentina,,
 2397034,263055,Brazil,Spain,,
-2396045,262986,Chengdu Rongcheng,Shanghai Shenhua,0,3
-2396046,262986,Shandong Taishan,Shanghai Port,1,0
-2396047,262986,Shanghai Port,Chengdu Rongcheng,2,1
-2396048,262986,Shanghai Shenhua,Beijing Guoan,2,1
-2396049,262986,Beijing Guoan,Shanghai Port,4,1
-2396050,262986,Chengdu Rongcheng,Shandong Taishan,1,3
-2396051,262986,Shandong Taishan,Beijing Guoan,2,0
-2396052,262986,Shanghai Port,Shanghai Shenhua,1,1
-2396053,262986,Shanghai Shenhua,Shandong Taishan,0,1
-2396054,262986,Beijing Guoan,Chengdu Rongcheng,3,2
-2396055,262986,Shanghai Shenhua,Chengdu Rongcheng,2,2
-2396056,262986,Shanghai Port,Shandong Taishan,2,2
+2396045,262986,Chengdu Rongcheng,Shanghai Shenhua,0.0,3.0
+2396046,262986,Shandong Taishan,Shanghai Port,1.0,0.0
+2396047,262986,Shanghai Port,Chengdu Rongcheng,2.0,1.0
+2396048,262986,Shanghai Shenhua,Beijing Guoan,2.0,1.0
+2396049,262986,Beijing Guoan,Shanghai Port,4.0,1.0
+2396050,262986,Chengdu Rongcheng,Shandong Taishan,1.0,3.0
+2396051,262986,Shandong Taishan,Beijing Guoan,2.0,0.0
+2396052,262986,Shanghai Port,Shanghai Shenhua,1.0,1.0
+2396053,262986,Shanghai Shenhua,Shandong Taishan,0.0,1.0
+2396054,262986,Beijing Guoan,Chengdu Rongcheng,3.0,2.0
+2396055,262986,Shanghai Shenhua,Chengdu Rongcheng,2.0,2.0
+2396056,262986,Shanghai Port,Shandong Taishan,2.0,2.0
 2396057,262986,Chengdu Rongcheng,Shanghai Port,,
 2396058,262986,Beijing Guoan,Shanghai Shenhua,,
 2396059,262986,Shanghai Port,Beijing Guoan,,
@@ -79585,16 +79585,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2396062,262986,Shanghai Shenhua,Shanghai Port,,
 2396063,262986,Shandong Taishan,Shanghai Shenhua,,
 2396064,262986,Chengdu Rongcheng,Beijing Guoan,,
-2396425,263024,B Dortmund,Bayern Munchen,2,0
-2396426,263024,Stuttgart,Frankfurt,0,0
-2396427,263024,Frankfurt,B Dortmund,0,1
-2396428,263024,Bayern Munchen,Leipzig,1,4
-2396429,263024,Leipzig,Frankfurt,1,0
-2396430,263024,B Dortmund,Stuttgart,2,3
-2396431,263024,Stuttgart,Leipzig,1,1
-2396432,263024,Frankfurt,Bayern Munchen,1,4
-2396433,263024,Bayern Munchen,Stuttgart,2,3
-2396434,263024,Leipzig,B Dortmund,1,2
+2396425,263024,B Dortmund,Bayern Munchen,2.0,0.0
+2396426,263024,Stuttgart,Frankfurt,0.0,0.0
+2396427,263024,Frankfurt,B Dortmund,0.0,1.0
+2396428,263024,Bayern Munchen,Leipzig,1.0,4.0
+2396429,263024,Leipzig,Frankfurt,1.0,0.0
+2396430,263024,B Dortmund,Stuttgart,2.0,3.0
+2396431,263024,Stuttgart,Leipzig,1.0,1.0
+2396432,263024,Frankfurt,Bayern Munchen,1.0,4.0
+2396433,263024,Bayern Munchen,Stuttgart,2.0,3.0
+2396434,263024,Leipzig,B Dortmund,1.0,2.0
 2396435,263024,Bayern Munchen,B Dortmund,,
 2396436,263024,Frankfurt,Stuttgart,,
 2396437,263024,B Dortmund,Frankfurt,,

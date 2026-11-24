@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 12:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 13:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## A1ose vs cl1vlind — 24/11 · 12:39
+## cl1vlind vs RuBIX — 24/11 · 13:03
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana cl1vlind** @ **3.45** (Unibet) · prob 36% vs casas 25% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 14% · ventaja +13%
 
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.550 partidos)  
+Goles esperados: cl1vlind 2.94 · RuBIX 3.38  
+Ganador: cl1vlind 33% · empate 19% · RuBIX 48%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap RuBIX: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: cl1vlind ✅❌✅➖✅ | RuBIX ❌❌✅✅❌  
+• Partidos: cl1vlind 887 | RuBIX 438  
+• Liga: World Cup B  
+• Unibet: 1 3.05 · X 6.00 · 2 1.52 (sin margen 28%/14%/57%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+13%) · Paf España 6.00 (+13%)  
+
+## MeLToSik vs Flewless_phoenix — 24/11 · 13:18
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **5.60** (Unibet) · prob 23% vs casas 16% · ventaja +31%
+
+- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.528 partidos)  
-Goles esperados: A1ose 3.52 · cl1vlind 3.24  
-Ganador: A1ose 45% · empate 18% · cl1vlind 36%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap A1ose: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 79.550 partidos)  
+Goles esperados: MeLToSik 2.35 · Flewless_phoenix 3.14  
+Ganador: MeLToSik 23% · empate 19% · Flewless_phoenix 58%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Flewless_phoenix: −1.5 37% · −2.5 23%  
 🔎 **Claves**  
-• Forma: A1ose ✅❌✅➖❌ | cl1vlind ➖❌✅❌✅  
-• Partidos: A1ose 1227 | cl1vlind 885  
-• Liga: World Cup B  
-• Unibet: 1 1.84 · X 3.15 · 2 3.45 (sin margen 47%/28%/25%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.45 (+26%) · Paf España 3.45 (+26%)  
+• Forma: MeLToSik ❌❌➖❌➖ | Flewless_phoenix ❌✅✅➖➖  
+• Partidos: MeLToSik 1435 | Flewless_phoenix 211  
+• Liga: Bundesliga  
+• Unibet: 1 5.60 · X 4.50 · 2 1.33 (sin margen 15%/19%/65%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+31%) · Paf España 5.60 (+31%)  
 
-## zoyir vs why — 24/11 · 12:50
+## DaVa vs Jekunam — 24/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.35** (Unibet) · prob 24% vs casas 20% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **1.86** (Unibet) · prob 57% vs casas 47% · ventaja +5%
 
 - ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.528 partidos)  
-Goles esperados: zoyir 4.16 · why 3.19  
-Ganador: zoyir 60% · empate 16% · why 24%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap zoyir: −1.5 42% · −2.5 28%  
+📊 **Escenarios** (Poisson por jugador, 79.550 partidos)  
+Goles esperados: DaVa 2.81 · Jekunam 2.12  
+Ganador: DaVa 57% · empate 20% · Jekunam 23%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap DaVa: −1.5 35% · −2.5 20%  
 🔎 **Claves**  
-• Forma: zoyir ❌➖✅➖✅ | why ❌➖❌❌✅  
-• Partidos: zoyir 727 | why 783  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.34 · X 5.60 · 2 4.35 (sin margen 65%/15%/20%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.35 (+5%) · Paf España 4.35 (+5%)  
+• Forma: DaVa ✅✅✅➖❌ | Jekunam ✅❌➖❌➖  
+• Partidos: DaVa 1499 | Jekunam 1326  
+• Liga: Bundesliga  
+• Unibet: 1 1.86 · X 3.15 · 2 3.40 (sin margen 47%/28%/26%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.86 (+5%) · Paf España 1.86 (+5%)  
 
