@@ -4133,5 +4133,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261124204718636822",
+  "creada": "2026-11-24 20:47:18.636862+00:00",
+  "titulo": "Barrido · Combinada cuota 11.4",
+  "legs": [
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-25 16:00:00+00:00",
+    "home": "Team Spirit Academy",
+    "away": "angry birds",
+    "txt": "Gana Team Spirit Academy",
+    "odds": 2.26,
+    "p": 0.47078525073746313
+   },
+   {
+    "code": "ucl",
+    "start": "2026-11-25 17:45:00+00:00",
+    "home": "Sabah FK",
+    "away": "Barcelona",
+    "txt": "Más de 3.5 tarjetas",
+    "odds": 2.3,
+    "p": 0.4544082872242471
+   },
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-26 18:00:00+00:00",
+    "home": "Detroit Lions",
+    "away": "Chicago Bears",
+    "txt": "Gana Detroit Lions",
+    "odds": 2.2,
+    "p": 0.47104999999999997
+   }
+  ],
+  "odds": 11.44,
+  "p": 0.10077112329129266,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
