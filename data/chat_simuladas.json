@@ -4082,15 +4082,17 @@
     "away": "OldBoys FR",
     "txt": "Gana XI",
     "odds": 2.57,
-    "p": 0.4112033722438392
+    "p": 0.4112033722438392,
+    "ok": false,
+    "por": "ganó OldBoys FR 2-0"
    }
   ],
   "odds": 6.12,
   "p": 0.17834385541190276,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261124124700121099",
@@ -4115,7 +4117,9 @@
     "away": "aimers",
     "txt": "Gana TTG Esports",
     "odds": 1.39,
-    "p": 0.7424163069544365
+    "p": 0.7424163069544365,
+    "ok": true,
+    "por": "ganó TTG Esports 2-0"
    },
    {
     "code": null,
