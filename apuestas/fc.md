@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 16:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 17:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Gaga vs Rodja — 24/11 · 16:58
+## maggett0 vs Gaga — 24/11 · 17:32
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Rodja** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana maggett0** @ **2.55** (Unibet) · prob 44% vs casas 34% · ventaja +14%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.766 partidos)  
-Goles esperados: Gaga 2.67 · Rodja 2.95  
-Ganador: Gaga 33% · empate 21% · Rodja 46%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Rodja: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 79.792 partidos)  
+Goles esperados: maggett0 2.86 · Gaga 2.62  
+Ganador: maggett0 45% · empate 21% · Gaga 35%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap maggett0: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Gaga ➖❌❌❌✅ | Rodja ✅✅✅✅❌  
-• Partidos: Gaga 1261 | Rodja 1171  
-• Liga: Serie A  
-• Unibet: 1 2.43 · X 2.80 · 2 2.55 (sin margen 35%/31%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+17%) · Paf España 2.55 (+17%)  
+• Forma: maggett0 ❌✅✅✅✅ | Gaga ❌❌❌✅❌  
+• Partidos: maggett0 1125 | Gaga 1262  
+• Liga: World Cup B  
+• Unibet: 1 2.55 · X 4.10 · 2 1.95 (sin margen 34%/21%/45%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+14%) · Paf España 2.55 (+14%)  
 
-## Sena vs Mani — 24/11 · 17:01
+## Linox vs Dicca — 24/11 · 17:47
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.75** (Unibet) · prob 22% vs casas 18% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Dicca** @ **2.60** (Unibet) · prob 44% vs casas 33% · ventaja +14%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.766 partidos)  
-Goles esperados: Sena 2.73 · Mani 2.63  
-Ganador: Sena 40% · empate 22% · Mani 38%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Sena: −1.5 27% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 79.792 partidos)  
+Goles esperados: Linox 2.06 · Dicca 2.36  
+Ganador: Linox 34% · empate 22% · Dicca 44%  
+Total: más de 4.5 goles 45% · menos 55%  
+Hándicap Dicca: −1.5 27% · −2.5 14%  
 🔎 **Claves**  
-• Forma: Sena ❌➖✅✅❌ | Mani ❌✅❌❌✅  
-• Partidos: Sena 917 | Mani 1107  
-• Liga: Europa League  
-• Unibet: 1 2.33 · X 4.75 · 2 1.97 (sin margen 37%/18%/44%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.75 (+6%) · Paf España 4.75 (+6%)  
+• Forma: Linox ❌❌❌➖❌ | Dicca ❌❌❌✅❌  
+• Partidos: Linox 917 | Dicca 992  
+• Liga: Champions League A  
+• Unibet: 1 2.02 · X 3.70 · 2 2.60 (sin margen 43%/24%/33%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+14%) · Paf España 2.60 (+14%)  
 
