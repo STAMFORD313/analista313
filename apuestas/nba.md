@@ -1,6 +1,50 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 17:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 17:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Rice Owls vs UIC Flames — 24/11 · 19:30
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 142.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **148.4** puntos · línea 142.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Rice Owls ❌❌✅✅✅ | UIC Flames ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Bajas: Rice Owls: sin bajas; UIC Flames: sin bajas  
+
+## Rice Owls vs UIC Flames — 24/11 · 19:30
+
+👀 candidata · 🏀 NCAA Basketball · **Rice Owls +7.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Rice Owls cubre +7.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Rice Owls ❌❌✅✅✅ | UIC Flames ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Bajas: Rice Owls: sin bajas; UIC Flames: sin bajas  
+
+## Rice Owls vs UIC Flames — 24/11 · 19:30
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Rice Owls** @ **3.50** (DraftKings) · prob 27% vs casas 27% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.117 partidos y bajas)  
+Gana Rice Owls 57% · Gana UIC Flames 43%  
+Casas: Rice Owls 27% · UIC Flames 73%  
+Hándicap UIC -7.5 · Total puntos 142.5  
+🔎 **Claves**  
+• Forma: Rice Owls ❌❌✅✅✅ | UIC Flames ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Bajas: Rice Owls: sin bajas; UIC Flames: sin bajas  
+• Favorito de las casas: UIC Flames @ 1.32  
 
 ## BYU Cougars vs Ole Miss Rebels — 24/11 · 20:30
 
