@@ -80195,3 +80195,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2396734,263029,River Plate,Boca Juniors,,
 2396735,263029,Racing Club,Boca Juniors,,
 2396736,263029,Racing Club,River Plate,,
+2397325,263015,Juventus,Roma,2,1
+2397326,263015,Sassuolo,Napoli,0,2
+2397327,263015,Napoli,Juventus,0,1
+2397328,263015,Roma,Bologna,0,2
+2397329,263015,Bologna,Napoli,1,0
+2397330,263015,Juventus,Sassuolo,0,1
+2397331,263015,Sassuolo,Bologna,1,3
+2397332,263015,Napoli,Roma,0,3
+2397333,263015,Roma,Sassuolo,,
+2397334,263015,Bologna,Juventus,,
+2397335,263015,Roma,Juventus,,
+2397336,263015,Napoli,Sassuolo,,
+2397337,263015,Juventus,Napoli,,
+2397338,263015,Bologna,Roma,,
+2397339,263015,Napoli,Bologna,,
+2397340,263015,Sassuolo,Juventus,,
+2397341,263015,Bologna,Sassuolo,,
+2397342,263015,Roma,Napoli,,
+2397343,263015,Sassuolo,Roma,,
+2397344,263015,Juventus,Bologna,,
+2397185,263052,Arsenal,Man City,4,1
+2397186,263052,Chelsea,Liverpool,3,0
+2397187,263052,Liverpool,Arsenal,1,2
+2397188,263052,Man City,Tottenham,2,2
+2397189,263052,Tottenham,Liverpool,1,2
+2397190,263052,Arsenal,Chelsea,2,1
+2397191,263052,Chelsea,Tottenham,2,2
+2397192,263052,Liverpool,Man City,1,3
+2397193,263052,Man City,Chelsea,1,2
+2397194,263052,Tottenham,Arsenal,2,0
+2397195,263052,Man City,Arsenal,1,0
+2397196,263052,Liverpool,Chelsea,1,1
+2397197,263052,Arsenal,Liverpool,,
+2397198,263052,Tottenham,Man City,,
+2397199,263052,Liverpool,Tottenham,,
+2397200,263052,Chelsea,Arsenal,,
+2397201,263052,Tottenham,Chelsea,,
+2397202,263052,Man City,Liverpool,,
+2397203,263052,Chelsea,Man City,,
+2397204,263052,Arsenal,Tottenham,,

@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 00:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 00:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eternal Fire vs 100 Thieves — 25/11 · 07:00
 
@@ -297,4 +297,24 @@ Casas: KAMUI 62% · Tulpar 38%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • KAMUI gana 2-1: 24% → cuota justa 4.18  
 • Tulpar gana 2-1: 19% → cuota justa 5.14  
+
+## Young TigeRES vs ABT — 26/11 · 12:30
+
+👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana ABT** @ **2.30** (Thunderpick) · prob 41% vs casas 40% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.273 partidos)  
+Mapa: Young TigeRES 55% · Serie BO3: Young TigeRES 58% - 42% ABT  
+Casas: Young TigeRES 60% · ABT 40%  
+🔎 **Claves**  
+• Elo: Young TigeRES 1610 (76 series) | ABT 1551 (27 series)  
+• Forma: Young TigeRES ✅❌✅❌❌ | ABT ✅❌✅✅❌  
+• H2H: sin precedentes  
+• Torneo: European Pro League Series 11 Play-In (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Young TigeRES gana 2-1: 24% → cuota justa 4.17  
+• ABT gana 2-1: 19% → cuota justa 5.19  
 
