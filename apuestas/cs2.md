@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 09:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 09:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DONSTU vs Fortress — 24/11 · 12:30
 
