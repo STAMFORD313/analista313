@@ -1,1312 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Wrexham +0.25 (hándicap asiático)** @ **1.80** (mejor del mercado) · prob 54% vs casas 54% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 5.5 córners de Bristol City** @ **2.12** (Unibet) · prob 46% vs casas 43% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Bristol City** @ **1.36** (Unibet) · prob 66% vs casas 68% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 66% vs casas 64% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Wrexham** @ **1.46** (Unibet) · prob 62% vs casas 63% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Bristol City vs Wrexham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Wrexham** @ **1.79** (Unibet) · prob 53% vs casas 51% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.13)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 1-0 11% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Bristol City ➖✅❌❌❌ | Wrexham ❌❌✅➖✅  
-• H2H: 2 desde 2025: 0V-1E-1D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Bristol City: sin bajas; Wrexham: sin bajas  
-• Favorito de las casas: Bristol City @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Bristol City +5.5 49% · Wrexham +4.5 45%  
-Tarjetas 1.8 - 1.8: total +4.5 29% · Bristol City +2.5 26% · Wrexham +2.5 27%  
-Faltas 9.5 - 10.7: total +22.5 31% · Bristol City +11.5 26% · Wrexham +11.5 39%  
-Tiros a puerta 4.3 - 3.1: total +8.5 32% · Bristol City +4.5 42% · Wrexham +3.5 37%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham → prob. 15%, cuota justa 6.72  
-🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 47% · ventaja +14% → 1 u en la banca de simulación  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Preston +1.25 (hándicap asiático)** @ **1.85** (mejor del mercado) · prob 53% vs casas 52% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 13.5 córners** @ **1.25** (Unibet) · prob 76% vs casas 73% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 5.5 córners de Cardiff** @ **1.44** (Unibet) · prob 65% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 8.5 córners de Cardiff** @ **1.37** (Unibet) · prob 67% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 2.5 córners de Preston** @ **1.38** (Unibet) · prob 65% vs casas 66% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Cardiff vs Preston — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 3.5 córners de Preston** @ **1.84** (Unibet) · prob 53% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.12)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Cardiff ✅❌➖✅❌ | Preston ➖❌❌✅➖  
-• H2H: 30 desde 2005: 12V-8E-10D · 2.5 goles/partido · +2.5 en 53%  
-• Bajas: Cardiff: sin bajas; Preston: 0 fuera, 2 duda  
-• Favorito de las casas: Cardiff @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +10.5 50% · Cardiff +5.5 66% · Preston +4.5 28%  
-Tarjetas 1.4 - 2.4: total +4.5 32% · Cardiff +2.5 16% · Preston +2.5 42%  
-Faltas 8.8 - 12.8: total +22.5 41% · Cardiff +11.5 19% · Preston +11.5 61%  
-Tiros a puerta 6.3 - 3.0: total +8.5 57% · Cardiff +4.5 72% · Preston +3.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff → prob. 52%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston → prob. 38%, cuota justa 2.62  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Charlton +0 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 6.5 córners de Charlton** @ **3.30** (Unibet) · prob 33% vs casas 28% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Charlton** @ **1.27** (Unibet) · prob 67% vs casas 72% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Lincoln** @ **1.41** (Unibet) · prob 63% vs casas 65% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Lincoln** @ **1.85** (Unibet) · prob 53% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 65% vs casas 61% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Charlton vs Lincoln — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 11.5 córners** @ **1.35** (Unibet) · prob 67% vs casas 68% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.97 - 0.92)  
-1 32% · X 32% · 2 36%  
-1X 64% · X2 68% · 12 68%  
-+1.5 57% · +2.5 30% · +3.5 12% · Ambos marcan 38%  
-Marcadores: 0-0 16% · 1-1 14% · 1-0 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Charlton ❌❌❌✅❌ | Lincoln ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)  
-• Favorito de las casas: Lincoln @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Charlton +5.5 51% · Lincoln +4.5 44%  
-Tarjetas 2.3 - 2.1: total +4.5 43% · Charlton +2.5 39% · Lincoln +2.5 35%  
-Faltas 12.1 - 11.9: total +22.5 60% · Charlton +11.5 54% · Lincoln +11.5 52%  
-Tiros a puerta 3.8 - 3.4: total +8.5 30% · Charlton +4.5 34% · Lincoln +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln → prob. 11%, cuota justa 8.79  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 4.18 (producto de piernas) · prob. 36% · ventaja +51% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln): cuota Unibet aprox. 5.19 (producto de piernas) · prob. 31% · ventaja +60% → 1 u en la banca de simulación  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Swansea +1.25 (hándicap asiático)** @ **1.88** (mejor del mercado) · prob 52% vs casas 52% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 7.5 córners de Middlesbrough** @ **2.23** (Unibet) · prob 44% vs casas 41% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 8.5 córners de Middlesbrough** @ **1.35** (Unibet) · prob 65% vs casas 68% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 9.5 córners** @ **1.55** (Unibet) · prob 63% vs casas 59% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.33** (Unibet) · prob 67% vs casas 69% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 2.5 córners de Swansea** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Middlesbrough vs Swansea — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Swansea** @ **1.36** (Unibet) · prob 69% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.95)  
-1 58% · X 25% · 2 16%  
-1X 84% · X2 42% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Middlesbrough ✅✅❌➖✅ | Swansea ❌✅❌❌➖  
-• H2H: 22 desde 2009: 10V-5E-7D · 2.5 goles/partido · +2.5 en 55%  
-• Bajas: Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 1.46  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.6: total +10.5 56% · Middlesbrough +5.5 70% · Swansea +4.5 30%  
-Tarjetas 1.4 - 2.0: total +4.5 26% · Middlesbrough +2.5 16% · Swansea +2.5 32%  
-Faltas 10.4 - 10.6: total +22.5 37% · Middlesbrough +11.5 35% · Swansea +11.5 37%  
-Tiros a puerta 6.4 - 3.1: total +8.5 59% · Middlesbrough +4.5 74% · Swansea +3.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea → prob. 45%, cuota justa 2.20 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough → prob. 31%, cuota justa 3.26  
-🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea): cuota Unibet aprox. 1.73 (producto de piernas) · prob. 54% · ventaja -7%  
-
-## Norwich vs QPR — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Gana QPR** @ **3.75** (Paddy Power) · prob 26% vs casas 26% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.08)  
-1 48% · X 28% · 2 24%  
-1X 76% · X2 52% · 12 72%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Norwich ✅✅✅✅✅ | QPR ✅❌➖✅✅  
-• H2H: 30 desde 2005: 15V-9E-6D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Norwich: 1 fuera, 1 duda (Gabriel Forsyth); QPR: sin bajas  
-• Favorito de las casas: Norwich @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.1: total +10.5 46% · Norwich +5.5 55% · QPR +4.5 39%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Norwich +2.5 24% · QPR +2.5 36%  
-Faltas 10.6 - 10.6: total +22.5 37% · Norwich +11.5 37% · QPR +11.5 37%  
-Tiros a puerta 4.9 - 3.4: total +8.5 45% · Norwich +4.5 53% · QPR +3.5 43%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Norwich + Menos de 4.5 córners de QPR → prob. 31%, cuota justa 3.23 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Norwich + Menos de 11.5 faltas de Norwich + Menos de 4.5 córners de QPR + Menos de 3.5 tiros a puerta de QPR → prob. 19%, cuota justa 5.26  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Portsmouth +0.5 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 48% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 9.5 córners** @ **1.53** (Unibet) · prob 62% vs casas 60% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Portsmouth** @ **1.82** (Unibet) · prob 53% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Portsmouth** @ **1.27** (Unibet) · prob 72% vs casas 72% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de West Ham** @ **1.48** (Unibet) · prob 63% vs casas 62% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Portsmouth vs West Ham — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 7.5 córners de West Ham** @ **1.27** (Unibet) · prob 73% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.82)  
-1 20% · X 26% · 2 54%  
-1X 46% · X2 80% · 12 74%  
-+1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅❌➖ | West Ham ❌❌➖❌➖  
-• H2H: 12 desde 2005: 4V-4E-4D · 2.6 goles/partido · +2.5 en 33%  
-• Bajas: Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas  
-• Favorito de las casas: West Ham @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.8: total +10.5 53% · Portsmouth +5.5 41% · West Ham +4.5 63%  
-Tarjetas 1.6 - 2.2: total +4.5 34% · Portsmouth +2.5 22% · West Ham +2.5 38%  
-Faltas 11.4 - 11.4: total +22.5 50% · Portsmouth +11.5 46% · West Ham +11.5 47%  
-Tiros a puerta 3.9 - 5.1: total +8.5 53% · Portsmouth +4.5 35% · West Ham +3.5 72%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles → prob. 25%, cuota justa 3.98  
-🎯 No simulada (con cuota: Más de 4.5 córners de West Ham + Más de 2.5 goles): cuota Unibet aprox. 2.60 (producto de piernas) · prob. 39% · ventaja +2%  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 2.5 goles** @ **1.73** (Bet365) · prob 56% vs casas 56% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 11.5 córners** @ **1.47** (Unibet) · prob 65% vs casas 62% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Southampton** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Southampton** @ **2.00** (Unibet) · prob 48% vs casas 46% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Sheffield United** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Sheffield United vs Southampton — 24/11 · 20:45
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Sheffield United** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.43)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Sheffield United ➖✅✅❌✅ | Southampton ✅✅➖❌✅  
-• H2H: 12 desde 2005: 3V-1E-8D · 2.4 goles/partido · +2.5 en 58%  
-• Bajas: Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda  
-• Favorito de las casas: Sheffield United @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Sheffield United +5.5 43% · Southampton +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 44% · Sheffield United +2.5 35% · Southampton +2.5 40%  
-Faltas 11.3 - 11.3: total +22.5 49% · Sheffield United +11.5 46% · Southampton +11.5 45%  
-Tiros a puerta 4.8 - 4.6: total +8.5 59% · Sheffield United +4.5 52% · Southampton +3.5 66%  
-🧩 Crear apuesta: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton → prob. 10%, cuota justa 9.95  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Dundee +0.75 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 48% vs casas 47% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 5.5 córners de Hibernian** @ **1.60** (Unibet) · prob 59% vs casas 57% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 8.5 córners de Hibernian** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 10.5 córners** @ **1.80** (Unibet) · prob 54% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 13.5 córners** @ **1.22** (Unibet) · prob 75% vs casas 75% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 3.5 córners de Dundee** @ **1.61** (Unibet) · prob 59% vs casas 57% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
-
-## Hibernian vs Dundee — 24/11 · 20:45
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 5.5 córners de Dundee** @ **1.32** (Unibet) · prob 69% vs casas 69% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.03)  
-1 52% · X 27% · 2 21%  
-1X 79% · X2 48% · 12 73%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Hibernian ❌❌➖✅❌ | Dundee ➖❌✅❌❌  
-• H2H: 24 desde 2012: 13V-8E-3D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Hibernian: 0 fuera, 1 duda; Dundee: sin bajas  
-• Favorito de las casas: Hibernian @ 1.62  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 4.5: total +11.5 45% · Hibernian +6.5 49% · Dundee +5.5 31%  
-Tarjetas 1.9 - 2.3: total +4.5 39% · Hibernian +2.5 29% · Dundee +2.5 39%  
-Faltas 11.8 - 11.5: total +24.5 40% · Hibernian +12.5 40% · Dundee +12.5 37%  
-Tiros a puerta 5.4 - 3.5: total +9.5 40% · Hibernian +5.5 45% · Dundee +4.5 28%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee → prob. 24%, cuota justa 4.25  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 52% · ventaja -10%  
+Actualizado 24/11/2026 20:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wolves vs Derby — 24/11 · 21:00
 
@@ -2558,6 +1252,7 @@ Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%
 Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
 
 ## Burnley vs Birmingham — 25/11 · 20:45
 
@@ -2583,6 +1278,7 @@ Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%
 Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
 
 ## Watford vs Blackburn — 25/11 · 20:45
 
@@ -2607,6 +1303,469 @@ Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%
 Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
 Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
+
+## Bolton vs West Brom — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 4.5 córners de Bolton** @ **1.78** (Unibet) · prob 55% vs casas 52% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.59)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 0-1 9% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Bolton ❌❌✅❌➖ | West Brom ➖✅➖✅➖  
+• H2H: 10 desde 2005: 3V-5E-2D · 2.0 goles/partido · +2.5 en 30%  
+• Bajas: Bolton: sin bajas; West Brom: sin bajas  
+• Favorito de las casas: West Brom @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 5.4: total +10.5 51% · Bolton +5.5 44% · West Brom +4.5 58%  
+Tarjetas 1.6 - 1.9: total +4.5 28% · Bolton +2.5 23% · West Brom +2.5 30%  
+Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%  
+Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
+
+## Bolton vs West Brom — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Bolton** @ **1.28** (Unibet) · prob 70% vs casas 71% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.59)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 0-1 9% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Bolton ❌❌✅❌➖ | West Brom ➖✅➖✅➖  
+• H2H: 10 desde 2005: 3V-5E-2D · 2.0 goles/partido · +2.5 en 30%  
+• Bajas: Bolton: sin bajas; West Brom: sin bajas  
+• Favorito de las casas: West Brom @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 5.4: total +10.5 51% · Bolton +5.5 44% · West Brom +4.5 58%  
+Tarjetas 1.6 - 1.9: total +4.5 28% · Bolton +2.5 23% · West Brom +2.5 30%  
+Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%  
+Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
+
+## Bolton vs West Brom — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.30** (Unibet) · prob 72% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.59)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 0-1 9% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Bolton ❌❌✅❌➖ | West Brom ➖✅➖✅➖  
+• H2H: 10 desde 2005: 3V-5E-2D · 2.0 goles/partido · +2.5 en 30%  
+• Bajas: Bolton: sin bajas; West Brom: sin bajas  
+• Favorito de las casas: West Brom @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 5.4: total +10.5 51% · Bolton +5.5 44% · West Brom +4.5 58%  
+Tarjetas 1.6 - 1.9: total +4.5 28% · Bolton +2.5 23% · West Brom +2.5 30%  
+Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%  
+Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
+
+## Bolton vs West Brom — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 13.5 córners** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.59)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 0-1 9% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Bolton ❌❌✅❌➖ | West Brom ➖✅➖✅➖  
+• H2H: 10 desde 2005: 3V-5E-2D · 2.0 goles/partido · +2.5 en 30%  
+• Bajas: Bolton: sin bajas; West Brom: sin bajas  
+• Favorito de las casas: West Brom @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 5.4: total +10.5 51% · Bolton +5.5 44% · West Brom +4.5 58%  
+Tarjetas 1.6 - 1.9: total +4.5 28% · Bolton +2.5 23% · West Brom +2.5 30%  
+Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%  
+Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
+
+## Bolton vs West Brom — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 4.5 córners de West Brom** @ **1.47** (Unibet) · prob 60% vs casas 62% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.59)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 0-1 9% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Bolton ❌❌✅❌➖ | West Brom ➖✅➖✅➖  
+• H2H: 10 desde 2005: 3V-5E-2D · 2.0 goles/partido · +2.5 en 30%  
+• Bajas: Bolton: sin bajas; West Brom: sin bajas  
+• Favorito de las casas: West Brom @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 5.4: total +10.5 51% · Bolton +5.5 44% · West Brom +4.5 58%  
+Tarjetas 1.6 - 1.9: total +4.5 28% · Bolton +2.5 23% · West Brom +2.5 30%  
+Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%  
+Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
+
+## Bolton vs West Brom — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 4.5 córners de West Brom** @ **2.45** (Unibet) · prob 40% vs casas 38% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.59)  
+1 24% · X 28% · 2 48%  
+1X 52% · X2 76% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 0-1 9% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Bolton ❌❌✅❌➖ | West Brom ➖✅➖✅➖  
+• H2H: 10 desde 2005: 3V-5E-2D · 2.0 goles/partido · +2.5 en 30%  
+• Bajas: Bolton: sin bajas; West Brom: sin bajas  
+• Favorito de las casas: West Brom @ 1.98  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 5.4: total +10.5 51% · Bolton +5.5 44% · West Brom +4.5 58%  
+Tarjetas 1.6 - 1.9: total +4.5 28% · Bolton +2.5 23% · West Brom +2.5 30%  
+Faltas 9.9 - 10.5: total +22.5 31% · Bolton +11.5 29% · West Brom +11.5 36%  
+Tiros a puerta 4.5 - 4.6: total +8.5 55% · Bolton +4.5 46% · West Brom +3.5 66%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom → prob. 24%, cuota justa 4.14  
+🎯 No simulada (con cuota: Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 41% · ventaja -20%  
+
+## Burnley vs Birmingham — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 5.5 córners de Burnley** @ **2.43** (Unibet) · prob 41% vs casas 38% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 0.71)  
+1 38% · X 31% · 2 31%  
+1X 69% · X2 62% · 12 69%  
++1.5 65% · +2.5 37% · +3.5 18% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 12% · 2-0 12% · 0-0 12%  
+🔎 **Claves**  
+• Forma: Burnley ❌➖➖❌➖ | Birmingham ❌✅✅✅❌  
+• H2H: 16 desde 2006: 5V-6E-5D · 3.1 goles/partido · +2.5 en 75%  
+• Bajas: Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda  
+• Favorito de las casas: Birmingham @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.5: total +10.5 40% · Burnley +5.5 44% · Birmingham +4.5 44%  
+Tarjetas 2.0 - 2.0: total +4.5 36% · Burnley +2.5 32% · Birmingham +2.5 32%  
+Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%  
+Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
+
+## Burnley vs Birmingham — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Burnley** @ **1.26** (Unibet) · prob 70% vs casas 73% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 0.71)  
+1 38% · X 31% · 2 31%  
+1X 69% · X2 62% · 12 69%  
++1.5 65% · +2.5 37% · +3.5 18% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 12% · 2-0 12% · 0-0 12%  
+🔎 **Claves**  
+• Forma: Burnley ❌➖➖❌➖ | Birmingham ❌✅✅✅❌  
+• H2H: 16 desde 2006: 5V-6E-5D · 3.1 goles/partido · +2.5 en 75%  
+• Bajas: Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda  
+• Favorito de las casas: Birmingham @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.5: total +10.5 40% · Burnley +5.5 44% · Birmingham +4.5 44%  
+Tarjetas 2.0 - 2.0: total +4.5 36% · Burnley +2.5 32% · Birmingham +2.5 32%  
+Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%  
+Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
+
+## Burnley vs Birmingham — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.28** (Unibet) · prob 74% vs casas 72% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 0.71)  
+1 38% · X 31% · 2 31%  
+1X 69% · X2 62% · 12 69%  
++1.5 65% · +2.5 37% · +3.5 18% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 12% · 2-0 12% · 0-0 12%  
+🔎 **Claves**  
+• Forma: Burnley ❌➖➖❌➖ | Birmingham ❌✅✅✅❌  
+• H2H: 16 desde 2006: 5V-6E-5D · 3.1 goles/partido · +2.5 en 75%  
+• Bajas: Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda  
+• Favorito de las casas: Birmingham @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.5: total +10.5 40% · Burnley +5.5 44% · Birmingham +4.5 44%  
+Tarjetas 2.0 - 2.0: total +4.5 36% · Burnley +2.5 32% · Birmingham +2.5 32%  
+Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%  
+Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
+
+## Burnley vs Birmingham — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 11.5 córners** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 0.71)  
+1 38% · X 31% · 2 31%  
+1X 69% · X2 62% · 12 69%  
++1.5 65% · +2.5 37% · +3.5 18% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 12% · 2-0 12% · 0-0 12%  
+🔎 **Claves**  
+• Forma: Burnley ❌➖➖❌➖ | Birmingham ❌✅✅✅❌  
+• H2H: 16 desde 2006: 5V-6E-5D · 3.1 goles/partido · +2.5 en 75%  
+• Bajas: Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda  
+• Favorito de las casas: Birmingham @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.5: total +10.5 40% · Burnley +5.5 44% · Birmingham +4.5 44%  
+Tarjetas 2.0 - 2.0: total +4.5 36% · Burnley +2.5 32% · Birmingham +2.5 32%  
+Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%  
+Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
+
+## Burnley vs Birmingham — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 3.5 córners de Birmingham** @ **1.41** (Unibet) · prob 63% vs casas 65% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 0.71)  
+1 38% · X 31% · 2 31%  
+1X 69% · X2 62% · 12 69%  
++1.5 65% · +2.5 37% · +3.5 18% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 12% · 2-0 12% · 0-0 12%  
+🔎 **Claves**  
+• Forma: Burnley ❌➖➖❌➖ | Birmingham ❌✅✅✅❌  
+• H2H: 16 desde 2006: 5V-6E-5D · 3.1 goles/partido · +2.5 en 75%  
+• Bajas: Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda  
+• Favorito de las casas: Birmingham @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.5: total +10.5 40% · Burnley +5.5 44% · Birmingham +4.5 44%  
+Tarjetas 2.0 - 2.0: total +4.5 36% · Burnley +2.5 32% · Birmingham +2.5 32%  
+Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%  
+Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
+
+## Burnley vs Birmingham — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Birmingham** @ **1.85** (Unibet) · prob 53% vs casas 50% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 0.71)  
+1 38% · X 31% · 2 31%  
+1X 69% · X2 62% · 12 69%  
++1.5 65% · +2.5 37% · +3.5 18% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 12% · 2-0 12% · 0-0 12%  
+🔎 **Claves**  
+• Forma: Burnley ❌➖➖❌➖ | Birmingham ❌✅✅✅❌  
+• H2H: 16 desde 2006: 5V-6E-5D · 3.1 goles/partido · +2.5 en 75%  
+• Bajas: Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda  
+• Favorito de las casas: Birmingham @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.5: total +10.5 40% · Burnley +5.5 44% · Birmingham +4.5 44%  
+Tarjetas 2.0 - 2.0: total +4.5 36% · Burnley +2.5 32% · Birmingham +2.5 32%  
+Faltas 10.3 - 11.7: total +22.5 45% · Burnley +11.5 34% · Birmingham +11.5 50%  
+Tiros a puerta 4.4 - 3.6: total +8.5 41% · Burnley +4.5 44% · Birmingham +3.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles → prob. 29%, cuota justa 3.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Birmingham + Menos de 11.5 faltas de Burnley + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 8.5 tiros a puerta → prob. 12%, cuota justa 8.36  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 8.5 tiros a puerta): cuota Unibet aprox. 3.91 (producto de piernas) · prob. 45% · ventaja +75% → 1 u en la banca de simulación  
+
+## Watford vs Blackburn — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.35** (Unibet) · prob 67% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.04)  
+1 34% · X 31% · 2 35%  
+1X 65% · X2 66% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Watford ❌❌✅➖❌ | Blackburn ✅❌❌✅➖  
+• H2H: 18 desde 2007: 7V-4E-7D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Watford: sin bajas; Blackburn: 0 fuera, 1 duda  
+• Favorito de las casas: Watford @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.6: total +10.5 42% · Watford +5.5 45% · Blackburn +4.5 47%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%  
+Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
+Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
+
+## Watford vs Blackburn — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 11.5 córners** @ **1.48** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.04)  
+1 34% · X 31% · 2 35%  
+1X 65% · X2 66% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Watford ❌❌✅➖❌ | Blackburn ✅❌❌✅➖  
+• H2H: 18 desde 2007: 7V-4E-7D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Watford: sin bajas; Blackburn: 0 fuera, 1 duda  
+• Favorito de las casas: Watford @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.6: total +10.5 42% · Watford +5.5 45% · Blackburn +4.5 47%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%  
+Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
+Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
+
+## Watford vs Blackburn — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 3.5 córners de Blackburn** @ **1.36** (Unibet) · prob 65% vs casas 67% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.04)  
+1 34% · X 31% · 2 35%  
+1X 65% · X2 66% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Watford ❌❌✅➖❌ | Blackburn ✅❌❌✅➖  
+• H2H: 18 desde 2007: 7V-4E-7D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Watford: sin bajas; Blackburn: 0 fuera, 1 duda  
+• Favorito de las casas: Watford @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.6: total +10.5 42% · Watford +5.5 45% · Blackburn +4.5 47%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%  
+Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
+Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
+
+## Watford vs Blackburn — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Blackburn** @ **1.56** (Unibet) · prob 63% vs casas 59% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.04)  
+1 34% · X 31% · 2 35%  
+1X 65% · X2 66% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Watford ❌❌✅➖❌ | Blackburn ✅❌❌✅➖  
+• H2H: 18 desde 2007: 7V-4E-7D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Watford: sin bajas; Blackburn: 0 fuera, 1 duda  
+• Favorito de las casas: Watford @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.6: total +10.5 42% · Watford +5.5 45% · Blackburn +4.5 47%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%  
+Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
+Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
+
+## Watford vs Blackburn — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Más de 3.5 córners de Watford** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.04)  
+1 34% · X 31% · 2 35%  
+1X 65% · X2 66% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Watford ❌❌✅➖❌ | Blackburn ✅❌❌✅➖  
+• H2H: 18 desde 2007: 7V-4E-7D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Watford: sin bajas; Blackburn: 0 fuera, 1 duda  
+• Favorito de las casas: Watford @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.6: total +10.5 42% · Watford +5.5 45% · Blackburn +4.5 47%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%  
+Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
+Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
+
+## Watford vs Blackburn — 25/11 · 20:45
+
+👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Watford** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.04)  
+1 34% · X 31% · 2 35%  
+1X 65% · X2 66% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Watford ❌❌✅➖❌ | Blackburn ✅❌❌✅➖  
+• H2H: 18 desde 2007: 7V-4E-7D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Watford: sin bajas; Blackburn: 0 fuera, 1 duda  
+• Favorito de las casas: Watford @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.6: total +10.5 42% · Watford +5.5 45% · Blackburn +4.5 47%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Watford +2.5 30% · Blackburn +2.5 39%  
+Faltas 11.4 - 11.2: total +22.5 49% · Watford +11.5 46% · Blackburn +11.5 45%  
+Tiros a puerta 4.5 - 3.5: total +8.5 40% · Watford +4.5 46% · Blackburn +3.5 45%  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Watford + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 11.5 faltas de Blackburn → prob. 9%, cuota justa 10.87  
+🎯 Simulada (con cuota: Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 6.05 (producto de piernas) · prob. 25% · ventaja +54% → 1 u en la banca de simulación  
 
 ## Stoke vs Millwall — 25/11 · 21:00
 

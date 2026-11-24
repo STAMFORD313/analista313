@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 20:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 20:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Lunjo vs Djape — 24/11 · 20:34
+## Gazi vs mPm — 24/11 · 20:58
 
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Djape** @ **2.18** (Unibet) · prob 50% vs casas 40% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.924 partidos)  
-Goles esperados: Lunjo 2.82 · Djape 3.33  
-Ganador: Lunjo 32% · empate 18% · Djape 50%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Djape: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Lunjo ❌❌✅❌➖ | Djape ❌➖✅➖❌  
-• Partidos: Lunjo 368 | Djape 368  
-• Liga: Premier League  
-• Unibet: 1 2.12 · X 4.60 · 2 2.18 (sin margen 41%/19%/40%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+8%) · Paf España 2.18 (+8%)  
-
-## Gazi vs Shinobu — 24/11 · 20:34
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.25** (Unibet) · prob 22% vs casas 17% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.40** (Unibet) · prob 18% vs casas 14% · ventaja +14%
 
 - ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.950 partidos)  
-Goles esperados: Gazi 2.32 · Shinobu 2.39  
-Ganador: Gazi 43% · empate 22% · Shinobu 36%  
-Total: más de 4.5 goles 51% · menos 49%  
-Hándicap Shinobu: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 79.978 partidos)  
+Goles esperados: Gazi 2.62 · mPm 3.38  
+Ganador: Gazi 27% · empate 18% · mPm 55%  
+Total: más de 6.5 goles 39% · menos 61%  
+Hándicap mPm: −1.5 37% · −2.5 23%  
 🔎 **Claves**  
-• Forma: Gazi ✅➖❌✅✅ | Shinobu ❌✅➖❌✅  
-• Partidos: Gazi 637 | Shinobu 1745  
+• Forma: Gazi ➖❌✅✅❌ | mPm ➖✅❌❌✅  
+• Partidos: Gazi 638 | mPm 896  
 • Liga: Copa America  
-• Unibet: 1 1.87 · X 5.25 · 2 2.40 (sin margen 47%/17%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.25 (+14%) · Paf España 5.25 (+14%)  
+• Unibet: 1 3.40 · X 6.40 · 2 1.43 (sin margen 26%/14%/61%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.40 (+14%) · Paf España 6.40 (+14%)  
 
-## ZORO vs Mani — 24/11 · 20:43
+## Bjela vs maggett0 — 24/11 · 21:16
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana ZORO** @ **2.15** (Unibet) · prob 51% vs casas 41% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Bjela** @ **2.38** (Unibet) · prob 46% vs casas 36% · ventaja +8%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.950 partidos)  
-Goles esperados: ZORO 3.29 · Mani 2.73  
-Ganador: ZORO 51% · empate 18% · Mani 30%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap ZORO: −1.5 34% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 79.978 partidos)  
+Goles esperados: Bjela 2.98 · maggett0 2.65  
+Ganador: Bjela 46% · empate 19% · maggett0 35%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Bjela: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: ZORO ➖❌✅❌❌ | Mani ❌❌❌❌❌  
-• Partidos: ZORO 1042 | Mani 1119  
+• Forma: Bjela ✅❌✅✅✅ | maggett0 ➖❌✅❌❌  
+• Partidos: Bjela 988 | maggett0 1138  
+• Liga: Europa League  
+• Unibet: 1 2.38 · X 4.25 · 2 2.02 (sin margen 37%/20%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+8%) · Paf España 2.38 (+8%)  
+
+## Linox vs Sena — 24/11 · 21:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Sena** @ **2.60** (Unibet) · prob 42% vs casas 33% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.978 partidos)  
+Goles esperados: Linox 1.97 · Sena 2.05  
+Ganador: Linox 35% · empate 24% · Sena 41%  
+Total: más de 4.5 goles 38% · menos 62%  
+Hándicap Sena: −1.5 23% · −2.5 11%  
+🔎 **Claves**  
+• Forma: Linox ✅✅✅❌✅ | Sena ✅✅✅✅✅  
+• Partidos: Linox 929 | Sena 931  
 • Liga: Serie A  
-• Unibet: 1 2.15 · X 4.30 · 2 2.23 (sin margen 41%/20%/39%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+11%) · Paf España 2.15 (+11%)  
-
-## mPm vs SDI — 24/11 · 20:46
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **7.50** (Unibet) · prob 15% vs casas 12% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.950 partidos)  
-Goles esperados: mPm 4.24 · SDI 3.11  
-Ganador: mPm 62% · empate 15% · SDI 23%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap mPm: −1.5 44% · −2.5 30%  
-🔎 **Claves**  
-• Forma: mPm ✅➖✅❌❌ | SDI ❌❌➖❌❌  
-• Partidos: mPm 895 | SDI 805  
-• Liga: Copa America  
-• Unibet: 1 1.47 · X 7.50 · 2 2.95 (sin margen 59%/12%/29%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.50 (+11%) · Paf España 7.50 (+11%)  
+• Unibet: 1 2.02 · X 3.70 · 2 2.60 (sin margen 43%/24%/33%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+8%) · Paf España 2.60 (+8%)  
 
