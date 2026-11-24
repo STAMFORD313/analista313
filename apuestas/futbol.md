@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 24/11/2026 21:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 21:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Palmeiras — 24/11 · 22:00
 

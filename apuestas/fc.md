@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 21:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 21:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Gaga vs Rodja — 24/11 · 21:28
+## saportj vs Shinobu — 24/11 · 22:08
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Rodja** @ **2.63** (Unibet) · prob 47% vs casas 33% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +12%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.006 partidos)  
-Goles esperados: Gaga 2.70 · Rodja 2.99  
-Ganador: Gaga 34% · empate 19% · Rodja 47%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Rodja: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Gaga ✅❌❌✅❌ | Rodja ❌❌✅✅✅  
-• Partidos: Gaga 1277 | Rodja 1187  
-• Liga: Europa League  
-• Unibet: 1 2.14 · X 3.25 · 2 2.63 (sin margen 40%/27%/33%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.63 (+23%) · Paf España 2.63 (+23%)  
-
-## Sena vs Mani — 24/11 · 21:31
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Sena** @ **2.70** (Unibet) · prob 44% vs casas 32% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.006 partidos)  
-Goles esperados: Sena 2.69 · Mani 2.52  
-Ganador: Sena 44% · empate 20% · Mani 36%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap Sena: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Sena ✅✅✅➖✅ | Mani ❌➖❌✅❌  
-• Partidos: Sena 933 | Mani 1123  
-• Liga: Serie A  
-• Unibet: 1 2.70 · X 4.90 · 2 1.76 (sin margen 32%/18%/50%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+18%) · Paf España 2.70 (+18%)  
-
-## Shinobu vs Gazi — 24/11 · 21:44
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.00** (Unibet) · prob 22% vs casas 18% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.006 partidos)  
-Goles esperados: Shinobu 2.38 · Gazi 2.30  
-Ganador: Shinobu 36% · empate 22% · Gazi 42%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap Shinobu: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 80.031 partidos)  
+Goles esperados: saportj 2.73 · Shinobu 2.25  
+Ganador: saportj 57% · empate 19% · Shinobu 24%  
+Total: más de 4.5 goles 56% · menos 44%  
+Hándicap saportj: −1.5 32% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Shinobu ❌✅✅✅❌ | Gazi ✅✅❌➖❌  
-• Partidos: Shinobu 1748 | Gazi 640  
+• Forma: saportj ❌❌➖✅❌ | Shinobu ✅✅❌✅✅  
+• Partidos: saportj 1189 | Shinobu 1750  
 • Liga: Copa America  
-• Unibet: 1 2.23 · X 5.00 · 2 2.02 (sin margen 39%/17%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.00 (+9%) · Paf España 5.00 (+9%)  
+• Unibet: 1 1.57 · X 5.75 · 2 2.95 (sin margen 55%/15%/29%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.75 (+12%) · Paf España 5.75 (+12%)  
+
+## steeffant vs Bosko — 24/11 · 22:14
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana steeffant** @ **1.61** (Unibet) · prob 67% vs casas 55% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.031 partidos)  
+Goles esperados: steeffant 5.57 · Bosko 3.91  
+Ganador: steeffant 67% · empate 12% · Bosko 21%  
+Total: más de 9.5 goles 47% · menos 53%  
+Hándicap steeffant: −1.5 52% · −2.5 39%  
+🔎 **Claves**  
+• Forma: steeffant ❌❌➖✅❌ | Bosko ❌➖❌❌❌  
+• Partidos: steeffant 1042 | Bosko 760  
+• Liga: Champions League B 2x6  
+• Unibet: 1 1.61 · X 5.80 · 2 2.90 (sin margen 55%/15%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.61 (+8%) · Paf España 1.61 (+8%)  
 
