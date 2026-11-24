@@ -79285,10 +79285,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2397072,263058,Chelsea,Liverpool,,
 2397073,263058,Arsenal,Chelsea,,
 2397074,263058,Man City,Tottenham,,
-2396305,263007,Spain,Brazil,1,1
-2396306,263007,France,Argentina,2,0
-2396307,263007,Argentina,Spain,1,2
-2396308,263007,Brazil,England,0,1
+2396305,263007,Spain,Brazil,1.0,1.0
+2396306,263007,France,Argentina,2.0,0.0
+2396307,263007,Argentina,Spain,1.0,2.0
+2396308,263007,Brazil,England,0.0,1.0
 2396309,263007,England,Argentina,,
 2396310,263007,Spain,France,,
 2396311,263007,France,England,,
@@ -79305,12 +79305,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2396322,263007,Brazil,Argentina,,
 2396323,263007,France,Brazil,,
 2396324,263007,Spain,England,,
-2396975,263051,Bayern Munchen,Frankfurt,0,0
-2396976,263051,Stuttgart,Leipzig,3,2
-2396977,263051,Leipzig,Bayern Munchen,0,0
-2396978,263051,Frankfurt,B Dortmund,0,2
-2396979,263051,B Dortmund,Leipzig,0,2
-2396980,263051,Bayern Munchen,Stuttgart,1,2
+2396975,263051,Bayern Munchen,Frankfurt,0.0,0.0
+2396976,263051,Stuttgart,Leipzig,3.0,2.0
+2396977,263051,Leipzig,Bayern Munchen,0.0,0.0
+2396978,263051,Frankfurt,B Dortmund,0.0,2.0
+2396979,263051,B Dortmund,Leipzig,0.0,2.0
+2396980,263051,Bayern Munchen,Stuttgart,1.0,2.0
 2396981,263051,Stuttgart,B Dortmund,,
 2396982,263051,Leipzig,Frankfurt,,
 2396983,263051,Frankfurt,Stuttgart,,
@@ -79325,3 +79325,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2396992,263051,Frankfurt,Leipzig,,
 2396993,263051,Stuttgart,Frankfurt,,
 2396994,263051,Bayern Munchen,B Dortmund,,
+2396005,262992,Inter Miami CF,Atlanta United,2,3
+2396007,262992,Los Angeles FC,Inter Miami CF,3,2
+2396008,262992,Atlanta United,Seattle Sounders FC,1,1
+2396009,262992,Seattle Sounders FC,Los Angeles FC,1,2
+2396010,262992,Inter Miami CF,LA Galaxy,1,1
+2396011,262992,LA Galaxy,Seattle Sounders FC,0,0
+2396012,262992,Los Angeles FC,Atlanta United,0,0
+2396013,262992,Atlanta United,LA Galaxy,,
+2396014,262992,Seattle Sounders FC,Inter Miami CF,,
+2396015,262992,Atlanta United,Inter Miami CF,,
+2396016,262992,Los Angeles FC,LA Galaxy,,
+2396017,262992,Inter Miami CF,Los Angeles FC,,
+2396018,262992,Seattle Sounders FC,Atlanta United,,
+2396019,262992,Los Angeles FC,Seattle Sounders FC,,
+2396020,262992,LA Galaxy,Inter Miami CF,,
+2396021,262992,Seattle Sounders FC,LA Galaxy,,
+2396022,262992,Atlanta United,Los Angeles FC,,
+2396023,262992,LA Galaxy,Atlanta United,,
+2396024,262992,Inter Miami CF,Seattle Sounders FC,,
+2396006,262992,LA Galaxy,Los Angeles FC,,

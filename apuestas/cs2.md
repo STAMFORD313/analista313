@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 07:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 07:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FaZe vs Wildcard — 24/11 · 08:00
 
