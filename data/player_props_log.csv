@@ -22104,3 +22104,700 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Levante vs Elche,Enzo Bardeli,To score at least 2 goals,1.5,25.0,0.04,0.0009,0,0.0,0
 2026-11-23,Levante vs Elche,Adrián De La Fuente,To score at least 2 goals,1.5,46.0,0.0217,0.0054,1,0.0,0
 2026-11-23,Levante vs Elche,Enzo Bardeli,To give an assist,0.5,6.0,0.1667,0.0289,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Rio Cardines,Player's shots on target,0.5,3.3,0.303,0.0613,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Kieffer Moore,Player's shots on target,0.5,1.4,0.7143,0.16,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Ben Sheaf,To score at least 2 goals,1.5,67.0,0.0149,0.0002,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Luke McNally,To Get a Card,0.5,4.0,0.25,0.1977,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lewis O'Brien,To score at least 2 goals,1.5,41.0,0.0244,0.0042,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Gibson Yah,To score at least 2 goals,1.5,51.0,0.0196,0.0002,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Rio Cardines,To Get a Card,0.5,3.9,0.2564,0.0213,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,To score at least 2 goals,1.5,11.5,0.087,0.01,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Oliver Rathbone,Player's shots on target,0.5,1.92,0.5208,0.1201,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Jacques Ekomié,To Get a Card,0.5,4.5,0.2222,0.1111,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Callum Doyle,Player's shots on target,0.5,4.3,0.2326,0.1993,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lewis O'Brien,Player's shots on target,0.5,2.4,0.4167,0.2594,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Callum Doyle,To Get a Card,0.5,5.2,0.1923,0.1557,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Thomason,To score at least 2 goals,1.5,56.0,0.0179,0.0076,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Oliver Rathbone,To Score,0.5,4.0,0.25,0.0488,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Jacques Ekomié,To Score,0.5,10.0,0.1,0.0786,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Adam Randell,To Get a Card,0.5,3.6,0.2778,0.1124,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Jason Knight,To Score,0.5,8.0,0.125,0.0558,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Hyam,To Get a Card,0.5,4.0,0.25,0.0415,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Gibson Yah,Player's shots on target,0.5,2.8,0.3571,0.0757,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Tanner,To Score,0.5,10.0,0.1,0.017,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Adam Randell,To Score,0.5,10.5,0.0952,0.0686,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Gibson Yah,To Score,0.5,6.5,0.1538,0.0193,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Thomason,To Get a Card,0.5,4.3,0.2326,0.077,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Oliver Rathbone,To give an assist,0.5,6.5,0.1538,0.0187,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Kieffer Moore,To give an assist,0.5,7.0,0.1429,0.029,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Robert Dickie,To Score,0.5,10.0,0.1,0.0248,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Joe Worrall,Player's shots on target,0.5,4.4,0.2273,0.096,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Oliver Rathbone,Player's shots on target,1.5,5.1,0.1961,0.0075,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Matty James,To score at least 2 goals,1.5,67.0,0.0149,0.0002,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Adam Randell,To give an assist,0.5,7.5,0.1333,0.0558,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Issa Kabore,To score at least 2 goals,1.5,81.0,0.0123,0.0009,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Dobson,To Get a Card,0.5,4.2,0.2381,0.1662,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Ben Sheaf,To Get a Card,0.5,4.7,0.2128,0.0403,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Issa Kabore,Player's shots on target,0.5,3.5,0.2857,0.1569,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Thomason,To Score,0.5,7.0,0.1429,0.1204,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Scott Twine,To give an assist,0.5,4.8,0.2083,0.0774,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Rio Cardines,To give an assist,0.5,5.1,0.1961,0.0433,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Luke McNally,To Score,0.5,11.0,0.0909,0.0572,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Issa Kabore,To Get a Card,0.5,4.4,0.2273,0.1173,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,Player's shots on target,1.5,2.7,0.3704,0.1015,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To score at least 2 goals,1.5,10.5,0.0952,0.023,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To score at least 3 goals,2.5,46.0,0.0217,0.0017,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Gibson Yah,To Get a Card,0.5,4.1,0.2439,0.0244,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Scott Twine,To Get a Card,0.5,4.1,0.2439,0.1001,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Lewis O'Brien,To Score,0.5,5.1,0.1961,0.0903,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Tanner,To Get a Card,0.5,5.2,0.1923,0.0789,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Gibson Yah,To give an assist,0.5,6.0,0.1667,0.0147,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Matty James,Player's shots on target,0.5,3.3,0.303,0.0632,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Brian De Keersmaecker,To score at least 2 goals,1.5,36.0,0.0278,0.0003,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Cameron Pring,To Score,0.5,11.0,0.0909,0.0159,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Brian De Keersmaecker,To Score,0.5,5.2,0.1923,0.0237,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Oliver Rathbone,To Get a Card,0.5,4.3,0.2326,0.0355,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Kieffer Moore,To Get a Card,0.5,5.0,0.2,0.0301,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Brian De Keersmaecker,To give an assist,0.5,6.0,0.1667,0.0249,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Hyam,To Score,0.5,10.5,0.0952,0.0162,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Kieffer Moore,To score at least 2 goals,1.5,11.0,0.0909,0.0016,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Kieffer Moore,To Score,0.5,2.7,0.3704,0.0567,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,To Get a Card,0.5,4.5,0.2222,0.1015,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,George Thomason,Player's shots on target,0.5,3.0,0.3333,0.2776,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,Player's shots on target,1.5,2.55,0.3922,0.1562,1,1.0,0
+2026-11-24,Bristol City vs Wrexham,George Dobson,To Score,0.5,10.0,0.1,0.0659,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,Player's shots on target,0.5,1.36,0.7353,0.504,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Cameron Pring,To Get a Card,0.5,4.3,0.2326,0.1959,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Scott Twine,To Score,0.5,3.4,0.2941,0.1992,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,To give an assist,0.5,5.2,0.1923,0.0663,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Brian De Keersmaecker,To Get a Card,0.5,4.5,0.2222,0.0338,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Brian De Keersmaecker,Player's shots on target,0.5,2.35,0.4255,0.0877,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Rio Cardines,To Score,0.5,7.5,0.1333,0.0193,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Rio Cardines,To score at least 2 goals,1.5,76.0,0.0132,0.0002,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Matty James,To Get a Card,0.5,4.8,0.2083,0.0416,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,To score at least 3 goals,2.5,51.0,0.0196,0.0005,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,To Score,0.5,2.8,0.3571,0.1381,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Joe Williams,To Score,0.5,10.0,0.1,0.0173,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Jason Knight,To Get a Card,0.5,5.0,0.2,0.1441,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Joe Williams,To give an assist,0.5,7.0,0.1429,0.0164,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Joe Williams,To Get a Card,0.5,4.1,0.2439,0.0469,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Scott Twine,To score at least 2 goals,1.5,16.0,0.0625,0.0213,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To Get a Card,0.5,4.4,0.2273,0.0773,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To Score,0.5,2.6,0.3846,0.2065,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Matty James,To Score,0.5,7.5,0.1333,0.021,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Joe Worrall,To Score,0.5,10.0,0.1,0.0508,1,1.0,1
+2026-11-24,Bristol City vs Wrexham,Scott Twine,Player's shots on target,0.5,1.64,0.6098,0.481,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Jacques Ekomié,Player's shots on target,0.5,4.1,0.2439,0.2001,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Scott Twine,Player's shots on target,1.5,3.7,0.2703,0.1406,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Robert Dickie,To Get a Card,0.5,4.0,0.25,0.0309,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Callum Doyle,To Score,0.5,10.0,0.1,0.0443,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Ben Sheaf,To Score,0.5,7.0,0.1429,0.0174,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lewis O'Brien,To give an assist,0.5,5.8,0.1724,0.1295,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lewis O'Brien,To Get a Card,0.5,4.1,0.2439,0.0819,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To give an assist,0.5,5.8,0.1724,0.0423,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Issa Kabore,To Score,0.5,8.0,0.125,0.0425,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Ben Sheaf,Player's shots on target,0.5,3.2,0.3125,0.0625,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Jason Knight,Player's shots on target,0.5,3.3,0.303,0.177,1,2.0,1
+2026-11-24,Bristol City vs Wrexham,Jason Knight,To score at least 2 goals,1.5,76.0,0.0132,0.0016,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,Player's shots on target,0.5,1.38,0.7246,0.4152,1,0.0,0
+2026-11-24,Bristol City vs Wrexham,Kieffer Moore,Player's shots on target,1.5,2.65,0.3774,0.0135,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Joe Worrall,To Get a Card,0.5,4.6,0.2174,0.0867,1,0.0,0
+2026-11-24,Cardiff vs Preston,Rubin Colwill,To give an assist,0.5,4.3,0.2326,0.1573,1,0.0,0
+2026-11-24,Cardiff vs Preston,Jordan Thompson,To Score,0.5,10.0,0.1,0.0938,1,0.0,0
+2026-11-24,Cardiff vs Preston,Jack Moylan,To Score,0.5,2.15,0.4651,0.3203,1,0.0,0
+2026-11-24,Cardiff vs Preston,Alfie Devine,To Get a Card,0.5,3.8,0.2632,0.0715,1,0.0,0
+2026-11-24,Cardiff vs Preston,Krystian Bielik,To Score,0.5,7.5,0.1333,0.0162,1,0.0,0
+2026-11-24,Cardiff vs Preston,Alfie Devine,To give an assist,0.5,6.25,0.16,0.1098,1,1.0,1
+2026-11-24,Cardiff vs Preston,Cian Ashford,To Get a Card,0.5,5.2,0.1923,0.095,1,0.0,0
+2026-11-24,Cardiff vs Preston,Calum Scanlon,To Score,0.5,5.5,0.1818,0.0275,0,0.0,0
+2026-11-24,Cardiff vs Preston,Odeluga Offiah,To Get a Card,0.5,4.4,0.2273,0.1002,1,0.0,0
+2026-11-24,Cardiff vs Preston,Calum Scanlon,To score at least 2 goals,1.5,41.0,0.0244,0.0004,0,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Colwill,Player's shots on target,0.5,1.45,0.6897,0.098,0,0.0,0
+2026-11-24,Cardiff vs Preston,Cian Ashford,Player's shots on target,0.5,1.52,0.6579,0.374,1,0.0,0
+2026-11-24,Cardiff vs Preston,Thierry Small,Player's shots on target,0.5,1.95,0.5128,0.2613,1,1.0,1
+2026-11-24,Cardiff vs Preston,Alfie Devine,Player's shots on target,0.5,1.77,0.565,0.3364,1,1.0,1
+2026-11-24,Cardiff vs Preston,Andrew Hughes,To Score,0.5,10.0,0.1,0.055,1,1.0,1
+2026-11-24,Cardiff vs Preston,Léo Leroy,Player's shots on target,0.5,2.65,0.3774,0.0769,0,0.0,0
+2026-11-24,Cardiff vs Preston,Jordan Storey,To Score,0.5,10.0,0.1,0.0174,0,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Colwill,To Get a Card,0.5,5.75,0.1739,0.0345,0,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,To score at least 2 goals,1.5,5.8,0.1724,0.0524,1,0.0,0
+2026-11-24,Cardiff vs Preston,Krystian Bielik,Player's shots on target,0.5,3.5,0.2857,0.1795,1,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Colwill,To Score,0.5,2.7,0.3704,0.03,0,0.0,0
+2026-11-24,Cardiff vs Preston,Jack Moylan,To Get a Card,0.5,5.3,0.1887,0.1249,1,0.0,0
+2026-11-24,Cardiff vs Preston,Léo Leroy,To Score,0.5,6.25,0.16,0.0248,0,0.0,0
+2026-11-24,Cardiff vs Preston,Thierry Small,To Get a Card,0.5,3.4,0.2941,0.1813,1,0.0,0
+2026-11-24,Cardiff vs Preston,Jack Moylan,Player's shots on target,0.5,1.24,0.8065,0.5849,1,0.0,0
+2026-11-24,Cardiff vs Preston,Callum Lang,To score at least 2 goals,1.5,21.0,0.0476,0.0013,0,0.0,0
+2026-11-24,Cardiff vs Preston,Rubin Colwill,To Score,0.5,3.1,0.3226,0.077,1,0.0,0
+2026-11-24,Cardiff vs Preston,Krystian Bielik,To Get a Card,0.5,4.8,0.2083,0.2168,1,1.0,1
+2026-11-24,Cardiff vs Preston,Jack Moylan,To score at least 2 goals,1.5,6.5,0.1538,0.0579,1,0.0,0
+2026-11-24,Cardiff vs Preston,Calum Scanlon,Player's shots on target,0.5,2.7,0.3704,0.0779,0,0.0,0
+2026-11-24,Cardiff vs Preston,Alex Robertson,To Get a Card,0.5,4.2,0.2381,0.1804,1,0.0,0
+2026-11-24,Cardiff vs Preston,Delano Burgzorg,To score at least 2 goals,1.5,21.0,0.0476,0.0062,1,0.0,0
+2026-11-24,Cardiff vs Preston,Alfie Devine,To score at least 2 goals,1.5,20.0,0.05,0.0085,1,1.0,0
+2026-11-24,Cardiff vs Preston,Cian Ashford,To give an assist,0.5,3.2,0.3125,0.1435,1,0.0,0
+2026-11-24,Cardiff vs Preston,Ollie Tanner,To score at least 2 goals,1.5,16.0,0.0625,0.01,1,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,To Get a Card,0.5,5.1,0.1961,0.1261,1,0.0,0
+2026-11-24,Cardiff vs Preston,Ollie Tanner,To Score,0.5,3.3,0.303,0.138,1,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Colwill,To give an assist,0.5,3.5,0.2857,0.0102,0,0.0,0
+2026-11-24,Cardiff vs Preston,Ollie Tanner,To Get a Card,0.5,5.75,0.1739,0.1282,1,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,To Score,0.5,2.02,0.495,0.3057,1,0.0,0
+2026-11-24,Cardiff vs Preston,Chris Willock,To Get a Card,0.5,5.5,0.1818,0.0156,0,0.0,0
+2026-11-24,Cardiff vs Preston,Odeluga Offiah,To Score,0.5,10.0,0.1,0.0153,1,0.0,0
+2026-11-24,Cardiff vs Preston,Andrija Vukcevic,To Get a Card,0.5,4.0,0.25,0.0405,0,0.0,0
+2026-11-24,Cardiff vs Preston,Jack Moylan,Player's shots on target,1.5,2.1,0.4762,0.22,1,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,To score at least 3 goals,2.5,20.0,0.05,0.0062,1,0.0,0
+2026-11-24,Cardiff vs Preston,Jack Moylan,Player's shots on target,2.5,4.0,0.25,0.0595,1,0.0,0
+2026-11-24,Cardiff vs Preston,Alex Robertson,To Score,0.5,4.1,0.2439,0.0594,1,0.0,0
+2026-11-24,Cardiff vs Preston,Thierry Small,To Score,0.5,4.3,0.2326,0.0649,1,1.0,1
+2026-11-24,Cardiff vs Preston,Delano Burgzorg,To Score,0.5,3.9,0.2564,0.1093,1,0.0,0
+2026-11-24,Cardiff vs Preston,Alfie Devine,To Score,0.5,3.8,0.2632,0.1274,1,1.0,1
+2026-11-24,Cardiff vs Preston,Alex Robertson,To give an assist,0.5,4.3,0.2326,0.099,1,0.0,0
+2026-11-24,Cardiff vs Preston,Jordan Storey,To Get a Card,0.5,3.6,0.2778,0.0293,0,0.0,0
+2026-11-24,Cardiff vs Preston,Callum Lang,To Get a Card,0.5,3.8,0.2632,0.041,0,0.0,0
+2026-11-24,Cardiff vs Preston,Rubin Colwill,To Get a Card,0.5,5.2,0.1923,0.1614,1,0.0,0
+2026-11-24,Cardiff vs Preston,Liam Lindsay,To Get a Card,0.5,4.3,0.2326,0.1766,1,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Bagan,To give an assist,0.5,5.2,0.1923,0.06,1,0.0,0
+2026-11-24,Cardiff vs Preston,Calum Scanlon,To Get a Card,0.5,4.5,0.2222,0.0228,0,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,Player's shots on target,0.5,1.19,0.8403,0.6386,1,2.0,1
+2026-11-24,Cardiff vs Preston,Alex Robertson,Player's shots on target,0.5,2.15,0.4651,0.2171,1,1.0,1
+2026-11-24,Cardiff vs Preston,Jack Moylan,To give an assist,0.5,3.4,0.2941,0.1293,1,0.0,0
+2026-11-24,Cardiff vs Preston,Cian Ashford,To Score,0.5,2.8,0.3571,0.0983,1,0.0,0
+2026-11-24,Cardiff vs Preston,Chris Willock,To score at least 2 goals,1.5,14.0,0.0714,0.0002,0,0.0,0
+2026-11-24,Cardiff vs Preston,Jordan Thompson,To Get a Card,0.5,4.2,0.2381,0.2095,1,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Colwill,To score at least 2 goals,1.5,11.0,0.0909,0.0005,0,0.0,0
+2026-11-24,Cardiff vs Preston,Chris Willock,Player's shots on target,0.5,1.6,0.625,0.0873,0,0.0,0
+2026-11-24,Cardiff vs Preston,Ollie Tanner,Player's shots on target,0.5,1.72,0.5814,0.4057,1,1.0,1
+2026-11-24,Cardiff vs Preston,Léo Leroy,To Get a Card,0.5,3.6,0.2778,0.0612,0,0.0,0
+2026-11-24,Cardiff vs Preston,Andrew Hughes,To give an assist,0.5,7.0,0.1429,0.0159,1,0.0,0
+2026-11-24,Cardiff vs Preston,Callum Lang,Player's shots on target,0.5,1.75,0.5714,0.1307,0,0.0,0
+2026-11-24,Cardiff vs Preston,Calum Scanlon,To give an assist,0.5,6.0,0.1667,0.0101,0,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,Player's shots on target,1.5,1.9,0.5263,0.2708,1,2.0,1
+2026-11-24,Cardiff vs Preston,Joel Bagan,Player's shots on target,0.5,3.4,0.2941,0.1417,1,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,Player's shots on target,2.5,3.4,0.2941,0.0836,1,2.0,0
+2026-11-24,Cardiff vs Preston,Delano Burgzorg,To give an assist,0.5,6.0,0.1667,0.1049,1,0.0,0
+2026-11-24,Cardiff vs Preston,Chris Willock,To Score,0.5,3.1,0.3226,0.0212,0,0.0,0
+2026-11-24,Cardiff vs Preston,Delano Burgzorg,To Get a Card,0.5,3.8,0.2632,0.1421,1,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Bagan,To Get a Card,0.5,4.1,0.2439,0.2366,1,1.0,1
+2026-11-24,Cardiff vs Preston,Cian Ashford,To score at least 2 goals,1.5,11.5,0.087,0.005,1,0.0,0
+2026-11-24,Cardiff vs Preston,Ollie Tanner,To give an assist,0.5,4.2,0.2381,0.1457,1,0.0,0
+2026-11-24,Cardiff vs Preston,Joel Bagan,To Score,0.5,7.0,0.1429,0.0157,1,0.0,0
+2026-11-24,Cardiff vs Preston,Delano Burgzorg,Player's shots on target,0.5,1.82,0.5495,0.3642,1,0.0,0
+2026-11-24,Cardiff vs Preston,Andrija Vukcevic,To Score,0.5,10.5,0.0952,0.0174,0,0.0,0
+2026-11-24,Cardiff vs Preston,Rubin Colwill,To score at least 2 goals,1.5,15.0,0.0667,0.003,1,0.0,0
+2026-11-24,Cardiff vs Preston,Callum Lang,To give an assist,0.5,5.3,0.1887,0.0155,0,0.0,0
+2026-11-24,Cardiff vs Preston,Callum Lang,To Score,0.5,3.8,0.2632,0.0514,0,0.0,0
+2026-11-24,Cardiff vs Preston,Liam Lindsay,To Score,0.5,10.5,0.0952,0.0928,1,0.0,0
+2026-11-24,Cardiff vs Preston,Yousef Salech,To give an assist,0.5,3.3,0.303,0.0766,1,0.0,0
+2026-11-24,Cardiff vs Preston,Thierry Small,To give an assist,0.5,6.0,0.1667,0.0567,1,0.0,0
+2026-11-24,Cardiff vs Preston,Andrew Hughes,To Get a Card,0.5,3.8,0.2632,0.2052,1,0.0,0
+2026-11-24,Cardiff vs Preston,Rubin Colwill,Player's shots on target,0.5,1.67,0.5988,0.371,1,1.0,1
+2026-11-24,Cardiff vs Preston,Chris Willock,To give an assist,0.5,4.5,0.2222,0.0284,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Joe Rankin-Costello,Player's shots on target,0.5,2.9,0.3448,0.2458,1,1.0,1
+2026-11-24,Charlton vs Lincoln,Amari'i Bell,Player's shots on target,0.5,3.8,0.2632,0.0452,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Callum Elder,To Get a Card,0.5,3.4,0.2941,0.0488,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Tyreece Campbell,Player's shots on target,0.5,1.56,0.641,0.3405,1,2.0,1
+2026-11-24,Charlton vs Lincoln,Daniel Oyegoke,Player's shots on target,0.5,3.9,0.2564,0.2195,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Chiedozie Ogbene,To score at least 2 goals,1.5,25.0,0.04,0.0004,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Chiedozie Ogbene,To Score,0.5,4.3,0.2326,0.028,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Charlie Kelman,To Get a Card,0.5,4.0,0.25,0.0186,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Miles Leaburn,Player's shots on target,0.5,1.7,0.5882,0.0794,0,1.0,1
+2026-11-24,Charlton vs Lincoln,Tyler Bindon,To Get a Card,0.5,5.6,0.1786,0.1675,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Karlan Grant,To Get a Card,0.5,4.0,0.25,0.1318,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Daniel Oyegoke,To score at least 2 goals,1.5,91.0,0.011,0.0014,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Miles Leaburn,To Get a Card,0.5,4.5,0.2222,0.0356,0,1.0,1
+2026-11-24,Charlton vs Lincoln,Yunus Konak,To give an assist,0.5,5.5,0.1818,0.0088,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Karlan Grant,To give an assist,0.5,6.0,0.1667,0.056,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Tom Bayliss,To Score,0.5,4.8,0.2083,0.0367,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Dom Jefferies,Player's shots on target,0.5,2.4,0.4167,0.1199,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Amari'i Bell,To Get a Card,0.5,3.7,0.2703,0.0194,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Yunus Konak,Player's shots on target,0.5,2.8,0.3571,0.0593,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Billy Koumetio,Player's shots on target,0.5,3.2,0.3125,0.1314,1,1.0,1
+2026-11-24,Charlton vs Lincoln,Miles Leaburn,To Score,0.5,3.6,0.2778,0.0236,0,1.0,1
+2026-11-24,Charlton vs Lincoln,Dom Jefferies,To Get a Card,0.5,3.6,0.2778,0.0369,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Ben House,To Score,0.5,3.0,0.3333,0.1156,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Karlan Grant,To score at least 2 goals,1.5,16.0,0.0625,0.0095,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Ben House,To Get a Card,0.5,3.6,0.2778,0.2289,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Yunus Konak,To score at least 2 goals,1.5,61.0,0.0164,0.0002,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Harvey Knibbs,To Score,0.5,5.3,0.1887,0.0309,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Freddie Draper,To give an assist,0.5,5.0,0.2,0.0214,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Tyler Bindon,Player's shots on target,0.5,3.6,0.2778,0.1065,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Chiedozie Ogbene,Player's shots on target,0.5,1.95,0.5128,0.0916,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Daniel Oyegoke,To Score,0.5,9.5,0.1053,0.052,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Tom Bayliss,To score at least 2 goals,1.5,35.0,0.0286,0.0007,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Miles Leaburn,To score at least 2 goals,1.5,18.0,0.0556,0.0003,0,1.0,0
+2026-11-24,Charlton vs Lincoln,Conor Coventry,To Get a Card,0.5,3.2,0.3125,0.1955,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Harvey Knibbs,To give an assist,0.5,7.5,0.1333,0.0199,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Adam Reach,To Score,0.5,7.0,0.1429,0.0663,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Tyreece Campbell,To score at least 2 goals,1.5,16.0,0.0625,0.0087,1,1.0,0
+2026-11-24,Charlton vs Lincoln,Charlie Kelman,To score at least 2 goals,1.5,20.0,0.05,0.0012,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Tom Bayliss,To Get a Card,0.5,3.4,0.2941,0.0368,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Billy Koumetio,To score at least 2 goals,1.5,67.0,0.0149,0.0001,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Adam Reach,To Get a Card,0.5,3.4,0.2941,0.0798,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Freddie Draper,To score at least 3 goals,2.5,81.0,0.0123,0.0,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Karlan Grant,To Score,0.5,3.2,0.3125,0.1347,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Dom Jefferies,To Score,0.5,5.75,0.1739,0.0445,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Oliver Skipp,Player's shots on target,0.5,3.7,0.2703,0.0597,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Sonny Carey,To score at least 2 goals,1.5,13.0,0.0769,0.0037,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Tyreece Campbell,To Get a Card,0.5,5.2,0.1923,0.1008,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Dom Jefferies,To give an assist,0.5,6.25,0.16,0.0103,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Andrei Coubis,Player's shots on target,0.5,3.8,0.2632,0.1752,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Ben House,To give an assist,0.5,5.1,0.1961,0.1141,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Charlie Kelman,To Score,0.5,3.8,0.2632,0.0493,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Tyreece Campbell,To Score,0.5,3.3,0.303,0.129,1,1.0,1
+2026-11-24,Charlton vs Lincoln,Yunus Konak,To Score,0.5,6.25,0.16,0.0197,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Tyler Bindon,To Score,0.5,9.0,0.1111,0.0243,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Freddie Draper,Player's shots on target,0.5,1.46,0.6849,0.1214,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Daniel Oyegoke,To Get a Card,0.5,3.7,0.2703,0.1555,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Oliver Skipp,To Score,0.5,9.0,0.1111,0.018,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Billy Koumetio,To Score,0.5,8.0,0.125,0.0155,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Harvey Knibbs,To Get a Card,0.5,4.3,0.2326,0.0522,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Harvey Knibbs,Player's shots on target,0.5,2.3,0.4348,0.0826,0,1.0,1
+2026-11-24,Charlton vs Lincoln,Callum Elder,To Score,0.5,10.0,0.1,0.0184,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Conor Coventry,Player's shots on target,0.5,3.9,0.2564,0.0792,1,1.0,1
+2026-11-24,Charlton vs Lincoln,Freddie Draper,To Score,0.5,3.0,0.3333,0.0374,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Chiedozie Ogbene,To Get a Card,0.5,4.5,0.2222,0.0184,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Oliver Skipp,To Get a Card,0.5,3.6,0.2778,0.0473,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Andrei Coubis,To score at least 2 goals,1.5,91.0,0.011,0.0017,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Andrei Coubis,To Score,0.5,9.0,0.1111,0.0573,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Sonny Carey,To Get a Card,0.5,3.6,0.2778,0.087,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Andrei Coubis,To Get a Card,0.5,3.5,0.2857,0.1299,1,1.0,1
+2026-11-24,Charlton vs Lincoln,Sonny Carey,To Score,0.5,2.9,0.3448,0.0851,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Joe Rankin-Costello,To Score,0.5,7.0,0.1429,0.0791,1,1.0,1
+2026-11-24,Charlton vs Lincoln,Billy Koumetio,To Get a Card,0.5,3.6,0.2778,0.1206,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Chiedozie Ogbene,To give an assist,0.5,4.8,0.2083,0.0125,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Sonny Carey,Player's shots on target,0.5,1.37,0.7299,0.2811,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Freddie Draper,Player's shots on target,1.5,3.0,0.3333,0.0077,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Conor Coventry,To Score,0.5,9.5,0.1053,0.0153,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Joe Rankin-Costello,To score at least 2 goals,1.5,61.0,0.0164,0.0032,1,1.0,0
+2026-11-24,Charlton vs Lincoln,Joe Rankin-Costello,To Get a Card,0.5,3.7,0.2703,0.1791,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Freddie Draper,To score at least 2 goals,1.5,14.0,0.0714,0.0007,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Callum Elder,To score at least 2 goals,1.5,111.0,0.009,0.0002,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Sonny Bradley,To Score,0.5,8.0,0.125,0.0191,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Ben House,To score at least 2 goals,1.5,13.0,0.0769,0.007,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Sonny Carey,To give an assist,0.5,4.9,0.2041,0.0842,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Charlie Kelman,Player's shots on target,0.5,1.65,0.6061,0.1469,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Ben House,Player's shots on target,0.5,1.49,0.6711,0.3532,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Tom Bayliss,To give an assist,0.5,5.8,0.1724,0.0113,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Ben House,Player's shots on target,1.5,3.0,0.3333,0.0714,1,0.0,0
+2026-11-24,Charlton vs Lincoln,Freddie Draper,To Get a Card,0.5,3.8,0.2632,0.055,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Yunus Konak,To Get a Card,0.5,3.3,0.303,0.0393,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Tom Bayliss,Player's shots on target,0.5,2.25,0.4444,0.0816,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Charlie Kelman,To give an assist,0.5,3.3,0.303,0.0134,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Sonny Bradley,To Get a Card,0.5,3.1,0.3226,0.0271,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Callum Elder,Player's shots on target,0.5,4.2,0.2381,0.0546,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Miles Leaburn,To give an assist,0.5,3.2,0.3125,0.0099,0,0.0,0
+2026-11-24,Charlton vs Lincoln,Karlan Grant,Player's shots on target,0.5,1.52,0.6579,0.4042,1,3.0,1
+2026-11-24,Charlton vs Lincoln,Amari'i Bell,To Score,0.5,9.0,0.1111,0.0159,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Kyle Joseph,Player's shots on target,0.5,1.6,0.625,0.1364,0,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Sam Byram,Player's shots on target,0.5,2.65,0.3774,0.0756,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Ashley Phillips,To Get a Card,0.5,5.3,0.1887,0.1445,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adilson Malanda,To Get a Card,0.5,4.7,0.2128,0.1354,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,Player's shots on target,0.5,1.42,0.7042,0.4385,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Aidan Morris,To Score,0.5,6.5,0.1538,0.0781,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,To Get a Card,0.5,5.8,0.1724,0.0321,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,To Get a Card,0.5,4.9,0.2041,0.0249,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sam Byram,To score at least 2 goals,1.5,41.0,0.0244,0.0003,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Melker Widell,To score at least 2 goals,1.5,51.0,0.0196,0.0013,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Filip Lissah,To Get a Card,0.5,3.7,0.2703,0.2215,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Ashley Phillips,To score at least 2 goals,1.5,71.0,0.0141,0.0006,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,To Score,0.5,3.0,0.3333,0.0314,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Aidan Morris,To give an assist,0.5,4.8,0.2083,0.0479,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Riley McGree,To give an assist,0.5,5.0,0.2,0.1314,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adilson Malanda,Player's shots on target,0.5,3.5,0.2857,0.215,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Stephen Eustaquio,To Get a Card,0.5,3.9,0.2564,0.1327,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,Player's shots on target,1.5,3.4,0.2941,0.0088,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Riley McGree,Player's shots on target,0.5,2.0,0.5,0.303,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To give an assist,0.5,4.1,0.2439,0.049,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sebastian Berhalter,To Get a Card,0.5,4.0,0.25,0.0487,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Kyle Joseph,Player's shots on target,1.5,3.5,0.2857,0.0097,0,1.0,0
+2026-11-24,Middlesbrough vs Swansea,Adam Idah,To Get a Card,0.5,4.5,0.2222,0.0717,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,David Strelec,To score at least 2 goals,1.5,11.0,0.0909,0.0219,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Filip Lissah,To Score,0.5,9.5,0.1053,0.0604,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Stephen Welsh,To Get a Card,0.5,4.0,0.25,0.0978,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Neto Borges,Player's shots on target,0.5,3.5,0.2857,0.0961,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To Score,0.5,1.92,0.5208,0.384,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Adilson Malanda,To score at least 2 goals,1.5,71.0,0.0141,0.0021,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Luke Ayling,To score at least 2 goals,1.5,61.0,0.0164,0.0002,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Kyle Joseph,To Score,0.5,3.1,0.3226,0.0308,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,To give an assist,0.5,4.3,0.2326,0.0395,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Elijah Just,To give an assist,0.5,6.0,0.1667,0.1029,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,Player's shots on target,0.5,1.58,0.6329,0.13,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Stephen Eustaquio,Player's shots on target,0.5,4.4,0.2273,0.3207,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adilson Malanda,To Score,0.5,7.5,0.1333,0.0645,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Joseph Opoku,To Get a Card,0.5,3.4,0.2941,0.127,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sebastian Berhalter,Player's shots on target,0.5,2.15,0.4651,0.1221,0,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Stephen Eustaquio,To Score,0.5,11.0,0.0909,0.1309,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,To score at least 2 goals,1.5,12.0,0.0833,0.0005,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,To Get a Card,0.5,5.0,0.2,0.0726,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,To score at least 3 goals,2.5,21.0,0.0476,0.0,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Callum Brittain,To Score,0.5,6.75,0.1481,0.0377,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Melker Widell,To Score,0.5,6.25,0.16,0.0503,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Ashley Phillips,Player's shots on target,0.5,3.5,0.2857,0.1084,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Joseph Opoku,To score at least 2 goals,1.5,34.0,0.0294,0.0216,1,1.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,To score at least 3 goals,2.5,46.0,0.0217,0.0004,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Aidan Morris,To Get a Card,0.5,5.2,0.1923,0.1144,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Kyle Joseph,To give an assist,0.5,3.3,0.303,0.0203,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jenson Seelt,To Score,0.5,10.0,0.1,0.0206,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Melker Widell,Player's shots on target,0.5,2.55,0.3922,0.3817,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,David Strelec,To give an assist,0.5,2.85,0.3509,0.0519,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,To give an assist,0.5,3.8,0.2632,0.0101,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,To give an assist,0.5,3.4,0.2941,0.2186,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Stephen Welsh,To Score,0.5,8.5,0.1176,0.026,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adam Idah,To give an assist,0.5,5.4,0.1852,0.0713,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Melker Widell,To Get a Card,0.5,4.0,0.25,0.1358,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Kyle Joseph,To Get a Card,0.5,6.75,0.1481,0.0303,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Callum Brittain,To score at least 2 goals,1.5,61.0,0.0164,0.0007,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Callum Brittain,Player's shots on target,0.5,3.3,0.303,0.2335,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,Player's shots on target,0.5,1.2,0.8333,0.1264,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Luke Ayling,Player's shots on target,0.5,3.2,0.3125,0.0669,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,David Strelec,Player's shots on target,0.5,1.47,0.6803,0.4516,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sam Byram,To Get a Card,0.5,4.2,0.2381,0.0375,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adam Idah,Player's shots on target,0.5,1.65,0.6061,0.5033,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sam Byram,To give an assist,0.5,6.75,0.1481,0.0116,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adam Idah,Player's shots on target,1.5,3.7,0.2703,0.1558,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Neto Borges,To Get a Card,0.5,4.8,0.2083,0.1435,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To Get a Card,0.5,5.5,0.1818,0.103,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Neto Borges,To Score,0.5,7.5,0.1333,0.0421,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,Player's shots on target,1.5,2.75,0.3636,0.1145,1,1.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,Player's shots on target,1.5,1.76,0.5682,0.2731,1,1.0,0
+2026-11-24,Middlesbrough vs Swansea,Adam Idah,To score at least 2 goals,1.5,16.0,0.0625,0.0279,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Adam Idah,To Score,0.5,3.4,0.2941,0.2269,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Aidan Morris,To score at least 2 goals,1.5,61.0,0.0164,0.0031,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,David Strelec,To Get a Card,0.5,7.5,0.1333,0.0731,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Ashley Phillips,To Score,0.5,7.5,0.1333,0.0335,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Elijah Just,To Get a Card,0.5,5.75,0.1739,0.1548,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Joseph Opoku,Player's shots on target,0.5,2.05,0.4878,0.463,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Joseph Opoku,To give an assist,0.5,5.0,0.2,0.1364,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Luke Ayling,To Get a Card,0.5,4.2,0.2381,0.0333,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Kyle Joseph,To score at least 2 goals,1.5,14.0,0.0714,0.0005,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jay Fulton,Player's shots on target,0.5,4.6,0.2174,0.0614,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jenson Seelt,To Get a Card,0.5,3.7,0.2703,0.0205,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,To score at least 2 goals,1.5,6.0,0.1667,0.0014,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Joseph Opoku,To Score,0.5,4.7,0.2128,0.2004,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Sebastian Berhalter,To give an assist,0.5,3.9,0.2564,0.0448,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,To score at least 2 goals,1.5,10.0,0.1,0.0093,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,To Score,0.5,2.65,0.3774,0.1329,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,Player's shots on target,1.5,1.95,0.5128,0.0083,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Callum Brittain,To Get a Card,0.5,5.0,0.2,0.146,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Aidan Morris,Player's shots on target,0.5,2.95,0.339,0.3305,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To score at least 2 goals,1.5,5.0,0.2,0.0856,1,1.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To score at least 3 goals,2.5,17.0,0.0588,0.0132,1,1.0,0
+2026-11-24,Middlesbrough vs Swansea,David Strelec,Player's shots on target,1.5,3.0,0.3333,0.1222,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Tommy Conway,To Score,0.5,2.07,0.4831,0.0524,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Riley McGree,To Score,0.5,4.0,0.25,0.0909,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,David Strelec,To Score,0.5,2.75,0.3636,0.2017,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Riley McGree,To Get a Card,0.5,5.75,0.1739,0.1718,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jay Fulton,To Get a Card,0.5,3.9,0.2564,0.0507,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Elijah Just,Player's shots on target,0.5,2.05,0.4878,0.3926,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sebastian Berhalter,To Score,0.5,4.6,0.2174,0.0518,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Luke Ayling,To Score,0.5,6.75,0.1481,0.0176,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Jay Fulton,To Score,0.5,11.0,0.0909,0.0193,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,Player's shots on target,0.5,1.16,0.8621,0.6409,1,1.0,1
+2026-11-24,Middlesbrough vs Swansea,Sam Byram,To Score,0.5,5.5,0.1818,0.0252,0,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Elijah Just,To Score,0.5,4.5,0.2222,0.1255,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Neto Borges,To give an assist,0.5,5.6,0.1786,0.03,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,Player's shots on target,0.5,2.55,0.3922,0.3518,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,Player's shots on target,0.5,1.46,0.6849,0.2064,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,Player's shots on target,1.5,2.9,0.3448,0.0229,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Abu Kamara,To give an assist,0.5,5.2,0.1923,0.0138,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,To give an assist,0.5,3.3,0.303,0.1124,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Morato,To Get a Card,0.5,3.5,0.2857,0.0415,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Konstantinos Mavropanos,To Get a Card,0.5,3.8,0.2632,0.1442,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,Player's shots on target,0.5,1.9,0.5263,0.1135,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,To score at least 2 goals,1.5,11.0,0.0909,0.0012,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,To score at least 2 goals,1.5,36.0,0.0278,0.01,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Marlon Pack,Player's shots on target,0.5,4.5,0.2222,0.0711,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Zak Swanson,Player's shots on target,0.5,4.3,0.2326,0.1895,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Tyrese Shade,To Get a Card,0.5,5.1,0.1961,0.0917,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Madiodio Dia,To Get a Card,0.5,4.5,0.2222,0.1146,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To score at least 2 goals,1.5,20.0,0.05,0.0011,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,To score at least 2 goals,1.5,81.0,0.0123,0.0017,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Arne Engels,To give an assist,0.5,5.6,0.1786,0.1485,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To Get a Card,0.5,4.7,0.2128,0.0224,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Tyrese Shade,Player's shots on target,0.5,1.9,0.5263,0.3263,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,Player's shots on target,0.5,1.33,0.7519,0.5321,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,To Get a Card,0.5,4.7,0.2128,0.1736,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Madiodio Dia,To Score,0.5,11.0,0.0909,0.019,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,Player's shots on target,1.5,4.2,0.2381,0.0874,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Regan Poole,To Get a Card,0.5,3.8,0.2632,0.1545,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Manor Solomon,To give an assist,0.5,4.5,0.2222,0.1229,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To score at least 2 goals,1.5,19.0,0.0526,0.0013,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Veltman,Player's shots on target,0.5,4.2,0.2381,0.1011,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Regan Poole,To Score,0.5,11.0,0.0909,0.0164,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Terry Devlin,To Score,0.5,9.0,0.1111,0.1429,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Manor Solomon,Player's shots on target,0.5,1.8,0.5556,0.3109,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Abu Kamara,Player's shots on target,0.5,1.88,0.5319,0.0804,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Tyrese Shade,To give an assist,0.5,5.5,0.1818,0.0852,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Marlon Pack,To Get a Card,0.5,4.0,0.25,0.0449,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,Player's shots on target,1.5,2.45,0.4082,0.1767,1,1.0,0
+2026-11-24,Portsmouth vs West Ham,Arne Engels,To Get a Card,0.5,3.5,0.2857,0.184,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Veltman,To Get a Card,0.5,3.6,0.2778,0.1864,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,To give an assist,0.5,3.5,0.2857,0.2572,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Marlon Pack,To Score,0.5,11.0,0.0909,0.0196,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To give an assist,0.5,4.2,0.2381,0.0223,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Morato,To Score,0.5,9.5,0.1053,0.0219,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,Player's shots on target,0.5,3.4,0.2941,0.1718,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,Player's shots on target,0.5,1.63,0.6135,0.1076,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Tyrese Shade,To Score,0.5,4.2,0.2381,0.1086,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To give an assist,0.5,5.0,0.2,0.011,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Terry Devlin,To Get a Card,0.5,4.3,0.2326,0.1713,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Regan Poole,Player's shots on target,0.5,4.3,0.2326,0.1424,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Abu Kamara,To Score,0.5,4.3,0.2326,0.0211,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,To score at least 3 goals,2.5,71.0,0.0141,0.0017,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Arne Engels,To Score,0.5,4.2,0.2381,0.1131,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Arne Engels,To score at least 2 goals,1.5,25.0,0.04,0.0066,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Manor Solomon,To Get a Card,0.5,4.0,0.25,0.1136,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ezra Mayers,To Score,0.5,9.0,0.1111,0.025,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,To Score,0.5,3.9,0.2564,0.0833,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Zak Swanson,To Score,0.5,11.5,0.087,0.079,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Konstantinos Mavropanos,Player's shots on target,0.5,2.8,0.3571,0.3093,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Abu Kamara,To Get a Card,0.5,6.0,0.1667,0.027,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,To Get a Card,0.5,4.5,0.2222,0.0815,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,Player's shots on target,0.5,1.75,0.5714,0.3879,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,Player's shots on target,1.5,3.6,0.2778,0.1461,1,1.0,0
+2026-11-24,Portsmouth vs West Ham,Konstantinos Mavropanos,To score at least 2 goals,1.5,46.0,0.0217,0.016,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,To Get a Card,0.5,4.6,0.2174,0.1119,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To score at least 2 goals,1.5,46.0,0.0217,0.0003,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,To Score,0.5,3.1,0.3226,0.2044,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To Score,0.5,5.75,0.1739,0.0254,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,To score at least 2 goals,1.5,14.0,0.0714,0.0225,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Odin Bailey,To score at least 2 goals,1.5,61.0,0.0164,0.0024,1,1.0,0
+2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,Player's shots on target,0.5,2.7,0.3704,0.0695,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Manor Solomon,To Score,0.5,3.5,0.2857,0.1207,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Manor Solomon,To score at least 2 goals,1.5,18.0,0.0556,0.0076,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,To Score,0.5,2.75,0.3636,0.0477,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,To score at least 2 goals,1.5,8.5,0.1176,0.0263,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,To Score,0.5,2.4,0.4167,0.2205,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,To Get a Card,0.5,5.0,0.2,0.156,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,To give an assist,0.5,5.75,0.1739,0.1157,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,To Score,0.5,8.5,0.1176,0.0577,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Arne Engels,Player's shots on target,0.5,2.1,0.4762,0.3104,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Madiodio Dia,Player's shots on target,0.5,4.5,0.2222,0.0738,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Odin Bailey,Player's shots on target,0.5,2.6,0.3846,0.2607,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To Score,0.5,3.8,0.2632,0.0475,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Max Kilman,To Score,0.5,9.5,0.1053,0.0648,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Zak Swanson,To Get a Card,0.5,4.1,0.2439,0.1432,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,Player's shots on target,0.5,1.63,0.6135,0.4892,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Konstantinos Mavropanos,To Score,0.5,5.5,0.1818,0.1733,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Max Kilman,To Get a Card,0.5,4.0,0.25,0.2172,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To Get a Card,0.5,3.3,0.303,0.0496,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To give an assist,0.5,5.75,0.1739,0.0231,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Abu Kamara,To score at least 2 goals,1.5,30.0,0.0333,0.0002,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,To Get a Card,0.5,3.15,0.3175,0.0581,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To Score,0.5,3.7,0.2703,0.0501,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Odin Bailey,To Get a Card,0.5,4.3,0.2326,0.1013,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,To give an assist,0.5,5.2,0.1923,0.1189,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,To Score,0.5,5.3,0.1887,0.1379,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To Get a Card,0.5,4.3,0.2326,0.0292,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ezra Mayers,Player's shots on target,0.5,4.0,0.25,0.0873,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,Player's shots on target,1.5,3.6,0.2778,0.006,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Morato,Player's shots on target,0.5,4.3,0.2326,0.0561,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ezra Mayers,To Get a Card,0.5,3.8,0.2632,0.1648,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,To Get a Card,0.5,3.0,0.3333,0.1599,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,To give an assist,0.5,5.0,0.2,0.0393,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Max Kilman,Player's shots on target,0.5,4.4,0.2273,0.1533,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Odin Bailey,To Score,0.5,6.25,0.16,0.0692,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Terry Devlin,Player's shots on target,0.5,3.6,0.2778,0.2182,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Veltman,To Score,0.5,9.0,0.1111,0.0268,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Hamza Choudhury,To Get a Card,0.5,4.5,0.2222,0.216,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Patrick Bamford,To give an assist,0.5,4.0,0.25,0.0264,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Romelle Donovan,To Get a Card,0.5,3.4,0.2941,0.1469,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Kalvin Phillips,To Get a Card,0.5,3.4,0.2941,0.0678,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jordan Ayew,To Get a Card,0.5,3.9,0.2564,0.1118,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Liam Kitching,To Score,0.5,10.0,0.1,0.023,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,Player's shots on target,1.5,2.7,0.3704,0.1147,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Oliver Arblaster,To Get a Card,0.5,3.4,0.2941,0.1333,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Patrick Bamford,To score at least 2 goals,1.5,11.0,0.0909,0.0033,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,To score at least 3 goals,2.5,51.0,0.0196,0.0013,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Cameron Bragg,To score at least 2 goals,1.5,41.0,0.0244,0.0044,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kuryu Matsuki,To score at least 2 goals,1.5,14.0,0.0714,0.0193,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Patrick Bamford,Player's shots on target,1.5,2.8,0.3571,0.0156,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Ryan Manning,To give an assist,0.5,5.8,0.1724,0.0384,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Cameron Bragg,To give an assist,0.5,6.5,0.1538,0.0702,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Tahith Chong,To score at least 2 goals,1.5,41.0,0.0244,0.0032,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Mark McGuinness,To Score,0.5,10.0,0.1,0.026,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Samuel Edozie,To Score,0.5,3.5,0.2857,0.0356,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Patrick Bamford,To Get a Card,0.5,4.1,0.2439,0.0278,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Mark McGuinness,Player's shots on target,0.5,4.4,0.2273,0.1464,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Ryan Manning,To Score,0.5,5.2,0.1923,0.0318,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,To Get a Card,0.5,4.5,0.2222,0.1208,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kuryu Matsuki,To give an assist,0.5,5.0,0.2,0.077,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Bree,Player's shots on target,0.5,3.6,0.2778,0.0721,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Ryan Manning,Player's shots on target,0.5,2.45,0.4082,0.0817,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,To give an assist,0.5,5.0,0.2,0.0581,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jordan Ayew,Player's shots on target,1.5,3.0,0.3333,0.123,1,1.0,0
+2026-11-24,Sheffield United vs Southampton,Romelle Donovan,To give an assist,0.5,4.7,0.2128,0.1622,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Harrison Burrows,To give an assist,0.5,5.5,0.1818,0.0868,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jairo Riedewald,To score at least 2 goals,1.5,101.0,0.0099,0.0003,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Hamza Choudhury,To score at least 2 goals,1.5,111.0,0.009,0.0001,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Liam Kitching,To score at least 2 goals,1.5,91.0,0.011,0.0003,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Oliver Arblaster,To score at least 2 goals,1.5,46.0,0.0217,0.0041,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jairo Riedewald,To Get a Card,0.5,3.5,0.2857,0.0259,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Hamza Choudhury,To Score,0.5,9.5,0.1053,0.0154,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,To Get a Card,0.5,4.2,0.2381,0.0832,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Hamza Choudhury,Player's shots on target,0.5,4.5,0.2222,0.0562,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Oliver Arblaster,Player's shots on target,0.5,2.55,0.3922,0.211,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Patrick Bamford,Player's shots on target,0.5,1.45,0.6897,0.1713,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Ryan Manning,To score at least 2 goals,1.5,36.0,0.0278,0.0005,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Flynn Downes,To Get a Card,0.5,3.1,0.3226,0.2273,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Flynn Downes,To Score,0.5,9.0,0.1111,0.0689,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,To give an assist,0.5,5.3,0.1887,0.0733,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jairo Riedewald,Player's shots on target,0.5,4.0,0.25,0.0689,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jack Stephens,To score at least 2 goals,1.5,101.0,0.0099,0.0002,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Harrison Burrows,To Score,0.5,4.8,0.2083,0.0775,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Sydie Peck,To Score,0.5,4.0,0.25,0.1986,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Harrison Burrows,To score at least 2 goals,1.5,34.0,0.0294,0.0031,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kuryu Matsuki,Player's shots on target,0.5,1.6,0.625,0.3636,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,To Score,0.5,2.7,0.3704,0.1898,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Romelle Donovan,To Score,0.5,3.8,0.2632,0.0786,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Sydie Peck,To Get a Card,0.5,3.2,0.3125,0.1588,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Finn Azaz,To score at least 2 goals,1.5,15.0,0.0667,0.0009,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,To score at least 2 goals,1.5,11.0,0.0909,0.0193,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Finn Azaz,Player's shots on target,0.5,1.62,0.6173,0.1544,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jordan Ayew,To give an assist,0.5,4.0,0.25,0.0563,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,James Bree,To Score,0.5,8.0,0.125,0.0326,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jordan Ayew,To score at least 2 goals,1.5,12.5,0.08,0.0211,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Finn Azaz,To give an assist,0.5,4.2,0.2381,0.0496,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Samuel Edozie,Player's shots on target,0.5,1.72,0.5814,0.1165,0,1.0,1
+2026-11-24,Sheffield United vs Southampton,Flynn Downes,To score at least 2 goals,1.5,101.0,0.0099,0.0024,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jordan Ayew,Player's shots on target,0.5,1.48,0.6757,0.453,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Tahith Chong,To give an assist,0.5,6.25,0.16,0.118,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kalvin Phillips,Player's shots on target,0.5,2.4,0.4167,0.0814,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jack Stephens,To Score,0.5,9.0,0.1111,0.0193,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Sydie Peck,To score at least 2 goals,1.5,23.0,0.0435,0.0212,1,1.0,0
+2026-11-24,Sheffield United vs Southampton,Ryan Manning,To Get a Card,0.5,3.6,0.2778,0.0365,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Cameron Bragg,Player's shots on target,0.5,2.65,0.3774,0.2134,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Sydie Peck,Player's shots on target,0.5,1.98,0.5051,0.4676,1,2.0,1
+2026-11-24,Sheffield United vs Southampton,Thomas Cannon,Player's shots on target,0.5,1.4,0.7143,0.4389,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kalvin Phillips,To score at least 2 goals,1.5,36.0,0.0278,0.0004,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Tahith Chong,To Get a Card,0.5,4.5,0.2222,0.1202,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Cameron Bragg,To Score,0.5,5.5,0.1818,0.0919,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,Player's shots on target,0.5,2.85,0.3509,0.2703,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Cameron Bragg,To Get a Card,0.5,3.7,0.2703,0.2106,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Liam Kitching,Player's shots on target,0.5,4.6,0.2174,0.1827,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Sydie Peck,To give an assist,0.5,5.3,0.1887,0.1025,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Bree,To Get a Card,0.5,3.6,0.2778,0.0298,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Harrison Burrows,Player's shots on target,0.5,2.35,0.4255,0.2146,1,2.0,1
+2026-11-24,Sheffield United vs Southampton,Liam Kitching,To Get a Card,0.5,3.5,0.2857,0.2489,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Jack Stephens,To Get a Card,0.5,3.2,0.3125,0.0231,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Tahith Chong,Player's shots on target,0.5,2.6,0.3846,0.2817,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,Samuel Edozie,To score at least 2 goals,1.5,17.0,0.0588,0.0006,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kuryu Matsuki,To Score,0.5,3.1,0.3226,0.1901,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Tahith Chong,To Score,0.5,5.5,0.1818,0.0783,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kalvin Phillips,To Score,0.5,5.0,0.2,0.0268,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jordan Ayew,To Score,0.5,2.9,0.3448,0.1983,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,To score at least 2 goals,1.5,56.0,0.0179,0.0027,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Romelle Donovan,To score at least 2 goals,1.5,20.0,0.05,0.0032,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Harrison Burrows,To Get a Card,0.5,4.3,0.2326,0.1273,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,To Score,0.5,6.25,0.16,0.0731,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Finn Azaz,To Score,0.5,3.2,0.3125,0.0428,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jairo Riedewald,To Score,0.5,9.0,0.1111,0.0255,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Patrick Bamford,To Score,0.5,2.8,0.3571,0.0798,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Jack Stephens,Player's shots on target,0.5,4.1,0.2439,0.0578,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Finn Azaz,To Get a Card,0.5,3.8,0.2632,0.034,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kuryu Matsuki,Player's shots on target,1.5,3.6,0.2778,0.076,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Romelle Donovan,Player's shots on target,0.5,1.88,0.5319,0.3514,1,1.0,1
+2026-11-24,Sheffield United vs Southampton,James Bree,To score at least 2 goals,1.5,81.0,0.0123,0.0005,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Mark McGuinness,To Get a Card,0.5,3.9,0.2564,0.1333,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Samuel Edozie,To Get a Card,0.5,3.7,0.2703,0.0196,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Oliver Arblaster,To Score,0.5,5.4,0.1852,0.0889,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Oliver Arblaster,To give an assist,0.5,6.5,0.1538,0.0562,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Flynn Downes,Player's shots on target,0.5,4.0,0.25,0.1663,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kalvin Phillips,To give an assist,0.5,5.8,0.1724,0.0228,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kuryu Matsuki,To Get a Card,0.5,3.6,0.2778,0.109,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Samuel Edozie,To give an assist,0.5,4.2,0.2381,0.0284,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Bevan,To score at least 2 goals,1.5,20.0,0.05,0.0075,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Nicky Cadden,To Get a Card,0.5,4.5,0.2222,0.1266,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Wright,To Score,0.5,8.0,0.125,0.0613,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Ethan Hamilton,To Score,0.5,9.0,0.1111,0.0493,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Imari Samuels,To Score,0.5,9.0,0.1111,0.0164,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Bradley Fink,To Score,0.5,3.2,0.3125,0.0535,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Bevan,Player's shots on target,0.5,1.77,0.565,0.3252,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Bradley Fink,To score at least 3 goals,2.5,76.0,0.0132,0.0,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Marko Ivezic,To Get a Card,0.5,4.5,0.2222,0.2193,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jack Iredale,To Score,0.5,6.25,0.16,0.0173,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Ashley Hay,To score at least 2 goals,1.5,18.0,0.0556,0.0306,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Alan Forrest,To give an assist,0.5,6.75,0.1481,0.0246,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Callum Jones,To Score,0.5,7.5,0.1333,0.0302,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Callum Jones,To score at least 2 goals,1.5,71.0,0.0141,0.0005,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Marko Ivezic,Player's shots on target,0.5,2.9,0.3448,0.0915,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Alan Forrest,To Get a Card,0.5,4.1,0.2439,0.0186,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Martin Boyle,To Score,0.5,2.4,0.4167,0.1944,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Joe Wright,Player's shots on target,0.5,3.4,0.2941,0.185,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,Player's shots on target,2.5,4.4,0.2273,0.0194,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Nicky Cadden,To score at least 2 goals,1.5,25.0,0.04,0.0023,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Jamie McGrath,To Get a Card,0.5,4.2,0.2381,0.1515,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Jack Iredale,Player's shots on target,0.5,2.8,0.3571,0.0497,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Jason Kerr,To score at least 2 goals,1.5,41.0,0.0244,0.0002,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Ashley Hay,Player's shots on target,0.5,1.7,0.5882,0.5126,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,To Get a Card,0.5,4.5,0.2222,0.1088,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Bradley Fink,To Get a Card,0.5,3.9,0.2564,0.0282,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Callum Jones,To Get a Card,0.5,3.4,0.2941,0.0203,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Callum Jones,Player's shots on target,0.5,3.0,0.3333,0.0747,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Ryan Astley,To Get a Card,0.5,3.2,0.3125,0.0925,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Ethan Hamilton,To Get a Card,0.5,2.8,0.3571,0.2117,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Bradley Fink,To give an assist,0.5,6.25,0.16,0.0115,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,To give an assist,0.5,4.8,0.2083,0.0448,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jason Kerr,To Score,0.5,5.5,0.1818,0.0196,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jason Kerr,To Get a Card,0.5,3.9,0.2564,0.0905,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Bradley Fink,Player's shots on target,1.5,3.6,0.2778,0.0078,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Martin Boyle,Player's shots on target,1.5,2.23,0.4484,0.1033,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Ethan Hamilton,To give an assist,0.5,7.0,0.1429,0.0874,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Bevan,To Get a Card,0.5,3.5,0.2857,0.1032,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jamie McGrath,Player's shots on target,0.5,1.45,0.6897,0.3473,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Martin Boyle,Player's shots on target,2.5,4.4,0.2273,0.0178,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Josh Mulligan,To score at least 2 goals,1.5,23.0,0.0435,0.0012,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Ashley Hay,Player's shots on target,1.5,4.0,0.25,0.1623,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,To Score,0.5,2.35,0.4255,0.1587,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Alan Forrest,Player's shots on target,0.5,2.7,0.3704,0.0873,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Ethan Hamilton,Player's shots on target,0.5,3.8,0.2632,0.3192,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Josh Mulligan,To Get a Card,0.5,3.8,0.2632,0.1968,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Drey Wright,To give an assist,0.5,7.0,0.1429,0.0158,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Imari Samuels,Player's shots on target,0.5,3.7,0.2703,0.058,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Ashley Hay,To give an assist,0.5,6.25,0.16,0.0407,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Miguel Chaiwa,To give an assist,0.5,5.1,0.1961,0.0605,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Bradley Fink,Player's shots on target,0.5,1.6,0.625,0.122,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Martin Boyle,To Get a Card,0.5,4.3,0.2326,0.156,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Miguel Chaiwa,Player's shots on target,0.5,2.05,0.4878,0.1872,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Wright,To Get a Card,0.5,3.5,0.2857,0.149,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Ashley Hay,To Get a Card,0.5,5.4,0.1852,0.1255,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Drey Wright,Player's shots on target,0.5,3.3,0.303,0.0654,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Nicky Cadden,Player's shots on target,0.5,2.05,0.4878,0.1934,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Joe Newell,To give an assist,0.5,4.9,0.2041,0.1216,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Martin Boyle,Player's shots on target,0.5,1.22,0.8197,0.4187,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Nicky Cadden,To give an assist,0.5,4.2,0.2381,0.1023,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Marko Ivezic,To give an assist,0.5,6.0,0.1667,0.026,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,Player's shots on target,0.5,1.21,0.8264,0.429,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,Player's shots on target,1.5,2.2,0.4545,0.109,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Alan Forrest,To Score,0.5,6.0,0.1667,0.0193,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Ryan Astley,Player's shots on target,0.5,4.5,0.2222,0.1782,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Bevan,To Score,0.5,3.8,0.2632,0.1196,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Ryan Astley,To Score,0.5,10.5,0.0952,0.0382,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Drey Wright,To Score,0.5,8.0,0.125,0.0252,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Jamie McGrath,To Score,0.5,2.9,0.3448,0.1338,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Marko Ivezic,To Score,0.5,6.25,0.16,0.0467,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jamie McGrath,To give an assist,0.5,4.0,0.25,0.0809,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Martin Boyle,To score at least 2 goals,1.5,8.0,0.125,0.0203,1,1.0,0
+2026-11-24,Hibernian vs Dundee,Josh Mulligan,Player's shots on target,0.5,1.95,0.5128,0.3116,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Thibault Klidje,To score at least 2 goals,1.5,8.0,0.125,0.0133,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Josh Mulligan,To Score,0.5,4.0,0.25,0.0477,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Nicky Cadden,To Score,0.5,4.3,0.2326,0.0672,1,1.0,1
+2026-11-24,Hibernian vs Dundee,Martin Boyle,To give an assist,0.5,4.6,0.2174,0.0892,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jason Kerr,Player's shots on target,0.5,2.55,0.3922,0.1507,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Bevan,To give an assist,0.5,5.6,0.1786,0.0751,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Newell,To Get a Card,0.5,4.5,0.2222,0.1324,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Alan Forrest,To score at least 2 goals,1.5,51.0,0.0196,0.0002,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Bevan,Player's shots on target,1.5,4.3,0.2326,0.0598,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Newell,To score at least 2 goals,1.5,17.0,0.0588,0.0034,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Bradley Fink,To score at least 2 goals,1.5,15.0,0.0667,0.0015,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Josh Mulligan,To give an assist,0.5,3.0,0.3333,0.1132,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Newell,To Score,0.5,3.3,0.303,0.0809,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Miguel Chaiwa,To Score,0.5,4.2,0.2381,0.0489,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jack Iredale,To Get a Card,0.5,3.8,0.2632,0.0302,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Ashley Hay,To Score,0.5,3.6,0.2778,0.2368,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Imari Samuels,To Get a Card,0.5,3.5,0.2857,0.115,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Drey Wright,To Get a Card,0.5,3.6,0.2778,0.029,0,0.0,0
+2026-11-24,Hibernian vs Dundee,Miguel Chaiwa,To Get a Card,0.5,3.5,0.2857,0.177,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Joe Newell,Player's shots on target,0.5,1.66,0.6024,0.2448,1,0.0,0
+2026-11-24,Hibernian vs Dundee,Jamie McGrath,To score at least 2 goals,1.5,12.5,0.08,0.0094,1,0.0,0
