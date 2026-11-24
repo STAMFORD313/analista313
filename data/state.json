@@ -1170,17 +1170,6 @@
   "cbb|2026-11-25|Washington Huskies|Clemson Tigers",
   "cbb|2026-11-24|Arizona Wildcats|Providence Friars",
   "cbb|2026-11-25|Colorado State Rams|VCU Rams",
-  "fc|2386537",
-  "fc|2386536",
-  "fc|2385837",
-  "fc|2386191",
-  "fc|2386192",
-  "cs2|134474",
-  "dota2|134134",
-  "fc|2385841",
-  "fc|2385838",
-  "fc|2386193",
-  "fc|2385847",
   "fc|2388589",
   "fc|2385848",
   "cs2|134189",
@@ -2180,7 +2169,10 @@
   "cs2|134381",
   "fc|2397005",
   "fc|2396410",
-  "fc|2396332"
+  "fc|2396332",
+  "fc|2396340",
+  "fc|2397011",
+  "fc|2396415"
  ],
  "signals": [
   {
@@ -5678,56 +5670,6 @@
    "logged": true
   },
   {
-   "market": "t1",
-   "team_id": 18539,
-   "pick": "Nuclear TigeRES",
-   "odds": 1.75,
-   "book": "Thunderpick",
-   "p": 0.586,
-   "implied": 0.527,
-   "edge": 0.026,
-   "key": "cs2|133870",
-   "match": "Nuclear TigeRES vs Hype Tech",
-   "start": "2026-11-21T09:00:00+00:00",
-   "league": "🎮 CS2 · NODWIN Clutch Series 14",
-   "sport": "🎮",
-   "context": "CS2 Nuclear TigeRES vs Hype Tech, BO3, torneo NODWIN Clutch Series 14 nivel b. Elo por mapa 1861 vs 1694 (prob. mapa 65%, serie 65%). Forma ❌✅❌❌❌ / ✅❌❌✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.75/1.95.",
-   "captured": "2026-11-19T21:04",
-   "version": "18a1ece",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-0",
-   "result": true,
-   "close_p": 0.4681,
-   "logged": true
-  },
-  {
-   "market": "AHH",
-   "line": -1.5,
-   "pick": "Nuclear TigeRES -1.5 mapas",
-   "odds": 3.2,
-   "book": "Thunderpick",
-   "p": 0.385,
-   "implied": 0.289,
-   "edge": 0.232,
-   "key": "cs2|133870",
-   "match": "Nuclear TigeRES vs Hype Tech",
-   "start": "2026-11-21T09:00:00+00:00",
-   "league": "🎮 CS2 · NODWIN Clutch Series 14",
-   "sport": "🎮",
-   "context": "CS2 Nuclear TigeRES vs Hype Tech, BO3, torneo NODWIN Clutch Series 14 nivel b. Elo por mapa 1861 vs 1694 (prob. mapa 65%, serie 65%). Forma ❌✅❌❌❌ / ✅❌❌✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.75/1.95.",
-   "captured": "2026-11-19T21:04",
-   "version": "18a1ece",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-0",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "t2",
    "team_id": 15038,
    "pick": "1w Team",
@@ -6846,7 +6788,11 @@
    "version": "04002f6",
    "bajas": "Tromso: sin bajas; Viking: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-2",
+   "clv": 0.033,
+   "logged": true
   },
   {
    "market": "H",
@@ -6866,7 +6812,11 @@
    "version": "04002f6",
    "bajas": "Cracovia: sin bajas; Jagiellonia: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": -0.004,
+   "logged": true
   },
   {
    "market": "A",
@@ -6886,7 +6836,11 @@
    "version": "04002f6",
    "bajas": "AIK: sin bajas; Degerfors: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.034,
+   "logged": true
   },
   {
    "market": "H",
@@ -6906,7 +6860,11 @@
    "version": "04002f6",
    "bajas": "Mjallby: sin bajas; Malmo FF: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.083,
+   "logged": true
   },
   {
    "market": "H",
@@ -6926,7 +6884,11 @@
    "version": "04002f6",
    "bajas": "HamKam: sin bajas; Fredrikstad: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.078,
+   "logged": true
   },
   {
    "market": "H",
@@ -6946,7 +6908,11 @@
    "version": "04002f6",
    "bajas": "LASK: sin bajas; Hartberg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": 0.015,
+   "logged": true
   },
   {
    "market": "H",
@@ -6966,7 +6932,11 @@
    "version": "04002f6",
    "bajas": "Tirol: sin bajas; A. Lustenau: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "D",
@@ -6986,7 +6956,11 @@
    "version": "04002f6",
    "bajas": "Zaglebie: sin bajas; Gornik Zabrze: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "clv": -0.017,
+   "logged": true
   },
   {
    "market": "H",
@@ -7006,7 +6980,11 @@
    "version": "04002f6",
    "bajas": "GAIS: sin bajas; Vasteras SK: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": -0.142,
+   "logged": true
   },
   {
    "market": "H",
@@ -7026,7 +7004,11 @@
    "version": "04002f6",
    "bajas": "Valerenga: sin bajas; Start: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.034,
+   "logged": true
   },
   {
    "market": "H",
@@ -7046,7 +7028,11 @@
    "version": "04002f6",
    "bajas": "Lugano: sin bajas; Grasshoppers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": 0.038,
+   "logged": true
   },
   {
    "market": "H",
@@ -7066,7 +7052,11 @@
    "version": "04002f6",
    "bajas": "Young Boys: sin bajas; Thun: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-2",
+   "clv": 0.053,
+   "logged": true
   },
   {
    "market": "D",
@@ -7086,7 +7076,11 @@
    "version": "04002f6",
    "bajas": "Defensa y Justicia: sin bajas; Barracas Central: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": -0.056,
+   "logged": true
   },
   {
    "market": "A",
@@ -7106,7 +7100,11 @@
    "version": "04002f6",
    "bajas": "Grazer AK: sin bajas; SK Rapid: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-3",
+   "clv": 0.051,
+   "logged": true
   },
   {
    "market": "H",
@@ -7126,7 +7124,11 @@
    "version": "04002f6",
    "bajas": "New England Revolution: sin bajas; Philadelphia Union: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.061,
+   "logged": true
   },
   {
    "market": "A",
@@ -7146,7 +7148,11 @@
    "version": "04002f6",
    "bajas": "Radomiak Radom: sin bajas; Wisla: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.051,
+   "logged": true
   },
   {
    "market": "A",
@@ -7166,7 +7172,11 @@
    "version": "04002f6",
    "bajas": "Palmeiras: 1 fuera, 1 duda (Jefte); Flamengo RJ: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": -0.217,
+   "logged": true
   },
   {
    "market": "H",
@@ -7186,7 +7196,11 @@
    "version": "04002f6",
    "bajas": "Sion: sin bajas; Servette: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.089,
+   "logged": true
   },
   {
    "market": "H",
@@ -7206,7 +7220,11 @@
    "version": "04002f6",
    "bajas": "Argentinos Jrs: sin bajas; Independiente: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": -0.046,
+   "logged": true
   },
   {
    "market": "H",
@@ -7226,7 +7244,11 @@
    "version": "04002f6",
    "bajas": "Bahia: 0 fuera, 1 duda; Coritiba: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": 0.063,
+   "logged": true
   },
   {
    "market": "H",
@@ -7246,7 +7268,11 @@
    "version": "04002f6",
    "bajas": "FC Dallas: 2 fuera, 1 duda (Petar Musa, Ramiro); Portland Timbers: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-0",
+   "clv": 0.066,
+   "logged": true
   },
   {
    "market": "A",
@@ -7266,7 +7292,11 @@
    "version": "04002f6",
    "bajas": "Pachuca: sin bajas; Toluca: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "clv": 0.004,
+   "logged": true
   },
   {
    "market": "A",
@@ -7286,7 +7316,11 @@
    "version": "04002f6",
    "bajas": "Santos Laguna: 1 fuera, 0 duda (Bruno Amione); Club Leon: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": -0.073,
+   "logged": true
   },
   {
    "market": "H",
@@ -7306,7 +7340,11 @@
    "version": "04002f6",
    "bajas": "Inter Miami: 0 fuera, 2 duda; Columbus Crew: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-3",
+   "clv": 0.032,
+   "logged": true
   },
   {
    "market": "A",
@@ -7326,7 +7364,11 @@
    "version": "04002f6",
    "bajas": "Chapecoense-SC: 0 fuera, 2 duda; Cruzeiro: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "H",
@@ -7346,7 +7388,11 @@
    "version": "04002f6",
    "bajas": "UNAM Pumas: 0 fuera, 1 duda; Monterrey: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "D",
@@ -7366,7 +7412,11 @@
    "version": "04002f6",
    "bajas": "Tigres UANL: 1 fuera, 1 duda (Marcelo Flores); Club America: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.064,
+   "logged": true
   },
   {
    "market": "D",
@@ -7386,7 +7436,11 @@
    "version": "04002f6",
    "bajas": "Rakow: sin bajas; Widzew Lodz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-1",
+   "clv": 0.034,
+   "logged": true
   },
   {
    "market": "A",
@@ -7406,7 +7460,11 @@
    "version": "04002f6",
    "bajas": "Horsens: sin bajas; Silkeborg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-1",
+   "clv": 0.1,
+   "logged": true
   },
   {
    "market": "H",
@@ -7426,7 +7484,11 @@
    "version": "04002f6",
    "bajas": "Viborg: sin bajas; Randers FC: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.068,
+   "logged": true
   },
   {
    "market": "A",
@@ -7446,7 +7508,11 @@
    "version": "04002f6",
    "bajas": "Hacken: sin bajas; Elfsborg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": 0.032,
+   "logged": true
   },
   {
    "market": "D",
@@ -7466,7 +7532,11 @@
    "version": "04002f6",
    "bajas": "Sirius: sin bajas; Djurgarden: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.09,
+   "logged": true
   },
   {
    "market": "A",
@@ -7486,7 +7556,11 @@
    "version": "04002f6",
    "bajas": "Zurich: sin bajas; St. Gallen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": -0.005,
+   "logged": true
   },
   {
    "market": "H",
@@ -7506,7 +7580,11 @@
    "version": "04002f6",
    "bajas": "Altach: sin bajas; Sturm Graz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.199,
+   "logged": true
   },
   {
    "market": "H",
@@ -7526,7 +7604,11 @@
    "version": "04002f6",
    "bajas": "Wolfsberger AC: sin bajas; Ried: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": -0.054,
+   "logged": true
   },
   {
    "market": "A",
@@ -7546,7 +7628,11 @@
    "version": "04002f6",
    "bajas": "GKS Katowice: sin bajas; Lech Poznan: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "clv": -0.122,
+   "logged": true
   },
   {
    "market": "D",
@@ -7566,7 +7652,11 @@
    "version": "04002f6",
    "bajas": "Sonderjyske: sin bajas; Odense: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.064,
+   "logged": true
   },
   {
    "market": "A",
@@ -7586,7 +7676,11 @@
    "version": "04002f6",
    "bajas": "Brommapojkarna: sin bajas; Halmstad: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-3",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "A",
@@ -7606,7 +7700,11 @@
    "version": "04002f6",
    "bajas": "Basel: sin bajas; Luzern: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-2",
+   "clv": -0.036,
+   "logged": true
   },
   {
    "market": "H",
@@ -7626,7 +7724,11 @@
    "version": "04002f6",
    "bajas": "Lausanne: sin bajas; Vaduz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.218,
+   "logged": true
   },
   {
    "market": "A",
@@ -7646,7 +7748,11 @@
    "version": "04002f6",
    "bajas": "Austria Vienna: sin bajas; Salzburg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": -0.006,
+   "logged": true
   },
   {
    "market": "A",
@@ -7666,7 +7772,11 @@
    "version": "04002f6",
    "bajas": "Aalesund: sin bajas; Rosenborg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.044,
+   "logged": true
   },
   {
    "market": "A",
@@ -7686,7 +7796,11 @@
    "version": "04002f6",
    "bajas": "KFUM Oslo: sin bajas; Brann: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-4",
+   "clv": 0.036,
+   "logged": true
   },
   {
    "market": "H",
@@ -7706,7 +7820,11 @@
    "version": "04002f6",
    "bajas": "Kristiansund: sin bajas; Sandefjord: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.015,
+   "logged": true
   },
   {
    "market": "A",
@@ -7726,7 +7844,11 @@
    "version": "04002f6",
    "bajas": "Wisla Plock: sin bajas; Legia: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "clv": 0.009,
+   "logged": true
   },
   {
    "market": "A",
@@ -7746,7 +7868,11 @@
    "version": "04002f6",
    "bajas": "Nordsjaelland: sin bajas; FC Copenhagen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "5-0",
+   "clv": -0.042,
+   "logged": true
   },
   {
    "market": "A",
@@ -7766,7 +7892,11 @@
    "version": "04002f6",
    "bajas": "Sarpsborg 08: sin bajas; Lillestrom: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-2",
+   "clv": -0.116,
+   "logged": true
   },
   {
    "market": "H",
@@ -7786,7 +7916,11 @@
    "version": "04002f6",
    "bajas": "Rosario Central: sin bajas; Gimnasia Mendoza: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "H",
@@ -7806,7 +7940,11 @@
    "version": "04002f6",
    "bajas": "Athletico-PR: sin bajas; Remo: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "4-2",
+   "clv": -0.055,
+   "logged": true
   },
   {
    "market": "H",
@@ -7826,7 +7964,11 @@
    "version": "04002f6",
    "bajas": "Nashville SC: 0 fuera, 1 duda; FC Cincinnati: 1 fuera, 0 duda (Kevin Denkey)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "H",
@@ -7846,7 +7988,11 @@
    "version": "04002f6",
    "bajas": "Fluminense: 1 fuera, 2 duda (John Kennedy); Mirassol: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.052,
+   "logged": true
   },
   {
    "market": "D",
@@ -7866,7 +8012,11 @@
    "version": "04002f6",
    "bajas": "River Plate: sin bajas; Lanus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-1",
+   "clv": 0.059,
+   "logged": true
   },
   {
    "market": "D",
@@ -7886,7 +8036,11 @@
    "version": "04002f6",
    "bajas": "Bragantino: 0 fuera, 3 duda; Vasco: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.035,
+   "logged": true
   },
   {
    "market": "H",
@@ -7906,7 +8060,11 @@
    "version": "04002f6",
    "bajas": "Guadalajara Chivas: sin bajas; Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.042,
+   "logged": true
   },
   {
    "market": "H",
@@ -7926,7 +8084,11 @@
    "version": "04002f6",
    "bajas": "Chicago Fire: 0 fuera, 3 duda; Charlotte: 0 fuera, 5 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.066,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -21696,31 +21858,6 @@
   },
   {
    "market": "t2",
-   "team_id": 23942,
-   "pick": "EAC",
-   "odds": 1.56,
-   "book": "Thunderpick",
-   "p": 0.59,
-   "implied": 0.582,
-   "edge": -0.079,
-   "key": "cs2|134191",
-   "match": "MASONIC vs EAC",
-   "start": "2026-11-21T09:00:00+00:00",
-   "league": "🎮 CS2 · Dust2.dk Ligaen Season 33",
-   "sport": "🎮",
-   "context": "CS2 MASONIC vs EAC, BO3, torneo Dust2.dk Ligaen Season 33 nivel c. Elo por mapa 1539 vs 1610 (prob. mapa 43%, serie 40%). Forma ✅❌❌❌❌ / ✅❌❌✅❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: MASONIC, EAC. Cuotas Thunderpick 2.17/1.56.",
-   "captured": "2026-11-20T22:23",
-   "version": "e6a2c6b",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-2",
-   "result": true,
-   "close_p": 0.4401,
-   "logged": true
-  },
-  {
-   "market": "t2",
    "team_id": 3708,
    "pick": "XI",
    "odds": 3.67,
@@ -21762,7 +21899,11 @@
    "version": "f893219",
    "bajas": "Instituto: sin bajas; Huracan: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": -0.019,
+   "logged": true
   },
   {
    "market": "H",
@@ -21782,7 +21923,11 @@
    "version": "f893219",
    "bajas": "Queretaro: sin bajas; Necaxa: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": -0.098,
+   "logged": true
   },
   {
    "market": "H",
@@ -21802,7 +21947,11 @@
    "version": "f893219",
    "bajas": "Vancouver Whitecaps: 0 fuera, 4 duda; Real Salt Lake: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": -0.007,
+   "logged": true
   },
   {
    "market": "D",
@@ -21870,7 +22019,11 @@
    "version": "f893219",
    "bajas": "Brondby: sin bajas; Midtjylland: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-2",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "H",
@@ -21890,7 +22043,11 @@
    "version": "f893219",
    "bajas": "Wieczysta Krakow: sin bajas; Motor Lublin: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": -0.049,
+   "logged": true
   },
   {
    "market": "H",
@@ -21910,7 +22067,11 @@
    "version": "f893219",
    "bajas": "Hammarby: sin bajas; Goteborg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": 0.088,
+   "logged": true
   },
   {
    "market": "A",
@@ -21930,7 +22091,11 @@
    "version": "f893219",
    "bajas": "Orgryte: sin bajas; Kalmar: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-2",
+   "clv": 0.061,
+   "logged": true
   },
   {
    "market": "H",
@@ -22098,7 +22263,11 @@
    "version": "f893219",
    "bajas": "Gimnasia L.P.: sin bajas; Newells Old Boys: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.105,
+   "logged": true
   },
   {
    "market": "H",
@@ -22118,7 +22287,11 @@
    "version": "f893219",
    "bajas": "Internacional: 0 fuera, 1 duda; Vitoria: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-5",
+   "clv": 0.019,
+   "logged": true
   },
   {
    "market": "H",
@@ -22138,7 +22311,11 @@
    "version": "f893219",
    "bajas": "Botafogo RJ: 0 fuera, 1 duda; Sao Paulo: 0 fuera, 5 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.078,
+   "logged": true
   },
   {
    "market": "over",
@@ -22464,31 +22641,6 @@
   },
   {
    "market": "t2",
-   "team_id": 25281,
-   "pick": "KAMUI",
-   "odds": 1.72,
-   "book": "Thunderpick",
-   "p": 0.555,
-   "implied": 0.538,
-   "edge": -0.045,
-   "key": "cs2|134627",
-   "match": "INFURITY vs KAMUI",
-   "start": "2026-11-21T09:00:00+00:00",
-   "league": "🎮 CS2 · Fiesta Series 4",
-   "sport": "🎮",
-   "context": "CS2 INFURITY vs KAMUI, BO3, torneo Fiesta Series 4 nivel c. Elo por mapa 1635 vs 1687 (prob. mapa 45%, serie 43%). Forma ✅❌❌✅✅ / ✅❌✅✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.0/1.72.",
-   "captured": "2026-11-21T06:15",
-   "version": "83309e2",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "t2",
    "team_id": 25748,
    "pick": "Evermore",
    "odds": 3.8,
@@ -22585,83 +22737,6 @@
    "result": false,
    "score": "1-2",
    "close_p": 0.4295,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Ganger_29",
-   "odds": 3.95,
-   "book": "Unibet",
-   "implied": 0.223,
-   "edge": 0.237,
-   "sin_stake": true,
-   "p": 0.313,
-   "key": "fc|2391947",
-   "match": "Ganger_29 vs Tesla",
-   "start": "2026-11-21T08:40:00+00:00",
-   "league": "🎮⚽ FC 27 · Ligue 1",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Ganger_29 vs Tesla (Ligue 1): goles esperados 2.81-3.64, 1X2 31%/18%/51%. Sin cuotas de casa.",
-   "captured": "2026-11-21T08:17",
-   "version": "f698f8a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-6",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "imagin",
-   "odds": 4.4,
-   "book": "Unibet",
-   "implied": 0.197,
-   "edge": 0.109,
-   "sin_stake": true,
-   "p": 0.252,
-   "key": "fc|2392159",
-   "match": "zoyir vs imagin",
-   "start": "2026-11-21T08:56:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle zoyir vs imagin (Champions League A 2x6): goles esperados 4.56-3.42, 1X2 59%/16%/25%. Sin cuotas de casa.",
-   "captured": "2026-11-21T08:48",
-   "version": "9edf3bd",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "3-7",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "DaVa",
-   "odds": 1.93,
-   "book": "Unibet",
-   "implied": 0.449,
-   "edge": 0.076,
-   "sin_stake": true,
-   "p": 0.558,
-   "key": "fc|2390895",
-   "match": "Jekunam vs DaVa",
-   "start": "2026-11-21T08:58:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League AFC",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Jekunam vs DaVa (Champions League AFC): goles esperados 2.02-2.80, 1X2 24%/21%/56%. Sin cuotas de casa.",
-   "captured": "2026-11-21T08:48",
-   "version": "9edf3bd",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "3-2",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -31205,7 +31280,11 @@
    "version": "4f2cb14",
    "bajas": "Santos: 0 fuera, 2 duda; Gremio: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "clv": -0.031,
+   "logged": true
   },
   {
    "market": "D",
@@ -31225,7 +31304,11 @@
    "version": "4f2cb14",
    "bajas": "St. Louis City: 0 fuera, 3 duda; Los Angeles FC: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-2",
+   "clv": 0.131,
+   "logged": true
   },
   {
    "market": "over",
@@ -42694,26 +42777,16 @@
    "start": "2026-11-24T08:40:00+00:00",
    "league": "🎮⚽ FC 27 · Ligue 1",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 79.362 partidos)",
-    "Goles esperados: Taz 3.42 · Ganger_29 3.24",
-    "Ganador: Taz 46% · empate 18% · Ganger_29 36%",
-    "Total: más de 6.5 goles 50% · menos 50%",
-    "Hándicap Taz: −1.5 30% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Taz ❌✅❌❌✅ | Ganger_29 ✅➖✅❌✅",
-    "• Partidos: Taz 1246 | Ganger_29 1120",
-    "• Liga: Ligue 1",
-    "• Unibet: 1 2.40 · X 4.50 · 2 1.98 (sin margen 36%/19%/44%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.40 (+11%) · Paf España 2.40 (+11%)"
-   ],
    "context": "EA FC Esoccer Battle Taz vs Ganger_29 (Ligue 1): goles esperados 3.42-3.24, 1X2 46%/18%/36%. Sin cuotas de casa.",
    "captured": "2026-11-24T08:31",
    "version": "5bf8859",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -42729,26 +42802,16 @@
    "start": "2026-11-24T08:34:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League AFC",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 79.362 partidos)",
-    "Goles esperados: DaVa 2.79 · MeLToSik 1.76",
-    "Ganador: DaVa 62% · empate 19% · MeLToSik 19%",
-    "Total: más de 4.5 goles 48% · menos 52%",
-    "Hándicap DaVa: −1.5 40% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: DaVa ✅❌➖❌✅ | MeLToSik ➖➖➖❌❌",
-    "• Partidos: DaVa 1486 | MeLToSik 1423",
-    "• Liga: Champions League AFC",
-    "• Unibet: 1 1.79 · X 3.20 · 2 3.60 (sin margen 49%/27%/24%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.79 (+10%) · Paf España 1.79 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle DaVa vs MeLToSik (Champions League AFC): goles esperados 2.79-1.76, 1X2 62%/19%/19%. Sin cuotas de casa.",
    "captured": "2026-11-24T08:31",
    "version": "5bf8859",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -42768,7 +42831,140 @@
    "captured": "2026-11-24T08:31",
    "version": "5bf8859",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "key": "vp|2026-11-24|Kyoto Sanga|Pohang Steelers",
+   "market": "H",
+   "pick": "Kyoto Sanga",
+   "odds": 1.8,
+   "book": "Smarkets",
+   "p": 0.5747,
+   "implied": 0.5747,
+   "edge": 0.0363,
+   "match": "Kyoto Sanga vs Pohang Steelers",
+   "start": "2026-11-24T10:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · AFC - Champions League Elite",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.80 y el precio justo de Pinnacle es 1.74 (ventaja +3.6%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Kyoto Sanga vs Pohang Steelers (AFC - Champions League Elite). Estrategia de valor: Smarkets 1.80 frente a Pinnacle justo 1.74.",
+   "captured": "2026-11-24T09:01",
+   "version": "9f564c7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "cl1vlind",
+   "odds": 3.65,
+   "book": "Unibet",
+   "implied": 0.239,
+   "edge": 0.202,
+   "sin_stake": true,
+   "p": 0.329,
+   "key": "fc|2396340",
+   "match": "A1ose vs cl1vlind",
+   "start": "2026-11-24T09:19:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 79.394 partidos)",
+    "Goles esperados: A1ose 3.52 · cl1vlind 3.16",
+    "Ganador: A1ose 48% · empate 19% · cl1vlind 33%",
+    "Total: más de 6.5 goles 50% · menos 50%",
+    "Hándicap A1ose: −1.5 32% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: A1ose ✅➖❌➖✅ | cl1vlind ➖➖➖✅➖",
+    "• Partidos: A1ose 1218 | cl1vlind 876",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.94 · X 2.80 · 2 3.65 (sin margen 45%/31%/24%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.65 (+20%) · Paf España 3.65 (+20%)"
+   ],
+   "context": "EA FC Esoccer Battle A1ose vs cl1vlind (Serie A): goles esperados 3.52-3.16, 1X2 48%/19%/33%. Sin cuotas de casa.",
+   "captured": "2026-11-24T09:01",
+   "version": "9f564c7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Lumix",
+   "odds": 2.3,
+   "book": "Unibet",
+   "implied": 0.378,
+   "edge": 0.198,
+   "sin_stake": true,
+   "p": 0.521,
+   "key": "fc|2397011",
+   "match": "Lumix vs Hyper",
+   "start": "2026-11-24T09:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 79.394 partidos)",
+    "Goles esperados: Lumix 3.32 · Hyper 2.78",
+    "Ganador: Lumix 52% · empate 19% · Hyper 29%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap Lumix: −1.5 34% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Lumix ➖✅➖✅✅ | Hyper ❌❌❌❌✅",
+    "• Partidos: Lumix 1251 | Hyper 748",
+    "• Liga: Ligue 1",
+    "• Unibet: 1 2.30 · X 3.60 · 2 2.28 (sin margen 38%/24%/38%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.30 (+20%) · Paf España 2.30 (+20%)"
+   ],
+   "context": "EA FC Esoccer Battle Lumix vs Hyper (Ligue 1): goles esperados 3.32-2.78, 1X2 52%/19%/29%. Sin cuotas de casa.",
+   "captured": "2026-11-24T09:01",
+   "version": "9f564c7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "DaVa",
+   "odds": 2.02,
+   "book": "Unibet",
+   "implied": 0.431,
+   "edge": 0.072,
+   "sin_stake": true,
+   "p": 0.531,
+   "key": "fc|2396415",
+   "match": "Flewless_phoenix vs DaVa",
+   "start": "2026-11-24T09:10:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League AFC",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 79.394 partidos)",
+    "Goles esperados: Flewless_phoenix 2.52 · DaVa 3.10",
+    "Ganador: Flewless_phoenix 28% · empate 19% · DaVa 53%",
+    "Total: más de 5.5 goles 49% · menos 51%",
+    "Hándicap DaVa: −1.5 34% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Flewless_phoenix ✅✅❌❌✅ | DaVa ➖❌✅✅➖",
+    "• Partidos: Flewless_phoenix 200 | DaVa 1488",
+    "• Liga: Champions League AFC",
+    "• Unibet: 1 2.63 · X 3.65 · 2 2.02 (sin margen 33%/24%/43%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.02 (+7%) · Paf España 2.02 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle Flewless_phoenix vs DaVa (Champions League AFC): goles esperados 2.52-3.10, 1X2 28%/19%/53%. Sin cuotas de casa.",
+   "captured": "2026-11-24T09:01",
+   "version": "9f564c7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -46047,6 +46243,6 @@
   "nba|2026-11-25|Washington Wizards|Boston Celtics",
   "nba|2026-11-25|Denver Nuggets|Dallas Mavericks"
  ],
- "radar_date": "2026-11-23",
+ "radar_date": "2026-11-24",
  "sgp_res_sent": "2026-11-24T00:09:50.194201+00:00"
 }
