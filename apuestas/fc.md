@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 24/11/2026 16:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 16:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Linox vs Mani — 24/11 · 16:25
+## Gaga vs Rodja — 24/11 · 16:58
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.25** (Unibet) · prob 25% vs casas 20% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Rodja** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 79.766 partidos)  
+Goles esperados: Gaga 2.67 · Rodja 2.95  
+Ganador: Gaga 33% · empate 21% · Rodja 46%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Rodja: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Gaga ➖❌❌❌✅ | Rodja ✅✅✅✅❌  
+• Partidos: Gaga 1261 | Rodja 1171  
+• Liga: Serie A  
+• Unibet: 1 2.43 · X 2.80 · 2 2.55 (sin margen 35%/31%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+17%) · Paf España 2.55 (+17%)  
+
+## Sena vs Mani — 24/11 · 17:01
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.75** (Unibet) · prob 22% vs casas 18% · ventaja +6%
 
 - ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 79.738 partidos)  
-Goles esperados: Linox 2.19 · Mani 2.23  
-Ganador: Linox 36% · empate 25% · Mani 39%  
-Total: más de 4.5 goles 45% · menos 55%  
-Hándicap Mani: −1.5 24% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 79.766 partidos)  
+Goles esperados: Sena 2.73 · Mani 2.63  
+Ganador: Sena 40% · empate 22% · Mani 38%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap Sena: −1.5 27% · −2.5 14%  
 🔎 **Claves**  
-• Forma: Linox ❌✅➖➖❌ | Mani ✅✅❌✅❌  
-• Partidos: Linox 913 | Mani 1105  
+• Forma: Sena ❌➖✅✅❌ | Mani ❌✅❌❌✅  
+• Partidos: Sena 917 | Mani 1107  
 • Liga: Europa League  
-• Unibet: 1 2.50 · X 4.25 · 2 1.96 (sin margen 35%/21%/45%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.25 (+5%) · Paf España 4.25 (+5%)  
-
-## maggett0 vs Rodja — 24/11 · 16:34
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.20** (Unibet) · prob 20% vs casas 17% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 79.738 partidos)  
-Goles esperados: maggett0 2.98 · Rodja 3.11  
-Ganador: maggett0 36% · empate 21% · Rodja 44%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Rodja: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: maggett0 ❌✅❌❌✅ | Rodja ✅❌✅✅✅  
-• Partidos: maggett0 1122 | Rodja 1169  
-• Liga: Serie A  
-• Unibet: 1 2.70 · X 5.20 · 2 1.73 (sin margen 32%/17%/51%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+5%) · Paf España 5.10 (+5%)  
+• Unibet: 1 2.33 · X 4.75 · 2 1.97 (sin margen 37%/18%/44%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.75 (+6%) · Paf España 4.75 (+6%)  
 

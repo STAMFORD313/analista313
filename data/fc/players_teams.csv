@@ -79765,18 +79765,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2397402,263059,England,Germany,,
 2397403,263059,Spain,England,,
 2397404,263059,Argentina,France,,
-2397105,263047,Roma,Napoli,3,4
-2397106,263047,Juventus,Sassuolo,0,0
-2397107,263047,Sassuolo,Roma,3,0
-2397108,263047,Napoli,Bologna,2,0
-2397109,263047,Bologna,Sassuolo,2,1
-2397110,263047,Roma,Juventus,1,1
-2397111,263047,Juventus,Bologna,0,2
-2397112,263047,Sassuolo,Napoli,3,3
-2397113,263047,Napoli,Juventus,0,1
-2397114,263047,Bologna,Roma,3,0
-2397115,263047,Napoli,Roma,1,0
-2397116,263047,Sassuolo,Juventus,2,2
+2397105,263047,Roma,Napoli,3.0,4.0
+2397106,263047,Juventus,Sassuolo,0.0,0.0
+2397107,263047,Sassuolo,Roma,3.0,0.0
+2397108,263047,Napoli,Bologna,2.0,0.0
+2397109,263047,Bologna,Sassuolo,2.0,1.0
+2397110,263047,Roma,Juventus,1.0,1.0
+2397111,263047,Juventus,Bologna,0.0,2.0
+2397112,263047,Sassuolo,Napoli,3.0,3.0
+2397113,263047,Napoli,Juventus,0.0,1.0
+2397114,263047,Bologna,Roma,3.0,0.0
+2397115,263047,Napoli,Roma,1.0,0.0
+2397116,263047,Sassuolo,Juventus,2.0,2.0
 2397117,263047,Roma,Sassuolo,,
 2397118,263047,Bologna,Napoli,,
 2397119,263047,Sassuolo,Bologna,,
@@ -79785,3 +79785,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2397122,263047,Napoli,Sassuolo,,
 2397123,263047,Juventus,Napoli,,
 2397124,263047,Roma,Bologna,,
+2397245,263011,Fenerbahce,Aston Villa,2,3
+2397246,263011,Porto,Roma,1,0
+2397247,263011,Roma,Fenerbahce,1,1
+2397248,263011,Aston Villa,Salzburg,1,1
+2397249,263011,Salzburg,Roma,1,0
+2397250,263011,Fenerbahce,Porto,1,2
+2397251,263011,Porto,Salzburg,0,1
+2397252,263011,Roma,Aston Villa,1,1
+2397253,263011,Aston Villa,Porto,4,1
+2397254,263011,Salzburg,Fenerbahce,1,1
+2397255,263011,Aston Villa,Fenerbahce,3,1
+2397256,263011,Roma,Porto,0,3
+2397257,263011,Fenerbahce,Roma,2,0
+2397258,263011,Salzburg,Aston Villa,0,0
+2397259,263011,Roma,Salzburg,,
+2397260,263011,Porto,Fenerbahce,,
+2397261,263011,Salzburg,Porto,,
+2397262,263011,Aston Villa,Roma,,
+2397263,263011,Porto,Aston Villa,,
+2397264,263011,Fenerbahce,Salzburg,,
+2397435,263019,Man City,Arsenal,1,2
+2397436,263019,Juventus,Sporting CP,1,0
+2397437,263019,Sporting CP,Man City,0,1
+2397438,263019,Arsenal,B Dortmund,1,0
+2397439,263019,B Dortmund,Sporting CP,1,0
+2397440,263019,Man City,Juventus,0,2
+2397441,263019,Juventus,B Dortmund,1,3
+2397442,263019,Sporting CP,Arsenal,0,1
+2397443,263019,Arsenal,Juventus,3,0
+2397444,263019,B Dortmund,Man City,1,2
+2397445,263019,Arsenal,Man City,2,2
+2397446,263019,Sporting CP,Juventus,1,0
+2397447,263019,Man City,Sporting CP,,
+2397448,263019,B Dortmund,Arsenal,,
+2397449,263019,Sporting CP,B Dortmund,,
+2397450,263019,Juventus,Man City,,
+2397451,263019,B Dortmund,Juventus,,
+2397452,263019,Arsenal,Sporting CP,,
+2397453,263019,Juventus,Arsenal,,
+2397454,263019,Man City,B Dortmund,,

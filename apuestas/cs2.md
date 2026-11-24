@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 24/11/2026 16:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## boyband vs BOJONG — 24/11 · 16:30
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana BOJONG** @ **2.13** (Thunderpick) · prob 47% vs casas 43% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.200 partidos)  
-Mapa: boyband 49% · Serie BO3: boyband 49% - 51% BOJONG  
-Casas: boyband 57% · BOJONG 43%  
-🔎 **Claves**  
-• Elo: boyband 1444 (22 series) | BOJONG 1453 (65 series)  
-• Forma: boyband ✅✅❌❌❌ | BOJONG ❌❌❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• boyband gana 2-1: 22% → cuota justa 4.61  
-• BOJONG gana 2-1: 22% → cuota justa 4.47  
+Actualizado 24/11/2026 16:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HAVU vs KUUSAMO — 24/11 · 19:00
 
