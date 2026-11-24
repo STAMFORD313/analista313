@@ -79605,3 +79605,53 @@ id,tournament_id,club1,club2,ht1,ht2
 2396442,263024,Bayern Munchen,Frankfurt,,
 2396443,263024,Stuttgart,Bayern Munchen,,
 2396444,263024,B Dortmund,Leipzig,,
+2396285,263002,Napoli,Sassuolo,2,1
+2397559,263002,Roma,Bologna,4,0
+2397560,263002,Bologna,Napoli,3,2
+2396288,263002,Sassuolo,Juventus,2,1
+2397561,263002,Juventus,Bologna,2,4
+2396290,263002,Napoli,Roma,2,2
+2396291,263002,Roma,Juventus,4,3
+2397562,263002,Bologna,Sassuolo,2,2
+2396293,263002,Sassuolo,Roma,0,1
+2396294,263002,Juventus,Napoli,2,4
+2396295,263002,Sassuolo,Napoli,3,2
+2397563,263002,Bologna,Roma,3,0
+2397564,263002,Napoli,Bologna,2,2
+2396298,263002,Juventus,Sassuolo,2,1
+2397565,263002,Bologna,Juventus,,
+2396300,263002,Roma,Napoli,,
+2396301,263002,Juventus,Roma,,
+2397566,263002,Sassuolo,Bologna,,
+2396303,263002,Roma,Sassuolo,,
+2396304,263002,Napoli,Juventus,,
+2397035,263057,Aston Villa,Newcastle,2,0
+2397036,263057,Brighton,Man Utd,4,0
+2397037,263057,Man Utd,Aston Villa,1,1
+2397038,263057,Newcastle,Nottm Forest,2,2
+2397039,263057,Nottm Forest,Man Utd,3,1
+2397040,263057,Aston Villa,Brighton,1,3
+2397041,263057,Brighton,Nottm Forest,2,1
+2397042,263057,Man Utd,Newcastle,1,2
+2397043,263057,Newcastle,Brighton,,
+2397044,263057,Nottm Forest,Aston Villa,,
+2397045,263057,Newcastle,Aston Villa,,
+2397046,263057,Man Utd,Brighton,,
+2397047,263057,Aston Villa,Man Utd,,
+2397048,263057,Nottm Forest,Newcastle,,
+2397049,263057,Man Utd,Nottm Forest,,
+2397050,263057,Brighton,Aston Villa,,
+2397051,263057,Nottm Forest,Brighton,,
+2397052,263057,Newcastle,Man Utd,,
+2397053,263057,Brighton,Newcastle,,
+2397054,263057,Aston Villa,Nottm Forest,,
+2397095,263062,Liverpool,Paris,5,1
+2397096,263062,Bayern Munchen,Atleti,5,0
+2397097,263062,Atleti,Liverpool,1,1
+2397098,263062,Paris,Real Madrid,1,2
+2397099,263062,Real Madrid,Atleti,2,1
+2397100,263062,Liverpool,Bayern Munchen,1,5
+2397101,263062,Bayern Munchen,Real Madrid,1,1
+2397102,263062,Atleti,Paris,1,1
+2397103,263062,Paris,Bayern Munchen,,
+2397104,263062,Real Madrid,Liverpool,,
