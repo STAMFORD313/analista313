@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 24/11/2026 11:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 24/11/2026 11:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BYU Cougars vs Ole Miss Rebels — 24/11 · 20:30
 
