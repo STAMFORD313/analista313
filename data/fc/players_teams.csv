@@ -80905,12 +80905,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2398032,263127,Barcelona,Real Madrid,,
 2398033,263127,Athletic Club,Barcelona,,
 2398034,263127,Atleti,Villarreal,,
-2398713,263129,Spain,Argentina,2,1
-2398714,263129,France,England,0,2
-2398715,263129,England,Spain,3,2
-2398716,263129,Argentina,Germany,1,2
-2398717,263129,Germany,England,2,1
-2398718,263129,Spain,France,4,0
+2398713,263129,Spain,Argentina,2.0,1.0
+2398714,263129,France,England,0.0,2.0
+2398715,263129,England,Spain,3.0,2.0
+2398716,263129,Argentina,Germany,1.0,2.0
+2398717,263129,Germany,England,2.0,1.0
+2398718,263129,Spain,France,4.0,0.0
 2398719,263129,France,Germany,,
 2398720,263129,England,Argentina,,
 2398721,263129,Argentina,France,,
@@ -80925,3 +80925,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2398730,263129,Argentina,England,,
 2398731,263129,France,Argentina,,
 2398732,263129,Spain,Germany,,
+2398483,263093,Liverpool,Atleti,1,1
+2398484,263093,Paris,Bayern Munchen,1,0
+2398485,263093,Bayern Munchen,Liverpool,3,0
+2398486,263093,Atleti,Real Madrid,1,0
+2398487,263093,Real Madrid,Bayern Munchen,0,1
+2398488,263093,Liverpool,Paris,1,0
+2398489,263093,Paris,Real Madrid,1,3
+2398490,263093,Bayern Munchen,Atleti,2,0
+2398491,263093,Atleti,Paris,0,0
+2398492,263093,Real Madrid,Liverpool,1,1
+2398493,263093,Atleti,Liverpool,0,0
+2398494,263093,Bayern Munchen,Paris,2,2
+2398495,263093,Liverpool,Bayern Munchen,2,0
+2398496,263093,Real Madrid,Atleti,0,1
+2398497,263093,Bayern Munchen,Real Madrid,1,1
+2398498,263093,Paris,Liverpool,2,3
+2398499,263093,Real Madrid,Paris,,
+2398500,263093,Atleti,Bayern Munchen,,
+2398501,263093,Paris,Atleti,,
+2398502,263093,Liverpool,Real Madrid,,
+2398185,263138,PSV,Ajax,1,0
+2398186,263138,Feyenoord,Twente,0,2
+2398187,263138,Twente,PSV,0,2
+2398188,263138,Ajax,AZ Alkmaar,0,1
+2398189,263138,AZ Alkmaar,Twente,2,2
+2398190,263138,PSV,Feyenoord,1,2
+2398191,263138,Feyenoord,AZ Alkmaar,0,1
+2398192,263138,Twente,Ajax,2,1
+2398193,263138,Ajax,Feyenoord,2,0
+2398194,263138,AZ Alkmaar,PSV,1,3
+2398195,263138,Ajax,PSV,2,1
+2398196,263138,Twente,Feyenoord,2,1
+2398197,263138,PSV,Twente,,
+2398198,263138,AZ Alkmaar,Ajax,,
+2398199,263138,Twente,AZ Alkmaar,,
+2398200,263138,Feyenoord,PSV,,
+2398201,263138,AZ Alkmaar,Feyenoord,,
+2398202,263138,Ajax,Twente,,
+2398203,263138,Feyenoord,Ajax,,
+2398204,263138,PSV,AZ Alkmaar,,
