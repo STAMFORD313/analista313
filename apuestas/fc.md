@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 09:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Jekunam vs DaVa — 25/11 · 09:58
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **1.98** (Unibet) · prob 58% vs casas 44% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.576 partidos)  
-Goles esperados: Jekunam 2.03 · DaVa 2.90  
-Ganador: Jekunam 22% · empate 19% · DaVa 58%  
-Total: más de 4.5 goles 55% · menos 45%  
-Hándicap DaVa: −1.5 38% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Jekunam ❌❌❌➖❌ | DaVa ✅✅➖✅✅  
-• Partidos: Jekunam 1346 | DaVa 1519  
-• Liga: Champions League AFC  
-• Unibet: 1 3.20 · X 2.95 · 2 1.98 (sin margen 27%/29%/44%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.98 (+15%) · Paf España 1.98 (+15%)  
-
-## Taz vs Totti — 25/11 · 10:04
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Totti** @ **3.25** (Unibet) · prob 37% vs casas 27% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.576 partidos)  
-Goles esperados: Taz 3.80 · Totti 3.31  
-Ganador: Taz 46% · empate 17% · Totti 37%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Taz: −1.5 35% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Taz ❌✅✅➖❌ | Totti ✅❌➖✅❌  
-• Partidos: Taz 1279 | Totti 1211  
-• Liga: Ligue 1  
-• Unibet: 1 1.71 · X 3.95 · 2 3.25 (sin margen 51%/22%/27%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.25 (+20%) · Paf España 3.25 (+20%)  
+Actualizado 25/11/2026 10:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## A1ose vs cl1vlind — 25/11 · 10:19
 
@@ -58,4 +20,61 @@ Hándicap A1ose: −1.5 31% · −2.5 19%
 • Liga: Serie A  
 • Unibet: 1 2.08 · X 2.70 · 2 3.30 (sin margen 42%/32%/26%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.30 (+27%) · Paf España 3.30 (+27%)  
+
+## Duka vs Pavlinho19 — 25/11 · 10:28
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Duka** @ **4.00** (Unibet) · prob 28% vs casas 22% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.606 partidos)  
+Goles esperados: Duka 1.91 · Pavlinho19 2.55  
+Ganador: Duka 28% · empate 22% · Pavlinho19 50%  
+Total: más de 4.5 goles 46% · menos 54%  
+Hándicap Pavlinho19: −1.5 33% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Duka ❌❌❌✅❌ | Pavlinho19 ✅✅❌✅❌  
+• Partidos: Duka 1310 | Pavlinho19 1205  
+• Liga: Ligue 1  
+• Unibet: 1 4.00 · X 4.60 · 2 1.50 (sin margen 22%/19%/59%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.00 (+12%) · Paf España 4.00 (+12%)  
+
+## RuBIX vs A1ose — 25/11 · 10:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.70** (Unibet) · prob 44% vs casas 32% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.606 partidos)  
+Goles esperados: RuBIX 3.49 · A1ose 3.28  
+Ganador: RuBIX 44% · empate 18% · A1ose 39%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap RuBIX: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: RuBIX ❌✅✅✅❌ | A1ose ❌✅❌✅❌  
+• Partidos: RuBIX 460 | A1ose 1251  
+• Liga: Serie A  
+• Unibet: 1 2.70 · X 4.10 · 2 1.87 (sin margen 32%/21%/47%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+18%) · Paf España 2.70 (+18%)  
+
+## dirowe vs crinner — 25/11 · 10:48
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana crinner** @ **1.79** (Unibet) · prob 62% vs casas 49% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.606 partidos)  
+Goles esperados: dirowe 2.56 · crinner 3.69  
+Ganador: dirowe 21% · empate 16% · crinner 62%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap crinner: −1.5 43% · −2.5 28%  
+🔎 **Claves**  
+• Forma: dirowe ❌✅❌✅✅ | crinner ✅✅✅❌❌  
+• Partidos: dirowe 1093 | crinner 1234  
+• Liga: EFL Championship  
+• Unibet: 1 2.63 · X 4.90 · 2 1.79 (sin margen 33%/18%/49%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.79 (+12%) · Paf España 1.79 (+12%)  
 
