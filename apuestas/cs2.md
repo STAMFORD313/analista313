@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 20:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 21:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Elusive vs Villainous — 26/11 · 03:00
 
