@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 12:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 13:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## v1nniePuh vs flamez — 25/11 · 12:50
+## Edwardson vs BlackStar98 — 25/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana v1nniePuh** @ **2.45** (Unibet) · prob 48% vs casas 36% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.710 partidos)  
-Goles esperados: v1nniePuh 4.55 · flamez 4.31  
-Ganador: v1nniePuh 48% · empate 15% · flamez 37%  
-Total: más de 8.5 goles 53% · menos 47%  
-Hándicap v1nniePuh: −1.5 33% · −2.5 22%  
-🔎 **Claves**  
-• Forma: v1nniePuh ✅✅✅✅✅ | flamez ✅✅❌❌❌  
-• Partidos: v1nniePuh 850 | flamez 971  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.45 · X 5.60 · 2 1.80 (sin margen 36%/16%/49%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.45 (+18%) · Paf España 2.45 (+18%)  
-
-## why vs imagin — 25/11 · 12:50
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **2.30** (Unibet) · prob 47% vs casas 38% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Edwardson** @ **4.40** (Unibet) · prob 25% vs casas 20% · ventaja +9%
 
 - ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.740 partidos)  
-Goles esperados: why 4.09 · imagin 4.60  
-Ganador: why 38% · empate 15% · imagin 47%  
-Total: más de 8.5 goles 50% · menos 50%  
-Hándicap imagin: −1.5 37% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 80.761 partidos)  
+Goles esperados: Edwardson 1.72 · BlackStar98 2.37  
+Ganador: Edwardson 25% · empate 22% · BlackStar98 53%  
+Total: más de 4.5 goles 39% · menos 61%  
+Hándicap BlackStar98: −1.5 33% · −2.5 17%  
 🔎 **Claves**  
-• Forma: why ❌❌❌❌❌ | imagin ❌✅❌✅✅  
-• Partidos: why 803 | imagin 435  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.96 · X 5.00 · 2 2.30 (sin margen 45%/17%/38%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.30 (+9%) · Paf España 2.30 (+9%)  
-
-## BlackStar98 vs Artrom — 25/11 · 13:06
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Empate** @ **5.30** (Unibet) · prob 22% vs casas 16% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.740 partidos)  
-Goles esperados: BlackStar98 2.34 · Artrom 1.41  
-Ganador: BlackStar98 60% · empate 22% · Artrom 18%  
-Total: más de 3.5 goles 52% · menos 48%  
-Hándicap BlackStar98: −1.5 37% · −2.5 20%  
-🔎 **Claves**  
-• Forma: BlackStar98 ✅❌❌➖➖ | Artrom ➖➖➖✅➖  
-• Partidos: BlackStar98 324 | Artrom 735  
+• Forma: Edwardson ❌✅➖➖➖ | BlackStar98 ❌❌➖➖➖  
+• Partidos: Edwardson 1466 | BlackStar98 325  
 • Liga: Bundesliga  
-• Unibet: 1 1.29 · X 5.30 · 2 5.30 (sin margen 67%/16%/16%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+15%) · Paf España 5.30 (+15%)  
+• Unibet: 1 4.40 · X 3.00 · 2 1.72 (sin margen 20%/29%/51%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.40 (+9%) · Paf España 4.40 (+9%)  
 
-## Loka vs Smetana — 25/11 · 13:08
+## cl1vlind vs dor1an — 25/11 · 13:25
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Empate** @ **7.00** (Unibet) · prob 16% vs casas 12% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana dor1an** @ **3.55** (Unibet) · prob 34% vs casas 24% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.761 partidos)  
+Goles esperados: cl1vlind 3.10 · dor1an 2.76  
+Ganador: cl1vlind 46% · empate 19% · dor1an 34%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap cl1vlind: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: cl1vlind ❌➖✅❌✅ | dor1an ✅➖❌➖➖  
+• Partidos: cl1vlind 920 | dor1an 472  
+• Liga: Champions League B  
+• Unibet: 1 1.89 · X 2.95 · 2 3.55 (sin margen 46%/29%/24%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+22%) · Paf España 3.55 (+22%)  
+
+## v1nniePuh vs why — 25/11 · 13:26
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana v1nniePuh** @ **1.83** (Unibet) · prob 63% vs casas 48% · ventaja +16%
 
 - ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.740 partidos)  
-Goles esperados: Loka 4.00 · Smetana 3.40  
-Ganador: Loka 49% · empate 17% · Smetana 34%  
-Total: más de 7.5 goles 46% · menos 54%  
-Hándicap Loka: −1.5 37% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 80.761 partidos)  
+Goles esperados: v1nniePuh 5.12 · why 3.81  
+Ganador: v1nniePuh 63% · empate 13% · why 23%  
+Total: más de 8.5 goles 53% · menos 47%  
+Hándicap v1nniePuh: −1.5 47% · −2.5 34%  
 🔎 **Claves**  
-• Forma: Loka ✅✅❌✅❌ | Smetana ✅✅❌✅✅  
-• Partidos: Loka 1513 | Smetana 1498  
-• Liga: CSL  
-• Unibet: 1 1.70 · X 7.00 · 2 2.43 (sin margen 51%/13%/36%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.00 (+16%) · Paf España 7.00 (+16%)  
+• Forma: v1nniePuh ✅✅✅✅✅ | why ❌❌❌❌❌  
+• Partidos: v1nniePuh 852 | why 804  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.83 · X 5.10 · 2 2.50 (sin margen 48%/17%/35%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.83 (+16%) · Paf España 1.83 (+16%)  
 
