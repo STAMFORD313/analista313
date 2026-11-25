@@ -81245,18 +81245,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2398918,263158,Fenerbahce,Salzburg,,
 2398919,263158,Porto,Fenerbahce,,
 2398920,263158,Roma,Aston Villa,,
-2399181,263122,Arsenal,Liverpool,1,0
-2399182,263122,Chelsea,Tottenham,1,3
-2399183,263122,Tottenham,Arsenal,1,4
-2399184,263122,Liverpool,Man City,0,1
-2399185,263122,Man City,Tottenham,2,2
-2399186,263122,Arsenal,Chelsea,0,2
-2399187,263122,Chelsea,Man City,3,2
-2399188,263122,Tottenham,Liverpool,1,2
-2399189,263122,Liverpool,Chelsea,1,1
-2399190,263122,Man City,Arsenal,0,2
-2399191,263122,Liverpool,Arsenal,0,0
-2399192,263122,Tottenham,Chelsea,1,0
+2399181,263122,Arsenal,Liverpool,1.0,0.0
+2399182,263122,Chelsea,Tottenham,1.0,3.0
+2399183,263122,Tottenham,Arsenal,1.0,4.0
+2399184,263122,Liverpool,Man City,0.0,1.0
+2399185,263122,Man City,Tottenham,2.0,2.0
+2399186,263122,Arsenal,Chelsea,0.0,2.0
+2399187,263122,Chelsea,Man City,3.0,2.0
+2399188,263122,Tottenham,Liverpool,1.0,2.0
+2399189,263122,Liverpool,Chelsea,1.0,1.0
+2399190,263122,Man City,Arsenal,0.0,2.0
+2399191,263122,Liverpool,Arsenal,0.0,0.0
+2399192,263122,Tottenham,Chelsea,1.0,0.0
 2399193,263122,Arsenal,Tottenham,,
 2399194,263122,Man City,Liverpool,,
 2399195,263122,Tottenham,Man City,,
