@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 23:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Atletico-MG vs Corinthians — 26/11 · 00:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Corinthians** @ **3.00** (Bet365) · prob 32% vs casas 32% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 0.93)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Atletico-MG ✅❌❌❌➖ | Corinthians ➖❌✅➖✅  
-• H2H: 29 desde 2012: 11V-8E-10D · 1.7 goles/partido · +2.5 en 34%  
-• Bajas: Atletico-MG: 0 fuera, 3 duda; Corinthians: 0 fuera, 1 duda  
-• Favorito de las casas: Atletico-MG @ 2.33  
+Actualizado 26/11/2026 00:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boca Juniors vs Ind. Rivadavia — 26/11 · 01:00
 

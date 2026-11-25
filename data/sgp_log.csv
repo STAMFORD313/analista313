@@ -840,29 +840,41 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-24,Palermo vs Sudtirol,larga,4,0.2143,0,3,0.6633,,,0,,Menos de 2.5 tarjetas de Palermo + Menos de 4.5 córners de Sudtirol + Menos de 13.5 faltas de Palermo + Menos de 3.5 tiros a puerta de Sudtirol,1110
 2026-11-24,Vicenza vs Carrarese,corta,3,0.3838,0,2,0.7065,,,0,,Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese,101
 2026-11-24,Vicenza vs Carrarese,larga,4,0.2531,0,2,0.6816,,,0,,Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Vicenza,1010
-2026-11-24,Virtus Entella vs Verona,corta,3,0.3369,0,1,0.6936,,,0,,Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella,001
-2026-11-24,Virtus Entella vs Verona,larga,5,0.1331,0,2,0.6497,,,0,,Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona,00101
-2026-11-24,Virtus Entella vs Verona,valor,2,0.4099,0,0,0.6427,2.52,0.034,0,,Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles,00
+2026-11-24,Virtus Entella vs Verona,corta,3,0.3369,0,1,0.6936,,,0,,Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella,1
+2026-11-24,Virtus Entella vs Verona,larga,5,0.1331,0,2,0.6497,,,0,,Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Menos de 13.5 faltas de Virtus Entella + Menos de 2.5 goles + Menos de 2.5 tarjetas de Verona,101
+2026-11-24,Virtus Entella vs Verona,valor,2,0.4099,0,0,0.6427,2.52,0.034,0,,Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles,0
 2026-11-24,Bristol City vs Wrexham,corta,3,0.3848,0,2,0.7197,,,0,,Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta,101
 2026-11-24,Bristol City vs Wrexham,larga,5,0.1489,0,3,0.6617,,,0,,Menos de 11.5 faltas de Bristol City + Menos de 2.5 tarjetas de Bristol City + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Wrexham,10110
 2026-11-24,Bristol City vs Wrexham,valor,2,0.4739,1,2,0.6375,2.41,0.141,1,1.4100000000000001,Menos de 8.5 tiros a puerta + Menos de 2.5 goles,11
 2026-11-24,Cardiff vs Preston,corta,3,0.5156,1,3,0.791,,,0,,Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff,111
 2026-11-24,Cardiff vs Preston,larga,4,0.3816,0,3,0.773,,,0,,Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston,1110
 2026-11-24,Cardiff vs Preston,valor,2,0.5381,0,1,0.7214,1.77,-0.045,0,,Más de 4.5 tiros a puerta de Cardiff + Menos de 4.5 córners de Preston,10
-2026-11-24,Charlton vs Lincoln,corta,3,0.3616,0,1,0.6845,4.18,0.511,1,-1.0,Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln,001
-2026-11-24,Charlton vs Lincoln,larga,5,0.1137,0,2,0.6415,,,0,,Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln,00101
-2026-11-24,Charlton vs Lincoln,valor,3,0.3095,0,1,0.6526,5.19,0.605,1,-1.0,Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln,001
+2026-11-24,Charlton vs Lincoln,corta,3,0.3616,0,1,0.6845,4.18,0.511,1,-1.0,Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln,1
+2026-11-24,Charlton vs Lincoln,larga,5,0.1137,0,2,0.6415,,,0,,Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 2.5 tarjetas de Lincoln + Más de 22.5 faltas + Menos de 4.5 córners de Lincoln,101
+2026-11-24,Charlton vs Lincoln,valor,3,0.3095,0,1,0.6526,5.19,0.605,1,-1.0,Menos de 2.5 goles + Menos de 8.5 tiros a puerta + Menos de 4.5 córners de Lincoln,1
 2026-11-24,Middlesbrough vs Swansea,corta,3,0.4545,1,3,0.7587,,,0,,Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea,111
 2026-11-24,Middlesbrough vs Swansea,larga,4,0.3071,0,3,0.7306,,,0,,Menos de 2.5 tarjetas de Middlesbrough + Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea + Menos de 11.5 faltas de Middlesbrough,1110
 2026-11-24,Middlesbrough vs Swansea,valor,2,0.5363,1,2,0.7203,1.73,-0.074,0,,Más de 4.5 tiros a puerta de Middlesbrough + Menos de 4.5 córners de Swansea,11
 2026-11-24,Portsmouth vs West Ham,corta,3,0.3715,1,3,0.709,,,0,,Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham,111
 2026-11-24,Portsmouth vs West Ham,larga,4,0.2511,0,3,0.6877,,,0,,Menos de 2.5 tarjetas de Portsmouth + Más de 3.5 tiros a puerta de West Ham + Más de 4.5 córners de West Ham + Más de 2.5 goles,1110
 2026-11-24,Portsmouth vs West Ham,valor,2,0.3897,0,1,0.6271,2.6,0.015,0,,Más de 4.5 córners de West Ham + Más de 2.5 goles,10
-2026-11-24,Sheffield United vs Southampton,corta,2,0.4222,0,0,0.6537,,,0,,Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United,00
-2026-11-24,Sheffield United vs Southampton,larga,5,0.1005,0,1,0.605,,,0,,Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton,00001
-2026-11-24,Sheffield United vs Southampton,valor,2,0.4447,0,0,0.6268,2.39,0.063,1,-1.0,Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles,00
+2026-11-24,Sheffield United vs Southampton,corta,2,0.4222,0,0,0.6537,,,0,,Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United,0
+2026-11-24,Sheffield United vs Southampton,larga,5,0.1005,0,1,0.605,,,0,,Más de 3.5 tiros a puerta de Southampton + Menos de 2.5 tarjetas de Sheffield United + Más de 2.5 goles + Menos de 5.5 córners de Sheffield United + Menos de 11.5 faltas de Southampton,1
+2026-11-24,Sheffield United vs Southampton,valor,2,0.4447,0,0,0.6268,2.39,0.063,1,-1.0,Más de 3.5 tiros a puerta de Southampton + Más de 2.5 goles,0
 2026-11-24,Hibernian vs Dundee,corta,3,0.3765,1,3,0.7066,,,0,,Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee,111
 2026-11-24,Hibernian vs Dundee,larga,4,0.2353,1,4,0.6869,,,0,,Menos de 4.5 tiros a puerta de Dundee + Menos de 2.5 tarjetas de Hibernian + Menos de 5.5 córners de Dundee + Menos de 12.5 faltas de Dundee,1111
 2026-11-24,Hibernian vs Dundee,valor,2,0.5225,1,2,0.7037,1.72,-0.103,0,,Menos de 4.5 tiros a puerta de Dundee + Menos de 5.5 córners de Dundee,11
-2026-11-24,Rangers vs Aberdeen,corta,3,0.6604,0,2,0.8653,,,0,,Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen,011
-2026-11-24,Rangers vs Aberdeen,larga,5,0.2665,0,4,0.7775,,,0,,Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles,01111
+2026-11-24,Rangers vs Aberdeen,corta,3,0.6604,0,2,0.8653,,,0,,Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen,11
+2026-11-24,Rangers vs Aberdeen,larga,5,0.2665,0,4,0.7775,,,0,,Menos de 4.5 tiros a puerta de Aberdeen + Menos de 2.5 tarjetas de Rangers + Menos de 5.5 córners de Aberdeen + Menos de 12.5 faltas de Rangers + Más de 2.5 goles,1111
+2026-11-25,Club Brugge vs Liverpool,corta,3,0.4437,1,3,0.7574,,,0,,Menos de 11.5 faltas de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Más de 2.5 goles,111
+2026-11-25,Club Brugge vs Liverpool,larga,5,0.143,0,4,0.6927,,,0,,Menos de 11.5 faltas de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Liverpool + Menos de 10.5 córners,11110
+2026-11-25,Internazionale vs VfB Stuttgart,corta,3,0.4313,0,2,0.7486,,,0,,Menos de 2.5 tarjetas de Internazionale + Más de 2.5 goles + Menos de 11.5 faltas de VfB Stuttgart,101
+2026-11-25,Internazionale vs VfB Stuttgart,larga,5,0.1957,0,2,0.6961,,,0,,Menos de 2.5 tarjetas de Internazionale + Más de 2.5 goles + Menos de 11.5 faltas de VfB Stuttgart + Menos de 4.5 córners de VfB Stuttgart + Más de 5.5 tiros a puerta de Internazionale,10100
+2026-11-25,Lille vs Bayern Munich,corta,3,0.4109,1,3,0.7396,,,0,,Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 tiros a puerta de Lille + Menos de 11.5 faltas de Lille,111
+2026-11-25,Lille vs Bayern Munich,larga,5,0.157,1,5,0.6963,,,0,,Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 tiros a puerta de Lille + Menos de 11.5 faltas de Lille + Menos de 5.5 córners de Lille + Más de 2.5 goles,11111
+2026-11-25,Paris Saint-Germain vs AS Roma,corta,3,0.3951,1,3,0.7292,,,0,,Menos de 11.5 faltas de Paris Saint-Germain + Menos de 2.5 tarjetas de Paris Saint-Germain + Menos de 4.5 tiros a puerta de AS Roma,111
+2026-11-25,Paris Saint-Germain vs AS Roma,larga,5,0.1351,1,5,0.6773,,,0,,Menos de 11.5 faltas de Paris Saint-Germain + Menos de 2.5 tarjetas de Paris Saint-Germain + Menos de 4.5 tiros a puerta de AS Roma + Menos de 4.5 córners de AS Roma + Más de 2.5 goles,11111
+2026-11-25,Shakhtar Donetsk vs Fenerbahce,corta,3,0.3951,0,1,0.7292,,,0,,Menos de 11.5 faltas de Paris Saint-Germain + Menos de 2.5 tarjetas de Paris Saint-Germain + Menos de 4.5 tiros a puerta de AS Roma,010
+2026-11-25,Shakhtar Donetsk vs Fenerbahce,larga,5,0.1351,0,1,0.6773,,,0,,Menos de 11.5 faltas de Paris Saint-Germain + Menos de 2.5 tarjetas de Paris Saint-Germain + Menos de 4.5 tiros a puerta de AS Roma + Menos de 4.5 córners de AS Roma + Más de 2.5 goles,01000
+2026-11-25,Sporting CP vs Manchester United,corta,3,0.4017,1,3,0.7271,,,0,,Menos de 13.5 faltas de Manchester United + Menos de 4.5 tiros a puerta de Manchester United + Menos de 5.5 tarjetas,111
+2026-11-25,Sporting CP vs Manchester United,larga,5,0.1521,1,5,0.6849,,,0,,Menos de 13.5 faltas de Manchester United + Menos de 4.5 tiros a puerta de Manchester United + Menos de 5.5 tarjetas + Más de 2.5 goles + Menos de 4.5 córners de Manchester United,11111
