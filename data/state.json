@@ -1267,9 +1267,6 @@
   "cbb|2026-11-27|Alabama Crimson Tide|Kansas State Wildcats",
   "cbb|2026-11-27|Baylor Bears|Gonzaga Bulldogs",
   "cbb|2026-11-26|Colorado Buffaloes|Grand Canyon Lopes",
-  "fc|2389087",
-  "fc|2387632",
-  "fc|2389091",
   "fc|2389090",
   "fc|2389088",
   "cs2|134578",
@@ -2269,7 +2266,12 @@
   "fc|2397998",
   "fc|2398163",
   "fc|2397999",
-  "fc|2398164"
+  "fc|2398164",
+  "cs2|134518",
+  "cs2|134517",
+  "fc|2397925",
+  "fc|2397923",
+  "fc|2398702"
  ],
  "signals": [
   {
@@ -12760,31 +12762,6 @@
    "bajas": "",
    "considered": true,
    "placed": false
-  },
-  {
-   "market": "H",
-   "pick": "v1nn",
-   "odds": 2.15,
-   "book": "Unibet",
-   "implied": 0.405,
-   "edge": 0.202,
-   "sin_stake": true,
-   "p": 0.559,
-   "key": "fc|2393168",
-   "match": "v1nn vs cl1vlind",
-   "start": "2026-11-22T10:42:00+00:00",
-   "league": "🎮⚽ FC 27 · Bundesliga",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle v1nn vs cl1vlind (Bundesliga): goles esperados 3.74-3.00, 1X2 56%/17%/27%. Sin cuotas de casa.",
-   "captured": "2026-11-22T10:16",
-   "version": "ec3140f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-3",
-   "result": true,
-   "close_p": null,
-   "logged": true
   },
   {
    "key": "vp|2026-11-22|Da Nang|Ninh Binh",
@@ -25920,7 +25897,11 @@
    "version": "8f9589a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-2",
+   "result": true,
+   "close_p": 0.4866,
+   "logged": true
   },
   {
    "market": "t1",
@@ -33647,7 +33628,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -33694,7 +33679,11 @@
    "version": "5555015",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -33745,20 +33734,6 @@
    "start": "2026-11-25T10:42:00+00:00",
    "league": "🎮⚽ FC 27 · Bundesliga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 80.656 partidos)",
-    "Goles esperados: BlackStar98 2.34 · Jekunam 2.04",
-    "Ganador: BlackStar98 44% · empate 23% · Jekunam 33%",
-    "Total: más de 4.5 goles 45% · menos 55%",
-    "Hándicap BlackStar98: −1.5 28% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BlackStar98 ✅✅➖✅❌ | Jekunam ➖➖✅➖❌",
-    "• Partidos: BlackStar98 319 | Jekunam 1353",
-    "• Liga: Bundesliga",
-    "• Unibet: 1 2.38 · X 2.60 · 2 2.85 (sin margen 36%/33%/30%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.38 (+6%) · Paf España 2.38 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle BlackStar98 vs Jekunam (Bundesliga): goles esperados 2.34-2.04, 1X2 44%/23%/33%. Sin cuotas de casa.",
    "captured": "2026-11-25T10:14",
    "version": "5555015",
@@ -33892,6 +33867,41 @@
    "context": "EA FC Esoccer Battle crinner vs dirowe (CSL): goles esperados 4.04-2.72, 1X2 63%/15%/21%. Sin cuotas de casa.",
    "captured": "2026-11-25T10:35",
    "version": "5c28649",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "dor1an",
+   "odds": 3.65,
+   "book": "Unibet",
+   "implied": 0.238,
+   "edge": 0.199,
+   "sin_stake": true,
+   "p": 0.328,
+   "key": "fc|2397925",
+   "match": "dor1an vs cl1vlind",
+   "start": "2026-11-25T11:15:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 80.678 partidos)",
+    "Goles esperados: dor1an 2.66 · cl1vlind 3.04",
+    "Ganador: dor1an 33% · empate 19% · cl1vlind 48%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap cl1vlind: −1.5 31% · −2.5 18%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: dor1an ❌❌➖✅❌ | cl1vlind ➖❌✅❌➖",
+    "• Partidos: dor1an 466 | cl1vlind 914",
+    "• Liga: World Cup B",
+    "• Unibet: 1 3.65 · X 2.95 · 2 1.86 (sin margen 24%/29%/47%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.65 (+20%) · Paf España 3.65 (+20%)"
+   ],
+   "context": "EA FC Esoccer Battle dor1an vs cl1vlind (World Cup B): goles esperados 2.66-3.04, 1X2 33%/19%/48%. Sin cuotas de casa.",
+   "captured": "2026-11-25T10:45",
+   "version": "1683daa",
    "bajas": "",
    "considered": true,
    "placed": false

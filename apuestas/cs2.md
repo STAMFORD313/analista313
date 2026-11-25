@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 11:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 11:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ryvex vs LVLT — 25/11 · 12:30
 

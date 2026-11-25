@@ -80705,12 +80705,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2398700,263130,Real Madrid,Paris,,
 2398701,263130,Bayern Munchen,Real Madrid,,
 2398702,263130,Liverpool,Atleti,,
-2398821,263164,Brazil,Spain,2,2
-2398822,263164,Argentina,France,0,3
-2398823,263164,France,Brazil,1,1
-2398824,263164,Spain,England,2,0
-2398825,263164,England,France,2,1
-2398826,263164,Brazil,Argentina,2,1
+2398821,263164,Brazil,Spain,2.0,2.0
+2398822,263164,Argentina,France,0.0,3.0
+2398823,263164,France,Brazil,1.0,1.0
+2398824,263164,Spain,England,2.0,0.0
+2398825,263164,England,France,2.0,1.0
+2398826,263164,Brazil,Argentina,2.0,1.0
 2398827,263164,Argentina,England,,
 2398828,263164,France,Spain,,
 2398829,263164,Spain,Argentina,,
@@ -80725,3 +80725,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2398838,263164,Spain,France,,
 2398839,263164,Argentina,Spain,,
 2398840,263164,Brazil,England,,
+2397835,263099,Fenerbahce,Porto,3,1
+2397836,263099,Salzburg,Aston Villa,4,3
+2397837,263099,Aston Villa,Fenerbahce,6,4
+2397838,263099,Porto,Roma,1,1
+2397839,263099,Roma,Aston Villa,1,1
+2397840,263099,Fenerbahce,Salzburg,3,6
+2397841,263099,Salzburg,Roma,,
+2397842,263099,Aston Villa,Porto,,
+2397843,263099,Porto,Salzburg,,
+2397844,263099,Roma,Fenerbahce,,
+2397845,263099,Porto,Fenerbahce,,
+2397846,263099,Aston Villa,Salzburg,,
+2397847,263099,Fenerbahce,Aston Villa,,
+2397848,263099,Roma,Porto,,
+2397849,263099,Aston Villa,Roma,,
+2397850,263099,Salzburg,Fenerbahce,,
+2397851,263099,Roma,Salzburg,,
+2397852,263099,Porto,Aston Villa,,
+2397853,263099,Salzburg,Porto,,
+2397854,263099,Fenerbahce,Roma,,
+2397915,263108,Belgium,Netherlands,1,3
+2397916,263108,Germany,Portugal,1,2
+2397917,263108,Portugal,Belgium,2,2
+2397918,263108,Netherlands,Morocco,0,3
+2397919,263108,Morocco,Portugal,1,1
+2397920,263108,Belgium,Germany,3,1
+2397921,263108,Germany,Morocco,,
+2397922,263108,Portugal,Netherlands,,
+2397923,263108,Netherlands,Germany,,
+2397924,263108,Morocco,Belgium,,
+2397925,263108,Netherlands,Belgium,,
+2397926,263108,Portugal,Germany,,
+2397927,263108,Belgium,Portugal,,
+2397928,263108,Morocco,Netherlands,,
+2397929,263108,Portugal,Morocco,,
+2397930,263108,Germany,Belgium,,
+2397931,263108,Morocco,Germany,,
+2397932,263108,Netherlands,Portugal,,
+2397933,263108,Germany,Netherlands,,
+2397934,263108,Belgium,Morocco,,
+2398155,263135,Chengdu Rongcheng,Shanghai Shenhua,2,4
+2398156,263135,Shandong Taishan,Shanghai Port,3,0
+2398157,263135,Shanghai Port,Chengdu Rongcheng,0,1
+2398158,263135,Shanghai Shenhua,Beijing Guoan,1,1
+2398159,263135,Beijing Guoan,Shanghai Port,,
+2398160,263135,Chengdu Rongcheng,Shandong Taishan,,
+2398161,263135,Shandong Taishan,Beijing Guoan,,
+2398162,263135,Shanghai Port,Shanghai Shenhua,,
+2398163,263135,Shanghai Shenhua,Shandong Taishan,,
+2398164,263135,Beijing Guoan,Chengdu Rongcheng,,
+2398165,263135,Shanghai Shenhua,Chengdu Rongcheng,,
+2398166,263135,Shanghai Port,Shandong Taishan,,
+2398167,263135,Chengdu Rongcheng,Shanghai Port,,
+2398168,263135,Beijing Guoan,Shanghai Shenhua,,
+2398169,263135,Shanghai Port,Beijing Guoan,,
+2398170,263135,Shandong Taishan,Chengdu Rongcheng,,
+2398171,263135,Beijing Guoan,Shandong Taishan,,
+2398172,263135,Shanghai Shenhua,Shanghai Port,,
+2398173,263135,Shandong Taishan,Shanghai Shenhua,,
+2398174,263135,Chengdu Rongcheng,Beijing Guoan,,

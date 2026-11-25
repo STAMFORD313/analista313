@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 11:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 11:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Los Angeles Rams vs Green Bay Packers — 26/11 · 02:00
 

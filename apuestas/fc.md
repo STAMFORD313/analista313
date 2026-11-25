@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 11:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## BlackStar98 vs Jekunam — 25/11 · 11:42
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana BlackStar98** @ **2.38** (Unibet) · prob 44% vs casas 36% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.656 partidos)  
-Goles esperados: BlackStar98 2.34 · Jekunam 2.04  
-Ganador: BlackStar98 44% · empate 23% · Jekunam 33%  
-Total: más de 4.5 goles 45% · menos 55%  
-Hándicap BlackStar98: −1.5 28% · −2.5 14%  
-🔎 **Claves**  
-• Forma: BlackStar98 ✅✅➖✅❌ | Jekunam ➖➖✅➖❌  
-• Partidos: BlackStar98 319 | Jekunam 1353  
-• Liga: Bundesliga  
-• Unibet: 1 2.38 · X 2.60 · 2 2.85 (sin margen 36%/33%/30%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+6%) · Paf España 2.38 (+6%)  
+Actualizado 25/11/2026 11:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## A1ose vs RuBIX — 25/11 · 11:51
 
@@ -96,4 +77,23 @@ Hándicap crinner: −1.5 47% · −2.5 32%
 • Liga: CSL  
 • Unibet: 1 1.68 · X 6.25 · 2 2.65 (sin margen 53%/14%/33%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.68 (+7%) · Paf España 1.68 (+7%)  
+
+## dor1an vs cl1vlind — 25/11 · 12:15
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana dor1an** @ **3.65** (Unibet) · prob 33% vs casas 24% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.678 partidos)  
+Goles esperados: dor1an 2.66 · cl1vlind 3.04  
+Ganador: dor1an 33% · empate 19% · cl1vlind 48%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap cl1vlind: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: dor1an ❌❌➖✅❌ | cl1vlind ➖❌✅❌➖  
+• Partidos: dor1an 466 | cl1vlind 914  
+• Liga: World Cup B  
+• Unibet: 1 3.65 · X 2.95 · 2 1.86 (sin margen 24%/29%/47%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.65 (+20%) · Paf España 3.65 (+20%)  
 
