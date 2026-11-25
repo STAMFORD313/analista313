@@ -1280,6 +1280,7 @@ id,date,event,home,away,hs,as,res
 401921710,2026-11-24T22:00Z,Providence Friars at Arizona Wildcats,Arizona Wildcats,Providence Friars,84,66,1.0
 401906853,2026-11-24T20:00Z,Tennessee Volunteers at Maryland Terrapins,Maryland Terrapins,Tennessee Volunteers,64,72,0.0
 401916319,2026-11-25T00:00Z,Vanderbilt Commodores at Ohio State Buckeyes,Ohio State Buckeyes,Vanderbilt Commodores,66,72,0.0
+401906762,2026-11-25T03:05Z,Baylor Bears at Alabama Crimson Tide,Alabama Crimson Tide,Baylor Bears,63,68,0.0
 401915941,2026-11-24T20:00Z,Miami Hurricanes at TCU Horned Frogs,TCU Horned Frogs,Miami Hurricanes,84,71,1.0
 401921709,2026-11-24T19:30Z,Ole Miss Rebels at BYU Cougars,BYU Cougars,Ole Miss Rebels,63,73,0.0
 401916291,2026-11-25T00:00Z,Jacksonville Dolphins at Indiana Hoosiers,Indiana Hoosiers,Jacksonville Dolphins,82,64,1.0
@@ -1356,3 +1357,4 @@ id,date,event,home,away,hs,as,res
 401921817,2026-11-25T02:00Z,Evansville Purple Aces at Missouri Tigers,Missouri Tigers,Evansville Purple Aces,78,67,1.0
 401911535,2026-11-25T02:00Z,UTEP Miners at Charleston Cougars,Charleston Cougars,UTEP Miners,69,80,0.0
 401909699,2026-11-25T02:00Z,UNC Asheville Bulldogs at Florida State Seminoles,Florida State Seminoles,UNC Asheville Bulldogs,97,61,1.0
+401911253,2026-11-25T02:55Z,Saint Louis Billikens at Grand Canyon Lopes,Grand Canyon Lopes,Saint Louis Billikens,91,88,1.0
