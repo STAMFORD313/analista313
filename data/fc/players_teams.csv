@@ -81005,18 +81005,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2398878,263156,Juventus,Napoli,,
 2398879,263156,Roma,Juventus,,
 2398880,263156,Sassuolo,Bologna,,
-2399141,263118,Sporting CP,Man City,1,0
-2399142,263118,Juventus,B Dortmund,2,1
-2399143,263118,B Dortmund,Sporting CP,2,3
-2399144,263118,Man City,Arsenal,2,1
-2399145,263118,Arsenal,B Dortmund,3,0
-2399146,263118,Sporting CP,Juventus,1,2
-2399147,263118,Juventus,Arsenal,2,1
-2399148,263118,B Dortmund,Man City,1,0
-2399149,263118,Man City,Juventus,2,2
-2399150,263118,Arsenal,Sporting CP,2,2
-2399151,263118,Man City,Sporting CP,2,0
-2399152,263118,B Dortmund,Juventus,1,2
+2399141,263118,Sporting CP,Man City,1.0,0.0
+2399142,263118,Juventus,B Dortmund,2.0,1.0
+2399143,263118,B Dortmund,Sporting CP,2.0,3.0
+2399144,263118,Man City,Arsenal,2.0,1.0
+2399145,263118,Arsenal,B Dortmund,3.0,0.0
+2399146,263118,Sporting CP,Juventus,1.0,2.0
+2399147,263118,Juventus,Arsenal,2.0,1.0
+2399148,263118,B Dortmund,Man City,1.0,0.0
+2399149,263118,Man City,Juventus,2.0,2.0
+2399150,263118,Arsenal,Sporting CP,2.0,2.0
+2399151,263118,Man City,Sporting CP,2.0,0.0
+2399152,263118,B Dortmund,Juventus,1.0,2.0
 2399153,263118,Sporting CP,B Dortmund,,
 2399154,263118,Arsenal,Man City,,
 2399155,263118,B Dortmund,Arsenal,,
@@ -81025,3 +81025,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2399158,263118,Man City,B Dortmund,,
 2399159,263118,Juventus,Man City,,
 2399160,263118,Sporting CP,Arsenal,,
+2398503,263095,Man City,Liverpool,0,1
+2398504,263095,Chelsea,Arsenal,2,3
+2398505,263095,Arsenal,Man City,1,1
+2398506,263095,Liverpool,Tottenham,0,1
+2398507,263095,Tottenham,Arsenal,0,1
+2398508,263095,Man City,Chelsea,2,0
+2398509,263095,Chelsea,Tottenham,3,0
+2398510,263095,Arsenal,Liverpool,1,0
+2398511,263095,Liverpool,Chelsea,3,0
+2398512,263095,Tottenham,Man City,0,1
+2398513,263095,Liverpool,Man City,1,1
+2398514,263095,Arsenal,Chelsea,0,2
+2398515,263095,Man City,Arsenal,2,0
+2398516,263095,Tottenham,Liverpool,1,2
+2398517,263095,Arsenal,Tottenham,2,2
+2398518,263095,Chelsea,Man City,0,0
+2398519,263095,Tottenham,Chelsea,4,1
+2398520,263095,Liverpool,Arsenal,1,2
+2398521,263095,Chelsea,Liverpool,0,3
+2398522,263095,Man City,Tottenham,4,1

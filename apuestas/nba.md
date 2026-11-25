@@ -1,6 +1,50 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 16:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 145.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **152.6** puntos · línea 145.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Arizona State Sun Devils ✅✅✅✅✅ | LSU Tigers ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Arizona State Sun Devils: sin bajas; LSU Tigers: sin bajas  
+
+## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
+
+👀 candidata · 🏀 NCAA Basketball · **Arizona State Sun Devils -4.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Arizona State Sun Devils cubre -4.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Arizona State Sun Devils ✅✅✅✅✅ | LSU Tigers ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Arizona State Sun Devils: sin bajas; LSU Tigers: sin bajas  
+
+## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Arizona State Sun Devils** @ **1.50** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.205 partidos y bajas)  
+Gana Arizona State Sun Devils 70% · Gana LSU Tigers 30%  
+Casas: Arizona State Sun Devils 64% · LSU Tigers 36%  
+Hándicap LSU -4.5 · Total puntos 145.5  
+🔎 **Claves**  
+• Forma: Arizona State Sun Devils ✅✅✅✅✅ | LSU Tigers ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Arizona State Sun Devils: sin bajas; LSU Tigers: sin bajas  
+• Favorito de las casas: Arizona State Sun Devils @ 1.50  
 
 ## VCU Rams vs Washington Huskies — 26/11 · 04:00
 
@@ -144,6 +188,94 @@ Hándicap ALA -13.5 · Total puntos 172.5
 • Bajas: Alabama Crimson Tide: sin bajas; Kansas State Wildcats: sin bajas  
 • Favorito de las casas: Alabama Crimson Tide @ 1.13  
 
+## St. John's Red Storm vs Louisville Cardinals — 27/11 · 03:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 157.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **158.1** puntos · línea 157.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: St. John's Red Storm ✅✅✅✅✅ | Louisville Cardinals ✅✅❌✅✅  
+• H2H: sin precedentes  
+• Bajas: St. John's Red Storm: sin bajas; Louisville Cardinals: sin bajas  
+
+## St. John's Red Storm vs Louisville Cardinals — 27/11 · 03:00
+
+👀 candidata · 🏀 NCAA Basketball · **St. John's Red Storm -4.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: St. John's Red Storm cubre -4.5 con prob. 48% (casas 48%)  
+🔎 **Claves**  
+• Forma: St. John's Red Storm ✅✅✅✅✅ | Louisville Cardinals ✅✅❌✅✅  
+• H2H: sin precedentes  
+• Bajas: St. John's Red Storm: sin bajas; Louisville Cardinals: sin bajas  
+
+## St. John's Red Storm vs Louisville Cardinals — 27/11 · 03:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana St. John's Red Storm** @ **1.49** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.205 partidos y bajas)  
+Gana St. John's Red Storm 84% · Gana Louisville Cardinals 16%  
+Casas: St. John's Red Storm 64% · Louisville Cardinals 36%  
+Hándicap SJU -4.5 · Total puntos 157.5  
+🔎 **Claves**  
+• Forma: St. John's Red Storm ✅✅✅✅✅ | Louisville Cardinals ✅✅❌✅✅  
+• H2H: sin precedentes  
+• Bajas: St. John's Red Storm: sin bajas; Louisville Cardinals: sin bajas  
+• Favorito de las casas: St. John's Red Storm @ 1.49  
+
+## Kansas State Wildcats vs Alabama Crimson Tide — 27/11 · 03:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 172.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **161.2** puntos · línea 172.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Kansas State Wildcats ✅✅✅❌❌ | Alabama Crimson Tide ✅✅✅✅❌  
+• H2H: 1 desde 2020: 0-1  
+• Bajas: Kansas State Wildcats: sin bajas; Alabama Crimson Tide: sin bajas  
+
+## Kansas State Wildcats vs Alabama Crimson Tide — 27/11 · 03:00
+
+👀 candidata · 🏀 NCAA Basketball · **Kansas State Wildcats +13.5** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Kansas State Wildcats cubre +13.5 con prob. 52% (casas 52%)  
+🔎 **Claves**  
+• Forma: Kansas State Wildcats ✅✅✅❌❌ | Alabama Crimson Tide ✅✅✅✅❌  
+• H2H: 1 desde 2020: 0-1  
+• Bajas: Kansas State Wildcats: sin bajas; Alabama Crimson Tide: sin bajas  
+
+## Kansas State Wildcats vs Alabama Crimson Tide — 27/11 · 03:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Alabama Crimson Tide** @ **1.13** (DraftKings) · prob 85% vs casas 85% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.205 partidos y bajas)  
+Gana Kansas State Wildcats 22% · Gana Alabama Crimson Tide 78%  
+Casas: Kansas State Wildcats 15% · Alabama Crimson Tide 85%  
+Hándicap ALA -13.5 · Total puntos 172.5  
+🔎 **Claves**  
+• Forma: Kansas State Wildcats ✅✅✅❌❌ | Alabama Crimson Tide ✅✅✅✅❌  
+• H2H: 1 desde 2020: 0-1  
+• Bajas: Kansas State Wildcats: sin bajas; Alabama Crimson Tide: sin bajas  
+• Favorito de las casas: Alabama Crimson Tide @ 1.13  
+
 ## Oregon Ducks vs Texas Tech Red Raiders — 27/11 · 05:30
 
 👀 candidata · 🏀 NCAA Basketball · **Más de 153.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
@@ -230,5 +362,49 @@ Hándicap GONZ -4.5 · Total puntos 160.5
 • Forma: Baylor Bears ✅✅❌✅✅ | Gonzaga Bulldogs ✅✅❌✅✅  
 • H2H: 5 desde 2019: 2-2  
 • Bajas: Baylor Bears: sin bajas; Gonzaga Bulldogs: sin bajas  
+• Favorito de las casas: Gonzaga Bulldogs @ 1.44  
+
+## Gonzaga Bulldogs vs Baylor Bears — 27/11 · 05:30
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 160.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **146.9** puntos · línea 160.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Gonzaga Bulldogs ✅✅❌✅✅ | Baylor Bears ✅✅❌✅✅  
+• H2H: 5 desde 2019: 2-2  
+• Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas  
+
+## Gonzaga Bulldogs vs Baylor Bears — 27/11 · 05:30
+
+👀 candidata · 🏀 NCAA Basketball · **Gonzaga Bulldogs -4.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Gonzaga Bulldogs cubre -4.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Gonzaga Bulldogs ✅✅❌✅✅ | Baylor Bears ✅✅❌✅✅  
+• H2H: 5 desde 2019: 2-2  
+• Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas  
+
+## Gonzaga Bulldogs vs Baylor Bears — 27/11 · 05:30
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Gonzaga Bulldogs** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.205 partidos y bajas)  
+Gana Gonzaga Bulldogs 80% · Gana Baylor Bears 20%  
+Casas: Gonzaga Bulldogs 66% · Baylor Bears 34%  
+Hándicap GONZ -4.5 · Total puntos 160.5  
+🔎 **Claves**  
+• Forma: Gonzaga Bulldogs ✅✅❌✅✅ | Baylor Bears ✅✅❌✅✅  
+• H2H: 5 desde 2019: 2-2  
+• Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas  
 • Favorito de las casas: Gonzaga Bulldogs @ 1.44  
 

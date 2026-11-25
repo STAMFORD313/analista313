@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 16:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Dicca vs Lukapaja — 25/11 · 17:01
+## SDI vs Gazi — 25/11 · 18:14
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **2.43** (Unibet) · prob 48% vs casas 36% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **6.10** (Unibet) · prob 19% vs casas 14% · ventaja +18%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.033 partidos)  
+Goles esperados: SDI 2.74 · Gazi 3.08  
+Ganador: SDI 41% · empate 19% · Gazi 40%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Gazi: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: SDI ❌❌❌✅❌ | Gazi ➖➖✅❌➖  
+• Partidos: SDI 825 | Gazi 656  
+• Liga: A-League  
+• Unibet: 1 2.55 · X 6.10 · 2 1.73 (sin margen 35%/14%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+18%) · Paf España 6.10 (+18%)  
+
+## CIDCUDI vs SDI — 25/11 · 18:26
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana CIDCUDI** @ **3.50** (Unibet) · prob 34% vs casas 25% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.962 partidos)  
-Goles esperados: Dicca 3.17 · Lukapaja 2.68  
-Ganador: Dicca 48% · empate 19% · Lukapaja 33%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Dicca: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 81.033 partidos)  
+Goles esperados: CIDCUDI 2.80 · SDI 3.02  
+Ganador: CIDCUDI 34% · empate 19% · SDI 47%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap SDI: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Dicca ❌❌❌✅❌ | Lukapaja ✅❌❌✅✅  
-• Partidos: Dicca 1015 | Lukapaja 123  
-• Liga: Europa League  
-• Unibet: 1 2.43 · X 3.50 · 2 2.20 (sin margen 36%/25%/39%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.43 (+16%) · Paf España 2.43 (+16%)  
+• Forma: CIDCUDI ✅➖❌❌✅ | SDI ❌❌❌✅❌  
+• Partidos: CIDCUDI 97 | SDI 825  
+• Liga: A-League  
+• Unibet: 1 3.50 · X 5.30 · 2 1.47 (sin margen 25%/16%/59%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.50 (+19%) · Paf España 3.50 (+19%)  
 
-## cosske vs Joop — 25/11 · 17:04
+## Gazi vs Shinobu — 25/11 · 18:26
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cosske** @ **1.55** (Unibet) · prob 70% vs casas 57% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.10** (Unibet) · prob 22% vs casas 17% · ventaja +12%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.962 partidos)  
-Goles esperados: cosske 3.78 · Joop 2.23  
-Ganador: cosske 70% · empate 15% · Joop 15%  
-Total: más de 6.5 goles 39% · menos 61%  
-Hándicap cosske: −1.5 50% · −2.5 34%  
+📊 **Escenarios** (Poisson por jugador, 81.033 partidos)  
+Goles esperados: Gazi 2.22 · Shinobu 2.30  
+Ganador: Gazi 30% · empate 22% · Shinobu 48%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap Shinobu: −1.5 24% · −2.5 12%  
 🔎 **Claves**  
-• Forma: cosske ❌✅❌❌✅ | Joop ❌❌✅❌❌  
-• Partidos: cosske 275 | Joop 332  
-• Liga: Champions League B  
-• Unibet: 1 1.55 · X 5.20 · 2 3.35 (sin margen 57%/17%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.55 (+9%) · Paf España 1.55 (+9%)  
-
-## Mani vs pikalicaaa — 25/11 · 17:13
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Mani** @ **2.38** (Unibet) · prob 48% vs casas 37% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.962 partidos)  
-Goles esperados: Mani 2.93 · pikalicaaa 2.50  
-Ganador: Mani 47% · empate 20% · pikalicaaa 33%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap Mani: −1.5 32% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Mani ➖✅❌✅❌ | pikalicaaa ✅✅❌❌✅  
-• Partidos: Mani 1131 | pikalicaaa 836  
-• Liga: Europa League  
-• Unibet: 1 2.38 · X 5.40 · 2 1.87 (sin margen 37%/16%/47%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+13%) · Paf España 2.38 (+13%)  
+• Forma: Gazi ➖➖✅❌➖ | Shinobu ✅➖✅✅✅  
+• Partidos: Gazi 656 | Shinobu 1765  
+• Liga: A-League  
+• Unibet: 1 2.04 · X 5.10 · 2 2.18 (sin margen 43%/17%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.10 (+12%) · Paf España 5.10 (+12%)  
 
