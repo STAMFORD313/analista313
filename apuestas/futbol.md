@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 12:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 12:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cremonese vs Avellino — 25/11 · 19:00
 
