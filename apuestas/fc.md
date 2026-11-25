@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 05:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 06:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## kkikus vs tizzy — 25/11 · 05:47
+## hotShot vs OG — 25/11 · 06:26
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana tizzy** @ **1.38** (Unibet) · prob 79% vs casas 63% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana OG** @ **3.65** (Unibet) · prob 30% vs casas 24% · ventaja +10%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.370 partidos)  
-Goles esperados: kkikus 2.18 · tizzy 4.44  
-Ganador: kkikus 10% · empate 11% · tizzy 79%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap tizzy: −1.5 61% · −2.5 45%  
-🔎 **Claves**  
-• Forma: kkikus ❌❌✅✅❌ | tizzy ✅✅❌❌✅  
-• Partidos: kkikus 1285 | tizzy 510  
-• Liga: Club World Cup  
-• Unibet: 1 3.95 · X 5.75 · 2 1.38 (sin margen 22%/15%/63%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.38 (+9%) · Paf España 1.38 (+9%)  
-
-## believer vs Kavviro — 25/11 · 05:59
-
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Kavviro** @ **2.88** (Unibet) · prob 39% vs casas 30% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.370 partidos)  
-Goles esperados: believer 2.24 · Kavviro 2.16  
-Ganador: believer 38% · empate 23% · Kavviro 39%  
-Total: más de 4.5 goles 45% · menos 55%  
-Hándicap believer: −1.5 24% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 80.390 partidos)  
+Goles esperados: hotShot 2.49 · OG 2.07  
+Ganador: hotShot 48% · empate 22% · OG 30%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
 🔎 **Claves**  
-• Forma: believer ✅❌✅✅❌ | Kavviro ✅✅✅❌✅  
-• Partidos: believer 1360 | Kavviro 1143  
-• Liga: Club World Cup  
-• Unibet: 1 1.92 · X 3.55 · 2 2.88 (sin margen 45%/25%/30%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.88 (+13%) · Paf España 2.88 (+13%)  
+• Forma: hotShot ➖✅✅❌❌ | OG ❌❌✅➖❌  
+• Partidos: hotShot 768 | OG 773  
+• Liga: Serie A  
+• Unibet: 1 2.05 · X 2.55 · 2 3.65 (sin margen 42%/34%/24%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.65 (+10%) · Paf España 3.65 (+10%)  
 
-## v1nniePuh vs flamez — 25/11 · 06:00
+## Duka vs Taz — 25/11 · 06:30
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana flamez** @ **2.25** (Unibet) · prob 52% vs casas 39% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Duka** @ **3.35** (Unibet) · prob 33% vs casas 26% · ventaja +10%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.370 partidos)  
-Goles esperados: v1nniePuh 4.11 · flamez 4.77  
-Ganador: v1nniePuh 34% · empate 15% · flamez 52%  
-Total: más de 8.5 goles 53% · menos 47%  
-Hándicap flamez: −1.5 39% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 80.390 partidos)  
+Goles esperados: Duka 2.61 · Taz 2.96  
+Ganador: Duka 33% · empate 20% · Taz 48%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Taz: −1.5 31% · −2.5 17%  
 🔎 **Claves**  
-• Forma: v1nniePuh ❌❌❌❌❌ | flamez ❌✅✅❌✅  
-• Partidos: v1nniePuh 835 | flamez 956  
-• Liga: Premier League 2x6  
-• Unibet: 1 2.14 · X 4.20 · 2 2.25 (sin margen 41%/21%/39%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.25 (+16%) · Paf España 2.25 (+16%)  
+• Forma: Duka ➖✅✅❌❌ | Taz ➖✅➖✅❌  
+• Partidos: Duka 1297 | Taz 1267  
+• Liga: Bundesliga  
+• Unibet: 1 3.35 · X 3.50 · 2 1.77 (sin margen 26%/25%/49%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.35 (+10%) · Paf España 3.35 (+10%)  
+
+## OG vs DangerDim77 — 25/11 · 06:38
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana DangerDim77** @ **2.18** (Unibet) · prob 50% vs casas 40% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.390 partidos)  
+Goles esperados: OG 2.80 · DangerDim77 3.36  
+Ganador: OG 31% · empate 18% · DangerDim77 50%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap DangerDim77: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: OG ❌❌✅➖❌ | DangerDim77 ✅❌✅➖➖  
+• Partidos: OG 773 | DangerDim77 725  
+• Liga: Serie A  
+• Unibet: 1 2.70 · X 3.10 · 2 2.18 (sin margen 32%/28%/40%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.10 (+6%) · Paf España 2.10 (+6%)  
 
