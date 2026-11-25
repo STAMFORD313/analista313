@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 16:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 16:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grêmio vs RUSH — 25/11 · 20:00
 

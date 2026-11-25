@@ -35073,3 +35073,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194009,134389,bc-game-vs-chinggis-warriors-25-11-2026,2026-11-25T10:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,10844,9974,BC.Game,Chinggis Warriors,1,de_ancient,9974,13.0,11.0
 194005,134388,nip-vs-liquid-25-11-2026,2026-11-25T11:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,785,790,Ninjas in Pyjamas,Liquid,2,de_ancient,785,13.0,8.0
 194006,134388,nip-vs-liquid-25-11-2026,2026-11-25T11:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,785,790,Ninjas in Pyjamas,Liquid,1,de_inferno,785,13.0,3.0
+194287,134515,butterfly-vs-lunacy-team-25-11-2026,2026-11-25T12:20:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,24855,25636,Butterfly,Lunacy,3,de_ancient,25636,13.0,10.0
+194288,134515,butterfly-vs-lunacy-team-25-11-2026,2026-11-25T12:20:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,24855,25636,Butterfly,Lunacy,2,de_dust2,25636,13.0,11.0
+194289,134515,butterfly-vs-lunacy-team-25-11-2026,2026-11-25T12:20:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,24855,25636,Butterfly,Lunacy,1,de_nuke,24855,13.0,10.0
