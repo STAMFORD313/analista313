@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 22:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 23:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atletico-MG vs Corinthians — 26/11 · 00:00
 

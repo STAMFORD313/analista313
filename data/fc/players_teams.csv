@@ -81265,16 +81265,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2399198,263122,Liverpool,Tottenham,,
 2399199,263122,Chelsea,Liverpool,,
 2399200,263122,Arsenal,Man City,,
-2398563,263100,Liverpool,Atleti,0,1
-2398564,263100,Paris,Bayern Munchen,2,0
-2398565,263100,Bayern Munchen,Liverpool,2,0
-2398566,263100,Atleti,Real Madrid,1,2
-2398567,263100,Real Madrid,Bayern Munchen,0,2
-2398568,263100,Liverpool,Paris,2,2
-2398569,263100,Paris,Real Madrid,1,3
-2398570,263100,Bayern Munchen,Atleti,0,0
-2398571,263100,Atleti,Paris,2,0
-2398572,263100,Real Madrid,Liverpool,1,1
+2398563,263100,Liverpool,Atleti,0.0,1.0
+2398564,263100,Paris,Bayern Munchen,2.0,0.0
+2398565,263100,Bayern Munchen,Liverpool,2.0,0.0
+2398566,263100,Atleti,Real Madrid,1.0,2.0
+2398567,263100,Real Madrid,Bayern Munchen,0.0,2.0
+2398568,263100,Liverpool,Paris,2.0,2.0
+2398569,263100,Paris,Real Madrid,1.0,3.0
+2398570,263100,Bayern Munchen,Atleti,0.0,0.0
+2398571,263100,Atleti,Paris,2.0,0.0
+2398572,263100,Real Madrid,Liverpool,1.0,1.0
 2398573,263100,Atleti,Liverpool,,
 2398574,263100,Bayern Munchen,Paris,,
 2398575,263100,Liverpool,Bayern Munchen,,
@@ -81285,23 +81285,62 @@ id,tournament_id,club1,club2,ht1,ht2
 2398580,263100,Atleti,Bayern Munchen,,
 2398581,263100,Paris,Atleti,,
 2398582,263100,Liverpool,Real Madrid,,
-2398761,263133,B Dortmund,Man City,3,3
-2398762,263133,Sporting CP,Juventus,2,4
-2398763,263133,Juventus,B Dortmund,2,2
-2398764,263133,Man City,Arsenal,1,1
-2398765,263133,Arsenal,Juventus,0,5
-2398766,263133,B Dortmund,Sporting CP,1,1
+2398761,263133,B Dortmund,Man City,3.0,3.0
+2398762,263133,Sporting CP,Juventus,2.0,4.0
+2398763,263133,Juventus,B Dortmund,2.0,2.0
+2398764,263133,Man City,Arsenal,1.0,1.0
+2398765,263133,Arsenal,Juventus,0.0,5.0
+2398766,263133,B Dortmund,Sporting CP,1.0,1.0
 2398767,263133,Sporting CP,Arsenal,,
 2398768,263133,Juventus,Man City,,
 2398769,263133,Man City,Sporting CP,,
 2398770,263133,Arsenal,B Dortmund,,
-2398245,263139,Ecuador,Argentina,0,0
-2398246,263139,Colombia,Brazil,2,3
-2398247,263139,Brazil,Ecuador,2,2
-2398248,263139,Argentina,Uruguay,1,0
-2398249,263139,Uruguay,Brazil,1,1
-2398250,263139,Ecuador,Colombia,2,2
-2398251,263139,Colombia,Uruguay,0,1
-2398252,263139,Brazil,Argentina,1,1
-2398253,263139,Argentina,Colombia,2,1
-2398254,263139,Uruguay,Ecuador,2,1
+2398245,263139,Ecuador,Argentina,0.0,0.0
+2398246,263139,Colombia,Brazil,2.0,3.0
+2398247,263139,Brazil,Ecuador,2.0,2.0
+2398248,263139,Argentina,Uruguay,1.0,0.0
+2398249,263139,Uruguay,Brazil,1.0,1.0
+2398250,263139,Ecuador,Colombia,2.0,2.0
+2398251,263139,Colombia,Uruguay,0.0,1.0
+2398252,263139,Brazil,Argentina,1.0,1.0
+2398253,263139,Argentina,Colombia,2.0,1.0
+2398254,263139,Uruguay,Ecuador,2.0,1.0
+2399061,263113,Spain,Brazil,2,1
+2399062,263113,England,Argentina,1,0
+2399063,263113,Argentina,Spain,1,1
+2399064,263113,Brazil,France,2,0
+2399065,263113,France,Argentina,0,2
+2399066,263113,Spain,England,2,1
+2399067,263113,England,France,2,0
+2399068,263113,Argentina,Brazil,0,2
+2399069,263113,Brazil,England,1,1
+2399070,263113,France,Spain,2,1
+2399071,263113,Brazil,Spain,0,2
+2399072,263113,Argentina,England,0,1
+2399073,263113,Spain,Argentina,0,0
+2399074,263113,France,Brazil,,
+2399075,263113,Argentina,France,,
+2399076,263113,England,Spain,,
+2399077,263113,France,England,,
+2399078,263113,Brazil,Argentina,,
+2399079,263113,England,Brazil,,
+2399080,263113,Spain,France,,
+2398922,263159,Barcelona,Athletic Club,0,2
+2398923,263159,Athletic Club,Atleti,1,1
+2398924,263159,Real Madrid,Villarreal,3,1
+2398925,263159,Villarreal,Athletic Club,0,3
+2398926,263159,Atleti,Barcelona,2,2
+2398927,263159,Barcelona,Villarreal,2,0
+2398928,263159,Athletic Club,Real Madrid,2,0
+2398929,263159,Real Madrid,Barcelona,3,1
+2398930,263159,Villarreal,Atleti,3,1
+2398931,263159,Real Madrid,Atleti,1,0
+2398932,263159,Athletic Club,Barcelona,2,2
+2398933,263159,Atleti,Athletic Club,4,0
+2398934,263159,Villarreal,Real Madrid,0,2
+2398935,263159,Athletic Club,Villarreal,1,1
+2398936,263159,Barcelona,Atleti,2,2
+2398937,263159,Villarreal,Barcelona,,
+2398938,263159,Real Madrid,Athletic Club,,
+2398939,263159,Barcelona,Real Madrid,,
+2398940,263159,Atleti,Villarreal,,
