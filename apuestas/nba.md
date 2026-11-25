@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 19:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 19:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
 
