@@ -1,49 +1,5 @@
 {
  "analyzed": [
-  "atp|2026-11-17|Alexander Zverev|Arthur Fils",
-  "atp|2026-11-17|Daniil Medvedev|Frances Tiafoe",
-  "atp|2026-11-17|Carlos Alcaraz|Daniil Medvedev",
-  "atp|2026-11-17|Arthur Fils|Rafael Jodar",
-  "atp|2026-11-17|Ben Shelton|Rafael Jodar",
-  "atp|2026-11-17|Alexander Zverev|Ben Shelton",
-  "nba|2026-11-17|Boston Celtics|Orlando Magic",
-  "nba|2026-11-17|Cleveland Cavaliers|Chicago Bulls",
-  "nba|2026-11-17|Washington Wizards|Memphis Grizzlies",
-  "nba|2026-11-17|Brooklyn Nets|Philadelphia 76ers",
-  "nba|2026-11-17|Miami Heat|Houston Rockets",
-  "nba|2026-11-17|Minnesota Timberwolves|Portland Trail Blazers",
-  "nba|2026-11-17|New Orleans Pelicans|Golden State Warriors",
-  "nba|2026-11-17|Denver Nuggets|Phoenix Suns",
-  "nfl|2026-11-17|Baltimore Ravens|Los Angeles Chargers",
-  "nhl|2026-11-17|New York Rangers|Montreal Canadiens",
-  "nhl|2026-11-17|Utah Mammoth|Vancouver Canucks",
-  "cbb|2026-11-17|Kentucky Wildcats|Grambling Tigers",
-  "cbb|2026-11-17|Kent State Golden Flashes|Eastern Kentucky Colonels",
-  "cbb|2026-11-17|North Carolina Central Eagles|Virginia Lynchburg Dragons",
-  "cbb|2026-11-17|Tulsa Golden Hurricane|Western Kentucky Hilltoppers",
-  "cbb|2026-11-17|Stetson Hatters|Florida Memorial Lions",
-  "cbb|2026-11-17|Pennsylvania Quakers|DeSales Bulldogs",
-  "cbb|2026-11-17|Long Island University Sharks|St. Thomas Tommies",
-  "cbb|2026-11-17|Clemson Tigers|The Citadel Bulldogs",
-  "cbb|2026-11-17|Virginia Tech Hokies|Richmond Spiders",
-  "cbb|2026-11-17|Georgia Bulldogs|Jacksonville Dolphins",
-  "cbb|2026-11-17|Drake Bulldogs|Tarleton State Texans",
-  "cbb|2026-11-17|Southeast Missouri State Redhawks|Midway Eagles",
-  "cbb|2026-11-17|South Dakota State Jackrabbits|Mayville State Comets",
-  "cbb|2026-11-17|Valparaiso Beacons|Calumet St. Joseph Crimson Wave",
-  "cbb|2026-11-17|North Dakota Fighting Hawks|SIU Edwardsville Cougars",
-  "cbb|2026-11-17|Northwestern Wildcats|Columbia Lions",
-  "cbb|2026-11-17|Missouri State Bears|Abilene Christian Wildcats",
-  "cbb|2026-11-17|Oklahoma State Cowboys|Central Arkansas Bears",
-  "cbb|2026-11-17|Minnesota Golden Gophers|Western Illinois Leathernecks",
-  "cbb|2026-11-17|Kansas State Wildcats|Montana Grizzlies",
-  "cbb|2026-11-17|Texas A&M Aggies|SE Louisiana Lions",
-  "cbb|2026-11-17|UL Monroe Warhawks|Dallas Christian Crusaders",
-  "cbb|2026-11-17|Oregon State Beavers|East Texas A&M Lions",
-  "cbb|2026-11-17|UCLA Bruins|Long Beach State Beach",
-  "cbb|2026-11-17|Denver Pioneers|Colorado Colorado Springs Mountain Lions",
-  "cbb|2026-11-17|UC San Diego Tritons|Texas Southern Tigers",
-  "cbb|2026-11-17|Saint Mary's Gaels|Portland State Vikings",
   "nba|2026-11-18|Toronto Raptors|New York Knicks",
   "nba|2026-11-18|Minnesota Timberwolves|Portland Trail Blazers",
   "nba|2026-11-18|San Antonio Spurs|Detroit Pistons",
@@ -60,20 +16,8 @@
   "nhl|2026-11-18|Minnesota Wild|Nashville Predators",
   "nhl|2026-11-18|Vegas Golden Knights|Dallas Stars",
   "nhl|2026-11-18|San Jose Sharks|Calgary Flames",
-  "cfb|2026-11-17|Western Michigan Broncos|Eastern Michigan Eagles",
   "cfb|2026-11-18|Ohio Bobcats|Ball State Cardinals",
   "cfb|2026-11-18|Kent State Golden Flashes|Miami (OH) RedHawks",
-  "cbb|2026-11-17|Delaware Blue Hens|Wilson WILSON",
-  "cbb|2026-11-17|Southern Jaguars|Louisiana Christian Wildcats",
-  "cbb|2026-11-17|Murray State Racers|Hofstra Pride",
-  "cbb|2026-11-17|Houston Cougars|Rutgers Scarlet Knights",
-  "cbb|2026-11-17|Florida Gators|Notre Dame Fighting Irish",
-  "cbb|2026-11-17|UMass Lowell River Hawks|Saint Peter's Peacocks",
-  "cbb|2026-11-17|Southern Illinois Salukis|Liberty Flames",
-  "cbb|2026-11-17|Army Black Knights|Marist Red Foxes",
-  "cbb|2026-11-17|Stony Brook Seawolves|SUNY Potsdam SUNY-POTSDAM",
-  "cbb|2026-11-17|Purdue Boilermakers|Lipscomb Bisons",
-  "cbb|2026-11-17|Dartmouth Big Green|Maine Augusta Moose",
   "cbb|2026-11-18|Duke Blue Devils|Illinois Fighting Illini",
   "cbb|2026-11-18|Miami Hurricanes|Rider Broncs",
   "cbb|2026-11-18|South Alabama Jaguars|Spring Hill Badgers",
@@ -129,17 +73,7 @@
   "cbb|2026-11-18|California Baptist Lancers|Seattle U Redhawks",
   "cbb|2026-11-18|Gonzaga Bulldogs|Montana State Bobcats",
   "cbb|2026-11-18|Auburn Tigers|West Virginia Mountaineers",
-  "atp|2026-11-17|Flavio Cobolli|Frances Tiafoe",
-  "atp|2026-11-17|Carlos Alcaraz|Flavio Cobolli",
   "cbb|2026-11-18|North Dakota Fighting Hawks|SIU Edwardsville Cougars",
-  "wta|2026-11-17|Barbara Gatica|Andrea Lazaro Garcia",
-  "wta|2026-11-17|Maria Lourdes Carle|Veronika Erjavec",
-  "wta|2026-11-17|Lucia Bronzetti|Alicia Herrero Linana",
-  "wta|2026-11-17|Despina Papamichail|Laura Samson",
-  "wta|2026-11-17|Irene Burillo|Darja Semenistaja",
-  "wta|2026-11-17|Nadia Podoroska|Varvara Lepchenko",
-  "wta|2026-11-17|Fernanda Labrana|Antonia Vergara Rivera",
-  "wta|2026-11-17|Polona Hercog|Miriam Bulgaru",
   "atp|2026-11-18|Alexander Zverev|Arthur Fils",
   "atp|2026-11-18|Carlos Alcaraz|Flavio Cobolli",
   "atp|2026-11-18|Carlos Alcaraz|Daniil Medvedev",
@@ -1227,11 +1161,8 @@
   "cbb|2026-11-25|Nevada Wolf Pack|Santa Clara Broncos",
   "cbb|2026-11-25|High Point Panthers|Duquesne Dukes",
   "cbb|2026-11-25|Charleston Cougars|UTEP Miners",
-  "fc|2388488",
-  "fc|2388350",
-  "dota2|134242",
-  "fc|2388356",
-  "fc|2390015",
+  "cbb|2026-11-25|Grand Canyon Lopes|Saint Louis Billikens",
+  "cbb|2026-11-25|Stanford Cardinal|Colorado Buffaloes",
   "fc|2388357",
   "fc|2388736",
   "fc|2388498",
@@ -2227,13 +2158,100 @@
   "fc|2397192",
   "fc|2397193",
   "fc|2396488",
-  "cbb|2026-11-25|Grand Canyon Lopes|Saint Louis Billikens",
-  "cbb|2026-11-25|Stanford Cardinal|Colorado Buffaloes",
   "cs2|134867",
   "cs2|134886",
   "fc|2396491",
   "fc|2396494",
-  "fc|2397335"
+  "fc|2397335",
+  "MEX|2026-11-27|Pachuca|Guadalajara Chivas",
+  "MEX|2026-11-27|Club Leon|Cruz Azul",
+  "nba|2026-11-28|New York Knicks|Miami Heat",
+  "nba|2026-11-28|Detroit Pistons|Milwaukee Bucks",
+  "nba|2026-11-28|Indiana Pacers|Philadelphia 76ers",
+  "nba|2026-11-28|Toronto Raptors|Brooklyn Nets",
+  "nba|2026-11-28|Boston Celtics|Atlanta Hawks",
+  "nba|2026-11-28|Minnesota Timberwolves|Memphis Grizzlies",
+  "nba|2026-11-28|Phoenix Suns|Dallas Mavericks",
+  "nba|2026-11-28|San Antonio Spurs|Los Angeles Lakers",
+  "nba|2026-11-28|Utah Jazz|Denver Nuggets",
+  "nba|2026-11-28|LA Clippers|New Orleans Pelicans",
+  "nba|2026-11-28|Portland Trail Blazers|Golden State Warriors",
+  "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos",
+  "nhl|2026-11-27|Boston Bruins|Toronto Maple Leafs",
+  "nhl|2026-11-27|New Jersey Devils|Calgary Flames",
+  "nhl|2026-11-27|Nashville Predators|Utah Mammoth",
+  "nhl|2026-11-27|St. Louis Blues|Dallas Stars",
+  "nhl|2026-11-27|Tampa Bay Lightning|Ottawa Senators",
+  "nhl|2026-11-27|Philadelphia Flyers|Vancouver Canucks",
+  "nhl|2026-11-27|Washington Capitals|Florida Panthers",
+  "nhl|2026-11-27|Columbus Blue Jackets|Detroit Red Wings",
+  "nhl|2026-11-27|Minnesota Wild|Colorado Avalanche",
+  "nhl|2026-11-27|Anaheim Ducks|Los Angeles Kings",
+  "nhl|2026-11-27|San Jose Sharks|Vegas Golden Knights",
+  "nhl|2026-11-27|Chicago Blackhawks|New York Rangers",
+  "nhl|2026-11-28|New York Islanders|Winnipeg Jets",
+  "nhl|2026-11-28|Buffalo Sabres|Pittsburgh Penguins",
+  "nhl|2026-11-28|Edmonton Oilers|Seattle Kraken",
+  "cfb|2026-11-27|Iowa Hawkeyes|Nebraska Cornhuskers",
+  "cfb|2026-11-27|Ole Miss Rebels|Mississippi State Bulldogs",
+  "cfb|2026-11-27|UTSA Roadrunners|Tulsa Golden Hurricane",
+  "cfb|2026-11-27|Akron Zips|Buffalo Bulls",
+  "cfb|2026-11-27|Ohio Bobcats|Toledo Rockets",
+  "cfb|2026-11-27|South Alabama Jaguars|App State Mountaineers",
+  "cfb|2026-11-27|Florida State Seminoles|Florida Gators",
+  "cfb|2026-11-27|Memphis Tigers|Temple Owls",
+  "cfb|2026-11-27|San José State Spartans|North Dakota State Bison",
+  "cfb|2026-11-27|New Mexico Lobos|Air Force Falcons",
+  "cfb|2026-11-28|Texas A&M Aggies|Texas Longhorns",
+  "cfb|2026-11-28|Wisconsin Badgers|Minnesota Golden Gophers",
+  "cfb|2026-11-28|Utah Utes|West Virginia Mountaineers",
+  "cbb|2026-11-27|Xavier Musketeers|Virginia Cavaliers",
+  "cbb|2026-11-27|St. Thomas Tommies|Liberty Flames",
+  "cbb|2026-11-27|Merrimack Warriors|Vermont Catamounts",
+  "cbb|2026-11-27|UMass Lowell River Hawks|Hampton Pirates",
+  "cbb|2026-11-27|Youngstown State Penguins|Bryant & Stratton (OH) Bobcats",
+  "cbb|2026-11-27|Vanderbilt Commodores|Southern Jaguars",
+  "cbb|2026-11-27|South Dakota Coyotes|Clarke Pride",
+  "cbb|2026-11-27|Fresno State Bulldogs|South Alabama Jaguars",
+  "cbb|2026-11-27|Fairfield Stags|Navy Midshipmen",
+  "cbb|2026-11-27|Le Moyne Dolphins|Maine Black Bears",
+  "cbb|2026-11-27|Louisiana Tech Bulldogs|Texas State Bobcats",
+  "cbb|2026-11-27|UNC Wilmington Seahawks|Princeton Tigers",
+  "cbb|2026-11-27|UAB Blazers|Auburn Montgomery Senators",
+  "cbb|2026-11-27|Butler Bulldogs|Bellarmine Knights",
+  "cbb|2026-11-27|Bucknell Bison|La Salle Explorers",
+  "cbb|2026-11-27|Hofstra Pride|Colgate Raiders",
+  "cbb|2026-11-27|Missouri Tigers|Arkansas-Pine Bluff Golden Lions",
+  "cbb|2026-11-27|American University Eagles|Radford Highlanders",
+  "cbb|2026-11-27|George Washington Revolutionaries|UMBC Retrievers",
+  "cbb|2026-11-27|Boston College Eagles|Cincinnati Bearcats",
+  "cbb|2026-11-27|Lafayette Leopards|Niagara Purple Eagles",
+  "cbb|2026-11-27|Kansas Jayhawks|Villanova Wildcats",
+  "cbb|2026-11-27|Texas A&M Aggies|Marquette Golden Eagles",
+  "cbb|2026-11-27|Virginia Tech Hokies|Old Dominion Monarchs",
+  "cbb|2026-11-27|Boise State Broncos|Drake Bulldogs",
+  "cbb|2026-11-27|Illinois Fighting Illini|Western Kentucky Hilltoppers",
+  "cbb|2026-11-27|Indiana Hoosiers|Bowling Green Falcons",
+  "cbb|2026-11-27|South Carolina Upstate Spartans|Southern Wesleyan Warriors",
+  "cbb|2026-11-27|Pennsylvania Quakers|Towson Tigers",
+  "cbb|2026-11-28|Georgia Bulldogs|UCF Knights",
+  "cbb|2026-11-28|UC Santa Barbara Gauchos|Lehigh Mountain Hawks",
+  "cbb|2026-11-28|East Carolina Pirates|North Carolina Wesleyan Battling Bishops",
+  "cbb|2026-11-28|North Carolina Tar Heels|West Virginia Mountaineers",
+  "cbb|2026-11-28|East Tennessee State Buccaneers|Charleston Southern Buccaneers",
+  "cbb|2026-11-28|Houston Cougars|Oakland Golden Grizzlies",
+  "cbb|2026-11-28|Little Rock Trojans|Lane College Dragons",
+  "cbb|2026-11-28|Oral Roberts Golden Eagles|Missouri State Bears",
+  "cbb|2026-11-28|North Texas Mean Green|North Dakota State Bison",
+  "cbb|2026-11-28|Washington State Cougars|Idaho Vandals",
+  "cbb|2026-11-28|Northwestern Wildcats|Northeastern Huskies",
+  "cbb|2026-11-28|UC Davis Aggies|Pacific Tigers",
+  "cbb|2026-11-28|Kentucky Wildcats|Wichita State Shockers",
+  "cbb|2026-11-28|Omaha Mavericks|Jacksonville State Gamecocks",
+  "cs2|134519",
+  "fc|2397356",
+  "fc|2397346",
+  "fc|2397352"
  ],
  "signals": [
   {
@@ -2988,200 +3006,6 @@
    "result": true,
    "score": "1-3",
    "close_p": 0.5866,
-   "logged": true
-  },
-  {
-   "market": "sph",
-   "odds": 1.87,
-   "book": "DraftKings",
-   "p": 0.511,
-   "implied": 0.511,
-   "edge": -0.045,
-   "line": -20.5,
-   "key": "cfb|2026-11-22|Miami Hurricanes|Virginia Tech Hokies",
-   "match": "Miami Hurricanes vs Virginia Tech Hokies",
-   "start": "2026-11-22T00:00Z",
-   "pick": "Miami Hurricanes -20.5",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Miami Hurricanes vs Virginia Tech Hokies (🏈 NCAA Football). Hándicap Miami Hurricanes -20.5: margen esperado desde el Elo (gana Miami Hurricanes 96%). Forma Miami Hurricanes ✅✅✅❌✅, Virginia Tech Hokies ❌✅✅❌❌. H2H 8 desde 2017: 7-1. Bajas: Miami Hurricanes: sin bajas; Virginia Tech Hokies: sin bajas.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "Miami Hurricanes: sin bajas; Virginia Tech Hokies: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "28-20",
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.062,
-   "book": "DraftKings",
-   "p": 0.904,
-   "implied": 0.904,
-   "edge": -0.04,
-   "key": "cfb|2026-11-22|Miami Hurricanes|Virginia Tech Hokies",
-   "match": "Miami Hurricanes vs Virginia Tech Hokies",
-   "pick": "Miami Hurricanes",
-   "start": "2026-11-22T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Miami Hurricanes vs Virginia Tech Hokies (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Miami Hurricanes 96%, Virginia Tech Hokies 4%. Cuotas DraftKings 1.062/10.0, hándicap MIA -20.5, total 60.5. Forma Miami Hurricanes ✅✅✅❌✅, Virginia Tech Hokies ❌✅✅❌❌. H2H 8 desde 2017: 7-1. Bajas Miami Hurricanes: ninguna. Bajas Virginia Tech Hokies: ninguna.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "Miami Hurricanes: sin bajas; Virginia Tech Hokies: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "28-20",
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "sph",
-   "odds": 1.87,
-   "book": "DraftKings",
-   "p": 0.511,
-   "implied": 0.511,
-   "edge": -0.045,
-   "line": 7.0,
-   "key": "cfb|2026-11-22|Kansas State Wildcats|Arizona Wildcats",
-   "match": "Kansas State Wildcats vs Arizona Wildcats",
-   "start": "2026-11-22T00:00Z",
-   "pick": "Kansas State Wildcats +7",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Kansas State Wildcats vs Arizona Wildcats (🏈 NCAA Football). Hándicap Kansas State Wildcats +7: margen esperado desde el Elo (gana Kansas State Wildcats 18%). Forma Kansas State Wildcats ✅❌❌❌❌, Arizona Wildcats ✅✅❌✅❌. H2H 2 desde 2024: 1-1. Bajas: Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": "nula",
-   "score": "28-35"
-  },
-  {
-   "market": "home",
-   "odds": 3.35,
-   "book": "DraftKings",
-   "p": 0.286,
-   "implied": 0.286,
-   "edge": -0.04,
-   "key": "cfb|2026-11-22|Kansas State Wildcats|Arizona Wildcats",
-   "match": "Kansas State Wildcats vs Arizona Wildcats",
-   "pick": "Kansas State Wildcats",
-   "start": "2026-11-22T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Kansas State Wildcats vs Arizona Wildcats (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Kansas State Wildcats 18%, Arizona Wildcats 82%. Cuotas DraftKings 3.35/1.345, hándicap ARIZ -7, total 52.5. Forma Kansas State Wildcats ✅❌❌❌❌, Arizona Wildcats ✅✅❌✅❌. H2H 2 desde 2024: 1-1. Bajas Kansas State Wildcats: ninguna. Bajas Arizona Wildcats: ninguna.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "Kansas State Wildcats: sin bajas; Arizona Wildcats: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "28-35",
-   "close_p": 0.2421,
-   "logged": true
-  },
-  {
-   "market": "sph",
-   "odds": 1.893,
-   "book": "DraftKings",
-   "p": 0.504,
-   "implied": 0.504,
-   "edge": -0.045,
-   "line": 7.0,
-   "key": "cfb|2026-11-22|San José State Spartans|UNLV Rebels",
-   "match": "San José State Spartans vs UNLV Rebels",
-   "start": "2026-11-22T00:00Z",
-   "pick": "San José State Spartans +7",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "San José State Spartans vs UNLV Rebels (🏈 NCAA Football). Hándicap San José State Spartans +7: margen esperado desde el Elo (gana San José State Spartans 18%). Forma San José State Spartans ✅❌❌✅❌, UNLV Rebels ✅❌✅❌✅. H2H 5 desde 2020: 4-1. Bajas: San José State Spartans: sin bajas; UNLV Rebels: sin bajas.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "San José State Spartans: sin bajas; UNLV Rebels: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "22-24",
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 3.1,
-   "book": "DraftKings",
-   "p": 0.309,
-   "implied": 0.309,
-   "edge": -0.041,
-   "key": "cfb|2026-11-22|San José State Spartans|UNLV Rebels",
-   "match": "San José State Spartans vs UNLV Rebels",
-   "pick": "San José State Spartans",
-   "start": "2026-11-22T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "San José State Spartans vs UNLV Rebels (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: San José State Spartans 18%, UNLV Rebels 82%. Cuotas DraftKings 3.1/1.388, hándicap UNLV -7, total 46.5. Forma San José State Spartans ✅❌❌✅❌, UNLV Rebels ✅❌✅❌✅. H2H 5 desde 2020: 4-1. Bajas San José State Spartans: ninguna. Bajas UNLV Rebels: ninguna.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "San José State Spartans: sin bajas; UNLV Rebels: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "22-24",
-   "close_p": 0.3335,
-   "logged": true
-  },
-  {
-   "market": "sph",
-   "odds": 1.847,
-   "book": "DraftKings",
-   "p": 0.517,
-   "implied": 0.517,
-   "edge": -0.044,
-   "line": -13.5,
-   "key": "cfb|2026-11-22|Louisiana Tech Bulldogs|Arkansas State Red Wolves",
-   "match": "Louisiana Tech Bulldogs vs Arkansas State Red Wolves",
-   "start": "2026-11-22T00:00Z",
-   "pick": "Louisiana Tech Bulldogs -13.5",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Louisiana Tech Bulldogs vs Arkansas State Red Wolves (🏈 NCAA Football). Hándicap Louisiana Tech Bulldogs -13.5: margen esperado desde el Elo (gana Louisiana Tech Bulldogs 82%). Forma Louisiana Tech Bulldogs ✅✅✅✅✅, Arkansas State Red Wolves ❌✅✅❌❌. H2H sin precedentes. Bajas: Louisiana Tech Bulldogs: sin bajas; Arkansas State Red Wolves: sin bajas.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "Louisiana Tech Bulldogs: sin bajas; Arkansas State Red Wolves: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "48-3",
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.182,
-   "book": "DraftKings",
-   "p": 0.812,
-   "implied": 0.812,
-   "edge": -0.04,
-   "key": "cfb|2026-11-22|Louisiana Tech Bulldogs|Arkansas State Red Wolves",
-   "match": "Louisiana Tech Bulldogs vs Arkansas State Red Wolves",
-   "pick": "Louisiana Tech Bulldogs",
-   "start": "2026-11-22T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Louisiana Tech Bulldogs vs Arkansas State Red Wolves (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Louisiana Tech Bulldogs 82%, Arkansas State Red Wolves 18%. Cuotas DraftKings 1.182/5.1, hándicap LT -13.5, total 53.5. Forma Louisiana Tech Bulldogs ✅✅✅✅✅, Arkansas State Red Wolves ❌✅✅❌❌. H2H sin precedentes. Bajas Louisiana Tech Bulldogs: ninguna. Bajas Arkansas State Red Wolves: ninguna.",
-   "captured": "2026-11-19T00:19",
-   "version": "08c301e",
-   "bajas": "Louisiana Tech Bulldogs: sin bajas; Arkansas State Red Wolves: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "48-3",
-   "close_p": 0.8254,
    "logged": true
   },
   {
@@ -4593,30 +4417,6 @@
    "result": true,
    "score": "35-10",
    "close_p": 0.6654,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "odds": 1.47,
-   "book": "Bet365",
-   "p": 0.655,
-   "implied": 0.655,
-   "edge": -0.038,
-   "key": "BRA|2026-11-22|Chapecoense-SC|Cruzeiro",
-   "match": "Chapecoense-SC vs Cruzeiro",
-   "pick": "Cruzeiro",
-   "start": "2026-11-22T00:00:00+00:00",
-   "league": "🇧🇷 Brasileirão",
-   "sport": "⚽",
-   "context": "Chapecoense-SC vs Cruzeiro (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 18% X 23% 2 60%, +2.5 60%, ambos marcan 59%. Forma Chapecoense-SC ✅❌❌❌❌, Cruzeiro ✅✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 13 desde 2014: 5V-3E-5D · 2.6 goles/partido · +2.5 en 46%. Bajas Chapecoense-SC: Vinicius Balieiro M duda 7 PJ; Rafael Carvalheira M duda 14 PJ. Bajas Cruzeiro: Joao Marcelo D duda 17 PJ; Luis Sinisterra F duda 8 PJ; Gabriel Pec M duda 1 PJ; Fabrizio Peralta M duda 0 PJ.",
-   "captured": "2026-11-20T09:12",
-   "version": "04002f6",
-   "bajas": "Chapecoense-SC: 0 fuera, 2 duda; Cruzeiro: 0 fuera, 4 duda",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "1-2",
-   "clv": 0.0,
    "logged": true
   },
   {
@@ -13168,15 +12968,6 @@
    "pick": "Más de 46.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.5</b> puntos · línea 46.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Eastern Michigan Eagles ✅❌❌❌❌ | Kent State Golden Flashes ❌✅❌❌❌",
-    "• H2H: 6 desde 2018: 4-2",
-    "• Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas"
-   ],
    "context": "Eastern Michigan Eagles vs Kent State Golden Flashes (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.5 frente a línea 46.5. Forma Eastern Michigan Eagles ✅❌❌❌❌, Kent State Golden Flashes ❌✅❌❌❌. H2H 6 desde 2018: 4-2. Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas.",
    "captured": "2026-11-22T00:06",
    "version": "4f2cb14",
@@ -13198,14 +12989,6 @@
    "pick": "Eastern Michigan Eagles -6.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Eastern Michigan Eagles cubre -6.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Eastern Michigan Eagles ✅❌❌❌❌ | Kent State Golden Flashes ❌✅❌❌❌",
-    "• H2H: 6 desde 2018: 4-2",
-    "• Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas"
-   ],
    "context": "Eastern Michigan Eagles vs Kent State Golden Flashes (🏈 NCAA Football). Hándicap Eastern Michigan Eagles -6.5: margen esperado desde el Elo (gana Eastern Michigan Eagles 70%). Forma Eastern Michigan Eagles ✅❌❌❌❌, Kent State Golden Flashes ❌✅❌❌❌. H2H 6 desde 2018: 4-2. Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas.",
    "captured": "2026-11-22T00:06",
    "version": "4f2cb14",
@@ -13226,18 +13009,6 @@
    "start": "2026-11-25T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.626 partidos y bajas)",
-    "Gana Eastern Michigan Eagles 70% · Gana Kent State Golden Flashes 30%",
-    "Casas: Eastern Michigan Eagles 66% · Kent State Golden Flashes 34%",
-    "Hándicap EMU -6.5 · Total puntos 46.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Eastern Michigan Eagles ✅❌❌❌❌ | Kent State Golden Flashes ❌✅❌❌❌",
-    "• H2H: 6 desde 2018: 4-2",
-    "• Bajas: Eastern Michigan Eagles: sin bajas; Kent State Golden Flashes: sin bajas",
-    "• Favorito de las casas: Eastern Michigan Eagles @ 1.44"
-   ],
    "context": "Eastern Michigan Eagles vs Kent State Golden Flashes (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Eastern Michigan Eagles 70%, Kent State Golden Flashes 30%. Cuotas DraftKings 1.444/2.85, hándicap EMU -6.5, total 46.5. Forma Eastern Michigan Eagles ✅❌❌❌❌, Kent State Golden Flashes ❌✅❌❌❌. H2H 6 desde 2018: 4-2. Bajas Eastern Michigan Eagles: ninguna. Bajas Kent State Golden Flashes: ninguna.",
    "captured": "2026-11-22T00:06",
    "version": "4f2cb14",
@@ -13260,15 +13031,6 @@
    "pick": "Más de 46.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>44.6</b> puntos · línea 46.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Western Michigan Broncos ✅❌✅✅✅ | Miami (OH) RedHawks ✅✅❌✅✅",
-    "• H2H: 6 desde 2018: 4-2",
-    "• Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas"
-   ],
    "context": "Western Michigan Broncos vs Miami (OH) RedHawks (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 44.6 frente a línea 46.5. Forma Western Michigan Broncos ✅❌✅✅✅, Miami (OH) RedHawks ✅✅❌✅✅. H2H 6 desde 2018: 4-2. Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas.",
    "captured": "2026-11-22T00:06",
    "version": "4f2cb14",
@@ -13290,14 +13052,6 @@
    "pick": "Western Michigan Broncos -7.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Western Michigan Broncos cubre -7.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Western Michigan Broncos ✅❌✅✅✅ | Miami (OH) RedHawks ✅✅❌✅✅",
-    "• H2H: 6 desde 2018: 4-2",
-    "• Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas"
-   ],
    "context": "Western Michigan Broncos vs Miami (OH) RedHawks (🏈 NCAA Football). Hándicap Western Michigan Broncos -7.5: margen esperado desde el Elo (gana Western Michigan Broncos 67%). Forma Western Michigan Broncos ✅❌✅✅✅, Miami (OH) RedHawks ✅✅❌✅✅. H2H 6 desde 2018: 4-2. Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas.",
    "captured": "2026-11-22T00:06",
    "version": "4f2cb14",
@@ -13318,18 +13072,6 @@
    "start": "2026-11-25T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.626 partidos y bajas)",
-    "Gana Western Michigan Broncos 67% · Gana Miami (OH) RedHawks 33%",
-    "Casas: Western Michigan Broncos 72% · Miami (OH) RedHawks 28%",
-    "Hándicap WMU -7.5 · Total puntos 46.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Western Michigan Broncos ✅❌✅✅✅ | Miami (OH) RedHawks ✅✅❌✅✅",
-    "• H2H: 6 desde 2018: 4-2",
-    "• Bajas: Western Michigan Broncos: sin bajas; Miami (OH) RedHawks: sin bajas",
-    "• Favorito de las casas: Western Michigan Broncos @ 1.34"
-   ],
    "context": "Western Michigan Broncos vs Miami (OH) RedHawks (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Western Michigan Broncos 67%, Miami (OH) RedHawks 33%. Cuotas DraftKings 1.336/3.4, hándicap WMU -7.5, total 46.5. Forma Western Michigan Broncos ✅❌✅✅✅, Miami (OH) RedHawks ✅✅❌✅✅. H2H 6 desde 2018: 4-2. Bajas Western Michigan Broncos: ninguna. Bajas Miami (OH) RedHawks: ninguna.",
    "captured": "2026-11-22T00:06",
    "version": "4f2cb14",
@@ -23987,7 +23729,11 @@
    "version": "2155d7e",
    "bajas": "Arizona Wildcats: sin bajas; Providence Friars: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "84-66",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -24008,7 +23754,11 @@
    "version": "2155d7e",
    "bajas": "Arizona Wildcats: sin bajas; Providence Friars: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "84-66",
+   "close_p": 0.5156,
+   "logged": true
   },
   {
    "market": "home",
@@ -24028,7 +23778,11 @@
    "version": "2155d7e",
    "bajas": "Arizona Wildcats: sin bajas; Providence Friars: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "84-66",
+   "close_p": 0.7479,
+   "logged": true
   },
   {
    "market": "over",
@@ -25069,7 +24823,12 @@
    "version": "d64c2b5",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25090,7 +24849,12 @@
    "version": "d64c2b5",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25111,7 +24875,12 @@
    "version": "d64c2b5",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25132,7 +24901,12 @@
    "version": "d64c2b5",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25153,7 +24927,12 @@
    "version": "d64c2b5",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25174,7 +24953,12 @@
    "version": "d64c2b5",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Catanzaro: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25215,7 +24999,12 @@
    "version": "d64c2b5",
    "bajas": "Benevento: sin bajas; Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25236,7 +25025,12 @@
    "version": "d64c2b5",
    "bajas": "Benevento: sin bajas; Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "5-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25257,7 +25051,12 @@
    "version": "d64c2b5",
    "bajas": "Benevento: sin bajas; Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "5-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25278,7 +25077,12 @@
    "version": "d64c2b5",
    "bajas": "Benevento: sin bajas; Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25299,7 +25103,12 @@
    "version": "d64c2b5",
    "bajas": "Benevento: sin bajas; Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25320,7 +25129,12 @@
    "version": "d64c2b5",
    "bajas": "Benevento: sin bajas; Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "5-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -25362,7 +25176,12 @@
    "version": "d64c2b5",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "5-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25383,7 +25202,12 @@
    "version": "d64c2b5",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25404,7 +25228,12 @@
    "version": "d64c2b5",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25425,7 +25254,12 @@
    "version": "d64c2b5",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "5-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25446,7 +25280,12 @@
    "version": "d64c2b5",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25467,7 +25306,12 @@
    "version": "d64c2b5",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Ascoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "5-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25508,7 +25352,12 @@
    "version": "d64c2b5",
    "bajas": "Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25529,7 +25378,12 @@
    "version": "d64c2b5",
    "bajas": "Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25550,7 +25404,12 @@
    "version": "d64c2b5",
    "bajas": "Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25571,7 +25430,12 @@
    "version": "d64c2b5",
    "bajas": "Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25592,7 +25456,12 @@
    "version": "d64c2b5",
    "bajas": "Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25613,7 +25482,12 @@
    "version": "d64c2b5",
    "bajas": "Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Sudtirol: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -25654,7 +25528,12 @@
    "version": "d64c2b5",
    "bajas": "Vicenza: sin bajas; Carrarese: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25675,7 +25554,12 @@
    "version": "d64c2b5",
    "bajas": "Vicenza: sin bajas; Carrarese: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25696,7 +25580,12 @@
    "version": "d64c2b5",
    "bajas": "Vicenza: sin bajas; Carrarese: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25717,7 +25606,12 @@
    "version": "d64c2b5",
    "bajas": "Vicenza: sin bajas; Carrarese: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25738,7 +25632,12 @@
    "version": "d64c2b5",
    "bajas": "Vicenza: sin bajas; Carrarese: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25759,7 +25658,12 @@
    "version": "d64c2b5",
    "bajas": "Vicenza: sin bajas; Carrarese: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -25801,7 +25705,12 @@
    "version": "d64c2b5",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25822,7 +25731,12 @@
    "version": "d64c2b5",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25843,7 +25757,12 @@
    "version": "d64c2b5",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25864,7 +25783,12 @@
    "version": "d64c2b5",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25885,7 +25809,12 @@
    "version": "d64c2b5",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25906,7 +25835,12 @@
    "version": "d64c2b5",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Verona: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -25948,7 +25882,12 @@
    "version": "d64c2b5",
    "bajas": "Bristol City: sin bajas; Wrexham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25969,7 +25908,12 @@
    "version": "d64c2b5",
    "bajas": "Bristol City: sin bajas; Wrexham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25990,7 +25934,12 @@
    "version": "d64c2b5",
    "bajas": "Bristol City: sin bajas; Wrexham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26011,7 +25960,12 @@
    "version": "d64c2b5",
    "bajas": "Bristol City: sin bajas; Wrexham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26032,7 +25986,12 @@
    "version": "d64c2b5",
    "bajas": "Bristol City: sin bajas; Wrexham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26053,7 +26012,12 @@
    "version": "d64c2b5",
    "bajas": "Bristol City: sin bajas; Wrexham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26095,7 +26059,12 @@
    "version": "d64c2b5",
    "bajas": "Cardiff: sin bajas; Preston: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26116,7 +26085,12 @@
    "version": "d64c2b5",
    "bajas": "Cardiff: sin bajas; Preston: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26137,7 +26111,12 @@
    "version": "d64c2b5",
    "bajas": "Cardiff: sin bajas; Preston: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26158,7 +26137,12 @@
    "version": "d64c2b5",
    "bajas": "Cardiff: sin bajas; Preston: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26179,7 +26163,12 @@
    "version": "d64c2b5",
    "bajas": "Cardiff: sin bajas; Preston: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26200,7 +26189,12 @@
    "version": "d64c2b5",
    "bajas": "Cardiff: sin bajas; Preston: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -26242,7 +26236,12 @@
    "version": "d64c2b5",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26263,7 +26262,12 @@
    "version": "d64c2b5",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26284,7 +26288,12 @@
    "version": "d64c2b5",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26305,7 +26314,12 @@
    "version": "d64c2b5",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26326,7 +26340,12 @@
    "version": "d64c2b5",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "4-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26347,7 +26366,12 @@
    "version": "d64c2b5",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "4-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26389,7 +26413,12 @@
    "version": "d64c2b5",
    "bajas": "Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26410,7 +26439,12 @@
    "version": "d64c2b5",
    "bajas": "Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26431,7 +26465,12 @@
    "version": "d64c2b5",
    "bajas": "Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26452,7 +26491,12 @@
    "version": "d64c2b5",
    "bajas": "Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26473,7 +26517,12 @@
    "version": "d64c2b5",
    "bajas": "Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26494,7 +26543,12 @@
    "version": "d64c2b5",
    "bajas": "Middlesbrough: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26556,7 +26610,12 @@
    "version": "d64c2b5",
    "bajas": "Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26577,7 +26636,12 @@
    "version": "d64c2b5",
    "bajas": "Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26598,7 +26662,12 @@
    "version": "d64c2b5",
    "bajas": "Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26619,7 +26688,12 @@
    "version": "d64c2b5",
    "bajas": "Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26640,7 +26714,12 @@
    "version": "d64c2b5",
    "bajas": "Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26661,7 +26740,12 @@
    "version": "d64c2b5",
    "bajas": "Portsmouth: 1 fuera, 0 duda (Mark Kosznovszky); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -26702,7 +26786,12 @@
    "version": "d64c2b5",
    "bajas": "Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26723,7 +26812,12 @@
    "version": "d64c2b5",
    "bajas": "Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26744,7 +26838,12 @@
    "version": "d64c2b5",
    "bajas": "Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26765,7 +26864,12 @@
    "version": "d64c2b5",
    "bajas": "Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26786,7 +26890,12 @@
    "version": "d64c2b5",
    "bajas": "Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26807,7 +26916,12 @@
    "version": "d64c2b5",
    "bajas": "Sheffield United: sin bajas; Southampton: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26849,7 +26963,12 @@
    "version": "d64c2b5",
    "bajas": "Hibernian: 0 fuera, 1 duda; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26870,7 +26989,12 @@
    "version": "d64c2b5",
    "bajas": "Hibernian: 0 fuera, 1 duda; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26891,7 +27015,12 @@
    "version": "d64c2b5",
    "bajas": "Hibernian: 0 fuera, 1 duda; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26912,7 +27041,12 @@
    "version": "d64c2b5",
    "bajas": "Hibernian: 0 fuera, 1 duda; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26933,7 +27067,12 @@
    "version": "d64c2b5",
    "bajas": "Hibernian: 0 fuera, 1 duda; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26954,7 +27093,12 @@
    "version": "d64c2b5",
    "bajas": "Hibernian: 0 fuera, 1 duda; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -27142,7 +27286,12 @@
    "version": "d64c2b5",
    "bajas": "Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -27163,7 +27312,12 @@
    "version": "d64c2b5",
    "bajas": "Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -27184,7 +27338,12 @@
    "version": "d64c2b5",
    "bajas": "Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -27205,7 +27364,12 @@
    "version": "d64c2b5",
    "bajas": "Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -27226,7 +27390,12 @@
    "version": "d64c2b5",
    "bajas": "Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -27247,7 +27416,12 @@
    "version": "d64c2b5",
    "bajas": "Rangers: 1 fuera, 4 duda (Lawrence Shankland); Aberdeen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -29664,15 +29838,6 @@
    "pick": "Más de 152.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>160.0</b> puntos · línea 152.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Bellarmine Knights ❌✅❌❌✅ | Georgia Southern Eagles ❌❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas"
-   ],
    "context": "Bellarmine Knights vs Georgia Southern Eagles (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 160.0 frente a línea 152.5. Forma Bellarmine Knights ❌✅❌❌✅, Georgia Southern Eagles ❌❌❌✅✅. H2H sin precedentes. Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas.",
    "captured": "2026-11-24T18:53",
    "version": "89610e8",
@@ -29694,14 +29859,6 @@
    "pick": "Bellarmine Knights +2.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Bellarmine Knights cubre +2.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Bellarmine Knights ❌✅❌❌✅ | Georgia Southern Eagles ❌❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas"
-   ],
    "context": "Bellarmine Knights vs Georgia Southern Eagles (🏀 NCAA Basketball). Hándicap Bellarmine Knights +2.5: margen esperado desde el Elo (gana Bellarmine Knights 46%). Forma Bellarmine Knights ❌✅❌❌✅, Georgia Southern Eagles ❌❌❌✅✅. H2H sin precedentes. Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas.",
    "captured": "2026-11-24T18:53",
    "version": "89610e8",
@@ -29722,18 +29879,6 @@
    "start": "2026-11-25T00:00Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.119 partidos y bajas)",
-    "Gana Bellarmine Knights 46% · Gana Georgia Southern Eagles 54%",
-    "Casas: Bellarmine Knights 44% · Georgia Southern Eagles 56%",
-    "Hándicap GASO -2.5 · Total puntos 152.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Bellarmine Knights ❌✅❌❌✅ | Georgia Southern Eagles ❌❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Bellarmine Knights: sin bajas; Georgia Southern Eagles: sin bajas",
-    "• Favorito de las casas: Georgia Southern Eagles @ 1.70"
-   ],
    "context": "Bellarmine Knights vs Georgia Southern Eagles (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Bellarmine Knights 46%, Georgia Southern Eagles 54%. Cuotas DraftKings 2.2/1.704, hándicap GASO -2.5, total 152.5. Forma Bellarmine Knights ❌✅❌❌✅, Georgia Southern Eagles ❌❌❌✅✅. H2H sin precedentes. Bajas Bellarmine Knights: ninguna. Bajas Georgia Southern Eagles: ninguna.",
    "captured": "2026-11-24T18:53",
    "version": "89610e8",
@@ -32324,15 +32469,6 @@
    "pick": "Más de 159.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>157.4</b> puntos · línea 159.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Nevada Wolf Pack ✅❌❌✅✅ | Santa Clara Broncos ✅✅✅❌✅",
-    "• H2H: 5 desde 2017: 3-2",
-    "• Bajas: Nevada Wolf Pack: sin bajas; Santa Clara Broncos: sin bajas"
-   ],
    "context": "Nevada Wolf Pack vs Santa Clara Broncos (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 157.4 frente a línea 159.5. Forma Nevada Wolf Pack ✅❌❌✅✅, Santa Clara Broncos ✅✅✅❌✅. H2H 5 desde 2017: 3-2. Bajas: Nevada Wolf Pack: sin bajas; Santa Clara Broncos: sin bajas.",
    "captured": "2026-11-24T23:25",
    "version": "3526677",
@@ -32354,14 +32490,6 @@
    "pick": "Nevada Wolf Pack +1.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Nevada Wolf Pack cubre +1.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Nevada Wolf Pack ✅❌❌✅✅ | Santa Clara Broncos ✅✅✅❌✅",
-    "• H2H: 5 desde 2017: 3-2",
-    "• Bajas: Nevada Wolf Pack: sin bajas; Santa Clara Broncos: sin bajas"
-   ],
    "context": "Nevada Wolf Pack vs Santa Clara Broncos (🏀 NCAA Basketball). Hándicap Nevada Wolf Pack +1.5: margen esperado desde el Elo (gana Nevada Wolf Pack 45%). Forma Nevada Wolf Pack ✅❌❌✅✅, Santa Clara Broncos ✅✅✅❌✅. H2H 5 desde 2017: 3-2. Bajas: Nevada Wolf Pack: sin bajas; Santa Clara Broncos: sin bajas.",
    "captured": "2026-11-24T23:25",
    "version": "3526677",
@@ -32382,18 +32510,6 @@
    "start": "2026-11-25T00:00Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.134 partidos y bajas)",
-    "Gana Nevada Wolf Pack 45% · Gana Santa Clara Broncos 55%",
-    "Casas: Nevada Wolf Pack 49% · Santa Clara Broncos 51%",
-    "Hándicap SCU -1.5 · Total puntos 159.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Nevada Wolf Pack ✅❌❌✅✅ | Santa Clara Broncos ✅✅✅❌✅",
-    "• H2H: 5 desde 2017: 3-2",
-    "• Bajas: Nevada Wolf Pack: sin bajas; Santa Clara Broncos: sin bajas",
-    "• Favorito de las casas: Santa Clara Broncos @ 1.87"
-   ],
    "context": "Nevada Wolf Pack vs Santa Clara Broncos (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Nevada Wolf Pack 45%, Santa Clara Broncos 55%. Cuotas DraftKings 1.952/1.87, hándicap SCU -1.5, total 159.5. Forma Nevada Wolf Pack ✅❌❌✅✅, Santa Clara Broncos ✅✅✅❌✅. H2H 5 desde 2017: 3-2. Bajas Nevada Wolf Pack: ninguna. Bajas Santa Clara Broncos: ninguna.",
    "captured": "2026-11-24T23:25",
    "version": "3526677",
@@ -32845,23 +32961,1475 @@
    "start": "2026-11-24T23:56:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 80.170 partidos)",
-    "Goles esperados: OG 2.05 · hotShot 2.42",
-    "Ganador: OG 32% · empate 22% · hotShot 46%",
-    "Total: más de 4.5 goles 46% · menos 54%",
-    "Hándicap hotShot: −1.5 29% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: OG ❌❌❌➖❌ | hotShot ❌➖✅❌✅",
-    "• Partidos: OG 753 | hotShot 749",
-    "• Liga: World Cup A",
-    "• Unibet: 1 3.60 · X 2.60 · 2 2.04 (sin margen 24%/33%/43%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.60 (+14%) · Paf España 3.60 (+14%)"
-   ],
    "context": "EA FC Esoccer Battle OG vs hotShot (World Cup A): goles esperados 2.05-2.42, 1X2 32%/22%/46%. Sin cuotas de casa.",
    "captured": "2026-11-24T23:54",
    "version": "b871221",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "3-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "D",
+   "odds": 3.75,
+   "book": "Bet365",
+   "p": 0.268,
+   "implied": 0.268,
+   "edge": 0.007,
+   "key": "MEX|2026-11-27|Pachuca|Guadalajara Chivas",
+   "match": "Pachuca vs Guadalajara Chivas",
+   "pick": "Empate",
+   "start": "2026-11-27T01:00:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.29 - 1.18)",
+    "1 40% · X 28% · 2 32%",
+    "1X 68% · X2 60% · 12 72%",
+    "+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%",
+    "Marcadores: 1-1 14% · 1-0 10% · 0-1 9% · 0-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Pachuca ❌✅✅✅✅ | Guadalajara Chivas ✅✅✅➖✅",
+    "• H2H: 30 desde 2012: 9V-11E-10D · 2.4 goles/partido · +2.5 en 40%",
+    "• Bajas: Pachuca: sin bajas; Guadalajara Chivas: sin bajas",
+    "• Favorito de las casas: Guadalajara Chivas @ 2.50"
+   ],
+   "context": "Pachuca vs Guadalajara Chivas (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 40% X 28% 2 32%, +2.5 45%, ambos marcan 51%. Forma Pachuca ❌✅✅✅✅, Guadalajara Chivas ✅✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 30 desde 2012: 9V-11E-10D · 2.4 goles/partido · +2.5 en 40%. Bajas Pachuca: ninguna. Bajas Guadalajara Chivas: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Pachuca: sin bajas; Guadalajara Chivas: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 3.2,
+   "book": "Bet365",
+   "p": 0.299,
+   "implied": 0.299,
+   "edge": -0.044,
+   "key": "MEX|2026-11-27|Club Leon|Cruz Azul",
+   "match": "Club Leon vs Cruz Azul",
+   "pick": "Club Leon",
+   "start": "2026-11-27T03:10:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.28 - 1.58)",
+    "1 28% · X 27% · 2 45%",
+    "1X 55% · X2 72% · 12 73%",
+    "+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 58%",
+    "Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Club Leon ✅➖❌➖✅ | Cruz Azul ✅✅✅✅❌",
+    "• H2H: 35 desde 2012: 6V-9E-20D · 2.5 goles/partido · +2.5 en 54%",
+    "• Bajas: Club Leon: 0 fuera, 1 duda; Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez)",
+    "• Favorito de las casas: Cruz Azul @ 2.15"
+   ],
+   "context": "Club Leon vs Cruz Azul (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 28% X 27% 2 45%, +2.5 55%, ambos marcan 58%. Forma Club Leon ✅➖❌➖✅, Cruz Azul ✅✅✅✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 35 desde 2012: 6V-9E-20D · 2.5 goles/partido · +2.5 en 54%. Bajas Club Leon: Valentin Gauthier D duda 0 PJ. Bajas Cruz Azul: Cristian Jimenez M lesionado 0 PJ.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Club Leon: 0 fuera, 1 duda; Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 38.5,
+   "odds": 1.971,
+   "book": "DraftKings",
+   "p": 0.485,
+   "implied": 0.485,
+   "edge": -0.044,
+   "expected": 39.2,
+   "key": "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos",
+   "match": "Pittsburgh Steelers vs Denver Broncos",
+   "start": "2026-11-27T20:00Z",
+   "pick": "Más de 38.5 puntos",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>39.2</b> puntos · línea 38.5",
+    "Más 48% · Menos 52%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Pittsburgh Steelers ✅✅✅❌❌ | Denver Broncos ✅✅✅✅✅",
+    "• H2H: 4 desde 2018: 3-1",
+    "• Bajas: Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins)",
+    "",
+    "🧩 Combinada: Gana Pittsburgh Steelers + Más de 38.5 puntos → prob. 21%, cuota justa 4.81",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.57 (producto de piernas) · prob. 21% · ventaja -5%"
+   ],
+   "context": "Pittsburgh Steelers vs Denver Broncos (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 39.2 frente a línea 38.5. Forma Pittsburgh Steelers ✅✅✅❌❌, Denver Broncos ✅✅✅✅✅. H2H 4 desde 2018: 3-1. Bajas: Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins).",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.855,
+   "book": "DraftKings",
+   "p": 0.516,
+   "implied": 0.516,
+   "edge": -0.042,
+   "line": 3.0,
+   "key": "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos",
+   "match": "Pittsburgh Steelers vs Denver Broncos",
+   "start": "2026-11-27T20:00Z",
+   "pick": "Pittsburgh Steelers +3",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Pittsburgh Steelers cubre +3 con prob. 52% (casas 52%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Pittsburgh Steelers ✅✅✅❌❌ | Denver Broncos ✅✅✅✅✅",
+    "• H2H: 4 desde 2018: 3-1",
+    "• Bajas: Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins)",
+    "",
+    "🧩 Combinada: Gana Pittsburgh Steelers + Más de 38.5 puntos → prob. 21%, cuota justa 4.81",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.57 (producto de piernas) · prob. 21% · ventaja -5%"
+   ],
+   "context": "Pittsburgh Steelers vs Denver Broncos (🏈 NFL). Hándicap Pittsburgh Steelers +3: margen esperado desde el Elo (gana Pittsburgh Steelers 40%). Forma Pittsburgh Steelers ✅✅✅❌❌, Denver Broncos ✅✅✅✅✅. H2H 4 desde 2018: 3-1. Bajas: Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins).",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 2.32,
+   "book": "DraftKings",
+   "p": 0.414,
+   "implied": 0.414,
+   "edge": -0.04,
+   "key": "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos",
+   "match": "Pittsburgh Steelers vs Denver Broncos",
+   "pick": "Pittsburgh Steelers",
+   "start": "2026-11-27T20:00Z",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 3.301 partidos y bajas)",
+    "Gana Pittsburgh Steelers 40% · Gana Denver Broncos 60%",
+    "Casas: Pittsburgh Steelers 41% · Denver Broncos 59%",
+    "Hándicap DEN -3 · Total puntos 38.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Pittsburgh Steelers ✅✅✅❌❌ | Denver Broncos ✅✅✅✅✅",
+    "• H2H: 4 desde 2018: 3-1",
+    "• Bajas: Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins)",
+    "• Favorito de las casas: Denver Broncos @ 1.64",
+    "",
+    "🧩 Combinada: Gana Pittsburgh Steelers + Más de 38.5 puntos → prob. 21%, cuota justa 4.81",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.57 (producto de piernas) · prob. 21% · ventaja -5%"
+   ],
+   "context": "Pittsburgh Steelers vs Denver Broncos (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Pittsburgh Steelers 40%, Denver Broncos 60%. Cuotas DraftKings 2.32/1.637, hándicap DEN -3, total 38.5. Forma Pittsburgh Steelers ✅✅✅❌❌, Denver Broncos ✅✅✅✅✅. H2H 4 desde 2018: 3-1. Bajas Pittsburgh Steelers: Nick Herbig duda; Ben Skowronek duda; Michael Pittman Jr. lesionado; Payton Wilson duda; Roman Wilson duda; Germie Bernard duda; Max Hurleman duda; DK Metcalf duda; Alex Highsmith duda; Sean Murphy-Bunting duda; Gabriel Rubio duda; Drew Allar duda; Eli Heidenreich duda; Chris Boswell duda; Darnell Washington duda; Pat Freiermuth duda; Aaron Rodgers duda; Rico Dowdle duda; Jaylen Warren duda; Kaden Wetjen duda; Patrick Queen duda; DeShon Elliott duda; Will Howard duda; Gennings Dunker lesionado; Mason McCormick lesionado. Bajas Denver Broncos: Tyler Badie lesionado; Sai'vion Jones duda; Taylor Rapp duda; Brandon Jones duda; J.K. Dobbins lesionado; Alex Singleton duda; Ja'Quan McMillian duda; Troy Franklin duda; Adam Trautman duda; Marvin Mims Jr. duda; Wil Lutz duda; Nate Adkins duda; Gavin Ortega duda; Jordan Jackson duda; Dallen Bentley duda; Kage Casey duda; Pat Bryant duda; Courtland Sutton duda; Evan Engram duda; Bo Nix duda; Jaylen Waddle duda; Jonah Coleman duda; Lil'Jordan Humphrey duda; Sam Ehlinger duda; Talanoa Hufanga duda.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Pittsburgh Steelers: 3 fuera, 22 duda (Michael Pittman Jr., Gennings Dunker, Mason McCormick); Denver Broncos: 2 fuera, 23 duda (Tyler Badie, J.K. Dobbins)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 40.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.5,
+   "implied": 0.5,
+   "edge": -0.045,
+   "expected": 37.3,
+   "key": "cfb|2026-11-27|Iowa Hawkeyes|Nebraska Cornhuskers",
+   "match": "Iowa Hawkeyes vs Nebraska Cornhuskers",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Más de 40.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>37.3</b> puntos · línea 40.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Iowa Hawkeyes ❌✅✅✅✅ | Nebraska Cornhuskers ❌❌❌✅✅",
+    "• H2H: 10 desde 2016: 9-1",
+    "• Bajas: Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas"
+   ],
+   "context": "Iowa Hawkeyes vs Nebraska Cornhuskers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 37.3 frente a línea 40.5. Forma Iowa Hawkeyes ❌✅✅✅✅, Nebraska Cornhuskers ❌❌❌✅✅. H2H 10 desde 2016: 9-1. Bajas: Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.893,
+   "book": "DraftKings",
+   "p": 0.504,
+   "implied": 0.504,
+   "edge": -0.045,
+   "line": -4.5,
+   "key": "cfb|2026-11-27|Iowa Hawkeyes|Nebraska Cornhuskers",
+   "match": "Iowa Hawkeyes vs Nebraska Cornhuskers",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Iowa Hawkeyes -4.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Iowa Hawkeyes cubre -4.5 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Iowa Hawkeyes ❌✅✅✅✅ | Nebraska Cornhuskers ❌❌❌✅✅",
+    "• H2H: 10 desde 2016: 9-1",
+    "• Bajas: Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas"
+   ],
+   "context": "Iowa Hawkeyes vs Nebraska Cornhuskers (🏈 NCAA Football). Hándicap Iowa Hawkeyes -4.5: margen esperado desde el Elo (gana Iowa Hawkeyes 84%). Forma Iowa Hawkeyes ❌✅✅✅✅, Nebraska Cornhuskers ❌❌❌✅✅. H2H 10 desde 2016: 9-1. Bajas: Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.488,
+   "book": "DraftKings",
+   "p": 0.645,
+   "implied": 0.645,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|Iowa Hawkeyes|Nebraska Cornhuskers",
+   "match": "Iowa Hawkeyes vs Nebraska Cornhuskers",
+   "pick": "Iowa Hawkeyes",
+   "start": "2026-11-27T17:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Iowa Hawkeyes 84% · Gana Nebraska Cornhuskers 16%",
+    "Casas: Iowa Hawkeyes 64% · Nebraska Cornhuskers 36%",
+    "Hándicap IOWA -4.5 · Total puntos 40.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Iowa Hawkeyes ❌✅✅✅✅ | Nebraska Cornhuskers ❌❌❌✅✅",
+    "• H2H: 10 desde 2016: 9-1",
+    "• Bajas: Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas",
+    "• Favorito de las casas: Iowa Hawkeyes @ 1.49"
+   ],
+   "context": "Iowa Hawkeyes vs Nebraska Cornhuskers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Iowa Hawkeyes 84%, Nebraska Cornhuskers 16%. Cuotas DraftKings 1.488/2.7, hándicap IOWA -4.5, total 40.5. Forma Iowa Hawkeyes ❌✅✅✅✅, Nebraska Cornhuskers ❌❌❌✅✅. H2H 10 desde 2016: 9-1. Bajas Iowa Hawkeyes: ninguna. Bajas Nebraska Cornhuskers: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Iowa Hawkeyes: sin bajas; Nebraska Cornhuskers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 56.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.5,
+   "implied": 0.5,
+   "edge": -0.045,
+   "expected": 54.0,
+   "key": "cfb|2026-11-27|Ole Miss Rebels|Mississippi State Bulldogs",
+   "match": "Ole Miss Rebels vs Mississippi State Bulldogs",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Más de 56.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>54.0</b> puntos · línea 56.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ole Miss Rebels ❌✅❌❌✅ | Mississippi State Bulldogs ❌❌❌❌✅",
+    "• H2H: 10 desde 2016: 6-4",
+    "• Bajas: Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas"
+   ],
+   "context": "Ole Miss Rebels vs Mississippi State Bulldogs (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 54.0 frente a línea 56.5. Forma Ole Miss Rebels ❌✅❌❌✅, Mississippi State Bulldogs ❌❌❌❌✅. H2H 10 desde 2016: 6-4. Bajas: Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.87,
+   "book": "DraftKings",
+   "p": 0.511,
+   "implied": 0.511,
+   "edge": -0.045,
+   "line": -18.5,
+   "key": "cfb|2026-11-27|Ole Miss Rebels|Mississippi State Bulldogs",
+   "match": "Ole Miss Rebels vs Mississippi State Bulldogs",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Ole Miss Rebels -18.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Ole Miss Rebels cubre -18.5 con prob. 51% (casas 51%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ole Miss Rebels ❌✅❌❌✅ | Mississippi State Bulldogs ❌❌❌❌✅",
+    "• H2H: 10 desde 2016: 6-4",
+    "• Bajas: Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas"
+   ],
+   "context": "Ole Miss Rebels vs Mississippi State Bulldogs (🏈 NCAA Football). Hándicap Ole Miss Rebels -18.5: margen esperado desde el Elo (gana Ole Miss Rebels 92%). Forma Ole Miss Rebels ❌✅❌❌✅, Mississippi State Bulldogs ❌❌❌❌✅. H2H 10 desde 2016: 6-4. Bajas: Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.095,
+   "book": "DraftKings",
+   "p": 0.876,
+   "implied": 0.876,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|Ole Miss Rebels|Mississippi State Bulldogs",
+   "match": "Ole Miss Rebels vs Mississippi State Bulldogs",
+   "pick": "Ole Miss Rebels",
+   "start": "2026-11-27T17:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Ole Miss Rebels 92% · Gana Mississippi State Bulldogs 8%",
+    "Casas: Ole Miss Rebels 88% · Mississippi State Bulldogs 12%",
+    "Hándicap MISS -18.5 · Total puntos 56.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ole Miss Rebels ❌✅❌❌✅ | Mississippi State Bulldogs ❌❌❌❌✅",
+    "• H2H: 10 desde 2016: 6-4",
+    "• Bajas: Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas",
+    "• Favorito de las casas: Ole Miss Rebels @ 1.09"
+   ],
+   "context": "Ole Miss Rebels vs Mississippi State Bulldogs (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Ole Miss Rebels 92%, Mississippi State Bulldogs 8%. Cuotas DraftKings 1.095/7.75, hándicap MISS -18.5, total 56.5. Forma Ole Miss Rebels ❌✅❌❌✅, Mississippi State Bulldogs ❌❌❌❌✅. H2H 10 desde 2016: 6-4. Bajas Ole Miss Rebels: ninguna. Bajas Mississippi State Bulldogs: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Ole Miss Rebels: sin bajas; Mississippi State Bulldogs: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 57.5,
+   "odds": 1.847,
+   "book": "DraftKings",
+   "p": 0.517,
+   "implied": 0.517,
+   "edge": -0.044,
+   "expected": 63.2,
+   "key": "cfb|2026-11-27|UTSA Roadrunners|Tulsa Golden Hurricane",
+   "match": "UTSA Roadrunners vs Tulsa Golden Hurricane",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Más de 57.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>63.2</b> puntos · línea 57.5",
+    "Más 52% · Menos 48%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: UTSA Roadrunners ✅✅❌✅✅ | Tulsa Golden Hurricane ✅❌✅✅✅",
+    "• H2H: 1 desde 2024: 0-1",
+    "• Bajas: UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas"
+   ],
+   "context": "UTSA Roadrunners vs Tulsa Golden Hurricane (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 63.2 frente a línea 57.5. Forma UTSA Roadrunners ✅✅❌✅✅, Tulsa Golden Hurricane ✅❌✅✅✅. H2H 1 desde 2024: 0-1. Bajas: UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "line": -1.5,
+   "key": "cfb|2026-11-27|UTSA Roadrunners|Tulsa Golden Hurricane",
+   "match": "UTSA Roadrunners vs Tulsa Golden Hurricane",
+   "start": "2026-11-27T17:00Z",
+   "pick": "UTSA Roadrunners -1.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: UTSA Roadrunners cubre -1.5 con prob. 49% (casas 49%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: UTSA Roadrunners ✅✅❌✅✅ | Tulsa Golden Hurricane ✅❌✅✅✅",
+    "• H2H: 1 desde 2024: 0-1",
+    "• Bajas: UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas"
+   ],
+   "context": "UTSA Roadrunners vs Tulsa Golden Hurricane (🏈 NCAA Football). Hándicap UTSA Roadrunners -1.5: margen esperado desde el Elo (gana UTSA Roadrunners 78%). Forma UTSA Roadrunners ✅✅❌✅✅, Tulsa Golden Hurricane ✅❌✅✅✅. H2H 1 desde 2024: 0-1. Bajas: UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.87,
+   "book": "DraftKings",
+   "p": 0.511,
+   "implied": 0.511,
+   "edge": -0.045,
+   "key": "cfb|2026-11-27|UTSA Roadrunners|Tulsa Golden Hurricane",
+   "match": "UTSA Roadrunners vs Tulsa Golden Hurricane",
+   "pick": "UTSA Roadrunners",
+   "start": "2026-11-27T17:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana UTSA Roadrunners 78% · Gana Tulsa Golden Hurricane 22%",
+    "Casas: UTSA Roadrunners 51% · Tulsa Golden Hurricane 49%",
+    "Hándicap UTSA -1.5 · Total puntos 57.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: UTSA Roadrunners ✅✅❌✅✅ | Tulsa Golden Hurricane ✅❌✅✅✅",
+    "• H2H: 1 desde 2024: 0-1",
+    "• Bajas: UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas",
+    "• Favorito de las casas: UTSA Roadrunners @ 1.87"
+   ],
+   "context": "UTSA Roadrunners vs Tulsa Golden Hurricane (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: UTSA Roadrunners 78%, Tulsa Golden Hurricane 22%. Cuotas DraftKings 1.87/1.952, hándicap UTSA -1.5, total 57.5. Forma UTSA Roadrunners ✅✅❌✅✅, Tulsa Golden Hurricane ✅❌✅✅✅. H2H 1 desde 2024: 0-1. Bajas UTSA Roadrunners: ninguna. Bajas Tulsa Golden Hurricane: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "UTSA Roadrunners: sin bajas; Tulsa Golden Hurricane: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 48.5,
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "expected": 48.7,
+   "key": "cfb|2026-11-27|Akron Zips|Buffalo Bulls",
+   "match": "Akron Zips vs Buffalo Bulls",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Más de 48.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>48.7</b> puntos · línea 48.5",
+    "Más 49% · Menos 51%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Akron Zips ❌❌❌❌✅ | Buffalo Bulls ✅✅✅✅✅",
+    "• H2H: 10 desde 2017: 2-7",
+    "• Bajas: Akron Zips: sin bajas; Buffalo Bulls: sin bajas"
+   ],
+   "context": "Akron Zips vs Buffalo Bulls (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.7 frente a línea 48.5. Forma Akron Zips ❌❌❌❌✅, Buffalo Bulls ✅✅✅✅✅. H2H 10 desde 2017: 2-7. Bajas: Akron Zips: sin bajas; Buffalo Bulls: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Akron Zips: sin bajas; Buffalo Bulls: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.833,
+   "book": "DraftKings",
+   "p": 0.522,
+   "implied": 0.522,
+   "edge": -0.044,
+   "line": 7.5,
+   "key": "cfb|2026-11-27|Akron Zips|Buffalo Bulls",
+   "match": "Akron Zips vs Buffalo Bulls",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Akron Zips +7.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Akron Zips cubre +7.5 con prob. 52% (casas 52%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Akron Zips ❌❌❌❌✅ | Buffalo Bulls ✅✅✅✅✅",
+    "• H2H: 10 desde 2017: 2-7",
+    "• Bajas: Akron Zips: sin bajas; Buffalo Bulls: sin bajas"
+   ],
+   "context": "Akron Zips vs Buffalo Bulls (🏈 NCAA Football). Hándicap Akron Zips +7.5: margen esperado desde el Elo (gana Akron Zips 15%). Forma Akron Zips ❌❌❌❌✅, Buffalo Bulls ✅✅✅✅✅. H2H 10 desde 2017: 2-7. Bajas: Akron Zips: sin bajas; Buffalo Bulls: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Akron Zips: sin bajas; Buffalo Bulls: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 3.45,
+   "book": "DraftKings",
+   "p": 0.278,
+   "implied": 0.278,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|Akron Zips|Buffalo Bulls",
+   "match": "Akron Zips vs Buffalo Bulls",
+   "pick": "Akron Zips",
+   "start": "2026-11-27T17:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Akron Zips 15% · Gana Buffalo Bulls 85%",
+    "Casas: Akron Zips 28% · Buffalo Bulls 72%",
+    "Hándicap BUF -7.5 · Total puntos 48.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Akron Zips ❌❌❌❌✅ | Buffalo Bulls ✅✅✅✅✅",
+    "• H2H: 10 desde 2017: 2-7",
+    "• Bajas: Akron Zips: sin bajas; Buffalo Bulls: sin bajas",
+    "• Favorito de las casas: Buffalo Bulls @ 1.33"
+   ],
+   "context": "Akron Zips vs Buffalo Bulls (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Akron Zips 15%, Buffalo Bulls 85%. Cuotas DraftKings 3.45/1.328, hándicap BUF -7.5, total 48.5. Forma Akron Zips ❌❌❌❌✅, Buffalo Bulls ✅✅✅✅✅. H2H 10 desde 2017: 2-7. Bajas Akron Zips: ninguna. Bajas Buffalo Bulls: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Akron Zips: sin bajas; Buffalo Bulls: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 45.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.5,
+   "implied": 0.5,
+   "edge": -0.045,
+   "expected": 45.3,
+   "key": "cfb|2026-11-27|Ohio Bobcats|Toledo Rockets",
+   "match": "Ohio Bobcats vs Toledo Rockets",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Más de 45.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>45.3</b> puntos · línea 45.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ohio Bobcats ✅✅✅❌✅ | Toledo Rockets ✅✅✅✅✅",
+    "• H2H: 4 desde 2017: 2-2",
+    "• Bajas: Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas"
+   ],
+   "context": "Ohio Bobcats vs Toledo Rockets (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 45.3 frente a línea 45.5. Forma Ohio Bobcats ✅✅✅❌✅, Toledo Rockets ✅✅✅✅✅. H2H 4 desde 2017: 2-2. Bajas: Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.893,
+   "book": "DraftKings",
+   "p": 0.504,
+   "implied": 0.504,
+   "edge": -0.045,
+   "line": 3.0,
+   "key": "cfb|2026-11-27|Ohio Bobcats|Toledo Rockets",
+   "match": "Ohio Bobcats vs Toledo Rockets",
+   "start": "2026-11-27T17:00Z",
+   "pick": "Ohio Bobcats +3",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Ohio Bobcats cubre +3 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ohio Bobcats ✅✅✅❌✅ | Toledo Rockets ✅✅✅✅✅",
+    "• H2H: 4 desde 2017: 2-2",
+    "• Bajas: Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas"
+   ],
+   "context": "Ohio Bobcats vs Toledo Rockets (🏈 NCAA Football). Hándicap Ohio Bobcats +3: margen esperado desde el Elo (gana Ohio Bobcats 54%). Forma Ohio Bobcats ✅✅✅❌✅, Toledo Rockets ✅✅✅✅✅. H2H 4 desde 2017: 2-2. Bajas: Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 2.3,
+   "book": "DraftKings",
+   "p": 0.417,
+   "implied": 0.417,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|Ohio Bobcats|Toledo Rockets",
+   "match": "Ohio Bobcats vs Toledo Rockets",
+   "pick": "Ohio Bobcats",
+   "start": "2026-11-27T17:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Ohio Bobcats 54% · Gana Toledo Rockets 46%",
+    "Casas: Ohio Bobcats 42% · Toledo Rockets 58%",
+    "Hándicap TOL -3 · Total puntos 45.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ohio Bobcats ✅✅✅❌✅ | Toledo Rockets ✅✅✅✅✅",
+    "• H2H: 4 desde 2017: 2-2",
+    "• Bajas: Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas",
+    "• Favorito de las casas: Toledo Rockets @ 1.65"
+   ],
+   "context": "Ohio Bobcats vs Toledo Rockets (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Ohio Bobcats 54%, Toledo Rockets 46%. Cuotas DraftKings 2.3/1.645, hándicap TOL -3, total 45.5. Forma Ohio Bobcats ✅✅✅❌✅, Toledo Rockets ✅✅✅✅✅. H2H 4 desde 2017: 2-2. Bajas Ohio Bobcats: ninguna. Bajas Toledo Rockets: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Ohio Bobcats: sin bajas; Toledo Rockets: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 56.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.5,
+   "implied": 0.5,
+   "edge": -0.045,
+   "expected": 58.4,
+   "key": "cfb|2026-11-27|South Alabama Jaguars|App State Mountaineers",
+   "match": "South Alabama Jaguars vs App State Mountaineers",
+   "start": "2026-11-27T20:00Z",
+   "pick": "Más de 56.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>58.4</b> puntos · línea 56.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: South Alabama Jaguars ❌❌❌✅✅ | App State Mountaineers ✅❌❌✅✅",
+    "• H2H: 1 desde 2024: 1-0",
+    "• Bajas: South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas"
+   ],
+   "context": "South Alabama Jaguars vs App State Mountaineers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 58.4 frente a línea 56.5. Forma South Alabama Jaguars ❌❌❌✅✅, App State Mountaineers ✅❌❌✅✅. H2H 1 desde 2024: 1-0. Bajas: South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "line": -3.5,
+   "key": "cfb|2026-11-27|South Alabama Jaguars|App State Mountaineers",
+   "match": "South Alabama Jaguars vs App State Mountaineers",
+   "start": "2026-11-27T20:00Z",
+   "pick": "South Alabama Jaguars -3.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: South Alabama Jaguars cubre -3.5 con prob. 49% (casas 49%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: South Alabama Jaguars ❌❌❌✅✅ | App State Mountaineers ✅❌❌✅✅",
+    "• H2H: 1 desde 2024: 1-0",
+    "• Bajas: South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas"
+   ],
+   "context": "South Alabama Jaguars vs App State Mountaineers (🏈 NCAA Football). Hándicap South Alabama Jaguars -3.5: margen esperado desde el Elo (gana South Alabama Jaguars 65%). Forma South Alabama Jaguars ❌❌❌✅✅, App State Mountaineers ✅❌❌✅✅. H2H 1 desde 2024: 1-0. Bajas: South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.602,
+   "book": "DraftKings",
+   "p": 0.6,
+   "implied": 0.6,
+   "edge": -0.039,
+   "key": "cfb|2026-11-27|South Alabama Jaguars|App State Mountaineers",
+   "match": "South Alabama Jaguars vs App State Mountaineers",
+   "pick": "South Alabama Jaguars",
+   "start": "2026-11-27T20:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana South Alabama Jaguars 65% · Gana App State Mountaineers 35%",
+    "Casas: South Alabama Jaguars 60% · App State Mountaineers 40%",
+    "Hándicap USA -3.5 · Total puntos 56.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: South Alabama Jaguars ❌❌❌✅✅ | App State Mountaineers ✅❌❌✅✅",
+    "• H2H: 1 desde 2024: 1-0",
+    "• Bajas: South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas",
+    "• Favorito de las casas: South Alabama Jaguars @ 1.60"
+   ],
+   "context": "South Alabama Jaguars vs App State Mountaineers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: South Alabama Jaguars 65%, App State Mountaineers 35%. Cuotas DraftKings 1.602/2.4, hándicap USA -3.5, total 56.5. Forma South Alabama Jaguars ❌❌❌✅✅, App State Mountaineers ✅❌❌✅✅. H2H 1 desde 2024: 1-0. Bajas South Alabama Jaguars: ninguna. Bajas App State Mountaineers: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "South Alabama Jaguars: sin bajas; App State Mountaineers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 53.5,
+   "odds": 1.893,
+   "book": "DraftKings",
+   "p": 0.504,
+   "implied": 0.504,
+   "edge": -0.045,
+   "expected": 50.9,
+   "key": "cfb|2026-11-27|Florida State Seminoles|Florida Gators",
+   "match": "Florida State Seminoles vs Florida Gators",
+   "start": "2026-11-27T20:30Z",
+   "pick": "Más de 53.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>50.9</b> puntos · línea 53.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Florida State Seminoles ❌❌✅✅❌ | Florida Gators ✅❌❌✅✅",
+    "• H2H: 9 desde 2016: 4-5",
+    "• Bajas: Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)"
+   ],
+   "context": "Florida State Seminoles vs Florida Gators (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 50.9 frente a línea 53.5. Forma Florida State Seminoles ❌❌✅✅❌, Florida Gators ✅❌❌✅✅. H2H 9 desde 2016: 4-5. Bajas: Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson).",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.926,
+   "book": "DraftKings",
+   "p": 0.496,
+   "implied": 0.496,
+   "edge": -0.045,
+   "line": 6.0,
+   "key": "cfb|2026-11-27|Florida State Seminoles|Florida Gators",
+   "match": "Florida State Seminoles vs Florida Gators",
+   "start": "2026-11-27T20:30Z",
+   "pick": "Florida State Seminoles +6",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Florida State Seminoles cubre +6 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Florida State Seminoles ❌❌✅✅❌ | Florida Gators ✅❌❌✅✅",
+    "• H2H: 9 desde 2016: 4-5",
+    "• Bajas: Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)"
+   ],
+   "context": "Florida State Seminoles vs Florida Gators (🏈 NCAA Football). Hándicap Florida State Seminoles +6: margen esperado desde el Elo (gana Florida State Seminoles 34%). Forma Florida State Seminoles ❌❌✅✅❌, Florida Gators ✅❌❌✅✅. H2H 9 desde 2016: 4-5. Bajas: Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson).",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 2.9,
+   "book": "DraftKings",
+   "p": 0.331,
+   "implied": 0.331,
+   "edge": -0.04,
+   "key": "cfb|2026-11-27|Florida State Seminoles|Florida Gators",
+   "match": "Florida State Seminoles vs Florida Gators",
+   "pick": "Florida State Seminoles",
+   "start": "2026-11-27T20:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Florida State Seminoles 34% · Gana Florida Gators 66%",
+    "Casas: Florida State Seminoles 33% · Florida Gators 67%",
+    "Hándicap FLA -6 · Total puntos 53.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Florida State Seminoles ❌❌✅✅❌ | Florida Gators ✅❌❌✅✅",
+    "• H2H: 9 desde 2016: 4-5",
+    "• Bajas: Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
+    "• Favorito de las casas: Florida Gators @ 1.44"
+   ],
+   "context": "Florida State Seminoles vs Florida Gators (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Florida State Seminoles 34%, Florida Gators 66%. Cuotas DraftKings 2.9/1.435, hándicap FLA -6, total 53.5. Forma Florida State Seminoles ❌❌✅✅❌, Florida Gators ✅❌❌✅✅. H2H 9 desde 2016: 4-5. Bajas Florida State Seminoles: ninguna. Bajas Florida Gators: Kahleil Jackson lesionado.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 66.5,
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "expected": 63.6,
+   "key": "cfb|2026-11-27|Memphis Tigers|Temple Owls",
+   "match": "Memphis Tigers vs Temple Owls",
+   "start": "2026-11-27T20:30Z",
+   "pick": "Más de 66.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>63.6</b> puntos · línea 66.5",
+    "Más 49% · Menos 51%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Memphis Tigers ❌✅✅✅❌ | Temple Owls ❌❌❌❌❌",
+    "• H2H: 5 desde 2019: 3-2",
+    "• Bajas: Memphis Tigers: sin bajas; Temple Owls: sin bajas"
+   ],
+   "context": "Memphis Tigers vs Temple Owls (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 63.6 frente a línea 66.5. Forma Memphis Tigers ❌✅✅✅❌, Temple Owls ❌❌❌❌❌. H2H 5 desde 2019: 3-2. Bajas: Memphis Tigers: sin bajas; Temple Owls: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Memphis Tigers: sin bajas; Temple Owls: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.926,
+   "book": "DraftKings",
+   "p": 0.496,
+   "implied": 0.496,
+   "edge": -0.045,
+   "line": -17.5,
+   "key": "cfb|2026-11-27|Memphis Tigers|Temple Owls",
+   "match": "Memphis Tigers vs Temple Owls",
+   "start": "2026-11-27T20:30Z",
+   "pick": "Memphis Tigers -17.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Memphis Tigers cubre -17.5 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Memphis Tigers ❌✅✅✅❌ | Temple Owls ❌❌❌❌❌",
+    "• H2H: 5 desde 2019: 3-2",
+    "• Bajas: Memphis Tigers: sin bajas; Temple Owls: sin bajas"
+   ],
+   "context": "Memphis Tigers vs Temple Owls (🏈 NCAA Football). Hándicap Memphis Tigers -17.5: margen esperado desde el Elo (gana Memphis Tigers 95%). Forma Memphis Tigers ❌✅✅✅❌, Temple Owls ❌❌❌❌❌. H2H 5 desde 2019: 3-2. Bajas: Memphis Tigers: sin bajas; Temple Owls: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Memphis Tigers: sin bajas; Temple Owls: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.105,
+   "book": "DraftKings",
+   "p": 0.868,
+   "implied": 0.868,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|Memphis Tigers|Temple Owls",
+   "match": "Memphis Tigers vs Temple Owls",
+   "pick": "Memphis Tigers",
+   "start": "2026-11-27T20:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Memphis Tigers 95% · Gana Temple Owls 5%",
+    "Casas: Memphis Tigers 87% · Temple Owls 13%",
+    "Hándicap MEM -17.5 · Total puntos 66.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Memphis Tigers ❌✅✅✅❌ | Temple Owls ❌❌❌❌❌",
+    "• H2H: 5 desde 2019: 3-2",
+    "• Bajas: Memphis Tigers: sin bajas; Temple Owls: sin bajas",
+    "• Favorito de las casas: Memphis Tigers @ 1.10"
+   ],
+   "context": "Memphis Tigers vs Temple Owls (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Memphis Tigers 95%, Temple Owls 5%. Cuotas DraftKings 1.105/7.25, hándicap MEM -17.5, total 66.5. Forma Memphis Tigers ❌✅✅✅❌, Temple Owls ❌❌❌❌❌. H2H 5 desde 2019: 3-2. Bajas Memphis Tigers: ninguna. Bajas Temple Owls: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Memphis Tigers: sin bajas; Temple Owls: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 40.5,
+   "odds": 1.926,
+   "book": "DraftKings",
+   "p": 0.496,
+   "implied": 0.496,
+   "edge": -0.045,
+   "expected": 47.1,
+   "key": "cfb|2026-11-27|San José State Spartans|North Dakota State Bison",
+   "match": "San José State Spartans vs North Dakota State Bison",
+   "start": "2026-11-27T20:30Z",
+   "pick": "Más de 40.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>47.1</b> puntos · línea 40.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: San José State Spartans ❌❌✅❌❌ | North Dakota State Bison ✅❌✅✅✅",
+    "• H2H: sin precedentes",
+    "• Bajas: San José State Spartans: sin bajas; North Dakota State Bison: sin bajas"
+   ],
+   "context": "San José State Spartans vs North Dakota State Bison (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 47.1 frente a línea 40.5. Forma San José State Spartans ❌❌✅❌❌, North Dakota State Bison ✅❌✅✅✅. H2H sin precedentes. Bajas: San José State Spartans: sin bajas; North Dakota State Bison: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.893,
+   "book": "DraftKings",
+   "p": 0.504,
+   "implied": 0.504,
+   "edge": -0.045,
+   "line": 8.5,
+   "key": "cfb|2026-11-27|San José State Spartans|North Dakota State Bison",
+   "match": "San José State Spartans vs North Dakota State Bison",
+   "start": "2026-11-27T20:30Z",
+   "pick": "San José State Spartans +8.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: San José State Spartans cubre +8.5 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: San José State Spartans ❌❌✅❌❌ | North Dakota State Bison ✅❌✅✅✅",
+    "• H2H: sin precedentes",
+    "• Bajas: San José State Spartans: sin bajas; North Dakota State Bison: sin bajas"
+   ],
+   "context": "San José State Spartans vs North Dakota State Bison (🏈 NCAA Football). Hándicap San José State Spartans +8.5: margen esperado desde el Elo (gana San José State Spartans 7%). Forma San José State Spartans ❌❌✅❌❌, North Dakota State Bison ✅❌✅✅✅. H2H sin precedentes. Bajas: San José State Spartans: sin bajas; North Dakota State Bison: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "away",
+   "odds": 1.278,
+   "book": "DraftKings",
+   "p": 0.751,
+   "implied": 0.751,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|San José State Spartans|North Dakota State Bison",
+   "match": "San José State Spartans vs North Dakota State Bison",
+   "pick": "North Dakota State Bison",
+   "start": "2026-11-27T20:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana San José State Spartans 7% · Gana North Dakota State Bison 93%",
+    "Casas: San José State Spartans 25% · North Dakota State Bison 75%",
+    "Hándicap NDSU -8.5 · Total puntos 40.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: San José State Spartans ❌❌✅❌❌ | North Dakota State Bison ✅❌✅✅✅",
+    "• H2H: sin precedentes",
+    "• Bajas: San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
+    "• Favorito de las casas: North Dakota State Bison @ 1.28"
+   ],
+   "context": "San José State Spartans vs North Dakota State Bison (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: San José State Spartans 7%, North Dakota State Bison 93%. Cuotas DraftKings 3.85/1.278, hándicap NDSU -8.5, total 40.5. Forma San José State Spartans ❌❌✅❌❌, North Dakota State Bison ✅❌✅✅✅. H2H sin precedentes. Bajas San José State Spartans: ninguna. Bajas North Dakota State Bison: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 41.5,
+   "odds": 1.893,
+   "book": "DraftKings",
+   "p": 0.504,
+   "implied": 0.504,
+   "edge": -0.045,
+   "expected": 52.5,
+   "key": "cfb|2026-11-27|New Mexico Lobos|Air Force Falcons",
+   "match": "New Mexico Lobos vs Air Force Falcons",
+   "start": "2026-11-27T21:30Z",
+   "pick": "Más de 41.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>52.5</b> puntos · línea 41.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: New Mexico Lobos ✅✅✅❌✅ | Air Force Falcons ❌✅✅✅✅",
+    "• H2H: 9 desde 2017: 3-5",
+    "• Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas"
+   ],
+   "context": "New Mexico Lobos vs Air Force Falcons (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 52.5 frente a línea 41.5. Forma New Mexico Lobos ✅✅✅❌✅, Air Force Falcons ❌✅✅✅✅. H2H 9 desde 2017: 3-5. Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.87,
+   "book": "DraftKings",
+   "p": 0.511,
+   "implied": 0.511,
+   "edge": -0.045,
+   "line": -6.5,
+   "key": "cfb|2026-11-27|New Mexico Lobos|Air Force Falcons",
+   "match": "New Mexico Lobos vs Air Force Falcons",
+   "start": "2026-11-27T21:30Z",
+   "pick": "New Mexico Lobos -6.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: New Mexico Lobos cubre -6.5 con prob. 51% (casas 51%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: New Mexico Lobos ✅✅✅❌✅ | Air Force Falcons ❌✅✅✅✅",
+    "• H2H: 9 desde 2017: 3-5",
+    "• Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas"
+   ],
+   "context": "New Mexico Lobos vs Air Force Falcons (🏈 NCAA Football). Hándicap New Mexico Lobos -6.5: margen esperado desde el Elo (gana New Mexico Lobos 70%). Forma New Mexico Lobos ✅✅✅❌✅, Air Force Falcons ❌✅✅✅✅. H2H 9 desde 2017: 3-5. Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.388,
+   "book": "DraftKings",
+   "p": 0.691,
+   "implied": 0.691,
+   "edge": -0.041,
+   "key": "cfb|2026-11-27|New Mexico Lobos|Air Force Falcons",
+   "match": "New Mexico Lobos vs Air Force Falcons",
+   "pick": "New Mexico Lobos",
+   "start": "2026-11-27T21:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana New Mexico Lobos 70% · Gana Air Force Falcons 30%",
+    "Casas: New Mexico Lobos 69% · Air Force Falcons 31%",
+    "Hándicap UNM -6.5 · Total puntos 41.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: New Mexico Lobos ✅✅✅❌✅ | Air Force Falcons ❌✅✅✅✅",
+    "• H2H: 9 desde 2017: 3-5",
+    "• Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas",
+    "• Favorito de las casas: New Mexico Lobos @ 1.39"
+   ],
+   "context": "New Mexico Lobos vs Air Force Falcons (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: New Mexico Lobos 70%, Air Force Falcons 30%. Cuotas DraftKings 1.388/3.1, hándicap UNM -6.5, total 41.5. Forma New Mexico Lobos ✅✅✅❌✅, Air Force Falcons ❌✅✅✅✅. H2H 9 desde 2017: 3-5. Bajas New Mexico Lobos: ninguna. Bajas Air Force Falcons: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 40.5,
+   "odds": 1.87,
+   "book": "DraftKings",
+   "p": 0.511,
+   "implied": 0.511,
+   "edge": -0.045,
+   "expected": 44.1,
+   "key": "cfb|2026-11-28|Texas A&M Aggies|Texas Longhorns",
+   "match": "Texas A&M Aggies vs Texas Longhorns",
+   "start": "2026-11-28T00:30Z",
+   "pick": "Más de 40.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>44.1</b> puntos · línea 40.5",
+    "Más 51% · Menos 49%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅",
+    "• H2H: 2 desde 2024: 0-2",
+    "• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas"
+   ],
+   "context": "Texas A&M Aggies vs Texas Longhorns (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 44.1 frente a línea 40.5. Forma Texas A&M Aggies ✅❌❌❌❌, Texas Longhorns ✅✅✅✅✅. H2H 2 desde 2024: 0-2. Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.87,
+   "book": "DraftKings",
+   "p": 0.511,
+   "implied": 0.511,
+   "edge": -0.045,
+   "line": 11.5,
+   "key": "cfb|2026-11-28|Texas A&M Aggies|Texas Longhorns",
+   "match": "Texas A&M Aggies vs Texas Longhorns",
+   "start": "2026-11-28T00:30Z",
+   "pick": "Texas A&M Aggies +11.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Texas A&amp;M Aggies cubre +11.5 con prob. 51% (casas 51%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅",
+    "• H2H: 2 desde 2024: 0-2",
+    "• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas"
+   ],
+   "context": "Texas A&M Aggies vs Texas Longhorns (🏈 NCAA Football). Hándicap Texas A&M Aggies +11.5: margen esperado desde el Elo (gana Texas A&M Aggies 13%). Forma Texas A&M Aggies ✅❌❌❌❌, Texas Longhorns ✅✅✅✅✅. H2H 2 desde 2024: 0-2. Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "away",
+   "odds": 1.22,
+   "book": "DraftKings",
+   "p": 0.787,
+   "implied": 0.787,
+   "edge": -0.04,
+   "key": "cfb|2026-11-28|Texas A&M Aggies|Texas Longhorns",
+   "match": "Texas A&M Aggies vs Texas Longhorns",
+   "pick": "Texas Longhorns",
+   "start": "2026-11-28T00:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Texas A&amp;M Aggies 13% · Gana Texas Longhorns 87%",
+    "Casas: Texas A&amp;M Aggies 21% · Texas Longhorns 79%",
+    "Hándicap TEX -11.5 · Total puntos 40.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅",
+    "• H2H: 2 desde 2024: 0-2",
+    "• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas",
+    "• Favorito de las casas: Texas Longhorns @ 1.22"
+   ],
+   "context": "Texas A&M Aggies vs Texas Longhorns (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Texas A&M Aggies 13%, Texas Longhorns 87%. Cuotas DraftKings 4.5/1.22, hándicap TEX -11.5, total 40.5. Forma Texas A&M Aggies ✅❌❌❌❌, Texas Longhorns ✅✅✅✅✅. H2H 2 desde 2024: 0-2. Bajas Texas A&M Aggies: ninguna. Bajas Texas Longhorns: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 37.5,
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "expected": 41.8,
+   "key": "cfb|2026-11-28|Wisconsin Badgers|Minnesota Golden Gophers",
+   "match": "Wisconsin Badgers vs Minnesota Golden Gophers",
+   "start": "2026-11-28T00:30Z",
+   "pick": "Más de 37.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>41.8</b> puntos · línea 37.5",
+    "Más 49% · Menos 51%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅",
+    "• H2H: 10 desde 2016: 5-5",
+    "• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas"
+   ],
+   "context": "Wisconsin Badgers vs Minnesota Golden Gophers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 41.8 frente a línea 37.5. Forma Wisconsin Badgers ✅❌✅❌✅, Minnesota Golden Gophers ✅❌❌❌✅. H2H 10 desde 2016: 5-5. Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.926,
+   "book": "DraftKings",
+   "p": 0.496,
+   "implied": 0.496,
+   "edge": -0.045,
+   "line": -7.5,
+   "key": "cfb|2026-11-28|Wisconsin Badgers|Minnesota Golden Gophers",
+   "match": "Wisconsin Badgers vs Minnesota Golden Gophers",
+   "start": "2026-11-28T00:30Z",
+   "pick": "Wisconsin Badgers -7.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Wisconsin Badgers cubre -7.5 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅",
+    "• H2H: 10 desde 2016: 5-5",
+    "• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas"
+   ],
+   "context": "Wisconsin Badgers vs Minnesota Golden Gophers (🏈 NCAA Football). Hándicap Wisconsin Badgers -7.5: margen esperado desde el Elo (gana Wisconsin Badgers 67%). Forma Wisconsin Badgers ✅❌✅❌✅, Minnesota Golden Gophers ✅❌❌❌✅. H2H 10 desde 2016: 5-5. Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.328,
+   "book": "DraftKings",
+   "p": 0.722,
+   "implied": 0.722,
+   "edge": -0.041,
+   "key": "cfb|2026-11-28|Wisconsin Badgers|Minnesota Golden Gophers",
+   "match": "Wisconsin Badgers vs Minnesota Golden Gophers",
+   "pick": "Wisconsin Badgers",
+   "start": "2026-11-28T00:30Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Wisconsin Badgers 67% · Gana Minnesota Golden Gophers 33%",
+    "Casas: Wisconsin Badgers 72% · Minnesota Golden Gophers 28%",
+    "Hándicap WIS -7.5 · Total puntos 37.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅",
+    "• H2H: 10 desde 2016: 5-5",
+    "• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas",
+    "• Favorito de las casas: Wisconsin Badgers @ 1.33"
+   ],
+   "context": "Wisconsin Badgers vs Minnesota Golden Gophers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Wisconsin Badgers 67%, Minnesota Golden Gophers 33%. Cuotas DraftKings 1.328/3.45, hándicap WIS -7.5, total 37.5. Forma Wisconsin Badgers ✅❌✅❌✅, Minnesota Golden Gophers ✅❌❌❌✅. H2H 10 desde 2016: 5-5. Bajas Wisconsin Badgers: ninguna. Bajas Minnesota Golden Gophers: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 68.5,
+   "odds": 1.926,
+   "book": "DraftKings",
+   "p": 0.496,
+   "implied": 0.496,
+   "edge": -0.045,
+   "expected": 59.9,
+   "key": "cfb|2026-11-28|Utah Utes|West Virginia Mountaineers",
+   "match": "Utah Utes vs West Virginia Mountaineers",
+   "start": "2026-11-28T02:00Z",
+   "pick": "Más de 68.5 puntos",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>59.9</b> puntos · línea 68.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Utah Utes ✅✅✅✅✅ | West Virginia Mountaineers ✅✅❌❌❌",
+    "• H2H: 2 desde 2017: 2-0",
+    "• Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas"
+   ],
+   "context": "Utah Utes vs West Virginia Mountaineers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 59.9 frente a línea 68.5. Forma Utah Utes ✅✅✅✅✅, West Virginia Mountaineers ✅✅❌❌❌. H2H 2 desde 2017: 2-0. Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "line": -25.5,
+   "key": "cfb|2026-11-28|Utah Utes|West Virginia Mountaineers",
+   "match": "Utah Utes vs West Virginia Mountaineers",
+   "start": "2026-11-28T02:00Z",
+   "pick": "Utah Utes -25.5",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Utah Utes cubre -25.5 con prob. 49% (casas 49%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Utah Utes ✅✅✅✅✅ | West Virginia Mountaineers ✅✅❌❌❌",
+    "• H2H: 2 desde 2017: 2-0",
+    "• Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas"
+   ],
+   "context": "Utah Utes vs West Virginia Mountaineers (🏈 NCAA Football). Hándicap Utah Utes -25.5: margen esperado desde el Elo (gana Utah Utes 97%). Forma Utah Utes ✅✅✅✅✅, West Virginia Mountaineers ✅✅❌❌❌. H2H 2 desde 2017: 2-0. Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.042,
+   "book": "DraftKings",
+   "p": 0.926,
+   "implied": 0.926,
+   "edge": -0.035,
+   "key": "cfb|2026-11-28|Utah Utes|West Virginia Mountaineers",
+   "match": "Utah Utes vs West Virginia Mountaineers",
+   "pick": "Utah Utes",
+   "start": "2026-11-28T02:00Z",
+   "league": "🏈 NCAA Football",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
+    "Gana Utah Utes 97% · Gana West Virginia Mountaineers 3%",
+    "Casas: Utah Utes 93% · West Virginia Mountaineers 7%",
+    "Hándicap UTAH -25.5 · Total puntos 68.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Utah Utes ✅✅✅✅✅ | West Virginia Mountaineers ✅✅❌❌❌",
+    "• H2H: 2 desde 2017: 2-0",
+    "• Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas",
+    "• Favorito de las casas: Utah Utes @ 1.04"
+   ],
+   "context": "Utah Utes vs West Virginia Mountaineers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Utah Utes 97%, West Virginia Mountaineers 3%. Cuotas DraftKings 1.042/13.0, hándicap UTAH -25.5, total 68.5. Forma Utah Utes ✅✅✅✅✅, West Virginia Mountaineers ✅✅❌❌❌. H2H 2 desde 2017: 2-0. Bajas Utah Utes: ninguna. Bajas West Virginia Mountaineers: ninguna.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "believer",
+   "odds": 1.08,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.922,
+   "edge": 0.0,
+   "p": 0.922,
+   "key": "fc|2397356",
+   "match": "ssstasonn vs believer",
+   "start": "2026-11-25T02:15:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 80.194 partidos)",
+    "Goles esperados: ssstasonn 1.56 · believer 5.13",
+    "Ganador: ssstasonn 3% · empate 5% · believer 92%",
+    "Total: más de 6.5 goles 50% · menos 50%",
+    "Hándicap believer: −1.5 79% · −2.5 65%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ✅❌❌❌❌ | believer ❌✅➖✅✅",
+    "• Partidos: ssstasonn 1340 | believer 1346",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs believer (Champions League B): goles esperados 1.56-5.13, 1X2 3%/5%/92%. Sin cuotas de casa.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "believer",
+   "odds": 1.08,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.922,
+   "edge": 0.0,
+   "p": 0.922,
+   "key": "fc|2397346",
+   "match": "believer vs ssstasonn",
+   "start": "2026-11-25T01:15:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 80.194 partidos)",
+    "Goles esperados: believer 5.13 · ssstasonn 1.56",
+    "Ganador: believer 92% · empate 5% · ssstasonn 3%",
+    "Total: más de 6.5 goles 50% · menos 50%",
+    "Hándicap believer: −1.5 79% · −2.5 65%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: believer ❌✅➖✅✅ | ssstasonn ✅❌❌❌❌",
+    "• Partidos: believer 1346 | ssstasonn 1340",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle believer vs ssstasonn (Champions League B): goles esperados 5.13-1.56, 1X2 92%/5%/3%. Sin cuotas de casa.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "tizzy",
+   "odds": 1.12,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.892,
+   "edge": 0.0,
+   "p": 0.892,
+   "key": "fc|2397352",
+   "match": "ssstasonn vs tizzy",
+   "start": "2026-11-25T01:51:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 80.194 partidos)",
+    "Goles esperados: ssstasonn 2.06 · tizzy 5.47",
+    "Ganador: ssstasonn 4% · empate 6% · tizzy 89%",
+    "Total: más de 7.5 goles 48% · menos 52%",
+    "Hándicap tizzy: −1.5 75% · −2.5 62%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ✅❌❌❌❌ | tizzy ❌➖✅❌❌",
+    "• Partidos: ssstasonn 1340 | tizzy 496",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs tizzy (Champions League B): goles esperados 2.06-5.47, 1X2 4%/6%/89%. Sin cuotas de casa.",
+   "captured": "2026-11-25T00:26",
+   "version": "de7eb2c",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -35234,1337 +36802,6 @@
    ],
    "priced": false
   },
-  "I2|2026-11-24|Juve Stabia|Catanzaro": {
-   "match": "Juve Stabia vs Catanzaro",
-   "start": "2026-11-24T18:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.27,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.721,
-       "text": "Menos de 2.5 tarjetas de Juve Stabia",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6386,
-       "text": "Menos de 4.5 córners de Catanzaro",
-       "odds": 1.48
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6337,
-       "text": "Menos de 5.5 tiros a puerta de Juve Stabia",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1091,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.721,
-       "text": "Menos de 2.5 tarjetas de Juve Stabia",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6386,
-       "text": "Menos de 4.5 córners de Catanzaro",
-       "odds": 1.48
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6337,
-       "text": "Menos de 5.5 tiros a puerta de Juve Stabia",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.628,
-       "text": "Más de 13.5 faltas de Juve Stabia",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5749,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.08
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3635,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6386010620178978,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Catanzaro",
-       "odds": 1.48
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5749237807156764,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.08
-      }
-     ],
-     "odds": 3.08,
-     "edge": 0.119,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7209721370352202,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Juve Stabia"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6386010620178978,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Catanzaro"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.633686035808908,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Juve Stabia"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.6279524682181175,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Juve Stabia"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5749237807156764,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
-  },
-  "I2|2026-11-24|Benevento|Empoli": {
-   "match": "Benevento vs Empoli",
-   "start": "2026-11-24T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3187,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6881,
-       "text": "Menos de 2.5 tarjetas de Benevento",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6687,
-       "text": "Menos de 4.5 córners de Empoli",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6363,
-       "text": "Menos de 3.5 tiros a puerta de Empoli",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1886,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6881,
-       "text": "Menos de 2.5 tarjetas de Benevento",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6687,
-       "text": "Menos de 4.5 córners de Empoli",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6363,
-       "text": "Menos de 3.5 tiros a puerta de Empoli",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 27.5,
-       "p": 0.5658,
-       "text": "Menos de 27.5 faltas",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6881201448746124,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Benevento"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6686613424044212,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Empoli"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6363015488210508,
-     "line": 3.5,
-     "text": "Menos de 3.5 tiros a puerta de Empoli"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.5658278072337832,
-     "line": 27.5,
-     "text": "Menos de 27.5 faltas"
-    }
-   ]
-  },
-  "I2|2026-11-24|Cesena|Ascoli": {
-   "match": "Cesena vs Ascoli",
-   "start": "2026-11-24T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3908,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.8075,
-       "text": "Menos de 13.5 faltas de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7025,
-       "text": "Menos de 5.5 tiros a puerta de Cesena",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6389,
-       "text": "Menos de 2.5 tarjetas de Ascoli",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2537,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.8075,
-       "text": "Menos de 13.5 faltas de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7025,
-       "text": "Menos de 5.5 tiros a puerta de Cesena",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6389,
-       "text": "Menos de 2.5 tarjetas de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5883,
-       "text": "Menos de 5.5 córners de Cesena",
-       "odds": 1.45
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.8075333825353341,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Ascoli"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7024536104208908,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Cesena"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6389443075432685,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Ascoli"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.5883363615199336,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Cesena"
-    }
-   ]
-  },
-  "I2|2026-11-24|Palermo|Sudtirol": {
-   "match": "Palermo vs Sudtirol",
-   "start": "2026-11-24T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3421,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.738,
-       "text": "Menos de 2.5 tarjetas de Palermo",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6994,
-       "text": "Menos de 4.5 córners de Sudtirol",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6235,
-       "text": "Menos de 13.5 faltas de Palermo",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2143,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.738,
-       "text": "Menos de 2.5 tarjetas de Palermo",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6994,
-       "text": "Menos de 4.5 córners de Sudtirol",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6235,
-       "text": "Menos de 13.5 faltas de Palermo",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.5922,
-       "text": "Menos de 3.5 tiros a puerta de Sudtirol",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7380480162726184,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Palermo"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6994139270311318,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Sudtirol"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6235139762548239,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Palermo"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.5921801381319735,
-     "line": 3.5,
-     "text": "Menos de 3.5 tiros a puerta de Sudtirol"
-    }
-   ]
-  },
-  "I2|2026-11-24|Vicenza|Carrarese": {
-   "match": "Vicenza vs Carrarese",
-   "start": "2026-11-24T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3838,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7545,
-       "text": "Menos de 5.5 tiros a puerta de Vicenza",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.7305,
-       "text": "Menos de 13.5 faltas de Carrarese",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6344,
-       "text": "Menos de 2.5 tarjetas de Carrarese",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2531,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7545,
-       "text": "Menos de 5.5 tiros a puerta de Vicenza",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.7305,
-       "text": "Menos de 13.5 faltas de Carrarese",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6344,
-       "text": "Menos de 2.5 tarjetas de Carrarese",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6071,
-       "text": "Menos de 5.5 córners de Vicenza",
-       "odds": 1.54
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7544725595168693,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Vicenza"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7305475874516338,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Carrarese"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6343754751877828,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Carrarese"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.607140048050119,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Vicenza"
-    }
-   ]
-  },
-  "I2|2026-11-24|Virtus Entella|Verona": {
-   "match": "Virtus Entella vs Verona",
-   "start": "2026-11-24T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3369,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7527,
-       "text": "Menos de 5.5 tiros a puerta de Virtus Entella",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6905,
-       "text": "Menos de 5.5 córners de Virtus Entella",
-       "odds": 1.52
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6376,
-       "text": "Menos de 13.5 faltas de Virtus Entella",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1331,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7527,
-       "text": "Menos de 5.5 tiros a puerta de Virtus Entella",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6905,
-       "text": "Menos de 5.5 córners de Virtus Entella",
-       "odds": 1.52
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6376,
-       "text": "Menos de 13.5 faltas de Virtus Entella",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5949,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.66
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5729,
-       "text": "Menos de 2.5 tarjetas de Verona",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4099,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_h",
-       "sign": -1,
-       "p": 0.6904972392938618,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Virtus Entella",
-       "odds": 1.52
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5948960351544583,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.66
-      }
-     ],
-     "odds": 2.52,
-     "edge": 0.034,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7526797660525952,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Virtus Entella"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6904972392938618,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Virtus Entella"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6376249385219204,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Virtus Entella"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5948960351544583,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.5729480514714966,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Verona"
-    }
-   ]
-  },
-  "E1|2026-11-24|Bristol City|Wrexham": {
-   "match": "Bristol City vs Wrexham",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3848,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7429,
-       "text": "Menos de 11.5 faltas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7383,
-       "text": "Menos de 2.5 tarjetas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 8.5,
-       "p": 0.678,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": 1.45
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1489,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7429,
-       "text": "Menos de 11.5 faltas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7383,
-       "text": "Menos de 2.5 tarjetas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 8.5,
-       "p": 0.678,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": 1.45
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.597,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.66
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5522,
-       "text": "Menos de 4.5 córners de Wrexham",
-       "odds": 1.79
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4739,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_t",
-       "sign": -1,
-       "p": 0.6779553623751522,
-       "line": 8.5,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": 1.45
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.596990215690398,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.66
-      }
-     ],
-     "odds": 2.41,
-     "edge": 0.141,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7428757028825024,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Bristol City"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7382990957387658,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Bristol City"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6779553623751522,
-     "line": 8.5,
-     "text": "Menos de 8.5 tiros a puerta"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.596990215690398,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.5521934726264129,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Wrexham"
-    }
-   ],
-   "anunciada": true
-  },
-  "E1|2026-11-24|Cardiff|Preston": {
-   "match": "Cardiff vs Preston",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.5156,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8372,
-       "text": "Menos de 2.5 tarjetas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.8117,
-       "text": "Menos de 11.5 faltas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.7242,
-       "text": "Más de 4.5 tiros a puerta de Cardiff",
-       "odds": 1.25
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3816,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8372,
-       "text": "Menos de 2.5 tarjetas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.8117,
-       "text": "Menos de 11.5 faltas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.7242,
-       "text": "Más de 4.5 tiros a puerta de Cardiff",
-       "odds": 1.25
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7187,
-       "text": "Menos de 4.5 córners de Preston",
-       "odds": 1.42
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5381,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_h",
-       "sign": 1,
-       "p": 0.7241917956386177,
-       "line": 4.5,
-       "text": "Más de 4.5 tiros a puerta de Cardiff",
-       "odds": 1.25
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.7186607764465133,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Preston",
-       "odds": 1.42
-      }
-     ],
-     "odds": 1.77,
-     "edge": -0.045,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.837205917129527,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Cardiff"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.8116510375923831,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Cardiff"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": 1,
-     "p": 0.7241917956386177,
-     "line": 4.5,
-     "text": "Más de 4.5 tiros a puerta de Cardiff"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7186607764465133,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Preston"
-    }
-   ]
-  },
-  "E1|2026-11-24|Charlton|Lincoln": {
-   "match": "Charlton vs Lincoln",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3616,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7047,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.72
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 8.5,
-       "p": 0.6953,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": 1.63
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6535,
-       "text": "Menos de 2.5 tarjetas de Lincoln",
-       "odds": 1.49
-      }
-     ],
-     "odds": 4.18,
-     "edge": 0.511,
-     "sim": true
-    },
-    {
-     "kind": "larga",
-     "p": 0.1137,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7047,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.72
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 8.5,
-       "p": 0.6953,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": 1.63
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6535,
-       "text": "Menos de 2.5 tarjetas de Lincoln",
-       "odds": 1.49
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 22.5,
-       "p": 0.5961,
-       "text": "Más de 22.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5578,
-       "text": "Menos de 4.5 córners de Lincoln",
-       "odds": 1.85
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3095,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.7047159091232753,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.72
-      },
-      {
-       "stat": "sot",
-       "var": "sot_t",
-       "sign": -1,
-       "p": 0.6953159042207718,
-       "line": 8.5,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": 1.63
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.5578097777179978,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Lincoln",
-       "odds": 1.85
-      }
-     ],
-     "odds": 5.19,
-     "edge": 0.605,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.7047159091232753,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6953159042207718,
-     "line": 8.5,
-     "text": "Menos de 8.5 tiros a puerta"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6534587434367075,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Lincoln"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.5960641291302347,
-     "line": 22.5,
-     "text": "Más de 22.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.5578097777179978,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Lincoln"
-    }
-   ],
-   "anunciada": true
-  },
-  "E1|2026-11-24|Middlesbrough|Swansea": {
-   "match": "Middlesbrough vs Swansea",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4545,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8355,
-       "text": "Menos de 2.5 tarjetas de Middlesbrough",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.7359,
-       "text": "Más de 4.5 tiros a puerta de Middlesbrough",
-       "odds": 1.27
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7048,
-       "text": "Menos de 4.5 córners de Swansea",
-       "odds": 1.36
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3071,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8355,
-       "text": "Menos de 2.5 tarjetas de Middlesbrough",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.7359,
-       "text": "Más de 4.5 tiros a puerta de Middlesbrough",
-       "odds": 1.27
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7048,
-       "text": "Menos de 4.5 córners de Swansea",
-       "odds": 1.36
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.646,
-       "text": "Menos de 11.5 faltas de Middlesbrough",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5363,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_h",
-       "sign": 1,
-       "p": 0.735893750370599,
-       "line": 4.5,
-       "text": "Más de 4.5 tiros a puerta de Middlesbrough",
-       "odds": 1.27
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.704750207561358,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Swansea",
-       "odds": 1.36
-      }
-     ],
-     "odds": 1.73,
-     "edge": -0.074,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.8354721593500242,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Middlesbrough"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": 1,
-     "p": 0.735893750370599,
-     "line": 4.5,
-     "text": "Más de 4.5 tiros a puerta de Middlesbrough"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.704750207561358,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Swansea"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6459542492099298,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Middlesbrough"
-    }
-   ]
-  },
   "E1|2026-11-24|Norwich|QPR": {
    "match": "Norwich vs QPR",
    "start": "2026-11-24T19:45:00+00:00",
@@ -36671,423 +36908,6 @@
      "p": 0.5688879044649335,
      "line": 3.5,
      "text": "Menos de 3.5 tiros a puerta de QPR"
-    }
-   ]
-  },
-  "E1|2026-11-24|Portsmouth|West Ham": {
-   "match": "Portsmouth vs West Ham",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3715,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.779,
-       "text": "Menos de 2.5 tarjetas de Portsmouth",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.7176,
-       "text": "Más de 3.5 tiros a puerta de West Ham",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.6305,
-       "text": "Más de 4.5 córners de West Ham",
-       "odds": 1.48
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2511,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.779,
-       "text": "Menos de 2.5 tarjetas de Portsmouth",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.7176,
-       "text": "Más de 3.5 tiros a puerta de West Ham",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.6305,
-       "text": "Más de 4.5 córners de West Ham",
-       "odds": 1.48
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6236,
-       "text": "Más de 2.5 goles",
-       "odds": 1.76
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3897,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": 1,
-       "p": 0.6304834707424503,
-       "line": 4.5,
-       "text": "Más de 4.5 córners de West Ham",
-       "odds": 1.48
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6236499996801311,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.76
-      }
-     ],
-     "odds": 2.6,
-     "edge": 0.015,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7790008154515378,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Portsmouth"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": 1,
-     "p": 0.7175667100173428,
-     "line": 3.5,
-     "text": "Más de 3.5 tiros a puerta de West Ham"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": 1,
-     "p": 0.6304834707424503,
-     "line": 4.5,
-     "text": "Más de 4.5 córners de West Ham"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6236499996801311,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "E1|2026-11-24|Sheffield United|Southampton": {
-   "match": "Sheffield United vs Southampton",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4222,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.6551,
-       "text": "Más de 3.5 tiros a puerta de Southampton",
-       "odds": 1.44
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6522,
-       "text": "Menos de 2.5 tarjetas de Sheffield United",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1005,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.6551,
-       "text": "Más de 3.5 tiros a puerta de Southampton",
-       "odds": 1.44
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6522,
-       "text": "Menos de 2.5 tarjetas de Sheffield United",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5986,
-       "text": "Más de 2.5 goles",
-       "odds": 1.66
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5682,
-       "text": "Menos de 5.5 córners de Sheffield United",
-       "odds": 1.62
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.5507,
-       "text": "Menos de 11.5 faltas de Southampton",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4447,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_a",
-       "sign": 1,
-       "p": 0.6551264602408026,
-       "line": 3.5,
-       "text": "Más de 3.5 tiros a puerta de Southampton",
-       "odds": 1.44
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.5985630855208095,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.66
-      }
-     ],
-     "odds": 2.39,
-     "edge": 0.063,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": 1,
-     "p": 0.6551264602408026,
-     "line": 3.5,
-     "text": "Más de 3.5 tiros a puerta de Southampton"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6522075525990239,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Sheffield United"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5985630855208095,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.5681572358031998,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Sheffield United"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.5507070458659498,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Southampton"
-    }
-   ],
-   "anunciada": true
-  },
-  "SC0|2026-11-24|Hibernian|Dundee": {
-   "match": "Hibernian vs Dundee",
-   "start": "2026-11-24T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3765,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.718,
-       "text": "Menos de 4.5 tiros a puerta de Dundee",
-       "odds": 1.3
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7124,
-       "text": "Menos de 2.5 tarjetas de Hibernian",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6894,
-       "text": "Menos de 5.5 córners de Dundee",
-       "odds": 1.32
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2353,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.718,
-       "text": "Menos de 4.5 tiros a puerta de Dundee",
-       "odds": 1.3
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7124,
-       "text": "Menos de 2.5 tarjetas de Hibernian",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6894,
-       "text": "Menos de 5.5 córners de Dundee",
-       "odds": 1.32
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.6277,
-       "text": "Menos de 12.5 faltas de Dundee",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5225,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_a",
-       "sign": -1,
-       "p": 0.7180084123066914,
-       "line": 4.5,
-       "text": "Menos de 4.5 tiros a puerta de Dundee",
-       "odds": 1.3
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6894190445248752,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Dundee",
-       "odds": 1.32
-      }
-     ],
-     "odds": 1.72,
-     "edge": -0.103,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7180084123066914,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Dundee"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.712383259144409,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Hibernian"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6894190445248752,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Dundee"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6276690540191947,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Dundee"
     }
    ]
   },
@@ -37238,131 +37058,6 @@
      "var": "goals_t",
      "sign": 1,
      "p": 0.5680192029150243,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "SC0|2026-11-24|Rangers|Aberdeen": {
-   "match": "Rangers vs Aberdeen",
-   "start": "2026-11-24T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.6604,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8717,
-       "text": "Menos de 4.5 tiros a puerta de Aberdeen",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8669,
-       "text": "Menos de 2.5 tarjetas de Rangers",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8574,
-       "text": "Menos de 5.5 córners de Aberdeen",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2665,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8717,
-       "text": "Menos de 4.5 tiros a puerta de Aberdeen",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8669,
-       "text": "Menos de 2.5 tarjetas de Rangers",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8574,
-       "text": "Menos de 5.5 córners de Aberdeen",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.704,
-       "text": "Menos de 12.5 faltas de Rangers",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5877,
-       "text": "Más de 2.5 goles",
-       "odds": 1.4
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8716885564269338,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Aberdeen"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.8669050321467657,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Rangers"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.8574457456761182,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Aberdeen"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7040324943089171,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Rangers"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5876839252200531,
      "line": 2.5,
      "text": "Más de 2.5 goles"
     }
@@ -38446,81 +38141,48 @@
     }
    ],
    "anunciada": true
+  },
+  "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos": {
+   "match": "Pittsburgh Steelers vs Denver Broncos",
+   "start": "2026-11-27T20:00Z",
+   "combos": [
+    {
+     "kind": "nfl",
+     "p": 0.208,
+     "odds": 4.57,
+     "edge": -0.049,
+     "legs": [
+      {
+       "var": "win_home",
+       "sign": 1,
+       "line": 0.0,
+       "p": 0.414,
+       "odds": 2.32,
+       "text": "Gana Pittsburgh Steelers"
+      },
+      {
+       "var": "total_t",
+       "sign": 1,
+       "line": 38.5,
+       "p": 0.485,
+       "odds": 1.971,
+       "text": "Más de 38.5 puntos"
+      }
+     ],
+     "sim": false
+    }
+   ],
+   "priced": true,
+   "lines": [
+    "🧩 Combinada: Gana Pittsburgh Steelers + Más de 38.5 puntos → prob. 21%, cuota justa 4.81",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.57 (producto de piernas) · prob. 21% · ventaja -5%"
+   ]
   }
  },
  "combo_sent": "2026-11-24T21:54:11.543605+00:00",
  "fc_sim_sent": "2026-11-24T23:25:19.766039+00:00",
  "fc_sim_n": 3350,
  "kambi_ok": [
-  "D2|2026-11-21|Hannover|Greuther Furth",
-  "D2|2026-11-21|Nurnberg|Braunschweig",
-  "D2|2026-11-21|Wolfsburg|Holstein Kiel",
-  "E1|2026-11-21|Norwich|Cardiff",
-  "E1|2026-11-21|Southampton|Derby",
-  "F2|2026-11-21|Laval|Montpellier",
-  "SP1|2026-11-21|Alaves|La Coruna",
-  "SP2|2026-11-21|Sabadell|Granada",
-  "T1|2026-11-21|Galatasaray|Samsunspor",
-  "I1|2026-11-21|Como|Cagliari",
-  "I1|2026-11-21|Lazio|Lecce",
-  "I2|2026-11-21|Ascoli|Vicenza",
-  "I2|2026-11-21|Carrarese|Virtus Entella",
-  "I2|2026-11-21|Modena|Juve Stabia",
-  "I2|2026-11-21|Sampdoria|Benevento",
-  "I2|2026-11-21|Sudtirol|Cremonese",
-  "D1|2026-11-21|Ein Frankfurt|Hoffenheim",
-  "D1|2026-11-21|Elversberg|Freiburg",
-  "D1|2026-11-21|Leverkusen|Paderborn",
-  "D1|2026-11-21|Union Berlin|RB Leipzig",
-  "B1|2026-11-21|Charleroi|St Truiden",
-  "E0|2026-11-21|Aston Villa|Sunderland",
-  "E0|2026-11-21|Bournemouth|Nott'm Forest",
-  "E0|2026-11-21|Chelsea|Leeds",
-  "E0|2026-11-21|Coventry|Crystal Palace",
-  "E0|2026-11-21|Tottenham|Ipswich",
-  "E1|2026-11-21|Bolton|Portsmouth",
-  "E1|2026-11-21|Lincoln|Wrexham",
-  "E1|2026-11-21|Middlesbrough|Bristol City",
-  "E1|2026-11-21|Sheffield United|Watford",
-  "E1|2026-11-21|Stoke|Birmingham",
-  "E1|2026-11-21|Swansea|West Brom",
-  "E1|2026-11-21|West Ham|Preston",
-  "E1|2026-11-21|Wolves|Charlton",
-  "SC0|2026-11-21|Celtic|St Mirren",
-  "SC0|2026-11-21|Falkirk|St Johnstone",
-  "SC0|2026-11-21|Hibernian|Dundee United",
-  "SC0|2026-11-21|Kilmarnock|Aberdeen",
-  "SP1|2026-11-21|Vallecano|Valencia",
-  "SP2|2026-11-21|Sociedad B|Cadiz",
-  "N1|2026-11-21|Nijmegen|PSV Eindhoven",
-  "T1|2026-11-21|Kocaelispor|Fenerbahce",
-  "F1|2026-11-21|Nice|Paris SG",
-  "I2|2026-11-21|Catanzaro|Palermo",
-  "I1|2026-11-21|Parma|Roma",
-  "B1|2026-11-21|Genk|RAAL La Louviere",
-  "D1|2026-11-21|Schalke 04|Stuttgart",
-  "E0|2026-11-21|Newcastle|Arsenal",
-  "G1|2026-11-21|Kalamata|AEK",
-  "SP1|2026-11-21|Sevilla|Betis",
-  "SP2|2026-11-21|Castellon|Eldense",
-  "N1|2026-11-21|Feyenoord|Excelsior",
-  "N1|2026-11-21|Utrecht|Cambuur",
-  "SC0|2026-11-21|Dundee|Hearts",
-  "I2|2026-11-21|Empoli|Pisa",
-  "F2|2026-11-21|Reims|St Etienne",
-  "D2|2026-11-21|St Pauli|Bochum",
-  "B1|2026-11-21|Mechelen|Club Brugge",
-  "B1|2026-11-21|Waregem|Antwerp",
-  "F1|2026-11-21|Lens|Toulouse",
-  "F1|2026-11-21|Lille|Lyon",
-  "F1|2026-11-21|Monaco|Auxerre",
-  "F1|2026-11-21|Strasbourg|Brest",
-  "I1|2026-11-21|Napoli|Torino",
-  "N1|2026-11-21|Groningen|Heerenveen",
-  "N1|2026-11-21|Telstar|Zwolle",
-  "SC0|2026-11-21|Motherwell|Rangers",
-  "SP1|2026-11-21|Real Madrid|Celta",
-  "SP2|2026-11-21|Tenerife|Mallorca",
   "T1|2026-11-22|Erzurumspor|Goztep",
   "N1|2026-11-22|Twente|Willem II",
   "I1|2026-11-22|Juventus|Venezia",
@@ -38590,7 +38252,7 @@
   "E1|2026-11-25|Stoke|Millwall"
  ],
  "paper_sent": "2026-11-24T20:23:56.054854+00:00",
- "sgp_res_n": 830,
+ "sgp_res_n": 867,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
@@ -38752,5 +38414,5 @@
   "nba|2026-11-26|Houston Rockets|Phoenix Suns"
  ],
  "radar_date": "2026-11-24",
- "sgp_res_sent": "2026-11-24T00:09:50.194201+00:00"
+ "sgp_res_sent": "2026-11-25T00:26:12.040476+00:00"
 }
