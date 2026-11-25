@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 08:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 08:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 9z vs DENDELE — 25/11 · 09:00
 
