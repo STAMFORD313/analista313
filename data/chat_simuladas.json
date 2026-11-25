@@ -3562,7 +3562,9 @@
     "away": "AD San Carlos",
     "txt": "Gana AD San Carlos",
     "odds": 1.82,
-    "p": 0.5674
+    "p": 0.5674,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
