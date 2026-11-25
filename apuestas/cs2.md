@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 21:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 22:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Elusive vs Villainous — 26/11 · 03:00
 
@@ -61,4 +61,24 @@ Casas: Young TigeRES 60% · ABT 40%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Young TigeRES gana 2-1: 24% → cuota justa 4.17  
 • ABT gana 2-1: 19% → cuota justa 5.19  
+
+## MOUZ NXT vs MASONIC — 27/11 · 10:00
+
+👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 16 Play-In · **Gana MASONIC** @ **2.35** (Thunderpick) · prob 43% vs casas 39% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.298 partidos)  
+Mapa: MOUZ NXT 53% · Serie BO3: MOUZ NXT 54% - 46% MASONIC  
+Casas: MOUZ NXT 61% · MASONIC 39%  
+🔎 **Claves**  
+• Elo: MOUZ NXT 1577 (611 series) | MASONIC 1547 (488 series)  
+• Forma: MOUZ NXT ❌❌✅✅❌ | MASONIC ❌❌❌❌✅  
+• H2H: 4: 2-2  
+• Torneo: CCT Europe 2026 Series 16 Play-In (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• MOUZ NXT gana 2-1: 23% → cuota justa 4.32 · casa 26%  
+• MASONIC gana 2-1: 21% → cuota justa 4.82 · casa 20%  
 

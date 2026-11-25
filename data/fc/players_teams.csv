@@ -81265,3 +81265,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2399198,263122,Liverpool,Tottenham,,
 2399199,263122,Chelsea,Liverpool,,
 2399200,263122,Arsenal,Man City,,
+2398563,263100,Liverpool,Atleti,0,1
+2398564,263100,Paris,Bayern Munchen,2,0
+2398565,263100,Bayern Munchen,Liverpool,2,0
+2398566,263100,Atleti,Real Madrid,1,2
+2398567,263100,Real Madrid,Bayern Munchen,0,2
+2398568,263100,Liverpool,Paris,2,2
+2398569,263100,Paris,Real Madrid,1,3
+2398570,263100,Bayern Munchen,Atleti,0,0
+2398571,263100,Atleti,Paris,2,0
+2398572,263100,Real Madrid,Liverpool,1,1
+2398573,263100,Atleti,Liverpool,,
+2398574,263100,Bayern Munchen,Paris,,
+2398575,263100,Liverpool,Bayern Munchen,,
+2398576,263100,Real Madrid,Atleti,,
+2398577,263100,Bayern Munchen,Real Madrid,,
+2398578,263100,Paris,Liverpool,,
+2398579,263100,Real Madrid,Paris,,
+2398580,263100,Atleti,Bayern Munchen,,
+2398581,263100,Paris,Atleti,,
+2398582,263100,Liverpool,Real Madrid,,
+2398761,263133,B Dortmund,Man City,3,3
+2398762,263133,Sporting CP,Juventus,2,4
+2398763,263133,Juventus,B Dortmund,2,2
+2398764,263133,Man City,Arsenal,1,1
+2398765,263133,Arsenal,Juventus,0,5
+2398766,263133,B Dortmund,Sporting CP,1,1
+2398767,263133,Sporting CP,Arsenal,,
+2398768,263133,Juventus,Man City,,
+2398769,263133,Man City,Sporting CP,,
+2398770,263133,Arsenal,B Dortmund,,
+2398245,263139,Ecuador,Argentina,0,0
+2398246,263139,Colombia,Brazil,2,3
+2398247,263139,Brazil,Ecuador,2,2
+2398248,263139,Argentina,Uruguay,1,0
+2398249,263139,Uruguay,Brazil,1,1
+2398250,263139,Ecuador,Colombia,2,2
+2398251,263139,Colombia,Uruguay,0,1
+2398252,263139,Brazil,Argentina,1,1
+2398253,263139,Argentina,Colombia,2,1
+2398254,263139,Uruguay,Ecuador,2,1
