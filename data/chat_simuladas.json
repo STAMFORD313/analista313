@@ -3573,15 +3573,17 @@
     "away": "Kloetinge",
     "txt": "Gana BVV Barendrecht",
     "odds": 1.98,
-    "p": 0.5292
+    "p": 0.5292,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 5.17,
   "p": 0.21389896946879997,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261120222421116519",
@@ -3742,7 +3744,9 @@
     "away": "Al Naft",
     "txt": "Empate",
     "odds": 2.8,
-    "p": 0.4376
+    "p": 0.4376,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -3751,15 +3755,17 @@
     "away": "Luton Town",
     "txt": "Gana Luton Town",
     "odds": 1.7,
-    "p": 0.6249
+    "p": 0.6249,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 11.04,
   "p": 0.12688369536000002,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261121173018295611",
@@ -4159,7 +4165,9 @@
     "away": "angry birds",
     "txt": "Gana Team Spirit Academy",
     "odds": 2.26,
-    "p": 0.47078525073746313
+    "p": 0.47078525073746313,
+    "ok": true,
+    "por": "ganó Team Spirit Academy 2-1"
    },
    {
     "code": "ucl",
@@ -4168,7 +4176,9 @@
     "away": "Barcelona",
     "txt": "Más de 3.5 tarjetas",
     "odds": 2.3,
-    "p": 0.4544082872242471
+    "p": 0.4544082872242471,
+    "ok": false,
+    "por": "hubo 1 tarjetas"
    },
    {
     "src": "espn:nfl",
@@ -4185,9 +4195,9 @@
   "odds": 11.44,
   "p": 0.10077112329129266,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261125081903072436",
