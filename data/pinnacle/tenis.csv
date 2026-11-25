@@ -6793,9 +6793,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640991933,2026-11-25 13:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,moneyline,,1.4566,2.77,,,,2026-11-25 12:44:36.910526+00:00
 1640991933,2026-11-25 13:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,spread,-1.5,2.07,1.7752,,,,2026-11-25 12:44:36.910526+00:00
 1640991933,2026-11-25 13:00:00+00:00,ITF Men Madrid - R1,Diogo Morais,Jorge Plans,total,2.5,,,,2.8,1.4484,2026-11-25 12:44:36.910526+00:00
-1641036321,2026-11-25 13:42:00+00:00,ITF Men Madrid - R1,Adan Freire Da Silva,Kenny De Schepper,moneyline,,2.62,1.5025,,,,2026-11-25 12:44:36.910526+00:00
-1641036321,2026-11-25 13:42:00+00:00,ITF Men Madrid - R1,Adan Freire Da Silva,Kenny De Schepper,spread,1.5,1.6369,2.29,,,,2026-11-25 12:44:36.910526+00:00
-1641036321,2026-11-25 13:42:00+00:00,ITF Men Madrid - R1,Adan Freire Da Silva,Kenny De Schepper,total,2.5,,,,2.48,1.5525,2026-11-25 12:44:36.910526+00:00
 1641066155,2026-11-25 21:30:00+00:00,ITF Men Santa Cruz - R1,Joao Vitor Scramin Do Lago,Lorenzo Gagliardo,moneyline,,16.28,1.0205,,,,2026-11-25 12:44:36.910526+00:00
 1641059654,2026-11-26 00:30:00+00:00,ATP Challenger San Salvador - R16,Lucas Andrade Da Silva,Diego Duran,moneyline,,1.0556,9.68,,,,2026-11-25 12:44:36.910526+00:00
 1641059654,2026-11-26 00:30:00+00:00,ATP Challenger San Salvador - R16,Lucas Andrade Da Silva,Diego Duran,spread,-1.5,1.2506,4.03,,,,2026-11-25 12:44:36.910526+00:00
@@ -6818,9 +6815,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1641057277,2026-11-25 20:00:00+00:00,WTA 125k Buenos Aires - R16,Alicia Herrero Linana,Ariana Geerlings,moneyline,,2.23,1.6711,,,,2026-11-25 12:44:36.910526+00:00
 1641057277,2026-11-25 20:00:00+00:00,WTA 125k Buenos Aires - R16,Alicia Herrero Linana,Ariana Geerlings,spread,1.5,1.5405,2.51,,,,2026-11-25 12:44:36.910526+00:00
 1641057277,2026-11-25 20:00:00+00:00,WTA 125k Buenos Aires - R16,Alicia Herrero Linana,Ariana Geerlings,total,2.5,,,,2.53,1.5319,2026-11-25 12:44:36.910526+00:00
-1641055023,2026-11-25 18:00:00+00:00,WTA 125k Buenos Aires - R16,Martina Trevisan,Veronika Erjavec,moneyline,,1.6849,2.2,,,,2026-11-25 12:44:36.910526+00:00
-1641055023,2026-11-25 18:00:00+00:00,WTA 125k Buenos Aires - R16,Martina Trevisan,Veronika Erjavec,spread,-1.5,2.64,1.495,,,,2026-11-25 12:44:36.910526+00:00
-1641055023,2026-11-25 18:00:00+00:00,WTA 125k Buenos Aires - R16,Martina Trevisan,Veronika Erjavec,total,2.5,,,,2.43,1.5747,2026-11-25 12:44:36.910526+00:00
 1641007704,2026-11-25 20:00:00+00:00,WTA 125k Buenos Aires - R16,Ipek Oz,Julia Riera,moneyline,,3.26,1.3497,,,,2026-11-25 12:44:36.910526+00:00
 1641007704,2026-11-25 20:00:00+00:00,WTA 125k Buenos Aires - R16,Ipek Oz,Julia Riera,spread,1.5,1.885,1.9346,,,,2026-11-25 12:44:36.910526+00:00
 1641007704,2026-11-25 20:00:00+00:00,WTA 125k Buenos Aires - R16,Ipek Oz,Julia Riera,total,2.5,,,,2.72,1.4717,2026-11-25 12:44:36.910526+00:00
@@ -6839,12 +6833,18 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640973565,2026-11-25 16:00:00+00:00,ATP Challenger Florianopolis - R1,Johan Nikles,Pedro Boscardin Dias,moneyline,,2.99,1.4098,,,,2026-11-25 12:44:36.910526+00:00
 1640973565,2026-11-25 16:00:00+00:00,ATP Challenger Florianopolis - R1,Johan Nikles,Pedro Boscardin Dias,spread,1.5,1.7937,2.06,,,,2026-11-25 12:44:36.910526+00:00
 1640973565,2026-11-25 16:00:00+00:00,ATP Challenger Florianopolis - R1,Johan Nikles,Pedro Boscardin Dias,total,2.5,,,,2.64,1.5051,2026-11-25 12:44:36.910526+00:00
-1640935663,2026-11-25 15:00:00+00:00,Davis Cup - Tie Winner,Italy,South Korea,moneyline,,1.0841,7.99,,,,2026-11-25 13:15:15.187261+00:00
 1641066483,2026-11-25 21:30:00+00:00,ITF Men Santa Cruz - R1,Robin Eldin,Julian Cundom,moneyline,,4.73,1.1712,,,,2026-11-25 13:15:15.187261+00:00
 1641066483,2026-11-25 21:30:00+00:00,ITF Men Santa Cruz - R1,Robin Eldin,Julian Cundom,spread,1.5,2.54,1.4878,,,,2026-11-25 13:15:15.187261+00:00
 1641066483,2026-11-25 21:30:00+00:00,ITF Men Santa Cruz - R1,Robin Eldin,Julian Cundom,total,2.5,,,,3.46,1.2874,2026-11-25 13:15:15.187261+00:00
 1641066457,2026-11-25 16:00:00+00:00,ATP Challenger San Salvador - R16,Joaquin Guilleme,Luciano Emanuel Ambrogi,moneyline,,1.8547,1.9709,,,,2026-11-25 13:15:15.187261+00:00
 1641066457,2026-11-25 16:00:00+00:00,ATP Challenger San Salvador - R16,Joaquin Guilleme,Luciano Emanuel Ambrogi,spread,-1.5,2.78,1.4525,,,,2026-11-25 13:15:15.187261+00:00
 1641066457,2026-11-25 16:00:00+00:00,ATP Challenger San Salvador - R16,Joaquin Guilleme,Luciano Emanuel Ambrogi,total,2.5,,,,2.6,1.5076,2026-11-25 13:15:15.187261+00:00
-1640935664,2026-11-26 16:00:00+00:00,Davis Cup - Tie Winner,Spain,Austria,moneyline,,1.0509,9.94,,,,2026-11-25 13:15:15.187261+00:00
-1640938414,2026-11-26 09:00:00+00:00,Davis Cup - Tie Winner,Great Britain,Germany,moneyline,,2.81,1.4348,,,,2026-11-25 13:15:15.187261+00:00
+1640935663,2026-11-25 15:00:00+00:00,Davis Cup - Tie Winner,Italy,South Korea,moneyline,,1.0841,7.99,,,,2026-11-25 13:45:44.602340+00:00
+1641036321,2026-11-25 13:51:00+00:00,ITF Men Madrid - R1,Adan Freire Da Silva,Kenny De Schepper,moneyline,,2.62,1.5025,,,,2026-11-25 13:45:44.602340+00:00
+1641036321,2026-11-25 13:51:00+00:00,ITF Men Madrid - R1,Adan Freire Da Silva,Kenny De Schepper,spread,1.5,1.6369,2.29,,,,2026-11-25 13:45:44.602340+00:00
+1641036321,2026-11-25 13:51:00+00:00,ITF Men Madrid - R1,Adan Freire Da Silva,Kenny De Schepper,total,2.5,,,,2.48,1.5525,2026-11-25 13:45:44.602340+00:00
+1641055023,2026-11-25 18:00:00+00:00,WTA 125k Buenos Aires - R16,Martina Trevisan,Veronika Erjavec,moneyline,,1.6849,2.2,,,,2026-11-25 13:45:44.602340+00:00
+1641055023,2026-11-25 18:00:00+00:00,WTA 125k Buenos Aires - R16,Martina Trevisan,Veronika Erjavec,spread,-1.5,2.64,1.495,,,,2026-11-25 13:45:44.602340+00:00
+1641055023,2026-11-25 18:00:00+00:00,WTA 125k Buenos Aires - R16,Martina Trevisan,Veronika Erjavec,total,2.5,,,,2.43,1.5747,2026-11-25 13:45:44.602340+00:00
+1640938414,2026-11-26 09:00:00+00:00,Davis Cup - Tie Winner,Great Britain,Germany,moneyline,,2.81,1.4348,,,,2026-11-25 13:45:44.602340+00:00
+1640935664,2026-11-26 16:00:00+00:00,Davis Cup - Tie Winner,Spain,Austria,moneyline,,1.0509,9.94,,,,2026-11-25 13:45:44.602340+00:00
