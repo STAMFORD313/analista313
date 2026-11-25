@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 14:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 14:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## dor1an vs cl1vlind — 25/11 · 14:25
+## RuBIX vs A1ose — 25/11 · 15:01
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana dor1an** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana RuBIX** @ **2.65** (Unibet) · prob 46% vs casas 33% · ventaja +23%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.819 partidos)  
-Goles esperados: dor1an 2.79 · cl1vlind 3.15  
-Ganador: dor1an 33% · empate 19% · cl1vlind 49%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap cl1vlind: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 80.843 partidos)  
+Goles esperados: RuBIX 3.59 · A1ose 3.37  
+Ganador: RuBIX 46% · empate 17% · A1ose 36%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap RuBIX: −1.5 31% · −2.5 19%  
 🔎 **Claves**  
-• Forma: dor1an ➖➖✅❌❌ | cl1vlind ❌✅❌➖❌  
-• Partidos: dor1an 475 | cl1vlind 923  
+• Forma: RuBIX ❌✅❌➖✅ | A1ose ❌✅➖➖✅  
+• Partidos: RuBIX 476 | A1ose 1267  
 • Liga: Champions League B  
-• Unibet: 1 3.60 · X 3.10 · 2 1.83 (sin margen 24%/28%/48%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)  
+• Unibet: 1 2.65 · X 4.00 · 2 1.91 (sin margen 33%/22%/45%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.65 (+23%) · Paf España 2.65 (+23%)  
 
-## Shinobu vs SDI — 25/11 · 14:40
+## Gazi vs SDI — 25/11 · 15:04
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **6.40** (Unibet) · prob 20% vs casas 14% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **6.75** (Unibet) · prob 20% vs casas 13% · ventaja +32%
 
-- ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.819 partidos)  
-Goles esperados: Shinobu 2.87 · SDI 2.59  
-Ganador: Shinobu 49% · empate 20% · SDI 31%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap Shinobu: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 80.843 partidos)  
+Goles esperados: Gazi 2.90 · SDI 2.74  
+Ganador: Gazi 45% · empate 20% · SDI 36%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Gazi: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Shinobu ❌✅✅❌❌ | SDI ❌➖❌❌❌  
-• Partidos: Shinobu 1752 | SDI 812  
+• Forma: Gazi ❌➖✅❌❌ | SDI ❌➖❌❌❌  
+• Partidos: Gazi 644 | SDI 812  
 • Liga: Eredivisie  
-• Unibet: 1 1.66 · X 6.40 · 2 2.65 (sin margen 53%/14%/33%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.40 (+26%) · Paf España 6.40 (+26%)  
+• Unibet: 1 2.14 · X 6.75 · 2 1.92 (sin margen 41%/13%/46%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.75 (+33%) · Paf España 6.75 (+33%)  
 
-## Totti vs Duka — 25/11 · 14:46
+## Shinobu vs Gazi — 25/11 · 15:16
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Duka** @ **2.80** (Unibet) · prob 41% vs casas 31% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **5.60** (Unibet) · prob 23% vs casas 16% · ventaja +26%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.819 partidos)  
-Goles esperados: Totti 2.35 · Duka 2.31  
-Ganador: Totti 37% · empate 22% · Duka 41%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap Totti: −1.5 24% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 80.843 partidos)  
+Goles esperados: Shinobu 2.27 · Gazi 2.17  
+Ganador: Shinobu 43% · empate 23% · Gazi 34%  
+Total: más de 4.5 goles 46% · menos 54%  
+Hándicap Shinobu: −1.5 24% · −2.5 12%  
 🔎 **Claves**  
-• Forma: Totti ❌❌❌➖✅ | Duka ✅✅❌➖❌  
-• Partidos: Totti 1227 | Duka 1324  
-• Liga: FA Cup  
-• Unibet: 1 1.83 · X 4.10 · 2 2.80 (sin margen 48%/21%/31%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+16%) · Paf España 2.80 (+16%)  
+• Forma: Shinobu ❌✅✅❌❌ | Gazi ❌➖✅❌❌  
+• Partidos: Shinobu 1752 | Gazi 644  
+• Liga: Eredivisie  
+• Unibet: 1 1.81 · X 5.60 · 2 2.45 (sin margen 48%/16%/36%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+27%) · Paf España 5.60 (+27%)  
 

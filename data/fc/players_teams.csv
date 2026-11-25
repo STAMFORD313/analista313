@@ -80835,16 +80835,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2398710,263132,Paris,Real Madrid,0.0,1.0
 2398711,263132,Real Madrid,Bayern Munchen,,
 2398712,263132,Atleti,Liverpool,,
-2397935,263109,Juventus,Sporting CP,4,1
-2397936,263109,Arsenal,Man City,1,3
-2397937,263109,Man City,Juventus,3,3
-2397938,263109,Sporting CP,B Dortmund,1,3
-2397939,263109,B Dortmund,Man City,2,3
-2397940,263109,Juventus,Arsenal,1,1
-2397941,263109,Arsenal,B Dortmund,1,2
-2397942,263109,Man City,Sporting CP,2,1
-2397943,263109,Sporting CP,Arsenal,0,0
-2397944,263109,B Dortmund,Juventus,1,1
+2397935,263109,Juventus,Sporting CP,4.0,1.0
+2397936,263109,Arsenal,Man City,1.0,3.0
+2397937,263109,Man City,Juventus,3.0,3.0
+2397938,263109,Sporting CP,B Dortmund,1.0,3.0
+2397939,263109,B Dortmund,Man City,2.0,3.0
+2397940,263109,Juventus,Arsenal,1.0,1.0
+2397941,263109,Arsenal,B Dortmund,1.0,2.0
+2397942,263109,Man City,Sporting CP,2.0,1.0
+2397943,263109,Sporting CP,Arsenal,0.0,0.0
+2397944,263109,B Dortmund,Juventus,1.0,1.0
 2397945,263109,Sporting CP,Juventus,,
 2397946,263109,Man City,Arsenal,,
 2397947,263109,Juventus,Man City,,
@@ -80855,28 +80855,28 @@ id,tournament_id,club1,club2,ht1,ht2
 2397952,263109,Sporting CP,Man City,,
 2397953,263109,Arsenal,Sporting CP,,
 2397954,263109,Juventus,B Dortmund,,
-2398175,263137,Chengdu Rongcheng,Shanghai Shenhua,5,1
-2398176,263137,Shandong Taishan,Shanghai Port,3,3
-2398177,263137,Shanghai Port,Chengdu Rongcheng,1,3
-2398178,263137,Shanghai Shenhua,Beijing Guoan,1,2
-2398179,263137,Beijing Guoan,Shanghai Port,2,2
-2398180,263137,Chengdu Rongcheng,Shandong Taishan,3,1
-2398181,263137,Shandong Taishan,Beijing Guoan,0,0
-2398182,263137,Shanghai Port,Shanghai Shenhua,0,1
+2398175,263137,Chengdu Rongcheng,Shanghai Shenhua,5.0,1.0
+2398176,263137,Shandong Taishan,Shanghai Port,3.0,3.0
+2398177,263137,Shanghai Port,Chengdu Rongcheng,1.0,3.0
+2398178,263137,Shanghai Shenhua,Beijing Guoan,1.0,2.0
+2398179,263137,Beijing Guoan,Shanghai Port,2.0,2.0
+2398180,263137,Chengdu Rongcheng,Shandong Taishan,3.0,1.0
+2398181,263137,Shandong Taishan,Beijing Guoan,0.0,0.0
+2398182,263137,Shanghai Port,Shanghai Shenhua,0.0,1.0
 2398183,263137,Shanghai Shenhua,Shandong Taishan,,
 2398184,263137,Beijing Guoan,Chengdu Rongcheng,,
-2398841,263166,Aston Villa,Nottm Forest,0,2
-2398842,263166,Newcastle,Brighton,3,2
-2398843,263166,Brighton,Aston Villa,2,2
-2398844,263166,Nottm Forest,Man Utd,2,1
-2398845,263166,Man Utd,Brighton,2,3
-2398846,263166,Aston Villa,Newcastle,1,1
-2398847,263166,Newcastle,Man Utd,2,0
-2398848,263166,Brighton,Nottm Forest,1,2
-2398849,263166,Nottm Forest,Newcastle,2,0
-2398850,263166,Man Utd,Aston Villa,4,2
-2398851,263166,Nottm Forest,Aston Villa,1,1
-2398852,263166,Brighton,Newcastle,2,0
+2398841,263166,Aston Villa,Nottm Forest,0.0,2.0
+2398842,263166,Newcastle,Brighton,3.0,2.0
+2398843,263166,Brighton,Aston Villa,2.0,2.0
+2398844,263166,Nottm Forest,Man Utd,2.0,1.0
+2398845,263166,Man Utd,Brighton,2.0,3.0
+2398846,263166,Aston Villa,Newcastle,1.0,1.0
+2398847,263166,Newcastle,Man Utd,2.0,0.0
+2398848,263166,Brighton,Nottm Forest,1.0,2.0
+2398849,263166,Nottm Forest,Newcastle,2.0,0.0
+2398850,263166,Man Utd,Aston Villa,4.0,2.0
+2398851,263166,Nottm Forest,Aston Villa,1.0,1.0
+2398852,263166,Brighton,Newcastle,2.0,0.0
 2398853,263166,Aston Villa,Brighton,,
 2398854,263166,Man Utd,Nottm Forest,,
 2398855,263166,Brighton,Man Utd,,
@@ -80885,3 +80885,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2398858,263166,Nottm Forest,Brighton,,
 2398859,263166,Newcastle,Nottm Forest,,
 2398860,263166,Aston Villa,Man Utd,,
+2398015,263127,Atleti,Barcelona,3,1
+2398016,263127,Athletic Club,Real Madrid,3,0
+2398017,263127,Real Madrid,Atleti,1,2
+2398018,263127,Barcelona,Villarreal,3,0
+2398019,263127,Villarreal,Real Madrid,2,1
+2398020,263127,Atleti,Athletic Club,1,1
+2398021,263127,Athletic Club,Villarreal,0,0
+2398022,263127,Real Madrid,Barcelona,2,1
+2398023,263127,Barcelona,Athletic Club,1,0
+2398024,263127,Villarreal,Atleti,2,1
+2398025,263127,Barcelona,Atleti,0,3
+2398026,263127,Real Madrid,Athletic Club,2,3
+2398027,263127,Atleti,Real Madrid,,
+2398028,263127,Villarreal,Barcelona,,
+2398029,263127,Real Madrid,Villarreal,,
+2398030,263127,Athletic Club,Atleti,,
+2398031,263127,Villarreal,Athletic Club,,
+2398032,263127,Barcelona,Real Madrid,,
+2398033,263127,Athletic Club,Barcelona,,
+2398034,263127,Atleti,Villarreal,,
