@@ -80365,18 +80365,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2396744,263030,Atleti,Barcelona,,
 2396745,263030,Real Madrid,Barcelona,,
 2396746,263030,Real Madrid,Atleti,,
-2396705,263006,Leipzig,Bayern Munchen,2,0
-2396706,263006,Frankfurt,Stuttgart,1,0
-2396707,263006,Stuttgart,Leipzig,1,1
-2396708,263006,Bayern Munchen,B Dortmund,1,3
-2396709,263006,B Dortmund,Stuttgart,0,2
-2396710,263006,Leipzig,Frankfurt,1,1
-2396711,263006,Frankfurt,B Dortmund,1,0
-2396712,263006,Stuttgart,Bayern Munchen,1,1
-2396713,263006,Bayern Munchen,Frankfurt,2,2
-2396714,263006,B Dortmund,Leipzig,2,3
-2396715,263006,Bayern Munchen,Leipzig,0,1
-2396716,263006,Stuttgart,Frankfurt,0,3
+2396705,263006,Leipzig,Bayern Munchen,2.0,0.0
+2396706,263006,Frankfurt,Stuttgart,1.0,0.0
+2396707,263006,Stuttgart,Leipzig,1.0,1.0
+2396708,263006,Bayern Munchen,B Dortmund,1.0,3.0
+2396709,263006,B Dortmund,Stuttgart,0.0,2.0
+2396710,263006,Leipzig,Frankfurt,1.0,1.0
+2396711,263006,Frankfurt,B Dortmund,1.0,0.0
+2396712,263006,Stuttgart,Bayern Munchen,1.0,1.0
+2396713,263006,Bayern Munchen,Frankfurt,2.0,2.0
+2396714,263006,B Dortmund,Leipzig,2.0,3.0
+2396715,263006,Bayern Munchen,Leipzig,0.0,1.0
+2396716,263006,Stuttgart,Frankfurt,0.0,3.0
 2396717,263006,Leipzig,Stuttgart,,
 2396718,263006,B Dortmund,Bayern Munchen,,
 2396719,263006,Stuttgart,B Dortmund,,
@@ -80385,16 +80385,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2396722,263006,Bayern Munchen,Stuttgart,,
 2396723,263006,Frankfurt,Bayern Munchen,,
 2396724,263006,Leipzig,B Dortmund,,
-2397225,263056,Sporting CP,Arsenal,1,3
-2397226,263056,Juventus,Man City,1,2
-2397227,263056,Man City,Sporting CP,2,5
-2397228,263056,Arsenal,B Dortmund,2,2
-2397229,263056,B Dortmund,Man City,0,2
-2397230,263056,Sporting CP,Juventus,2,2
-2397231,263056,Juventus,B Dortmund,3,2
-2397232,263056,Man City,Arsenal,1,3
-2397233,263056,Arsenal,Juventus,0,0
-2397234,263056,B Dortmund,Sporting CP,1,1
+2397225,263056,Sporting CP,Arsenal,1.0,3.0
+2397226,263056,Juventus,Man City,1.0,2.0
+2397227,263056,Man City,Sporting CP,2.0,5.0
+2397228,263056,Arsenal,B Dortmund,2.0,2.0
+2397229,263056,B Dortmund,Man City,0.0,2.0
+2397230,263056,Sporting CP,Juventus,2.0,2.0
+2397231,263056,Juventus,B Dortmund,3.0,2.0
+2397232,263056,Man City,Arsenal,1.0,3.0
+2397233,263056,Arsenal,Juventus,0.0,0.0
+2397234,263056,B Dortmund,Sporting CP,1.0,1.0
 2397235,263056,Arsenal,Sporting CP,,
 2397236,263056,Man City,Juventus,,
 2397237,263056,Sporting CP,Man City,,
@@ -80405,3 +80405,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2397242,263056,Arsenal,Man City,,
 2397243,263056,Juventus,Arsenal,,
 2397244,263056,Sporting CP,B Dortmund,,
+2397365,263017,Boca Juniors,Man City,1,1
+2397366,263017,Paris,River Plate,2,1
+2397367,263017,River Plate,Boca Juniors,0,3
+2397368,263017,Man City,Real Madrid,1,1
+2397369,263017,Real Madrid,River Plate,4,1
+2397370,263017,Boca Juniors,Paris,0,1
+2397373,263017,Man City,Paris,3,0
+2397374,263017,Real Madrid,Boca Juniors,0,3
+2397375,263017,Man City,Boca Juniors,1,1
+2397376,263017,River Plate,Paris,1,1
+2397377,263017,Boca Juniors,River Plate,,
+2397378,263017,Real Madrid,Man City,,
+2397379,263017,River Plate,Real Madrid,,
+2397380,263017,Paris,Boca Juniors,,
+2397381,263017,Real Madrid,Paris,,
+2397382,263017,Man City,River Plate,,
+2397383,263017,Paris,Man City,,
+2397384,263017,Boca Juniors,Real Madrid,,
+2397371,263017,Paris,Real Madrid,,
+2397372,263017,River Plate,Man City,,
+2396525,263027,Napoli,Sassuolo,1,1
+2396526,263027,Roma,Bologna,1,3
+2396527,263027,Bologna,Napoli,0,0
+2396528,263027,Sassuolo,Juventus,0,2
+2396529,263027,Juventus,Bologna,2,1
+2396530,263027,Napoli,Roma,1,1
+2396531,263027,Roma,Juventus,1,0
+2396532,263027,Bologna,Sassuolo,1,1
+2396533,263027,Sassuolo,Roma,1,1
+2396534,263027,Juventus,Napoli,0,0
+2396535,263027,Sassuolo,Napoli,,
+2396536,263027,Bologna,Roma,,
+2396537,263027,Napoli,Bologna,,
+2396538,263027,Juventus,Sassuolo,,
+2396539,263027,Bologna,Juventus,,
+2396540,263027,Roma,Napoli,,
+2396541,263027,Juventus,Roma,,
+2396542,263027,Sassuolo,Bologna,,
+2396543,263027,Roma,Sassuolo,,
+2396544,263027,Napoli,Juventus,,
