@@ -80805,3 +80805,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2398012,263123,Frankfurt,Stuttgart,,
 2398013,263123,B Dortmund,Frankfurt,,
 2398014,263123,Leipzig,Bayern Munchen,,
+2397855,263101,Juventus,Bologna,3,0
+2397856,263101,Napoli,Roma,2,1
+2397857,263101,Roma,Juventus,2,2
+2397858,263101,Bologna,Sassuolo,1,1
+2397859,263101,Sassuolo,Roma,3,1
+2397860,263101,Juventus,Napoli,2,2
+2397861,263101,Napoli,Sassuolo,0,1
+2397862,263101,Roma,Bologna,3,2
+2397863,263101,Bologna,Napoli,2,1
+2397864,263101,Sassuolo,Juventus,1,0
+2397865,263101,Bologna,Juventus,,
+2397866,263101,Roma,Napoli,,
+2397867,263101,Juventus,Roma,,
+2397868,263101,Sassuolo,Bologna,,
+2397869,263101,Roma,Sassuolo,,
+2397870,263101,Napoli,Juventus,,
+2397871,263101,Sassuolo,Napoli,,
+2397872,263101,Bologna,Roma,,
+2397873,263101,Napoli,Bologna,,
+2397874,263101,Juventus,Sassuolo,,
+2398703,263132,Liverpool,Real Madrid,3,1
+2398704,263132,Bayern Munchen,Paris,1,5
+2398705,263132,Paris,Liverpool,2,4
+2398706,263132,Real Madrid,Atleti,2,2
+2398707,263132,Atleti,Paris,3,3
+2398708,263132,Liverpool,Bayern Munchen,2,0
+2398709,263132,Bayern Munchen,Atleti,0,0
+2398710,263132,Paris,Real Madrid,0,1
+2398711,263132,Real Madrid,Bayern Munchen,,
+2398712,263132,Atleti,Liverpool,,

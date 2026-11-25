@@ -35068,3 +35068,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194000,134386,9z-vs-dendele-cs-25-11-2026,2026-11-25T08:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,324,24956,9z,DENDELE,1,de_mirage,324,13.0,5.0
 194002,134387,imperial-vs-flyquest-25-11-2026,2026-11-25T08:30:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,1430,10398,Imperial,FlyQuest,2,de_cache,10398,13.0,9.0
 194003,134387,imperial-vs-flyquest-25-11-2026,2026-11-25T08:30:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,1430,10398,Imperial,FlyQuest,1,de_dust2,10398,13.0,11.0
+194005,134388,nip-vs-liquid-25-11-2026,2026-11-25T11:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,785,790,Ninjas in Pyjamas,Liquid,2,de_ancient,785,13.0,8.0
+194006,134388,nip-vs-liquid-25-11-2026,2026-11-25T11:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,785,790,Ninjas in Pyjamas,Liquid,1,de_inferno,785,13.0,3.0
