@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 10:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 10:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ninjas in Pyjamas vs Liquid — 25/11 · 11:30
 
