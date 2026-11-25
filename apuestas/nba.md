@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 02:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Charleston Cougars vs UTEP Miners — 25/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 149.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **151.4** puntos · línea 149.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Charleston Cougars ✅✅✅✅❌ | UTEP Miners ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Charleston Cougars: sin bajas; UTEP Miners: sin bajas  
-
-## Charleston Cougars vs UTEP Miners — 25/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Charleston Cougars -1.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Charleston Cougars cubre -1.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Charleston Cougars ✅✅✅✅❌ | UTEP Miners ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Charleston Cougars: sin bajas; UTEP Miners: sin bajas  
-
-## Charleston Cougars vs UTEP Miners — 25/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Charleston Cougars** @ **1.80** (DraftKings) · prob 53% vs casas 53% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.134 partidos y bajas)  
-Gana Charleston Cougars 74% · Gana UTEP Miners 26%  
-Casas: Charleston Cougars 53% · UTEP Miners 47%  
-Hándicap COFC -1.5 · Total puntos 149.5  
-🔎 **Claves**  
-• Forma: Charleston Cougars ✅✅✅✅❌ | UTEP Miners ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Charleston Cougars: sin bajas; UTEP Miners: sin bajas  
-• Favorito de las casas: Charleston Cougars @ 1.80  
+Actualizado 25/11/2026 02:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grand Canyon Lopes vs Saint Louis Billikens — 25/11 · 03:30
 
