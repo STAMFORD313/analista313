@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 13:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 14:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## A1ose vs RuBIX — 25/11 · 14:01
+## dor1an vs cl1vlind — 25/11 · 14:25
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana RuBIX** @ **2.60** (Unibet) · prob 46% vs casas 34% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana dor1an** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +18%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.789 partidos)  
-Goles esperados: A1ose 3.33 · RuBIX 3.50  
-Ganador: A1ose 37% · empate 18% · RuBIX 46%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap RuBIX: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 80.819 partidos)  
+Goles esperados: dor1an 2.79 · cl1vlind 3.15  
+Ganador: dor1an 33% · empate 19% · cl1vlind 49%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap cl1vlind: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: A1ose ✅✅➖➖❌ | RuBIX ✅✅❌➖❌  
-• Partidos: A1ose 1263 | RuBIX 472  
+• Forma: dor1an ➖➖✅❌❌ | cl1vlind ❌✅❌➖❌  
+• Partidos: dor1an 475 | cl1vlind 923  
 • Liga: Champions League B  
-• Unibet: 1 1.94 · X 4.10 · 2 2.60 (sin margen 45%/21%/34%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+19%) · Paf España 2.60 (+19%)  
+• Unibet: 1 3.60 · X 3.10 · 2 1.83 (sin margen 24%/28%/48%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)  
 
-## Frantsuz vs v1nniePuh — 25/11 · 14:02
+## Shinobu vs SDI — 25/11 · 14:40
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana v1nniePuh** @ **2.45** (Unibet) · prob 48% vs casas 36% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **6.40** (Unibet) · prob 20% vs casas 14% · ventaja +26%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 80.819 partidos)  
+Goles esperados: Shinobu 2.87 · SDI 2.59  
+Ganador: Shinobu 49% · empate 20% · SDI 31%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Shinobu: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Shinobu ❌✅✅❌❌ | SDI ❌➖❌❌❌  
+• Partidos: Shinobu 1752 | SDI 812  
+• Liga: Eredivisie  
+• Unibet: 1 1.66 · X 6.40 · 2 2.65 (sin margen 53%/14%/33%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.40 (+26%) · Paf España 6.40 (+26%)  
+
+## Totti vs Duka — 25/11 · 14:46
+
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Duka** @ **2.80** (Unibet) · prob 41% vs casas 31% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.789 partidos)  
-Goles esperados: Frantsuz 4.38 · v1nniePuh 4.68  
-Ganador: Frantsuz 37% · empate 15% · v1nniePuh 48%  
-Total: más de 9.5 goles 42% · menos 58%  
-Hándicap v1nniePuh: −1.5 34% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 80.819 partidos)  
+Goles esperados: Totti 2.35 · Duka 2.31  
+Ganador: Totti 37% · empate 22% · Duka 41%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap Totti: −1.5 24% · −2.5 12%  
 🔎 **Claves**  
-• Forma: Frantsuz ❌✅❌✅✅ | v1nniePuh ✅✅✅✅➖  
-• Partidos: Frantsuz 840 | v1nniePuh 854  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.79 · X 5.75 · 2 2.45 (sin margen 49%/15%/36%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.45 (+17%) · Paf España 2.45 (+17%)  
-
-## dor1an vs A1ose — 25/11 · 14:13
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana dor1an** @ **3.85** (Unibet) · prob 30% vs casas 22% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 80.789 partidos)  
-Goles esperados: dor1an 2.84 · A1ose 3.38  
-Ganador: dor1an 30% · empate 18% · A1ose 52%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap A1ose: −1.5 34% · −2.5 21%  
-🔎 **Claves**  
-• Forma: dor1an ➖❌➖➖✅ | A1ose ✅✅➖➖❌  
-• Partidos: dor1an 473 | A1ose 1263  
-• Liga: Champions League B  
-• Unibet: 1 3.85 · X 5.20 · 2 1.42 (sin margen 22%/17%/61%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+15%) · Paf España 3.85 (+15%)  
+• Forma: Totti ❌❌❌➖✅ | Duka ✅✅❌➖❌  
+• Partidos: Totti 1227 | Duka 1324  
+• Liga: FA Cup  
+• Unibet: 1 1.83 · X 4.10 · 2 2.80 (sin margen 48%/21%/31%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+16%) · Paf España 2.80 (+16%)  
 
