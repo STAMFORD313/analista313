@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-24 16:19",
+ "fecha": "2026-11-25 04:40",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -30,7 +30,7 @@
      "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "twoface-gaming-vs-enisorail-24-11-2026",
+     "dortmund-esports-vs-sge-vision-29-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ]
    ]
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "power-rangers-dota2-vs-inner-circle-24-11-2026",
-     "European Pro League Season 41"
-    ],
-    [
      "interactive-philippines-vs-team-synapse-25-11-2026",
      "European Pro League Season 41"
     ],
     [
-     "b64029e8e1-vs-6d7ebe8bd0-25-11-2026",
+     "zero-tenacity-dota-vs-power-rangers-dota2-25-11-2026",
+     "European Pro League Season 41"
+    ],
+    [
+     "spirit-academy-dota2-vs-angry-birds-25-11-2026",
      "European Pro League Season 41"
     ]
    ]
@@ -126,10 +126,11 @@
   "Esports / CS2 / European Pro League": 4,
   "Esports / Valorant / VCT: Americas Kick-Off Brazil Qual.": 4,
   "Esports / Valorant / VCT: Americas Kick-Off NA Qual.": 4,
-  "Esports / Dota 2 / BLAST Slam": 3,
-  "Esports / Valorant / VCT: EMEA Kick-Off Turkey Qual.": 3,
-  "Esports / CS2 / CCT European Series 15": 2,
-  "Esports / Dota 2 / European Pro League": 2,
-  "Esports / CS2 / United21": 1
+  "Esports / Valorant / China National Tournament Split Omega: Pro Division": 2,
+  "Esports / CS2 / United21": 2,
+  "Esports / Valorant / VCT: EMEA Kick-Off Turkey Qual.": 2,
+  "Esports / Dota 2 / BLAST Slam": 2,
+  "Esports / Dota 2 / European Pro League": 1,
+  "Esports / CS2 / CROSSFIRE": 1
  }
 }
