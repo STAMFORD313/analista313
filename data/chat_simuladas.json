@@ -4130,7 +4130,10 @@
     "away": "Houston Dynamo",
     "txt": "Gana San Jose Earthquakes",
     "odds": 2.18,
-    "p": 0.4792
+    "p": 0.4792,
+    "ok": true,
+    "por": "ganó San Jose Earthquakes, acabó 2-1",
+    "clv": 0.067
    }
   ],
   "odds": 6.97,
