@@ -1,52 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 07:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Wildcard vs Lynn Vision — 25/11 · 08:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana Lynn Vision** @ **2.00** (Thunderpick) · prob 53% vs casas 46% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: Wildcard 46% · Serie BO1: Wildcard 39% - 61% Lynn Vision  
-Casas: Wildcard 54% · Lynn Vision 46%  
-🔎 **Claves**  
-• Elo: Wildcard 1835 (361 series) | Lynn Vision 1860 (354 series)  
-• Forma: Wildcard ✅✅❌✅❌ | Lynn Vision ✅✅✅✅❌  
-• H2H: 1: 1-0  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Wildcard: nEMANHA 6.9, HexT 6.2 | Lynn Vision: Starry 6.3, Westmelon 6.2  
-• Mapas (último año): Wildcard: fuerte nuke 67%, débil dust2 48% | Lynn Vision: fuerte dust2 63%, débil ancient 40%  
-• Química de la plantilla: Wildcard: 68 mapas juntos de media | Lynn Vision: 271 mapas juntos de media  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-Wildcard: nEMANHA 14 (7-22) · fr3nd 14 (7-21) · cxzi 14 (7-21) · HexT 14 (7-21) · reck 13 (7-21)  
-Lynn Vision: z4kr 15 (8-23) · Starry 15 (7-23) · Westmelon 14 (7-21) · EmiliaQAQ 13 (7-20) · C4LLM3SU3 13 (6-20)  
-
-## PARIVISION vs FaZe — 25/11 · 08:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana FaZe** @ **2.10** (Thunderpick) · prob 45% vs casas 44% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: PARIVISION 55% · Serie BO1: PARIVISION 54% - 46% FaZe  
-Casas: PARIVISION 56% · FaZe 44%  
-🔎 **Claves**  
-• Elo: PARIVISION 1980 (326 series) | FaZe 1945 (330 series)  
-• Forma: PARIVISION ✅❌❌✅❌ | FaZe ❌❌❌❌✅  
-• H2H: 2: 2-0  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): PARIVISION: FL1T 6.2, HObbit 6.0 | FaZe: frozen 6.8, JBOEN 6.3  
-• Mapas (último año): PARIVISION: fuerte ancient 64%, débil cache 33% | FaZe: fuerte nuke 65%, débil anubis 31%  
-• Química de la plantilla: PARIVISION: 115 mapas juntos de media | FaZe: 116 mapas juntos de media  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-PARIVISION: xiELO 14 (7-22) · Jame 14 (7-22) · HObbit 14 (7-22) · zweih 14 (7-21) · FL1T 14 (7-21)  
-FaZe: JBOEN 15 (8-23) · frozen 14 (7-22) · Twistzz 14 (7-22) · jcobbb 13 (7-21) · Neityu 13 (6-20)  
+Actualizado 25/11/2026 08:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 9z vs DENDELE — 25/11 · 09:00
 

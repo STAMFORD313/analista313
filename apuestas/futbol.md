@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 07:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 08:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Avispa Fukuoka vs Yokohama F. Marinos — 25/11 · 11:00
 
