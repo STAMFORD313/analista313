@@ -1273,9 +1273,6 @@
   "cbb|2026-11-27|Gonzaga Bulldogs|Baylor Bears",
   "wta|2026-11-26|Maria Lourdes Carle|Nadia Podoroska",
   "wta|2026-11-27|Alicia Herrero Linana|Julia Riera",
-  "fc|2391373",
-  "fc|2389436",
-  "fc|2390253",
   "fc|2389442",
   "fc|2390336",
   "cs2|134015",
@@ -2275,7 +2272,10 @@
   "fc|2399204",
   "fc|2399088",
   "fc|2399086",
-  "fc|2398946"
+  "fc|2398946",
+  "fc|2399206",
+  "fc|2398056",
+  "fc|2399085"
  ],
  "signals": [
   {
@@ -24099,7 +24099,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "5-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   }
  ],
  "bank": {
