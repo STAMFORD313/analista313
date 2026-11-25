@@ -1,40 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 25/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Sabah FK vs Barcelona — 25/11 · 18:45
-
-👀 candidata · 🏆 Champions League · **Gana Barcelona** @ **1.07** (DraftKings) · prob 79% vs casas 89% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.169 partidos y bajas)  
-1 17% · X 15% · 2 68%  
-Casas: 1 5% · X 6% · 2 89%  
-Hándicap BAR -1400 · Total puntos 5.5  
-🔎 **Claves**  
-• Forma: Sabah FK ❌✅❌❌ | Barcelona ❌✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Sabah FK: sin bajas; Barcelona: sin bajas  
-• Favorito de las casas: Barcelona @ 1.07  
-
-## Slavia Prague vs Villarreal — 25/11 · 18:45
-
-👀 candidata · 🏆 Champions League · **Gana Slavia Prague** @ **3.05** (DraftKings) · prob 38% vs casas 31% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.169 partidos y bajas)  
-1 44% · X 21% · 2 35%  
-Casas: 1 31% · X 24% · 2 44%  
-Hándicap VIL +115 · Total puntos 3.5  
-🔎 **Claves**  
-• Forma: Slavia Prague ❌❌❌➖❌ | Villarreal ❌❌✅❌❌  
-• H2H: 2 desde 2017: 0-1  
-• Bajas: Slavia Prague: sin bajas; Villarreal: sin bajas  
-• Favorito de las casas: Villarreal @ 2.15  
+Actualizado 25/11/2026 18:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlético Madrid vs Viking FK — 25/11 · 21:00
 

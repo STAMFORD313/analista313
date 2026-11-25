@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 18:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## SDI vs Gazi — 25/11 · 18:14
+## Rodja vs maggett0 — 25/11 · 18:56
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **6.10** (Unibet) · prob 19% vs casas 14% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +10%
 
-- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.033 partidos)  
-Goles esperados: SDI 2.74 · Gazi 3.08  
-Ganador: SDI 41% · empate 19% · Gazi 40%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap Gazi: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 81.065 partidos)  
+Goles esperados: Rodja 2.87 · maggett0 2.79  
+Ganador: Rodja 43% · empate 20% · maggett0 38%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Rodja: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: SDI ❌❌❌✅❌ | Gazi ➖➖✅❌➖  
-• Partidos: SDI 825 | Gazi 656  
-• Liga: A-League  
-• Unibet: 1 2.55 · X 6.10 · 2 1.73 (sin margen 35%/14%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+18%) · Paf España 6.10 (+18%)  
+• Forma: Rodja ✅❌✅➖❌ | maggett0 ✅➖✅❌✅  
+• Partidos: Rodja 1203 | maggett0 1155  
+• Liga: World Cup B  
+• Unibet: 1 1.79 · X 5.60 · 2 2.50 (sin margen 49%/16%/35%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+10%) · Paf España 5.60 (+10%)  
 
-## CIDCUDI vs SDI — 25/11 · 18:26
+## pikalicaaa vs Linox — 25/11 · 19:11
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana CIDCUDI** @ **3.50** (Unibet) · prob 34% vs casas 25% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Linox** @ **2.50** (Unibet) · prob 46% vs casas 35% · ventaja +14%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.033 partidos)  
-Goles esperados: CIDCUDI 2.80 · SDI 3.02  
-Ganador: CIDCUDI 34% · empate 19% · SDI 47%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap SDI: −1.5 29% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 81.065 partidos)  
+Goles esperados: pikalicaaa 1.90 · Linox 2.20  
+Ganador: pikalicaaa 31% · empate 23% · Linox 46%  
+Total: más de 4.5 goles 39% · menos 61%  
+Hándicap Linox: −1.5 27% · −2.5 13%  
 🔎 **Claves**  
-• Forma: CIDCUDI ✅➖❌❌✅ | SDI ❌❌❌✅❌  
-• Partidos: CIDCUDI 97 | SDI 825  
-• Liga: A-League  
-• Unibet: 1 3.50 · X 5.30 · 2 1.47 (sin margen 25%/16%/59%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.50 (+19%) · Paf España 3.50 (+19%)  
-
-## Gazi vs Shinobu — 25/11 · 18:26
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.10** (Unibet) · prob 22% vs casas 17% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 81.033 partidos)  
-Goles esperados: Gazi 2.22 · Shinobu 2.30  
-Ganador: Gazi 30% · empate 22% · Shinobu 48%  
-Total: más de 4.5 goles 47% · menos 53%  
-Hándicap Shinobu: −1.5 24% · −2.5 12%  
-🔎 **Claves**  
-• Forma: Gazi ➖➖✅❌➖ | Shinobu ✅➖✅✅✅  
-• Partidos: Gazi 656 | Shinobu 1765  
-• Liga: A-League  
-• Unibet: 1 2.04 · X 5.10 · 2 2.18 (sin margen 43%/17%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+12%) · Paf España 5.10 (+12%)  
+• Forma: pikalicaaa ➖❌➖✅➖ | Linox ✅✅➖❌❌  
+• Partidos: pikalicaaa 843 | Linox 945  
+• Liga: Champions League A  
+• Unibet: 1 2.28 · X 3.15 · 2 2.50 (sin margen 38%/27%/35%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+14%) · Paf España 2.50 (+14%)  
 
