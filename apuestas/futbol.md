@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 03:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## San Jose Earthquakes vs Houston Dynamo — 25/11 · 04:00
-
-👀 candidata · 🇺🇸 MLS · **Gana Houston Dynamo** @ **3.30** (Bet365) · prob 29% vs casas 29% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 1.53)  
-1 42% · X 26% · 2 32%  
-1X 68% · X2 58% · 12 74%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: San Jose Earthquakes ➖❌➖✅❌ | Houston Dynamo ➖➖✅❌❌  
-• H2H: 28 desde 2012: 8V-5E-15D · 2.8 goles/partido · +2.5 en 57%  
-• Bajas: San Jose Earthquakes: 0 fuera, 1 duda; Houston Dynamo: 0 fuera, 3 duda  
-• Favorito de las casas: San Jose Earthquakes @ 2.05  
+Actualizado 25/11/2026 04:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Avispa Fukuoka vs Yokohama F. Marinos — 25/11 · 11:00
 

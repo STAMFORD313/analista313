@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 03:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 04:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado State Rams vs VCU Rams — 25/11 · 04:30
 
