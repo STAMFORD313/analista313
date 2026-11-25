@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 07:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 07:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wildcard vs Lynn Vision — 25/11 · 08:00
 
