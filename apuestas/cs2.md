@@ -1,52 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 06:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Eternal Fire vs 100 Thieves — 25/11 · 07:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana 100 Thieves** @ **1.62** (Thunderpick) · prob 57% vs casas 57% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: Eternal Fire 41% · Serie BO1: Eternal Fire 43% - 57% 100 Thieves  
-Casas: Eternal Fire 43% · 100 Thieves 57%  
-🔎 **Claves**  
-• Elo: Eternal Fire 1914 (457 series) | 100 Thieves 1980 (101 series)  
-• Forma: Eternal Fire ❌✅❌❌✅ | 100 Thieves ✅✅✅✅❌  
-• H2H: 4: 1-3  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Eternal Fire: regali 6.6, jottAAA 6.4 | 100 Thieves: poiii 7.2, dev1ce 6.6  
-• Mapas (último año): Eternal Fire: fuerte ancient 68%, débil mirage 40% | 100 Thieves: fuerte dust2 84%, débil nuke 46%  
-• Química de la plantilla: Eternal Fire: 111 mapas juntos de media | 100 Thieves: 128 mapas juntos de media  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-Eternal Fire: jottAAA 15 (8-23) · Kvem 15 (8-23) · regali 14 (7-22) · soulfly 14 (7-21) · MisteM 12 (6-19)  
-100 Thieves: poiii 15 (8-24) · dev1ce 15 (8-23) · sirah 15 (7-22) · rain 14 (7-22) · Gizmy 13 (6-20)  
-
-## HEROIC vs M80 — 25/11 · 07:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana HEROIC** @ **1.65** (Thunderpick) · prob 58% vs casas 56% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: HEROIC 65% · Serie BO1: HEROIC 59% - 41% M80  
-Casas: HEROIC 56% · M80 44%  
-🔎 **Claves**  
-• Elo: HEROIC 1976 (343 series) | M80 1868 (327 series)  
-• Forma: HEROIC ✅✅❌❌✅ | M80 ✅✅❌❌✅  
-• H2H: 2: 2-0  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): HEROIC: Chr1zN 6.3, nilo 6.3 | M80: s1n 6.3, lake 6.2  
-• Mapas (último año): HEROIC: fuerte ancient 65%, débil overpass 44% | M80: fuerte mirage 61%, débil inferno 50%  
-• Química de la plantilla: HEROIC: 131 mapas juntos de media | M80: 277 mapas juntos de media  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-HEROIC: nilo 16 (8-24) · MartinezSa 15 (8-24) · Chr1zN 14 (7-22) · Brollan 14 (7-22) · susp 14 (7-21)  
-M80: lake 14 (7-22) · slaxz 14 (7-21) · JBa 13 (7-21) · Swisher 13 (6-20) · s1n 12 (6-19)  
+Actualizado 25/11/2026 07:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wildcard vs Lynn Vision — 25/11 · 08:00
 
