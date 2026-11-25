@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 02:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 02:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grand Canyon Lopes vs Saint Louis Billikens — 25/11 · 03:30
 

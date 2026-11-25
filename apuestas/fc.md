@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 02:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 02:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ssstasonn vs tizzy — 25/11 · 02:51
 
