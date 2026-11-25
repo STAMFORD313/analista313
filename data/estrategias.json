@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-25 07:45",
- "n": 5919,
+ "fecha": "2026-11-25 08:15",
+ "n": 5920,
  "rentables": [
   {
    "segmento": "deporte=🏀 · mercado=total",
@@ -285,11 +285,11 @@
   },
   {
    "segmento": "cuota=>2.5",
-   "n": 1731,
-   "roi": -0.1163,
+   "n": 1732,
+   "roi": -0.1168,
    "se": 0.0432,
    "roi_antigua": -0.2068,
-   "roi_nueva": -0.0187,
+   "roi_nueva": -0.0199,
    "clv": 0.023,
    "clv_se": 0.0107,
    "clv_n": 200
@@ -304,6 +304,17 @@
    "clv": -0.0371,
    "clv_se": 0.006,
    "clv_n": 346
+  },
+  {
+   "segmento": "ventaja=5-15%",
+   "n": 1525,
+   "roi": -0.1038,
+   "se": 0.0375,
+   "roi_antigua": -0.0876,
+   "roi_nueva": -0.1196,
+   "clv": -0.0068,
+   "clv_se": 0.016,
+   "clv_n": 45
   },
   {
    "segmento": "deporte=⚽ · mercado=corners · ventaja=<0",
@@ -347,17 +358,6 @@
    "clv": -0.0291,
    "clv_se": 0.0033,
    "clv_n": 217
-  },
-  {
-   "segmento": "ventaja=5-15%",
-   "n": 1524,
-   "roi": -0.1032,
-   "se": 0.0375,
-   "roi_antigua": -0.0889,
-   "roi_nueva": -0.1171,
-   "clv": -0.0068,
-   "clv_se": 0.016,
-   "clv_n": 45
   },
   {
    "segmento": "mercado=1X2 · cuota=2-2.5 · ventaja=5-15%",
@@ -468,11 +468,11 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 2737,
-   "roi": -0.0777,
+   "n": 2738,
+   "roi": -0.078,
    "se": 0.029,
-   "roi_antigua": -0.1207,
-   "roi_nueva": -0.0312,
+   "roi_antigua": -0.12,
+   "roi_nueva": -0.0327,
    "clv": 0.0177,
    "clv_se": 0.0043,
    "clv_n": 363
@@ -490,11 +490,11 @@
   },
   {
    "segmento": "mercado=1X2 · ventaja=5-15%",
-   "n": 1418,
-   "roi": -0.0946,
+   "n": 1419,
+   "roi": -0.0953,
    "se": 0.0395,
-   "roi_antigua": -0.0753,
-   "roi_nueva": -0.1133,
+   "roi_antigua": -0.0739,
+   "roi_nueva": -0.116,
    "clv": 0.0003,
    "clv_se": 0.0138,
    "clv_n": 32
@@ -526,8 +526,8 @@
    "n": 1815,
    "roi": -0.0564,
    "se": 0.0209,
-   "roi_antigua": -0.0504,
-   "roi_nueva": -0.0622,
+   "roi_antigua": -0.0492,
+   "roi_nueva": -0.0632,
    "clv": -0.0223,
    "clv_se": 0.0038,
    "clv_n": 309
@@ -564,19 +564,19 @@
   },
   {
    "segmento": "deporte=🎮⚽",
-   "n": 2374,
-   "roi": -0.0746,
+   "n": 2375,
+   "roi": -0.075,
    "se": 0.0323,
-   "roi_antigua": -0.1199,
-   "roi_nueva": -0.0266
+   "roi_antigua": -0.119,
+   "roi_nueva": -0.0283
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2",
-   "n": 2374,
-   "roi": -0.0746,
+   "n": 2375,
+   "roi": -0.075,
    "se": 0.0323,
-   "roi_antigua": -0.1199,
-   "roi_nueva": -0.0266
+   "roi_antigua": -0.119,
+   "roi_nueva": -0.0283
   },
   {
    "segmento": "mercado=hándicap · cuota=1.5-2 · ventaja=<0",
@@ -590,6 +590,22 @@
    "clv_n": 60
   },
   {
+   "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=5-15%",
+   "n": 1387,
+   "roi": -0.0892,
+   "se": 0.0402,
+   "roi_antigua": -0.0625,
+   "roi_nueva": -0.1144
+  },
+  {
+   "segmento": "deporte=🎮⚽ · ventaja=5-15%",
+   "n": 1387,
+   "roi": -0.0892,
+   "se": 0.0402,
+   "roi_antigua": -0.0625,
+   "roi_nueva": -0.1144
+  },
+  {
    "segmento": "deporte=🎮",
    "n": 234,
    "roi": -0.1361,
@@ -601,20 +617,15 @@
    "clv_n": 41
   },
   {
-   "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=5-15%",
-   "n": 1386,
-   "roi": -0.0885,
-   "se": 0.0402,
-   "roi_antigua": -0.064,
-   "roi_nueva": -0.1117
-  },
-  {
-   "segmento": "deporte=🎮⚽ · ventaja=5-15%",
-   "n": 1386,
-   "roi": -0.0885,
-   "se": 0.0402,
-   "roi_antigua": -0.064,
-   "roi_nueva": -0.1117
+   "segmento": "mercado=1X2 · cuota=>2.5",
+   "n": 1477,
+   "roi": -0.1043,
+   "se": 0.0485,
+   "roi_antigua": -0.1985,
+   "roi_nueva": -0.0006,
+   "clv": 0.0407,
+   "clv_se": 0.0092,
+   "clv_n": 121
   },
   {
    "segmento": "deporte=🏈 · mercado=hándicap · ventaja=<0",
@@ -626,17 +637,6 @@
    "clv": -0.0412,
    "clv_se": 0.0047,
    "clv_n": 56
-  },
-  {
-   "segmento": "mercado=1X2 · cuota=>2.5",
-   "n": 1476,
-   "roi": -0.1037,
-   "se": 0.0485,
-   "roi_antigua": -0.1985,
-   "roi_nueva": 0.0009,
-   "clv": 0.0407,
-   "clv_se": 0.0092,
-   "clv_n": 121
   },
   {
    "segmento": "cuota=2-2.5 · ventaja=<0",
