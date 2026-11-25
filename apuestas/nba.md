@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 01:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## High Point Panthers vs Duquesne Dukes — 25/11 · 01:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 141.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **147.6** puntos · línea 141.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: High Point Panthers ✅✅✅✅✅ | Duquesne Dukes ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: High Point Panthers: sin bajas; Duquesne Dukes: sin bajas  
-
-## High Point Panthers vs Duquesne Dukes — 25/11 · 01:30
-
-👀 candidata · 🏀 NCAA Basketball · **High Point Panthers -10.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: High Point Panthers cubre -10.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: High Point Panthers ✅✅✅✅✅ | Duquesne Dukes ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: High Point Panthers: sin bajas; Duquesne Dukes: sin bajas  
-
-## High Point Panthers vs Duquesne Dukes — 25/11 · 01:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana High Point Panthers** @ **1.18** (DraftKings) · prob 81% vs casas 81% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.134 partidos y bajas)  
-Gana High Point Panthers 90% · Gana Duquesne Dukes 10%  
-Casas: High Point Panthers 81% · Duquesne Dukes 19%  
-Hándicap HPU -10.5 · Total puntos 141.5  
-🔎 **Claves**  
-• Forma: High Point Panthers ✅✅✅✅✅ | Duquesne Dukes ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: High Point Panthers: sin bajas; Duquesne Dukes: sin bajas  
-• Favorito de las casas: High Point Panthers @ 1.18  
+Actualizado 25/11/2026 02:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Charleston Cougars vs UTEP Miners — 25/11 · 02:30
 

@@ -80235,18 +80235,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2397202,263052,Man City,Liverpool,,
 2397203,263052,Chelsea,Man City,,
 2397204,263052,Arsenal,Tottenham,,
-2396485,263025,England,Argentina,0,2
-2396486,263025,Spain,France,1,1
-2396487,263025,France,England,1,5
-2396488,263025,Argentina,Brazil,2,0
-2396489,263025,Brazil,France,1,1
-2396490,263025,England,Spain,2,1
-2396491,263025,Spain,Brazil,1,1
-2396492,263025,France,Argentina,3,0
-2396493,263025,Argentina,Spain,1,1
-2396494,263025,Brazil,England,2,3
-2396495,263025,Argentina,England,1,1
-2396496,263025,France,Spain,2,1
+2396485,263025,England,Argentina,0.0,2.0
+2396486,263025,Spain,France,1.0,1.0
+2396487,263025,France,England,1.0,5.0
+2396488,263025,Argentina,Brazil,2.0,0.0
+2396489,263025,Brazil,France,1.0,1.0
+2396490,263025,England,Spain,2.0,1.0
+2396491,263025,Spain,Brazil,1.0,1.0
+2396492,263025,France,Argentina,3.0,0.0
+2396493,263025,Argentina,Spain,1.0,1.0
+2396494,263025,Brazil,England,2.0,3.0
+2396495,263025,Argentina,England,1.0,1.0
+2396496,263025,France,Spain,2.0,1.0
 2396497,263025,England,France,,
 2396498,263025,Brazil,Argentina,,
 2396499,263025,France,Brazil,,
@@ -80255,3 +80255,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2396502,263025,Argentina,France,,
 2396503,263025,Spain,Argentina,,
 2396504,263025,England,Brazil,,
+2396665,263004,River Plate,Boca Juniors,1,1
+2396666,263004,Paris,Real Madrid,3,0
+2396667,263004,Real Madrid,River Plate,0,4
+2396668,263004,Boca Juniors,Man City,3,1
+2396669,263004,Man City,Real Madrid,3,0
+2396670,263004,River Plate,Paris,0,0
+2396671,263004,Paris,Man City,1,0
+2396672,263004,Real Madrid,Boca Juniors,1,2
+2396673,263004,Boca Juniors,Paris,1,0
+2396674,263004,Man City,River Plate,0,5
+2396675,263004,Boca Juniors,River Plate,1,0
+2396676,263004,Real Madrid,Paris,1,1
+2396677,263004,River Plate,Real Madrid,3,2
+2396678,263004,Man City,Boca Juniors,1,1
+2396679,263004,Real Madrid,Man City,2,1
+2396680,263004,Paris,River Plate,0,0
+2396681,263004,Man City,Paris,3,1
+2396682,263004,Boca Juniors,Real Madrid,0,1
+2396683,263004,Paris,Boca Juniors,,
+2396684,263004,River Plate,Man City,,
