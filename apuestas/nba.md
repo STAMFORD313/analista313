@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 04:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 05:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Stanford Cardinal vs Colorado Buffaloes — 25/11 · 05:59
 

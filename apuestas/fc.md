@@ -1,23 +1,23 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 04:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 05:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## tizzy vs kkikus — 25/11 · 04:47
+## OG vs hotShot — 25/11 · 05:26
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana tizzy** @ **1.40** (Unibet) · prob 80% vs casas 62% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana OG** @ **3.60** (Unibet) · prob 30% vs casas 24% · ventaja +8%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 80.326 partidos)  
-Goles esperados: tizzy 4.48 · kkikus 2.16  
-Ganador: tizzy 80% · empate 11% · kkikus 9%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap tizzy: −1.5 62% · −2.5 46%  
+📊 **Escenarios** (Poisson por jugador, 80.347 partidos)  
+Goles esperados: OG 2.12 · hotShot 2.56  
+Ganador: OG 30% · empate 21% · hotShot 49%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
 🔎 **Claves**  
-• Forma: tizzy ✅❌❌✅✅ | kkikus ❌✅✅❌❌  
-• Partidos: tizzy 507 | kkikus 1282  
-• Liga: Club World Cup  
-• Unibet: 1 1.40 · X 5.75 · 2 3.75 (sin margen 62%/15%/23%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.40 (+12%) · Paf España 1.40 (+12%)  
+• Forma: OG ➖❌❌❌❌ | hotShot ✅➖❌✅➖  
+• Partidos: OG 769 | hotShot 764  
+• Liga: Serie A  
+• Unibet: 1 3.60 · X 2.75 · 2 1.97 (sin margen 24%/32%/44%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+8%) · Paf España 3.60 (+8%)  
 
