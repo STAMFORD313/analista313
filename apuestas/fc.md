@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 20:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 20:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Maslja vs Paka — 25/11 · 20:16
+## CIDCUDI vs SDI — 25/11 · 20:46
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Paka** @ **2.28** (Unibet) · prob 48% vs casas 38% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana CIDCUDI** @ **3.45** (Unibet) · prob 38% vs casas 25% · ventaja +30%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.115 partidos)  
-Goles esperados: Maslja 2.67 · Paka 3.01  
-Ganador: Maslja 33% · empate 19% · Paka 48%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Paka: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 81.169 partidos)  
+Goles esperados: CIDCUDI 3.08 · SDI 3.19  
+Ganador: CIDCUDI 38% · empate 19% · SDI 44%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap SDI: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Maslja ❌✅❌❌➖ | Paka ➖✅✅✅❌  
-• Partidos: Maslja 1131 | Paka 1122  
-• Liga: Europa League  
-• Unibet: 1 2.16 · X 4.10 · 2 2.28 (sin margen 40%/21%/38%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.28 (+9%) · Paf España 2.28 (+9%)  
+• Forma: CIDCUDI ➖✅❌❌✅ | SDI ❌❌❌❌❌  
+• Partidos: CIDCUDI 106 | SDI 834  
+• Liga: Copa America  
+• Unibet: 1 3.45 · X 5.30 · 2 1.48 (sin margen 25%/16%/59%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.45 (+30%) · Paf España 3.45 (+30%)  
 
-## Lukapaja vs Dicca — 25/11 · 20:31
+## spirtes vs Gazi — 25/11 · 20:58
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.17** (Unibet) · prob 51% vs casas 40% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Gazi** @ **2.75** (Unibet) · prob 40% vs casas 32% · ventaja +11%
 
 - ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.137 partidos)  
-Goles esperados: Lukapaja 2.65 · Dicca 3.20  
-Ganador: Lukapaja 30% · empate 19% · Dicca 51%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Dicca: −1.5 34% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 81.169 partidos)  
+Goles esperados: spirtes 2.93 · Gazi 2.62  
+Ganador: spirtes 40% · empate 20% · Gazi 40%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap spirtes: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Lukapaja ❌❌✅❌✅ | Dicca ❌❌✅✅✅  
-• Partidos: Lukapaja 135 | Dicca 1026  
-• Liga: Serie A  
-• Unibet: 1 2.38 · X 3.65 · 2 2.17 (sin margen 36%/24%/40%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.17 (+11%) · Paf España 2.17 (+11%)  
+• Forma: spirtes ✅➖✅✅✅ | Gazi ➖✅❌❌❌  
+• Partidos: spirtes 1438 | Gazi 665  
+• Liga: Copa America  
+• Unibet: 1 1.68 · X 5.50 · 2 2.75 (sin margen 52%/16%/32%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.75 (+11%) · Paf España 2.75 (+11%)  
 
-## Shinobu vs spirtes — 25/11 · 20:34
+## pikalicaaa vs Dicca — 25/11 · 21:07
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Shinobu** @ **2.55** (Unibet) · prob 45% vs casas 34% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.00** (Unibet) · prob 56% vs casas 44% · ventaja +12%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.137 partidos)  
-Goles esperados: Shinobu 2.67 · spirtes 2.66  
-Ganador: Shinobu 45% · empate 20% · spirtes 35%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap Shinobu: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 81.169 partidos)  
+Goles esperados: pikalicaaa 2.42 · Dicca 3.15  
+Ganador: pikalicaaa 26% · empate 19% · Dicca 56%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Dicca: −1.5 36% · −2.5 22%  
 🔎 **Claves**  
-• Forma: Shinobu ✅✅➖✅✅ | spirtes ❌➖✅➖✅  
-• Partidos: Shinobu 1772 | spirtes 1436  
-• Liga: Copa America  
-• Unibet: 1 2.55 · X 4.80 · 2 1.85 (sin margen 34%/18%/47%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+15%) · Paf España 2.55 (+15%)  
-
-## Joop vs cosske — 25/11 · 20:34
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana cosske** @ **1.61** (Unibet) · prob 70% vs casas 55% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 81.137 partidos)  
-Goles esperados: Joop 2.21 · cosske 3.86  
-Ganador: Joop 15% · empate 15% · cosske 70%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap cosske: −1.5 52% · −2.5 35%  
-🔎 **Claves**  
-• Forma: Joop ✅❌❌❌➖ | cosske ➖➖➖✅❌  
-• Partidos: Joop 344 | cosske 287  
-• Liga: Premier League  
-• Unibet: 1 3.35 · X 4.60 · 2 1.61 (sin margen 26%/19%/55%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.61 (+13%) · Paf España 1.61 (+13%)  
+• Forma: pikalicaaa ❌❌❌✅❌ | Dicca ✅✅✅✅➖  
+• Partidos: pikalicaaa 850 | Dicca 1028  
+• Liga: Serie A  
+• Unibet: 1 2.43 · X 4.25 · 2 2.00 (sin margen 36%/21%/44%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+11%) · Paf España 2.00 (+11%)  
 
