@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 23:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## tizzy vs believer — 25/11 · 23:19
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 14% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 81.298 partidos)  
-Goles esperados: tizzy 2.77 · believer 3.29  
-Ganador: tizzy 28% · empate 18% · believer 54%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap believer: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: tizzy ➖➖✅✅✅ | believer ✅➖➖❌✅  
-• Partidos: tizzy 520 | believer 1370  
-• Liga: World Cup A  
-• Unibet: 1 3.50 · X 6.00 · 2 1.43 (sin margen 25%/14%/61%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+8%) · Paf España 6.00 (+8%)  
+Actualizado 25/11/2026 23:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## tizzy vs Nightxx — 25/11 · 23:43
 
@@ -58,4 +39,42 @@ Hándicap believer: −1.5 53% · −2.5 36%
 • Liga: World Cup A  
 • Unibet: 1 1.50 · X 5.00 · 2 3.70 (sin margen 59%/18%/24%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.50 (+11%) · Paf España 1.50 (+11%)  
+
+## hotShot vs OG — 25/11 · 23:46
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana hotShot** @ **2.35** (Unibet) · prob 50% vs casas 37% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.320 partidos)  
+Goles esperados: hotShot 2.49 · OG 2.06  
+Ganador: hotShot 50% · empate 22% · OG 29%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
+🔎 **Claves**  
+• Forma: hotShot ✅❌✅❌➖ | OG ❌➖❌✅❌  
+• Partidos: hotShot 777 | OG 781  
+• Liga: Portugal Primera  
+• Unibet: 1 2.35 · X 2.60 · 2 2.90 (sin margen 37%/33%/30%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+17%) · Paf España 2.35 (+17%)  
+
+## believer vs Nightxx — 26/11 · 00:05
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana believer** @ **1.62** (Unibet) · prob 65% vs casas 54% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.320 partidos)  
+Goles esperados: believer 3.79 · Nightxx 2.51  
+Ganador: believer 65% · empate 16% · Nightxx 19%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap believer: −1.5 46% · −2.5 30%  
+🔎 **Claves**  
+• Forma: believer ➖❌✅➖✅ | Nightxx ✅✅❌❌❌  
+• Partidos: believer 1372 | Nightxx 1145  
+• Liga: Serie A  
+• Unibet: 1 1.62 · X 4.50 · 2 3.35 (sin margen 54%/20%/26%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.62 (+5%) · Paf España 1.62 (+5%)  
 
