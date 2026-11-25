@@ -80725,12 +80725,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2398838,263164,Spain,France,,
 2398839,263164,Argentina,Spain,,
 2398840,263164,Brazil,England,,
-2397835,263099,Fenerbahce,Porto,3,1
-2397836,263099,Salzburg,Aston Villa,4,3
-2397837,263099,Aston Villa,Fenerbahce,6,4
-2397838,263099,Porto,Roma,1,1
-2397839,263099,Roma,Aston Villa,1,1
-2397840,263099,Fenerbahce,Salzburg,3,6
+2397835,263099,Fenerbahce,Porto,3.0,1.0
+2397836,263099,Salzburg,Aston Villa,4.0,3.0
+2397837,263099,Aston Villa,Fenerbahce,6.0,4.0
+2397838,263099,Porto,Roma,1.0,1.0
+2397839,263099,Roma,Aston Villa,1.0,1.0
+2397840,263099,Fenerbahce,Salzburg,3.0,6.0
 2397841,263099,Salzburg,Roma,,
 2397842,263099,Aston Villa,Porto,,
 2397843,263099,Porto,Salzburg,,
@@ -80745,12 +80745,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2397852,263099,Porto,Aston Villa,,
 2397853,263099,Salzburg,Porto,,
 2397854,263099,Fenerbahce,Roma,,
-2397915,263108,Belgium,Netherlands,1,3
-2397916,263108,Germany,Portugal,1,2
-2397917,263108,Portugal,Belgium,2,2
-2397918,263108,Netherlands,Morocco,0,3
-2397919,263108,Morocco,Portugal,1,1
-2397920,263108,Belgium,Germany,3,1
+2397915,263108,Belgium,Netherlands,1.0,3.0
+2397916,263108,Germany,Portugal,1.0,2.0
+2397917,263108,Portugal,Belgium,2.0,2.0
+2397918,263108,Netherlands,Morocco,0.0,3.0
+2397919,263108,Morocco,Portugal,1.0,1.0
+2397920,263108,Belgium,Germany,3.0,1.0
 2397921,263108,Germany,Morocco,,
 2397922,263108,Portugal,Netherlands,,
 2397923,263108,Netherlands,Germany,,
@@ -80765,10 +80765,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2397932,263108,Netherlands,Portugal,,
 2397933,263108,Germany,Netherlands,,
 2397934,263108,Belgium,Morocco,,
-2398155,263135,Chengdu Rongcheng,Shanghai Shenhua,2,4
-2398156,263135,Shandong Taishan,Shanghai Port,3,0
-2398157,263135,Shanghai Port,Chengdu Rongcheng,0,1
-2398158,263135,Shanghai Shenhua,Beijing Guoan,1,1
+2398155,263135,Chengdu Rongcheng,Shanghai Shenhua,2.0,4.0
+2398156,263135,Shandong Taishan,Shanghai Port,3.0,0.0
+2398157,263135,Shanghai Port,Chengdu Rongcheng,0.0,1.0
+2398158,263135,Shanghai Shenhua,Beijing Guoan,1.0,1.0
 2398159,263135,Beijing Guoan,Shanghai Port,,
 2398160,263135,Chengdu Rongcheng,Shandong Taishan,,
 2398161,263135,Shandong Taishan,Beijing Guoan,,
@@ -80785,3 +80785,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2398172,263135,Shanghai Shenhua,Shanghai Port,,
 2398173,263135,Shandong Taishan,Shanghai Shenhua,,
 2398174,263135,Chengdu Rongcheng,Beijing Guoan,,
+2397995,263123,Leipzig,Frankfurt,1,2
+2397996,263123,B Dortmund,Stuttgart,1,0
+2397997,263123,Stuttgart,Leipzig,0,1
+2397998,263123,Frankfurt,Bayern Munchen,0,0
+2397999,263123,Bayern Munchen,Stuttgart,2,2
+2398000,263123,Leipzig,B Dortmund,4,1
+2398001,263123,B Dortmund,Bayern Munchen,2,1
+2398002,263123,Stuttgart,Frankfurt,1,1
+2398003,263123,Frankfurt,B Dortmund,,
+2398004,263123,Bayern Munchen,Leipzig,,
+2398005,263123,Frankfurt,Leipzig,,
+2398006,263123,Stuttgart,B Dortmund,,
+2398007,263123,Leipzig,Stuttgart,,
+2398008,263123,Bayern Munchen,Frankfurt,,
+2398009,263123,Stuttgart,Bayern Munchen,,
+2398010,263123,B Dortmund,Leipzig,,
+2398011,263123,Bayern Munchen,B Dortmund,,
+2398012,263123,Frankfurt,Stuttgart,,
+2398013,263123,B Dortmund,Frankfurt,,
+2398014,263123,Leipzig,Bayern Munchen,,
