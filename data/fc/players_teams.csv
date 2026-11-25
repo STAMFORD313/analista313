@@ -80885,18 +80885,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2398858,263166,Nottm Forest,Brighton,,
 2398859,263166,Newcastle,Nottm Forest,,
 2398860,263166,Aston Villa,Man Utd,,
-2398015,263127,Atleti,Barcelona,3,1
-2398016,263127,Athletic Club,Real Madrid,3,0
-2398017,263127,Real Madrid,Atleti,1,2
-2398018,263127,Barcelona,Villarreal,3,0
-2398019,263127,Villarreal,Real Madrid,2,1
-2398020,263127,Atleti,Athletic Club,1,1
-2398021,263127,Athletic Club,Villarreal,0,0
-2398022,263127,Real Madrid,Barcelona,2,1
-2398023,263127,Barcelona,Athletic Club,1,0
-2398024,263127,Villarreal,Atleti,2,1
-2398025,263127,Barcelona,Atleti,0,3
-2398026,263127,Real Madrid,Athletic Club,2,3
+2398015,263127,Atleti,Barcelona,3.0,1.0
+2398016,263127,Athletic Club,Real Madrid,3.0,0.0
+2398017,263127,Real Madrid,Atleti,1.0,2.0
+2398018,263127,Barcelona,Villarreal,3.0,0.0
+2398019,263127,Villarreal,Real Madrid,2.0,1.0
+2398020,263127,Atleti,Athletic Club,1.0,1.0
+2398021,263127,Athletic Club,Villarreal,0.0,0.0
+2398022,263127,Real Madrid,Barcelona,2.0,1.0
+2398023,263127,Barcelona,Athletic Club,1.0,0.0
+2398024,263127,Villarreal,Atleti,2.0,1.0
+2398025,263127,Barcelona,Atleti,0.0,3.0
+2398026,263127,Real Madrid,Athletic Club,2.0,3.0
 2398027,263127,Atleti,Real Madrid,,
 2398028,263127,Villarreal,Barcelona,,
 2398029,263127,Real Madrid,Villarreal,,
@@ -80905,3 +80905,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2398032,263127,Barcelona,Real Madrid,,
 2398033,263127,Athletic Club,Barcelona,,
 2398034,263127,Atleti,Villarreal,,
+2398713,263129,Spain,Argentina,2,1
+2398714,263129,France,England,0,2
+2398715,263129,England,Spain,3,2
+2398716,263129,Argentina,Germany,1,2
+2398717,263129,Germany,England,2,1
+2398718,263129,Spain,France,4,0
+2398719,263129,France,Germany,,
+2398720,263129,England,Argentina,,
+2398721,263129,Argentina,France,,
+2398722,263129,Germany,Spain,,
+2398723,263129,Argentina,Spain,,
+2398724,263129,England,France,,
+2398725,263129,Spain,England,,
+2398726,263129,Germany,Argentina,,
+2398727,263129,England,Germany,,
+2398728,263129,France,Spain,,
+2398729,263129,Germany,France,,
+2398730,263129,Argentina,England,,
+2398731,263129,France,Argentina,,
+2398732,263129,Spain,Germany,,
