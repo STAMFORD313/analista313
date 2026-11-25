@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grand Canyon Lopes vs Saint Louis Billikens — 25/11 · 03:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 163.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **159.8** puntos · línea 163.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Grand Canyon Lopes ❌✅✅✅✅ | Saint Louis Billikens ✅✅✅❌❌  
-• H2H: 2 desde 2024: 1-1  
-• Bajas: Grand Canyon Lopes: sin bajas; Saint Louis Billikens: sin bajas  
-
-## Grand Canyon Lopes vs Saint Louis Billikens — 25/11 · 03:30
-
-👀 candidata · 🏀 NCAA Basketball · **Grand Canyon Lopes -1.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Grand Canyon Lopes cubre -1.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Grand Canyon Lopes ❌✅✅✅✅ | Saint Louis Billikens ✅✅✅❌❌  
-• H2H: 2 desde 2024: 1-1  
-• Bajas: Grand Canyon Lopes: sin bajas; Saint Louis Billikens: sin bajas  
-
-## Grand Canyon Lopes vs Saint Louis Billikens — 25/11 · 03:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Grand Canyon Lopes** @ **1.77** (DraftKings) · prob 54% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.136 partidos y bajas)  
-Gana Grand Canyon Lopes 61% · Gana Saint Louis Billikens 39%  
-Casas: Grand Canyon Lopes 54% · Saint Louis Billikens 46%  
-Hándicap GCU -1.5 · Total puntos 163.5  
-🔎 **Claves**  
-• Forma: Grand Canyon Lopes ❌✅✅✅✅ | Saint Louis Billikens ✅✅✅❌❌  
-• H2H: 2 desde 2024: 1-1  
-• Bajas: Grand Canyon Lopes: sin bajas; Saint Louis Billikens: sin bajas  
-• Favorito de las casas: Grand Canyon Lopes @ 1.77  
+Actualizado 25/11/2026 03:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado State Rams vs VCU Rams — 25/11 · 04:30
 

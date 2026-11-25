@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 03:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## San Jose Earthquakes vs Houston Dynamo — 25/11 · 04:00
 

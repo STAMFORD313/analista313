@@ -80315,14 +80315,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2397222,263054,Germany,Portugal,,
 2397223,263054,Belgium,Germany,,
 2397224,263054,Netherlands,Morocco,,
-2396685,263005,England,Spain,2,1
-2396686,263005,France,Argentina,3,0
-2396687,263005,Argentina,England,0,2
-2396688,263005,Spain,Germany,2,0
-2396689,263005,Germany,Argentina,1,1
-2396690,263005,England,France,0,0
-2396691,263005,France,Germany,3,0
-2396692,263005,Argentina,Spain,1,0
+2396685,263005,England,Spain,2.0,1.0
+2396686,263005,France,Argentina,3.0,0.0
+2396687,263005,Argentina,England,0.0,2.0
+2396688,263005,Spain,Germany,2.0,0.0
+2396689,263005,Germany,Argentina,1.0,1.0
+2396690,263005,England,France,0.0,0.0
+2396691,263005,France,Germany,3.0,0.0
+2396692,263005,Argentina,Spain,1.0,0.0
 2396693,263005,Spain,France,,
 2396694,263005,Germany,England,,
 2396695,263005,Spain,England,,
@@ -80335,3 +80335,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2396702,263005,Spain,Argentina,,
 2396703,263005,France,Spain,,
 2396704,263005,England,Germany,,
+2396505,263026,Paris,Bayern Munchen,0,0
+2396506,263026,Liverpool,Atleti,2,1
+2396507,263026,Atleti,Paris,0,0
+2396508,263026,Bayern Munchen,Real Madrid,1,0
+2396509,263026,Real Madrid,Atleti,1,2
+2396510,263026,Paris,Liverpool,1,0
+2396511,263026,Liverpool,Real Madrid,0,1
+2396512,263026,Atleti,Bayern Munchen,3,2
+2396513,263026,Bayern Munchen,Liverpool,4,1
+2396514,263026,Real Madrid,Paris,1,1
+2396515,263026,Bayern Munchen,Paris,,
+2396516,263026,Atleti,Liverpool,,
+2396517,263026,Paris,Atleti,,
+2396518,263026,Real Madrid,Bayern Munchen,,
+2396519,263026,Atleti,Real Madrid,,
+2396520,263026,Liverpool,Paris,,
+2396521,263026,Real Madrid,Liverpool,,
+2396522,263026,Bayern Munchen,Atleti,,
+2396523,263026,Liverpool,Bayern Munchen,,
+2396524,263026,Paris,Real Madrid,,
+2396737,263030,Atleti,Real Madrid,2,2
+2396738,263030,Atleti,Barcelona,5,0
+2396739,263030,Real Madrid,Barcelona,2,1
+2396740,263030,Real Madrid,Atleti,,
+2396741,263030,Barcelona,Atleti,,
+2396742,263030,Barcelona,Real Madrid,,
+2396743,263030,Atleti,Real Madrid,,
+2396744,263030,Atleti,Barcelona,,
+2396745,263030,Real Madrid,Barcelona,,
+2396746,263030,Real Madrid,Atleti,,

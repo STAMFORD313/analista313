@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 25/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 03:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sabah FK vs Barcelona — 25/11 · 18:45
 
