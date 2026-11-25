@@ -81396,12 +81396,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2399210,263167,River Plate,Boca Juniors,,
 2399211,263167,Racing Club,Boca Juniors,,
 2399212,263167,Racing Club,River Plate,,
-2398941,263161,Chelsea,Liverpool,1,0
-2398942,263161,Arsenal,Man City,6,1
-2398943,263161,Man City,Chelsea,2,1
-2398944,263161,Liverpool,Tottenham,3,2
-2398945,263161,Tottenham,Man City,0,0
-2398946,263161,Chelsea,Arsenal,0,0
+2398941,263161,Chelsea,Liverpool,1.0,0.0
+2398942,263161,Arsenal,Man City,6.0,1.0
+2398943,263161,Man City,Chelsea,2.0,1.0
+2398944,263161,Liverpool,Tottenham,3.0,2.0
+2398945,263161,Tottenham,Man City,0.0,0.0
+2398946,263161,Chelsea,Arsenal,0.0,0.0
 2398947,263161,Arsenal,Tottenham,,
 2398948,263161,Man City,Liverpool,,
 2398949,263161,Liverpool,Arsenal,,
@@ -81416,3 +81416,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2398958,263161,Liverpool,Man City,,
 2398959,263161,Arsenal,Liverpool,,
 2398960,263161,Chelsea,Tottenham,,
+2399081,263114,Roma,Juventus,5,0
+2399082,263114,Napoli,Sassuolo,2,1
+2399083,263114,Sassuolo,Roma,1,0
+2399084,263114,Juventus,Bologna,1,0
+2399085,263114,Bologna,Sassuolo,0,1
+2399086,263114,Roma,Napoli,2,1
+2399087,263114,Napoli,Bologna,0,0
+2399088,263114,Sassuolo,Juventus,1,2
+2399089,263114,Juventus,Napoli,,
+2399090,263114,Bologna,Roma,,
+2399091,263114,Juventus,Roma,,
+2399092,263114,Sassuolo,Napoli,,
+2399093,263114,Roma,Sassuolo,,
+2399094,263114,Bologna,Juventus,,
+2399095,263114,Sassuolo,Bologna,,
+2399096,263114,Napoli,Roma,,
+2399097,263114,Bologna,Napoli,,
+2399098,263114,Juventus,Sassuolo,,
+2399099,263114,Napoli,Juventus,,
+2399100,263114,Roma,Bologna,,
