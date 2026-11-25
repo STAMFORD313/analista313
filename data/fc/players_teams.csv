@@ -80585,3 +80585,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2397812,263094,Aston Villa,Nottm Forest,,
 2397813,263094,Man Utd,Aston Villa,,
 2397814,263094,Newcastle,Brighton,,
+2397895,263107,Napoli,Sassuolo,2,2
+2397896,263107,Roma,Bologna,1,3
+2397897,263107,Bologna,Napoli,3,2
+2397898,263107,Sassuolo,Juventus,2,1
+2397899,263107,Juventus,Bologna,1,2
+2397900,263107,Napoli,Roma,2,2
+2397901,263107,Roma,Juventus,1,3
+2397902,263107,Bologna,Sassuolo,1,2
+2397903,263107,Sassuolo,Roma,,
+2397904,263107,Juventus,Napoli,,
+2397905,263107,Sassuolo,Napoli,,
+2397906,263107,Bologna,Roma,,
+2397907,263107,Napoli,Bologna,,
+2397908,263107,Juventus,Sassuolo,,
+2397909,263107,Bologna,Juventus,,
+2397910,263107,Roma,Napoli,,
+2397911,263107,Juventus,Roma,,
+2397912,263107,Sassuolo,Bologna,,
+2397913,263107,Roma,Sassuolo,,
+2397914,263107,Napoli,Juventus,,
+2398135,263136,Middlesbrough,Wolves,2,2
+2398136,263136,West Ham,Burnley,0,3
+2398137,263136,Burnley,Middlesbrough,1,2
+2398138,263136,Wolves,Southampton,1,4
+2398139,263136,Southampton,Burnley,2,2
+2398140,263136,Middlesbrough,West Ham,0,4
+2398141,263136,West Ham,Southampton,1,0
+2398142,263136,Burnley,Wolves,1,1
+2398143,263136,Wolves,West Ham,,
+2398144,263136,Southampton,Middlesbrough,,
+2398145,263136,Wolves,Middlesbrough,,
+2398146,263136,Burnley,West Ham,,
+2398147,263136,Middlesbrough,Burnley,,
+2398148,263136,Southampton,Wolves,,
+2398149,263136,Burnley,Southampton,,
+2398150,263136,West Ham,Middlesbrough,,
+2398151,263136,Southampton,West Ham,,
+2398152,263136,Wolves,Burnley,,
+2398153,263136,West Ham,Wolves,,
+2398154,263136,Middlesbrough,Southampton,,
+2398801,263162,Marseille,Nice,3,1
+2398802,263162,Monaco,Paris,0,2
+2398803,263162,Paris,Marseille,5,2
+2398804,263162,Nice,Lyon,3,0
+2398805,263162,Lyon,Paris,2,3
+2398806,263162,Marseille,Monaco,1,1
+2398807,263162,Monaco,Lyon,0,2
+2398808,263162,Paris,Nice,2,1
+2398809,263162,Nice,Monaco,0,1
+2398810,263162,Lyon,Marseille,2,5
+2398811,263162,Nice,Marseille,1,0
+2398812,263162,Paris,Monaco,2,0
+2398813,263162,Marseille,Paris,,
+2398814,263162,Lyon,Nice,,
+2398815,263162,Paris,Lyon,,
+2398816,263162,Monaco,Marseille,,
+2398817,263162,Lyon,Monaco,,
+2398818,263162,Nice,Paris,,
+2398819,263162,Monaco,Nice,,
+2398820,263162,Marseille,Lyon,,
