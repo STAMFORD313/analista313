@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 19:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grêmio vs RUSH — 25/11 · 20:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Grêmio** @ **2.07** (Thunderpick) · prob 45% vs casas 44% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.233 partidos)  
-Mapa: Grêmio 46% · Serie BO3: Grêmio 45% - 55% RUSH  
-Casas: Grêmio 45% · RUSH 55%  
-🔎 **Claves**  
-• Elo: Grêmio 1541 (58 series) | RUSH 1579 (38 series)  
-• Forma: Grêmio ✅✅❌✅✅ | RUSH ✅✅✅✅✅  
-• H2H: 3: 1-2  
-• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Grêmio gana 2-1: 20% → cuota justa 4.93  
-• RUSH gana 2-1: 23% → cuota justa 4.27  
+Actualizado 25/11/2026 20:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Elusive vs Villainous — 26/11 · 03:00
 

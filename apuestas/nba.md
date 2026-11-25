@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 25/11/2026 19:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 145.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **152.6** puntos · línea 145.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Arizona State Sun Devils ✅✅✅✅✅ | LSU Tigers ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Arizona State Sun Devils: sin bajas; LSU Tigers: sin bajas  
-
-## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
-
-👀 candidata · 🏀 NCAA Basketball · **Arizona State Sun Devils -4.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Arizona State Sun Devils cubre -4.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Arizona State Sun Devils ✅✅✅✅✅ | LSU Tigers ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Arizona State Sun Devils: sin bajas; LSU Tigers: sin bajas  
-
-## Arizona State Sun Devils vs LSU Tigers — 25/11 · 20:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Arizona State Sun Devils** @ **1.50** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.205 partidos y bajas)  
-Gana Arizona State Sun Devils 70% · Gana LSU Tigers 30%  
-Casas: Arizona State Sun Devils 64% · LSU Tigers 36%  
-Hándicap LSU -4.5 · Total puntos 145.5  
-🔎 **Claves**  
-• Forma: Arizona State Sun Devils ✅✅✅✅✅ | LSU Tigers ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Arizona State Sun Devils: sin bajas; LSU Tigers: sin bajas  
-• Favorito de las casas: Arizona State Sun Devils @ 1.50  
+Actualizado 25/11/2026 20:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## VCU Rams vs Washington Huskies — 26/11 · 04:00
 
