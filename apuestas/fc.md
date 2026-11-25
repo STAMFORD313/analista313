@@ -1,44 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 25/11/2026 21:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 25/11/2026 21:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Dicca vs Lukapaja — 25/11 · 21:31
+## SDI vs CIDCUDI — 25/11 · 21:56
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.20** (Unibet) · prob 52% vs casas 39% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana CIDCUDI** @ **3.30** (Unibet) · prob 37% vs casas 27% · ventaja +22%
 
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.204 partidos)  
-Goles esperados: Dicca 3.18 · Lukapaja 2.62  
-Ganador: Dicca 51% · empate 19% · Lukapaja 30%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap Dicca: −1.5 34% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 81.223 partidos)  
+Goles esperados: SDI 3.18 · CIDCUDI 3.01  
+Ganador: SDI 44% · empate 19% · CIDCUDI 37%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap SDI: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Dicca ✅➖✅✅❌ | Lukapaja ➖❌➖➖✅  
-• Partidos: Dicca 1031 | Lukapaja 140  
-• Liga: Serie A  
-• Unibet: 1 2.20 · X 3.10 · 2 2.65 (sin margen 39%/28%/33%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.20 (+13%) · Paf España 2.20 (+13%)  
-
-## cosske vs Joop — 25/11 · 21:34
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana cosske** @ **1.60** (Unibet) · prob 68% vs casas 55% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 81.204 partidos)  
-Goles esperados: cosske 3.76 · Joop 2.25  
-Ganador: cosske 68% · empate 15% · Joop 17%  
-Total: más de 6.5 goles 39% · menos 61%  
-Hándicap cosske: −1.5 49% · −2.5 33%  
-🔎 **Claves**  
-• Forma: cosske ❌✅❌➖❌ | Joop ➖✅➖❌❌  
-• Partidos: cosske 291 | Joop 348  
-• Liga: Premier League  
-• Unibet: 1 1.60 · X 4.50 · 2 3.45 (sin margen 55%/20%/25%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.60 (+9%) · Paf España 1.60 (+9%)  
+• Forma: SDI ❌❌❌✅✅ | CIDCUDI ✅✅❌❌➖  
+• Partidos: SDI 838 | CIDCUDI 110  
+• Liga: Copa America  
+• Unibet: 1 1.55 · X 5.40 · 2 3.30 (sin margen 57%/16%/27%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.30 (+22%) · Paf España 3.30 (+22%)  
 
 ## mixes vs Joop — 25/11 · 21:58
 
@@ -58,4 +39,23 @@ Hándicap mixes: −1.5 34% · −2.5 20%
 • Liga: Premier League  
 • Unibet: 1 2.32 · X 3.90 · 2 2.16 (sin margen 37%/22%/40%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.32 (+17%) · Paf España 2.32 (+17%)  
+
+## Gazi vs spirtes — 25/11 · 22:08
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Gazi** @ **2.70** (Unibet) · prob 41% vs casas 32% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.223 partidos)  
+Goles esperados: Gazi 2.58 · spirtes 2.85  
+Ganador: Gazi 41% · empate 20% · spirtes 39%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap spirtes: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Gazi ❌✅✅➖➖ | spirtes ✅✅➖✅❌  
+• Partidos: Gazi 669 | spirtes 1442  
+• Liga: Copa America  
+• Unibet: 1 2.70 · X 5.40 · 2 1.70 (sin margen 32%/16%/51%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+10%) · Paf España 2.70 (+10%)  
 

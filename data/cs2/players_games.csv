@@ -35078,3 +35078,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194289,134515,butterfly-vs-lunacy-team-25-11-2026,2026-11-25T12:20:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,24855,25636,Butterfly,Lunacy,1,de_nuke,24855,13.0,10.0
 194297,134518,team-aces-vs-maybe-ukr-25-11-2026,2026-11-25T15:40:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,25564,24681,Aces,MAYBE,2,de_mirage,25564,13.0,6.0
 194298,134518,team-aces-vs-maybe-ukr-25-11-2026,2026-11-25T15:40:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,25564,24681,Aces,MAYBE,1,de_dust2,25564,13.0,4.0
+194293,134517,aimclub-vs-noir-verse-25-11-2026,2026-11-25T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10014,24506,aimclub,Noir Verse,3,de_mirage,10014,13.0,4.0
+194294,134517,aimclub-vs-noir-verse-25-11-2026,2026-11-25T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10014,24506,aimclub,Noir Verse,2,de_anubis,24506,13.0,6.0
+194295,134517,aimclub-vs-noir-verse-25-11-2026,2026-11-25T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10014,24506,aimclub,Noir Verse,1,de_cache,10014,13.0,8.0
