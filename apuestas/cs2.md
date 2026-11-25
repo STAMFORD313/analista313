@@ -1,58 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 08:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## 9z vs DENDELE — 25/11 · 09:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana DENDELE** @ **2.30** (Thunderpick) · prob 46% vs casas 40% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: 9z 51% · Serie BO3: 9z 47% - 53% DENDELE  
-Casas: 9z 60% · DENDELE 40%  
-🔎 **Claves**  
-• Elo: 9z 1883 (366 series) | DENDELE 1872 (33 series)  
-• Forma: 9z ❌❌❌❌❌ | DENDELE ✅✅✅❌❌  
-• H2H: sin precedentes  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): 9z: history 6.2, HUASOPEEK 6.1 | DENDELE: koala 6.8, doc 6.7  
-• Mapas (último año): 9z: fuerte overpass 74%, débil cache 29% | DENDELE: fuerte inferno 75%, débil ancient 38%  
-• Química de la plantilla: 9z: 161 mapas juntos de media | DENDELE: 402 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• 9z gana 2-1: 22% → cuota justa 4.45 · casa 27%  
-• DENDELE gana 2-1: 22% → cuota justa 4.64 · casa 19%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-9z: history 36 (21-53) · luchov 36 (21-53) · dgt 35 (20-52) · HUASOPEEK 34 (20-51) · max 31 (18-46)  
-DENDELE: doc 36 (21-53) · koala 35 (20-51) · rdnzao 33 (19-48) · maxxkor 32 (18-48) · gafolo 29 (16-43)  
-
-## Imperial vs FlyQuest — 25/11 · 09:00
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana FlyQuest** @ **1.72** (Thunderpick) · prob 56% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: Imperial 47% · Serie BO3: Imperial 42% - 58% FlyQuest  
-Casas: Imperial 46% · FlyQuest 54%  
-🔎 **Claves**  
-• Elo: Imperial 1924 (430 series) | FlyQuest 1959 (181 series)  
-• Forma: Imperial ✅✅❌✅✅ | FlyQuest ✅✅✅✅✅  
-• H2H: 1: 0-1  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Imperial: saadzin 6.9, decenty 6.4 | FlyQuest: INS 6.6, nettik 6.2  
-• Mapas (último año): Imperial: fuerte nuke 70%, débil overpass 50% | FlyQuest: fuerte anubis 81%, débil nuke 40%  
-• Química de la plantilla: Imperial: 210 mapas juntos de media | FlyQuest: 142 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Imperial gana 2-1: 20% → cuota justa 4.89 · casa 22%  
-• FlyQuest gana 2-1: 23% → cuota justa 4.29 · casa 24%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-Imperial: decenty 36 (21-53) · noway 34 (19-50) · saadzin 34 (19-50) · chelo 33 (19-48) · VINI 32 (18-47)  
-FlyQuest: Vexite 37 (21-55) · jks 36 (21-53) · nettik 35 (20-51) · aliStair 34 (20-51) · INS 34 (19-50)  
+Actualizado 25/11/2026 09:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ninjas in Pyjamas vs Liquid — 25/11 · 11:30
 
