@@ -4186,5 +4186,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261125081903072436",
+  "creada": "2026-11-25 08:19:03.072482+00:00",
+  "titulo": "Barrido · Combinada cuota 6.2",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-25 09:30:00+00:00",
+    "home": "Imabari",
+    "away": "Tegevajaro Miyazaki",
+    "txt": "Gana Tegevajaro Miyazaki",
+    "odds": 1.83,
+    "p": 0.5959
+   },
+   {
+    "code": null,
+    "start": "2026-11-25 10:00:00+00:00",
+    "home": "Montedio Yamagata",
+    "away": "Jubilo Iwata",
+    "txt": "Gana Jubilo Iwata",
+    "odds": 2.02,
+    "p": 0.5405
+   },
+   {
+    "code": null,
+    "start": "2026-11-25 10:00:00+00:00",
+    "home": "Sagan Tosu",
+    "away": "Oita Trinita",
+    "txt": "Gana Sagan Tosu",
+    "odds": 1.68,
+    "p": 0.6207
+   }
+  ],
+  "odds": 6.21,
+  "p": 0.199917507765,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
