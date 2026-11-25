@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 25/11/2026 11:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Urawa Reds vs Cerezo Osaka — 25/11 · 11:30
-
-👀 candidata · 🇯🇵 J1 League · **Gana Urawa Reds** @ **1.76** (Bet365) · prob 52% vs casas 52% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.87 - 1.13)  
-1 51% · X 25% · 2 24%  
-1X 76% · X2 49% · 12 75%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 58%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Urawa Reds ✅✅❌➖❌ | Cerezo Osaka ➖➖❌✅❌  
-• H2H: 24 desde 2012: 6V-6E-12D · 2.5 goles/partido · +2.5 en 46%  
-• Bajas: Urawa Reds: sin bajas; Cerezo Osaka: sin bajas  
-• Favorito de las casas: Urawa Reds @ 1.76  
+Actualizado 25/11/2026 11:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cremonese vs Avellino — 25/11 · 19:00
 

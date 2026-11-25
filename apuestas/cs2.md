@@ -1,58 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 25/11/2026 11:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Ninjas in Pyjamas vs Liquid — 25/11 · 11:30
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana Ninjas in Pyjamas** @ **1.95** (Thunderpick) · prob 49% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: Ninjas in Pyjamas 52% · Serie BO3: Ninjas in Pyjamas 51% - 49% Liquid  
-Casas: Ninjas in Pyjamas 47% · Liquid 53%  
-🔎 **Claves**  
-• Elo: Ninjas in Pyjamas 1972 (352 series) | Liquid 1948 (305 series)  
-• Forma: Ninjas in Pyjamas ✅❌❌✅✅ | Liquid ❌✅❌✅✅  
-• H2H: 10: 4-6  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Ninjas in Pyjamas: xKacpersky 6.7, sjuush 6.2 | Liquid: EliGE 6.5, NAF 6.3  
-• Mapas (último año): Ninjas in Pyjamas: fuerte nuke 73%, débil overpass 17% | Liquid: fuerte inferno 65%, débil dust2 22%  
-• Química de la plantilla: Ninjas in Pyjamas: 96 mapas juntos de media | Liquid: 100 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Ninjas in Pyjamas gana 2-1: 23% → cuota justa 4.36 · casa 23%  
-• Liquid gana 2-1: 21% → cuota justa 4.76 · casa 24%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-Ninjas in Pyjamas: xKacpersky 36 (21-53) · stavn 36 (21-53) · adamb 35 (20-52) · sjuush 33 (19-49) · Krimbo 33 (19-48)  
-Liquid: EliGE 37 (21-54) · malbsMd 34 (20-51) · Jorko 34 (20-51) · NAF 33 (19-48) · JT 30 (17-44)  
-
-## BC.Game vs Chinggis Warriors — 25/11 · 11:30
-
-👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 1 · **Gana BC.Game** @ **1.15** (Thunderpick) · prob 76% vs casas 81% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: BC.Game 65% · Serie BO3: BC.Game 71% - 29% Chinggis Warriors  
-Casas: BC.Game 81% · Chinggis Warriors 19%  
-🔎 **Claves**  
-• Elo: BC.Game 1816 (257 series) | Chinggis Warriors 1653 (185 series)  
-• Forma: BC.Game ✅❌❌❌❌ | Chinggis Warriors ❌✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: PGL Major Singapore 2026 Stage 1 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): BC.Game: Senzu 6.0, s1mple 5.7 | Chinggis Warriors: sk0R 6.2, fury5k 5.8  
-• Mapas (último año): BC.Game: fuerte cache 67%, débil anubis 0% | Chinggis Warriors: fuerte nuke 60%, débil inferno 33%  
-• Química de la plantilla: BC.Game: 70 mapas juntos de media | Chinggis Warriors: 16 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• BC.Game gana 2-1: 25% → cuota justa 4.03 · casa 27%  
-• Chinggis Warriors gana 2-1: 13% → cuota justa 7.45 · casa 9% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.458 casos: log-loss 0.6821→0.6564; sin cuotas de props, solo referencia)  
-BC.Game: s1mple 38 (22-57) · Senzu 37 (22-55) · asap 36 (20-53) · mzinho 34 (19-50) · Magisk 32 (18-47)  
-Chinggis Warriors: sk0R 36 (21-53) · cool4st 32 (18-47) · ROUX 31 (18-46) · tikuak 31 (18-46) · fury5k 30 (17-45)  
+Actualizado 25/11/2026 11:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ryvex vs LVLT — 25/11 · 12:30
 
