@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 03:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Monterrey vs Club America — 26/11 · 04:10
-
-👀 candidata · 🇲🇽 Liga MX · **Empate** @ **3.50** (Bet365) · prob 27% vs casas 27% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.55)  
-1 36% · X 27% · 2 37%  
-1X 63% · X2 64% · 12 73%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Monterrey ❌➖❌✅✅ | Club America ❌➖➖➖❌  
-• H2H: 41 desde 2012: 11V-12E-18D · 2.6 goles/partido · +2.5 en 54%  
-• Bajas: Monterrey: sin bajas; Club America: 0 fuera, 1 duda  
-• Favorito de las casas: Monterrey @ 2.33  
+Actualizado 26/11/2026 04:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sao Paulo vs Remo — 27/11 · 00:00
 
