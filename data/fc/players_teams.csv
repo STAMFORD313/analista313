@@ -82053,14 +82053,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2400678,263272,Aston Villa,Man Utd,,
 2400679,263272,Newcastle,Aston Villa,,
 2400680,263272,Nottm Forest,Brighton,,
-2399563,263212,Juventus,Sporting CP,1,1
-2399564,263212,Arsenal,Man City,1,4
-2399565,263212,Man City,Juventus,2,1
-2399566,263212,Sporting CP,B Dortmund,0,2
-2399567,263212,B Dortmund,Man City,3,1
-2399568,263212,Juventus,Arsenal,2,2
-2399569,263212,Arsenal,B Dortmund,0,1
-2399570,263212,Man City,Sporting CP,1,2
+2399563,263212,Juventus,Sporting CP,1.0,1.0
+2399564,263212,Arsenal,Man City,1.0,4.0
+2399565,263212,Man City,Juventus,2.0,1.0
+2399566,263212,Sporting CP,B Dortmund,0.0,2.0
+2399567,263212,B Dortmund,Man City,3.0,1.0
+2399568,263212,Juventus,Arsenal,2.0,2.0
+2399569,263212,Arsenal,B Dortmund,0.0,1.0
+2399570,263212,Man City,Sporting CP,1.0,2.0
 2399571,263212,Sporting CP,Arsenal,,
 2399572,263212,B Dortmund,Juventus,,
 2399573,263212,Sporting CP,Juventus,,
@@ -82073,13 +82073,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2399580,263212,Sporting CP,Man City,,
 2399581,263212,Arsenal,Sporting CP,,
 2399582,263212,Juventus,B Dortmund,,
-2399803,263234,Chengdu Rongcheng,Shanghai Shenhua,2,2
-2399804,263234,Shandong Taishan,Shanghai Port,0,2
-2399805,263234,Shanghai Port,Chengdu Rongcheng,2,0
-2399806,263234,Shanghai Shenhua,Beijing Guoan,0,0
-2399807,263234,Beijing Guoan,Shanghai Port,1,5
-2399808,263234,Chengdu Rongcheng,Shandong Taishan,2,2
-2399809,263234,Shandong Taishan,Beijing Guoan,1,1
-2399810,263234,Shanghai Port,Shanghai Shenhua,3,1
+2399803,263234,Chengdu Rongcheng,Shanghai Shenhua,2.0,2.0
+2399804,263234,Shandong Taishan,Shanghai Port,0.0,2.0
+2399805,263234,Shanghai Port,Chengdu Rongcheng,2.0,0.0
+2399806,263234,Shanghai Shenhua,Beijing Guoan,0.0,0.0
+2399807,263234,Beijing Guoan,Shanghai Port,1.0,5.0
+2399808,263234,Chengdu Rongcheng,Shandong Taishan,2.0,2.0
+2399809,263234,Shandong Taishan,Beijing Guoan,1.0,1.0
+2399810,263234,Shanghai Port,Shanghai Shenhua,3.0,1.0
 2399811,263234,Shanghai Shenhua,Shandong Taishan,,
 2399812,263234,Beijing Guoan,Chengdu Rongcheng,,
+2399643,263230,Villarreal,Real Madrid,2,3
+2399644,263230,Atleti,Athletic Club,1,0
+2399645,263230,Athletic Club,Villarreal,3,1
+2399646,263230,Real Madrid,Barcelona,3,0
+2399647,263230,Barcelona,Athletic Club,1,0
+2399648,263230,Villarreal,Atleti,2,3
+2399649,263230,Atleti,Barcelona,1,0
+2399650,263230,Athletic Club,Real Madrid,0,0
+2399651,263230,Real Madrid,Atleti,0,1
+2399652,263230,Barcelona,Villarreal,1,1
+2399653,263230,Real Madrid,Villarreal,,
+2399654,263230,Athletic Club,Atleti,0,0
+2399655,263230,Villarreal,Athletic Club,,
+2399656,263230,Barcelona,Real Madrid,,
+2399657,263230,Athletic Club,Barcelona,,
+2399658,263230,Atleti,Villarreal,,
+2399659,263230,Barcelona,Atleti,,
+2399660,263230,Real Madrid,Athletic Club,,
+2399661,263230,Atleti,Real Madrid,,
+2399662,263230,Villarreal,Barcelona,,
