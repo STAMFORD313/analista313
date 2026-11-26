@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 21:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 21:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
 
