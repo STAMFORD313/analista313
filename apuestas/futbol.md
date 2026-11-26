@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 02:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 02:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Monterrey vs Club America — 26/11 · 04:10
 
