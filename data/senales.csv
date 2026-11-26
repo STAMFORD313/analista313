@@ -6282,3 +6282,53 @@ fecha,deporte,mercado,p,implied,odds,edge,gano,retorno,clv,apostada,ia,ia_aposta
 2026-11-25,🎮⚽,H,0.738,0.586,1.5,0.107,1,1.5,,0,,,2026-11-25T22:13,b5dc66d,,Unibet
 2026-11-25,🎮⚽,H,0.497,0.368,2.35,0.167,1,2.35,,0,,,2026-11-25T22:42,f2e5c44,,Unibet
 2026-11-25,🎮⚽,H,0.651,0.542,1.62,0.054,1,1.62,,0,,,2026-11-25T22:42,f2e5c44,,Unibet
+2026-11-25,⚽,corners_h_o,0.572,0.543,1.65,-0.056,1,1.65,,0,,,2026-11-24T18:24,bb0ac5e,"Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",Unibet
+2026-11-25,⚽,corners_h_u,0.561,0.583,1.54,-0.136,1,1.54,,0,,,2026-11-24T18:24,bb0ac5e,"Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",Unibet
+2026-11-25,⚽,corners_t_o,0.554,0.552,1.62,-0.103,1,1.62,,0,,,2026-11-24T18:24,bb0ac5e,"Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",Unibet
+2026-11-25,⚽,corners_t_u,0.666,0.649,1.38,-0.081,1,1.38,,0,,,2026-11-24T18:24,bb0ac5e,"Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",Unibet
+2026-11-25,⚽,corners_a_o,0.498,0.535,1.68,-0.163,1,1.68,,0,,,2026-11-24T18:24,bb0ac5e,"Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",Unibet
+2026-11-25,⚽,corners_a_u,0.502,0.465,1.93,-0.031,0,0.0,,0,,,2026-11-24T18:24,bb0ac5e,"Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti); Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",Unibet
+2026-11-25,⚽,corners_h_o,0.45,0.411,2.18,-0.02,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,Mantova: sin bajas; Arezzo: sin bajas,Unibet
+2026-11-25,⚽,corners_h_u,0.55,0.589,1.52,-0.164,1,1.52,,0,,,2026-11-24T19:23,0a6b4ff,Mantova: sin bajas; Arezzo: sin bajas,Unibet
+2026-11-25,⚽,corners_t_o,0.558,0.524,1.71,-0.046,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,Mantova: sin bajas; Arezzo: sin bajas,Unibet
+2026-11-25,⚽,corners_t_u,0.554,0.578,1.55,-0.141,1,1.55,,0,,,2026-11-24T19:23,0a6b4ff,Mantova: sin bajas; Arezzo: sin bajas,Unibet
+2026-11-25,⚽,corners_a_o,0.492,0.504,1.78,-0.123,1,1.78,,0,,,2026-11-24T19:23,0a6b4ff,Mantova: sin bajas; Arezzo: sin bajas,Unibet
+2026-11-25,⚽,corners_a_u,0.508,0.496,1.81,-0.081,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,Mantova: sin bajas; Arezzo: sin bajas,Unibet
+2026-11-25,⚽,corners_t_o,0.588,0.595,1.5,-0.118,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,"Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_t_u,0.634,0.61,1.47,-0.069,1,1.47,,0,,,2026-11-24T19:23,0a6b4ff,"Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_h_o,0.621,0.606,1.48,-0.081,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,"Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_h_u,0.528,0.532,1.68,-0.113,1,1.68,,0,,,2026-11-24T19:23,0a6b4ff,"Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_a_o,0.501,0.522,1.72,-0.138,1,1.72,,0,,,2026-11-24T19:23,0a6b4ff,"Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_a_u,0.632,0.602,1.49,-0.059,1,1.49,,0,,,2026-11-24T19:23,0a6b4ff,"Padova: 0 fuera, 2 duda; Sampdoria: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_h_o,0.436,0.382,2.35,0.025,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,"Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_h_u,0.564,0.618,1.45,-0.183,1,1.45,,0,,,2026-11-24T19:23,0a6b4ff,"Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_t_o,0.422,0.385,2.33,-0.017,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,"Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_t_u,0.578,0.615,1.46,-0.156,1,1.46,,0,,,2026-11-24T19:23,0a6b4ff,"Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_a_o,0.468,0.475,1.89,-0.116,0,0.0,,0,,,2026-11-24T19:23,0a6b4ff,"Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_a_u,0.532,0.525,1.71,-0.09,1,1.71,,0,,,2026-11-24T19:23,0a6b4ff,"Pisa: 1 fuera, 1 duda (Henrik Meister); Modena: 0 fuera, 4 duda",Unibet
+2026-11-25,⚽,corners_h_o,0.55,0.516,1.78,-0.021,0,0.0,,0,,,2026-11-24T19:53,01f87d4,Bolton: sin bajas; West Brom: sin bajas,Unibet
+2026-11-25,⚽,corners_h_u,0.699,0.714,1.28,-0.106,1,1.28,,0,,,2026-11-24T19:53,01f87d4,Bolton: sin bajas; West Brom: sin bajas,Unibet
+2026-11-25,⚽,corners_t_o,0.72,0.708,1.3,-0.065,0,0.0,,0,,,2026-11-24T19:53,01f87d4,Bolton: sin bajas; West Brom: sin bajas,Unibet
+2026-11-25,⚽,corners_t_u,0.769,0.752,1.22,-0.062,1,1.22,,0,,,2026-11-24T19:53,01f87d4,Bolton: sin bajas; West Brom: sin bajas,Unibet
+2026-11-25,⚽,corners_a_o,0.601,0.625,1.47,-0.117,0,0.0,,0,,,2026-11-24T19:53,01f87d4,Bolton: sin bajas; West Brom: sin bajas,Unibet
+2026-11-25,⚽,corners_a_u,0.399,0.375,2.45,-0.022,1,2.45,,0,,,2026-11-24T19:53,01f87d4,Bolton: sin bajas; West Brom: sin bajas,Unibet
+2026-11-25,⚽,corners_h_o,0.411,0.379,2.43,-0.001,1,2.43,,0,,,2026-11-24T19:53,01f87d4,"Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_h_u,0.704,0.727,1.26,-0.113,0,0.0,,0,,,2026-11-24T19:53,01f87d4,"Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_t_o,0.735,0.717,1.28,-0.059,1,1.28,,0,,,2026-11-24T19:53,01f87d4,"Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_t_u,0.695,0.689,1.33,-0.076,0,0.0,,0,,,2026-11-24T19:53,01f87d4,"Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_a_o,0.627,0.648,1.41,-0.116,1,1.41,,0,,,2026-11-24T19:53,01f87d4,"Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_a_u,0.526,0.496,1.85,-0.027,0,0.0,,0,,,2026-11-24T19:53,01f87d4,"Burnley: 0 fuera, 2 duda; Birmingham: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_t_o,0.669,0.679,1.35,-0.097,1,1.35,,0,,,2026-11-24T19:53,01f87d4,"Watford: sin bajas; Blackburn: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_t_u,0.652,0.621,1.48,-0.035,1,1.48,,0,,,2026-11-24T19:53,01f87d4,"Watford: sin bajas; Blackburn: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_a_o,0.65,0.673,1.36,-0.116,1,1.36,,0,,,2026-11-24T19:53,01f87d4,"Watford: sin bajas; Blackburn: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_a_u,0.632,0.588,1.56,-0.015,1,1.56,,0,,,2026-11-24T19:53,01f87d4,"Watford: sin bajas; Blackburn: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_h_o,0.712,0.694,1.32,-0.06,1,1.32,,0,,,2026-11-24T19:53,01f87d4,"Watford: sin bajas; Blackburn: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_h_u,0.676,0.673,1.36,-0.08,1,1.36,,0,,,2026-11-24T19:53,01f87d4,"Watford: sin bajas; Blackburn: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_t_o,0.707,0.701,1.3,-0.081,0,0.0,,0,,,2026-11-24T20:23,7effa9c,"Stoke: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_t_u,0.703,0.684,1.34,-0.058,1,1.34,,0,,,2026-11-24T20:23,7effa9c,"Stoke: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_h_o,0.534,0.512,1.79,-0.044,0,0.0,,0,,,2026-11-24T20:23,7effa9c,"Stoke: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_h_u,0.688,0.694,1.32,-0.091,1,1.32,,0,,,2026-11-24T20:23,7effa9c,"Stoke: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_a_o,0.607,0.633,1.45,-0.12,1,1.45,,0,,,2026-11-24T20:23,7effa9c,"Stoke: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-25,⚽,corners_a_u,0.546,0.51,1.8,-0.017,0,0.0,,0,,,2026-11-24T20:23,7effa9c,"Stoke: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-25,🎮⚽,A,0.562,0.412,2.12,0.191,1,2.12,,0,,,2026-11-25T23:46,e1cdb21,,Unibet
+2026-11-25,🎮⚽,A,0.72,0.588,1.5,0.08,1,1.5,,0,,,2026-11-25T23:46,e1cdb21,,Unibet

@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 00:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Boca Juniors vs Ind. Rivadavia — 26/11 · 01:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Boca Juniors** @ **1.57** (Bet365) · prob 59% vs casas 59% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.46 - 0.60)  
-1 58% · X 25% · 2 17%  
-1X 83% · X2 42% · 12 75%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 35%  
-Marcadores: 1-0 18% · 2-0 14% · 0-0 13% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Boca Juniors ➖✅✅✅✅ | Ind. Rivadavia ❌➖❌✅➖  
-• H2H: 3 desde 2024: 2V-1E-0D · 2.3 goles/partido · +2.5 en 33%  
-• Bajas: Boca Juniors: sin bajas; Ind. Rivadavia: sin bajas  
-• Favorito de las casas: Boca Juniors @ 1.57  
+Actualizado 26/11/2026 01:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Toluca vs Atlas — 26/11 · 02:00
 

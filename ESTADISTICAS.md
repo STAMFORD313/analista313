@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 26/11/2026 00:46
+Actualizado: 26/11/2026 01:17
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 
@@ -29,11 +29,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 1506 | 28% | 21% | 0.168 | 0.164 | -14.5 % |
-| 40%-55% | 2137 | 48% | 43% | 0.245 | 0.242 | -8.6 % |
-| 55%-70% | 1470 | 62% | 59% | 0.240 | 0.241 | -4.0 % |
-| 70%-100% | 928 | 78% | 80% | 0.159 | 0.162 | -1.5 % |
-| Total | 6041 | 51% | 47% | 0.212 | 0.210 | -7.9 % |
+| 0%-40% | 1507 | 28% | 21% | 0.168 | 0.164 | -14.4 % |
+| 40%-55% | 2152 | 48% | 43% | 0.245 | 0.241 | -8.7 % |
+| 55%-70% | 1496 | 62% | 60% | 0.239 | 0.240 | -3.7 % |
+| 70%-100% | 936 | 78% | 79% | 0.160 | 0.163 | -1.7 % |
+| Total | 6091 | 51% | 47% | 0.212 | 0.210 | -7.8 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -42,7 +42,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ? | ganador | 2 | 42% | 50% | 0.237 | 0.227 | +27.0 % |
 | nba | ganador | 1 | 63% | 100% | 0.138 | 0.162 | +67.6 % |
 | nfl | ganador | 3 | 44% | 33% | 0.147 | 0.133 | -35.8 % |
-| ⚽ | corners | 1740 | 62% | 63% | 0.217 | 0.217 | -6.6 % |
+| ⚽ | corners | 1788 | 62% | 63% | 0.217 | 0.217 | -6.5 % |
 | ⚽ | ganador | 298 | 47% | 47% | 0.194 | 0.194 | -9.7 % |
 | ⚽ | goles/totales | 49 | 49% | 41% | 0.232 | 0.229 | -21.1 % |
 | ⚽ | hándicap | 124 | 50% | 48% | 0.247 | 0.247 | -7.0 % |
@@ -50,7 +50,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽💎⚽ | goles/totales | 27 | 50% | 59% | 0.251 | 0.251 | +27.3 % |
 | 🎮 | ganador | 225 | 55% | 50% | 0.222 | 0.216 | -13.6 % |
 | 🎮 | hándicap | 17 | 44% | 41% | 0.216 | 0.222 | +4.5 % |
-| 🎮⚽ | ganador | 2456 | 41% | 34% | 0.203 | 0.199 | -7.4 % |
+| 🎮⚽ | ganador | 2458 | 41% | 34% | 0.203 | 0.199 | -7.3 % |
 | 🏀 | ganador | 135 | 71% | 67% | 0.165 | 0.167 | -5.9 % |
 | 🏀 | goles/totales | 36 | 50% | 69% | 0.248 | 0.249 | +32.4 % |
 | 🏀 | hándicap | 33 | 50% | 39% | 0.247 | 0.247 | -25.1 % |
