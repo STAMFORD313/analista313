@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 01:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Toluca vs Atlas — 26/11 · 02:00
 
