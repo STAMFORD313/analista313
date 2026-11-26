@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 17:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 17:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## kanufriev vs Gazi — 26/11 · 17:38
+## Paka vs Rodja — 26/11 · 18:08
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.80** (Unibet) · prob 21% vs casas 15% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Paka** @ **2.38** (Unibet) · prob 44% vs casas 36% · ventaja +6%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.198 partidos)  
-Goles esperados: kanufriev 2.80 · Gazi 2.47  
-Ganador: kanufriev 40% · empate 21% · Gazi 40%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap kanufriev: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 82.220 partidos)  
+Goles esperados: Paka 2.77 · Rodja 2.55  
+Ganador: Paka 44% · empate 20% · Rodja 35%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap Paka: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: kanufriev ✅✅❌❌❌ | Gazi ✅✅❌❌➖  
-• Partidos: kanufriev 150 | Gazi 683  
-• Liga: A-League  
-• Unibet: 1 1.72 · X 5.80 · 2 2.60 (sin margen 51%/15%/34%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+19%) · Paf España 5.80 (+19%)  
+• Forma: Paka ✅➖❌✅✅ | Rodja ✅✅✅❌➖  
+• Partidos: Paka 1140 | Rodja 1223  
+• Liga: World Cup B  
+• Unibet: 1 2.38 · X 3.60 · 2 2.20 (sin margen 36%/24%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+6%) · Paf España 2.38 (+6%)  
 
 ## Bosko vs Piljar — 26/11 · 18:26
 
