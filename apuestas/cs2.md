@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 26/11/2026 12:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Young TigeRES vs ABT — 26/11 · 12:30
-
-👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana ABT** @ **2.30** (Thunderpick) · prob 41% vs casas 40% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.273 partidos)  
-Mapa: Young TigeRES 55% · Serie BO3: Young TigeRES 58% - 42% ABT  
-Casas: Young TigeRES 60% · ABT 40%  
-🔎 **Claves**  
-• Elo: Young TigeRES 1610 (76 series) | ABT 1551 (27 series)  
-• Forma: Young TigeRES ✅❌✅❌❌ | ABT ✅❌✅✅❌  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 11 Play-In (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Young TigeRES gana 2-1: 24% → cuota justa 4.17  
-• ABT gana 2-1: 19% → cuota justa 5.19  
+Actualizado 26/11/2026 12:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MOUZ NXT vs MASONIC — 27/11 · 10:00
 
