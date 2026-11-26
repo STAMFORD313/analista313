@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 21:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
-
-👀 candidata · 🏈 NFL · **Más de 48.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **51.1** puntos · línea 48.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Dallas Cowboys ✅❌✅❌✅ | Philadelphia Eagles ❌❌❌❌✅  
-• H2H: 20 desde 2017: 11-9  
-• Bajas: Dallas Cowboys: 7 fuera, 18 duda (Jake Ferguson, DaRon Bland, P.J. Locke); Philadelphia Eagles: 3 fuera, 22 duda (Smael Mondon Jr., Zack Baun, Dontayvion Wicks)  
-
-## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
-
-👀 candidata · 🏈 NFL · **Dallas Cowboys -8.5** @ **1.90** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Dallas Cowboys cubre -8.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Dallas Cowboys ✅❌✅❌✅ | Philadelphia Eagles ❌❌❌❌✅  
-• H2H: 20 desde 2017: 11-9  
-• Bajas: Dallas Cowboys: 7 fuera, 18 duda (Jake Ferguson, DaRon Bland, P.J. Locke); Philadelphia Eagles: 3 fuera, 22 duda (Smael Mondon Jr., Zack Baun, Dontayvion Wicks)  
-
-## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
-
-👀 candidata · 🏈 NFL · **Gana Dallas Cowboys** @ **1.20** (DraftKings) · prob 80% vs casas 80% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.300 partidos y bajas)  
-Gana Dallas Cowboys 71% · Gana Philadelphia Eagles 29%  
-Casas: Dallas Cowboys 80% · Philadelphia Eagles 20%  
-Hándicap DAL -8.5 · Total puntos 48.5  
-🔎 **Claves**  
-• Forma: Dallas Cowboys ✅❌✅❌✅ | Philadelphia Eagles ❌❌❌❌✅  
-• H2H: 20 desde 2017: 11-9  
-• Bajas: Dallas Cowboys: 7 fuera, 18 duda (Jake Ferguson, DaRon Bland, P.J. Locke); Philadelphia Eagles: 3 fuera, 22 duda (Smael Mondon Jr., Zack Baun, Dontayvion Wicks)  
-• Favorito de las casas: Dallas Cowboys @ 1.20  
+Actualizado 26/11/2026 22:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
 

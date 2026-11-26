@@ -82463,3 +82463,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2400598,263225,Chelsea,Liverpool,,
 2400599,263225,Arsenal,Chelsea,,
 2400600,263225,Man City,Tottenham,,
+2399985,263203,Real Madrid,Bayern Munchen,1,1
+2399986,263203,Liverpool,Paris,0,2
+2399987,263203,Paris,Real Madrid,0,2
+2399988,263203,Bayern Munchen,Atleti,1,0
+2399989,263203,Atleti,Paris,0,0
+2399990,263203,Real Madrid,Liverpool,1,0
+2399991,263203,Liverpool,Atleti,2,1
+2399992,263203,Paris,Bayern Munchen,1,0
+2399993,263203,Bayern Munchen,Liverpool,2,0
+2399994,263203,Atleti,Real Madrid,0,2
+2399995,263203,Bayern Munchen,Real Madrid,0,2
+2399996,263203,Paris,Liverpool,1,4
+2399997,263203,Real Madrid,Paris,3,0
+2399998,263203,Atleti,Bayern Munchen,0,2
+2399999,263203,Paris,Atleti,,
+2400000,263203,Liverpool,Real Madrid,,
+2400001,263203,Atleti,Liverpool,,
+2400002,263203,Bayern Munchen,Paris,,
+2400003,263203,Liverpool,Bayern Munchen,,
+2400004,263203,Real Madrid,Atleti,,
+2399873,263236,Ecuador,Argentina,1,3
+2399874,263236,Colombia,Brazil,0,5
+2399875,263236,Brazil,Ecuador,2,2
+2399876,263236,Argentina,Uruguay,2,1
+2399877,263236,Uruguay,Brazil,2,0
+2399878,263236,Ecuador,Colombia,2,2
+2399879,263236,Colombia,Uruguay,1,1
+2399880,263236,Brazil,Argentina,1,2
+2399881,263236,Argentina,Colombia,1,1
+2399882,263236,Uruguay,Ecuador,1,1
+2400531,263261,Sporting CP,Man City,1,0
+2400532,263261,B Dortmund,Arsenal,3,3
+2400533,263261,Arsenal,Sporting CP,2,0
+2400534,263261,Man City,Juventus,3,2
+2400535,263261,Juventus,Arsenal,1,3
+2400536,263261,Sporting CP,B Dortmund,3,3
+2400537,263261,B Dortmund,Juventus,3,1
+2400538,263261,Arsenal,Man City,1,0
+2400539,263261,Man City,B Dortmund,,
+2400540,263261,Juventus,Sporting CP,,
+2400741,263265,Real Madrid,Barcelona,1,2
+2400742,263265,Villarreal,Atleti,0,2
+2400743,263265,Atleti,Real Madrid,1,3
+2400744,263265,Barcelona,Athletic Club,3,0
+2400745,263265,Athletic Club,Atleti,0,1
+2400746,263265,Real Madrid,Villarreal,2,3
+2400747,263265,Villarreal,Athletic Club,0,2
+2400748,263265,Atleti,Barcelona,3,0
+2400749,263265,Barcelona,Villarreal,,
+2400750,263265,Athletic Club,Real Madrid,,
+2400751,263265,Barcelona,Real Madrid,,
+2400752,263265,Atleti,Villarreal,,
+2400753,263265,Real Madrid,Atleti,,
+2400754,263265,Athletic Club,Barcelona,,
+2400755,263265,Atleti,Athletic Club,,
+2400756,263265,Villarreal,Real Madrid,,
+2400757,263265,Athletic Club,Villarreal,,
+2400758,263265,Barcelona,Atleti,,
+2400759,263265,Villarreal,Barcelona,,
+2400760,263265,Real Madrid,Athletic Club,,
