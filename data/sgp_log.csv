@@ -880,13 +880,13 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-25,Sporting CP vs Manchester United,larga,5,0.1521,1,5,0.6849,,,0,,Menos de 13.5 faltas de Manchester United + Menos de 4.5 tiros a puerta de Manchester United + Menos de 5.5 tarjetas + Más de 2.5 goles + Menos de 4.5 córners de Manchester United,11111
 2026-11-25,Cremonese vs Avellino,corta,3,0.3551,0,2,0.6943,,,0,,Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas,101
 2026-11-25,Cremonese vs Avellino,larga,5,0.1629,0,3,0.6668,,,0,,Menos de 2.5 tarjetas de Cremonese + Menos de 4.5 córners de Avellino + Menos de 27.5 faltas + Menos de 3.5 tiros a puerta de Avellino + Menos de 2.5 goles,10101
-2026-11-25,Cremonese vs Avellino,valor,2,0.4295,0,1,0.6589,2.52,0.081,1,-1.0,Menos de 4.5 córners de Avellino + Menos de 2.5 goles,01
+2026-11-25,Cremonese vs Avellino,valor,2,0.4295,0,1,0.6589,2.52,0.081,1,-1.0,Menos de 4.5 córners de Avellino + Menos de 2.5 goles,1
 2026-11-25,Mantova vs Arezzo,corta,3,0.3051,0,2,0.6843,,,0,,Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova,101
 2026-11-25,Mantova vs Arezzo,larga,4,0.2018,0,3,0.6612,,,0,,Más de 27.5 faltas + Menos de 4.5 córners de Arezzo + Menos de 2.5 tarjetas de Mantova + Menos de 3.5 tiros a puerta de Arezzo,1011
 2026-11-25,Padova vs Sampdoria,corta,3,0.3492,1,3,0.7012,,,0,,Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova,111
 2026-11-25,Padova vs Sampdoria,larga,5,0.1208,0,3,0.6546,,,0,,Menos de 5.5 tiros a puerta de Padova + Menos de 5.5 córners de Padova + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Más de 13.5 faltas de Padova,11100
-2026-11-25,Pisa vs Modena,corta,3,0.2767,0,2,0.6454,,,0,,Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa,011
-2026-11-25,Pisa vs Modena,larga,4,0.1577,0,2,0.628,,,0,,Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners,0110
+2026-11-25,Pisa vs Modena,corta,3,0.2767,0,2,0.6454,,,0,,Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa,11
+2026-11-25,Pisa vs Modena,larga,4,0.1577,0,2,0.628,,,0,,Menos de 13.5 faltas de Pisa + Menos de 2.5 tarjetas de Modena + Menos de 5.5 tiros a puerta de Pisa + Más de 9.5 córners,110
 2026-11-25,Bolton vs West Brom,corta,3,0.3838,1,3,0.7139,,,0,,Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom,111
 2026-11-25,Bolton vs West Brom,larga,4,0.2413,0,3,0.6797,,,0,,Menos de 2.5 tarjetas de Bolton + Menos de 11.5 faltas de Bolton + Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom,1110
 2026-11-25,Bolton vs West Brom,valor,2,0.4134,0,1,0.6186,1.94,-0.198,0,,Más de 3.5 tiros a puerta de West Brom + Más de 4.5 córners de West Brom,10
@@ -898,3 +898,4 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-25,Stoke vs Millwall,corta,3,0.3695,0,2,0.7091,,,0,,Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta,110
 2026-11-25,Stoke vs Millwall,larga,5,0.1511,0,2,0.6612,,,0,,Menos de 11.5 faltas de Stoke + Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Menos de 4.5 córners de Millwall,11000
 2026-11-25,Stoke vs Millwall,valor,3,0.3375,0,1,0.662,4.37,0.474,1,-1.0,Menos de 2.5 tarjetas de Stoke + Menos de 8.5 tiros a puerta + Menos de 2.5 goles,100
+2026-11-26,Los Angeles Rams vs Green Bay Packers,nfl,2,0.2078,0,1,0.4495,4.59,-0.047,0,,Gana Green Bay Packers + Menos de 45.5 puntos,01
