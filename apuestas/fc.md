@@ -1,63 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 15:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bjela vs Lx7ss — 26/11 · 15:58
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Lx7ss** @ **2.63** (Unibet) · prob 41% vs casas 33% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.085 partidos)  
-Goles esperados: Bjela 2.97 · Lx7ss 2.97  
-Ganador: Bjela 40% · empate 19% · Lx7ss 41%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap Bjela: −1.5 26% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Bjela ➖➖✅❌✅ | Lx7ss ✅✅✅❌✅  
-• Partidos: Bjela 1015 | Lx7ss 1249  
-• Liga: Serie A  
-• Unibet: 1 1.86 · X 4.40 · 2 2.63 (sin margen 47%/20%/33%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.63 (+8%) · Paf España 2.63 (+8%)  
-
-## pikalicaaa vs Firminho — 26/11 · 16:01
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Firminho** @ **2.04** (Unibet) · prob 55% vs casas 43% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.085 partidos)  
-Goles esperados: pikalicaaa 2.73 · Firminho 3.53  
-Ganador: pikalicaaa 28% · empate 18% · Firminho 55%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Firminho: −1.5 38% · −2.5 24%  
-🔎 **Claves**  
-• Forma: pikalicaaa ❌✅❌✅✅ | Firminho ✅➖✅✅❌  
-• Partidos: pikalicaaa 855 | Firminho 1015  
-• Liga: Europa League  
-• Unibet: 1 2.25 · X 4.75 · 2 2.04 (sin margen 39%/18%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.04 (+12%) · Paf España 2.04 (+12%)  
-
-## Mani vs Linox — 26/11 · 16:01
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.50** (Unibet) · prob 23% vs casas 19% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.109 partidos)  
-Goles esperados: Mani 2.11 · Linox 2.15  
-Ganador: Mani 38% · empate 23% · Linox 38%  
-Total: más de 4.5 goles 42% · menos 58%  
-Hándicap Linox: −1.5 23% · −2.5 11%  
-🔎 **Claves**  
-• Forma: Mani ❌❌❌❌✅ | Linox ➖✅❌✅❌  
-• Partidos: Mani 1151 | Linox 958  
-• Liga: Europa League  
-• Unibet: 1 2.25 · X 4.50 · 2 2.08 (sin margen 39%/19%/42%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.50 (+5%) · Paf España 4.50 (+5%)  
+Actualizado 26/11/2026 16:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Piljar vs Bosko — 26/11 · 16:36
 
@@ -77,4 +20,42 @@ Hándicap Piljar: −1.5 52% · −2.5 38%
 • Liga: International A 2x6  
 • Unibet: 1 1.66 · X 6.50 · 2 2.65 (sin margen 53%/14%/33%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.66 (+13%) · Paf España 1.66 (+13%)  
+
+## cosske vs Djape — 26/11 · 16:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.75** (Unibet) · prob 16% vs casas 13% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.138 partidos)  
+Goles esperados: cosske 3.94 · Djape 3.25  
+Ganador: cosske 55% · empate 16% · Djape 28%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap cosske: −1.5 38% · −2.5 25%  
+🔎 **Claves**  
+• Forma: cosske ✅✅➖❌✅ | Djape ❌❌✅✅❌  
+• Partidos: cosske 297 | Djape 379  
+• Liga: Champions League B  
+• Unibet: 1 1.55 · X 6.75 · 2 2.80 (sin margen 56%/13%/31%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.75 (+10%) · Paf España 6.75 (+10%)  
+
+## Djape vs Joop — 26/11 · 16:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.40** (Unibet) · prob 17% vs casas 14% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.138 partidos)  
+Goles esperados: Djape 3.54 · Joop 2.53  
+Ganador: Djape 60% · empate 17% · Joop 23%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Djape: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: Djape ❌❌✅✅❌ | Joop ❌❌❌❌❌  
+• Partidos: Djape 379 | Joop 354  
+• Liga: Champions League B  
+• Unibet: 1 1.46 · X 6.40 · 2 3.25 (sin margen 60%/14%/27%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.40 (+9%) · Paf España 6.40 (+9%)  
 
