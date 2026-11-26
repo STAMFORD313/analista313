@@ -3938,7 +3938,9 @@
     "away": "Noah",
     "txt": "Gana Noah",
     "odds": 1.98,
-    "p": 0.5342
+    "p": 0.5342,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
