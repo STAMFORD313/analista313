@@ -82523,18 +82523,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2400758,263265,Barcelona,Atleti,,
 2400759,263265,Villarreal,Barcelona,,
 2400760,263265,Real Madrid,Athletic Club,,
-2400361,263216,Brazil,France,1,2
-2400362,263216,Argentina,England,1,1
-2400363,263216,England,Brazil,1,3
-2400364,263216,France,Spain,2,2
-2400365,263216,Spain,England,0,0
-2400366,263216,Brazil,Argentina,2,1
-2400367,263216,Argentina,Spain,1,2
-2400368,263216,England,France,0,1
-2400369,263216,France,Argentina,3,1
-2400370,263216,Spain,Brazil,0,0
-2400371,263216,France,Brazil,0,1
-2400372,263216,England,Argentina,1,0
+2400361,263216,Brazil,France,1.0,2.0
+2400362,263216,Argentina,England,1.0,1.0
+2400363,263216,England,Brazil,1.0,3.0
+2400364,263216,France,Spain,2.0,2.0
+2400365,263216,Spain,England,0.0,0.0
+2400366,263216,Brazil,Argentina,2.0,1.0
+2400367,263216,Argentina,Spain,1.0,2.0
+2400368,263216,England,France,0.0,1.0
+2400369,263216,France,Argentina,3.0,1.0
+2400370,263216,Spain,Brazil,0.0,0.0
+2400371,263216,France,Brazil,0.0,1.0
+2400372,263216,England,Argentina,1.0,0.0
 2400373,263216,Brazil,England,,
 2400374,263216,Spain,France,,
 2400375,263216,England,Spain,,
@@ -82543,14 +82543,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2400378,263216,France,England,,
 2400379,263216,Argentina,France,,
 2400380,263216,Brazil,Spain,,
-2399663,263224,Benfica,Vitoria SC,1,2
-2399664,263224,Porto,Braga,2,0
-2399665,263224,Braga,Benfica,2,0
-2399666,263224,Vitoria SC,Sporting CP,1,1
-2399667,263224,Sporting CP,Braga,1,1
-2399668,263224,Benfica,Porto,2,1
-2399669,263224,Porto,Sporting CP,0,0
-2399670,263224,Braga,Vitoria SC,0,1
+2399663,263224,Benfica,Vitoria SC,1.0,2.0
+2399664,263224,Porto,Braga,2.0,0.0
+2399665,263224,Braga,Benfica,2.0,0.0
+2399666,263224,Vitoria SC,Sporting CP,1.0,1.0
+2399667,263224,Sporting CP,Braga,1.0,1.0
+2399668,263224,Benfica,Porto,2.0,1.0
+2399669,263224,Porto,Sporting CP,0.0,0.0
+2399670,263224,Braga,Vitoria SC,0.0,1.0
 2399671,263224,Vitoria SC,Porto,,
 2399672,263224,Sporting CP,Benfica,,
 2399673,263224,Vitoria SC,Benfica,,
