@@ -35089,3 +35089,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194015,134391,heroic-vs-faze-26-11-2026,2026-11-26T06:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,759,791,HEROIC,FaZe,1,de_mirage,759,13.0,3.0
 194020,134393,lynn-vision-vs-parivision-26-11-2026,2026-11-26T09:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,476,8171,Lynn Vision,PARIVISION,2,de_dust2,8171,13.0,10.0
 194021,134393,lynn-vision-vs-parivision-26-11-2026,2026-11-26T09:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,476,8171,Lynn Vision,PARIVISION,1,de_ancient,8171,13.0,7.0
+194016,134392,100-thieves-vs-9z-26-11-2026,2026-11-26T09:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,464,324,100 Thieves,9z,3,de_ancient,464,13.0,5.0
+194017,134392,100-thieves-vs-9z-26-11-2026,2026-11-26T09:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,464,324,100 Thieves,9z,2,de_dust2,464,13.0,6.0
+194018,134392,100-thieves-vs-9z-26-11-2026,2026-11-26T09:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,464,324,100 Thieves,9z,1,de_nuke,324,13.0,5.0
