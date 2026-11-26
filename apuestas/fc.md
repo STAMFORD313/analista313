@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 23:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 23:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## k0mych vs URIST — 26/11 · 23:18
+## kkikus vs Nightxx — 26/11 · 23:43
 
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana k0mych** @ **2.70** (Unibet) · prob 42% vs casas 32% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **7.50** (Unibet) · prob 15% vs casas 12% · ventaja +12%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.511 partidos)  
+Goles esperados: kkikus 2.27 · Nightxx 3.77  
+Ganador: kkikus 16% · empate 15% · Nightxx 69%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Nightxx: −1.5 49% · −2.5 33%  
+🔎 **Claves**  
+• Forma: kkikus ❌❌❌❌❌ | Nightxx ✅✅✅❌➖  
+• Partidos: kkikus 1296 | Nightxx 1177  
+• Liga: World Cup A  
+• Unibet: 1 4.80 · X 7.50 · 2 1.24 (sin margen 18%/12%/70%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+12%) · Paf España 7.50 (+12%)  
+
+## hotShot vs OG — 26/11 · 23:46
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana OG** @ **3.80** (Unibet) · prob 29% vs casas 23% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.491 partidos)  
-Goles esperados: k0mych 4.27 · URIST 4.18  
-Ganador: k0mych 42% · empate 16% · URIST 42%  
-Total: más de 8.5 goles 47% · menos 53%  
-Hándicap k0mych: −1.5 31% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 82.511 partidos)  
+Goles esperados: hotShot 2.50 · OG 2.04  
+Ganador: hotShot 49% · empate 22% · OG 29%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
 🔎 **Claves**  
-• Forma: k0mych ✅❌➖❌❌ | URIST ❌✅❌❌❌  
-• Partidos: k0mych 461 | URIST 188  
-• Liga: Argentina Super League 2x6  
-• Unibet: 1 2.70 · X 5.00 · 2 1.75 (sin margen 32%/18%/50%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+14%) · Paf España 2.70 (+14%)  
+• Forma: hotShot ✅➖✅➖➖ | OG ✅❌➖❌❌  
+• Partidos: hotShot 808 | OG 813  
+• Liga: Portugal Primera  
+• Unibet: 1 2.20 · X 2.30 · 2 3.80 (sin margen 39%/38%/23%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.80 (+10%) · Paf España 3.80 (+10%)  
 
-## kkikus vs believer — 26/11 · 23:19
+## kkikus vs Kavviro — 27/11 · 00:05
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **9.50** (Unibet) · prob 12% vs casas 9% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **7.00** (Unibet) · prob 16% vs casas 12% · ventaja +11%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.491 partidos)  
-Goles esperados: kkikus 1.62 · believer 3.80  
-Ganador: kkikus 8% · empate 11% · believer 81%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap believer: −1.5 61% · −2.5 43%  
+📊 **Escenarios** (Poisson por jugador, 82.511 partidos)  
+Goles esperados: kkikus 1.35 · Kavviro 2.86  
+Ganador: kkikus 10% · empate 16% · Kavviro 74%  
+Total: más de 4.5 goles 41% · menos 59%  
+Hándicap Kavviro: −1.5 49% · −2.5 30%  
 🔎 **Claves**  
-• Forma: kkikus ✅❌❌❌❌ | believer ❌✅✅✅❌  
-• Partidos: kkikus 1294 | believer 1401  
-• Liga: World Cup A  
-• Unibet: 1 8.50 · X 9.50 · 2 1.09 (sin margen 10%/9%/80%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 9.50 (+9%) · Paf España 9.50 (+9%)  
-
-## Simaponika vs kkikus — 26/11 · 23:31
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.10** (Unibet) · prob 20% vs casas 14% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.491 partidos)  
-Goles esperados: Simaponika 2.82 · kkikus 2.14  
-Ganador: Simaponika 56% · empate 20% · kkikus 25%  
-Total: más de 4.5 goles 55% · menos 45%  
-Hándicap Simaponika: −1.5 35% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Simaponika ✅❌✅✅✅ | kkikus ✅❌❌❌❌  
-• Partidos: Simaponika 1469 | kkikus 1294  
-• Liga: World Cup A  
-• Unibet: 1 1.40 · X 6.10 · 2 3.65 (sin margen 62%/14%/24%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+21%) · Paf España 6.10 (+21%)  
+• Forma: kkikus ❌❌❌❌❌ | Kavviro ❌❌✅❌➖  
+• Partidos: kkikus 1296 | Kavviro 1186  
+• Liga: Serie A  
+• Unibet: 1 8.50 · X 7.00 · 2 1.13 (sin margen 10%/12%/77%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+11%) · Paf España 7.00 (+11%)  
 
