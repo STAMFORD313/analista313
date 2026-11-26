@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 26/11/2026 10:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 11:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Besiktas vs Hapoel Be'er — 26/11 · 18:45
 
