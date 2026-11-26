@@ -1,44 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 03:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 03:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Simaponika vs tizzy — 26/11 · 03:51
+## hotShot vs OG — 26/11 · 04:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.81** (Unibet) · prob 66% vs casas 48% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hotShot** @ **2.07** (Unibet) · prob 54% vs casas 42% · ventaja +12%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 81.493 partidos)  
-Goles esperados: Simaponika 2.45 · tizzy 3.71  
-Ganador: Simaponika 19% · empate 16% · tizzy 66%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap tizzy: −1.5 45% · −2.5 30%  
-🔎 **Claves**  
-• Forma: Simaponika ✅➖❌❌❌ | tizzy ➖➖✅✅❌  
-• Partidos: Simaponika 1454 | tizzy 536  
-• Liga: Champions League B  
-• Unibet: 1 2.63 · X 4.75 · 2 1.81 (sin margen 33%/18%/48%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.81 (+19%) · Paf España 1.81 (+19%)  
-
-## Inquisitor vs Kray — 26/11 · 03:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **2.50** (Unibet) · prob 43% vs casas 35% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.493 partidos)  
-Goles esperados: Inquisitor 2.31 · Kray 2.44  
-Ganador: Inquisitor 36% · empate 22% · Kray 43%  
-Total: más de 4.5 goles 52% · menos 48%  
-Hándicap Kray: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 81.499 partidos)  
+Goles esperados: hotShot 2.57 · OG 2.06  
+Ganador: hotShot 54% · empate 21% · OG 25%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap hotShot: −1.5 31% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Inquisitor ✅❌❌✅❌ | Kray ❌✅✅➖✅  
-• Partidos: Inquisitor 826 | Kray 825  
+• Forma: hotShot ❌✅➖❌✅ | OG ❌❌✅✅❌  
+• Partidos: hotShot 792 | OG 797  
 • Liga: Champions League A  
-• Unibet: 1 2.02 · X 3.90 · 2 2.50 (sin margen 43%/22%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.50 (+7%) · Paf España 2.50 (+7%)  
+• Unibet: 1 2.07 · X 2.70 · 2 3.35 (sin margen 42%/32%/26%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.07 (+12%) · Paf España 2.07 (+12%)  
 
 ## Yerema vs Sheva — 26/11 · 04:29
 
