@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 00:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 00:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pachuca vs Guadalajara Chivas — 27/11 · 02:00
 
