@@ -1,16 +1,16 @@
 {
  "datos_futbol_jugadores": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
-  "segundos": 113,
+  "segundos": 105,
   "salida": "ESPN fútbol: 0 partidos nuevos",
   "tarea": "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"
  },
  "datos_nba_nhl": {
-  "ultima": "2026-11-26T05:37:49.781431+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
-  "segundos": 33,
-  "salida": "nhl: 11 partidos descargados, 4736 en /home/runner/work/analista313/analista313/data/nhl/box.jsonl",
+  "segundos": 25,
+  "salida": "nhl: 3 partidos descargados, 4739 en /home/runner/work/analista313/analista313/data/nhl/box.jsonl",
   "tarea": "ESPN NBA/NHL: boxscores con puntos, rebotes, asistencias, triples y tiros por jugador"
  },
  "sondeo_esports": {
@@ -21,24 +21,24 @@
   "tarea": "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"
  },
  "props_futbol": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
-  "segundos": 271,
+  "segundos": 266,
   "salida": "  To score at least 3 goals (459): real 0% · casa 3% · modelo 0% · con ventaja 1: ROI -100%",
   "tarea": "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"
  },
  "props_nba": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
   "segundos": 3,
   "salida": "  triples (48): log-loss modelo 0.708 vs casa 0.731 · con ventaja 18: ROI +44%",
   "tarea": "Props de jugador NBA: liquida las cuotas de Unibet y mide el modelo contra la casa"
  },
  "estrategias": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
   "segundos": 1,
-  "salida": "  {'segmento': 'deporte=🏈', 'n': 647, 'roi': -0.1356, 'se': 0.0364, 'roi_antigua': -0.2483, 'roi_nueva': -0.0599, 'clv': -0.0393, 'clv_se': 0.0032, 'clv_n': 299}",
+  "salida": "  {'segmento': 'deporte=🏈 · cuota=1.5-2', 'n': 457, 'roi': -0.1491, 'se': 0.0441, 'roi_antigua': -0.2315, 'roi_nueva': -0.093, 'clv': -0.0404, 'clv_se': 0.0048, 'clv_n': 129}",
   "tarea": "Busca segmentos rentables/perdedores con validación (ajusta el stake de la banca)"
  },
  "juez_mercado": {
@@ -56,10 +56,10 @@
   "tarea": "Elo por mapa/serie de CS2, Dota 2, LoL, R6 y MLBB"
  },
  "entrena_fc27": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
-  "segundos": 220,
-  "salida": "  jugador por tipo de liga: w=+0.482, log-loss 0.9789 → 0.9788 (-0.0001 ± 0.0001)",
+  "segundos": 215,
+  "salida": "  jugador por tipo de liga: w=+0.472, log-loss 0.9786 → 0.9785 (-0.0001 ± 0.0001)",
   "tarea": "Modelo y recalibración de FC 27"
  },
  "entrena_props": {
@@ -98,28 +98,28 @@
   "tarea": "NFL con nflverse (cuotas de cierre y QB desde 1999): ¿bate Elo + QB a la casa?"
  },
  "datos_pinnacle": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
   "segundos": 2,
-  "salida": "Pinnacle: 1098 mercados",
+  "salida": "Pinnacle: 2944 mercados",
   "tarea": "Pinnacle: cuotas de cierre de la casa más afinada (fútbol, NBA, NHL, esports, NFL, tenis)"
  },
  "datos_futbol_faltas": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
   "segundos": 4,
   "salida": "ESPN fútbol: 0 partidos rellenados con faltas recibidas",
   "tarea": "ESPN fútbol: rellena las faltas recibidas por jugador de los partidos ya guardados"
  },
  "datos_opendota": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
-  "segundos": 4,
+  "segundos": 2,
   "salida": "  d = pd.read_csv(OD_FILE) if OD_FILE.exists() else pd.DataFrame(columns=OD_COLS)",
   "tarea": "OpenDota: partidas profesionales de Dota 2 (nuevas e historial)"
  },
  "datos_fotmob": {
-  "ultima": "2026-11-26T11:09:47.544436+00:00",
+  "ultima": "2026-11-26T11:39:56.893601+00:00",
   "ok": true,
   "segundos": 4,
   "salida": "FotMob: 0 partidos nuevos, 41991 guardados",
