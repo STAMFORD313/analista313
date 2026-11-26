@@ -4268,7 +4268,9 @@
     "away": "Inner Circle Prospect",
     "txt": "Gana Inner Circle Prospect",
     "odds": 2.41,
-    "p": 0.44222517289073293
+    "p": 0.44222517289073293,
+    "ok": true,
+    "por": "ganó Inner Circle Prospect 2-1"
    },
    {
     "src": "esports:cs2",
@@ -4279,7 +4281,9 @@
     "away": "Vitality Academy",
     "txt": "Gana TTG Esports",
     "odds": 1.61,
-    "p": 0.6453786749482401
+    "p": 0.6453786749482401,
+    "ok": true,
+    "por": "ganó TTG Esports 2-1"
    }
   ],
   "odds": 7.33,
@@ -4303,7 +4307,9 @@
     "away": "Inner Circle x Insanity",
     "txt": "Gana Team Spirit Academy",
     "odds": 2.32,
-    "p": 0.49765632183908043
+    "p": 0.49765632183908043,
+    "ok": false,
+    "por": "ganó Inner Circle x Insanity 2-1"
    },
    {
     "src": "esports:dota2",
@@ -4329,9 +4335,9 @@
   "odds": 9.9,
   "p": 0.14108526915154196,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261126180739658136",
