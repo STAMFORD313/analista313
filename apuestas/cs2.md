@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 26/11/2026 07:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 07:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KAMUI vs Tulpar — 26/11 · 10:00
 
