@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 08:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 08:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Smetana vs kamito — 26/11 · 08:14
+## MeLToSik vs Flewless_phoenix — 26/11 · 08:48
 
-👀 candidata · 🎮⚽ FC 27 · MLS · **Empate** @ **8.00** (Unibet) · prob 14% vs casas 11% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **5.00** (Unibet) · prob 22% vs casas 17% · ventaja +13%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 81.697 partidos)  
-Goles esperados: Smetana 4.34 · kamito 2.81  
-Ganador: Smetana 67% · empate 14% · kamito 19%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Smetana: −1.5 50% · −2.5 35%  
-🔎 **Claves**  
-• Forma: Smetana ✅❌✅✅✅ | kamito ✅❌❌❌❌  
-• Partidos: Smetana 1509 | kamito 752  
-• Liga: MLS  
-• Unibet: 1 1.40 · X 8.00 · 2 3.30 (sin margen 63%/11%/27%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.00 (+14%) · Paf España 8.00 (+14%)  
-
-## Wboy vs Bomb1to — 26/11 · 08:21
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.40** (Unibet) · prob 34% vs casas 26% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.697 partidos)  
-Goles esperados: Wboy 3.13 · Bomb1to 3.44  
-Ganador: Wboy 34% · empate 18% · Bomb1to 48%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap Bomb1to: −1.5 32% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 81.725 partidos)  
+Goles esperados: MeLToSik 2.37 · Flewless_phoenix 3.23  
+Ganador: MeLToSik 23% · empate 18% · Flewless_phoenix 59%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Flewless_phoenix: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: Wboy ➖❌✅➖✅ | Bomb1to ✅❌✅❌❌  
-• Partidos: Wboy 1293 | Bomb1to 1517  
-• Liga: World Cup A  
-• Unibet: 1 3.40 · X 3.75 · 2 1.71 (sin margen 26%/23%/51%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.40 (+17%) · Paf España 3.40 (+17%)  
+• Forma: MeLToSik ❌✅❌❌✅ | Flewless_phoenix ✅✅✅❌❌  
+• Partidos: MeLToSik 1452 | Flewless_phoenix 226  
+• Liga: Europa League  
+• Unibet: 1 5.00 · X 5.40 · 2 1.30 (sin margen 17%/16%/67%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.00 (+13%) · Paf España 5.00 (+13%)  
+
+## Bomb1to vs Uncle — 26/11 · 09:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.25** (Unibet) · prob 37% vs casas 27% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.725 partidos)  
+Goles esperados: Bomb1to 2.68 · Uncle 2.54  
+Ganador: Bomb1to 42% · empate 21% · Uncle 37%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Bomb1to: −1.5 27% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅❌❌✅❌ | Uncle ➖➖➖✅✅  
+• Partidos: Bomb1to 1519 | Uncle 872  
+• Liga: Serie A  
+• Unibet: 1 2.30 · X 2.43 · 2 3.25 (sin margen 38%/36%/27%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.25 (+21%) · Paf España 3.25 (+21%)  
+
+## Edwardson vs Revange — 26/11 · 09:22
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Edwardson** @ **3.55** (Unibet) · prob 30% vs casas 25% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.725 partidos)  
+Goles esperados: Edwardson 1.92 · Revange 2.28  
+Ganador: Edwardson 31% · empate 23% · Revange 46%  
+Total: más de 4.5 goles 41% · menos 59%  
+Hándicap Revange: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Edwardson ❌❌✅❌❌ | Revange ✅✅✅✅❌  
+• Partidos: Edwardson 1483 | Revange 714  
+• Liga: Champions League AFC  
+• Unibet: 1 3.55 · X 4.50 · 2 1.57 (sin margen 25%/19%/56%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+8%) · Paf España 3.55 (+8%)  
 
