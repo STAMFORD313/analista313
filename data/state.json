@@ -1322,9 +1322,6 @@
   "cbb|2026-11-28|Mississippi State Bulldogs|Penn State Nittany Lions",
   "cbb|2026-11-26|San Diego State Aztecs|Maryland Terrapins",
   "cbb|2026-11-26|South Carolina Gamecocks|Arizona State Sun Devils",
-  "fc|2390938",
-  "fc|2391602",
-  "cs2|134815",
   "fc|2390864",
   "fc|2390945",
   "fc|2391667",
@@ -2324,7 +2321,10 @@
   "fc|2400530",
   "fc|2400355",
   "fc|2400358",
-  "fc|2400357"
+  "fc|2400357",
+  "fc|2400596",
+  "fc|2400598",
+  "fc|2400360"
  ],
  "signals": [
   {
@@ -26207,7 +26207,11 @@
     "confianza": null,
     "modelo": null
    },
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "close_p": 0.3893,
+   "logged": true
   },
   {
    "market": "H",
@@ -27097,7 +27101,11 @@
    "version": "96a4baa",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-4",
+   "close_p": 0.4506,
+   "logged": true
   },
   {
    "key": "vp|2026-11-26|Viktoria Plzen|Benfica",
@@ -27123,7 +27131,11 @@
     "confianza": null,
     "modelo": null
    },
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "4-0",
+   "close_p": 0.6099,
+   "logged": true
   },
   {
    "key": "vp|2026-11-26|Celta Vigo|Bournemouth",
@@ -27143,7 +27155,11 @@
    "version": "96a4baa",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": 0.4729,
+   "logged": true
   },
   {
    "key": "vp|2026-11-26|Olympiakos|AC Milan",
@@ -27164,7 +27180,11 @@
    "version": "96a4baa",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -27661,23 +27681,79 @@
    "start": "2026-11-26T20:19:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.383 partidos)",
-    "Goles esperados: pikalicaaa 1.96 · Linox 2.32",
-    "Ganador: pikalicaaa 29% · empate 23% · Linox 48%",
-    "Total: más de 4.5 goles 43% · menos 57%",
-    "Hándicap Linox: −1.5 28% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: pikalicaaa ✅✅✅❌✅ | Linox ✅❌✅✅➖",
-    "• Partidos: pikalicaaa 875 | Linox 977",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.55 · X 3.30 · 2 2.17 (sin margen 34%/26%/40%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.17 (+5%) · Paf España 2.17 (+5%)"
-   ],
    "context": "EA FC Esoccer Battle pikalicaaa vs Linox (Serie A): goles esperados 1.96-2.32, 1X2 29%/23%/48%. Sin cuotas de casa.",
    "captured": "2026-11-26T20:00",
    "version": "92182c9",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Djape",
+   "odds": 4.1,
+   "book": "Unibet",
+   "implied": 0.211,
+   "edge": 0.162,
+   "sin_stake": true,
+   "p": 0.284,
+   "key": "fc|2400596",
+   "match": "Shadow vs Djape",
+   "start": "2026-11-26T20:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.405 partidos)",
+    "Goles esperados: Shadow 3.13 · Djape 2.59",
+    "Ganador: Shadow 53% · empate 19% · Djape 28%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap Shadow: −1.5 34% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Shadow ✅❌✅➖✅ | Djape ➖✅✅➖❌",
+    "• Partidos: Shadow 189 | Djape 397",
+    "• Liga: Premier League",
+    "• Unibet: 1 1.36 · X 5.60 · 2 4.10 (sin margen 64%/15%/21%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 4.10 (+16%) · Paf España 4.10 (+16%)"
+   ],
+   "context": "EA FC Esoccer Battle Shadow vs Djape (Premier League): goles esperados 3.13-2.59, 1X2 53%/19%/28%. Sin cuotas de casa.",
+   "captured": "2026-11-26T20:30",
+   "version": "bca8444",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "cosske",
+   "odds": 1.6,
+   "book": "Unibet",
+   "implied": 0.55,
+   "edge": 0.088,
+   "sin_stake": true,
+   "p": 0.68,
+   "key": "fc|2400598",
+   "match": "cosske vs Joop",
+   "start": "2026-11-26T20:46:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.405 partidos)",
+    "Goles esperados: cosske 3.68 · Joop 2.19",
+    "Ganador: cosske 68% · empate 15% · Joop 17%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap cosske: −1.5 49% · −2.5 33%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: cosske ➖✅➖➖✅ | Joop ❌❌➖➖❌",
+    "• Partidos: cosske 316 | Joop 373",
+    "• Liga: Premier League",
+    "• Unibet: 1 1.60 · X 4.70 · 2 3.35 (sin margen 55%/19%/26%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.60 (+9%) · Paf España 1.60 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle cosske vs Joop (Premier League): goles esperados 3.68-2.19, 1X2 68%/15%/17%. Sin cuotas de casa.",
+   "captured": "2026-11-26T20:30",
+   "version": "bca8444",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -28216,555 +28292,6 @@
     "🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69",
     "🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%"
    ]
-  },
-  "uel|2026-11-26|Celta Vigo|AFC Bournemouth": {
-   "match": "Celta Vigo vs AFC Bournemouth",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3924,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7688,
-       "text": "Menos de 12.5 faltas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.732,
-       "text": "Menos de 2.5 tarjetas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6785,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1386,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7688,
-       "text": "Menos de 12.5 faltas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.732,
-       "text": "Menos de 2.5 tarjetas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6785,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6432,
-       "text": "Menos de 5.5 tiros a puerta de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6177,
-       "text": "Más de 2.5 goles",
-       "odds": 1.667
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "uel|2026-11-26|Dinamo Zagreb|Bayer Leverkusen": {
-   "match": "Dinamo Zagreb vs Bayer Leverkusen",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3924,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7688,
-       "text": "Menos de 12.5 faltas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.732,
-       "text": "Menos de 2.5 tarjetas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6785,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1386,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7688,
-       "text": "Menos de 12.5 faltas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.732,
-       "text": "Menos de 2.5 tarjetas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6785,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6432,
-       "text": "Menos de 5.5 tiros a puerta de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6177,
-       "text": "Más de 2.5 goles",
-       "odds": 1.667
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "uel|2026-11-26|Marseille|Levski Sofia": {
-   "match": "Marseille vs Levski Sofia",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3924,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7688,
-       "text": "Menos de 12.5 faltas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.732,
-       "text": "Menos de 2.5 tarjetas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6785,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1386,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7688,
-       "text": "Menos de 12.5 faltas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.732,
-       "text": "Menos de 2.5 tarjetas de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6785,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6432,
-       "text": "Menos de 5.5 tiros a puerta de Celta Vigo",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6177,
-       "text": "Más de 2.5 goles",
-       "odds": 1.667
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "uel|2026-11-26|Olympiacos|AC Milan": {
-   "match": "Olympiacos vs AC Milan",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4643,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3198,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6884,
-       "text": "Menos de 13.5 faltas de AC Milan",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "uel|2026-11-26|RB Salzburg|Ararat-Armenia": {
-   "match": "RB Salzburg vs Ararat-Armenia",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4643,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3198,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6884,
-       "text": "Menos de 13.5 faltas de AC Milan",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "uel|2026-11-26|Union St.-Gilloise|Lech Poznan": {
-   "match": "Union St.-Gilloise vs Lech Poznan",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4643,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3198,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6884,
-       "text": "Menos de 13.5 faltas de AC Milan",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
-  "uel|2026-11-26|Viktoria Plzen|Benfica": {
-   "match": "Viktoria Plzen vs Benfica",
-   "start": "2026-11-26T17:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4643,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.3198,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7773,
-       "text": "Menos de 4.5 córners de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7703,
-       "text": "Menos de 4.5 tiros a puerta de AC Milan",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7424,
-       "text": "Menos de 2.5 tarjetas de Olympiacos",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6884,
-       "text": "Menos de 13.5 faltas de AC Milan",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
   },
   "uel|2026-11-26|Crystal Palace|Real Sociedad": {
    "match": "Crystal Palace vs Real Sociedad",
@@ -29589,7 +29116,7 @@
   "E1|2026-11-25|Stoke|Millwall"
  ],
  "paper_sent": "2026-11-25T20:44:00.770190+00:00",
- "sgp_res_n": 905,
+ "sgp_res_n": 919,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
