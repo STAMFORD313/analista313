@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Los Angeles Rams vs Green Bay Packers — 26/11 · 02:00
-
-👀 candidata · 🏈 NFL · **Más de 45.5 puntos** @ **1.88** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **45.9** puntos · línea 45.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Los Angeles Rams ❌✅✅✅✅ | Green Bay Packers ✅❌✅✅❌  
-• H2H: 7 desde 2017: 1-6  
-• Bajas: Los Angeles Rams: 8 fuera, 17 duda (Davante Adams, Puka Nacua, Steve Avila); Green Bay Packers: 6 fuera, 19 duda (Micah Parsons, Josh Jacobs, Sean Rhyan)  
-🧩 Combinada: Gana Green Bay Packers + Menos de 45.5 puntos → prob. 21%, cuota justa 4.81  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.59 (producto de piernas) · prob. 21% · ventaja -5%  
-
-## Los Angeles Rams vs Green Bay Packers — 26/11 · 02:00
-
-👀 candidata · 🏈 NFL · **Los Angeles Rams -3** @ **1.89** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Los Angeles Rams cubre -3 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Los Angeles Rams ❌✅✅✅✅ | Green Bay Packers ✅❌✅✅❌  
-• H2H: 7 desde 2017: 1-6  
-• Bajas: Los Angeles Rams: 8 fuera, 17 duda (Davante Adams, Puka Nacua, Steve Avila); Green Bay Packers: 6 fuera, 19 duda (Micah Parsons, Josh Jacobs, Sean Rhyan)  
-🧩 Combinada: Gana Green Bay Packers + Menos de 45.5 puntos → prob. 21%, cuota justa 4.81  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.59 (producto de piernas) · prob. 21% · ventaja -5%  
-
-## Los Angeles Rams vs Green Bay Packers — 26/11 · 02:00
-
-👀 candidata · 🏈 NFL · **Gana Los Angeles Rams** @ **1.62** (DraftKings) · prob 59% vs casas 59% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.297 partidos y bajas)  
-Gana Los Angeles Rams 65% · Gana Green Bay Packers 35%  
-Casas: Los Angeles Rams 59% · Green Bay Packers 41%  
-Hándicap LAR -3 · Total puntos 45.5  
-🔎 **Claves**  
-• Forma: Los Angeles Rams ❌✅✅✅✅ | Green Bay Packers ✅❌✅✅❌  
-• H2H: 7 desde 2017: 1-6  
-• Bajas: Los Angeles Rams: 8 fuera, 17 duda (Davante Adams, Puka Nacua, Steve Avila); Green Bay Packers: 6 fuera, 19 duda (Micah Parsons, Josh Jacobs, Sean Rhyan)  
-• Favorito de las casas: Los Angeles Rams @ 1.62  
-🧩 Combinada: Gana Green Bay Packers + Menos de 45.5 puntos → prob. 21%, cuota justa 4.81  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.59 (producto de piernas) · prob. 21% · ventaja -5%  
+Actualizado 26/11/2026 02:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Detroit Lions vs Chicago Bears — 26/11 · 19:00
 

@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 02:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## OG vs Kray — 26/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **1.66** (Unibet) · prob 64% vs casas 53% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 81.431 partidos)  
+Goles esperados: OG 2.34 · Kray 3.31  
+Ganador: OG 19% · empate 17% · Kray 64%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Kray: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: OG ❌❌✅✅❌ | Kray ✅❌❌➖❌  
+• Partidos: OG 791 | Kray 821  
+• Liga: Champions League A  
+• Unibet: 1 3.25 · X 4.30 · 2 1.66 (sin margen 27%/20%/53%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.66 (+6%) · Paf España 1.66 (+6%)  
 
 ## Yerema vs Sheva — 26/11 · 02:49
 

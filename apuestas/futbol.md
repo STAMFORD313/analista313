@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Toluca vs Atlas — 26/11 · 02:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Toluca** @ **1.39** (Bet365) · prob 68% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.08)  
-1 61% · X 21% · 2 17%  
-1X 83% · X2 39% · 12 79%  
-+1.5 85% · +2.5 66% · +3.5 44% · Ambos marcan 60%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Toluca ➖➖➖✅❌ | Atlas ❌✅✅❌➖  
-• H2H: 29 desde 2012: 14V-10E-5D · 2.7 goles/partido · +2.5 en 45%  
-• Bajas: Toluca: sin bajas; Atlas: 0 fuera, 1 duda  
-• Favorito de las casas: Toluca @ 1.39  
+Actualizado 26/11/2026 02:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Monterrey vs Club America — 26/11 · 04:10
 

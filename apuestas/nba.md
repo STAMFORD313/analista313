@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 02:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## VCU Rams vs Washington Huskies — 26/11 · 04:00
 
