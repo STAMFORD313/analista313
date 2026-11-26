@@ -82383,14 +82383,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2399870,263231,Argentina,Brazil,,
 2399871,263231,Colombia,Argentina,,
 2399872,263231,Ecuador,Uruguay,,
-2400721,263264,Salzburg,Roma,1,1
-2400722,263264,Porto,Aston Villa,1,0
-2400723,263264,Aston Villa,Salzburg,3,1
-2400724,263264,Roma,Fenerbahce,0,2
-2400725,263264,Fenerbahce,Aston Villa,1,1
-2400726,263264,Salzburg,Porto,3,1
-2400727,263264,Porto,Fenerbahce,1,3
-2400728,263264,Aston Villa,Roma,1,1
+2400721,263264,Salzburg,Roma,1.0,1.0
+2400722,263264,Porto,Aston Villa,1.0,0.0
+2400723,263264,Aston Villa,Salzburg,3.0,1.0
+2400724,263264,Roma,Fenerbahce,0.0,2.0
+2400725,263264,Fenerbahce,Aston Villa,1.0,1.0
+2400726,263264,Salzburg,Porto,3.0,1.0
+2400727,263264,Porto,Fenerbahce,1.0,3.0
+2400728,263264,Aston Villa,Roma,1.0,1.0
 2400729,263264,Roma,Porto,,
 2400730,263264,Fenerbahce,Salzburg,,
 2400731,263264,Roma,Salzburg,,
@@ -82403,3 +82403,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2400738,263264,Roma,Aston Villa,,
 2400739,263264,Porto,Roma,,
 2400740,263264,Salzburg,Fenerbahce,,
+2399965,263201,Bayern Munchen,Frankfurt,0,1
+2399966,263201,B Dortmund,Leipzig,1,1
+2399967,263201,Leipzig,Bayern Munchen,2,2
+2399968,263201,Frankfurt,Stuttgart,2,1
+2399969,263201,Stuttgart,Leipzig,2,2
+2399970,263201,Bayern Munchen,B Dortmund,2,1
+2399971,263201,B Dortmund,Stuttgart,2,2
+2399972,263201,Leipzig,Frankfurt,2,1
+2399973,263201,Frankfurt,B Dortmund,1,1
+2399974,263201,Stuttgart,Bayern Munchen,1,0
+2399975,263201,Frankfurt,Bayern Munchen,3,2
+2399976,263201,Leipzig,B Dortmund,2,1
+2399977,263201,Bayern Munchen,Leipzig,3,4
+2399978,263201,Stuttgart,Frankfurt,2,1
+2399979,263201,Leipzig,Stuttgart,0,0
+2399980,263201,B Dortmund,Bayern Munchen,0,2
+2399981,263201,Stuttgart,B Dortmund,,
+2399982,263201,Frankfurt,Leipzig,,
+2399983,263201,B Dortmund,Frankfurt,,
+2399984,263201,Bayern Munchen,Stuttgart,,
+2400341,263215,Juventus,Sassuolo,1,1
+2400342,263215,Bologna,Roma,0,1
+2400343,263215,Roma,Juventus,0,0
+2400344,263215,Sassuolo,Napoli,0,0
+2400345,263215,Napoli,Roma,3,1
+2400346,263215,Juventus,Bologna,0,0
+2400347,263215,Bologna,Napoli,0,1
+2400348,263215,Roma,Sassuolo,4,1
+2400349,263215,Sassuolo,Bologna,2,1
+2400350,263215,Napoli,Juventus,2,2
+2400351,263215,Sassuolo,Juventus,2,2
+2400352,263215,Roma,Bologna,1,0
+2400353,263215,Juventus,Roma,,
+2400354,263215,Napoli,Sassuolo,,
+2400355,263215,Roma,Napoli,,
+2400356,263215,Bologna,Juventus,,
+2400357,263215,Napoli,Bologna,,
+2400358,263215,Sassuolo,Roma,,
+2400359,263215,Bologna,Sassuolo,,
+2400360,263215,Juventus,Napoli,,
+2400581,263225,Man City,Chelsea,1,0
+2400582,263225,Arsenal,Liverpool,0,1
+2400583,263225,Liverpool,Man City,0,1
+2400584,263225,Chelsea,Tottenham,1,2
+2400585,263225,Tottenham,Liverpool,1,1
+2400586,263225,Man City,Arsenal,4,0
+2400587,263225,Arsenal,Tottenham,2,1
+2400588,263225,Liverpool,Chelsea,1,1
+2400589,263225,Chelsea,Arsenal,,
+2400590,263225,Tottenham,Man City,,
+2400591,263225,Chelsea,Man City,,
+2400592,263225,Liverpool,Arsenal,,
+2400593,263225,Man City,Liverpool,,
+2400594,263225,Tottenham,Chelsea,,
+2400595,263225,Liverpool,Tottenham,,
+2400596,263225,Arsenal,Man City,,
+2400597,263225,Tottenham,Arsenal,,
+2400598,263225,Chelsea,Liverpool,,
+2400599,263225,Arsenal,Chelsea,,
+2400600,263225,Man City,Tottenham,,
