@@ -35081,3 +35081,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194293,134517,aimclub-vs-noir-verse-25-11-2026,2026-11-25T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10014,24506,aimclub,Noir Verse,3,de_mirage,10014,13.0,4.0
 194294,134517,aimclub-vs-noir-verse-25-11-2026,2026-11-25T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10014,24506,aimclub,Noir Verse,2,de_anubis,24506,13.0,6.0
 194295,134517,aimclub-vs-noir-verse-25-11-2026,2026-11-25T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10014,24506,aimclub,Noir Verse,1,de_cache,10014,13.0,8.0
+194010,134390,m80-cs-go-vs-eternal-fire-26-11-2026,2026-11-26T06:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,7430,1527,M80,Eternal Fire,1,de_dust2,7430,13.0,6.0
+194011,134390,m80-cs-go-vs-eternal-fire-26-11-2026,2026-11-26T06:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,7430,1527,M80,Eternal Fire,3,de_cache,1527,13.0,4.0
+194012,134390,m80-cs-go-vs-eternal-fire-26-11-2026,2026-11-26T06:00:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,7430,1527,M80,Eternal Fire,2,de_anubis,1527,13.0,3.0
