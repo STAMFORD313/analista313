@@ -1,6 +1,50 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 19:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 19:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## South Carolina Gamecocks vs Arizona State Sun Devils — 26/11 · 20:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 139.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **148.2** puntos · línea 139.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: South Carolina Gamecocks ✅✅✅✅❌ | Arizona State Sun Devils ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: South Carolina Gamecocks: sin bajas; Arizona State Sun Devils: sin bajas  
+
+## South Carolina Gamecocks vs Arizona State Sun Devils — 26/11 · 20:00
+
+👀 candidata · 🏀 NCAA Basketball · **South Carolina Gamecocks -4.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: South Carolina Gamecocks cubre -4.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: South Carolina Gamecocks ✅✅✅✅❌ | Arizona State Sun Devils ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: South Carolina Gamecocks: sin bajas; Arizona State Sun Devils: sin bajas  
+
+## South Carolina Gamecocks vs Arizona State Sun Devils — 26/11 · 20:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana South Carolina Gamecocks** @ **1.50** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.274 partidos y bajas)  
+Gana South Carolina Gamecocks 51% · Gana Arizona State Sun Devils 49%  
+Casas: South Carolina Gamecocks 64% · Arizona State Sun Devils 36%  
+Hándicap ASU -4.5 · Total puntos 139.5  
+🔎 **Claves**  
+• Forma: South Carolina Gamecocks ✅✅✅✅❌ | Arizona State Sun Devils ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Bajas: South Carolina Gamecocks: sin bajas; Arizona State Sun Devils: sin bajas  
+• Favorito de las casas: South Carolina Gamecocks @ 1.50  
 
 ## Louisville Cardinals vs St. John's Red Storm — 27/11 · 03:00
 
