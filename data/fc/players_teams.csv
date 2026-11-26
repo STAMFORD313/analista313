@@ -82033,12 +82033,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2401031,263260,Atleti,Paris,,
 2401032,263260,Atleti,Bayern Munchen,,
 2401033,263260,Paris,Liverpool,,
-2400661,263272,Nottm Forest,Aston Villa,0,2
-2400662,263272,Newcastle,Man Utd,1,3
-2400663,263272,Man Utd,Nottm Forest,4,1
-2400664,263272,Aston Villa,Brighton,2,1
-2400665,263272,Brighton,Man Utd,4,0
-2400666,263272,Nottm Forest,Newcastle,1,1
+2400661,263272,Nottm Forest,Aston Villa,0.0,2.0
+2400662,263272,Newcastle,Man Utd,1.0,3.0
+2400663,263272,Man Utd,Nottm Forest,4.0,1.0
+2400664,263272,Aston Villa,Brighton,2.0,1.0
+2400665,263272,Brighton,Man Utd,4.0,0.0
+2400666,263272,Nottm Forest,Newcastle,1.0,1.0
 2400667,263272,Newcastle,Brighton,,
 2400668,263272,Man Utd,Aston Villa,,
 2400669,263272,Aston Villa,Newcastle,,
@@ -82053,3 +82053,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2400678,263272,Aston Villa,Man Utd,,
 2400679,263272,Newcastle,Aston Villa,,
 2400680,263272,Nottm Forest,Brighton,,
+2399563,263212,Juventus,Sporting CP,1,1
+2399564,263212,Arsenal,Man City,1,4
+2399565,263212,Man City,Juventus,2,1
+2399566,263212,Sporting CP,B Dortmund,0,2
+2399567,263212,B Dortmund,Man City,3,1
+2399568,263212,Juventus,Arsenal,2,2
+2399569,263212,Arsenal,B Dortmund,0,1
+2399570,263212,Man City,Sporting CP,1,2
+2399571,263212,Sporting CP,Arsenal,,
+2399572,263212,B Dortmund,Juventus,,
+2399573,263212,Sporting CP,Juventus,,
+2399574,263212,Man City,Arsenal,,
+2399575,263212,Juventus,Man City,,
+2399576,263212,B Dortmund,Sporting CP,,
+2399577,263212,Man City,B Dortmund,,
+2399578,263212,Arsenal,Juventus,,
+2399579,263212,B Dortmund,Arsenal,,
+2399580,263212,Sporting CP,Man City,,
+2399581,263212,Arsenal,Sporting CP,,
+2399582,263212,Juventus,B Dortmund,,
+2399803,263234,Chengdu Rongcheng,Shanghai Shenhua,2,2
+2399804,263234,Shandong Taishan,Shanghai Port,0,2
+2399805,263234,Shanghai Port,Chengdu Rongcheng,2,0
+2399806,263234,Shanghai Shenhua,Beijing Guoan,0,0
+2399807,263234,Beijing Guoan,Shanghai Port,1,5
+2399808,263234,Chengdu Rongcheng,Shandong Taishan,2,2
+2399809,263234,Shandong Taishan,Beijing Guoan,1,1
+2399810,263234,Shanghai Port,Shanghai Shenhua,3,1
+2399811,263234,Shanghai Shenhua,Shandong Taishan,,
+2399812,263234,Beijing Guoan,Chengdu Rongcheng,,
