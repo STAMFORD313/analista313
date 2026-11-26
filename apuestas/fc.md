@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 16:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 17:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Shadow vs Djape — 26/11 · 17:04
+## kanufriev vs Gazi — 26/11 · 17:38
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.10** (Unibet) · prob 18% vs casas 14% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.80** (Unibet) · prob 21% vs casas 15% · ventaja +19%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.166 partidos)  
-Goles esperados: Shadow 3.25 · Djape 2.66  
-Ganador: Shadow 56% · empate 18% · Djape 26%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap Shadow: −1.5 35% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 82.198 partidos)  
+Goles esperados: kanufriev 2.80 · Gazi 2.47  
+Ganador: kanufriev 40% · empate 21% · Gazi 40%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap kanufriev: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Shadow ✅✅➖❌➖ | Djape ✅✅❌✅✅  
-• Partidos: Shadow 173 | Djape 381  
-• Liga: Champions League B  
-• Unibet: 1 1.40 · X 6.10 · 2 3.65 (sin margen 62%/14%/24%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+11%) · Paf España 6.10 (+11%)  
+• Forma: kanufriev ✅✅❌❌❌ | Gazi ✅✅❌❌➖  
+• Partidos: kanufriev 150 | Gazi 683  
+• Liga: A-League  
+• Unibet: 1 1.72 · X 5.80 · 2 2.60 (sin margen 51%/15%/34%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+19%) · Paf España 5.80 (+19%)  
 
-## Joop vs mixes — 26/11 · 17:04
+## Bosko vs Piljar — 26/11 · 18:26
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mixes** @ **1.98** (Unibet) · prob 54% vs casas 44% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Piljar** @ **1.64** (Unibet) · prob 65% vs casas 54% · ventaja +7%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.166 partidos)  
-Goles esperados: Joop 2.51 · mixes 3.11  
-Ganador: Joop 28% · empate 19% · mixes 54%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap mixes: −1.5 35% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 82.198 partidos)  
+Goles esperados: Bosko 3.56 · Piljar 5.02  
+Ganador: Bosko 22% · empate 13% · Piljar 65%  
+Total: más de 8.5 goles 49% · menos 51%  
+Hándicap Piljar: −1.5 49% · −2.5 36%  
 🔎 **Claves**  
-• Forma: Joop ❌❌❌❌➖ | mixes ❌✅❌➖❌  
-• Partidos: Joop 356 | mixes 330  
-• Liga: Champions League B  
-• Unibet: 1 2.35 · X 4.70 · 2 1.98 (sin margen 37%/19%/44%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.98 (+6%) · Paf España 1.98 (+6%)  
-
-## Bosko vs aguuero — 26/11 · 17:12
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana aguuero** @ **1.90** (Unibet) · prob 58% vs casas 46% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.166 partidos)  
-Goles esperados: Bosko 3.68 · aguuero 4.81  
-Ganador: Bosko 27% · empate 15% · aguuero 58%  
-Total: más de 8.5 goles 48% · menos 52%  
-Hándicap aguuero: −1.5 44% · −2.5 31%  
-🔎 **Claves**  
-• Forma: Bosko ❌❌✅❌➖ | aguuero ❌✅✅❌❌  
-• Partidos: Bosko 769 | aguuero 101  
-• Liga: International A 2x6  
-• Unibet: 1 2.35 · X 5.30 · 2 1.90 (sin margen 37%/17%/46%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.90 (+10%) · Paf España 1.90 (+10%)  
+• Forma: Bosko ❌✅❌➖✅ | Piljar ❌✅➖❌➖  
+• Partidos: Bosko 770 | Piljar 625  
+• Liga: Champions League B 2x6  
+• Unibet: 1 2.65 · X 6.75 · 2 1.64 (sin margen 33%/13%/54%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.64 (+7%) · Paf España 1.64 (+7%)  
 
