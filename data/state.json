@@ -1324,9 +1324,6 @@
   "cbb|2026-11-26|South Carolina Gamecocks|Arizona State Sun Devils",
   "cbb|2026-11-26|Utah State Aggies|USC Trojans",
   "wta|2026-11-27|Varvara Lepchenko|Laura Samson",
-  "fc|2391871",
-  "fc|2391682",
-  "fc|2391622",
   "fc|2391687",
   "fc|2391623",
   "fc|2392199",
@@ -2326,7 +2323,13 @@
   "fc|2400378",
   "fc|2400379",
   "fc|2400382",
-  "fc|2399679"
+  "fc|2399679",
+  "cs2|134523",
+  "cs2|134524",
+  "cs2|134526",
+  "fc|2400766",
+  "fc|2399684",
+  "fc|2400386"
  ],
  "signals": [
   {
@@ -3081,30 +3084,6 @@
    "result": true,
    "score": "1-3",
    "close_p": 0.5866,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "odds": 2.35,
-   "book": "mejor del mercado",
-   "p": 0.409,
-   "implied": 0.409,
-   "edge": -0.038,
-   "key": "BRA|2026-11-23|Botafogo RJ|Sao Paulo",
-   "match": "Botafogo RJ vs Sao Paulo",
-   "pick": "Botafogo RJ",
-   "start": "2026-11-23T23:00:00+00:00",
-   "league": "🇧🇷 Brasileirão",
-   "sport": "⚽",
-   "context": "Botafogo RJ vs Sao Paulo (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 47% X 27% 2 25%, +2.5 47%, ambos marcan 49%. Forma Botafogo RJ ✅❌❌✅❌, Sao Paulo ✅➖❌➖❌ (✅ victoria ➖ empate ❌ derrota). H2H 25 desde 2012: 7V-8E-10D · 2.7 goles/partido · +2.5 en 52%. Bajas Botafogo RJ: Jordan Barrera M duda 12 PJ. Bajas Sao Paulo: Sabino D duda 24 PJ; Marcos Antonio M duda 25 PJ; Marcos Antonio M duda 25 PJ; Aurelio Buta D duda 1 PJ; Alisson M duda 8 PJ.",
-   "captured": "2026-11-21T00:24",
-   "version": "f893219",
-   "bajas": "Botafogo RJ: 0 fuera, 1 duda; Sao Paulo: 0 fuera, 5 duda",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "1-1",
-   "clv": 0.078,
    "logged": true
   },
   {
@@ -6933,19 +6912,6 @@
    "start": "2026-11-26T23:00:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.88 - 0.82)",
-    "1 56% · X 24% · 2 20%",
-    "1X 80% · X2 44% · 12 76%",
-    "+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 48%",
-    "Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Sao Paulo ➖❌➖❌➖ | Remo ❌✅❌✅❌",
-    "• H2H: 1 desde 2026: 0V-0E-1D · 1.0 goles/partido · +2.5 en 0%",
-    "• Bajas: Sao Paulo: 0 fuera, 6 duda; Remo: 0 fuera, 1 duda",
-    "• Favorito de las casas: Sao Paulo @ 1.39"
-   ],
    "context": "Sao Paulo vs Remo (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 56% X 24% 2 20%, +2.5 51%, ambos marcan 48%. Forma Sao Paulo ➖❌➖❌➖, Remo ❌✅❌✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 1 desde 2026: 0V-0E-1D · 1.0 goles/partido · +2.5 en 0%. Bajas Sao Paulo: Rafael Toloi D duda 14 PJ; Sabino D duda 24 PJ; Marcos Antonio M duda 25 PJ; Marcos Antonio M duda 25 PJ; Aurelio Buta D duda 1 PJ; Alisson M duda 8 PJ. Bajas Remo: Matheus Felipe D duda 3 PJ.",
    "captured": "2026-11-24T09:31",
    "version": "3d8f6c3",
@@ -27665,7 +27631,11 @@
    "version": "f253160",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -27686,7 +27656,11 @@
    "version": "f253160",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -27727,26 +27701,16 @@
    "start": "2026-11-26T22:43:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.511 partidos)",
-    "Goles esperados: kkikus 2.27 · Nightxx 3.77",
-    "Ganador: kkikus 16% · empate 15% · Nightxx 69%",
-    "Total: más de 6.5 goles 40% · menos 60%",
-    "Hándicap Nightxx: −1.5 49% · −2.5 33%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ❌❌❌❌❌ | Nightxx ✅✅✅❌➖",
-    "• Partidos: kkikus 1296 | Nightxx 1177",
-    "• Liga: World Cup A",
-    "• Unibet: 1 4.80 · X 7.50 · 2 1.24 (sin margen 18%/12%/70%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 7.50 (+12%) · Paf España 7.50 (+12%)"
-   ],
    "context": "EA FC Esoccer Battle kkikus vs Nightxx (World Cup A): goles esperados 2.27-3.77, 1X2 16%/15%/69%. Sin cuotas de casa.",
    "captured": "2026-11-26T22:31",
    "version": "cd7f378",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -27797,23 +27761,118 @@
    "start": "2026-11-26T22:46:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.511 partidos)",
-    "Goles esperados: hotShot 2.50 · OG 2.04",
-    "Ganador: hotShot 49% · empate 22% · OG 29%",
-    "Total: más de 4.5 goles 48% · menos 52%",
-    "Hándicap hotShot: −1.5 30% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hotShot ✅➖✅➖➖ | OG ✅❌➖❌❌",
-    "• Partidos: hotShot 808 | OG 813",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 2.20 · X 2.30 · 2 3.80 (sin margen 39%/38%/23%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.80 (+10%) · Paf España 3.80 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle hotShot vs OG (Portugal Primera): goles esperados 2.50-2.04, 1X2 49%/22%/29%. Sin cuotas de casa.",
    "captured": "2026-11-26T22:31",
    "version": "cd7f378",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.8,
+   "book": "Unibet",
+   "implied": 0.151,
+   "edge": 0.112,
+   "sin_stake": true,
+   "p": 0.192,
+   "key": "fc|2400766",
+   "match": "Han vs vivienne",
+   "start": "2026-11-26T23:14:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.531 partidos)",
+    "Goles esperados: Han 2.95 · vivienne 3.05",
+    "Ganador: Han 41% · empate 19% · vivienne 40%",
+    "Total: más de 6.5 goles 39% · menos 61%",
+    "Hándicap vivienne: −1.5 28% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Han ❌❌✅❌✅ | vivienne ➖✅✅✅❌",
+    "• Partidos: Han 135 | vivienne 1053",
+    "• Liga: Premier League",
+    "• Unibet: 1 2.18 · X 5.80 · 2 1.96 (sin margen 40%/15%/45%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.80 (+11%) · Paf España 5.80 (+11%)"
+   ],
+   "context": "EA FC Esoccer Battle Han vs vivienne (Premier League): goles esperados 2.95-3.05, 1X2 41%/19%/40%. Sin cuotas de casa.",
+   "captured": "2026-11-26T23:01",
+   "version": "7fe2ad2",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "OG",
+   "odds": 4.2,
+   "book": "Unibet",
+   "implied": 0.21,
+   "edge": 0.098,
+   "sin_stake": true,
+   "p": 0.261,
+   "key": "fc|2399684",
+   "match": "OG vs Kray",
+   "start": "2026-11-26T23:20:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.531 partidos)",
+    "Goles esperados: OG 2.51 · Kray 3.32",
+    "Ganador: OG 26% · empate 18% · Kray 56%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap Kray: −1.5 38% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ➖❌❌✅➖ | Kray ➖✅❌❌❌",
+    "• Partidos: OG 815 | Kray 845",
+    "• Liga: World Cup A",
+    "• Unibet: 1 4.20 · X 4.20 · 2 1.52 (sin margen 21%/21%/58%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 4.20 (+10%) · Paf España 4.20 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle OG vs Kray (World Cup A): goles esperados 2.51-3.32, 1X2 26%/18%/56%. Sin cuotas de casa.",
+   "captured": "2026-11-26T23:01",
+   "version": "7fe2ad2",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 9.5,
+   "book": "Unibet",
+   "implied": 0.092,
+   "edge": 0.066,
+   "sin_stake": true,
+   "p": 0.112,
+   "key": "fc|2400386",
+   "match": "believer vs kkikus",
+   "start": "2026-11-26T23:29:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.531 partidos)",
+    "Goles esperados: believer 3.86 · kkikus 1.66",
+    "Ganador: believer 81% · empate 11% · kkikus 8%",
+    "Total: más de 5.5 goles 47% · menos 53%",
+    "Hándicap believer: −1.5 61% · −2.5 44%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: believer ❌✅✅✅✅ | kkikus ❌❌❌✅❌",
+    "• Partidos: believer 1405 | kkikus 1298",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.11 · X 9.50 · 2 7.50 (sin margen 79%/9%/12%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 9.50 (+7%) · Paf España 9.50 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle believer vs kkikus (Serie A): goles esperados 3.86-1.66, 1X2 81%/11%/8%. Sin cuotas de casa.",
+   "captured": "2026-11-26T23:01",
+   "version": "7fe2ad2",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -28317,81 +28376,6 @@
     "🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%"
    ]
   },
-  "uel|2026-11-26|Torreense|Celtic": {
-   "match": "Torreense vs Celtic",
-   "start": "2026-11-26T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3498,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7517,
-       "text": "Más de 13.5 faltas de Anderlecht",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6719,
-       "text": "Menos de 5.5 tiros a puerta de OFI Crete",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6436,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2138,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7517,
-       "text": "Más de 13.5 faltas de Anderlecht",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6719,
-       "text": "Menos de 5.5 tiros a puerta de OFI Crete",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6436,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6427,
-       "text": "Menos de 2.5 tarjetas de OFI Crete",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false
-  },
   "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos": {
    "match": "Pittsburgh Steelers vs Denver Broncos",
    "start": "2026-11-27T20:00Z",
@@ -28465,7 +28449,7 @@
   "E1|2026-11-25|Stoke|Millwall"
  ],
  "paper_sent": "2026-11-26T20:59:43.857334+00:00",
- "sgp_res_n": 938,
+ "sgp_res_n": 940,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

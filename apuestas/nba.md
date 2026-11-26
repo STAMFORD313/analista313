@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 23:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 00:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisville Cardinals vs St. John's Red Storm — 27/11 · 03:00
 

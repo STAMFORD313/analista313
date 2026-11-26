@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 23:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## kkikus vs Nightxx — 26/11 · 23:43
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **7.50** (Unibet) · prob 15% vs casas 12% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.511 partidos)  
-Goles esperados: kkikus 2.27 · Nightxx 3.77  
-Ganador: kkikus 16% · empate 15% · Nightxx 69%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Nightxx: −1.5 49% · −2.5 33%  
-🔎 **Claves**  
-• Forma: kkikus ❌❌❌❌❌ | Nightxx ✅✅✅❌➖  
-• Partidos: kkikus 1296 | Nightxx 1177  
-• Liga: World Cup A  
-• Unibet: 1 4.80 · X 7.50 · 2 1.24 (sin margen 18%/12%/70%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.50 (+12%) · Paf España 7.50 (+12%)  
-
-## hotShot vs OG — 26/11 · 23:46
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana OG** @ **3.80** (Unibet) · prob 29% vs casas 23% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.511 partidos)  
-Goles esperados: hotShot 2.50 · OG 2.04  
-Ganador: hotShot 49% · empate 22% · OG 29%  
-Total: más de 4.5 goles 48% · menos 52%  
-Hándicap hotShot: −1.5 30% · −2.5 16%  
-🔎 **Claves**  
-• Forma: hotShot ✅➖✅➖➖ | OG ✅❌➖❌❌  
-• Partidos: hotShot 808 | OG 813  
-• Liga: Portugal Primera  
-• Unibet: 1 2.20 · X 2.30 · 2 3.80 (sin margen 39%/38%/23%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+10%) · Paf España 3.80 (+10%)  
+Actualizado 27/11/2026 00:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## kkikus vs Kavviro — 27/11 · 00:05
 
@@ -58,4 +20,61 @@ Hándicap Kavviro: −1.5 49% · −2.5 30%
 • Liga: Serie A  
 • Unibet: 1 8.50 · X 7.00 · 2 1.13 (sin margen 10%/12%/77%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 7.00 (+11%) · Paf España 7.00 (+11%)  
+
+## Han vs vivienne — 27/11 · 00:14
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.531 partidos)  
+Goles esperados: Han 2.95 · vivienne 3.05  
+Ganador: Han 41% · empate 19% · vivienne 40%  
+Total: más de 6.5 goles 39% · menos 61%  
+Hándicap vivienne: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Han ❌❌✅❌✅ | vivienne ➖✅✅✅❌  
+• Partidos: Han 135 | vivienne 1053  
+• Liga: Premier League  
+• Unibet: 1 2.18 · X 5.80 · 2 1.96 (sin margen 40%/15%/45%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+11%) · Paf España 5.80 (+11%)  
+
+## OG vs Kray — 27/11 · 00:20
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana OG** @ **4.20** (Unibet) · prob 26% vs casas 21% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.531 partidos)  
+Goles esperados: OG 2.51 · Kray 3.32  
+Ganador: OG 26% · empate 18% · Kray 56%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Kray: −1.5 38% · −2.5 23%  
+🔎 **Claves**  
+• Forma: OG ➖❌❌✅➖ | Kray ➖✅❌❌❌  
+• Partidos: OG 815 | Kray 845  
+• Liga: World Cup A  
+• Unibet: 1 4.20 · X 4.20 · 2 1.52 (sin margen 21%/21%/58%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.20 (+10%) · Paf España 4.20 (+10%)  
+
+## believer vs kkikus — 27/11 · 00:29
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **9.50** (Unibet) · prob 11% vs casas 9% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.531 partidos)  
+Goles esperados: believer 3.86 · kkikus 1.66  
+Ganador: believer 81% · empate 11% · kkikus 8%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap believer: −1.5 61% · −2.5 44%  
+🔎 **Claves**  
+• Forma: believer ❌✅✅✅✅ | kkikus ❌❌❌✅❌  
+• Partidos: believer 1405 | kkikus 1298  
+• Liga: Serie A  
+• Unibet: 1 1.11 · X 9.50 · 2 7.50 (sin margen 79%/9%/12%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 9.50 (+7%) · Paf España 9.50 (+7%)  
 

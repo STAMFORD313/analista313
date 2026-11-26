@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 23:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Sao Paulo vs Remo — 27/11 · 00:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Sao Paulo** @ **1.39** (Bet365) · prob 70% vs casas 70% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.88 - 0.82)  
-1 56% · X 24% · 2 20%  
-1X 80% · X2 44% · 12 76%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 48%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Sao Paulo ➖❌➖❌➖ | Remo ❌✅❌✅❌  
-• H2H: 1 desde 2026: 0V-0E-1D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Sao Paulo: 0 fuera, 6 duda; Remo: 0 fuera, 1 duda  
-• Favorito de las casas: Sao Paulo @ 1.39  
+Actualizado 27/11/2026 00:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pachuca vs Guadalajara Chivas — 27/11 · 02:00
 
