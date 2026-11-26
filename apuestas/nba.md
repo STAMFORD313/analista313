@@ -1,33 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 06:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Colorado State Rams vs Clemson Tigers — 26/11 · 06:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 153.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **143.0** puntos · línea 153.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Colorado State Rams ✅❌✅❌❌ | Clemson Tigers ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Colorado State Rams: sin bajas; Clemson Tigers: sin bajas  
-
-## Colorado State Rams vs Clemson Tigers — 26/11 · 06:30
-
-👀 candidata · 🏀 NCAA Basketball · **Colorado State Rams +2.5** @ **2.00** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Colorado State Rams cubre +2.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Colorado State Rams ✅❌✅❌❌ | Clemson Tigers ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Colorado State Rams: sin bajas; Clemson Tigers: sin bajas  
+Actualizado 26/11/2026 06:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisville Cardinals vs St. John's Red Storm — 27/11 · 03:00
 
