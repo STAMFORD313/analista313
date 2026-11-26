@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-26 19:30",
- "n": 6215,
+ "fecha": "2026-11-26 20:03",
+ "n": 6216,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5 · ventaja=<0",
@@ -285,8 +285,8 @@
    "n": 1829,
    "roi": -0.1161,
    "se": 0.0418,
-   "roi_antigua": -0.198,
-   "roi_nueva": -0.0254,
+   "roi_antigua": -0.1988,
+   "roi_nueva": -0.0243,
    "clv": 0.0255,
    "clv_se": 0.0106,
    "clv_n": 208
@@ -402,11 +402,11 @@
   },
   {
    "segmento": "ventaja=5-15%",
-   "n": 1627,
-   "roi": -0.0969,
+   "n": 1628,
+   "roi": -0.0965,
    "se": 0.036,
-   "roi_antigua": -0.0936,
-   "roi_nueva": -0.1003,
+   "roi_antigua": -0.0947,
+   "roi_nueva": -0.0984,
    "clv": -0.0137,
    "clv_se": 0.0128,
    "clv_n": 59
@@ -432,33 +432,33 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 2923,
-   "roi": -0.071,
+   "n": 2924,
+   "roi": -0.0708,
    "se": 0.0279,
-   "roi_antigua": -0.1164,
-   "roi_nueva": -0.0205,
+   "roi_antigua": -0.117,
+   "roi_nueva": -0.0194,
    "clv": 0.0163,
    "clv_se": 0.0041,
    "clv_n": 385
   },
   {
    "segmento": "mercado=1X2 · ventaja=5-15%",
-   "n": 1512,
-   "roi": -0.0909,
+   "n": 1513,
+   "roi": -0.0904,
    "se": 0.038,
-   "roi_antigua": -0.0792,
-   "roi_nueva": -0.103,
+   "roi_antigua": -0.0804,
+   "roi_nueva": -0.1009,
    "clv": -0.0104,
    "clv_se": 0.0111,
    "clv_n": 42
   },
   {
    "segmento": "cuota=1.5-2",
-   "n": 1901,
-   "roi": -0.0551,
+   "n": 1902,
+   "roi": -0.0547,
    "se": 0.0204,
    "roi_antigua": -0.0546,
-   "roi_nueva": -0.0555,
+   "roi_nueva": -0.0549,
    "clv": -0.0248,
    "clv_se": 0.0039,
    "clv_n": 326
@@ -476,19 +476,19 @@
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=5-15%",
-   "n": 1470,
-   "roi": -0.0892,
+   "n": 1471,
+   "roi": -0.0888,
    "se": 0.0388,
-   "roi_antigua": -0.0704,
-   "roi_nueva": -0.1085
+   "roi_antigua": -0.0717,
+   "roi_nueva": -0.1063
   },
   {
    "segmento": "deporte=🎮⚽ · ventaja=5-15%",
-   "n": 1470,
-   "roi": -0.0892,
+   "n": 1471,
+   "roi": -0.0888,
    "se": 0.0388,
-   "roi_antigua": -0.0704,
-   "roi_nueva": -0.1085
+   "roi_antigua": -0.0717,
+   "roi_nueva": -0.1063
   },
   {
    "segmento": "deporte=🏈 · mercado=hándicap",
@@ -517,8 +517,8 @@
    "n": 1569,
    "roi": -0.1033,
    "se": 0.0467,
-   "roi_antigua": -0.187,
-   "roi_nueva": -0.009,
+   "roi_antigua": -0.1879,
+   "roi_nueva": -0.0077,
    "clv": 0.0408,
    "clv_se": 0.0089,
    "clv_n": 125
@@ -546,22 +546,6 @@
    "clv_n": 61
   },
   {
-   "segmento": "deporte=🎮⚽",
-   "n": 2538,
-   "roi": -0.0704,
-   "se": 0.0311,
-   "roi_antigua": -0.1152,
-   "roi_nueva": -0.0206
-  },
-  {
-   "segmento": "deporte=🎮⚽ · mercado=1X2",
-   "n": 2538,
-   "roi": -0.0704,
-   "se": 0.0311,
-   "roi_antigua": -0.1152,
-   "roi_nueva": -0.0206
-  },
-  {
    "segmento": "mercado=ganador · cuota=≤1.5",
    "n": 301,
    "roi": -0.0661,
@@ -571,6 +555,22 @@
    "clv": -0.0483,
    "clv_se": 0.0032,
    "clv_n": 156
+  },
+  {
+   "segmento": "deporte=🎮⚽",
+   "n": 2539,
+   "roi": -0.0701,
+   "se": 0.0311,
+   "roi_antigua": -0.1159,
+   "roi_nueva": -0.0193
+  },
+  {
+   "segmento": "deporte=🎮⚽ · mercado=1X2",
+   "n": 2539,
+   "roi": -0.0701,
+   "se": 0.0311,
+   "roi_antigua": -0.1159,
+   "roi_nueva": -0.0193
   },
   {
    "segmento": "mercado=ganador · cuota=>2.5 · ventaja=>15%",

@@ -2,7 +2,7 @@
  "alpha": 0.05,
  "k": 12.0,
  "sub_w": 0.25,
- "n_test": 177233,
+ "n_test": 177209,
  "stats": {
   "goles": {
    "ll": 0.2706,
@@ -11,7 +11,7 @@
    "se_propia": 0.0004
   },
   "tiros_puerta": {
-   "ll": 0.4738,
+   "ll": 0.4737,
    "ll_media": 0.561,
    "ll_propia": 0.5165,
    "se_propia": 0.0008
