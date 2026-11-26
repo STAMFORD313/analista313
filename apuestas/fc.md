@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 13:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 13:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Revange vs Flewless_phoenix — 26/11 · 13:40
+## Maxa vs w1nkos — 26/11 · 13:46
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Flewless_phoenix** @ **2.16** (Unibet) · prob 52% vs casas 40% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana w1nkos** @ **2.63** (Unibet) · prob 44% vs casas 33% · ventaja +17%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.974 partidos)  
-Goles esperados: Revange 2.71 · Flewless_phoenix 3.17  
-Ganador: Revange 29% · empate 19% · Flewless_phoenix 52%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap Flewless_phoenix: −1.5 33% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 81.985 partidos)  
+Goles esperados: Maxa 3.60 · w1nkos 3.62  
+Ganador: Maxa 38% · empate 17% · w1nkos 44%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap w1nkos: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Revange ✅❌❌✅➖ | Flewless_phoenix ✅✅✅✅➖  
-• Partidos: Revange 731 | Flewless_phoenix 245  
-• Liga: LaLiga  
-• Unibet: 1 2.38 · X 3.70 · 2 2.16 (sin margen 36%/23%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.16 (+13%) · Paf España 2.16 (+13%)  
+• Forma: Maxa ➖❌➖✅✅ | w1nkos ➖➖✅✅✅  
+• Partidos: Maxa 1201 | w1nkos 1426  
+• Liga: FA Cup  
+• Unibet: 1 2.00 · X 3.70 · 2 2.63 (sin margen 43%/23%/33%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+17%) · Paf España 2.63 (+17%)  
 
-## flamez vs zoyir — 26/11 · 13:44
+## Bomb1to vs Wboy — 26/11 · 14:01
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **2.18** (Unibet) · prob 62% vs casas 40% · ventaja +34%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.35** (Unibet) · prob 34% vs casas 26% · ventaja +14%
 
-- ❌ Valor: ventaja +34% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.974 partidos)  
-Goles esperados: flamez 3.20 · zoyir 4.36  
-Ganador: flamez 23% · empate 15% · zoyir 62%  
-Total: más de 7.5 goles 48% · menos 52%  
-Hándicap zoyir: −1.5 45% · −2.5 31%  
+📊 **Escenarios** (Poisson por jugador, 81.985 partidos)  
+Goles esperados: Bomb1to 3.77 · Wboy 3.36  
+Ganador: Bomb1to 49% · empate 17% · Wboy 34%  
+Total: más de 7.5 goles 42% · menos 58%  
+Hándicap Bomb1to: −1.5 34% · −2.5 21%  
 🔎 **Claves**  
-• Forma: flamez ❌❌❌❌❌ | zoyir ✅✅✅✅➖  
-• Partidos: flamez 995 | zoyir 750  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.14 · X 4.50 · 2 2.18 (sin margen 41%/19%/40%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+34%) · Paf España 2.18 (+34%)  
+• Forma: Bomb1to ✅➖✅➖✅ | Wboy ➖❌➖➖✅  
+• Partidos: Bomb1to 1535 | Wboy 1312  
+• Liga: Champions League B  
+• Unibet: 1 1.68 · X 4.00 · 2 3.35 (sin margen 52%/22%/26%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.35 (+14%) · Paf España 3.35 (+14%)  
 
-## v1nniePuh vs TikitakaMaster — 26/11 · 13:44
+## v1nniePuh vs flamez — 26/11 · 14:02
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **1.81** (Unibet) · prob 60% vs casas 48% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana v1nniePuh** @ **2.40** (Unibet) · prob 51% vs casas 36% · ventaja +22%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.974 partidos)  
-Goles esperados: v1nniePuh 3.60 · TikitakaMaster 4.76  
-Ganador: v1nniePuh 26% · empate 14% · TikitakaMaster 60%  
-Total: más de 8.5 goles 46% · menos 54%  
-Hándicap TikitakaMaster: −1.5 45% · −2.5 32%  
+📊 **Escenarios** (Poisson por jugador, 81.985 partidos)  
+Goles esperados: v1nniePuh 4.94 · flamez 4.37  
+Ganador: v1nniePuh 51% · empate 15% · flamez 35%  
+Total: más de 9.5 goles 45% · menos 55%  
+Hándicap v1nniePuh: −1.5 38% · −2.5 26%  
 🔎 **Claves**  
-• Forma: v1nniePuh ❌✅❌❌✅ | TikitakaMaster ✅❌✅✅➖  
-• Partidos: v1nniePuh 874 | TikitakaMaster 893  
+• Forma: v1nniePuh ✅❌❌✅✅ | flamez ❌❌❌❌✅  
+• Partidos: v1nniePuh 875 | flamez 996  
 • Liga: Champions League A 2x6  
-• Unibet: 1 2.48 · X 5.40 · 2 1.81 (sin margen 35%/16%/48%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.81 (+8%) · Paf España 1.81 (+8%)  
+• Unibet: 1 2.40 · X 5.20 · 2 1.88 (sin margen 37%/17%/47%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+22%) · Paf España 2.40 (+22%)  
 

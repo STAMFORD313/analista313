@@ -82003,14 +82003,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2399800,263232,Shanghai Shenhua,Shanghai Port,,
 2399801,263232,Shandong Taishan,Shanghai Shenhua,,
 2399802,263232,Chengdu Rongcheng,Beijing Guoan,,
-2399483,263204,Sassuolo,Roma,2,1
-2399484,263204,Juventus,Napoli,1,1
-2399485,263204,Napoli,Sassuolo,3,2
-2399486,263204,Roma,Bologna,3,2
-2399487,263204,Bologna,Napoli,3,3
-2399488,263204,Sassuolo,Juventus,3,0
-2399489,263204,Juventus,Bologna,2,3
-2399490,263204,Napoli,Roma,3,1
+2399483,263204,Sassuolo,Roma,2.0,1.0
+2399484,263204,Juventus,Napoli,1.0,1.0
+2399485,263204,Napoli,Sassuolo,3.0,2.0
+2399486,263204,Roma,Bologna,3.0,2.0
+2399487,263204,Bologna,Napoli,3.0,3.0
+2399488,263204,Sassuolo,Juventus,3.0,0.0
+2399489,263204,Juventus,Bologna,2.0,3.0
+2399490,263204,Napoli,Roma,3.0,1.0
 2399491,263204,Roma,Juventus,,
 2399492,263204,Bologna,Sassuolo,,
 2399493,263204,Roma,Sassuolo,,
@@ -82023,13 +82023,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2399500,263204,Roma,Napoli,,
 2399501,263204,Juventus,Roma,,
 2399502,263204,Sassuolo,Bologna,,
-2401024,263260,Bayern Munchen,Liverpool,1,5
-2401025,263260,Atleti,Paris,2,2
-2401026,263260,Atleti,Bayern Munchen,1,1
-2401027,263260,Paris,Liverpool,1,1
-2401028,263260,Liverpool,Atleti,1,1
-2401029,263260,Paris,Bayern Munchen,3,0
+2401024,263260,Bayern Munchen,Liverpool,1.0,5.0
+2401025,263260,Atleti,Paris,2.0,2.0
+2401026,263260,Atleti,Bayern Munchen,1.0,1.0
+2401027,263260,Paris,Liverpool,1.0,1.0
+2401028,263260,Liverpool,Atleti,1.0,1.0
+2401029,263260,Paris,Bayern Munchen,3.0,0.0
 2401030,263260,Bayern Munchen,Liverpool,,
 2401031,263260,Atleti,Paris,,
 2401032,263260,Atleti,Bayern Munchen,,
 2401033,263260,Paris,Liverpool,,
+2400661,263272,Nottm Forest,Aston Villa,0,2
+2400662,263272,Newcastle,Man Utd,1,3
+2400663,263272,Man Utd,Nottm Forest,4,1
+2400664,263272,Aston Villa,Brighton,2,1
+2400665,263272,Brighton,Man Utd,4,0
+2400666,263272,Nottm Forest,Newcastle,1,1
+2400667,263272,Newcastle,Brighton,,
+2400668,263272,Man Utd,Aston Villa,,
+2400669,263272,Aston Villa,Newcastle,,
+2400670,263272,Brighton,Nottm Forest,,
+2400671,263272,Aston Villa,Nottm Forest,,
+2400672,263272,Man Utd,Newcastle,,
+2400673,263272,Nottm Forest,Man Utd,,
+2400674,263272,Brighton,Aston Villa,,
+2400675,263272,Man Utd,Brighton,,
+2400676,263272,Newcastle,Nottm Forest,,
+2400677,263272,Brighton,Newcastle,,
+2400678,263272,Aston Villa,Man Utd,,
+2400679,263272,Newcastle,Aston Villa,,
+2400680,263272,Nottm Forest,Brighton,,
