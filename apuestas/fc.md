@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 15:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Lukapaja vs Mani — 26/11 · 15:49
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.085 partidos)  
-Goles esperados: Lukapaja 2.70 · Mani 2.87  
-Ganador: Lukapaja 36% · empate 20% · Mani 44%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap Mani: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Lukapaja ➖➖✅✅❌ | Mani ✅❌❌❌❌  
-• Partidos: Lukapaja 142 | Mani 1150  
-• Liga: Europa League  
-• Unibet: 1 2.50 · X 5.60 · 2 1.79 (sin margen 35%/16%/49%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.60 (+11%) · Paf España 5.60 (+11%)  
+Actualizado 26/11/2026 15:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bjela vs Lx7ss — 26/11 · 15:58
 
@@ -58,4 +39,42 @@ Hándicap Firminho: −1.5 38% · −2.5 24%
 • Liga: Europa League  
 • Unibet: 1 2.25 · X 4.75 · 2 2.04 (sin margen 39%/18%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.04 (+12%) · Paf España 2.04 (+12%)  
+
+## Mani vs Linox — 26/11 · 16:01
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.50** (Unibet) · prob 23% vs casas 19% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.109 partidos)  
+Goles esperados: Mani 2.11 · Linox 2.15  
+Ganador: Mani 38% · empate 23% · Linox 38%  
+Total: más de 4.5 goles 42% · menos 58%  
+Hándicap Linox: −1.5 23% · −2.5 11%  
+🔎 **Claves**  
+• Forma: Mani ❌❌❌❌✅ | Linox ➖✅❌✅❌  
+• Partidos: Mani 1151 | Linox 958  
+• Liga: Europa League  
+• Unibet: 1 2.25 · X 4.50 · 2 2.08 (sin margen 39%/19%/42%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+5%) · Paf España 4.50 (+5%)  
+
+## Piljar vs Bosko — 26/11 · 16:36
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Piljar** @ **1.66** (Unibet) · prob 68% vs casas 53% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.109 partidos)  
+Goles esperados: Piljar 5.25 · Bosko 3.59  
+Ganador: Piljar 68% · empate 13% · Bosko 20%  
+Total: más de 8.5 goles 52% · menos 48%  
+Hándicap Piljar: −1.5 52% · −2.5 38%  
+🔎 **Claves**  
+• Forma: Piljar ➖✅❌✅❌ | Bosko ❌❌❌❌❌  
+• Partidos: Piljar 620 | Bosko 765  
+• Liga: International A 2x6  
+• Unibet: 1 1.66 · X 6.50 · 2 2.65 (sin margen 53%/14%/33%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.66 (+13%) · Paf España 1.66 (+13%)  
 

@@ -82103,14 +82103,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2399660,263230,Real Madrid,Athletic Club,,
 2399661,263230,Atleti,Real Madrid,,
 2399662,263230,Villarreal,Barcelona,,
-2400491,263257,France,Argentina,0,0
-2400492,263257,Spain,Germany,0,1
-2400493,263257,Germany,France,3,2
-2400494,263257,Argentina,England,1,3
-2400495,263257,England,Germany,0,2
-2400496,263257,France,Spain,0,2
-2400497,263257,Spain,England,0,0
-2400498,263257,Germany,Argentina,0,0
+2400491,263257,France,Argentina,0.0,0.0
+2400492,263257,Spain,Germany,0.0,1.0
+2400493,263257,Germany,France,3.0,2.0
+2400494,263257,Argentina,England,1.0,3.0
+2400495,263257,England,Germany,0.0,2.0
+2400496,263257,France,Spain,0.0,2.0
+2400497,263257,Spain,England,0.0,0.0
+2400498,263257,Germany,Argentina,0.0,0.0
 2400499,263257,Argentina,Spain,,
 2400500,263257,England,France,,
 2400501,263257,Argentina,France,,
@@ -82123,3 +82123,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2400508,263257,Argentina,Germany,,
 2400509,263257,Spain,Argentina,,
 2400510,263257,France,England,,
+2399905,263196,Real Madrid,Bayern Munchen,0,3
+2399906,263196,Liverpool,Paris,0,1
+2399907,263196,Paris,Real Madrid,0,2
+2399908,263196,Bayern Munchen,Atleti,1,1
+2399909,263196,Atleti,Paris,0,2
+2399910,263196,Real Madrid,Liverpool,1,2
+2399911,263196,Liverpool,Atleti,1,1
+2399912,263196,Paris,Bayern Munchen,1,1
+2399913,263196,Bayern Munchen,Liverpool,1,0
+2399914,263196,Atleti,Real Madrid,0,2
+2399915,263196,Bayern Munchen,Real Madrid,1,3
+2399916,263196,Paris,Liverpool,2,1
+2399917,263196,Real Madrid,Paris,0,2
+2399918,263196,Atleti,Bayern Munchen,3,0
+2399919,263196,Paris,Atleti,2,2
+2399920,263196,Liverpool,Real Madrid,2,0
+2399921,263196,Atleti,Liverpool,0,2
+2399922,263196,Bayern Munchen,Paris,2,2
+2399923,263196,Liverpool,Bayern Munchen,,
+2399924,263196,Real Madrid,Atleti,,
+2399813,263235,PSV,Ajax,2,1
+2399814,263235,Feyenoord,Twente,0,5
+2399815,263235,Twente,PSV,1,1
+2399816,263235,Ajax,AZ Alkmaar,0,4
+2399817,263235,AZ Alkmaar,Twente,4,0
+2399818,263235,PSV,Feyenoord,1,0
+2399819,263235,Feyenoord,AZ Alkmaar,1,2
+2399820,263235,Twente,Ajax,2,3
+2399821,263235,Ajax,Feyenoord,0,1
+2399822,263235,AZ Alkmaar,PSV,1,1
+2399823,263235,Ajax,PSV,2,0
+2399824,263235,Twente,Feyenoord,3,0
+2399825,263235,PSV,Twente,1,2
+2399826,263235,AZ Alkmaar,Ajax,2,1
+2399827,263235,Twente,AZ Alkmaar,,
+2399828,263235,Feyenoord,PSV,,
+2399829,263235,AZ Alkmaar,Feyenoord,,
+2399830,263235,Ajax,Twente,,
+2399831,263235,Feyenoord,Ajax,,
+2399832,263235,PSV,AZ Alkmaar,,
+2400681,263262,Napoli,Sassuolo,3,1
+2400682,263262,Roma,Bologna,1,1
+2400683,263262,Bologna,Napoli,3,1
+2400684,263262,Sassuolo,Juventus,2,0
+2400685,263262,Juventus,Bologna,2,1
+2400686,263262,Napoli,Roma,4,0
+2400687,263262,Roma,Juventus,4,1
+2400688,263262,Bologna,Sassuolo,2,0
+2400689,263262,Sassuolo,Roma,,
+2400690,263262,Juventus,Napoli,,
+2400691,263262,Sassuolo,Napoli,,
+2400692,263262,Bologna,Roma,,
+2400693,263262,Napoli,Bologna,,
+2400694,263262,Juventus,Sassuolo,,
+2400695,263262,Bologna,Juventus,,
+2400696,263262,Roma,Napoli,,
+2400697,263262,Juventus,Roma,,
+2400698,263262,Sassuolo,Bologna,,
+2400699,263262,Roma,Sassuolo,,
+2400700,263262,Napoli,Juventus,,
