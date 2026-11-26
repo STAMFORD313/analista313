@@ -4332,5 +4332,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261126180739658136",
+  "creada": "2026-11-26 18:07:39.658178+00:00",
+  "titulo": "Barrido · Combinada cuota 5.7",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-26 21:00:00+00:00",
+    "home": "Deportes Colina",
+    "away": "General Velasquez",
+    "txt": "Gana Deportes Colina",
+    "odds": 2.1,
+    "p": 0.5812
+   },
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-27 01:20:00+00:00",
+    "home": "Buffalo Bills",
+    "away": "Kansas City Chiefs",
+    "txt": "Gana Buffalo Bills",
+    "odds": 1.641,
+    "p": 0.6331699999999999
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-27 12:00:00+00:00",
+    "home": "Azuolas",
+    "away": "Honvéd",
+    "txt": "Gana Honvéd",
+    "odds": 1.65,
+    "p": 0.620940404040404
+   }
+  ],
+  "odds": 5.69,
+  "p": 0.22850507766598377,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
