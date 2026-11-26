@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 02:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 03:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Detroit Lions vs Chicago Bears — 26/11 · 19:00
 

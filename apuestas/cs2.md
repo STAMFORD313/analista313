@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 26/11/2026 02:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Elusive vs Villainous — 26/11 · 03:00
-
-👀 candidata · 🎮 CS2 · CROSSFIRE Season 7 · **Gana Elusive** @ **1.88** (Thunderpick) · prob 53% vs casas 48% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.247 partidos)  
-Mapa: Elusive 55% · Serie BO3: Elusive 58% - 42% Villainous  
-Casas: Elusive 48% · Villainous 52%  
-🔎 **Claves**  
-• Elo: Elusive 1493 (18 series) | Villainous 1439 (103 series)  
-• Forma: Elusive ❌❌✅❌✅ | Villainous ❌❌❌❌✅  
-• H2H: sin precedentes  
-• Torneo: CROSSFIRE Season 7 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Elusive gana 2-1: 24% → cuota justa 4.19  
-• Villainous gana 2-1: 20% → cuota justa 5.13  
+Actualizado 26/11/2026 03:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KAMUI vs Tulpar — 26/11 · 10:00
 
