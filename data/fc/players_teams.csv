@@ -82003,3 +82003,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2399800,263232,Shanghai Shenhua,Shanghai Port,,
 2399801,263232,Shandong Taishan,Shanghai Shenhua,,
 2399802,263232,Chengdu Rongcheng,Beijing Guoan,,
+2399483,263204,Sassuolo,Roma,2,1
+2399484,263204,Juventus,Napoli,1,1
+2399485,263204,Napoli,Sassuolo,3,2
+2399486,263204,Roma,Bologna,3,2
+2399487,263204,Bologna,Napoli,3,3
+2399488,263204,Sassuolo,Juventus,3,0
+2399489,263204,Juventus,Bologna,2,3
+2399490,263204,Napoli,Roma,3,1
+2399491,263204,Roma,Juventus,,
+2399492,263204,Bologna,Sassuolo,,
+2399493,263204,Roma,Sassuolo,,
+2399494,263204,Napoli,Juventus,,
+2399495,263204,Sassuolo,Napoli,,
+2399496,263204,Bologna,Roma,,
+2399497,263204,Napoli,Bologna,,
+2399498,263204,Juventus,Sassuolo,,
+2399499,263204,Bologna,Juventus,,
+2399500,263204,Roma,Napoli,,
+2399501,263204,Juventus,Roma,,
+2399502,263204,Sassuolo,Bologna,,
+2401024,263260,Bayern Munchen,Liverpool,1,5
+2401025,263260,Atleti,Paris,2,2
+2401026,263260,Atleti,Bayern Munchen,1,1
+2401027,263260,Paris,Liverpool,1,1
+2401028,263260,Liverpool,Atleti,1,1
+2401029,263260,Paris,Bayern Munchen,3,0
+2401030,263260,Bayern Munchen,Liverpool,,
+2401031,263260,Atleti,Paris,,
+2401032,263260,Atleti,Bayern Munchen,,
+2401033,263260,Paris,Liverpool,,
