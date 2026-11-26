@@ -82183,18 +82183,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2400698,263262,Sassuolo,Bologna,,
 2400699,263262,Roma,Sassuolo,,
 2400700,263262,Napoli,Juventus,,
-2400301,263213,Fenerbahce,Roma,2,0
-2400302,263213,Aston Villa,Porto,2,0
-2400303,263213,Porto,Fenerbahce,1,0
-2400304,263213,Roma,Salzburg,0,1
-2400305,263213,Salzburg,Porto,2,1
-2400306,263213,Fenerbahce,Aston Villa,2,1
-2400307,263213,Aston Villa,Salzburg,1,1
-2400308,263213,Porto,Roma,2,3
-2400309,263213,Roma,Aston Villa,2,3
-2400310,263213,Salzburg,Fenerbahce,1,0
-2400311,263213,Roma,Fenerbahce,0,0
-2400312,263213,Porto,Aston Villa,0,0
+2400301,263213,Fenerbahce,Roma,2.0,0.0
+2400302,263213,Aston Villa,Porto,2.0,0.0
+2400303,263213,Porto,Fenerbahce,1.0,0.0
+2400304,263213,Roma,Salzburg,0.0,1.0
+2400305,263213,Salzburg,Porto,2.0,1.0
+2400306,263213,Fenerbahce,Aston Villa,2.0,1.0
+2400307,263213,Aston Villa,Salzburg,1.0,1.0
+2400308,263213,Porto,Roma,2.0,3.0
+2400309,263213,Roma,Aston Villa,2.0,3.0
+2400310,263213,Salzburg,Fenerbahce,1.0,0.0
+2400311,263213,Roma,Fenerbahce,0.0,0.0
+2400312,263213,Porto,Aston Villa,0.0,0.0
 2400313,263213,Fenerbahce,Porto,,
 2400314,263213,Salzburg,Roma,,
 2400315,263213,Porto,Salzburg,,
@@ -82203,13 +82203,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2400318,263213,Roma,Porto,,
 2400319,263213,Aston Villa,Roma,,
 2400320,263213,Fenerbahce,Salzburg,,
-2400541,263221,Arsenal,Juventus,3,2
-2400542,263221,Sporting CP,Man City,1,0
-2400543,263221,Man City,Arsenal,0,1
-2400544,263221,Juventus,B Dortmund,2,2
-2400546,263221,Arsenal,Sporting CP,0,2
-2400547,263221,Sporting CP,B Dortmund,0,2
-2400548,263221,Man City,Juventus,1,2
+2400541,263221,Arsenal,Juventus,3.0,2.0
+2400542,263221,Sporting CP,Man City,1.0,0.0
+2400543,263221,Man City,Arsenal,0.0,1.0
+2400544,263221,Juventus,B Dortmund,2.0,2.0
+2400546,263221,Arsenal,Sporting CP,0.0,2.0
+2400547,263221,Sporting CP,B Dortmund,0.0,2.0
+2400548,263221,Man City,Juventus,1.0,2.0
 2400549,263221,Juventus,Sporting CP,,
 2400550,263221,B Dortmund,Arsenal,,
 2400551,263221,Juventus,Arsenal,,

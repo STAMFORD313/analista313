@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 16:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 16:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Piljar vs Bosko — 26/11 · 16:36
+## Shadow vs Djape — 26/11 · 17:04
 
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Piljar** @ **1.66** (Unibet) · prob 68% vs casas 53% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.109 partidos)  
-Goles esperados: Piljar 5.25 · Bosko 3.59  
-Ganador: Piljar 68% · empate 13% · Bosko 20%  
-Total: más de 8.5 goles 52% · menos 48%  
-Hándicap Piljar: −1.5 52% · −2.5 38%  
-🔎 **Claves**  
-• Forma: Piljar ➖✅❌✅❌ | Bosko ❌❌❌❌❌  
-• Partidos: Piljar 620 | Bosko 765  
-• Liga: International A 2x6  
-• Unibet: 1 1.66 · X 6.50 · 2 2.65 (sin margen 53%/14%/33%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.66 (+13%) · Paf España 1.66 (+13%)  
-
-## cosske vs Djape — 26/11 · 16:40
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.75** (Unibet) · prob 16% vs casas 13% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.10** (Unibet) · prob 18% vs casas 14% · ventaja +10%
 
 - ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.138 partidos)  
-Goles esperados: cosske 3.94 · Djape 3.25  
-Ganador: cosske 55% · empate 16% · Djape 28%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap cosske: −1.5 38% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 82.166 partidos)  
+Goles esperados: Shadow 3.25 · Djape 2.66  
+Ganador: Shadow 56% · empate 18% · Djape 26%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Shadow: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: cosske ✅✅➖❌✅ | Djape ❌❌✅✅❌  
-• Partidos: cosske 297 | Djape 379  
+• Forma: Shadow ✅✅➖❌➖ | Djape ✅✅❌✅✅  
+• Partidos: Shadow 173 | Djape 381  
 • Liga: Champions League B  
-• Unibet: 1 1.55 · X 6.75 · 2 2.80 (sin margen 56%/13%/31%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.75 (+10%) · Paf España 6.75 (+10%)  
+• Unibet: 1 1.40 · X 6.10 · 2 3.65 (sin margen 62%/14%/24%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+11%) · Paf España 6.10 (+11%)  
 
-## Djape vs Joop — 26/11 · 16:52
+## Joop vs mixes — 26/11 · 17:04
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.40** (Unibet) · prob 17% vs casas 14% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mixes** @ **1.98** (Unibet) · prob 54% vs casas 44% · ventaja +6%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.138 partidos)  
-Goles esperados: Djape 3.54 · Joop 2.53  
-Ganador: Djape 60% · empate 17% · Joop 23%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Djape: −1.5 41% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 82.166 partidos)  
+Goles esperados: Joop 2.51 · mixes 3.11  
+Ganador: Joop 28% · empate 19% · mixes 54%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap mixes: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Djape ❌❌✅✅❌ | Joop ❌❌❌❌❌  
-• Partidos: Djape 379 | Joop 354  
+• Forma: Joop ❌❌❌❌➖ | mixes ❌✅❌➖❌  
+• Partidos: Joop 356 | mixes 330  
 • Liga: Champions League B  
-• Unibet: 1 1.46 · X 6.40 · 2 3.25 (sin margen 60%/14%/27%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.40 (+9%) · Paf España 6.40 (+9%)  
+• Unibet: 1 2.35 · X 4.70 · 2 1.98 (sin margen 37%/19%/44%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.98 (+6%) · Paf España 1.98 (+6%)  
+
+## Bosko vs aguuero — 26/11 · 17:12
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana aguuero** @ **1.90** (Unibet) · prob 58% vs casas 46% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.166 partidos)  
+Goles esperados: Bosko 3.68 · aguuero 4.81  
+Ganador: Bosko 27% · empate 15% · aguuero 58%  
+Total: más de 8.5 goles 48% · menos 52%  
+Hándicap aguuero: −1.5 44% · −2.5 31%  
+🔎 **Claves**  
+• Forma: Bosko ❌❌✅❌➖ | aguuero ❌✅✅❌❌  
+• Partidos: Bosko 769 | aguuero 101  
+• Liga: International A 2x6  
+• Unibet: 1 2.35 · X 5.30 · 2 1.90 (sin margen 37%/17%/46%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.90 (+10%) · Paf España 1.90 (+10%)  
 
