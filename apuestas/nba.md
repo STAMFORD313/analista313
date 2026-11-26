@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 18:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## San Diego State Aztecs vs Maryland Terrapins — 26/11 · 19:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 152.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **149.9** puntos · línea 152.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: San Diego State Aztecs ✅✅✅✅❌ | Maryland Terrapins ❌❌✅✅❌  
-• H2H: sin precedentes  
-• Bajas: San Diego State Aztecs: sin bajas; Maryland Terrapins: sin bajas  
-
-## San Diego State Aztecs vs Maryland Terrapins — 26/11 · 19:00
-
-👀 candidata · 🏀 NCAA Basketball · **San Diego State Aztecs -5.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: San Diego State Aztecs cubre -5.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: San Diego State Aztecs ✅✅✅✅❌ | Maryland Terrapins ❌❌✅✅❌  
-• H2H: sin precedentes  
-• Bajas: San Diego State Aztecs: sin bajas; Maryland Terrapins: sin bajas  
-
-## San Diego State Aztecs vs Maryland Terrapins — 26/11 · 19:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana San Diego State Aztecs** @ **1.46** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.273 partidos y bajas)  
-Gana San Diego State Aztecs 85% · Gana Maryland Terrapins 15%  
-Casas: San Diego State Aztecs 66% · Maryland Terrapins 34%  
-Hándicap MD -5.5 · Total puntos 152.5  
-🔎 **Claves**  
-• Forma: San Diego State Aztecs ✅✅✅✅❌ | Maryland Terrapins ❌❌✅✅❌  
-• H2H: sin precedentes  
-• Bajas: San Diego State Aztecs: sin bajas; Maryland Terrapins: sin bajas  
-• Favorito de las casas: San Diego State Aztecs @ 1.46  
+Actualizado 26/11/2026 19:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisville Cardinals vs St. John's Red Storm — 27/11 · 03:00
 

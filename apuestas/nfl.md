@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 18:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Detroit Lions vs Chicago Bears — 26/11 · 19:00
-
-👀 candidata · 🏈 NFL · **Más de 55.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **53.6** puntos · línea 55.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Detroit Lions ✅✅✅✅✅ | Chicago Bears ✅✅✅✅✅  
-• H2H: 19 desde 2016: 11-8  
-• Bajas: Detroit Lions: 4 fuera, 21 duda (Ennis Rakestraw Jr., D.J. Reed, Cade Mays); Chicago Bears: 1 fuera, 24 duda (Kyler Gordon)  
-🧩 Combinada: Gana Detroit Lions + Más de 55.5 puntos → prob. 22%, cuota justa 4.47  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.24 (producto de piernas) · prob. 22% · ventaja -5%  
-
-## Detroit Lions vs Chicago Bears — 26/11 · 19:00
-
-👀 candidata · 🏈 NFL · **Detroit Lions +2.5** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Detroit Lions cubre +2.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Detroit Lions ✅✅✅✅✅ | Chicago Bears ✅✅✅✅✅  
-• H2H: 19 desde 2016: 11-8  
-• Bajas: Detroit Lions: 4 fuera, 21 duda (Ennis Rakestraw Jr., D.J. Reed, Cade Mays); Chicago Bears: 1 fuera, 24 duda (Kyler Gordon)  
-🧩 Combinada: Gana Detroit Lions + Más de 55.5 puntos → prob. 22%, cuota justa 4.47  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.24 (producto de piernas) · prob. 22% · ventaja -5%  
-
-## Detroit Lions vs Chicago Bears — 26/11 · 19:00
-
-👀 candidata · 🏈 NFL · **Gana Detroit Lions** @ **2.22** (DraftKings) · prob 43% vs casas 43% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.300 partidos y bajas)  
-Gana Detroit Lions 54% · Gana Chicago Bears 46%  
-Casas: Detroit Lions 43% · Chicago Bears 57%  
-Hándicap CHI -2.5 · Total puntos 55.5  
-🔎 **Claves**  
-• Forma: Detroit Lions ✅✅✅✅✅ | Chicago Bears ✅✅✅✅✅  
-• H2H: 19 desde 2016: 11-8  
-• Bajas: Detroit Lions: 4 fuera, 21 duda (Ennis Rakestraw Jr., D.J. Reed, Cade Mays); Chicago Bears: 1 fuera, 24 duda (Kyler Gordon)  
-• Favorito de las casas: Chicago Bears @ 1.69  
-🧩 Combinada: Gana Detroit Lions + Más de 55.5 puntos → prob. 22%, cuota justa 4.47  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.24 (producto de piernas) · prob. 22% · ventaja -5%  
+Actualizado 26/11/2026 19:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dallas Cowboys vs Philadelphia Eagles — 26/11 · 22:30
 
