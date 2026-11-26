@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 26/11/2026 05:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 06:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado State Rams vs Clemson Tigers — 26/11 · 06:30
 

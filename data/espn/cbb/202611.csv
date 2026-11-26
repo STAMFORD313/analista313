@@ -1279,10 +1279,12 @@ id,date,event,home,away,hs,as,res
 401915942,2026-11-25T01:37Z,Texas Tech Red Raiders at Louisville Cardinals,Louisville Cardinals,Texas Tech Red Raiders,72,64,1.0
 401921710,2026-11-24T22:00Z,Providence Friars at Arizona Wildcats,Arizona Wildcats,Providence Friars,84,66,1.0
 401906853,2026-11-24T20:00Z,Tennessee Volunteers at Maryland Terrapins,Maryland Terrapins,Tennessee Volunteers,64,72,0.0
+401915943,2026-11-25T04:18Z,Oregon Ducks at St. John's Red Storm,St. John's Red Storm,Oregon Ducks,90,79,1.0
 401916319,2026-11-25T00:00Z,Vanderbilt Commodores at Ohio State Buckeyes,Ohio State Buckeyes,Vanderbilt Commodores,66,72,0.0
 401906762,2026-11-25T03:05Z,Baylor Bears at Alabama Crimson Tide,Alabama Crimson Tide,Baylor Bears,63,68,0.0
 401915941,2026-11-24T20:00Z,Miami Hurricanes at TCU Horned Frogs,TCU Horned Frogs,Miami Hurricanes,84,71,1.0
 401921709,2026-11-24T19:30Z,Ole Miss Rebels at BYU Cougars,BYU Cougars,Ole Miss Rebels,63,73,0.0
+401909800,2026-11-25T05:49Z,Gonzaga Bulldogs at Kansas State Wildcats,Kansas State Wildcats,Gonzaga Bulldogs,61,101,0.0
 401916291,2026-11-25T00:00Z,Jacksonville Dolphins at Indiana Hoosiers,Indiana Hoosiers,Jacksonville Dolphins,82,64,1.0
 401927398,2026-11-24T15:00Z,Wright State Raiders at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Wright State Raiders,72,70,1.0
 401928791,2026-11-24T16:00Z,Ohio Bobcats at New Mexico State Aggies,New Mexico State Aggies,Ohio Bobcats,68,69,0.0
@@ -1358,3 +1360,69 @@ id,date,event,home,away,hs,as,res
 401911535,2026-11-25T02:00Z,UTEP Miners at Charleston Cougars,Charleston Cougars,UTEP Miners,69,80,0.0
 401909699,2026-11-25T02:00Z,UNC Asheville Bulldogs at Florida State Seminoles,Florida State Seminoles,UNC Asheville Bulldogs,97,61,1.0
 401911253,2026-11-25T02:55Z,Saint Louis Billikens at Grand Canyon Lopes,Grand Canyon Lopes,Saint Louis Billikens,91,88,1.0
+401921712,2026-11-25T03:30Z,VCU Rams at Colorado State Rams,Colorado State Rams,VCU Rams,81,84,0.0
+401909763,2026-11-25T06:00Z,Colorado Buffaloes at Stanford Cardinal,Stanford Cardinal,Colorado Buffaloes,65,70,0.0
+401921713,2026-11-26T03:00Z,Washington Huskies at VCU Rams,VCU Rams,Washington Huskies,80,78,1.0
+401920428,2026-11-25T17:00Z,Virginia Cavaliers at Marquette Golden Eagles,Marquette Golden Eagles,Virginia Cavaliers,54,60,0.0
+401921715,2026-11-25T19:30Z,Ole Miss Rebels at Arizona Wildcats,Arizona Wildcats,Ole Miss Rebels,84,73,1.0
+401909568,2026-11-26T00:00Z,Duke Blue Devils at UConn Huskies,UConn Huskies,Duke Blue Devils,63,77,0.0
+401921670,2026-11-25T22:17Z,South Carolina Gamecocks at USC Trojans,USC Trojans,South Carolina Gamecocks,71,69,1.0
+401921716,2026-11-25T22:30Z,BYU Cougars at Providence Friars,Providence Friars,BYU Cougars,82,85,0.0
+401921669,2026-11-25T19:00Z,LSU Tigers at Arizona State Sun Devils,Arizona State Sun Devils,LSU Tigers,92,94,0.0
+401926065,2026-11-25T22:00Z,Southern Jaguars at Nebraska Cornhuskers,Nebraska Cornhuskers,Southern Jaguars,101,72,1.0
+401917182,2026-11-26T00:00Z,Memphis Tigers at Penn State Nittany Lions,Penn State Nittany Lions,Memphis Tigers,70,83,0.0
+401927399,2026-11-25T15:00Z,St. Bonaventure Bonnies at Belmont Bruins,Belmont Bruins,St. Bonaventure Bonnies,68,71,0.0
+401928845,2026-11-25T16:00Z,Rice Owls at Ohio Bobcats,Ohio Bobcats,Rice Owls,74,82,0.0
+401921702,2026-11-25T16:00Z,Northern Iowa Panthers at Charlotte 49ers,Charlotte 49ers,Northern Iowa Panthers,85,72,1.0
+401911201,2026-11-25T16:00Z,Mercy Mavericks at Fordham Rams,Fordham Rams,Mercy Mavericks,104,56,1.0
+401920196,2026-11-25T17:00Z,Penn State Abington Nittany Lions at Saint Joseph's Hawks,Saint Joseph's Hawks,Penn State Abington Nittany Lions,104,48,1.0
+401919762,2026-11-25T17:00Z,Vermont State Randolph Knights at Fairleigh Dickinson Knights,Fairleigh Dickinson Knights,Vermont State Randolph Knights,123,48,1.0
+401920547,2026-11-25T17:30Z,Northern Colorado Bears at Detroit Mercy Titans,Detroit Mercy Titans,Northern Colorado Bears,83,93,0.0
+401928831,2026-11-25T17:31Z,Yale Bulldogs at Wright State Raiders,Wright State Raiders,Yale Bulldogs,70,72,0.0
+401926835,2026-11-25T18:00Z,Lindenwood Lions at Stony Brook Seawolves,Stony Brook Seawolves,Lindenwood Lions,69,63,1.0
+401924268,2026-11-25T18:00Z,Southern Utah Thunderbirds at Long Beach State Beach,Long Beach State Beach,Southern Utah Thunderbirds,65,64,1.0
+401920067,2026-11-25T18:00Z,American International Yellow Jackets at Rhode Island Rams,Rhode Island Rams,American International Yellow Jackets,98,89,1.0
+401911029,2026-11-25T18:00Z,Eastern Kentucky Colonels at Miami (OH) RedHawks,Miami (OH) RedHawks,Eastern Kentucky Colonels,85,72,1.0
+401919007,2026-11-25T18:30Z,Tulane Green Wave at Davidson Wildcats,Davidson Wildcats,Tulane Green Wave,74,47,1.0
+401929406,2026-11-25T19:00Z,Arkansas-Pine Bluff Golden Lions at South Dakota Coyotes,South Dakota Coyotes,Arkansas-Pine Bluff Golden Lions,86,50,1.0
+401928850,2026-11-25T19:00Z,Grace Christian Tigers at Western Michigan Broncos,Western Michigan Broncos,Grace Christian Tigers,104,52,1.0
+401926207,2026-11-25T19:00Z,Montreat Cavaliers at Western Carolina Catamounts,Western Carolina Catamounts,Montreat Cavaliers,100,42,1.0
+401924705,2026-11-25T19:00Z,Saint Peter's Peacocks at Columbia Lions,Columbia Lions,Saint Peter's Peacocks,65,44,1.0
+401922223,2026-11-25T19:00Z,Warner Royals at North Florida Ospreys,North Florida Ospreys,Warner Royals,100,68,1.0
+401920868,2026-11-25T19:00Z,Manhattan Jaspers at NJIT Highlanders,NJIT Highlanders,Manhattan Jaspers,70,81,0.0
+401917967,2026-11-25T19:00Z,Abilene Christian Wildcats at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Abilene Christian Wildcats,95,101,0.0
+401911311,2026-11-25T19:00Z,Johnson & Wales Griffins at Brown Bears,Brown Bears,Johnson & Wales Griffins,98,52,1.0
+401928836,2026-11-25T20:00Z,Akron Zips at App State Mountaineers,App State Mountaineers,Akron Zips,76,66,1.0
+401920548,2026-11-25T20:00Z,SE Louisiana Lions at North Dakota Fighting Hawks,North Dakota Fighting Hawks,SE Louisiana Lions,72,73,0.0
+401919042,2026-11-25T20:00Z,Jackson State Tigers at Oklahoma State Cowboys,Oklahoma State Cowboys,Jackson State Tigers,93,58,1.0
+401928359,2026-11-25T20:30Z,Arkansas State Red Wolves at Florida International Panthers,Florida International Panthers,Arkansas State Red Wolves,88,92,0.0
+401925943,2026-11-25T21:00Z,Bethesda Flames at Utah Tech Trailblazers,Utah Tech Trailblazers,Bethesda Flames,124,54,1.0
+401925050,2026-11-25T21:00Z,Grambling Tigers at LSU New Orleans Privateers,LSU New Orleans Privateers,Grambling Tigers,80,81,0.0
+401924737,2026-11-25T21:00Z,Princeton Tigers at Liberty Flames,Liberty Flames,Princeton Tigers,72,79,0.0
+401921703,2026-11-25T21:00Z,Georgia State Panthers at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,Georgia State Panthers,77,72,1.0
+401920858,2026-11-25T21:00Z,Prairie View A&M Panthers at Marshall Thundering Herd,Marshall Thundering Herd,Prairie View A&M Panthers,64,58,1.0
+401920809,2026-11-25T21:13Z,Texas A&M Aggies at Xavier Musketeers,Xavier Musketeers,Texas A&M Aggies,88,83,1.0
+401925917,2026-11-25T22:00Z,Portland State Vikings at UC Riverside Highlanders,UC Riverside Highlanders,Portland State Vikings,65,72,0.0
+401925688,2026-11-25T22:00Z,Alcorn State Braves at Texas State Bobcats,Texas State Bobcats,Alcorn State Braves,97,70,1.0
+401920237,2026-11-25T22:00Z,Holy Cross Crusaders at Dartmouth Big Green,Dartmouth Big Green,Holy Cross Crusaders,65,67,0.0
+401922253,2026-11-25T23:00Z,West Florida Argonauts at Northwestern State Demons,Northwestern State Demons,West Florida Argonauts,71,57,1.0
+401920549,2026-11-25T23:00Z,Kennesaw State Owls at Charleston Cougars,Charleston Cougars,Kennesaw State Owls,91,77,1.0
+401920299,2026-11-25T23:00Z,Cal State Northridge Matadors at Weber State Wildcats,Weber State Wildcats,Cal State Northridge Matadors,67,89,0.0
+401911241,2026-11-25T23:00Z,Bethune-Cookman Wildcats at Richmond Spiders,Richmond Spiders,Bethune-Cookman Wildcats,86,79,1.0
+401909720,2026-11-25T23:00Z,UAlbany Great Danes at Syracuse Orange,Syracuse Orange,UAlbany Great Danes,74,53,1.0
+401922285,2026-11-26T00:00Z,South Carolina Upstate Spartans at The Citadel Bulldogs,The Citadel Bulldogs,South Carolina Upstate Spartans,72,54,1.0
+401921170,2026-11-26T00:00Z,Case Western Reserve Spartans at Cleveland State Vikings,Cleveland State Vikings,Case Western Reserve Spartans,76,46,1.0
+401921108,2026-11-26T00:00Z,Bellarmine Knights at Northern Kentucky Norse,Northern Kentucky Norse,Bellarmine Knights,52,66,0.0
+401920916,2026-11-26T00:00Z,Northern Illinois Huskies at SIU Edwardsville Cougars,SIU Edwardsville Cougars,Northern Illinois Huskies,65,68,0.0
+401920847,2026-11-26T00:00Z,St. Thomas Tommies at UNC Wilmington Seahawks,UNC Wilmington Seahawks,St. Thomas Tommies,86,77,1.0
+401920076,2026-11-26T00:00Z,Longwood Lancers at George Mason Patriots,George Mason Patriots,Longwood Lancers,93,58,1.0
+401918960,2026-11-26T00:00Z,Norfolk State Spartans at NC State Wolfpack,NC State Wolfpack,Norfolk State Spartans,80,49,1.0
+401911028,2026-11-26T00:00Z,Northeastern Huskies at Wisconsin Badgers,Wisconsin Badgers,Northeastern Huskies,91,54,1.0
+401918971,2026-11-26T00:50Z,SMU Mustangs at Utah State Aggies,Utah State Aggies,SMU Mustangs,93,59,1.0
+401920138,2026-11-26T01:00Z,Cal State Bakersfield Roadrunners at Pepperdine Waves,Pepperdine Waves,Cal State Bakersfield Roadrunners,70,68,1.0
+401911522,2026-11-26T01:00Z,Omaha Mavericks at UC Davis Aggies,UC Davis Aggies,Omaha Mavericks,80,78,1.0
+401920550,2026-11-26T01:45Z,Eastern Michigan Eagles at UTEP Miners,UTEP Miners,Eastern Michigan Eagles,72,54,1.0
+401925880,2026-11-26T02:00Z,Northwest Indian RedHawks at Montana State Bobcats,Montana State Bobcats,Northwest Indian RedHawks,110,43,1.0
+401924897,2026-11-26T02:00Z,Mississippi Valley State Delta Devils at New Mexico Lobos,New Mexico Lobos,Mississippi Valley State Delta Devils,100,77,1.0
+401917545,2026-11-26T02:00Z,Eastern Washington Eagles at Loyola Marymount Lions,Loyola Marymount Lions,Eastern Washington Eagles,81,72,1.0
+401929287,2026-11-26T02:29Z,Wake Forest Demon Deacons at Mississippi State Bulldogs,Mississippi State Bulldogs,Wake Forest Demon Deacons,71,78,0.0
