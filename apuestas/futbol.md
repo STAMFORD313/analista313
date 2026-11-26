@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 26/11/2026 19:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 20:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sao Paulo vs Remo — 27/11 · 00:00
 

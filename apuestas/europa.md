@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 26/11/2026 19:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 20:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Crystal Palace vs Real Sociedad — 26/11 · 21:00
 
