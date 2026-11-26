@@ -3927,7 +3927,9 @@
     "away": "Prato",
     "txt": "Gana Prato",
     "odds": 1.89,
-    "p": 0.562
+    "p": 0.562,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
