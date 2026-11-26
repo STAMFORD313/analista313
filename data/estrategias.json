@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-26 17:22",
+ "fecha": "2026-11-26 17:34",
  "n": 6207,
  "rentables": [
   {
@@ -301,17 +301,6 @@
    "clv": -0.0401,
    "clv_se": 0.0038,
    "clv_n": 31
-  },
-  {
-   "segmento": "cuota=>2.5",
-   "n": 1827,
-   "roi": -0.1151,
-   "se": 0.0419,
-   "roi_antigua": -0.1971,
-   "roi_nueva": -0.0243,
-   "clv": 0.0255,
-   "clv_se": 0.0106,
-   "clv_n": 208
   },
   {
    "segmento": "mercado=ganador",
