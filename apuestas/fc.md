@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 26/11/2026 09:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 26/11/2026 10:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Wboy vs Uncle — 26/11 · 09:55
+## Revange vs Edwardson — 26/11 · 10:22
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.55** (Unibet) · prob 36% vs casas 24% · ventaja +27%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Edwardson** @ **4.70** (Unibet) · prob 30% vs casas 18% · ventaja +41%
 
-- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +41% (mín. 19% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.775 partidos)  
-Goles esperados: Wboy 2.89 · Uncle 2.95  
-Ganador: Wboy 36% · empate 19% · Uncle 45%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Uncle: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 81.805 partidos)  
+Goles esperados: Revange 2.34 · Edwardson 1.94  
+Ganador: Revange 47% · empate 23% · Edwardson 30%  
+Total: más de 4.5 goles 43% · menos 57%  
+Hándicap Revange: −1.5 29% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Wboy ✅✅✅❌❌ | Uncle ✅❌❌❌✅  
-• Partidos: Wboy 1298 | Uncle 876  
-• Liga: Serie A  
-• Unibet: 1 3.55 · X 3.55 · 2 1.71 (sin margen 25%/25%/51%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.55 (+27%) · Paf España 3.55 (+27%)  
+• Forma: Revange ✅✅❌✅➖ | Edwardson ❌❌✅❌➖  
+• Partidos: Revange 719 | Edwardson 1488  
+• Liga: Champions League AFC  
+• Unibet: 1 1.33 · X 5.20 · 2 4.70 (sin margen 65%/17%/18%) · ventaja +41%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.70 (+41%) · Paf España 4.70 (+41%)  
 
-## TikitakaMaster vs flamez — 26/11 · 09:56
+## crinner vs Smetana — 26/11 · 10:36
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **2.15** (Unibet) · prob 58% vs casas 41% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **6.75** (Unibet) · prob 19% vs casas 13% · ventaja +28%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.775 partidos)  
-Goles esperados: TikitakaMaster 4.55 · flamez 3.29  
-Ganador: TikitakaMaster 58% · empate 15% · flamez 27%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap TikitakaMaster: −1.5 46% · −2.5 32%  
+📊 **Escenarios** (Poisson por jugador, 81.805 partidos)  
+Goles esperados: crinner 3.15 · Smetana 2.94  
+Ganador: crinner 36% · empate 19% · Smetana 45%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap crinner: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: TikitakaMaster ✅✅✅✅✅ | flamez ❌❌➖❌❌  
-• Partidos: TikitakaMaster 883 | flamez 985  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.15 · X 5.10 · 2 2.07 (sin margen 41%/17%/42%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+24%) · Paf España 2.15 (+24%)  
+• Forma: crinner ❌✅➖❌❌ | Smetana ✅✅➖➖❌  
+• Partidos: crinner 1263 | Smetana 1517  
+• Liga: EFL Championship  
+• Unibet: 1 2.30 · X 6.75 · 2 1.81 (sin margen 38%/13%/49%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.75 (+28%) · Paf España 6.75 (+28%)  
 
-## Uncle vs Bomb1to — 26/11 · 10:07
+## saportj vs crinner — 26/11 · 10:48
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.80** (Unibet) · prob 42% vs casas 31% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **6.25** (Unibet) · prob 20% vs casas 14% · ventaja +22%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 81.775 partidos)  
-Goles esperados: Uncle 2.56 · Bomb1to 2.73  
-Ganador: Uncle 37% · empate 21% · Bomb1to 43%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Bomb1to: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 81.805 partidos)  
+Goles esperados: saportj 2.13 · crinner 3.06  
+Ganador: saportj 26% · empate 20% · crinner 54%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap crinner: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: Uncle ✅❌❌❌✅ | Bomb1to ✅❌❌✅✅  
-• Partidos: Uncle 876 | Bomb1to 1522  
-• Liga: Serie A  
-• Unibet: 1 2.70 · X 2.33 · 2 2.80 (sin margen 32%/37%/31%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+19%) · Paf España 2.80 (+19%)  
+• Forma: saportj ❌❌➖✅✅ | crinner ❌✅➖❌❌  
+• Partidos: saportj 1205 | crinner 1263  
+• Liga: EFL Championship  
+• Unibet: 1 3.30 · X 6.25 · 2 1.45 (sin margen 26%/14%/60%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+22%) · Paf España 6.25 (+22%)  
 

@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 26/11/2026 09:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## KAMUI vs Tulpar — 26/11 · 10:00
-
-👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana Tulpar** @ **2.40** (Thunderpick) · prob 40% vs casas 38% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.267 partidos)  
-Mapa: KAMUI 55% · Serie BO3: KAMUI 58% - 42% Tulpar  
-Casas: KAMUI 62% · Tulpar 38%  
-🔎 **Claves**  
-• Elo: KAMUI 1637 (17 series) | Tulpar 1582 (2 series)  
-• Forma: KAMUI ✅✅✅❌❌ | Tulpar ✅✅  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 11 Play-In (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• KAMUI gana 2-1: 24% → cuota justa 4.18  
-• Tulpar gana 2-1: 19% → cuota justa 5.14  
+Actualizado 26/11/2026 10:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Young TigeRES vs ABT — 26/11 · 12:30
 
