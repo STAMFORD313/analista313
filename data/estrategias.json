@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-27 10:22",
- "n": 6348,
+ "fecha": "2026-11-27 10:52",
+ "n": 6349,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5 · ventaja=<0",
@@ -375,11 +375,11 @@
   },
   {
    "segmento": "ventaja=5-15%",
-   "n": 1665,
-   "roi": -0.0951,
+   "n": 1666,
+   "roi": -0.0943,
    "se": 0.0359,
    "roi_antigua": -0.0947,
-   "roi_nueva": -0.0954,
+   "roi_nueva": -0.0939,
    "clv": -0.0163,
    "clv_se": 0.0119,
    "clv_n": 64
@@ -416,11 +416,11 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 3005,
-   "roi": -0.0705,
+   "n": 3006,
+   "roi": -0.0701,
    "se": 0.0276,
    "roi_antigua": -0.1169,
-   "roi_nueva": -0.0207,
+   "roi_nueva": -0.0199,
    "clv": 0.016,
    "clv_se": 0.004,
    "clv_n": 409
@@ -482,11 +482,11 @@
   },
   {
    "segmento": "mercado=1X2 · ventaja=5-15%",
-   "n": 1549,
-   "roi": -0.0899,
+   "n": 1550,
+   "roi": -0.0891,
    "se": 0.0378,
    "roi_antigua": -0.0822,
-   "roi_nueva": -0.0977,
+   "roi_nueva": -0.0961,
    "clv": -0.0143,
    "clv_se": 0.0101,
    "clv_n": 47
@@ -548,19 +548,19 @@
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=5-15%",
-   "n": 1502,
-   "roi": -0.0875,
+   "n": 1503,
+   "roi": -0.0867,
    "se": 0.0387,
    "roi_antigua": -0.0737,
-   "roi_nueva": -0.1015
+   "roi_nueva": -0.0998
   },
   {
    "segmento": "deporte=🎮⚽ · ventaja=5-15%",
-   "n": 1502,
-   "roi": -0.0875,
+   "n": 1503,
+   "roi": -0.0867,
    "se": 0.0387,
    "roi_antigua": -0.0737,
-   "roi_nueva": -0.1015
+   "roi_nueva": -0.0998
   },
   {
    "segmento": "deporte=🏈 · mercado=hándicap · ventaja=<0",
@@ -575,19 +575,19 @@
   },
   {
    "segmento": "deporte=🎮⚽",
-   "n": 2596,
-   "roi": -0.0684,
+   "n": 2597,
+   "roi": -0.0679,
    "se": 0.0309,
    "roi_antigua": -0.1157,
-   "roi_nueva": -0.0168
+   "roi_nueva": -0.0159
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2",
-   "n": 2596,
-   "roi": -0.0684,
+   "n": 2597,
+   "roi": -0.0679,
    "se": 0.0309,
    "roi_antigua": -0.1157,
-   "roi_nueva": -0.0168
+   "roi_nueva": -0.0159
   },
   {
    "segmento": "mercado=ganador · cuota=>2.5 · ventaja=>15%",
