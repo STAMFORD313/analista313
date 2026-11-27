@@ -1238,18 +1238,44 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1641196339,2026-11-27 15:13:50+00:00,CS2 - CCT European Series 15,Nordic Partners,XMETA,moneyline,,2.62,1.4902,,,,2026-11-27 14:49:45.264887+00:00
 1641196339,2026-11-27 15:13:50+00:00,CS2 - CCT European Series 15,Nordic Partners,XMETA,spread,1.5,1.5587,2.45,,,,2026-11-27 14:49:45.264887+00:00
 1641196339,2026-11-27 15:13:50+00:00,CS2 - CCT European Series 15,Nordic Partners,XMETA,total,2.5,,,,2.12,1.7353,2026-11-27 14:49:45.264887+00:00
-1641220421,2026-11-28 05:00:00+00:00,CS2 - PGL Major Singapore,G2,Liquid,moneyline,,1.8333,2.02,,,,2026-11-27 15:20:13.100715+00:00
-1641219183,2026-11-28 06:00:00+00:00,CS2 - PGL Major Singapore,Nemiga,Ninjas In Pyjamas,moneyline,,1.8696,1.9804,,,,2026-11-27 15:20:13.100715+00:00
-1641228453,2026-11-28 04:00:00+00:00,CS2 - PGL Major Singapore,1W,Eternal Fire,moneyline,,1.8065,2.06,,,,2026-11-27 15:20:13.100715+00:00
-1641228454,2026-11-28 06:00:00+00:00,CS2 - PGL Major Singapore,Natus Vincere,PVISION,moneyline,,1.5882,2.44,,,,2026-11-27 15:20:13.100715+00:00
-1641220397,2026-11-27 17:00:00+00:00,Dota 2 - BLAST Slam,PVISION,Aurora,moneyline,,1.2128,4.44,,,,2026-11-27 15:20:13.100715+00:00
-1641220397,2026-11-27 17:00:00+00:00,Dota 2 - BLAST Slam,PVISION,Aurora,spread,-1.5,1.8547,2.0,,,,2026-11-27 15:20:13.100715+00:00
-1641220397,2026-11-27 17:00:00+00:00,Dota 2 - BLAST Slam,PVISION,Aurora,total,2.5,,,,2.31,1.5848,2026-11-27 15:20:13.100715+00:00
-1641211175,2026-11-28 05:00:00+00:00,CS2 - PGL Major Singapore,FUT,FlyQuest,moneyline,,1.4,3.08,,,,2026-11-27 15:20:13.100715+00:00
-1641020826,2026-11-27 20:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,Solid,BRASIL2002,moneyline,,1.4274,2.72,,,,2026-11-27 15:20:13.100715+00:00
-1641020826,2026-11-27 20:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,Solid,BRASIL2002,spread,-1.5,2.35,1.565,,,,2026-11-27 15:20:13.100715+00:00
-1641020826,2026-11-27 20:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,Solid,BRASIL2002,total,2.5,,,,2.05,1.7463,2026-11-27 15:20:13.100715+00:00
-1641220378,2026-11-28 06:00:00+00:00,CS2 - PGL Major Singapore,Astralis,Imperial,moneyline,,1.6452,2.32,,,,2026-11-27 15:20:13.100715+00:00
-1641020827,2026-11-27 23:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,2GAME,Mafiosos,moneyline,,1.3717,2.92,,,,2026-11-27 15:20:13.100715+00:00
-1641020827,2026-11-27 23:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,2GAME,Mafiosos,spread,-1.5,2.22,1.6329,,,,2026-11-27 15:20:13.100715+00:00
-1641020827,2026-11-27 23:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,2GAME,Mafiosos,total,2.5,,,,2.1,1.7092,2026-11-27 15:20:13.100715+00:00
+1641211175,2026-11-28 04:00:00+00:00,CS2 - PGL Major Singapore,FUT,FlyQuest,moneyline,,1.4,3.08,,,,2026-11-27 15:49:58.982101+00:00
+1641219207,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Eintracht Frankfurt,UCAM,moneyline,,1.7874,2.0,,,,2026-11-27 15:49:58.982101+00:00
+1641219207,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Eintracht Frankfurt,UCAM,spread,-1.5,3.13,1.3279,,,,2026-11-27 15:49:58.982101+00:00
+1641219207,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Eintracht Frankfurt,UCAM,total,2.5,,,,1.9434,1.8333,2026-11-27 15:49:58.982101+00:00
+1641228440,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Aurora,Mandatory,moneyline,,1.5917,2.3,,,,2026-11-27 15:49:58.982101+00:00
+1641228440,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Aurora,Mandatory,spread,-1.5,2.76,1.4167,,,,2026-11-27 15:49:58.982101+00:00
+1641228440,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Aurora,Mandatory,total,2.5,,,,1.9709,1.8065,2026-11-27 15:49:58.982101+00:00
+1641020827,2026-11-27 23:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,2GAME,Mafiosos,moneyline,,1.3717,2.92,,,,2026-11-27 15:49:58.982101+00:00
+1641020827,2026-11-27 23:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,2GAME,Mafiosos,spread,-1.5,2.22,1.6329,,,,2026-11-27 15:49:58.982101+00:00
+1641020827,2026-11-27 23:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,2GAME,Mafiosos,total,2.5,,,,2.1,1.7092,2026-11-27 15:49:58.982101+00:00
+1641228454,2026-11-28 07:00:00+00:00,CS2 - PGL Major Singapore,Natus Vincere,PVISION,moneyline,,1.5435,2.56,,,,2026-11-27 15:49:58.982101+00:00
+1641220408,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,MIR,F9 EICAR,moneyline,,2.34,1.5682,,,,2026-11-27 15:49:58.982101+00:00
+1641220408,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,MIR,F9 EICAR,spread,1.5,1.4348,2.69,,,,2026-11-27 15:49:58.982101+00:00
+1641220408,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,MIR,F9 EICAR,total,2.5,,,,1.9804,1.8,2026-11-27 15:49:58.982101+00:00
+1641219208,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Joblife,NAVI Junior,moneyline,,1.9346,1.8403,,,,2026-11-27 15:49:58.982101+00:00
+1641219208,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Joblife,NAVI Junior,spread,1.5,1.3058,3.24,,,,2026-11-27 15:49:58.982101+00:00
+1641219208,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Joblife,NAVI Junior,total,2.5,,,,1.9434,1.8333,2026-11-27 15:49:58.982101+00:00
+1641220397,2026-11-27 17:00:00+00:00,Dota 2 - BLAST Slam,PVISION,Aurora,moneyline,,1.2062,4.53,,,,2026-11-27 15:49:58.982101+00:00
+1641220397,2026-11-27 17:00:00+00:00,Dota 2 - BLAST Slam,PVISION,Aurora,spread,-1.5,1.8333,2.03,,,,2026-11-27 15:49:58.982101+00:00
+1641220397,2026-11-27 17:00:00+00:00,Dota 2 - BLAST Slam,PVISION,Aurora,total,2.5,,,,2.33,1.5747,2026-11-27 15:49:58.982101+00:00
+1641254773,2026-11-28 07:00:00+00:00,CS2 - PGL Major Singapore,MIBR,100 Thieves,moneyline,,2.03,1.8333,,,,2026-11-27 15:49:58.982101+00:00
+1641228439,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Barca,La Masia,moneyline,,1.2331,3.74,,,,2026-11-27 15:49:58.982101+00:00
+1641228439,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Barca,La Masia,spread,-1.5,1.9091,1.8621,,,,2026-11-27 15:49:58.982101+00:00
+1641228439,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Barca,La Masia,total,2.5,,,,2.26,1.6098,2026-11-27 15:49:58.982101+00:00
+1641220378,2026-11-28 05:00:00+00:00,CS2 - PGL Major Singapore,Astralis,Imperial,moneyline,,1.7407,2.15,,,,2026-11-27 15:49:58.982101+00:00
+1641228441,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,MasterProMega,Pixel Lumina,moneyline,,2.36,1.5618,,,,2026-11-27 15:49:58.982101+00:00
+1641228441,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,MasterProMega,Pixel Lumina,spread,1.5,1.4444,2.67,,,,2026-11-27 15:49:58.982101+00:00
+1641228441,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,MasterProMega,Pixel Lumina,total,2.5,,,,1.9804,1.7937,2026-11-27 15:49:58.982101+00:00
+1641020826,2026-11-27 20:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,Solid,BRASIL2002,moneyline,,1.4274,2.72,,,,2026-11-27 15:49:58.982101+00:00
+1641020826,2026-11-27 20:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,Solid,BRASIL2002,spread,-1.5,2.35,1.565,,,,2026-11-27 15:49:58.982101+00:00
+1641020826,2026-11-27 20:00:00+00:00,Valorant - Americas Kickoff: Brazil Qualifier,Solid,BRASIL2002,total,2.5,,,,2.05,1.7463,2026-11-27 15:49:58.982101+00:00
+1641228453,2026-11-28 04:00:00+00:00,CS2 - PGL Major Singapore,1W,Eternal Fire,moneyline,,1.7937,2.08,,,,2026-11-27 15:49:58.982101+00:00
+1641220421,2026-11-28 06:00:00+00:00,CS2 - PGL Major Singapore,G2,Liquid,moneyline,,1.7692,2.11,,,,2026-11-27 15:49:58.982101+00:00
+1641254771,2026-11-28 04:00:00+00:00,CS2 - PGL Major Singapore,The MongolZ,Lynn Vision,moneyline,,1.4115,3.03,,,,2026-11-27 15:49:58.982101+00:00
+1641220409,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,GIANTX,WIP,moneyline,,1.9901,1.7874,,,,2026-11-27 15:49:58.982101+00:00
+1641220409,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,GIANTX,WIP,spread,1.5,1.3279,3.12,,,,2026-11-27 15:49:58.982101+00:00
+1641220409,2026-11-27 18:30:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,GIANTX,WIP,total,2.5,,,,1.9434,1.8264,2026-11-27 15:49:58.982101+00:00
+1641228437,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Enterprise,CGN,moneyline,,1.9524,1.8197,,,,2026-11-27 15:49:58.982101+00:00
+1641228437,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Enterprise,CGN,spread,1.5,1.3106,3.21,,,,2026-11-27 15:49:58.982101+00:00
+1641228437,2026-11-27 16:00:00+00:00,Valorant - EMEA Kickoff: Europe Qualifier,Enterprise,CGN,total,2.5,,,,1.9434,1.8333,2026-11-27 15:49:58.982101+00:00
+1641219183,2026-11-28 05:00:00+00:00,CS2 - PGL Major Singapore,Nemiga,Ninjas In Pyjamas,moneyline,,1.8696,1.9804,,,,2026-11-27 15:49:58.982101+00:00
