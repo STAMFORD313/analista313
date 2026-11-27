@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-26 17:56",
+ "fecha": "2026-11-27 06:01",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "spirit-academy-dota2-vs-inner-circle-26-11-2026",
+     "team-synapse-vs-power-rangers-dota2-27-11-2026",
      "European Pro League Season 41"
     ],
     [
-     "team-synapse-vs-27d2cddfed-27-11-2026",
+     "spirit-academy-dota2-vs-2df3e64a03-27-11-2026",
      "European Pro League Season 41"
     ],
     [
-     "305b0fe26b-vs-89c960afb2-27-11-2026",
+     "inner-circle-vs-198b4687a8-28-11-2026",
      "European Pro League Season 41"
     ]
    ]
@@ -121,18 +121,20 @@
  },
  "kambi_esports": {
   "Esports / CS2 / ROG Journey": 7,
-  "Esports / Valorant / VCT: Americas Kick-Off Brazil Qual.": 4,
+  "Esports / CS2 / PGL Major": 6,
+  "Esports / CS2 / European Pro League": 4,
+  "Esports / CS2 / CCT European Series 16": 4,
   "Esports / Valorant / VCT: Americas Kick-Off NA Qual.": 4,
-  "Esports / CS2 / PGL Major": 3,
-  "Esports / CS2 / European Pro League": 3,
-  "Esports / Valorant / VCT: EMEA Kick-Off EU Qual.": 2,
-  "Esports / Valorant / VCT: Americas Kick-Off LAN Qual.": 2,
   "Esports / Dota 2 / BLAST Slam": 2,
-  "Esports / CS2 / CCT European Series 15": 1,
-  "Esports / CS2 / CCT European Series 16": 1,
+  "Esports / CS2 / CCT European Series 15": 2,
+  "Esports / Valorant / VCT: Americas Kick-Off Brazil Qual.": 2,
+  "Esports / Valorant / VCT: EMEA Kick-Off Turkey Qual.": 2,
+  "Esports / Dota 2 / EPL World Series SEA": 1,
   "Esports / Valorant / VCT: Pacific Kick-Off Oceania Qual.": 1,
+  "Esports / Valorant / China National Tournament Split Omega: Pro Division": 1,
   "Esports / CS2 / United21": 1,
-  "Esports / Valorant / VCT: EMEA Kick-Off Turkey Qual.": 1,
+  "Esports / Dota 2 / European Pro League": 1,
+  "Esports / Valorant / VCT: Americas Kick-Off LAN Qual.": 1,
   "Esports / CS2 / CROSSFIRE": 1
  }
 }
