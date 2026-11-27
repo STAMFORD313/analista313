@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 16:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 17:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rakow vs Piast Gliwice — 27/11 · 18:00
 
@@ -8839,6 +8839,7 @@ Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%
 Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
 
 ## Vicenza vs Cesena — 28/11 · 17:15
 
@@ -8846,6 +8847,312 @@ Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.34)  
+1 29% · X 29% · 2 42%  
+1X 58% · X2 71% · 12 71%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
+• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
+• Favorito de las casas: Cesena @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
+Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
+Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
+
+## Angers vs Lens — 28/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Lens** @ **2.80** (Unibet) · prob 36% vs casas 33% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.72)  
+1 15% · X 24% · 2 61%  
+1X 39% · X2 85% · 12 76%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
+• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
+• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
+• Favorito de las casas: Lens @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
+Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
+Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
+Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
+
+## Angers vs Lens — 28/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 4.5 córners de Lens** @ **1.37** (Unibet) · prob 64% vs casas 67% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.72)  
+1 15% · X 24% · 2 61%  
+1X 39% · X2 85% · 12 76%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
+• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
+• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
+• Favorito de las casas: Lens @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
+Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
+Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
+Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
+
+## Angers vs Lens — 28/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.18** (Unibet) · prob 77% vs casas 77% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.72)  
+1 15% · X 24% · 2 61%  
+1X 39% · X2 85% · 12 76%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
+• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
+• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
+• Favorito de las casas: Lens @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
+Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
+Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
+Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
+
+## Angers vs Lens — 28/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 9.5 córners** @ **2.23** (Unibet) · prob 44% vs casas 41% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.72)  
+1 15% · X 24% · 2 61%  
+1X 39% · X2 85% · 12 76%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
+• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
+• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
+• Favorito de las casas: Lens @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
+Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
+Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
+Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
+
+## Angers vs Lens — 28/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Angers** @ **1.63** (Unibet) · prob 58% vs casas 56% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.72)  
+1 15% · X 24% · 2 61%  
+1X 39% · X2 85% · 12 76%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
+• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
+• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
+• Favorito de las casas: Lens @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
+Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
+Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
+Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
+
+## Angers vs Lens — 28/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Angers** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.72)  
+1 15% · X 24% · 2 61%  
+1X 39% · X2 85% · 12 76%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
+• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
+• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
+• Favorito de las casas: Lens @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
+Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
+Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
+Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
+
+## Vicenza vs Cesena — 28/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Cesena** @ **1.53** (Unibet) · prob 57% vs casas 59% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.34)  
+1 29% · X 29% · 2 42%  
+1X 58% · X2 71% · 12 71%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
+• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
+• Favorito de las casas: Cesena @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
+Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
+Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
+
+## Vicenza vs Cesena — 28/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Cesena** @ **1.61** (Unibet) · prob 58% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.34)  
+1 29% · X 29% · 2 42%  
+1X 58% · X2 71% · 12 71%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
+• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
+• Favorito de las casas: Cesena @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
+Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
+Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
+
+## Vicenza vs Cesena — 28/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.73** (Unibet) · prob 50% vs casas 52% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.34)  
+1 29% · X 29% · 2 42%  
+1X 58% · X2 71% · 12 71%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
+• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
+• Favorito de las casas: Cesena @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
+Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
+Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
+
+## Vicenza vs Cesena — 28/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 11.5 córners** @ **1.33** (Unibet) · prob 71% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.34)  
+1 29% · X 29% · 2 42%  
+1X 58% · X2 71% · 12 71%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
+• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
+• Favorito de las casas: Cesena @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
+Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
+Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
+
+## Vicenza vs Cesena — 28/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Vicenza** @ **1.98** (Unibet) · prob 44% vs casas 45% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.34)  
+1 29% · X 29% · 2 42%  
+1X 58% · X2 71% · 12 71%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
+• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
+• Favorito de las casas: Cesena @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
+Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
+Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
+
+## Vicenza vs Cesena — 28/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 6.5 córners de Vicenza** @ **1.36** (Unibet) · prob 67% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.15 - 1.34)  
 1 29% · X 29% · 2 42%  
