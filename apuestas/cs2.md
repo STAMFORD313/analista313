@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 12:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bebop vs Spirit Academy Green — 27/11 · 12:30
-
-👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana Spirit Academy Green** @ **1.65** (Thunderpick) · prob 61% vs casas 56% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.301 partidos)  
-Mapa: Bebop 39% · Serie BO3: Bebop 33% - 67% Spirit Academy Green  
-Casas: Bebop 44% · Spirit Academy Green 56%  
-🔎 **Claves**  
-• Elo: Bebop 1455 (118 series) | Spirit Academy Green 1579 (42 series)  
-• Forma: Bebop ✅❌❌❌✅ | Spirit Academy Green ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 11 Play-In (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Bebop gana 2-1: 16% → cuota justa 6.38  
-• Spirit Academy Green gana 2-1: 25% → cuota justa 4.01  
+Actualizado 27/11/2026 12:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BOJONG vs HAVU — 27/11 · 19:00
 
