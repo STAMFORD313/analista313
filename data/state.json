@@ -1304,9 +1304,6 @@
   "cbb|2026-11-30|Grand Canyon Lopes|Incarnate Word Cardinals",
   "cbb|2026-11-27|UCLA Bruins|Georgetown Hoyas",
   "cbb|2026-11-27|Saint Mary's Gaels|Texas Longhorns",
-  "cs2|133877",
-  "fc|2390957",
-  "fc|2391735",
   "fc|2390955",
   "dota2|134244",
   "fc|2391744",
@@ -2306,7 +2303,10 @@
   "fc|2400431",
   "fc|2399734",
   "fc|2400430",
-  "fc|2400816"
+  "fc|2400816",
+  "fc|2400819",
+  "fc|2400437",
+  "fc|2402078"
  ],
  "signals": [
   {
@@ -4322,7 +4322,11 @@
    "version": "8256301",
    "bajas": "Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-10",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4343,7 +4347,9 @@
    "version": "8256301",
    "bajas": "Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "13-10"
   },
   {
    "market": "home",
@@ -4363,7 +4369,11 @@
    "version": "8256301",
    "bajas": "Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "13-10",
+   "close_p": 0.6033,
+   "logged": true
   },
   {
    "market": "over",
@@ -4385,7 +4395,11 @@
    "version": "8256301",
    "bajas": "Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "48-27",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4406,7 +4420,11 @@
    "version": "8256301",
    "bajas": "Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "48-27",
+   "close_p": 0.5125,
+   "logged": true
   },
   {
    "market": "home",
@@ -4426,7 +4444,11 @@
    "version": "8256301",
    "bajas": "Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "48-27",
+   "close_p": 0.8267,
+   "logged": true
   },
   {
    "market": "home",
@@ -15568,15 +15590,6 @@
    "pick": "Más de 153.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>140.5</b> puntos · línea 153.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Oregon Ducks ✅✅➖❌❌ | Texas Tech Red Raiders ✅✅✅✅❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Oregon Ducks: sin bajas; Texas Tech Red Raiders: sin bajas"
-   ],
    "context": "Oregon Ducks vs Texas Tech Red Raiders (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 140.5 frente a línea 153.5. Forma Oregon Ducks ✅✅➖❌❌, Texas Tech Red Raiders ✅✅✅✅❌. H2H sin precedentes. Bajas: Oregon Ducks: sin bajas; Texas Tech Red Raiders: sin bajas.",
    "captured": "2026-11-25T07:13",
    "version": "18e7857",
@@ -15598,14 +15611,6 @@
    "pick": "Oregon Ducks +8.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Oregon Ducks cubre +8.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Oregon Ducks ✅✅➖❌❌ | Texas Tech Red Raiders ✅✅✅✅❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Oregon Ducks: sin bajas; Texas Tech Red Raiders: sin bajas"
-   ],
    "context": "Oregon Ducks vs Texas Tech Red Raiders (🏀 NCAA Basketball). Hándicap Oregon Ducks +8.5: margen esperado desde el Elo (gana Oregon Ducks 31%). Forma Oregon Ducks ✅✅➖❌❌, Texas Tech Red Raiders ✅✅✅✅❌. H2H sin precedentes. Bajas: Oregon Ducks: sin bajas; Texas Tech Red Raiders: sin bajas.",
    "captured": "2026-11-25T07:13",
    "version": "18e7857",
@@ -15626,18 +15631,6 @@
    "start": "2026-11-27T04:30Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.202 partidos y bajas)",
-    "Gana Oregon Ducks 31% · Gana Texas Tech Red Raiders 69%",
-    "Casas: Oregon Ducks 22% · Texas Tech Red Raiders 78%",
-    "Hándicap TTU -8.5 · Total puntos 153.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Oregon Ducks ✅✅➖❌❌ | Texas Tech Red Raiders ✅✅✅✅❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Oregon Ducks: sin bajas; Texas Tech Red Raiders: sin bajas",
-    "• Favorito de las casas: Texas Tech Red Raiders @ 1.23"
-   ],
    "context": "Oregon Ducks vs Texas Tech Red Raiders (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Oregon Ducks 31%, Texas Tech Red Raiders 69%. Cuotas DraftKings 4.4/1.227, hándicap TTU -8.5, total 153.5. Forma Oregon Ducks ✅✅➖❌❌, Texas Tech Red Raiders ✅✅✅✅❌. H2H sin precedentes. Bajas Oregon Ducks: ninguna. Bajas Texas Tech Red Raiders: ninguna.",
    "captured": "2026-11-25T07:13",
    "version": "18e7857",
@@ -15928,15 +15921,6 @@
    "pick": "Más de 160.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>157.8</b> puntos · línea 160.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Baylor Bears ✅✅❌✅✅ | Gonzaga Bulldogs ✅✅❌✅✅",
-    "• H2H: 5 desde 2019: 2-2",
-    "• Bajas: Baylor Bears: sin bajas; Gonzaga Bulldogs: sin bajas"
-   ],
    "context": "Baylor Bears vs Gonzaga Bulldogs (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 157.8 frente a línea 160.5. Forma Baylor Bears ✅✅❌✅✅, Gonzaga Bulldogs ✅✅❌✅✅. H2H 5 desde 2019: 2-2. Bajas: Baylor Bears: sin bajas; Gonzaga Bulldogs: sin bajas.",
    "captured": "2026-11-25T08:14",
    "version": "ef88484",
@@ -15958,14 +15942,6 @@
    "pick": "Baylor Bears +4.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Baylor Bears cubre +4.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Baylor Bears ✅✅❌✅✅ | Gonzaga Bulldogs ✅✅❌✅✅",
-    "• H2H: 5 desde 2019: 2-2",
-    "• Bajas: Baylor Bears: sin bajas; Gonzaga Bulldogs: sin bajas"
-   ],
    "context": "Baylor Bears vs Gonzaga Bulldogs (🏀 NCAA Basketball). Hándicap Baylor Bears +4.5: margen esperado desde el Elo (gana Baylor Bears 44%). Forma Baylor Bears ✅✅❌✅✅, Gonzaga Bulldogs ✅✅❌✅✅. H2H 5 desde 2019: 2-2. Bajas: Baylor Bears: sin bajas; Gonzaga Bulldogs: sin bajas.",
    "captured": "2026-11-25T08:14",
    "version": "ef88484",
@@ -15986,18 +15962,6 @@
    "start": "2026-11-27T04:30Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.204 partidos y bajas)",
-    "Gana Baylor Bears 44% · Gana Gonzaga Bulldogs 56%",
-    "Casas: Baylor Bears 34% · Gonzaga Bulldogs 66%",
-    "Hándicap GONZ -4.5 · Total puntos 160.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Baylor Bears ✅✅❌✅✅ | Gonzaga Bulldogs ✅✅❌✅✅",
-    "• H2H: 5 desde 2019: 2-2",
-    "• Bajas: Baylor Bears: sin bajas; Gonzaga Bulldogs: sin bajas",
-    "• Favorito de las casas: Gonzaga Bulldogs @ 1.44"
-   ],
    "context": "Baylor Bears vs Gonzaga Bulldogs (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Baylor Bears 44%, Gonzaga Bulldogs 56%. Cuotas DraftKings 2.85/1.444, hándicap GONZ -4.5, total 160.5. Forma Baylor Bears ✅✅❌✅✅, Gonzaga Bulldogs ✅✅❌✅✅. H2H 5 desde 2019: 2-2. Bajas Baylor Bears: ninguna. Bajas Gonzaga Bulldogs: ninguna.",
    "captured": "2026-11-25T08:14",
    "version": "ef88484",
@@ -17626,7 +17590,11 @@
    "version": "6c30131",
    "bajas": "St. John's Red Storm: sin bajas; Louisville Cardinals: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "90-93",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -17647,7 +17615,11 @@
    "version": "6c30131",
    "bajas": "St. John's Red Storm: sin bajas; Louisville Cardinals: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "90-93",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -17667,7 +17639,11 @@
    "version": "6c30131",
    "bajas": "St. John's Red Storm: sin bajas; Louisville Cardinals: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "90-93",
+   "close_p": 0.5162,
+   "logged": true
   },
   {
    "market": "over",
@@ -17689,7 +17665,11 @@
    "version": "6c30131",
    "bajas": "Kansas State Wildcats: sin bajas; Alabama Crimson Tide: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "91-104",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -17710,7 +17690,11 @@
    "version": "6c30131",
    "bajas": "Kansas State Wildcats: sin bajas; Alabama Crimson Tide: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "91-104",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -17730,7 +17714,11 @@
    "version": "6c30131",
    "bajas": "Kansas State Wildcats: sin bajas; Alabama Crimson Tide: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "91-104",
+   "close_p": 0.8909,
+   "logged": true
   },
   {
    "market": "over",
@@ -17747,15 +17735,6 @@
    "pick": "Más de 160.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>146.9</b> puntos · línea 160.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Gonzaga Bulldogs ✅✅❌✅✅ | Baylor Bears ✅✅❌✅✅",
-    "• H2H: 5 desde 2019: 2-2",
-    "• Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas"
-   ],
    "context": "Gonzaga Bulldogs vs Baylor Bears (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 146.9 frente a línea 160.5. Forma Gonzaga Bulldogs ✅✅❌✅✅, Baylor Bears ✅✅❌✅✅. H2H 5 desde 2019: 2-2. Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas.",
    "captured": "2026-11-25T17:12",
    "version": "6c30131",
@@ -17777,14 +17756,6 @@
    "pick": "Gonzaga Bulldogs -4.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Gonzaga Bulldogs cubre -4.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Gonzaga Bulldogs ✅✅❌✅✅ | Baylor Bears ✅✅❌✅✅",
-    "• H2H: 5 desde 2019: 2-2",
-    "• Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas"
-   ],
    "context": "Gonzaga Bulldogs vs Baylor Bears (🏀 NCAA Basketball). Hándicap Gonzaga Bulldogs -4.5: margen esperado desde el Elo (gana Gonzaga Bulldogs 80%). Forma Gonzaga Bulldogs ✅✅❌✅✅, Baylor Bears ✅✅❌✅✅. H2H 5 desde 2019: 2-2. Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas.",
    "captured": "2026-11-25T17:12",
    "version": "6c30131",
@@ -17805,18 +17776,6 @@
    "start": "2026-11-27T04:30Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.205 partidos y bajas)",
-    "Gana Gonzaga Bulldogs 80% · Gana Baylor Bears 20%",
-    "Casas: Gonzaga Bulldogs 66% · Baylor Bears 34%",
-    "Hándicap GONZ -4.5 · Total puntos 160.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Gonzaga Bulldogs ✅✅❌✅✅ | Baylor Bears ✅✅❌✅✅",
-    "• H2H: 5 desde 2019: 2-2",
-    "• Bajas: Gonzaga Bulldogs: sin bajas; Baylor Bears: sin bajas",
-    "• Favorito de las casas: Gonzaga Bulldogs @ 1.44"
-   ],
    "context": "Gonzaga Bulldogs vs Baylor Bears (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Gonzaga Bulldogs 80%, Baylor Bears 20%. Cuotas DraftKings 1.444/2.85, hándicap GONZ -4.5, total 160.5. Forma Gonzaga Bulldogs ✅✅❌✅✅, Baylor Bears ✅✅❌✅✅. H2H 5 desde 2019: 2-2. Bajas Gonzaga Bulldogs: ninguna. Bajas Baylor Bears: ninguna.",
    "captured": "2026-11-25T17:12",
    "version": "6c30131",
@@ -28369,7 +28328,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -28385,23 +28348,114 @@
    "start": "2026-11-27T04:26:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.740 partidos)",
-    "Goles esperados: OG 2.13 · hotShot 2.54",
-    "Ganador: OG 29% · empate 22% · hotShot 50%",
-    "Total: más de 4.5 goles 50% · menos 50%",
-    "Hándicap hotShot: −1.5 30% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: OG ❌✅❌✅➖ | hotShot ➖✅❌✅❌",
-    "• Partidos: OG 833 | hotShot 828",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.20 · X 2.30 · 2 2.45 (sin margen 27%/38%/35%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.45 (+22%) · Paf España 2.45 (+22%)"
-   ],
    "context": "EA FC Esoccer Battle OG vs hotShot (Serie A): goles esperados 2.13-2.54, 1X2 29%/22%/50%. Sin cuotas de casa.",
    "captured": "2026-11-27T04:04",
    "version": "992972b",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "vivienne",
+   "odds": 2.25,
+   "book": "Unibet",
+   "implied": 0.39,
+   "edge": 0.15,
+   "sin_stake": true,
+   "p": 0.511,
+   "key": "fc|2400819",
+   "match": "vivienne vs SpeciAL",
+   "start": "2026-11-27T05:08:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.766 partidos)",
+    "Goles esperados: vivienne 3.70 · SpeciAL 3.11",
+    "Ganador: vivienne 51% · empate 17% · SpeciAL 32%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap vivienne: −1.5 36% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: vivienne ➖✅✅✅➖ | SpeciAL ❌✅❌❌➖",
+    "• Partidos: vivienne 1074 | SpeciAL 1133",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.25 · X 5.40 · 2 1.96 (sin margen 39%/16%/45%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.25 (+15%) · Paf España 2.25 (+15%)"
+   ],
+   "context": "EA FC Esoccer Battle vivienne vs SpeciAL (Champions League B): goles esperados 3.70-3.11, 1X2 51%/17%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-27T04:36",
+   "version": "085bbef",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.75,
+   "book": "Unibet",
+   "implied": 0.151,
+   "edge": 0.116,
+   "sin_stake": true,
+   "p": 0.194,
+   "key": "fc|2400437",
+   "match": "Simaponika vs kkikus",
+   "start": "2026-11-27T05:11:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.766 partidos)",
+    "Goles esperados: Simaponika 2.92 · kkikus 2.30",
+    "Ganador: Simaponika 56% · empate 19% · kkikus 25%",
+    "Total: más de 5.5 goles 42% · menos 58%",
+    "Hándicap Simaponika: −1.5 34% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ❌❌❌❌❌ | kkikus ❌❌❌✅✅",
+    "• Partidos: Simaponika 1493 | kkikus 1318",
+    "• Liga: Club World Cup",
+    "• Unibet: 1 1.50 · X 5.75 · 2 3.20 (sin margen 58%/15%/27%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.75 (+12%) · Paf España 5.75 (+12%)"
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs kkikus (Club World Cup): goles esperados 2.92-2.30, 1X2 56%/19%/25%. Sin cuotas de casa.",
+   "captured": "2026-11-27T04:36",
+   "version": "085bbef",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "zoyir",
+   "odds": 2.0,
+   "book": "Unibet",
+   "implied": 0.437,
+   "edge": 0.086,
+   "sin_stake": true,
+   "p": 0.543,
+   "key": "fc|2402078",
+   "match": "Frantsuz vs zoyir",
+   "start": "2026-11-27T05:18:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 82.766 partidos)",
+    "Goles esperados: Frantsuz 3.34 · zoyir 4.13",
+    "Ganador: Frantsuz 30% · empate 16% · zoyir 54%",
+    "Total: más de 7.5 goles 47% · menos 53%",
+    "Hándicap zoyir: −1.5 39% · −2.5 26%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Frantsuz ❌✅✅➖✅ | zoyir ✅➖❌➖❌",
+    "• Partidos: Frantsuz 842 | zoyir 753",
+    "• Liga: Premier League 2x6",
+    "• Unibet: 1 2.18 · X 5.40 · 2 2.00 (sin margen 40%/16%/44%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.00 (+9%) · Paf España 2.00 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle Frantsuz vs zoyir (Premier League 2x6): goles esperados 3.34-4.13, 1X2 30%/16%/54%. Sin cuotas de casa.",
+   "captured": "2026-11-27T04:36",
+   "version": "085bbef",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -28869,42 +28923,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-27T03:35:24.705191+00:00",
  "sgp": {
-  "nfl|2026-11-27|Buffalo Bills|Kansas City Chiefs": {
-   "match": "Buffalo Bills vs Kansas City Chiefs",
-   "start": "2026-11-27T01:20Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.2134,
-     "odds": 4.45,
-     "edge": -0.05,
-     "legs": [
-      {
-       "var": "win_away",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.423,
-       "odds": 2.27,
-       "text": "Gana Kansas City Chiefs"
-      },
-      {
-       "var": "total_t",
-       "sign": -1,
-       "line": 47.5,
-       "p": 0.487,
-       "odds": 1.962,
-       "text": "Menos de 47.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%"
-   ]
-  },
   "nfl|2026-11-27|Pittsburgh Steelers|Denver Broncos": {
    "match": "Pittsburgh Steelers vs Denver Broncos",
    "start": "2026-11-27T20:00Z",
@@ -29259,7 +29277,7 @@
   "E1|2026-11-25|Stoke|Millwall"
  ],
  "paper_sent": "2026-11-26T20:59:43.857334+00:00",
- "sgp_res_n": 940,
+ "sgp_res_n": 941,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
