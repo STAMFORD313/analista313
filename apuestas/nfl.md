@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 22:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## New Mexico Lobos vs Air Force Falcons — 27/11 · 22:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 41.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **52.5** puntos · línea 41.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: New Mexico Lobos ✅✅✅❌✅ | Air Force Falcons ❌✅✅✅✅  
-• H2H: 9 desde 2017: 3-5  
-• Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas  
-
-## New Mexico Lobos vs Air Force Falcons — 27/11 · 22:30
-
-👀 candidata · 🏈 NCAA Football · **New Mexico Lobos -6.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: New Mexico Lobos cubre -6.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: New Mexico Lobos ✅✅✅❌✅ | Air Force Falcons ❌✅✅✅✅  
-• H2H: 9 desde 2017: 3-5  
-• Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas  
-
-## New Mexico Lobos vs Air Force Falcons — 27/11 · 22:30
-
-👀 candidata · 🏈 NCAA Football · **Gana New Mexico Lobos** @ **1.39** (DraftKings) · prob 69% vs casas 69% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.655 partidos y bajas)  
-Gana New Mexico Lobos 70% · Gana Air Force Falcons 30%  
-Casas: New Mexico Lobos 69% · Air Force Falcons 31%  
-Hándicap UNM -6.5 · Total puntos 41.5  
-🔎 **Claves**  
-• Forma: New Mexico Lobos ✅✅✅❌✅ | Air Force Falcons ❌✅✅✅✅  
-• H2H: 9 desde 2017: 3-5  
-• Bajas: New Mexico Lobos: sin bajas; Air Force Falcons: sin bajas  
-• Favorito de las casas: New Mexico Lobos @ 1.39  
+Actualizado 27/11/2026 22:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas A&M Aggies vs Texas Longhorns — 28/11 · 01:30
 

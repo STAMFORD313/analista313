@@ -83660,13 +83660,55 @@ id,tournament_id,club1,club2,ht1,ht2
 2402289,263355,Bologna,Roma,,
 2402290,263355,Napoli,Bologna,,
 2402291,263355,Juventus,Sassuolo,,
-2401814,263360,Ecuador,Argentina,1,2
-2401815,263360,Colombia,Brazil,2,2
-2401816,263360,Brazil,Ecuador,0,2
-2401817,263360,Argentina,Uruguay,1,3
-2401818,263360,Uruguay,Brazil,1,1
-2401819,263360,Ecuador,Colombia,0,1
-2401820,263360,Colombia,Uruguay,2,0
-2401821,263360,Brazil,Argentina,0,2
+2401814,263360,Ecuador,Argentina,1.0,2.0
+2401815,263360,Colombia,Brazil,2.0,2.0
+2401816,263360,Brazil,Ecuador,0.0,2.0
+2401817,263360,Argentina,Uruguay,1.0,3.0
+2401818,263360,Uruguay,Brazil,1.0,1.0
+2401819,263360,Ecuador,Colombia,0.0,1.0
+2401820,263360,Colombia,Uruguay,2.0,0.0
+2401821,263360,Brazil,Argentina,0.0,2.0
 2401822,263360,Argentina,Colombia,,
 2401823,263360,Uruguay,Ecuador,,
+2402432,263277,Atleti,Barcelona,3,2
+2402435,263277,Barcelona,Athletic Club,1,1
+2402437,263277,Atleti,Villarreal,1,0
+2402438,263277,Villarreal,Athletic Club,3,0
+2402440,263277,Barcelona,Villarreal,1,1
+2402441,263277,Athletic Club,Atleti,2,1
+2402442,263277,Barcelona,Atleti,,
+2402445,263277,Athletic Club,Barcelona,,
+2402447,263277,Villarreal,Atleti,,
+2402448,263277,Athletic Club,Villarreal,,
+2402450,263277,Villarreal,Barcelona,,
+2402451,263277,Atleti,Athletic Club,,
+2402162,263329,B Dortmund,Sporting CP,2,2
+2402163,263329,Juventus,Man City,1,3
+2402164,263329,Man City,B Dortmund,2,1
+2402165,263329,Sporting CP,Arsenal,3,2
+2402166,263329,Arsenal,Man City,3,1
+2402167,263329,B Dortmund,Juventus,2,4
+2402168,263329,Juventus,Arsenal,0,2
+2402169,263329,Man City,Sporting CP,4,1
+2402170,263329,Sporting CP,Juventus,,
+2402171,263329,Arsenal,B Dortmund,,
+2401494,263333,Atleti,Paris,1,0
+2401495,263333,Real Madrid,Liverpool,2,0
+2401496,263333,Liverpool,Atleti,3,1
+2401497,263333,Paris,Bayern Munchen,1,1
+2401498,263333,Bayern Munchen,Liverpool,1,1
+2401499,263333,Atleti,Real Madrid,0,1
+2401500,263333,Real Madrid,Bayern Munchen,0,0
+2401501,263333,Liverpool,Paris,1,1
+2401502,263333,Paris,Real Madrid,1,2
+2401503,263333,Bayern Munchen,Atleti,1,1
+2401504,263333,Paris,Atleti,0,3
+2401505,263333,Liverpool,Real Madrid,1,2
+2401506,263333,Atleti,Liverpool,1,3
+2401507,263333,Bayern Munchen,Paris,2,2
+2401508,263333,Liverpool,Bayern Munchen,,
+2401509,263333,Real Madrid,Atleti,,
+2401510,263333,Bayern Munchen,Real Madrid,,
+2401511,263333,Paris,Liverpool,,
+2401512,263333,Real Madrid,Paris,,
+2401513,263333,Atleti,Bayern Munchen,,
