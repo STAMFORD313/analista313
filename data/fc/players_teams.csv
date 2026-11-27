@@ -83752,3 +83752,35 @@ id,tournament_id,club1,club2,ht1,ht2
 2402309,263357,France,Argentina,,
 2402310,263357,Brazil,France,,
 2402311,263357,Spain,England,,
+2401662,263315,Boca Juniors,River Plate,3,4
+2401663,263315,Boca Juniors,Racing Club,2,2
+2401664,263315,River Plate,Racing Club,0,3
+2401665,263315,River Plate,Boca Juniors,,
+2401666,263315,Racing Club,Boca Juniors,,
+2401667,263315,Racing Club,River Plate,,
+2401668,263315,Boca Juniors,River Plate,,
+2401669,263315,Boca Juniors,Racing Club,,
+2401670,263315,River Plate,Racing Club,,
+2401671,263315,River Plate,Boca Juniors,,
+2401672,263315,Racing Club,Boca Juniors,,
+2401673,263315,Racing Club,River Plate,,
+2401514,263338,Netherlands,Norway,1,2
+2401515,263338,Germany,Czechia,1,3
+2401516,263338,Czechia,Netherlands,3,1
+2401517,263338,Norway,Morocco,1,2
+2401518,263338,Morocco,Czechia,1,2
+2401519,263338,Netherlands,Germany,3,4
+2401520,263338,Germany,Morocco,2,0
+2401521,263338,Czechia,Norway,4,0
+2401522,263338,Norway,Germany,,
+2401523,263338,Morocco,Netherlands,,
+2401524,263338,Norway,Netherlands,,
+2401525,263338,Czechia,Germany,,
+2401526,263338,Netherlands,Czechia,,
+2401527,263338,Morocco,Norway,,
+2401528,263338,Czechia,Morocco,,
+2401529,263338,Germany,Netherlands,,
+2401530,263338,Morocco,Germany,,
+2401531,263338,Norway,Czechia,,
+2401532,263338,Germany,Norway,,
+2401533,263338,Netherlands,Morocco,,

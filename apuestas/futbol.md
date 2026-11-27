@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 23:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fluminense vs Cruzeiro — 28/11 · 00:00
 
