@@ -83560,14 +83560,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2402209,263339,Galatasaray,Trabzonspor,,
 2402210,263339,Basaksehir,Galatasaray,,
 2402211,263339,Besiktas,Fenerbahce,,
-2401794,263337,Ecuador,Argentina,0,2
-2401795,263337,Colombia,Brazil,2,2
-2401796,263337,Brazil,Ecuador,1,0
-2401797,263337,Argentina,Uruguay,1,3
-2401798,263337,Uruguay,Brazil,2,0
-2401799,263337,Ecuador,Colombia,2,1
-2401800,263337,Colombia,Uruguay,1,1
-2401801,263337,Brazil,Argentina,1,0
+2401794,263337,Ecuador,Argentina,0.0,2.0
+2401795,263337,Colombia,Brazil,2.0,2.0
+2401796,263337,Brazil,Ecuador,1.0,0.0
+2401797,263337,Argentina,Uruguay,1.0,3.0
+2401798,263337,Uruguay,Brazil,2.0,0.0
+2401799,263337,Ecuador,Colombia,2.0,1.0
+2401800,263337,Colombia,Uruguay,1.0,1.0
+2401801,263337,Brazil,Argentina,1.0,0.0
 2401802,263337,Argentina,Colombia,,
 2401803,263337,Uruguay,Ecuador,,
 2401804,263337,Argentina,Ecuador,,
@@ -83580,3 +83580,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2401811,263337,Argentina,Brazil,,
 2401812,263337,Colombia,Argentina,,
 2401813,263337,Ecuador,Uruguay,,
+2402412,263276,Salzburg,Fenerbahce,0,3
+2402413,263276,Roma,Aston Villa,1,2
+2402414,263276,Aston Villa,Salzburg,3,0
+2402415,263276,Fenerbahce,Porto,1,0
+2402416,263276,Porto,Aston Villa,2,1
+2402417,263276,Salzburg,Roma,1,4
+2402418,263276,Roma,Porto,0,1
+2402419,263276,Aston Villa,Fenerbahce,2,2
+2402420,263276,Fenerbahce,Roma,,
+2402421,263276,Porto,Salzburg,,
+2402422,263276,Fenerbahce,Salzburg,,
+2402423,263276,Aston Villa,Roma,,
+2402424,263276,Salzburg,Aston Villa,,
+2402425,263276,Porto,Fenerbahce,,
+2402426,263276,Aston Villa,Porto,,
+2402427,263276,Roma,Salzburg,,
+2402428,263276,Porto,Roma,,
+2402429,263276,Fenerbahce,Aston Villa,,
+2402430,263276,Roma,Fenerbahce,,
+2402431,263276,Salzburg,Porto,,
+2401474,263331,Stuttgart,Leipzig,0,1
+2401475,263331,Bayern Munchen,B Dortmund,0,1
+2401476,263331,B Dortmund,Stuttgart,0,1
+2401477,263331,Leipzig,Frankfurt,1,4
+2401478,263331,Frankfurt,B Dortmund,2,1
+2401479,263331,Stuttgart,Bayern Munchen,2,3
+2401480,263331,Bayern Munchen,Frankfurt,0,2
+2401481,263331,B Dortmund,Leipzig,1,1
+2401482,263331,Leipzig,Bayern Munchen,,
+2401483,263331,Frankfurt,Stuttgart,,
+2401484,263331,Leipzig,Stuttgart,,
+2401485,263331,B Dortmund,Bayern Munchen,,
+2401486,263331,Stuttgart,B Dortmund,,
+2401487,263331,Frankfurt,Leipzig,,
+2401488,263331,B Dortmund,Frankfurt,,
+2401489,263331,Bayern Munchen,Stuttgart,,
+2401490,263331,Frankfurt,Bayern Munchen,,
+2401491,263331,Leipzig,B Dortmund,,
+2401492,263331,Bayern Munchen,Leipzig,,
+2401493,263331,Stuttgart,Frankfurt,,

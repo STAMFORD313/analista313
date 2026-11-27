@@ -1,188 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 19:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Gana Groningen** @ **1.32** (Bwin) · prob 75% vs casas 75% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 1.5 córners de Willem II** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 3.5 córners de Willem II** @ **1.71** (Unibet) · prob 56% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners de Groningen** @ **2.18** (Unibet) · prob 44% vs casas 42% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 10.5 córners de Groningen** @ **1.12** (Unibet) · prob 81% vs casas 81% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 8.5 córners** @ **1.32** (Unibet) · prob 72% vs casas 70% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
-
-## Groningen vs Willem II — 27/11 · 20:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 12.5 córners** @ **1.34** (Unibet) · prob 69% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.30 - 1.05)  
-1 73% · X 18% · 2 9%  
-1X 91% · X2 27% · 12 82%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Groningen ❌➖❌❌❌ | Willem II ❌❌❌➖❌  
-• H2H: 32 desde 2005: 18V-5E-9D · 2.8 goles/partido · +2.5 en 56%  
-• Bajas: Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)  
-• Favorito de las casas: Groningen @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.5 - 3.3: total +10.5 51% · Groningen +5.5 68% · Willem II +4.5 26%  
-Tarjetas 1.1 - 1.9: total +3.5 36% · Groningen +1.5 31% · Willem II +1.5 57%  
-Faltas 8.6 - 9.8: total +21.5 24% · Groningen +10.5 25% · Willem II +11.5 29%  
-Tiros a puerta 7.5 - 3.1: total +10.5 49% · Groningen +5.5 72% · Willem II +5.5 11%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II → prob. 50%, cuota justa 1.99 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles → prob. 24%, cuota justa 4.22  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen): cuota Unibet aprox. 1.82 (producto de piernas) · prob. 51% · ventaja -6%  
+Actualizado 27/11/2026 20:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gornik Zabrze vs Wisla Plock — 27/11 · 20:30
 
@@ -10335,6 +10153,163 @@ Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%
 Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
 🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+
+## Palermo vs Benevento — 28/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Palermo** @ **1.68** (Unibet) · prob 56% vs casas 53% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 0.92)  
+1 54% · X 26% · 2 19%  
+1X 81% · X2 46% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
+• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
+• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
+• Favorito de las casas: Palermo @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
+Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
+Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+
+## Palermo vs Benevento — 28/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Palermo** @ **1.50** (Unibet) · prob 57% vs casas 60% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 0.92)  
+1 54% · X 26% · 2 19%  
+1X 81% · X2 46% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
+• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
+• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
+• Favorito de las casas: Palermo @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
+Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
+Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+
+## Palermo vs Benevento — 28/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.48** (Unibet) · prob 62% vs casas 61% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 0.92)  
+1 54% · X 26% · 2 19%  
+1X 81% · X2 46% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
+• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
+• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
+• Favorito de las casas: Palermo @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
+Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
+Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+
+## Palermo vs Benevento — 28/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.49** (Unibet) · prob 60% vs casas 60% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 0.92)  
+1 54% · X 26% · 2 19%  
+1X 81% · X2 46% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
+• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
+• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
+• Favorito de las casas: Palermo @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
+Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
+Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+
+## Palermo vs Benevento — 28/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Benevento** @ **1.48** (Unibet) · prob 60% vs casas 61% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 0.92)  
+1 54% · X 26% · 2 19%  
+1X 81% · X2 46% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
+• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
+• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
+• Favorito de las casas: Palermo @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
+Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
+Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+
+## Palermo vs Benevento — 28/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Benevento** @ **1.68** (Unibet) · prob 56% vs casas 53% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 0.92)  
+1 54% · X 26% · 2 19%  
+1X 81% · X2 46% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
+• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
+• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
+• Favorito de las casas: Palermo @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
+Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
+Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
+Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
 
 ## Wisla vs Motor Lublin — 28/11 · 20:15
 
