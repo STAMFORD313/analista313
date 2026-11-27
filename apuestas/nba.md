@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 13:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 14:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. John's Red Storm vs Iowa State Cyclones — 27/11 · 19:00
 

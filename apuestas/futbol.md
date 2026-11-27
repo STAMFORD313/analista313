@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 13:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 14:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rakow vs Piast Gliwice — 27/11 · 18:00
 
@@ -3397,6 +3397,7 @@ Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%
 Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
 
 ## Las Palmas vs Andorra — 28/11 · 14:00
 
@@ -3422,6 +3423,7 @@ Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%
 Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
 🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
 
 ## Samsunspor vs Genclerbirligi — 28/11 · 14:00
 
@@ -3447,6 +3449,475 @@ Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +1
 Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
+
+## Betis vs Vallecano — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Vallecano** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.82)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Betis ❌➖✅✅➖ | Vallecano ➖❌✅❌❌  
+• H2H: 24 desde 2009: 8V-9E-7D · 2.8 goles/partido · +2.5 en 54%  
+• Bajas: Betis: 1 fuera, 2 duda (Facundo Bernal); Vallecano: 2 fuera, 2 duda (Unai Lopez, Augusto Batalla)  
+• Favorito de las casas: Betis @ 1.60  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.9: total +10.5 46% · Betis +5.5 57% · Vallecano +4.5 36%  
+Tarjetas 2.1 - 2.9: total +4.5 54% · Betis +2.5 35% · Vallecano +2.5 55%  
+Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%  
+Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
+
+## Betis vs Vallecano — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 3.5 córners de Vallecano** @ **2.18** (Unibet) · prob 45% vs casas 42% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.82)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Betis ❌➖✅✅➖ | Vallecano ➖❌✅❌❌  
+• H2H: 24 desde 2009: 8V-9E-7D · 2.8 goles/partido · +2.5 en 54%  
+• Bajas: Betis: 1 fuera, 2 duda (Facundo Bernal); Vallecano: 2 fuera, 2 duda (Unai Lopez, Augusto Batalla)  
+• Favorito de las casas: Betis @ 1.60  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.9: total +10.5 46% · Betis +5.5 57% · Vallecano +4.5 36%  
+Tarjetas 2.1 - 2.9: total +4.5 54% · Betis +2.5 35% · Vallecano +2.5 55%  
+Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%  
+Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
+
+## Betis vs Vallecano — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 9.5 córners** @ **1.68** (Unibet) · prob 56% vs casas 55% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.82)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Betis ❌➖✅✅➖ | Vallecano ➖❌✅❌❌  
+• H2H: 24 desde 2009: 8V-9E-7D · 2.8 goles/partido · +2.5 en 54%  
+• Bajas: Betis: 1 fuera, 2 duda (Facundo Bernal); Vallecano: 2 fuera, 2 duda (Unai Lopez, Augusto Batalla)  
+• Favorito de las casas: Betis @ 1.60  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.9: total +10.5 46% · Betis +5.5 57% · Vallecano +4.5 36%  
+Tarjetas 2.1 - 2.9: total +4.5 54% · Betis +2.5 35% · Vallecano +2.5 55%  
+Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%  
+Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
+
+## Betis vs Vallecano — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.82)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Betis ❌➖✅✅➖ | Vallecano ➖❌✅❌❌  
+• H2H: 24 desde 2009: 8V-9E-7D · 2.8 goles/partido · +2.5 en 54%  
+• Bajas: Betis: 1 fuera, 2 duda (Facundo Bernal); Vallecano: 2 fuera, 2 duda (Unai Lopez, Augusto Batalla)  
+• Favorito de las casas: Betis @ 1.60  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.9: total +10.5 46% · Betis +5.5 57% · Vallecano +4.5 36%  
+Tarjetas 2.1 - 2.9: total +4.5 54% · Betis +2.5 35% · Vallecano +2.5 55%  
+Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%  
+Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
+
+## Betis vs Vallecano — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners de Betis** @ **2.43** (Unibet) · prob 41% vs casas 38% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.82)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Betis ❌➖✅✅➖ | Vallecano ➖❌✅❌❌  
+• H2H: 24 desde 2009: 8V-9E-7D · 2.8 goles/partido · +2.5 en 54%  
+• Bajas: Betis: 1 fuera, 2 duda (Facundo Bernal); Vallecano: 2 fuera, 2 duda (Unai Lopez, Augusto Batalla)  
+• Favorito de las casas: Betis @ 1.60  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.9: total +10.5 46% · Betis +5.5 57% · Vallecano +4.5 36%  
+Tarjetas 2.1 - 2.9: total +4.5 54% · Betis +2.5 35% · Vallecano +2.5 55%  
+Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%  
+Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
+
+## Betis vs Vallecano — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 9.5 córners de Betis** @ **1.09** (Unibet) · prob 84% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.82)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Betis ❌➖✅✅➖ | Vallecano ➖❌✅❌❌  
+• H2H: 24 desde 2009: 8V-9E-7D · 2.8 goles/partido · +2.5 en 54%  
+• Bajas: Betis: 1 fuera, 2 duda (Facundo Bernal); Vallecano: 2 fuera, 2 duda (Unai Lopez, Augusto Batalla)  
+• Favorito de las casas: Betis @ 1.60  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.9: total +10.5 46% · Betis +5.5 57% · Vallecano +4.5 36%  
+Tarjetas 2.1 - 2.9: total +4.5 54% · Betis +2.5 35% · Vallecano +2.5 55%  
+Faltas 10.5 - 13.6: total +25.5 38% · Betis +12.5 26% · Vallecano +12.5 59%  
+Tiros a puerta 6.0 - 3.6: total +9.5 49% · Betis +5.5 54% · Vallecano +3.5 47%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Vallecano + Menos de 2.5 goles): cuota Unibet aprox. 3.82 (producto de piernas) · prob. 35% · ventaja +34% → 1 u en la banca de simulación  
+
+## Las Palmas vs Andorra — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.40** (Unibet) · prob 67% vs casas 65% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.95)  
+1 51% · X 27% · 2 22%  
+1X 78% · X2 49% · 12 73%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Las Palmas ✅✅✅❌✅ | Andorra ❌❌➖❌❌  
+• H2H: 4 desde 2022: 1V-2E-1D · 2.5 goles/partido · +2.5 en 25%  
+• Bajas: Las Palmas: sin bajas; Andorra: 1 fuera, 0 duda (Jesus Owono)  
+• Favorito de las casas: Las Palmas @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Las Palmas +5.5 42% · Andorra +4.5 36%  
+Tarjetas 2.6 - 3.4: total +6.5 38% · Las Palmas +2.5 47% · Andorra +3.5 44%  
+Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%  
+Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
+🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
+
+## Las Palmas vs Andorra — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.95)  
+1 51% · X 27% · 2 22%  
+1X 78% · X2 49% · 12 73%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Las Palmas ✅✅✅❌✅ | Andorra ❌❌➖❌❌  
+• H2H: 4 desde 2022: 1V-2E-1D · 2.5 goles/partido · +2.5 en 25%  
+• Bajas: Las Palmas: sin bajas; Andorra: 1 fuera, 0 duda (Jesus Owono)  
+• Favorito de las casas: Las Palmas @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Las Palmas +5.5 42% · Andorra +4.5 36%  
+Tarjetas 2.6 - 3.4: total +6.5 38% · Las Palmas +2.5 47% · Andorra +3.5 44%  
+Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%  
+Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
+🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
+
+## Las Palmas vs Andorra — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Las Palmas** @ **2.43** (Unibet) · prob 40% vs casas 37% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.95)  
+1 51% · X 27% · 2 22%  
+1X 78% · X2 49% · 12 73%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Las Palmas ✅✅✅❌✅ | Andorra ❌❌➖❌❌  
+• H2H: 4 desde 2022: 1V-2E-1D · 2.5 goles/partido · +2.5 en 25%  
+• Bajas: Las Palmas: sin bajas; Andorra: 1 fuera, 0 duda (Jesus Owono)  
+• Favorito de las casas: Las Palmas @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Las Palmas +5.5 42% · Andorra +4.5 36%  
+Tarjetas 2.6 - 3.4: total +6.5 38% · Las Palmas +2.5 47% · Andorra +3.5 44%  
+Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%  
+Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
+🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
+
+## Las Palmas vs Andorra — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Las Palmas** @ **1.45** (Unibet) · prob 60% vs casas 63% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.95)  
+1 51% · X 27% · 2 22%  
+1X 78% · X2 49% · 12 73%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Las Palmas ✅✅✅❌✅ | Andorra ❌❌➖❌❌  
+• H2H: 4 desde 2022: 1V-2E-1D · 2.5 goles/partido · +2.5 en 25%  
+• Bajas: Las Palmas: sin bajas; Andorra: 1 fuera, 0 duda (Jesus Owono)  
+• Favorito de las casas: Las Palmas @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Las Palmas +5.5 42% · Andorra +4.5 36%  
+Tarjetas 2.6 - 3.4: total +6.5 38% · Las Palmas +2.5 47% · Andorra +3.5 44%  
+Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%  
+Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
+🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
+
+## Las Palmas vs Andorra — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Andorra** @ **1.60** (Unibet) · prob 55% vs casas 57% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.95)  
+1 51% · X 27% · 2 22%  
+1X 78% · X2 49% · 12 73%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Las Palmas ✅✅✅❌✅ | Andorra ❌❌➖❌❌  
+• H2H: 4 desde 2022: 1V-2E-1D · 2.5 goles/partido · +2.5 en 25%  
+• Bajas: Las Palmas: sin bajas; Andorra: 1 fuera, 0 duda (Jesus Owono)  
+• Favorito de las casas: Las Palmas @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Las Palmas +5.5 42% · Andorra +4.5 36%  
+Tarjetas 2.6 - 3.4: total +6.5 38% · Las Palmas +2.5 47% · Andorra +3.5 44%  
+Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%  
+Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
+🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
+
+## Las Palmas vs Andorra — 28/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Andorra** @ **2.12** (Unibet) · prob 45% vs casas 43% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 0.95)  
+1 51% · X 27% · 2 22%  
+1X 78% · X2 49% · 12 73%  
++1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Las Palmas ✅✅✅❌✅ | Andorra ❌❌➖❌❌  
+• H2H: 4 desde 2022: 1V-2E-1D · 2.5 goles/partido · +2.5 en 25%  
+• Bajas: Las Palmas: sin bajas; Andorra: 1 fuera, 0 duda (Jesus Owono)  
+• Favorito de las casas: Las Palmas @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Las Palmas +5.5 42% · Andorra +4.5 36%  
+Tarjetas 2.6 - 3.4: total +6.5 38% · Las Palmas +2.5 47% · Andorra +3.5 44%  
+Faltas 12.0 - 17.2: total +26.5 66% · Las Palmas +13.5 33% · Andorra +13.5 79%  
+Tiros a puerta 4.9 - 3.7: total +8.5 49% · Las Palmas +5.5 37% · Andorra +4.5 32%  
+🧩 Crear apuesta: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 13.5 faltas de Andorra + Menos de 4.5 tiros a puerta de Andorra + Menos de 4.5 córners de Andorra + Menos de 6.5 tarjetas + Menos de 2.5 goles → prob. 14%, cuota justa 7.39  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Menos de 2.5 goles): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 35% · ventaja +8% → 1 u en la banca de simulación  
+
+## Samsunspor vs Genclerbirligi — 28/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Samsunspor** @ **1.55** (Unibet) · prob 60% vs casas 59% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.77)  
+1 52% · X 28% · 2 20%  
+1X 80% · X2 48% · 12 72%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Samsunspor ❌❌❌✅❌ | Genclerbirligi ❌❌✅❌✅  
+• H2H: 6 desde 2005: 4V-2E-0D · 2.5 goles/partido · +2.5 en 33%  
+• Bajas: Samsunspor: 0 fuera, 2 duda; Genclerbirligi: 2 fuera, 4 duda (Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Samsunspor @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +9.5 46% · Samsunspor +5.5 48% · Genclerbirligi +4.5 32%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Samsunspor +2.5 31% · Genclerbirligi +2.5 44%  
+Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +13.5 47%  
+Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
+
+## Samsunspor vs Genclerbirligi — 28/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 6.5 córners de Samsunspor** @ **1.43** (Unibet) · prob 64% vs casas 64% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.77)  
+1 52% · X 28% · 2 20%  
+1X 80% · X2 48% · 12 72%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Samsunspor ❌❌❌✅❌ | Genclerbirligi ❌❌✅❌✅  
+• H2H: 6 desde 2005: 4V-2E-0D · 2.5 goles/partido · +2.5 en 33%  
+• Bajas: Samsunspor: 0 fuera, 2 duda; Genclerbirligi: 2 fuera, 4 duda (Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Samsunspor @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +9.5 46% · Samsunspor +5.5 48% · Genclerbirligi +4.5 32%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Samsunspor +2.5 31% · Genclerbirligi +2.5 44%  
+Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +13.5 47%  
+Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
+
+## Samsunspor vs Genclerbirligi — 28/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Genclerbirligi** @ **1.73** (Unibet) · prob 51% vs casas 53% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.77)  
+1 52% · X 28% · 2 20%  
+1X 80% · X2 48% · 12 72%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Samsunspor ❌❌❌✅❌ | Genclerbirligi ❌❌✅❌✅  
+• H2H: 6 desde 2005: 4V-2E-0D · 2.5 goles/partido · +2.5 en 33%  
+• Bajas: Samsunspor: 0 fuera, 2 duda; Genclerbirligi: 2 fuera, 4 duda (Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Samsunspor @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +9.5 46% · Samsunspor +5.5 48% · Genclerbirligi +4.5 32%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Samsunspor +2.5 31% · Genclerbirligi +2.5 44%  
+Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +13.5 47%  
+Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
+
+## Samsunspor vs Genclerbirligi — 28/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Genclerbirligi** @ **1.49** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.77)  
+1 52% · X 28% · 2 20%  
+1X 80% · X2 48% · 12 72%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Samsunspor ❌❌❌✅❌ | Genclerbirligi ❌❌✅❌✅  
+• H2H: 6 desde 2005: 4V-2E-0D · 2.5 goles/partido · +2.5 en 33%  
+• Bajas: Samsunspor: 0 fuera, 2 duda; Genclerbirligi: 2 fuera, 4 duda (Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Samsunspor @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +9.5 46% · Samsunspor +5.5 48% · Genclerbirligi +4.5 32%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Samsunspor +2.5 31% · Genclerbirligi +2.5 44%  
+Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +13.5 47%  
+Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
+
+## Samsunspor vs Genclerbirligi — 28/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.77)  
+1 52% · X 28% · 2 20%  
+1X 80% · X2 48% · 12 72%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Samsunspor ❌❌❌✅❌ | Genclerbirligi ❌❌✅❌✅  
+• H2H: 6 desde 2005: 4V-2E-0D · 2.5 goles/partido · +2.5 en 33%  
+• Bajas: Samsunspor: 0 fuera, 2 duda; Genclerbirligi: 2 fuera, 4 duda (Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Samsunspor @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +9.5 46% · Samsunspor +5.5 48% · Genclerbirligi +4.5 32%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Samsunspor +2.5 31% · Genclerbirligi +2.5 44%  
+Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +13.5 47%  
+Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
+
+## Samsunspor vs Genclerbirligi — 28/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.30** (Unibet) · prob 73% vs casas 70% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 0.77)  
+1 52% · X 28% · 2 20%  
+1X 80% · X2 48% · 12 72%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Samsunspor ❌❌❌✅❌ | Genclerbirligi ❌❌✅❌✅  
+• H2H: 6 desde 2005: 4V-2E-0D · 2.5 goles/partido · +2.5 en 33%  
+• Bajas: Samsunspor: 0 fuera, 2 duda; Genclerbirligi: 2 fuera, 4 duda (Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Samsunspor @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.7: total +9.5 46% · Samsunspor +5.5 48% · Genclerbirligi +4.5 32%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Samsunspor +2.5 31% · Genclerbirligi +2.5 44%  
+Faltas 13.9 - 13.4: total +26.5 54% · Samsunspor +13.5 51% · Genclerbirligi +13.5 47%  
+Tiros a puerta 5.6 - 3.1: total +9.5 38% · Samsunspor +5.5 48% · Genclerbirligi +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 2.5 tarjetas de Samsunspor + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles → prob. 24%, cuota justa 4.23  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 goles): cuota Unibet aprox. 2.86 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
 
 ## Widzew Lodz vs Zaglebie — 28/11 · 14:45
 

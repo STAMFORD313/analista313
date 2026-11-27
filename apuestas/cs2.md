@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 13:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 14:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BOJONG vs HAVU — 27/11 · 19:00
 
