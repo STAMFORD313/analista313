@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 23:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas A&M Aggies vs Texas Longhorns — 28/11 · 01:30
 
