@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 09:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## MOUZ NXT vs MASONIC — 27/11 · 10:00
-
-👀 candidata · 🎮 CS2 · CCT Europe 2026 Series 16 Play-In · **Gana MASONIC** @ **2.35** (Thunderpick) · prob 43% vs casas 39% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.298 partidos)  
-Mapa: MOUZ NXT 53% · Serie BO3: MOUZ NXT 54% - 46% MASONIC  
-Casas: MOUZ NXT 61% · MASONIC 39%  
-🔎 **Claves**  
-• Elo: MOUZ NXT 1577 (611 series) | MASONIC 1547 (488 series)  
-• Forma: MOUZ NXT ❌❌✅✅❌ | MASONIC ❌❌❌❌✅  
-• H2H: 4: 2-2  
-• Torneo: CCT Europe 2026 Series 16 Play-In (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• MOUZ NXT gana 2-1: 23% → cuota justa 4.32 · casa 26%  
-• MASONIC gana 2-1: 21% → cuota justa 4.82 · casa 20%  
+Actualizado 27/11/2026 10:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bebop vs Spirit Academy Green — 27/11 · 12:30
 

@@ -1313,9 +1313,6 @@
   "cbb|2026-11-27|Maryland Terrapins|Oregon Ducks",
   "cbb|2026-11-28|Gonzaga Bulldogs|Creighton Bluejays",
   "cbb|2026-11-28|San Diego State Aztecs|Texas Tech Red Raiders",
-  "fc|2390987",
-  "fc|2390989",
-  "fc|2390988",
   "fc|2391218",
   "dota2|134322",
   "dota2|134327",
@@ -2315,7 +2312,14 @@
   "fc|2401707",
   "fc|2401206",
   "fc|2401205",
-  "fc|2401715"
+  "fc|2401715",
+  "cs2|134525",
+  "cs2|134402",
+  "cs2|134401",
+  "cs2|134404",
+  "fc|2401718",
+  "fc|2402035",
+  "fc|2401286"
  ],
  "signals": [
   {
@@ -5113,81 +5117,6 @@
    "logged": true
   },
   {
-   "market": "A",
-   "pick": "cl1vlind",
-   "odds": 3.65,
-   "book": "Unibet",
-   "implied": 0.239,
-   "edge": 0.202,
-   "sin_stake": true,
-   "p": 0.329,
-   "key": "fc|2396340",
-   "match": "A1ose vs cl1vlind",
-   "start": "2026-11-24T09:19:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle A1ose vs cl1vlind (Serie A): goles esperados 3.52-3.16, 1X2 48%/19%/33%. Sin cuotas de casa.",
-   "captured": "2026-11-24T09:01",
-   "version": "9f564c7",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-4",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Lumix",
-   "odds": 2.3,
-   "book": "Unibet",
-   "implied": 0.378,
-   "edge": 0.198,
-   "sin_stake": true,
-   "p": 0.521,
-   "key": "fc|2397011",
-   "match": "Lumix vs Hyper",
-   "start": "2026-11-24T09:16:00+00:00",
-   "league": "🎮⚽ FC 27 · Ligue 1",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Lumix vs Hyper (Ligue 1): goles esperados 3.32-2.78, 1X2 52%/19%/29%. Sin cuotas de casa.",
-   "captured": "2026-11-24T09:01",
-   "version": "9f564c7",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "DaVa",
-   "odds": 2.02,
-   "book": "Unibet",
-   "implied": 0.431,
-   "edge": 0.072,
-   "sin_stake": true,
-   "p": 0.531,
-   "key": "fc|2396415",
-   "match": "Flewless_phoenix vs DaVa",
-   "start": "2026-11-24T09:10:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League AFC",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Flewless_phoenix vs DaVa (Champions League AFC): goles esperados 2.52-3.10, 1X2 28%/19%/53%. Sin cuotas de casa.",
-   "captured": "2026-11-24T09:01",
-   "version": "9f564c7",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "H",
    "odds": 3.5,
    "book": "Bet365",
@@ -5205,7 +5134,11 @@
    "version": "3d8f6c3",
    "bajas": "Chapecoense-SC: 0 fuera, 4 duda; Palmeiras: 1 fuera, 1 duda (Jefte)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-0",
+   "clv": 0.061,
+   "logged": true
   },
   {
    "market": "A",
@@ -5225,7 +5158,11 @@
    "version": "3d8f6c3",
    "bajas": "San Jose Earthquakes: 0 fuera, 1 duda; Houston Dynamo: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": -0.088,
+   "logged": true
   },
   {
    "market": "H",
@@ -5245,7 +5182,11 @@
    "version": "3d8f6c3",
    "bajas": "Avispa Fukuoka: sin bajas; Yokohama F. Marinos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.062,
+   "logged": true
   },
   {
    "market": "D",
@@ -5265,7 +5206,11 @@
    "version": "3d8f6c3",
    "bajas": "Chiba: sin bajas; Nagoya Grampus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.094,
+   "logged": true
   },
   {
    "market": "A",
@@ -5285,7 +5230,11 @@
    "version": "3d8f6c3",
    "bajas": "FC Tokyo: sin bajas; Sanfrecce Hiroshima: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": -0.191,
+   "logged": true
   },
   {
    "market": "D",
@@ -5305,7 +5254,11 @@
    "version": "3d8f6c3",
    "bajas": "Mito: sin bajas; Verdy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.119,
+   "logged": true
   },
   {
    "market": "A",
@@ -5325,7 +5278,11 @@
    "version": "3d8f6c3",
    "bajas": "Okayama: sin bajas; Shimizu S-Pulse: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "clv": -0.018,
+   "logged": true
   },
   {
    "market": "H",
@@ -5345,7 +5302,11 @@
    "version": "3d8f6c3",
    "bajas": "V-Varen Nagasaki: sin bajas; Kawasaki Frontale: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": -0.121,
+   "logged": true
   },
   {
    "market": "H",
@@ -5365,7 +5326,11 @@
    "version": "3d8f6c3",
    "bajas": "Urawa Reds: sin bajas; Cerezo Osaka: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.107,
+   "logged": true
   },
   {
    "market": "A",
@@ -5385,7 +5350,11 @@
    "version": "3d8f6c3",
    "bajas": "Atletico-MG: 0 fuera, 3 duda; Corinthians: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.136,
+   "logged": true
   },
   {
    "market": "H",
@@ -5405,7 +5374,11 @@
    "version": "3d8f6c3",
    "bajas": "Boca Juniors: sin bajas; Ind. Rivadavia: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.129,
+   "logged": true
   },
   {
    "market": "H",
@@ -5425,7 +5398,11 @@
    "version": "3d8f6c3",
    "bajas": "Toluca: sin bajas; Atlas: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.007,
+   "logged": true
   },
   {
    "market": "D",
@@ -5445,7 +5422,11 @@
    "version": "3d8f6c3",
    "bajas": "Monterrey: sin bajas; Club America: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-0",
+   "clv": 0.054,
+   "logged": true
   },
   {
    "market": "H",
@@ -5465,7 +5446,11 @@
    "version": "3d8f6c3",
    "bajas": "Sao Paulo: 0 fuera, 6 duda; Remo: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": -0.007,
+   "logged": true
   },
   {
    "market": "D",
@@ -12698,7 +12683,11 @@
    "version": "de7eb2c",
    "bajas": "Pachuca: sin bajas; Guadalajara Chivas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": 0.21,
+   "logged": true
   },
   {
    "market": "H",
@@ -12718,7 +12707,11 @@
    "version": "de7eb2c",
    "bajas": "Club Leon: 0 fuera, 1 duda; Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-4",
+   "clv": -0.006,
+   "logged": true
   },
   {
    "market": "over",
@@ -17786,22 +17779,6 @@
    "start": "2026-11-27T09:00:00+00:00",
    "league": "🎮 CS2 · CCT Europe 2026 Series 16 Play-In",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 77.298 partidos)",
-    "Mapa: MOUZ NXT 53% · Serie BO3: MOUZ NXT 54% - 46% MASONIC",
-    "Casas: MOUZ NXT 61% · MASONIC 39%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: MOUZ NXT 1577 (611 series) | MASONIC 1547 (488 series)",
-    "• Forma: MOUZ NXT ❌❌✅✅❌ | MASONIC ❌❌❌❌✅",
-    "• H2H: 4: 2-2",
-    "• Torneo: CCT Europe 2026 Series 16 Play-In (nivel C)",
-    "• Cambios de plantilla: ninguno",
-    "",
-    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
-    "• MOUZ NXT gana 2-1: 23% → cuota justa 4.32 · casa 26%",
-    "• MASONIC gana 2-1: 21% → cuota justa 4.82 · casa 20%"
-   ],
    "context": "CS2 MOUZ NXT vs MASONIC, BO3, torneo CCT Europe 2026 Series 16 Play-In nivel c. Elo por mapa 1577 vs 1547 (prob. mapa 53%, serie 54%). Forma ❌❌✅✅❌ / ❌❌❌❌✅ (✅ victoria ❌ derrota). H2H 4: 2-2. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.52/2.35.",
    "captured": "2026-11-25T21:14",
    "version": "80801e3",
@@ -28814,26 +28791,16 @@
    "start": "2026-11-27T09:07:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.979 partidos)",
-    "Goles esperados: Uncle 2.79 · Bomb1to 2.90",
-    "Ganador: Uncle 35% · empate 20% · Bomb1to 45%",
-    "Total: más de 5.5 goles 50% · menos 50%",
-    "Hándicap Bomb1to: −1.5 27% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Uncle ✅❌✅❌❌ | Bomb1to ➖✅✅➖❌",
-    "• Partidos: Uncle 908 | Bomb1to 1554",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.60 · X 2.43 · 2 2.17 (sin margen 24%/36%/40%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.60 (+27%) · Paf España 3.60 (+27%)"
-   ],
    "context": "EA FC Esoccer Battle Uncle vs Bomb1to (Serie A): goles esperados 2.79-2.90, 1X2 35%/20%/45%. Sin cuotas de casa.",
    "captured": "2026-11-27T08:50",
    "version": "d485fd7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -28849,26 +28816,16 @@
    "start": "2026-11-27T08:55:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.979 partidos)",
-    "Goles esperados: Bomb1to 3.67 · mko1919 2.79",
-    "Ganador: Bomb1to 59% · empate 17% · mko1919 24%",
-    "Total: más de 6.5 goles 47% · menos 53%",
-    "Hándicap Bomb1to: −1.5 40% · −2.5 26%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Bomb1to ➖✅✅➖❌ | mko1919 ➖✅❌✅✅",
-    "• Partidos: Bomb1to 1554 | mko1919 1452",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.93 · X 3.50 · 2 2.90 (sin margen 45%/25%/30%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.93 (+15%) · Paf España 1.93 (+15%)"
-   ],
    "context": "EA FC Esoccer Battle Bomb1to vs mko1919 (Serie A): goles esperados 3.67-2.79, 1X2 59%/17%/24%. Sin cuotas de casa.",
    "captured": "2026-11-27T08:50",
    "version": "d485fd7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -28884,23 +28841,72 @@
    "start": "2026-11-27T09:00:00+00:00",
    "league": "🎮⚽ FC 27 · EFL Championship",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 82.979 partidos)",
-    "Goles esperados: crinner 3.12 · Smetana 3.04",
-    "Ganador: crinner 45% · empate 19% · Smetana 36%",
-    "Total: más de 6.5 goles 42% · menos 58%",
-    "Hándicap crinner: −1.5 28% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: crinner ✅❌✅❌✅ | Smetana ✅✅✅➖❌",
-    "• Partidos: crinner 1290 | Smetana 1543",
-    "• Liga: EFL Championship",
-    "• Unibet: 1 2.35 · X 6.00 · 2 1.83 (sin margen 37%/15%/48%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 6.00 (+13%) · Paf España 6.00 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle crinner vs Smetana (EFL Championship): goles esperados 3.12-3.04, 1X2 45%/19%/36%. Sin cuotas de casa.",
    "captured": "2026-11-27T08:50",
    "version": "d485fd7",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "0-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "key": "vp|2026-11-27|Newry City|Ballinamallard United",
+   "market": "H",
+   "pick": "Newry City",
+   "odds": 2.02,
+   "book": "Unibet",
+   "p": 0.5113,
+   "implied": 0.5113,
+   "edge": 0.0329,
+   "match": "Newry City vs Ballinamallard United",
+   "start": "2026-11-27T19:45:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Northern Ireland - Championship",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 2.02 y el precio justo de Pinnacle es 1.96 (ventaja +3.3%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Newry City vs Ballinamallard United (Northern Ireland - Championship). Estrategia de valor: Unibet 2.02 frente a Pinnacle justo 1.96.",
+   "captured": "2026-11-27T09:21",
+   "version": "bfe6347",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.75,
+   "book": "Unibet",
+   "implied": 0.129,
+   "edge": 0.262,
+   "sin_stake": true,
+   "p": 0.187,
+   "key": "fc|2401718",
+   "match": "crinner vs Loka",
+   "start": "2026-11-27T09:24:00+00:00",
+   "league": "🎮⚽ FC 27 · EFL Championship",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.009 partidos)",
+    "Goles esperados: crinner 2.73 · Loka 3.30",
+    "Ganador: crinner 33% · empate 19% · Loka 49%",
+    "Total: más de 6.5 goles 40% · menos 60%",
+    "Hándicap Loka: −1.5 35% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: crinner ❌✅❌✅❌ | Loka ➖✅✅✅✅",
+    "• Partidos: crinner 1291 | Loka 1560",
+    "• Liga: EFL Championship",
+    "• Unibet: 1 2.85 · X 6.75 · 2 1.54 (sin margen 31%/13%/57%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 6.75 (+26%) · Paf España 6.75 (+26%)"
+   ],
+   "context": "EA FC Esoccer Battle crinner vs Loka (EFL Championship): goles esperados 2.73-3.30, 1X2 33%/19%/49%. Sin cuotas de casa.",
+   "captured": "2026-11-27T09:21",
+   "version": "bfe6347",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -29899,6 +29905,6 @@
   "nba|2026-11-28|LA Clippers|New Orleans Pelicans",
   "nba|2026-11-28|Portland Trail Blazers|Golden State Warriors"
  ],
- "radar_date": "2026-11-26",
+ "radar_date": "2026-11-27",
  "sgp_res_sent": "2026-11-26T00:17:28.371403+00:00"
 }
