@@ -1,370 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 18:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Gana Bochum** @ **1.73** (Bwin) · prob 56% vs casas 56% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.48** (Unibet) · prob 58% vs casas 62% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 10.5 córners** @ **1.90** (Unibet) · prob 52% vs casas 48% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Bochum** @ **1.60** (Unibet) · prob 55% vs casas 57% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Bochum** @ **2.15** (Unibet) · prob 45% vs casas 43% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Darmstadt** @ **1.57** (Unibet) · prob 56% vs casas 58% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Bochum vs Darmstadt — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Darmstadt** @ **1.35** (Unibet) · prob 72% vs casas 68% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.74 - 1.22)  
-1 52% · X 26% · 2 21%  
-1X 79% · X2 48% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 8% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Bochum ❌➖✅✅❌ | Darmstadt ❌➖➖❌✅  
-• H2H: 14 desde 2014: 5V-6E-3D · 2.9 goles/partido · +2.5 en 64%  
-• Bajas: Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda  
-• Favorito de las casas: Bochum @ 1.73  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Bochum +5.5 53% · Darmstadt +5.5 24%  
-Tarjetas 2.0 - 2.6: total +4.5 48% · Bochum +2.5 34% · Darmstadt +2.5 47%  
-Faltas 13.3 - 10.1: total +22.5 55% · Bochum +11.5 66% · Darmstadt +11.5 31%  
-Tiros a puerta 6.3 - 3.2: total +10.5 36% · Bochum +5.5 58% · Darmstadt +4.5 23%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt → prob. 40%, cuota justa 2.48 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles → prob. 15%, cuota justa 6.68  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 43% · ventaja -5%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 2.5 goles** @ **1.44** (Bet365) · prob 67% vs casas 67% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.45** (Unibet) · prob 65% vs casas 63% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.38** (Unibet) · prob 66% vs casas 66% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Nurnberg** @ **1.77** (Unibet) · prob 52% vs casas 52% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Nurnberg** @ **1.28** (Unibet) · prob 73% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Heidenheim** @ **1.75** (Unibet) · prob 54% vs casas 52% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
-
-## Heidenheim vs Nurnberg — 27/11 · 18:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Heidenheim** @ **1.56** (Unibet) · prob 58% vs casas 59% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.95 - 1.31)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Heidenheim ❌➖❌➖❌ | Nurnberg ➖❌✅✅❌  
-• H2H: 16 desde 2014: 7V-3E-6D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)  
-• Favorito de las casas: Heidenheim @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 5.0: total +10.5 56% · Heidenheim +5.5 55% · Nurnberg +5.5 39%  
-Tarjetas 1.8 - 2.4: total +4.5 41% · Heidenheim +2.5 27% · Nurnberg +2.5 44%  
-Faltas 10.0 - 10.2: total +22.5 30% · Heidenheim +11.5 31% · Nurnberg +11.5 33%  
-Tiros a puerta 6.2 - 4.7: total +10.5 53% · Heidenheim +5.5 57% · Nurnberg +4.5 50%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Nurnberg): cuota Unibet aprox. 2.08 (producto de piernas) · prob. 39% · ventaja -18%  
+Actualizado 27/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sonderjyske vs Brondby — 27/11 · 19:00
 
@@ -9275,6 +8911,7 @@ Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5
 Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
 
 ## Ipswich vs Aston Villa — 28/11 · 18:30
 
@@ -9300,6 +8937,8 @@ Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42
 Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
 
 ## Elche vs Ath Madrid — 28/11 · 18:30
 
@@ -9325,6 +8964,7 @@ Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%
 Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
 
 ## Eibar vs Burgos — 28/11 · 18:30
 
@@ -9350,6 +8990,637 @@ Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%
 Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 5.5 córners de Stuttgart** @ **1.67** (Unibet) · prob 56% vs casas 55% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.34)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
+• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
+• Favorito de las casas: Stuttgart @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
+Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
+Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
+Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
+
+## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 7.5 córners de Stuttgart** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.34)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
+• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
+• Favorito de las casas: Stuttgart @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
+Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
+Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
+Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
+
+## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.34)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
+• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
+• Favorito de las casas: Stuttgart @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
+Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
+Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
+Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
+
+## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 10.5 córners** @ **1.83** (Unibet) · prob 53% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.34)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
+• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
+• Favorito de las casas: Stuttgart @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
+Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
+Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
+Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
+
+## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Ein Frankfurt** @ **1.25** (Unibet) · prob 72% vs casas 73% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.34)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
+• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
+• Favorito de las casas: Stuttgart @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
+Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
+Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
+Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
+
+## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Ein Frankfurt** @ **2.18** (Unibet) · prob 45% vs casas 42% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.09 - 1.34)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
+Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
+• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
+• Favorito de las casas: Stuttgart @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
+Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
+Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
+Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
+
+## Ipswich vs Aston Villa — 28/11 · 18:30
+
+👀 candidata · 🏴 Premier League · **Más de 1.5 córners de Ipswich** @ **1.05** (Unibet) · prob 88% vs casas 86% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 1.82)  
+1 22% · X 26% · 2 52%  
+1X 48% · X2 78% · 12 74%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
+• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
+• Favorito de las casas: Aston Villa @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
+Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
+Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
+
+## Ipswich vs Aston Villa — 28/11 · 18:30
+
+👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Ipswich** @ **1.37** (Unibet) · prob 69% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 1.82)  
+1 22% · X 26% · 2 52%  
+1X 48% · X2 78% · 12 74%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
+• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
+• Favorito de las casas: Aston Villa @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
+Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
+Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
+
+## Ipswich vs Aston Villa — 28/11 · 18:30
+
+👀 candidata · 🏴 Premier League · **Más de 6.5 córners** @ **1.16** (Unibet) · prob 80% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 1.82)  
+1 22% · X 26% · 2 52%  
+1X 48% · X2 78% · 12 74%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
+• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
+• Favorito de las casas: Aston Villa @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
+Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
+Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
+
+## Ipswich vs Aston Villa — 28/11 · 18:30
+
+👀 candidata · 🏴 Premier League · **Menos de 10.5 córners** @ **1.52** (Unibet) · prob 64% vs casas 61% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 1.82)  
+1 22% · X 26% · 2 52%  
+1X 48% · X2 78% · 12 74%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
+• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
+• Favorito de las casas: Aston Villa @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
+Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
+Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
+
+## Ipswich vs Aston Villa — 28/11 · 18:30
+
+👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Aston Villa** @ **1.13** (Unibet) · prob 81% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 1.82)  
+1 22% · X 26% · 2 52%  
+1X 48% · X2 78% · 12 74%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
+• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
+• Favorito de las casas: Aston Villa @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
+Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
+Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
+
+## Ipswich vs Aston Villa — 28/11 · 18:30
+
+👀 candidata · 🏴 Premier League · **Menos de 4.5 córners de Aston Villa** @ **2.02** (Unibet) · prob 47% vs casas 46% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 1.82)  
+1 22% · X 26% · 2 52%  
+1X 48% · X2 78% · 12 74%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
+• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
+• Favorito de las casas: Aston Villa @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
+Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
+Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
+
+## Elche vs Ath Madrid — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 5.5 córners de Ath Madrid** @ **2.15** (Unibet) · prob 43% vs casas 43% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.64)  
+1 17% · X 25% · 2 58%  
+1X 42% · X2 83% · 12 75%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
+• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
+• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
+• Favorito de las casas: Ath Madrid @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
+Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
+Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
+Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
+
+## Elche vs Ath Madrid — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 8.5 córners de Ath Madrid** @ **1.09** (Unibet) · prob 85% vs casas 84% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.64)  
+1 17% · X 25% · 2 58%  
+1X 42% · X2 83% · 12 75%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
+• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
+• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
+• Favorito de las casas: Ath Madrid @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
+Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
+Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
+Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
+
+## Elche vs Ath Madrid — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 8.5 córners** @ **1.61** (Unibet) · prob 59% vs casas 57% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.64)  
+1 17% · X 25% · 2 58%  
+1X 42% · X2 83% · 12 75%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
+• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
+• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
+• Favorito de las casas: Ath Madrid @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
+Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
+Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
+Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
+
+## Elche vs Ath Madrid — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.64)  
+1 17% · X 25% · 2 58%  
+1X 42% · X2 83% · 12 75%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
+• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
+• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
+• Favorito de las casas: Ath Madrid @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
+Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
+Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
+Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
+
+## Elche vs Ath Madrid — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Elche** @ **1.72** (Unibet) · prob 55% vs casas 54% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.64)  
+1 17% · X 25% · 2 58%  
+1X 42% · X2 83% · 12 75%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
+• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
+• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
+• Favorito de las casas: Ath Madrid @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
+Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
+Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
+Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
+
+## Elche vs Ath Madrid — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Elche** @ **1.04** (Unibet) · prob 89% vs casas 88% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.64)  
+1 17% · X 25% · 2 58%  
+1X 42% · X2 83% · 12 75%  
++1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
+• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
+• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
+• Favorito de las casas: Ath Madrid @ 1.49  
+📐 **Estadísticas esperadas**  
+Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
+Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
+Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
+Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
+
+## Eibar vs Burgos — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.79)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
+• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
+• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
+• Favorito de las casas: Eibar @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
+Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
+Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
+Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Eibar vs Burgos — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.79)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
+• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
+• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
+• Favorito de las casas: Eibar @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
+Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
+Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
+Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Eibar vs Burgos — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Burgos** @ **1.35** (Unibet) · prob 66% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.79)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
+• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
+• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
+• Favorito de las casas: Eibar @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
+Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
+Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
+Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Eibar vs Burgos — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Burgos** @ **1.84** (Unibet) · prob 52% vs casas 50% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.79)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
+• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
+• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
+• Favorito de las casas: Eibar @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
+Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
+Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
+Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Eibar vs Burgos — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Eibar** @ **1.56** (Unibet) · prob 59% vs casas 58% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.79)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
+• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
+• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
+• Favorito de las casas: Eibar @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
+Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
+Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
+Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Eibar vs Burgos — 28/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Eibar** @ **1.68** (Unibet) · prob 54% vs casas 54% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.79)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
+🔎 **Claves**  
+• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
+• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
+• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
+• Favorito de las casas: Eibar @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
+Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
+Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
+Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
 
 ## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
 
@@ -9375,6 +9646,7 @@ Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +
 Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
 
 ## Motherwell vs Hibernian — 28/11 · 18:45
 
@@ -9400,6 +9672,319 @@ Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 4
 Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
+
+## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 9.5 córners** @ **1.35** (Unibet) · prob 70% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 3.32 - 0.93)  
+1 82% · X 12% · 2 6%  
+1X 94% · X2 18% · 12 88%  
++1.5 93% · +2.5 80% · +3.5 61% · Ambos marcan 58%  
+Marcadores: 3-0 9% · 3-1 8% · 2-0 8% · 2-1 7%  
+🔎 **Claves**  
+• Forma: PSV Eindhoven ❌➖✅✅✅ | Go Ahead Eagles ❌✅❌✅❌  
+• H2H: 16 desde 2013: 15V-0E-1D · 3.4 goles/partido · +2.5 en 75%  
+• Bajas: PSV Eindhoven: 1 fuera, 4 duda (Jerdy Schouten); Go Ahead Eagles: 1 fuera, 3 duda (Pim Saathof)  
+• Favorito de las casas: PSV Eindhoven @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 8.4 - 3.4: total +10.5 62% · PSV Eindhoven +5.5 75% · Go Ahead Eagles +4.5 28%  
+Tarjetas 1.0 - 1.7: total +3.5 30% · PSV Eindhoven +1.5 28% · Go Ahead Eagles +1.5 51%  
+Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +11.5 4%  
+Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
+
+## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.35** (Unibet) · prob 69% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 3.32 - 0.93)  
+1 82% · X 12% · 2 6%  
+1X 94% · X2 18% · 12 88%  
++1.5 93% · +2.5 80% · +3.5 61% · Ambos marcan 58%  
+Marcadores: 3-0 9% · 3-1 8% · 2-0 8% · 2-1 7%  
+🔎 **Claves**  
+• Forma: PSV Eindhoven ❌➖✅✅✅ | Go Ahead Eagles ❌✅❌✅❌  
+• H2H: 16 desde 2013: 15V-0E-1D · 3.4 goles/partido · +2.5 en 75%  
+• Bajas: PSV Eindhoven: 1 fuera, 4 duda (Jerdy Schouten); Go Ahead Eagles: 1 fuera, 3 duda (Pim Saathof)  
+• Favorito de las casas: PSV Eindhoven @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 8.4 - 3.4: total +10.5 62% · PSV Eindhoven +5.5 75% · Go Ahead Eagles +4.5 28%  
+Tarjetas 1.0 - 1.7: total +3.5 30% · PSV Eindhoven +1.5 28% · Go Ahead Eagles +1.5 51%  
+Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +11.5 4%  
+Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
+
+## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 1.5 córners de Go Ahead Eagles** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 3.32 - 0.93)  
+1 82% · X 12% · 2 6%  
+1X 94% · X2 18% · 12 88%  
++1.5 93% · +2.5 80% · +3.5 61% · Ambos marcan 58%  
+Marcadores: 3-0 9% · 3-1 8% · 2-0 8% · 2-1 7%  
+🔎 **Claves**  
+• Forma: PSV Eindhoven ❌➖✅✅✅ | Go Ahead Eagles ❌✅❌✅❌  
+• H2H: 16 desde 2013: 15V-0E-1D · 3.4 goles/partido · +2.5 en 75%  
+• Bajas: PSV Eindhoven: 1 fuera, 4 duda (Jerdy Schouten); Go Ahead Eagles: 1 fuera, 3 duda (Pim Saathof)  
+• Favorito de las casas: PSV Eindhoven @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 8.4 - 3.4: total +10.5 62% · PSV Eindhoven +5.5 75% · Go Ahead Eagles +4.5 28%  
+Tarjetas 1.0 - 1.7: total +3.5 30% · PSV Eindhoven +1.5 28% · Go Ahead Eagles +1.5 51%  
+Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +11.5 4%  
+Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
+
+## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Go Ahead Eagles** @ **1.32** (Unibet) · prob 71% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 3.32 - 0.93)  
+1 82% · X 12% · 2 6%  
+1X 94% · X2 18% · 12 88%  
++1.5 93% · +2.5 80% · +3.5 61% · Ambos marcan 58%  
+Marcadores: 3-0 9% · 3-1 8% · 2-0 8% · 2-1 7%  
+🔎 **Claves**  
+• Forma: PSV Eindhoven ❌➖✅✅✅ | Go Ahead Eagles ❌✅❌✅❌  
+• H2H: 16 desde 2013: 15V-0E-1D · 3.4 goles/partido · +2.5 en 75%  
+• Bajas: PSV Eindhoven: 1 fuera, 4 duda (Jerdy Schouten); Go Ahead Eagles: 1 fuera, 3 duda (Pim Saathof)  
+• Favorito de las casas: PSV Eindhoven @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 8.4 - 3.4: total +10.5 62% · PSV Eindhoven +5.5 75% · Go Ahead Eagles +4.5 28%  
+Tarjetas 1.0 - 1.7: total +3.5 30% · PSV Eindhoven +1.5 28% · Go Ahead Eagles +1.5 51%  
+Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +11.5 4%  
+Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
+
+## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 8.5 córners de PSV Eindhoven** @ **2.14** (Unibet) · prob 44% vs casas 43% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 3.32 - 0.93)  
+1 82% · X 12% · 2 6%  
+1X 94% · X2 18% · 12 88%  
++1.5 93% · +2.5 80% · +3.5 61% · Ambos marcan 58%  
+Marcadores: 3-0 9% · 3-1 8% · 2-0 8% · 2-1 7%  
+🔎 **Claves**  
+• Forma: PSV Eindhoven ❌➖✅✅✅ | Go Ahead Eagles ❌✅❌✅❌  
+• H2H: 16 desde 2013: 15V-0E-1D · 3.4 goles/partido · +2.5 en 75%  
+• Bajas: PSV Eindhoven: 1 fuera, 4 duda (Jerdy Schouten); Go Ahead Eagles: 1 fuera, 3 duda (Pim Saathof)  
+• Favorito de las casas: PSV Eindhoven @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 8.4 - 3.4: total +10.5 62% · PSV Eindhoven +5.5 75% · Go Ahead Eagles +4.5 28%  
+Tarjetas 1.0 - 1.7: total +3.5 30% · PSV Eindhoven +1.5 28% · Go Ahead Eagles +1.5 51%  
+Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +11.5 4%  
+Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
+
+## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners de PSV Eindhoven** @ **1.40** (Unibet) · prob 66% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 3.32 - 0.93)  
+1 82% · X 12% · 2 6%  
+1X 94% · X2 18% · 12 88%  
++1.5 93% · +2.5 80% · +3.5 61% · Ambos marcan 58%  
+Marcadores: 3-0 9% · 3-1 8% · 2-0 8% · 2-1 7%  
+🔎 **Claves**  
+• Forma: PSV Eindhoven ❌➖✅✅✅ | Go Ahead Eagles ❌✅❌✅❌  
+• H2H: 16 desde 2013: 15V-0E-1D · 3.4 goles/partido · +2.5 en 75%  
+• Bajas: PSV Eindhoven: 1 fuera, 4 duda (Jerdy Schouten); Go Ahead Eagles: 1 fuera, 3 duda (Pim Saathof)  
+• Favorito de las casas: PSV Eindhoven @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 8.4 - 3.4: total +10.5 62% · PSV Eindhoven +5.5 75% · Go Ahead Eagles +4.5 28%  
+Tarjetas 1.0 - 1.7: total +3.5 30% · PSV Eindhoven +1.5 28% · Go Ahead Eagles +1.5 51%  
+Faltas 8.2 - 6.6: total +21.5 6% · PSV Eindhoven +10.5 22% · Go Ahead Eagles +11.5 4%  
+Tiros a puerta 9.2 - 3.5: total +10.5 70% · PSV Eindhoven +5.5 86% · Go Ahead Eagles +5.5 15%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles → prob. 68%, cuota justa 1.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Más de 5.5 tiros a puerta de PSV Eindhoven + Más de 2.5 goles + Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven → prob. 38%, cuota justa 2.61  
+🎯 No simulada (con cuota: Más de 5.5 córners de PSV Eindhoven + Menos de 1.5 tarjetas de PSV Eindhoven): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 54% · ventaja -4%  
+
+## Motherwell vs Hibernian — 28/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 3.5 córners de Motherwell** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.31)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Motherwell ❌➖✅➖❌ | Hibernian ❌➖✅❌✅  
+• H2H: 59 desde 2005: 21V-14E-24D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Motherwell: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Hibernian @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +11.5 32% · Motherwell +6.5 29% · Hibernian +5.5 36%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Motherwell +2.5 27% · Hibernian +2.5 42%  
+Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 45%  
+Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
+
+## Motherwell vs Hibernian — 28/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 6.5 córners de Motherwell** @ **1.35** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.31)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Motherwell ❌➖✅➖❌ | Hibernian ❌➖✅❌✅  
+• H2H: 59 desde 2005: 21V-14E-24D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Motherwell: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Hibernian @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +11.5 32% · Motherwell +6.5 29% · Hibernian +5.5 36%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Motherwell +2.5 27% · Hibernian +2.5 42%  
+Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 45%  
+Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
+
+## Motherwell vs Hibernian — 28/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 8.5 córners** @ **1.36** (Unibet) · prob 67% vs casas 68% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.31)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Motherwell ❌➖✅➖❌ | Hibernian ❌➖✅❌✅  
+• H2H: 59 desde 2005: 21V-14E-24D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Motherwell: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Hibernian @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +11.5 32% · Motherwell +6.5 29% · Hibernian +5.5 36%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Motherwell +2.5 27% · Hibernian +2.5 42%  
+Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 45%  
+Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
+
+## Motherwell vs Hibernian — 28/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 11.5 córners** @ **1.47** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.31)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Motherwell ❌➖✅➖❌ | Hibernian ❌➖✅❌✅  
+• H2H: 59 desde 2005: 21V-14E-24D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Motherwell: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Hibernian @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +11.5 32% · Motherwell +6.5 29% · Hibernian +5.5 36%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Motherwell +2.5 27% · Hibernian +2.5 42%  
+Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 45%  
+Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
+
+## Motherwell vs Hibernian — 28/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 3.5 córners de Hibernian** @ **1.35** (Unibet) · prob 67% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.31)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Motherwell ❌➖✅➖❌ | Hibernian ❌➖✅❌✅  
+• H2H: 59 desde 2005: 21V-14E-24D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Motherwell: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Hibernian @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +11.5 32% · Motherwell +6.5 29% · Hibernian +5.5 36%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Motherwell +2.5 27% · Hibernian +2.5 42%  
+Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 45%  
+Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
+
+## Motherwell vs Hibernian — 28/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 5.5 córners de Hibernian** @ **1.56** (Unibet) · prob 62% vs casas 59% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.31)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Motherwell ❌➖✅➖❌ | Hibernian ❌➖✅❌✅  
+• H2H: 59 desde 2005: 21V-14E-24D · 2.9 goles/partido · +2.5 en 54%  
+• Bajas: Motherwell: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Hibernian @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +11.5 32% · Motherwell +6.5 29% · Hibernian +5.5 36%  
+Tarjetas 1.8 - 2.4: total +4.5 40% · Motherwell +2.5 27% · Hibernian +2.5 42%  
+Faltas 11.3 - 12.3: total +24.5 41% · Motherwell +12.5 34% · Hibernian +12.5 45%  
+Tiros a puerta 4.4 - 3.8: total +9.5 32% · Motherwell +5.5 29% · Hibernian +4.5 34%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Motherwell + Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell + Menos de 12.5 faltas de Motherwell → prob. 26%, cuota justa 3.87  
+🎯 No simulada (con cuota: Menos de 6.5 córners de Motherwell + Menos de 5.5 tiros a puerta de Motherwell): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 53% · ventaja +2%  
 
 ## Kifisia vs Kalamata — 28/11 · 19:00
 

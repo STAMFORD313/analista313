@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 18:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. John's Red Storm vs Iowa State Cyclones — 27/11 · 19:00
 
@@ -55,6 +55,94 @@ Más 51% · Menos 49%
 • Forma: Iowa State Cyclones ✅✅✅✅❌ | St. John's Red Storm ✅✅✅✅❌  
 • H2H: 2 desde 2022: 2-0  
 • Bajas: Iowa State Cyclones: sin bajas; St. John's Red Storm: sin bajas  
+
+## Vermont Catamounts vs Merrimack Warriors — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 128.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **137.6** puntos · línea 128.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Vermont Catamounts ❌✅❌✅❌ | Merrimack Warriors ❌❌✅❌❌  
+• H2H: 4 desde 2022: 3-1  
+• Bajas: Vermont Catamounts: sin bajas; Merrimack Warriors: sin bajas  
+
+## Vermont Catamounts vs Merrimack Warriors — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Vermont Catamounts -1.5** @ **1.86** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Vermont Catamounts cubre -1.5 con prob. 51% (casas 51%)  
+🔎 **Claves**  
+• Forma: Vermont Catamounts ❌✅❌✅❌ | Merrimack Warriors ❌❌✅❌❌  
+• H2H: 4 desde 2022: 3-1  
+• Bajas: Vermont Catamounts: sin bajas; Merrimack Warriors: sin bajas  
+
+## Vermont Catamounts vs Merrimack Warriors — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Vermont Catamounts** @ **1.80** (DraftKings) · prob 53% vs casas 53% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.294 partidos y bajas)  
+Gana Vermont Catamounts 70% · Gana Merrimack Warriors 30%  
+Casas: Vermont Catamounts 53% · Merrimack Warriors 47%  
+Hándicap UVM -1.5 · Total puntos 128.5  
+🔎 **Claves**  
+• Forma: Vermont Catamounts ❌✅❌✅❌ | Merrimack Warriors ❌❌✅❌❌  
+• H2H: 4 desde 2022: 3-1  
+• Bajas: Vermont Catamounts: sin bajas; Merrimack Warriors: sin bajas  
+• Favorito de las casas: Vermont Catamounts @ 1.80  
+
+## Hampton Pirates vs UMass Lowell River Hawks — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 138.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **140.8** puntos · línea 138.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: Hampton Pirates ❌❌✅❌❌ | UMass Lowell River Hawks ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Bajas: Hampton Pirates: sin bajas; UMass Lowell River Hawks: sin bajas  
+
+## Hampton Pirates vs UMass Lowell River Hawks — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Hampton Pirates +1.5** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Hampton Pirates cubre +1.5 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Hampton Pirates ❌❌✅❌❌ | UMass Lowell River Hawks ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Bajas: Hampton Pirates: sin bajas; UMass Lowell River Hawks: sin bajas  
+
+## Hampton Pirates vs UMass Lowell River Hawks — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Hampton Pirates** @ **2.02** (DraftKings) · prob 47% vs casas 47% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.294 partidos y bajas)  
+Gana Hampton Pirates 43% · Gana UMass Lowell River Hawks 57%  
+Casas: Hampton Pirates 47% · UMass Lowell River Hawks 53%  
+Hándicap UML -1.5 · Total puntos 138.5  
+🔎 **Claves**  
+• Forma: Hampton Pirates ❌❌✅❌❌ | UMass Lowell River Hawks ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Bajas: Hampton Pirates: sin bajas; UMass Lowell River Hawks: sin bajas  
+• Favorito de las casas: UMass Lowell River Hawks @ 1.82  
 
 ## Baylor Bears vs TCU Horned Frogs — 27/11 · 21:00
 
