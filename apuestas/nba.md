@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 17:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Liberty Flames vs St. Thomas Tommies — 27/11 · 18:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 144.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **155.5** puntos · línea 144.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Liberty Flames ✅✅✅❌❌ | St. Thomas Tommies ❌✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Liberty Flames: sin bajas; St. Thomas Tommies: sin bajas  
-
-## Liberty Flames vs St. Thomas Tommies — 27/11 · 18:00
-
-👀 candidata · 🏀 NCAA Basketball · **Liberty Flames -1.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Liberty Flames cubre -1.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Liberty Flames ✅✅✅❌❌ | St. Thomas Tommies ❌✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Liberty Flames: sin bajas; St. Thomas Tommies: sin bajas  
-
-## Liberty Flames vs St. Thomas Tommies — 27/11 · 18:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Liberty Flames** @ **1.83** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.294 partidos y bajas)  
-Gana Liberty Flames 51% · Gana St. Thomas Tommies 49%  
-Casas: Liberty Flames 52% · St. Thomas Tommies 48%  
-Hándicap STMN -1.5 · Total puntos 144.5  
-🔎 **Claves**  
-• Forma: Liberty Flames ✅✅✅❌❌ | St. Thomas Tommies ❌✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Liberty Flames: sin bajas; St. Thomas Tommies: sin bajas  
-• Favorito de las casas: Liberty Flames @ 1.83  
+Actualizado 27/11/2026 18:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. John's Red Storm vs Iowa State Cyclones — 27/11 · 19:00
 
@@ -126,6 +82,50 @@ Más 49% · Menos 51%
 • Forma: Baylor Bears ✅❌✅✅❌ | TCU Horned Frogs ✅✅❌✅❌  
 • H2H: 20 desde 2017: 10-9  
 • Bajas: Baylor Bears: sin bajas; TCU Horned Frogs: sin bajas  
+
+## Oregon Ducks vs Maryland Terrapins — 27/11 · 21:30
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 148.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **138.4** puntos · línea 148.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Oregon Ducks ✅➖❌❌❌ | Maryland Terrapins ❌✅✅❌❌  
+• H2H: 3 desde 2025: 2-1  
+• Bajas: Oregon Ducks: sin bajas; Maryland Terrapins: sin bajas  
+
+## Oregon Ducks vs Maryland Terrapins — 27/11 · 21:30
+
+👀 candidata · 🏀 NCAA Basketball · **Oregon Ducks +3.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Oregon Ducks cubre +3.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Oregon Ducks ✅➖❌❌❌ | Maryland Terrapins ❌✅✅❌❌  
+• H2H: 3 desde 2025: 2-1  
+• Bajas: Oregon Ducks: sin bajas; Maryland Terrapins: sin bajas  
+
+## Oregon Ducks vs Maryland Terrapins — 27/11 · 21:30
+
+👀 candidata · 🏀 NCAA Basketball · **Gana Oregon Ducks** @ **2.40** (DraftKings) · prob 40% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 62.294 partidos y bajas)  
+Gana Oregon Ducks 61% · Gana Maryland Terrapins 39%  
+Casas: Oregon Ducks 40% · Maryland Terrapins 60%  
+Hándicap MD -3.5 · Total puntos 148.5  
+🔎 **Claves**  
+• Forma: Oregon Ducks ✅➖❌❌❌ | Maryland Terrapins ❌✅✅❌❌  
+• H2H: 3 desde 2025: 2-1  
+• Bajas: Oregon Ducks: sin bajas; Maryland Terrapins: sin bajas  
+• Favorito de las casas: Maryland Terrapins @ 1.60  
 
 ## Alabama Crimson Tide vs Miami Hurricanes — 28/11 · 02:30
 

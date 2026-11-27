@@ -1,381 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 17:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Rakow vs Piast Gliwice — 27/11 · 18:00
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Rakow** @ **1.75** (Bet365) · prob 52% vs casas 52% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.09)  
-1 45% · X 27% · 2 28%  
-1X 72% · X2 55% · 12 73%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Rakow ✅❌✅✅✅ | Piast Gliwice ➖✅➖➖✅  
-• H2H: 14 desde 2019: 9V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Rakow: sin bajas; Piast Gliwice: sin bajas  
-• Favorito de las casas: Rakow @ 1.75  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Alanyaspor +0 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 9.5 córners** @ **1.64** (Unibet) · prob 57% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Alanyaspor** @ **1.65** (Unibet) · prob 56% vs casas 56% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 6.5 córners de Alanyaspor** @ **1.35** (Unibet) · prob 69% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 córners de Konyaspor** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Alanyaspor vs Konyaspor — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Konyaspor** @ **1.44** (Unibet) · prob 65% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.56 - 1.14)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Alanyaspor ❌❌❌❌❌ | Konyaspor ❌✅❌❌❌  
-• H2H: 20 desde 2016: 11V-3E-6D · 3.3 goles/partido · +2.5 en 70%  
-• Bajas: Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)  
-• Favorito de las casas: Konyaspor @ 2.65  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 3.8: total +9.5 41% · Alanyaspor +5.5 42% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 49% · Alanyaspor +2.5 36% · Konyaspor +2.5 46%  
-Faltas 13.1 - 13.1: total +26.5 46% · Alanyaspor +13.5 44% · Konyaspor +13.5 43%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Alanyaspor +5.5 31% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.37  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Kasimpasa +0.5 (hándicap asiático)** @ **1.88** (mejor del mercado) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.38** (Unibet) · prob 69% vs casas 67% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.42** (Unibet) · prob 64% vs casas 65% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Rizespor** @ **2.25** (Unibet) · prob 44% vs casas 41% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Rizespor** @ **1.55** (Unibet) · prob 56% vs casas 59% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Kasimpasa** @ **1.66** (Unibet) · prob 53% vs casas 55% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
-
-## Rizespor vs Kasimpasa — 27/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Kasimpasa** @ **1.55** (Unibet) · prob 62% vs casas 59% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 1.49)  
-1 39% · X 28% · 2 33%  
-1X 67% · X2 61% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Rizespor ❌❌➖✅✅ | Kasimpasa ✅✅➖✅✅  
-• H2H: 24 desde 2007: 6V-6E-12D · 2.6 goles/partido · +2.5 en 46%  
-• Bajas: Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)  
-• Favorito de las casas: Rizespor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.9: total +9.5 47% · Rizespor +5.5 47% · Kasimpasa +4.5 35%  
-Tarjetas 1.9 - 2.5: total +4.5 46% · Rizespor +2.5 30% · Kasimpasa +2.5 47%  
-Faltas 11.3 - 14.6: total +26.5 44% · Rizespor +13.5 26% · Kasimpasa +13.5 59%  
-Tiros a puerta 5.4 - 3.7: total +9.5 43% · Rizespor +5.5 45% · Kasimpasa +4.5 31%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles → prob. 14%, cuota justa 7.16  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 39% · ventaja -1%  
+Actualizado 27/11/2026 18:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bochum vs Darmstadt — 27/11 · 18:30
 
@@ -9268,6 +8893,163 @@ Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%
 Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Torino vs Lazio — 28/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Lazio** @ **1.04** (Unibet) · prob 89% vs casas 88% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.35)  
+1 21% · X 28% · 2 51%  
+1X 49% · X2 79% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
+• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
+• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
+• Favorito de las casas: Lazio @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
+Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
+Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
+Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Torino vs Lazio — 28/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Lazio** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.35)  
+1 21% · X 28% · 2 51%  
+1X 49% · X2 79% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
+• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
+• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
+• Favorito de las casas: Lazio @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
+Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
+Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
+Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Torino vs Lazio — 28/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.35)  
+1 21% · X 28% · 2 51%  
+1X 49% · X2 79% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
+• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
+• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
+• Favorito de las casas: Lazio @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
+Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
+Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
+Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Torino vs Lazio — 28/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.35)  
+1 21% · X 28% · 2 51%  
+1X 49% · X2 79% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
+• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
+• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
+• Favorito de las casas: Lazio @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
+Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
+Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
+Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Torino vs Lazio — 28/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Torino** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.35)  
+1 21% · X 28% · 2 51%  
+1X 49% · X2 79% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
+• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
+• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
+• Favorito de las casas: Lazio @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
+Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
+Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
+Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Torino vs Lazio — 28/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 7.5 córners de Torino** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.35)  
+1 21% · X 28% · 2 51%  
+1X 49% · X2 79% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
+• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
+• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
+• Favorito de las casas: Lazio @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
+Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
+Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
+Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
 
 ## Cercle Brugge vs Mechelen — 28/11 · 18:15
 
@@ -9293,6 +9075,163 @@ Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5
 Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
+
+## Cercle Brugge vs Mechelen — 28/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de Mechelen** @ **1.22** (Unibet) · prob 76% vs casas 75% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.35)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
+• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
+Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
+Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
+Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
+
+## Cercle Brugge vs Mechelen — 28/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Mechelen** @ **1.38** (Unibet) · prob 68% vs casas 66% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.35)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
+• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
+Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
+Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
+Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
+
+## Cercle Brugge vs Mechelen — 28/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.35)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
+• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
+Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
+Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
+Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
+
+## Cercle Brugge vs Mechelen — 28/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.29** (Unibet) · prob 73% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.35)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
+• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
+Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
+Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
+Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
+
+## Cercle Brugge vs Mechelen — 28/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Cercle Brugge** @ **1.47** (Unibet) · prob 63% vs casas 62% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.35)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
+• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
+Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
+Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
+Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
+
+## Cercle Brugge vs Mechelen — 28/11 · 18:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 7.5 córners de Cercle Brugge** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.35)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
+• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
+Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
+Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
+Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
 
 ## Charlotte vs Chicago Fire — 28/11 · 18:30
 
