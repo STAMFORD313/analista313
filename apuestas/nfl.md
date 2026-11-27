@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 01:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **57.4** puntos · línea 47.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Texas Tech Red Raiders ❌✅✅✅✅ | TCU Horned Frogs ❌✅❌✅❌  
-• H2H: 8 desde 2017: 2-6  
-• Bajas: Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas  
-
-## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Texas Tech Red Raiders -13.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Texas Tech Red Raiders cubre -13.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Texas Tech Red Raiders ❌✅✅✅✅ | TCU Horned Frogs ❌✅❌✅❌  
-• H2H: 8 desde 2017: 2-6  
-• Bajas: Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas  
-
-## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Texas Tech Red Raiders** @ **1.18** (DraftKings) · prob 81% vs casas 81% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.655 partidos y bajas)  
-Gana Texas Tech Red Raiders 85% · Gana TCU Horned Frogs 15%  
-Casas: Texas Tech Red Raiders 81% · TCU Horned Frogs 19%  
-Hándicap TTU -13.5 · Total puntos 47.5  
-🔎 **Claves**  
-• Forma: Texas Tech Red Raiders ❌✅✅✅✅ | TCU Horned Frogs ❌✅❌✅❌  
-• H2H: 8 desde 2017: 2-6  
-• Bajas: Texas Tech Red Raiders: sin bajas; TCU Horned Frogs: sin bajas  
-• Favorito de las casas: Texas Tech Red Raiders @ 1.18  
+Actualizado 27/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
 

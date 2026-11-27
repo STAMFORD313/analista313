@@ -82654,16 +82654,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2400778,263267,Arsenal,Chelsea,,
 2400779,263267,Tottenham,Arsenal,,
 2400780,263267,Liverpool,Man City,,
-2400025,263206,Boca Juniors,Paris,2,1
-2400026,263206,Man City,River Plate,1,1
-2400027,263206,River Plate,Boca Juniors,2,0
-2400028,263206,Paris,Real Madrid,3,0
-2400029,263206,Real Madrid,River Plate,0,2
-2400030,263206,Boca Juniors,Man City,1,1
-2400031,263206,Man City,Real Madrid,0,2
-2400032,263206,River Plate,Paris,1,0
-2400033,263206,Paris,Man City,4,2
-2400034,263206,Real Madrid,Boca Juniors,1,1
+2400025,263206,Boca Juniors,Paris,2.0,1.0
+2400026,263206,Man City,River Plate,1.0,1.0
+2400027,263206,River Plate,Boca Juniors,2.0,0.0
+2400028,263206,Paris,Real Madrid,3.0,0.0
+2400029,263206,Real Madrid,River Plate,0.0,2.0
+2400030,263206,Boca Juniors,Man City,1.0,1.0
+2400031,263206,Man City,Real Madrid,0.0,2.0
+2400032,263206,River Plate,Paris,1.0,0.0
+2400033,263206,Paris,Man City,4.0,2.0
+2400034,263206,Real Madrid,Boca Juniors,1.0,1.0
 2400035,263206,Paris,Boca Juniors,,
 2400036,263206,River Plate,Man City,,
 2400037,263206,Boca Juniors,River Plate,,

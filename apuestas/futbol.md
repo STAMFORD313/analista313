@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 01:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Pachuca vs Guadalajara Chivas — 27/11 · 02:00
-
-👀 candidata · 🇲🇽 Liga MX · **Empate** @ **3.75** (Bet365) · prob 27% vs casas 27% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.18)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Pachuca ❌✅✅✅✅ | Guadalajara Chivas ✅✅✅➖✅  
-• H2H: 30 desde 2012: 9V-11E-10D · 2.4 goles/partido · +2.5 en 40%  
-• Bajas: Pachuca: sin bajas; Guadalajara Chivas: sin bajas  
-• Favorito de las casas: Guadalajara Chivas @ 2.50  
+Actualizado 27/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Club Leon vs Cruz Azul — 27/11 · 04:10
 
