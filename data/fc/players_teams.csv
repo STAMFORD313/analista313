@@ -82594,16 +82594,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2399892,263239,River Plate,Boca Juniors,,
 2399893,263239,Racing Club,Boca Juniors,,
 2399894,263239,Racing Club,River Plate,,
-2400381,263217,Juventus,Bologna,1,1
-2400382,263217,Sassuolo,Napoli,0,1
-2400383,263217,Napoli,Juventus,0,1
-2400384,263217,Bologna,Roma,2,0
-2400385,263217,Roma,Napoli,3,0
-2400386,263217,Juventus,Sassuolo,1,1
-2400387,263217,Sassuolo,Roma,1,3
-2400388,263217,Napoli,Bologna,1,1
-2400389,263217,Bologna,Sassuolo,3,2
-2400390,263217,Roma,Juventus,0,0
+2400381,263217,Juventus,Bologna,1.0,1.0
+2400382,263217,Sassuolo,Napoli,0.0,1.0
+2400383,263217,Napoli,Juventus,0.0,1.0
+2400384,263217,Bologna,Roma,2.0,0.0
+2400385,263217,Roma,Napoli,3.0,0.0
+2400386,263217,Juventus,Sassuolo,1.0,1.0
+2400387,263217,Sassuolo,Roma,1.0,3.0
+2400388,263217,Napoli,Bologna,1.0,1.0
+2400389,263217,Bologna,Sassuolo,3.0,2.0
+2400390,263217,Roma,Juventus,0.0,0.0
 2400391,263217,Bologna,Juventus,,
 2400392,263217,Napoli,Sassuolo,,
 2400393,263217,Juventus,Napoli,,
@@ -82614,14 +82614,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2400398,263217,Bologna,Napoli,,
 2400399,263217,Sassuolo,Bologna,,
 2400400,263217,Juventus,Roma,,
-2399683,263227,Argentina,Spain,0,2
-2399684,263227,Brazil,England,0,1
-2399685,263227,England,Argentina,2,4
-2399686,263227,Spain,France,0,0
-2399687,263227,France,England,0,1
-2399688,263227,Argentina,Brazil,1,1
-2399689,263227,Brazil,France,0,1
-2399690,263227,England,Spain,1,0
+2399683,263227,Argentina,Spain,0.0,2.0
+2399684,263227,Brazil,England,0.0,1.0
+2399685,263227,England,Argentina,2.0,4.0
+2399686,263227,Spain,France,0.0,0.0
+2399687,263227,France,England,0.0,1.0
+2399688,263227,Argentina,Brazil,1.0,1.0
+2399689,263227,Brazil,France,0.0,1.0
+2399690,263227,England,Spain,1.0,0.0
 2399691,263227,Spain,Brazil,,
 2399692,263227,France,Argentina,,
 2399693,263227,Spain,Argentina,,
@@ -82634,18 +82634,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2399700,263227,Spain,England,,
 2399701,263227,Brazil,Spain,,
 2399702,263227,Argentina,France,,
-2400761,263267,Liverpool,Arsenal,3,2
-2400762,263267,Tottenham,Chelsea,2,2
-2400763,263267,Chelsea,Liverpool,0,2
-2400764,263267,Arsenal,Man City,2,2
-2400765,263267,Man City,Chelsea,2,0
-2400766,263267,Liverpool,Tottenham,3,2
-2400767,263267,Tottenham,Man City,3,2
-2400768,263267,Chelsea,Arsenal,0,0
-2400769,263267,Arsenal,Tottenham,4,2
-2400770,263267,Man City,Liverpool,0,1
-2400771,263267,Arsenal,Liverpool,4,0
-2400772,263267,Chelsea,Tottenham,0,4
+2400761,263267,Liverpool,Arsenal,3.0,2.0
+2400762,263267,Tottenham,Chelsea,2.0,2.0
+2400763,263267,Chelsea,Liverpool,0.0,2.0
+2400764,263267,Arsenal,Man City,2.0,2.0
+2400765,263267,Man City,Chelsea,2.0,0.0
+2400766,263267,Liverpool,Tottenham,3.0,2.0
+2400767,263267,Tottenham,Man City,3.0,2.0
+2400768,263267,Chelsea,Arsenal,0.0,0.0
+2400769,263267,Arsenal,Tottenham,4.0,2.0
+2400770,263267,Man City,Liverpool,0.0,1.0
+2400771,263267,Arsenal,Liverpool,4.0,0.0
+2400772,263267,Chelsea,Tottenham,0.0,4.0
 2400773,263267,Liverpool,Chelsea,,
 2400774,263267,Man City,Arsenal,,
 2400775,263267,Chelsea,Man City,,
@@ -82654,3 +82654,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2400778,263267,Arsenal,Chelsea,,
 2400779,263267,Tottenham,Arsenal,,
 2400780,263267,Liverpool,Man City,,
+2400025,263206,Boca Juniors,Paris,2,1
+2400026,263206,Man City,River Plate,1,1
+2400027,263206,River Plate,Boca Juniors,2,0
+2400028,263206,Paris,Real Madrid,3,0
+2400029,263206,Real Madrid,River Plate,0,2
+2400030,263206,Boca Juniors,Man City,1,1
+2400031,263206,Man City,Real Madrid,0,2
+2400032,263206,River Plate,Paris,1,0
+2400033,263206,Paris,Man City,4,2
+2400034,263206,Real Madrid,Boca Juniors,1,1
+2400035,263206,Paris,Boca Juniors,,
+2400036,263206,River Plate,Man City,,
+2400037,263206,Boca Juniors,River Plate,,
+2400038,263206,Real Madrid,Paris,,
+2400039,263206,River Plate,Real Madrid,,
+2400040,263206,Man City,Boca Juniors,,
+2400041,263206,Real Madrid,Man City,,
+2400042,263206,Paris,River Plate,,
+2400043,263206,Man City,Paris,,
+2400044,263206,Boca Juniors,Real Madrid,,

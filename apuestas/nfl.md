@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 01:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 01:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
 
@@ -3049,4 +3049,492 @@ Hándicap HAW -13.5 · Total puntos 39.5
 • H2H: sin precedentes  
 • Bajas: Hawai'i Rainbow Warriors: sin bajas; Sacramento State Hornets: sin bajas  
 • Favorito de las casas: Hawai'i Rainbow Warriors @ 1.17  
+
+## Cincinnati Bengals vs New Orleans Saints — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 49.5 puntos** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **49.1** puntos · línea 49.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Cincinnati Bengals ✅✅✅✅❌ | New Orleans Saints ✅❌✅❌❌  
+• H2H: 2 desde 2018: 1-1  
+• Bajas: Cincinnati Bengals: 3 fuera, 22 duda (Jalen Davis, Andrei Iosivas, Oren Burks); New Orleans Saints: 0 fuera, 25 duda  
+
+## Cincinnati Bengals vs New Orleans Saints — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Cincinnati Bengals -10** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Cincinnati Bengals cubre -10 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Cincinnati Bengals ✅✅✅✅❌ | New Orleans Saints ✅❌✅❌❌  
+• H2H: 2 desde 2018: 1-1  
+• Bajas: Cincinnati Bengals: 3 fuera, 22 duda (Jalen Davis, Andrei Iosivas, Oren Burks); New Orleans Saints: 0 fuera, 25 duda  
+
+## Cincinnati Bengals vs New Orleans Saints — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Cincinnati Bengals** @ **1.18** (DraftKings) · prob 82% vs casas 82% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Cincinnati Bengals 81% · Gana New Orleans Saints 19%  
+Casas: Cincinnati Bengals 82% · New Orleans Saints 18%  
+Hándicap CIN -10 · Total puntos 49.5  
+🔎 **Claves**  
+• Forma: Cincinnati Bengals ✅✅✅✅❌ | New Orleans Saints ✅❌✅❌❌  
+• H2H: 2 desde 2018: 1-1  
+• Bajas: Cincinnati Bengals: 3 fuera, 22 duda (Jalen Davis, Andrei Iosivas, Oren Burks); New Orleans Saints: 0 fuera, 25 duda  
+• Favorito de las casas: Cincinnati Bengals @ 1.18  
+
+## Indianapolis Colts vs New York Giants — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 41.5 puntos** @ **1.90** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **46.0** puntos · línea 41.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Indianapolis Colts ❌❌❌✅❌ | New York Giants ❌✅✅❌✅  
+• H2H: 3 desde 2018: 1-2  
+• Bajas: Indianapolis Colts: 4 fuera, 21 duda (Caden Curry, Cam Taylor-Britt, Alec Pierce); New York Giants: 1 fuera, 24 duda (Greg Newsome II)  
+🧩 Combinada: Gana Indianapolis Colts + Más de 41.5 puntos → prob. 15%, cuota justa 6.64  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.39 (producto de piernas) · prob. 15% · ventaja -4%  
+
+## Indianapolis Colts vs New York Giants — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Indianapolis Colts +6** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Indianapolis Colts cubre +6 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Indianapolis Colts ❌❌❌✅❌ | New York Giants ❌✅✅❌✅  
+• H2H: 3 desde 2018: 1-2  
+• Bajas: Indianapolis Colts: 4 fuera, 21 duda (Caden Curry, Cam Taylor-Britt, Alec Pierce); New York Giants: 1 fuera, 24 duda (Greg Newsome II)  
+🧩 Combinada: Gana Indianapolis Colts + Más de 41.5 puntos → prob. 15%, cuota justa 6.64  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.39 (producto de piernas) · prob. 15% · ventaja -4%  
+
+## Indianapolis Colts vs New York Giants — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Indianapolis Colts** @ **3.36** (DraftKings) · prob 29% vs casas 29% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Indianapolis Colts 30% · Gana New York Giants 70%  
+Casas: Indianapolis Colts 29% · New York Giants 71%  
+Hándicap NYG -6 · Total puntos 41.5  
+🔎 **Claves**  
+• Forma: Indianapolis Colts ❌❌❌✅❌ | New York Giants ❌✅✅❌✅  
+• H2H: 3 desde 2018: 1-2  
+• Bajas: Indianapolis Colts: 4 fuera, 21 duda (Caden Curry, Cam Taylor-Britt, Alec Pierce); New York Giants: 1 fuera, 24 duda (Greg Newsome II)  
+• Favorito de las casas: New York Giants @ 1.35  
+🧩 Combinada: Gana Indianapolis Colts + Más de 41.5 puntos → prob. 15%, cuota justa 6.64  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.39 (producto de piernas) · prob. 15% · ventaja -4%  
+
+## Miami Dolphins vs New York Jets — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 39.5 puntos** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **40.8** puntos · línea 39.5  
+Más 52% · Menos 48%  
+🔎 **Claves**  
+• Forma: Miami Dolphins ✅❌❌❌❌ | New York Jets ❌❌❌❌✅  
+• H2H: 21 desde 2016: 17-4  
+• Bajas: Miami Dolphins: 2 fuera, 23 duda (Ronnie Harrison Jr., Malik Willis); New York Jets: 2 fuera, 23 duda (David Onyemata, T'Vondre Sweat)  
+🧩 Combinada: Gana Miami Dolphins + Más de 39.5 puntos → prob. 17%, cuota justa 5.84  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
+
+## Miami Dolphins vs New York Jets — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Miami Dolphins +4.5** @ **1.96** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Miami Dolphins cubre +4.5 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Miami Dolphins ✅❌❌❌❌ | New York Jets ❌❌❌❌✅  
+• H2H: 21 desde 2016: 17-4  
+• Bajas: Miami Dolphins: 2 fuera, 23 duda (Ronnie Harrison Jr., Malik Willis); New York Jets: 2 fuera, 23 duda (David Onyemata, T'Vondre Sweat)  
+🧩 Combinada: Gana Miami Dolphins + Más de 39.5 puntos → prob. 17%, cuota justa 5.84  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
+
+## Miami Dolphins vs New York Jets — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Miami Dolphins** @ **3.01** (DraftKings) · prob 32% vs casas 32% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Miami Dolphins 47% · Gana New York Jets 53%  
+Casas: Miami Dolphins 32% · New York Jets 68%  
+Hándicap NYJ -4.5 · Total puntos 39.5  
+🔎 **Claves**  
+• Forma: Miami Dolphins ✅❌❌❌❌ | New York Jets ❌❌❌❌✅  
+• H2H: 21 desde 2016: 17-4  
+• Bajas: Miami Dolphins: 2 fuera, 23 duda (Ronnie Harrison Jr., Malik Willis); New York Jets: 2 fuera, 23 duda (David Onyemata, T'Vondre Sweat)  
+• Favorito de las casas: New York Jets @ 1.41  
+🧩 Combinada: Gana Miami Dolphins + Más de 39.5 puntos → prob. 17%, cuota justa 5.84  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
+
+## Minnesota Vikings vs Atlanta Falcons — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 41.5 puntos** @ **1.92** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **37.4** puntos · línea 41.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Minnesota Vikings ✅❌❌✅❌ | Atlanta Falcons ❌✅❌❌❌  
+• H2H: 6 desde 2017: 4-2  
+• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Atlanta Falcons: 0 fuera, 25 duda  
+🧩 Combinada: Gana Atlanta Falcons + Menos de 41.5 puntos → prob. 14%, cuota justa 7.01  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.74 (producto de piernas) · prob. 14% · ventaja -4%  
+
+## Minnesota Vikings vs Atlanta Falcons — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Minnesota Vikings -7** @ **1.99** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Minnesota Vikings cubre -7 con prob. 48% (casas 48%)  
+🔎 **Claves**  
+• Forma: Minnesota Vikings ✅❌❌✅❌ | Atlanta Falcons ❌✅❌❌❌  
+• H2H: 6 desde 2017: 4-2  
+• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Atlanta Falcons: 0 fuera, 25 duda  
+🧩 Combinada: Gana Atlanta Falcons + Menos de 41.5 puntos → prob. 14%, cuota justa 7.01  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.74 (producto de piernas) · prob. 14% · ventaja -4%  
+
+## Minnesota Vikings vs Atlanta Falcons — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Minnesota Vikings** @ **1.32** (DraftKings) · prob 73% vs casas 73% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Minnesota Vikings 71% · Gana Atlanta Falcons 29%  
+Casas: Minnesota Vikings 73% · Atlanta Falcons 27%  
+Hándicap MIN -7 · Total puntos 41.5  
+🔎 **Claves**  
+• Forma: Minnesota Vikings ✅❌❌✅❌ | Atlanta Falcons ❌✅❌❌❌  
+• H2H: 6 desde 2017: 4-2  
+• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Atlanta Falcons: 0 fuera, 25 duda  
+• Favorito de las casas: Minnesota Vikings @ 1.32  
+🧩 Combinada: Gana Atlanta Falcons + Menos de 41.5 puntos → prob. 14%, cuota justa 7.01  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.74 (producto de piernas) · prob. 14% · ventaja -4%  
+
+## Jacksonville Jaguars vs Tennessee Titans — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 49.5 puntos** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **46.9** puntos · línea 49.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Jacksonville Jaguars ❌✅✅✅❌ | Tennessee Titans ✅❌❌❌❌  
+• H2H: 20 desde 2016: 10-10  
+• Bajas: Jacksonville Jaguars: 1 fuera, 24 duda (Patrick Mekari); Tennessee Titans: 0 fuera, 25 duda  
+
+## Jacksonville Jaguars vs Tennessee Titans — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Jacksonville Jaguars -14.5** @ **1.96** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Jacksonville Jaguars cubre -14.5 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Jacksonville Jaguars ❌✅✅✅❌ | Tennessee Titans ✅❌❌❌❌  
+• H2H: 20 desde 2016: 10-10  
+• Bajas: Jacksonville Jaguars: 1 fuera, 24 duda (Patrick Mekari); Tennessee Titans: 0 fuera, 25 duda  
+
+## Jacksonville Jaguars vs Tennessee Titans — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Jacksonville Jaguars** @ **1.08** (DraftKings) · prob 89% vs casas 89% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Jacksonville Jaguars 85% · Gana Tennessee Titans 15%  
+Casas: Jacksonville Jaguars 89% · Tennessee Titans 11%  
+Hándicap JAX -14.5 · Total puntos 49.5  
+🔎 **Claves**  
+• Forma: Jacksonville Jaguars ❌✅✅✅❌ | Tennessee Titans ✅❌❌❌❌  
+• H2H: 20 desde 2016: 10-10  
+• Bajas: Jacksonville Jaguars: 1 fuera, 24 duda (Patrick Mekari); Tennessee Titans: 0 fuera, 25 duda  
+• Favorito de las casas: Jacksonville Jaguars @ 1.08  
+
+## Houston Texans vs Baltimore Ravens — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Más de 47.5 puntos** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **46.0** puntos · línea 47.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Houston Texans ✅❌✅❌✅ | Baltimore Ravens ❌❌❌❌❌  
+• H2H: 7 desde 2017: 1-6  
+• Bajas: Houston Texans: 0 fuera, 25 duda; Baltimore Ravens: 0 fuera, 25 duda  
+🧩 Combinada: Gana Baltimore Ravens + Menos de 47.5 puntos → prob. 14%, cuota justa 7.17  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.92 (producto de piernas) · prob. 14% · ventaja -4%  
+
+## Houston Texans vs Baltimore Ravens — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Houston Texans -6.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Houston Texans cubre -6.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Houston Texans ✅❌✅❌✅ | Baltimore Ravens ❌❌❌❌❌  
+• H2H: 7 desde 2017: 1-6  
+• Bajas: Houston Texans: 0 fuera, 25 duda; Baltimore Ravens: 0 fuera, 25 duda  
+🧩 Combinada: Gana Baltimore Ravens + Menos de 47.5 puntos → prob. 14%, cuota justa 7.17  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.92 (producto de piernas) · prob. 14% · ventaja -4%  
+
+## Houston Texans vs Baltimore Ravens — 29/11 · 19:00
+
+👀 candidata · 🏈 NFL · **Gana Houston Texans** @ **1.30** (DraftKings) · prob 74% vs casas 74% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Houston Texans 58% · Gana Baltimore Ravens 42%  
+Casas: Houston Texans 74% · Baltimore Ravens 26%  
+Hándicap HOU -6.5 · Total puntos 47.5  
+🔎 **Claves**  
+• Forma: Houston Texans ✅❌✅❌✅ | Baltimore Ravens ❌❌❌❌❌  
+• H2H: 7 desde 2017: 1-6  
+• Bajas: Houston Texans: 0 fuera, 25 duda; Baltimore Ravens: 0 fuera, 25 duda  
+• Favorito de las casas: Houston Texans @ 1.30  
+🧩 Combinada: Gana Baltimore Ravens + Menos de 47.5 puntos → prob. 14%, cuota justa 7.17  
+🎯 No simulada (NFL): cuota DraftKings aprox. 6.92 (producto de piernas) · prob. 14% · ventaja -4%  
+
+## Los Angeles Chargers vs New England Patriots — 29/11 · 22:05
+
+👀 candidata · 🏈 NFL · **Más de 35.5 puntos** @ **1.92** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **43.6** puntos · línea 35.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Los Angeles Chargers ❌❌❌✅❌ | New England Patriots ✅❌✅❌❌  
+• H2H: 7 desde 2017: 2-5  
+• Bajas: Los Angeles Chargers: 1 fuera, 24 duda (Deane Leonard); New England Patriots: 3 fuera, 22 duda (Romeo Doubs, Alijah Vera-Tucker, Drake Maye)  
+🧩 Combinada: Gana Los Angeles Chargers + Más de 35.5 puntos → prob. 23%, cuota justa 4.35  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.14 (producto de piernas) · prob. 23% · ventaja -5%  
+
+## Los Angeles Chargers vs New England Patriots — 29/11 · 22:05
+
+👀 candidata · 🏈 NFL · **Los Angeles Chargers +2.5** @ **1.90** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Los Angeles Chargers cubre +2.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Los Angeles Chargers ❌❌❌✅❌ | New England Patriots ✅❌✅❌❌  
+• H2H: 7 desde 2017: 2-5  
+• Bajas: Los Angeles Chargers: 1 fuera, 24 duda (Deane Leonard); New England Patriots: 3 fuera, 22 duda (Romeo Doubs, Alijah Vera-Tucker, Drake Maye)  
+🧩 Combinada: Gana Los Angeles Chargers + Más de 35.5 puntos → prob. 23%, cuota justa 4.35  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.14 (producto de piernas) · prob. 23% · ventaja -5%  
+
+## Los Angeles Chargers vs New England Patriots — 29/11 · 22:05
+
+👀 candidata · 🏈 NFL · **Gana Los Angeles Chargers** @ **2.16** (DraftKings) · prob 44% vs casas 44% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Los Angeles Chargers 35% · Gana New England Patriots 65%  
+Casas: Los Angeles Chargers 44% · New England Patriots 56%  
+Hándicap NE -2.5 · Total puntos 35.5  
+🔎 **Claves**  
+• Forma: Los Angeles Chargers ❌❌❌✅❌ | New England Patriots ✅❌✅❌❌  
+• H2H: 7 desde 2017: 2-5  
+• Bajas: Los Angeles Chargers: 1 fuera, 24 duda (Deane Leonard); New England Patriots: 3 fuera, 22 duda (Romeo Doubs, Alijah Vera-Tucker, Drake Maye)  
+• Favorito de las casas: New England Patriots @ 1.73  
+🧩 Combinada: Gana Los Angeles Chargers + Más de 35.5 puntos → prob. 23%, cuota justa 4.35  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.14 (producto de piernas) · prob. 23% · ventaja -5%  
+
+## Arizona Cardinals vs Washington Commanders — 29/11 · 22:25
+
+👀 candidata · 🏈 NFL · **Más de 41.5 puntos** @ **1.90** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **47.7** puntos · línea 41.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Arizona Cardinals ❌✅❌❌❌ | Washington Commanders ❌✅❌✅✅  
+• H2H: 3 desde 2020: 1-2  
+• Bajas: Arizona Cardinals: 1 fuera, 24 duda (Jeremiyah Love); Washington Commanders: 1 fuera, 24 duda (Laremy Tunsil)  
+🧩 Combinada: Gana Arizona Cardinals + Más de 41.5 puntos → prob. 13%, cuota justa 7.52  
+🎯 No simulada (NFL): cuota DraftKings aprox. 7.26 (producto de piernas) · prob. 13% · ventaja -3%  
+
+## Arizona Cardinals vs Washington Commanders — 29/11 · 22:25
+
+👀 candidata · 🏈 NFL · **Arizona Cardinals +6.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Arizona Cardinals cubre +6.5 con prob. 48% (casas 48%)  
+🔎 **Claves**  
+• Forma: Arizona Cardinals ❌✅❌❌❌ | Washington Commanders ❌✅❌✅✅  
+• H2H: 3 desde 2020: 1-2  
+• Bajas: Arizona Cardinals: 1 fuera, 24 duda (Jeremiyah Love); Washington Commanders: 1 fuera, 24 duda (Laremy Tunsil)  
+🧩 Combinada: Gana Arizona Cardinals + Más de 41.5 puntos → prob. 13%, cuota justa 7.52  
+🎯 No simulada (NFL): cuota DraftKings aprox. 7.26 (producto de piernas) · prob. 13% · ventaja -3%  
+
+## Arizona Cardinals vs Washington Commanders — 29/11 · 22:25
+
+👀 candidata · 🏈 NFL · **Gana Arizona Cardinals** @ **3.82** (DraftKings) · prob 25% vs casas 25% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Arizona Cardinals 43% · Gana Washington Commanders 57%  
+Casas: Arizona Cardinals 25% · Washington Commanders 75%  
+Hándicap WSH -6.5 · Total puntos 41.5  
+🔎 **Claves**  
+• Forma: Arizona Cardinals ❌✅❌❌❌ | Washington Commanders ❌✅❌✅✅  
+• H2H: 3 desde 2020: 1-2  
+• Bajas: Arizona Cardinals: 1 fuera, 24 duda (Jeremiyah Love); Washington Commanders: 1 fuera, 24 duda (Laremy Tunsil)  
+• Favorito de las casas: Washington Commanders @ 1.28  
+🧩 Combinada: Gana Arizona Cardinals + Más de 41.5 puntos → prob. 13%, cuota justa 7.52  
+🎯 No simulada (NFL): cuota DraftKings aprox. 7.26 (producto de piernas) · prob. 13% · ventaja -3%  
+
+## San Francisco 49ers vs Seattle Seahawks — 29/11 · 22:25
+
+👀 candidata · 🏈 NFL · **Más de 43.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **41.5** puntos · línea 43.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: San Francisco 49ers ✅❌✅✅✅ | Seattle Seahawks ❌✅❌✅✅  
+• H2H: 22 desde 2017: 10-12  
+• Bajas: San Francisco 49ers: 4 fuera, 21 duda (Austen Pleasants, Colton McKivitz, Sam Okuayinonu); Seattle Seahawks: 3 fuera, 22 duda (Quenton Nelson, Abraham Lucas, George Holani)  
+🧩 Combinada: Gana Seattle Seahawks + Menos de 43.5 puntos → prob. 22%, cuota justa 4.64  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.43 (producto de piernas) · prob. 22% · ventaja -4%  
+
+## San Francisco 49ers vs Seattle Seahawks — 29/11 · 22:25
+
+👀 candidata · 🏈 NFL · **San Francisco 49ers -3** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: San Francisco 49ers cubre -3 con prob. 48% (casas 48%)  
+🔎 **Claves**  
+• Forma: San Francisco 49ers ✅❌✅✅✅ | Seattle Seahawks ❌✅❌✅✅  
+• H2H: 22 desde 2017: 10-12  
+• Bajas: San Francisco 49ers: 4 fuera, 21 duda (Austen Pleasants, Colton McKivitz, Sam Okuayinonu); Seattle Seahawks: 3 fuera, 22 duda (Quenton Nelson, Abraham Lucas, George Holani)  
+🧩 Combinada: Gana Seattle Seahawks + Menos de 43.5 puntos → prob. 22%, cuota justa 4.64  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.43 (producto de piernas) · prob. 22% · ventaja -4%  
+
+## San Francisco 49ers vs Seattle Seahawks — 29/11 · 22:25
+
+👀 candidata · 🏈 NFL · **Gana San Francisco 49ers** @ **1.66** (DraftKings) · prob 58% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana San Francisco 49ers 68% · Gana Seattle Seahawks 32%  
+Casas: San Francisco 49ers 58% · Seattle Seahawks 42%  
+Hándicap SF -3 · Total puntos 43.5  
+🔎 **Claves**  
+• Forma: San Francisco 49ers ✅❌✅✅✅ | Seattle Seahawks ❌✅❌✅✅  
+• H2H: 22 desde 2017: 10-12  
+• Bajas: San Francisco 49ers: 4 fuera, 21 duda (Austen Pleasants, Colton McKivitz, Sam Okuayinonu); Seattle Seahawks: 3 fuera, 22 duda (Quenton Nelson, Abraham Lucas, George Holani)  
+• Favorito de las casas: San Francisco 49ers @ 1.66  
+🧩 Combinada: Gana Seattle Seahawks + Menos de 43.5 puntos → prob. 22%, cuota justa 4.64  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.43 (producto de piernas) · prob. 22% · ventaja -4%  
+
+## Cleveland Browns vs Las Vegas Raiders — 30/11 · 02:20
+
+👀 candidata · 🏈 NFL · **Más de 40.5 puntos** @ **1.97** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **42.1** puntos · línea 40.5  
+Más 48% · Menos 52%  
+🔎 **Claves**  
+• Forma: Cleveland Browns ✅✅❌❌✅ | Las Vegas Raiders ❌✅❌❌❌  
+• H2H: 4 desde 2020: 1-3  
+• Bajas: Cleveland Browns: 1 fuera, 24 duda (Raheim Sanders); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson)  
+🧩 Combinada: Gana Las Vegas Raiders + Menos de 40.5 puntos → prob. 17%, cuota justa 5.84  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
+
+## Cleveland Browns vs Las Vegas Raiders — 30/11 · 02:20
+
+👀 candidata · 🏈 NFL · **Cleveland Browns -4.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Cleveland Browns cubre -4.5 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Cleveland Browns ✅✅❌❌✅ | Las Vegas Raiders ❌✅❌❌❌  
+• H2H: 4 desde 2020: 1-3  
+• Bajas: Cleveland Browns: 1 fuera, 24 duda (Raheim Sanders); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson)  
+🧩 Combinada: Gana Las Vegas Raiders + Menos de 40.5 puntos → prob. 17%, cuota justa 5.84  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
+
+## Cleveland Browns vs Las Vegas Raiders — 30/11 · 02:20
+
+👀 candidata · 🏈 NFL · **Gana Cleveland Browns** @ **1.41** (DraftKings) · prob 68% vs casas 68% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.303 partidos y bajas)  
+Gana Cleveland Browns 67% · Gana Las Vegas Raiders 33%  
+Casas: Cleveland Browns 68% · Las Vegas Raiders 32%  
+Hándicap CLE -4.5 · Total puntos 40.5  
+🔎 **Claves**  
+• Forma: Cleveland Browns ✅✅❌❌✅ | Las Vegas Raiders ❌✅❌❌❌  
+• H2H: 4 desde 2020: 1-3  
+• Bajas: Cleveland Browns: 1 fuera, 24 duda (Raheim Sanders); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson)  
+• Favorito de las casas: Cleveland Browns @ 1.41  
+🧩 Combinada: Gana Las Vegas Raiders + Menos de 40.5 puntos → prob. 17%, cuota justa 5.84  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
 
