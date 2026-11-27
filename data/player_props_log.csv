@@ -13445,6 +13445,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Elversberg vs Freiburg,Philipp Treu,To Score,0.5,8.0,0.125,0.0198,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Derry Scherhant,To score at least 2 goals,1.5,13.0,0.0769,0.0116,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Christian Günter,To give an assist,0.5,7.5,0.1333,0.0189,0,0.0,0
+2026-11-21,Elversberg vs Freiburg,Keisuke Goto,Player's shots on target,1.5,2.7,0.3704,0.0082,0,0.0,0
 2026-11-21,Elversberg vs Freiburg,Jordy Makengo,To Get a Card,0.5,3.7,0.2703,0.1009,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Derry Scherhant,Player's shots on target,0.5,1.55,0.6452,0.4315,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Vincenzo Grifo,To give an assist,0.5,3.05,0.3279,0.0582,0,0.0,0
@@ -13471,7 +13472,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Elversberg vs Freiburg,Lukas Petkov,To give an assist,0.5,5.1,0.1961,0.1512,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Lucas Holer,To Score,0.5,3.0,0.3333,0.0993,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Cole Campbell,To Score,0.5,4.7,0.2128,0.1412,1,0.0,0
-2026-11-21,Elversberg vs Freiburg,Cole Campbell,To score at least 2 goals,1.5,31.0,0.0323,0.0105,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Lucas Holer,To score at least 2 goals,1.5,14.0,0.0714,0.0051,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Maximilian Eggestein,To Score,0.5,4.8,0.2083,0.1329,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Igor Matanovic,To Get a Card,0.5,3.8,0.2632,0.1141,1,1.0,1
@@ -13507,7 +13507,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Elversberg vs Freiburg,Noel Futkeu,To Score,0.5,3.0,0.3333,0.0927,0,0.0,0
 2026-11-21,Elversberg vs Freiburg,Derry Scherhant,To give an assist,0.5,4.7,0.2128,0.1425,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Felix Keidel,To Get a Card,0.5,3.5,0.2857,0.1913,1,0.0,0
-2026-11-21,Elversberg vs Freiburg,Keisuke Goto,Player's shots on target,1.5,2.7,0.3704,0.0082,0,0.0,0
+2026-11-21,Elversberg vs Freiburg,Cole Campbell,To score at least 2 goals,1.5,31.0,0.0323,0.0105,1,0.0,0
 2026-11-21,Elversberg vs Freiburg,Igor Matanovic,Player's shots on target,2.5,4.0,0.25,0.0652,1,1.0,0
 2026-11-21,Elversberg vs Freiburg,Igor Matanovic,Player's shots on target,0.5,1.23,0.813,0.5991,1,1.0,1
 2026-11-21,Elversberg vs Freiburg,Christian Günter,To Score,0.5,8.5,0.1176,0.0217,0,0.0,0
@@ -20473,19 +20473,19 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Go Ahead Eagles vs For Sittard,Jasper Dahlhaus,To Score,0.5,11.0,0.0909,0.0472,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Shiloh 't Zand,Player's shots on target,0.5,1.9,0.5263,0.3959,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Anthony Descotte,Player's shots on target,0.5,1.77,0.565,0.5737,1,1.0,1
-2026-11-22,Go Ahead Eagles vs For Sittard,Alfons Sampsted,To give an assist,0.5,7.0,0.1429,0.0667,1,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Philip Brittijn,To score at least 2 goals,1.5,91.0,0.011,0.0068,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Melle Meulensteen,To score at least 3 goals,2.5,111.0,0.009,0.0001,1,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Sven Simons,Player's shots on target,0.5,1.95,0.5128,0.2981,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Sven Simons,To Get a Card,0.5,3.8,0.2632,0.2264,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Giovanni van Zwam,To give an assist,0.5,8.0,0.125,0.0101,0,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Julius Dirksen,To give an assist,0.5,8.0,0.125,0.0172,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Ivan Marquez,Player's shots on target,0.5,5.4,0.1852,0.0562,0,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Jasper Dahlhaus,To give an assist,0.5,9.5,0.1053,0.0712,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Sven Simons,Player's shots on target,1.5,5.3,0.1887,0.0496,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Kristoffer Peterson,Player's shots on target,1.5,7.0,0.1429,0.0061,0,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Sven Simons,Player's shots on target,0.5,1.95,0.5128,0.2981,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Melle Meulensteen,Player's shots on target,1.5,5.0,0.2,0.0607,1,2.0,1
 2026-11-22,Go Ahead Eagles vs For Sittard,Mathis Suray,To Get a Card,0.5,3.8,0.2632,0.087,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Joris Kramer,To give an assist,0.5,6.5,0.1538,0.0316,1,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Melle Meulensteen,Player's shots on target,1.5,5.0,0.2,0.0607,1,2.0,1
+2026-11-22,Go Ahead Eagles vs For Sittard,Julius Dirksen,To Get a Card,0.5,3.8,0.2632,0.2014,1,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Alfons Sampsted,To give an assist,0.5,7.0,0.1429,0.0667,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Melle Meulensteen,To Score,0.5,3.7,0.2703,0.0886,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Melle Meulensteen,To score at least 2 goals,1.5,20.0,0.05,0.004,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Joris Kramer,To Score,0.5,8.0,0.125,0.0255,1,0.0,0
@@ -20495,35 +20495,35 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Go Ahead Eagles vs For Sittard,Shiloh 't Zand,Player's shots on target,1.5,5.0,0.2,0.0914,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Shiloh 't Zand,To score at least 2 goals,1.5,25.0,0.04,0.0072,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Alfons Sampsted,To Get a Card,0.5,4.5,0.2222,0.0831,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Philip Brittijn,To score at least 2 goals,1.5,91.0,0.011,0.0068,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Julius Dirksen,To Get a Card,0.5,3.8,0.2632,0.2014,1,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Giovanni van Zwam,To give an assist,0.5,8.0,0.125,0.0101,0,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Joris Kramer,To give an assist,0.5,6.5,0.1538,0.0316,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Julius Dirksen,Player's shots on target,0.5,3.3,0.303,0.1317,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Victor Edvardsen,To give an assist,0.5,3.0,0.3333,0.1556,1,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Kristoffer Peterson,To Score,0.5,5.2,0.1923,0.0346,0,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Ivan Marquez,To Score,0.5,13.0,0.0769,0.0227,0,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,To Get a Card,0.5,4.5,0.2222,0.2324,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,To score at least 2 goals,1.5,10.0,0.1,0.0007,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Stefán Ingi Sigurdarson,Player's shots on target,0.5,1.2,0.8333,0.5399,1,1.0,1
-2026-11-22,Go Ahead Eagles vs For Sittard,Kristoffer Peterson,To Score,0.5,5.2,0.1923,0.0346,0,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Tomas Galvez,To give an assist,0.5,5.1,0.1961,0.0272,0,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Stefán Ingi Sigurdarson,To score at least 2 goals,1.5,6.0,0.1667,0.0369,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Kristoffer Peterson,To Get a Card,0.5,4.4,0.2273,0.0271,0,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,To Get a Card,0.5,4.5,0.2222,0.2324,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Mathis Suray,To Score,0.5,2.25,0.4444,0.1912,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Justin Hubner,To Score,0.5,9.0,0.1111,0.0375,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Alfons Sampsted,Player's shots on target,0.5,3.7,0.2703,0.0632,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Philip Brittijn,Player's shots on target,0.5,3.6,0.2778,0.2432,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Victor Edvardsen,To Get a Card,0.5,4.0,0.25,0.1141,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Giovanni van Zwam,To Get a Card,0.5,4.8,0.2083,0.0208,0,0.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,To give an assist,0.5,3.3,0.303,0.0543,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Anthony Descotte,To score at least 2 goals,1.5,21.0,0.0476,0.0391,1,1.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,Player's shots on target,1.5,2.7,0.3704,0.0528,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Tomas Galvez,To Score,0.5,6.5,0.1538,0.0291,0,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,To Score,0.5,2.65,0.3774,0.0362,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Stefán Ingi Sigurdarson,Player's shots on target,1.5,1.97,0.5076,0.1827,1,1.0,0
+2026-11-22,Go Ahead Eagles vs For Sittard,Victor Edvardsen,To give an assist,0.5,3.0,0.3333,0.1556,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Stefán Ingi Sigurdarson,To Score,0.5,2.1,0.4762,0.2591,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Tomas Galvez,Player's shots on target,0.5,3.0,0.3333,0.096,0,1.0,1
 2026-11-22,Go Ahead Eagles vs For Sittard,Kristoffer Peterson,To give an assist,0.5,6.0,0.1667,0.015,0,1.0,1
 2026-11-22,Go Ahead Eagles vs For Sittard,Victor Edvardsen,Player's shots on target,1.5,2.75,0.3636,0.1103,1,1.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Stefán Ingi Sigurdarson,To Get a Card,0.5,5.0,0.2,0.0739,1,0.0,0
-2026-11-22,Go Ahead Eagles vs For Sittard,Thibo Baeten,To give an assist,0.5,3.3,0.303,0.0543,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Julius Dirksen,To Score,0.5,7.0,0.1429,0.0688,1,0.0,0
 2026-11-22,Go Ahead Eagles vs For Sittard,Victor Edvardsen,Player's shots on target,0.5,1.4,0.7143,0.4312,1,1.0,1
 2026-11-22,Go Ahead Eagles vs For Sittard,Stefán Ingi Sigurdarson,To give an assist,0.5,3.9,0.2564,0.0593,1,0.0,0
