@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 15:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BOJONG vs HAVU — 27/11 · 19:00
 
@@ -21,6 +21,29 @@ Casas: BOJONG 18% · HAVU 82%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • BOJONG gana 2-1: 16% → cuota justa 6.37  
 • HAVU gana 2-1: 25% → cuota justa 4.01  
+
+## MIBR vs 100 Thieves — 28/11 · 08:00
+
+👀 candidata · 🎮 CS2 · PGL Major Singapore 2026 Stage 2 · **Gana MIBR** @ **2.10** (Thunderpick) · prob 45% vs casas 44% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 77.352 partidos)  
+Mapa: MIBR 44% · Serie BO1: MIBR 46% - 54% 100 Thieves  
+Casas: MIBR 44% · 100 Thieves 56%  
+🔎 **Claves**  
+• Elo: MIBR 1931 (409 series) | 100 Thieves 1974 (104 series)  
+• Forma: MIBR ❌✅✅❌❌ | 100 Thieves ✅❌❌✅✅  
+• H2H: 1: 1-0  
+• Torneo: PGL Major Singapore 2026 Stage 2 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): MIBR: insani 6.6, tomaszin 6.2 | 100 Thieves: poiii 6.9, sirah 6.3  
+• Mapas (último año): MIBR: fuerte anubis 87%, débil overpass 45% | 100 Thieves: fuerte dust2 85%, débil nuke 45%  
+• Química de la plantilla: MIBR: 93 mapas juntos de media | 100 Thieves: 132 mapas juntos de media  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.476 casos: log-loss 0.6819→0.6562; sin cuotas de props, solo referencia)  
+MIBR: insani 16 (8-24) · tomaszin 14 (7-22) · nqz 14 (7-22) · venomzera 13 (7-20) · LNZ 12 (6-19)  
+100 Thieves: poiii 15 (8-23) · dev1ce 15 (8-23) · sirah 14 (7-22) · rain 14 (7-22) · Gizmy 13 (6-20)  
 
 ## ex-Sashi Academy vs Fortress — 28/11 · 10:00
 

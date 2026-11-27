@@ -83360,14 +83360,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2401771,263358,Ajax,Twente,,
 2401772,263358,Feyenoord,Ajax,,
 2401773,263358,PSV,AZ Alkmaar,,
-2402372,263274,Napoli,Juventus,2,1
-2402373,263274,Sassuolo,Bologna,1,1
-2402374,263274,Bologna,Napoli,0,4
-2402375,263274,Juventus,Roma,3,2
-2402376,263274,Roma,Bologna,2,1
-2402377,263274,Napoli,Sassuolo,1,1
-2402378,263274,Sassuolo,Roma,1,1
-2402379,263274,Bologna,Juventus,0,2
+2402372,263274,Napoli,Juventus,2.0,1.0
+2402373,263274,Sassuolo,Bologna,1.0,1.0
+2402374,263274,Bologna,Napoli,0.0,4.0
+2402375,263274,Juventus,Roma,3.0,2.0
+2402376,263274,Roma,Bologna,2.0,1.0
+2402377,263274,Napoli,Sassuolo,1.0,1.0
+2402378,263274,Sassuolo,Roma,1.0,1.0
+2402379,263274,Bologna,Juventus,0.0,2.0
 2402380,263274,Juventus,Sassuolo,,
 2402381,263274,Roma,Napoli,,
 2402382,263274,Juventus,Napoli,,
@@ -83380,3 +83380,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2402389,263274,Juventus,Bologna,,
 2402390,263274,Sassuolo,Juventus,,
 2402391,263274,Napoli,Roma,,
+2402232,263351,Fenerbahce,Aston Villa,2,2
+2402233,263351,Salzburg,Porto,2,1
+2402234,263351,Porto,Fenerbahce,1,0
+2402235,263351,Aston Villa,Roma,0,4
+2402236,263351,Roma,Porto,4,3
+2402237,263351,Fenerbahce,Salzburg,0,2
+2402238,263351,Salzburg,Roma,0,1
+2402239,263351,Porto,Aston Villa,1,0
+2402240,263351,Aston Villa,Salzburg,0,3
+2402241,263351,Roma,Fenerbahce,4,0
+2402242,263351,Aston Villa,Fenerbahce,,
+2402243,263351,Porto,Salzburg,,
+2402244,263351,Fenerbahce,Porto,,
+2402245,263351,Roma,Aston Villa,,
+2402246,263351,Porto,Roma,,
+2402247,263351,Salzburg,Fenerbahce,,
+2402248,263351,Roma,Salzburg,,
+2402249,263351,Aston Villa,Porto,,
+2402250,263351,Salzburg,Aston Villa,,
+2402251,263351,Fenerbahce,Roma,,
