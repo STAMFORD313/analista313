@@ -4362,7 +4362,10 @@
     "away": "Kansas City Chiefs",
     "txt": "Gana Buffalo Bills",
     "odds": 1.641,
-    "p": 0.6331699999999999
+    "p": 0.6331699999999999,
+    "ok": true,
+    "por": "ganó Buffalo Bills 13-10",
+    "clv": -0.01
    },
    {
     "src": "esports:cs2",
