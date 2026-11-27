@@ -4427,5 +4427,36 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261127193722950196",
+  "creada": "2026-11-27 19:37:22.950240+00:00",
+  "titulo": "Barrido · Combinada cuota 5.5",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-28 13:30:00+00:00",
+    "home": "Rijnsburgse Boys",
+    "away": "Spakenburg",
+    "txt": "Gana Spakenburg",
+    "odds": 2.43,
+    "p": 0.4292
+   },
+   {
+    "code": "D1",
+    "start": "2026-11-28 14:30:00+00:00",
+    "home": "SC Paderborn 07",
+    "away": "Schalke 04",
+    "txt": "Menos de 3.5 tarjetas",
+    "odds": 2.25,
+    "p": 0.4612772056187747
+   }
+  ],
+  "odds": 5.47,
+  "p": 0.19798017665157813,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
