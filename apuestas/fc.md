@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 27/11/2026 14:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 15:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## w1nkos vs Maxa — 27/11 · 14:58
+## KraftVK vs Bomb1to — 27/11 · 15:01
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana w1nkos** @ **2.43** (Unibet) · prob 51% vs casas 36% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana KraftVK** @ **2.63** (Unibet) · prob 41% vs casas 33% · ventaja +9%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 83.246 partidos)  
-Goles esperados: w1nkos 3.89 · Maxa 3.46  
-Ganador: w1nkos 51% · empate 17% · Maxa 33%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap w1nkos: −1.5 34% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 83.251 partidos)  
+Goles esperados: KraftVK 3.52 · Bomb1to 3.49  
+Ganador: KraftVK 41% · empate 18% · Bomb1to 41%  
+Total: más de 7.5 goles 40% · menos 60%  
+Hándicap KraftVK: −1.5 28% · −2.5 17%  
 🔎 **Claves**  
-• Forma: w1nkos ❌❌✅✅✅ | Maxa ❌➖❌✅❌  
-• Partidos: w1nkos 1462 | Maxa 1237  
-• Liga: FA Cup  
-• Unibet: 1 2.43 · X 4.10 · 2 2.02 (sin margen 36%/21%/43%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.43 (+23%) · Paf España 2.43 (+23%)  
+• Forma: KraftVK ✅❌❌❌❌ | Bomb1to ➖❌✅✅❌  
+• Partidos: KraftVK 1098 | Bomb1to 1572  
+• Liga: Champions League B  
+• Unibet: 1 2.63 · X 3.15 · 2 2.20 (sin margen 33%/28%/39%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+9%) · Paf España 2.63 (+9%)  
 
 ## Gaga vs Jokadinho — 27/11 · 15:10
 
@@ -58,4 +58,42 @@ Hándicap Uncle: −1.5 31% · −2.5 18%
 • Liga: Champions League B  
 • Unibet: 1 2.10 · X 2.50 · 2 3.55 (sin margen 41%/35%/24%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.55 (+14%) · Paf España 3.55 (+14%)  
+
+## Jokadinho vs maggett0 — 27/11 · 15:22
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Jokadinho** @ **2.33** (Unibet) · prob 47% vs casas 37% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.251 partidos)  
+Goles esperados: Jokadinho 3.18 · maggett0 2.78  
+Ganador: Jokadinho 47% · empate 19% · maggett0 34%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap Jokadinho: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Jokadinho ❌✅➖❌❌ | maggett0 ➖✅❌❌✅  
+• Partidos: Jokadinho 1099 | maggett0 1165  
+• Liga: Serie A  
+• Unibet: 1 2.33 · X 4.40 · 2 2.04 (sin margen 37%/20%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.33 (+10%) · Paf España 2.33 (+10%)  
+
+## Piljar vs Bosko — 27/11 · 15:24
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Piljar** @ **1.67** (Unibet) · prob 64% vs casas 53% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.251 partidos)  
+Goles esperados: Piljar 4.99 · Bosko 3.48  
+Ganador: Piljar 64% · empate 14% · Bosko 23%  
+Total: más de 8.5 goles 47% · menos 53%  
+Hándicap Piljar: −1.5 50% · −2.5 36%  
+🔎 **Claves**  
+• Forma: Piljar ❌❌✅✅❌ | Bosko ➖✅❌✅❌  
+• Partidos: Piljar 638 | Bosko 782  
+• Liga: International A 2x6  
+• Unibet: 1 1.67 · X 6.00 · 2 2.70 (sin margen 53%/15%/33%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.67 (+6%) · Paf España 1.67 (+6%)  
 

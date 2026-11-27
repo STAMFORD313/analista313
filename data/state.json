@@ -1515,11 +1515,6 @@
   "SP1|2026-11-29|Sociedad|Sevilla",
   "SP2|2026-11-29|Almeria|Sp Gijon",
   "P1|2026-11-29|Porto|Sp Lisbon",
-  "fc|2393047",
-  "fc|2393127",
-  "fc|2393048",
-  "cs2|132988",
-  "dota2|134147",
   "fc|2393132",
   "fc|2393478",
   "fc|2393054",
@@ -2519,7 +2514,10 @@
   "dota2|134348",
   "fc|2402372",
   "fc|2402074",
-  "fc|2401253"
+  "fc|2401253",
+  "fc|2402375",
+  "fc|2401251",
+  "fc|2402128"
  ],
  "signals": [
   {
@@ -3987,81 +3985,6 @@
    "score": "1-2",
    "result": true,
    "close_p": 0.2413,
-   "logged": true
-  },
-  {
-   "market": "t2",
-   "team_id": 18604,
-   "pick": "PARIVISION",
-   "odds": 1.12,
-   "book": "Thunderpick",
-   "p": 0.842,
-   "implied": 0.828,
-   "edge": -0.057,
-   "key": "dota2|134338",
-   "match": "GamerLegion vs PARIVISION",
-   "start": "2026-11-24T14:00:00+00:00",
-   "league": "🐉 Dota 2 · BLAST Slam IX",
-   "sport": "🐉",
-   "context": "Dota 2 GamerLegion vs PARIVISION, BO3, torneo BLAST Slam IX nivel s. Elo por mapa 2002 vs 2205 (prob. mapa 29%, serie 14%). Forma ✅❌❌✅✅ / ✅✅✅✅✅ (✅ victoria ❌ derrota). H2H 5: 1-4. Cambios de plantilla: ninguno. Cuotas Thunderpick 5.4/1.12.",
-   "captured": "2026-11-23T07:15",
-   "version": "0644d9e",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "0-2",
-   "result": true,
-   "close_p": 0.777,
-   "logged": true
-  },
-  {
-   "market": "t2",
-   "team_id": 15038,
-   "pick": "1w Team",
-   "odds": 3.69,
-   "book": "Thunderpick",
-   "p": 0.258,
-   "implied": 0.253,
-   "edge": -0.048,
-   "key": "dota2|134339",
-   "match": "Team Yandex vs 1w Team",
-   "start": "2026-11-24T14:00:00+00:00",
-   "league": "🐉 Dota 2 · BLAST Slam IX",
-   "sport": "🐉",
-   "context": "Dota 2 Team Yandex vs 1w Team, BO3, torneo BLAST Slam IX nivel s. Elo por mapa 2227 vs 1969 (prob. mapa 75%, serie 74%). Forma ✅✅❌✅✅ / ❌❌✅✅✅ (✅ victoria ❌ derrota). H2H 6: 5-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.25/3.69.",
-   "captured": "2026-11-23T07:15",
-   "version": "0644d9e",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-1",
-   "result": false,
-   "close_p": 0.2992,
-   "logged": true
-  },
-  {
-   "market": "AHH",
-   "line": -1.5,
-   "pick": "Team Yandex -1.5 mapas",
-   "odds": 1.96,
-   "book": "Thunderpick",
-   "p": 0.551,
-   "implied": 0.475,
-   "edge": 0.079,
-   "key": "dota2|134339",
-   "match": "Team Yandex vs 1w Team",
-   "start": "2026-11-24T14:00:00+00:00",
-   "league": "🐉 Dota 2 · BLAST Slam IX",
-   "sport": "🐉",
-   "context": "Dota 2 Team Yandex vs 1w Team, BO3, torneo BLAST Slam IX nivel s. Elo por mapa 2227 vs 1969 (prob. mapa 75%, serie 74%). Forma ✅✅❌✅✅ / ❌❌✅✅✅ (✅ victoria ❌ derrota). H2H 6: 5-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.25/3.69.",
-   "captured": "2026-11-23T07:15",
-   "version": "0644d9e",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-1",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -42058,20 +41981,6 @@
    "start": "2026-11-27T13:58:00+00:00",
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 83.246 partidos)",
-    "Goles esperados: w1nkos 3.89 · Maxa 3.46",
-    "Ganador: w1nkos 51% · empate 17% · Maxa 33%",
-    "Total: más de 7.5 goles 45% · menos 55%",
-    "Hándicap w1nkos: −1.5 34% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: w1nkos ❌❌✅✅✅ | Maxa ❌➖❌✅❌",
-    "• Partidos: w1nkos 1462 | Maxa 1237",
-    "• Liga: FA Cup",
-    "• Unibet: 1 2.43 · X 4.10 · 2 2.02 (sin margen 36%/21%/43%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.43 (+23%) · Paf España 2.43 (+23%)"
-   ],
    "context": "EA FC Esoccer Battle w1nkos vs Maxa (FA Cup): goles esperados 3.89-3.46, 1X2 51%/17%/33%. Sin cuotas de casa.",
    "captured": "2026-11-27T13:52",
    "version": "b9896cd",
@@ -42109,6 +42018,111 @@
    ],
    "context": "EA FC Esoccer Battle Uncle vs Wboy (Champions League B): goles esperados 3.17-2.84, 1X2 49%/19%/32%. Sin cuotas de casa.",
    "captured": "2026-11-27T13:52",
+   "version": "b9896cd",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Jokadinho",
+   "odds": 2.33,
+   "book": "Unibet",
+   "implied": 0.374,
+   "edge": 0.096,
+   "sin_stake": true,
+   "p": 0.47,
+   "key": "fc|2402375",
+   "match": "Jokadinho vs maggett0",
+   "start": "2026-11-27T14:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.251 partidos)",
+    "Goles esperados: Jokadinho 3.18 · maggett0 2.78",
+    "Ganador: Jokadinho 47% · empate 19% · maggett0 34%",
+    "Total: más de 5.5 goles 55% · menos 45%",
+    "Hándicap Jokadinho: −1.5 32% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Jokadinho ❌✅➖❌❌ | maggett0 ➖✅❌❌✅",
+    "• Partidos: Jokadinho 1099 | maggett0 1165",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.33 · X 4.40 · 2 2.04 (sin margen 37%/20%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.33 (+10%) · Paf España 2.33 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle Jokadinho vs maggett0 (Serie A): goles esperados 3.18-2.78, 1X2 47%/19%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-27T13:59",
+   "version": "b9896cd",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "KraftVK",
+   "odds": 2.63,
+   "book": "Unibet",
+   "implied": 0.33,
+   "edge": 0.087,
+   "sin_stake": true,
+   "p": 0.413,
+   "key": "fc|2401251",
+   "match": "KraftVK vs Bomb1to",
+   "start": "2026-11-27T14:01:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.251 partidos)",
+    "Goles esperados: KraftVK 3.52 · Bomb1to 3.49",
+    "Ganador: KraftVK 41% · empate 18% · Bomb1to 41%",
+    "Total: más de 7.5 goles 40% · menos 60%",
+    "Hándicap KraftVK: −1.5 28% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: KraftVK ✅❌❌❌❌ | Bomb1to ➖❌✅✅❌",
+    "• Partidos: KraftVK 1098 | Bomb1to 1572",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.63 · X 3.15 · 2 2.20 (sin margen 33%/28%/39%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.63 (+9%) · Paf España 2.63 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle KraftVK vs Bomb1to (Champions League B): goles esperados 3.52-3.49, 1X2 41%/18%/41%. Sin cuotas de casa.",
+   "captured": "2026-11-27T13:59",
+   "version": "b9896cd",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Piljar",
+   "odds": 1.67,
+   "book": "Unibet",
+   "implied": 0.527,
+   "edge": 0.063,
+   "sin_stake": true,
+   "p": 0.637,
+   "key": "fc|2402128",
+   "match": "Piljar vs Bosko",
+   "start": "2026-11-27T14:24:00+00:00",
+   "league": "🎮⚽ FC 27 · International A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.251 partidos)",
+    "Goles esperados: Piljar 4.99 · Bosko 3.48",
+    "Ganador: Piljar 64% · empate 14% · Bosko 23%",
+    "Total: más de 8.5 goles 47% · menos 53%",
+    "Hándicap Piljar: −1.5 50% · −2.5 36%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Piljar ❌❌✅✅❌ | Bosko ➖✅❌✅❌",
+    "• Partidos: Piljar 638 | Bosko 782",
+    "• Liga: International A 2x6",
+    "• Unibet: 1 1.67 · X 6.00 · 2 2.70 (sin margen 53%/15%/33%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.67 (+6%) · Paf España 1.67 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle Piljar vs Bosko (International A 2x6): goles esperados 4.99-3.48, 1X2 64%/14%/23%. Sin cuotas de casa.",
+   "captured": "2026-11-27T13:59",
    "version": "b9896cd",
    "bajas": "",
    "considered": true,
@@ -45383,7 +45397,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "E1|2026-11-28|Lincoln|Wolves": {
    "match": "Lincoln vs Wolves",
@@ -45535,7 +45550,8 @@
      "line": 11.5,
      "text": "Menos de 11.5 faltas de Wolves"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "E1|2026-11-28|Preston|Norwich": {
    "match": "Preston vs Norwich",
@@ -45807,7 +45823,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP2|2026-11-28|Las Palmas|Andorra": {
    "match": "Las Palmas vs Andorra",
@@ -45959,7 +45976,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "T1|2026-11-28|Samsunspor|Genclerbirligi": {
    "match": "Samsunspor vs Genclerbirligi",
@@ -46095,7 +46113,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I1|2026-11-28|Frosinone|Parma": {
    "match": "Frosinone vs Parma",
@@ -58303,7 +58322,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-27T10:53:50.158612+00:00",
+ "combo_sent": "2026-11-27T13:59:58.947465+00:00",
  "fc_sim_sent": "2026-11-27T13:25:02.068801+00:00",
  "fc_sim_n": 3725,
  "kambi_ok": [

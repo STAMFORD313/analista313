@@ -83300,3 +83300,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2401751,263356,Shanghai Port,Shanghai Shenhua,1.0,2.0
 2401752,263356,Shanghai Shenhua,Shandong Taishan,0.0,1.0
 2401753,263356,Beijing Guoan,Chengdu Rongcheng,2.0,0.0
+2401414,263314,Atleti,Paris,1,1
+2401415,263314,Real Madrid,Liverpool,1,1
+2401416,263314,Liverpool,Atleti,0,0
+2401417,263314,Paris,Bayern Munchen,2,3
+2401418,263314,Bayern Munchen,Liverpool,,
+2401419,263314,Atleti,Real Madrid,,
+2401420,263314,Real Madrid,Bayern Munchen,,
+2401421,263314,Liverpool,Paris,,
+2401422,263314,Paris,Real Madrid,,
+2401423,263314,Bayern Munchen,Atleti,,
+2401424,263314,Paris,Atleti,,
+2401425,263314,Liverpool,Real Madrid,,
+2401426,263314,Atleti,Liverpool,,
+2401427,263314,Bayern Munchen,Paris,,
+2401428,263314,Liverpool,Bayern Munchen,,
+2401429,263314,Real Madrid,Atleti,,
+2401430,263314,Bayern Munchen,Real Madrid,,
+2401431,263314,Paris,Liverpool,,
+2401432,263314,Real Madrid,Paris,,
+2401433,263314,Atleti,Bayern Munchen,,
+2402122,263318,Spain,France,1,2
+2402123,263318,England,Argentina,1,3
+2402124,263318,Argentina,Spain,1,3
+2402125,263318,France,Germany,2,3
+2402126,263318,Germany,Argentina,,
+2402127,263318,Spain,England,,
+2402128,263318,England,Germany,,
+2402129,263318,Argentina,France,,
+2402130,263318,France,England,,
+2402131,263318,Germany,Spain,,
+2402132,263318,France,Spain,,
+2402133,263318,Argentina,England,,
+2402134,263318,Spain,Argentina,,
+2402135,263318,Germany,France,,
+2402136,263318,Argentina,Germany,,
+2402137,263318,England,Spain,,
+2402138,263318,Germany,England,,
+2402139,263318,France,Argentina,,
+2402140,263318,England,France,,
+2402141,263318,Spain,Germany,,
+2401754,263358,PSV,Ajax,0,1
+2401755,263358,Feyenoord,Twente,2,1
+2401756,263358,Twente,PSV,0,1
+2401757,263358,Ajax,AZ Alkmaar,2,0
+2401758,263358,AZ Alkmaar,Twente,,
+2401759,263358,PSV,Feyenoord,,
+2401760,263358,Feyenoord,AZ Alkmaar,,
+2401761,263358,Twente,Ajax,,
+2401762,263358,Ajax,Feyenoord,,
+2401763,263358,AZ Alkmaar,PSV,,
+2401764,263358,Ajax,PSV,,
+2401765,263358,Twente,Feyenoord,,
+2401766,263358,PSV,Twente,,
+2401767,263358,AZ Alkmaar,Ajax,,
+2401768,263358,Twente,AZ Alkmaar,,
+2401769,263358,Feyenoord,PSV,,
+2401770,263358,AZ Alkmaar,Feyenoord,,
+2401771,263358,Ajax,Twente,,
+2401772,263358,Feyenoord,Ajax,,
+2401773,263358,PSV,AZ Alkmaar,,
