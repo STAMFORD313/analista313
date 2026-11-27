@@ -82982,3 +82982,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2401111,263319,Man Utd,Newcastle,,
 2401112,263319,Brighton,Man Utd,,
 2401113,263319,Aston Villa,Nottm Forest,,
+2402016,263280,Lyon,Monaco,0,0
+2402017,263280,Nice,Paris,3,2
+2402018,263280,Paris,Lyon,3,0
+2402019,263280,Monaco,Marseille,1,1
+2402020,263280,Marseille,Paris,3,2
+2402021,263280,Lyon,Nice,2,0
+2402022,263280,Nice,Marseille,1,3
+2402023,263280,Paris,Monaco,1,0
+2402024,263280,Monaco,Nice,3,0
+2402025,263280,Marseille,Lyon,1,1
+2402026,263280,Monaco,Lyon,0,3
+2402027,263280,Paris,Nice,0,1
+2402028,263280,Lyon,Paris,,
+2402029,263280,Marseille,Monaco,,
+2402030,263280,Paris,Marseille,,
+2402031,263280,Nice,Lyon,,
+2402032,263280,Marseille,Nice,,
+2402033,263280,Monaco,Paris,,
+2402034,263280,Nice,Monaco,,
+2402035,263280,Lyon,Marseille,,

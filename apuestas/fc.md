@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 27/11/2026 09:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 09:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bomb1to vs Uncle — 27/11 · 09:07
+## Bomb1to vs mko1919 — 27/11 · 09:55
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.25** (Unibet) · prob 36% vs casas 27% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **1.93** (Unibet) · prob 59% vs casas 45% · ventaja +15%
 
 - ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.943 partidos)  
-Goles esperados: Bomb1to 2.91 · Uncle 2.81  
-Ganador: Bomb1to 45% · empate 20% · Uncle 35%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap Bomb1to: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 82.979 partidos)  
+Goles esperados: Bomb1to 3.67 · mko1919 2.79  
+Ganador: Bomb1to 59% · empate 17% · mko1919 24%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap Bomb1to: −1.5 40% · −2.5 26%  
 🔎 **Claves**  
-• Forma: Bomb1to ➖➖❌✅➖ | Uncle ➖❌✅✅❌  
-• Partidos: Bomb1to 1550 | Uncle 905  
+• Forma: Bomb1to ➖✅✅➖❌ | mko1919 ➖✅❌✅✅  
+• Partidos: Bomb1to 1554 | mko1919 1452  
 • Liga: Serie A  
-• Unibet: 1 2.07 · X 2.75 · 2 3.25 (sin margen 42%/31%/27%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.25 (+15%) · Paf España 3.25 (+15%)  
+• Unibet: 1 1.93 · X 3.50 · 2 2.90 (sin margen 45%/25%/30%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.93 (+15%) · Paf España 1.93 (+15%)  
 
-## dirowe vs Loka — 27/11 · 09:12
+## crinner vs Smetana — 27/11 · 10:00
 
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **8.00** (Unibet) · prob 13% vs casas 11% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 15% · ventaja +13%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.943 partidos)  
-Goles esperados: dirowe 2.97 · Loka 4.41  
-Ganador: dirowe 16% · empate 13% · Loka 71%  
-Total: más de 7.5 goles 46% · menos 54%  
-Hándicap Loka: −1.5 49% · −2.5 34%  
+📊 **Escenarios** (Poisson por jugador, 82.979 partidos)  
+Goles esperados: crinner 3.12 · Smetana 3.04  
+Ganador: crinner 45% · empate 19% · Smetana 36%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap crinner: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: dirowe ❌❌➖❌❌ | Loka ✅➖➖❌➖  
-• Partidos: dirowe 1144 | Loka 1556  
+• Forma: crinner ✅❌✅❌✅ | Smetana ✅✅✅➖❌  
+• Partidos: crinner 1290 | Smetana 1543  
 • Liga: EFL Championship  
-• Unibet: 1 4.40 · X 8.00 · 2 1.25 (sin margen 20%/11%/69%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.00 (+6%) · Paf España 8.00 (+6%)  
+• Unibet: 1 2.35 · X 6.00 · 2 1.83 (sin margen 37%/15%/48%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+13%) · Paf España 6.00 (+13%)  
 
-## Wboy vs Bomb1to — 27/11 · 09:19
+## Uncle vs Bomb1to — 27/11 · 10:07
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.55** (Unibet) · prob 33% vs casas 25% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.60** (Unibet) · prob 35% vs casas 24% · ventaja +27%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.943 partidos)  
-Goles esperados: Wboy 3.38 · Bomb1to 3.76  
-Ganador: Wboy 33% · empate 17% · Bomb1to 50%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Bomb1to: −1.5 33% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 82.979 partidos)  
+Goles esperados: Uncle 2.79 · Bomb1to 2.90  
+Ganador: Uncle 35% · empate 20% · Bomb1to 45%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Bomb1to: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Wboy ➖❌❌➖✅ | Bomb1to ➖➖❌✅➖  
-• Partidos: Wboy 1327 | Bomb1to 1550  
+• Forma: Uncle ✅❌✅❌❌ | Bomb1to ➖✅✅➖❌  
+• Partidos: Uncle 908 | Bomb1to 1554  
 • Liga: Serie A  
-• Unibet: 1 3.55 · X 4.10 · 2 1.63 (sin margen 25%/21%/54%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.55 (+16%) · Paf España 3.55 (+16%)  
+• Unibet: 1 3.60 · X 2.43 · 2 2.17 (sin margen 24%/36%/40%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+27%) · Paf España 3.60 (+27%)  
 
