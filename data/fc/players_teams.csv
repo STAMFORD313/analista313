@@ -83100,3 +83100,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2401721,263354,Wolves,Burnley,,
 2401722,263354,West Ham,Wolves,,
 2401723,263354,Middlesbrough,Southampton,,
+2402036,263282,England,Argentina,1,1
+2402037,263282,Spain,France,1,1
+2402038,263282,France,England,3,3
+2402039,263282,Argentina,Brazil,2,4
+2402040,263282,Brazil,France,2,2
+2402041,263282,England,Spain,3,0
+2402042,263282,Spain,Brazil,1,2
+2402043,263282,France,Argentina,2,0
+2402044,263282,Argentina,Spain,0,2
+2402045,263282,Brazil,England,2,1
+2402046,263282,Argentina,England,,
+2402047,263282,France,Spain,,
+2402048,263282,England,France,,
+2402049,263282,Brazil,Argentina,,
+2402050,263282,France,Brazil,,
+2402051,263282,Spain,England,,
+2402052,263282,Brazil,Spain,,
+2402053,263282,Argentina,France,,
+2402054,263282,Spain,Argentina,,
+2402055,263282,England,Brazil,,
