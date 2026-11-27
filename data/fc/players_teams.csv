@@ -83100,16 +83100,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2401721,263354,Wolves,Burnley,,
 2401722,263354,West Ham,Wolves,,
 2401723,263354,Middlesbrough,Southampton,,
-2402036,263282,England,Argentina,1,1
-2402037,263282,Spain,France,1,1
-2402038,263282,France,England,3,3
-2402039,263282,Argentina,Brazil,2,4
-2402040,263282,Brazil,France,2,2
-2402041,263282,England,Spain,3,0
-2402042,263282,Spain,Brazil,1,2
-2402043,263282,France,Argentina,2,0
-2402044,263282,Argentina,Spain,0,2
-2402045,263282,Brazil,England,2,1
+2402036,263282,England,Argentina,1.0,1.0
+2402037,263282,Spain,France,1.0,1.0
+2402038,263282,France,England,3.0,3.0
+2402039,263282,Argentina,Brazil,2.0,4.0
+2402040,263282,Brazil,France,2.0,2.0
+2402041,263282,England,Spain,3.0,0.0
+2402042,263282,Spain,Brazil,1.0,2.0
+2402043,263282,France,Argentina,2.0,0.0
+2402044,263282,Argentina,Spain,0.0,2.0
+2402045,263282,Brazil,England,2.0,1.0
 2402046,263282,Argentina,England,,
 2402047,263282,France,Spain,,
 2402048,263282,England,France,,
@@ -83120,3 +83120,83 @@ id,tournament_id,club1,club2,ht1,ht2
 2402053,263282,Argentina,France,,
 2402054,263282,Spain,Argentina,,
 2402055,263282,England,Brazil,,
+2401214,263328,Netherlands,Germany,1,2
+2401215,263328,Morocco,Belgium,2,2
+2401216,263328,Belgium,Netherlands,0,3
+2401217,263328,Germany,Portugal,1,1
+2401218,263328,Portugal,Belgium,1,2
+2401219,263328,Netherlands,Morocco,2,0
+2401220,263328,Morocco,Portugal,1,2
+2401221,263328,Belgium,Germany,1,3
+2401222,263328,Germany,Morocco,2,0
+2401223,263328,Portugal,Netherlands,2,3
+2401224,263328,Germany,Netherlands,0,1
+2401225,263328,Belgium,Morocco,0,2
+2401226,263328,Netherlands,Belgium,,
+2401227,263328,Portugal,Germany,,
+2401228,263328,Belgium,Portugal,,
+2401229,263328,Morocco,Netherlands,,
+2401230,263328,Portugal,Morocco,,
+2401231,263328,Germany,Belgium,,
+2401232,263328,Morocco,Germany,,
+2401233,263328,Netherlands,Portugal,,
+2401134,263330,Porto,Salzburg,3,2
+2401135,263330,Roma,Fenerbahce,0,2
+2401136,263330,Fenerbahce,Porto,0,1
+2401137,263330,Salzburg,Aston Villa,4,1
+2401138,263330,Aston Villa,Fenerbahce,6,1
+2401139,263330,Porto,Roma,2,1
+2401140,263330,Roma,Aston Villa,1,2
+2401141,263330,Fenerbahce,Salzburg,2,2
+2401142,263330,Salzburg,Roma,1,0
+2401143,263330,Aston Villa,Porto,1,3
+2401144,263330,Salzburg,Porto,1,2
+2401145,263330,Fenerbahce,Roma,1,1
+2401146,263330,Porto,Fenerbahce,2,0
+2401147,263330,Aston Villa,Salzburg,1,3
+2401148,263330,Fenerbahce,Aston Villa,,
+2401149,263330,Roma,Porto,,
+2401150,263330,Aston Villa,Roma,,
+2401151,263330,Salzburg,Fenerbahce,,
+2401152,263330,Roma,Salzburg,,
+2401153,263330,Porto,Aston Villa,,
+2401294,263344,Frankfurt,B Dortmund,1,2
+2401295,263344,Bayern Munchen,Leipzig,2,1
+2401296,263344,Leipzig,Frankfurt,2,2
+2401297,263344,B Dortmund,Stuttgart,0,0
+2401298,263344,Stuttgart,Leipzig,0,0
+2401299,263344,Frankfurt,Bayern Munchen,2,2
+2401300,263344,Bayern Munchen,Stuttgart,3,1
+2401301,263344,Leipzig,B Dortmund,2,2
+2401302,263344,B Dortmund,Bayern Munchen,0,0
+2401303,263344,Stuttgart,Frankfurt,0,0
+2401304,263344,B Dortmund,Frankfurt,,
+2401305,263344,Leipzig,Bayern Munchen,,
+2401306,263344,Frankfurt,Leipzig,,
+2401307,263344,Stuttgart,B Dortmund,,
+2401308,263344,Leipzig,Stuttgart,,
+2401309,263344,Bayern Munchen,Frankfurt,,
+2401310,263344,Stuttgart,Bayern Munchen,,
+2401311,263344,B Dortmund,Leipzig,,
+2401312,263344,Bayern Munchen,B Dortmund,,
+2401313,263344,Frankfurt,Stuttgart,,
+2401724,263352,Chengdu Rongcheng,Shanghai Shenhua,1,2
+2401725,263352,Shandong Taishan,Shanghai Port,0,0
+2401726,263352,Shanghai Port,Chengdu Rongcheng,3,3
+2401727,263352,Shanghai Shenhua,Beijing Guoan,3,5
+2401728,263352,Beijing Guoan,Shanghai Port,2,3
+2401729,263352,Chengdu Rongcheng,Shandong Taishan,0,2
+2401730,263352,Shandong Taishan,Beijing Guoan,3,1
+2401731,263352,Shanghai Port,Shanghai Shenhua,1,2
+2401732,263352,Shanghai Shenhua,Shandong Taishan,4,1
+2401733,263352,Beijing Guoan,Chengdu Rongcheng,2,4
+2401734,263352,Shanghai Shenhua,Chengdu Rongcheng,,
+2401735,263352,Shanghai Port,Shandong Taishan,,
+2401736,263352,Chengdu Rongcheng,Shanghai Port,,
+2401737,263352,Beijing Guoan,Shanghai Shenhua,,
+2401738,263352,Shanghai Port,Beijing Guoan,,
+2401739,263352,Shandong Taishan,Chengdu Rongcheng,,
+2401740,263352,Beijing Guoan,Shandong Taishan,,
+2401741,263352,Shanghai Shenhua,Shanghai Port,,
+2401742,263352,Shandong Taishan,Shanghai Shenhua,,
+2401743,263352,Chengdu Rongcheng,Beijing Guoan,,
