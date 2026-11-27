@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 04:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 05:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MOUZ NXT vs MASONIC — 27/11 · 10:00
 

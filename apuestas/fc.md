@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 27/11/2026 04:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kavviro vs believer — 27/11 · 04:47
-
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **5.00** (Unibet) · prob 23% vs casas 18% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 82.707 partidos)  
-Goles esperados: Kavviro 1.88 · believer 2.25  
-Ganador: Kavviro 30% · empate 23% · believer 47%  
-Total: más de 4.5 goles 40% · menos 60%  
-Hándicap believer: −1.5 28% · −2.5 14%  
-🔎 **Claves**  
-• Forma: Kavviro ➖✅❌✅❌ | believer ❌❌✅✅✅  
-• Partidos: Kavviro 1203 | believer 1420  
-• Liga: Club World Cup  
-• Unibet: 1 2.60 · X 5.00 · 2 1.80 (sin margen 34%/18%/49%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.00 (+17%) · Paf España 5.00 (+17%)  
+Actualizado 27/11/2026 05:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SpeciAL vs vivienne — 27/11 · 05:08
 
@@ -58,4 +39,23 @@ Hándicap Simaponika: −1.5 35% · −2.5 21%
 • Liga: Club World Cup  
 • Unibet: 1 3.60 · X 5.75 · 2 1.43 (sin margen 24%/15%/61%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.75 (+11%) · Paf España 5.75 (+11%)  
+
+## OG vs hotShot — 27/11 · 05:26
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana hotShot** @ **2.45** (Unibet) · prob 50% vs casas 35% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.740 partidos)  
+Goles esperados: OG 2.13 · hotShot 2.54  
+Ganador: OG 29% · empate 22% · hotShot 50%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
+🔎 **Claves**  
+• Forma: OG ❌✅❌✅➖ | hotShot ➖✅❌✅❌  
+• Partidos: OG 833 | hotShot 828  
+• Liga: Serie A  
+• Unibet: 1 3.20 · X 2.30 · 2 2.45 (sin margen 27%/38%/35%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.45 (+22%) · Paf España 2.45 (+22%)  
 
