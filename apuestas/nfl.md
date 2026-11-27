@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 02:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 03:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Iowa Hawkeyes vs Nebraska Cornhuskers — 27/11 · 18:00
 
