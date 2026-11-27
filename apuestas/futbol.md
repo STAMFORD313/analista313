@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 23:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Fluminense vs Cruzeiro — 28/11 · 00:00
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Cruzeiro** @ **3.70** (Bet365) · prob 27% vs casas 27% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.92)  
-1 43% · X 29% · 2 28%  
-1X 72% · X2 57% · 12 71%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Fluminense ❌✅✅✅✅ | Cruzeiro ✅✅✅✅✅  
-• H2H: 23 desde 2012: 8V-6E-9D · 2.2 goles/partido · +2.5 en 26%  
-• Bajas: Fluminense: 1 fuera, 1 duda (John Kennedy); Cruzeiro: 0 fuera, 3 duda  
-• Favorito de las casas: Fluminense @ 1.96  
+Actualizado 28/11/2026 00:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Columbus Crew vs Inter Miami — 28/11 · 02:00
 
