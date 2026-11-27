@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 08:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 08:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. John's Red Storm vs Iowa State Cyclones — 27/11 · 19:00
 
@@ -56,6 +56,33 @@ Más 51% · Menos 49%
 • H2H: 2 desde 2022: 2-0  
 • Bajas: Iowa State Cyclones: sin bajas; St. John's Red Storm: sin bajas  
 
+## Baylor Bears vs TCU Horned Frogs — 27/11 · 21:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 154.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **160.0** puntos · línea 154.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Baylor Bears ✅❌✅✅❌ | TCU Horned Frogs ✅✅❌✅❌  
+• H2H: 20 desde 2017: 10-9  
+• Bajas: Baylor Bears: sin bajas; TCU Horned Frogs: sin bajas  
+
+## Baylor Bears vs TCU Horned Frogs — 27/11 · 21:00
+
+👀 candidata · 🏀 NCAA Basketball · **Baylor Bears -4.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Baylor Bears cubre -4.5 con prob. 48% (casas 48%)  
+🔎 **Claves**  
+• Forma: Baylor Bears ✅❌✅✅❌ | TCU Horned Frogs ✅✅❌✅❌  
+• H2H: 20 desde 2017: 10-9  
+• Bajas: Baylor Bears: sin bajas; TCU Horned Frogs: sin bajas  
+
 ## Alabama Crimson Tide vs Miami Hurricanes — 28/11 · 02:30
 
 👀 candidata · 🏀 NCAA Basketball · **Más de 170.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
@@ -109,4 +136,31 @@ Más 49% · Menos 51%
 • Forma: Louisville Cardinals ✅❌✅✅✅ | Tennessee Volunteers ✅✅✅✅✅  
 • H2H: 3 desde 2018: 0-3  
 • Bajas: Louisville Cardinals: sin bajas; Tennessee Volunteers: sin bajas  
+
+## Gonzaga Bulldogs vs Creighton Bluejays — 28/11 · 05:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 161.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **150.7** puntos · línea 161.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Gonzaga Bulldogs ✅❌✅✅✅ | Creighton Bluejays ❌✅✅✅✅  
+• H2H: 4 desde 2017: 4-0  
+• Bajas: Gonzaga Bulldogs: sin bajas; Creighton Bluejays: sin bajas  
+
+## Gonzaga Bulldogs vs Creighton Bluejays — 28/11 · 05:00
+
+👀 candidata · 🏀 NCAA Basketball · **Gonzaga Bulldogs -5.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Gonzaga Bulldogs cubre -5.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Gonzaga Bulldogs ✅❌✅✅✅ | Creighton Bluejays ❌✅✅✅✅  
+• H2H: 4 desde 2017: 4-0  
+• Bajas: Gonzaga Bulldogs: sin bajas; Creighton Bluejays: sin bajas  
 
