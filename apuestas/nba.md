@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 21:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 22:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alabama Crimson Tide vs Miami Hurricanes — 28/11 · 02:30
 
