@@ -4385,5 +4385,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261127110938871983",
+  "creada": "2026-11-27 11:09:38.872024+00:00",
+  "titulo": "Barrido · Combinada cuota 14.5",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-27 12:45:00+00:00",
+    "home": "Gulf United",
+    "away": "Palm City",
+    "txt": "Gana Palm City",
+    "odds": 2.25,
+    "p": 0.4818
+   },
+   {
+    "code": null,
+    "start": "2026-11-27 17:00:00+00:00",
+    "home": "AEK Larnaca",
+    "away": "Apollon Limassol",
+    "txt": "Gana AEK Larnaca",
+    "odds": 2.53,
+    "p": 0.4098
+   },
+   {
+    "code": null,
+    "start": "2026-11-27 19:00:00+00:00",
+    "home": "VVV Venlo",
+    "away": "RKC Waalwijk",
+    "txt": "Gana RKC Waalwijk",
+    "odds": 2.55,
+    "p": 0.4094
+   }
+  ],
+  "odds": 14.52,
+  "p": 0.080832607416,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
