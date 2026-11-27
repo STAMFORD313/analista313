@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-27 19:26",
- "n": 6400,
+ "fecha": "2026-11-27 20:04",
+ "n": 6401,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5 · ventaja=<0",
@@ -364,11 +364,11 @@
   },
   {
    "segmento": "ventaja=5-15%",
-   "n": 1689,
-   "roi": -0.0969,
+   "n": 1690,
+   "roi": -0.0962,
    "se": 0.0355,
    "roi_antigua": -0.099,
-   "roi_nueva": -0.0948,
+   "roi_nueva": -0.0934,
    "clv": -0.0163,
    "clv_se": 0.0119,
    "clv_n": 64
@@ -416,11 +416,11 @@
   },
   {
    "segmento": "mercado=1X2 · ventaja=5-15%",
-   "n": 1573,
-   "roi": -0.0919,
-   "se": 0.0374,
+   "n": 1574,
+   "roi": -0.0912,
+   "se": 0.0373,
    "roi_antigua": -0.0869,
-   "roi_nueva": -0.0969,
+   "roi_nueva": -0.0955,
    "clv": -0.0143,
    "clv_se": 0.0101,
    "clv_n": 47
@@ -482,27 +482,27 @@
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=5-15%",
-   "n": 1526,
-   "roi": -0.0896,
+   "n": 1527,
+   "roi": -0.0888,
    "se": 0.0382,
    "roi_antigua": -0.0786,
-   "roi_nueva": -0.1006
+   "roi_nueva": -0.0991
   },
   {
    "segmento": "deporte=🎮⚽ · ventaja=5-15%",
-   "n": 1526,
-   "roi": -0.0896,
+   "n": 1527,
+   "roi": -0.0888,
    "se": 0.0382,
    "roi_antigua": -0.0786,
-   "roi_nueva": -0.1006
+   "roi_nueva": -0.0991
   },
   {
    "segmento": "mercado=1X2",
-   "n": 3052,
-   "roi": -0.0671,
+   "n": 3053,
+   "roi": -0.0668,
    "se": 0.0274,
    "roi_antigua": -0.1197,
-   "roi_nueva": -0.0122,
+   "roi_nueva": -0.0114,
    "clv": 0.016,
    "clv_se": 0.004,
    "clv_n": 409
@@ -586,19 +586,19 @@
   },
   {
    "segmento": "deporte=🎮⚽",
-   "n": 2643,
-   "roi": -0.0646,
-   "se": 0.0306,
+   "n": 2644,
+   "roi": -0.0641,
+   "se": 0.0305,
    "roi_antigua": -0.119,
-   "roi_nueva": -0.007
+   "roi_nueva": -0.0062
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2",
-   "n": 2643,
-   "roi": -0.0646,
-   "se": 0.0306,
+   "n": 2644,
+   "roi": -0.0641,
+   "se": 0.0305,
    "roi_antigua": -0.119,
-   "roi_nueva": -0.007
+   "roi_nueva": -0.0062
   },
   {
    "segmento": "mercado=ganador · cuota=>2.5 · ventaja=<0",
