@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 06:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 07:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## St. John's Red Storm vs Iowa State Cyclones — 27/11 · 19:00
 
@@ -28,6 +28,33 @@ Más 50% · Menos 50%
 • Forma: St. John's Red Storm ✅✅✅✅❌ | Iowa State Cyclones ✅✅✅✅❌  
 • H2H: 2 desde 2022: 0-2  
 • Bajas: St. John's Red Storm: sin bajas; Iowa State Cyclones: sin bajas  
+
+## Iowa State Cyclones vs St. John's Red Storm — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Más de 149.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **144.3** puntos · línea 149.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: Iowa State Cyclones ✅✅✅✅❌ | St. John's Red Storm ✅✅✅✅❌  
+• H2H: 2 desde 2022: 2-0  
+• Bajas: Iowa State Cyclones: sin bajas; St. John's Red Storm: sin bajas  
+
+## Iowa State Cyclones vs St. John's Red Storm — 27/11 · 19:00
+
+👀 candidata · 🏀 NCAA Basketball · **Iowa State Cyclones +3.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Iowa State Cyclones cubre +3.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Iowa State Cyclones ✅✅✅✅❌ | St. John's Red Storm ✅✅✅✅❌  
+• H2H: 2 desde 2022: 2-0  
+• Bajas: Iowa State Cyclones: sin bajas; St. John's Red Storm: sin bajas  
 
 ## Alabama Crimson Tide vs Miami Hurricanes — 28/11 · 02:30
 
