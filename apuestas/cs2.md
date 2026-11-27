@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 10:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 11:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bebop vs Spirit Academy Green — 27/11 · 12:30
 

@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 10:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 11:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rakow vs Piast Gliwice — 27/11 · 18:00
 
