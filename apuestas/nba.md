@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 19:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Baylor Bears vs TCU Horned Frogs — 27/11 · 21:00
 

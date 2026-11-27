@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grazer AK vs Altach — 27/11 · 19:30
-
-👀 candidata · 🇦🇹 Bundesliga · **Empate** @ **3.50** (Bet365) · prob 28% vs casas 28% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.88)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-0 14% · 1-1 13% · 0-0 11% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Grazer AK ❌➖❌❌❌ | Altach ❌✅➖❌✅  
-• H2H: 9 desde 2024: 4V-4E-1D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Grazer AK: sin bajas; Altach: sin bajas  
-• Favorito de las casas: Altach @ 2.15  
+Actualizado 27/11/2026 19:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Groningen vs Willem II — 27/11 · 20:00
 
