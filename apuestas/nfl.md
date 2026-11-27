@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 00:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 01:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas Tech Red Raiders vs TCU Horned Frogs — 27/11 · 02:00
 
