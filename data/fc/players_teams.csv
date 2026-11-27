@@ -82844,34 +82844,34 @@ id,tournament_id,club1,club2,ht1,ht2
 2399740,263229,Roma,Napoli,,
 2399741,263229,Juventus,Roma,,
 2399742,263229,Sassuolo,Bologna,,
-2401074,263313,Mexico,Denmark,2,2
-2401075,263313,USA,Ghana,0,2
-2401076,263313,Ghana,Mexico,1,2
-2401077,263313,Denmark,Sweden,2,3
-2401078,263313,Sweden,Ghana,2,0
-2401079,263313,Mexico,USA,1,3
-2401080,263313,USA,Sweden,1,3
-2401081,263313,Ghana,Denmark,6,1
-2401082,263313,Denmark,USA,3,2
-2401083,263313,Sweden,Mexico,2,3
-2401084,263313,Denmark,Mexico,2,3
-2401085,263313,Ghana,USA,0,2
-2401086,263313,Mexico,Ghana,1,3
-2401087,263313,Sweden,Denmark,0,2
+2401074,263313,Mexico,Denmark,2.0,2.0
+2401075,263313,USA,Ghana,0.0,2.0
+2401076,263313,Ghana,Mexico,1.0,2.0
+2401077,263313,Denmark,Sweden,2.0,3.0
+2401078,263313,Sweden,Ghana,2.0,0.0
+2401079,263313,Mexico,USA,1.0,3.0
+2401080,263313,USA,Sweden,1.0,3.0
+2401081,263313,Ghana,Denmark,6.0,1.0
+2401082,263313,Denmark,USA,3.0,2.0
+2401083,263313,Sweden,Mexico,2.0,3.0
+2401084,263313,Denmark,Mexico,2.0,3.0
+2401085,263313,Ghana,USA,0.0,2.0
+2401086,263313,Mexico,Ghana,1.0,3.0
+2401087,263313,Sweden,Denmark,0.0,2.0
 2401088,263313,Ghana,Sweden,,
 2401089,263313,USA,Mexico,,
 2401090,263313,Sweden,USA,,
 2401091,263313,Denmark,Ghana,,
 2401092,263313,USA,Denmark,,
 2401093,263313,Mexico,Sweden,,
-2402076,263316,Tottenham,Chelsea,1,3
-2402077,263316,Arsenal,Liverpool,1,1
-2402078,263316,Arsenal,Tottenham,2,2
-2402079,263316,Liverpool,Chelsea,2,1
-2402080,263316,Chelsea,Arsenal,1,2
-2402081,263316,Liverpool,Tottenham,1,0
-2402082,263316,Tottenham,Chelsea,2,2
-2402083,263316,Arsenal,Liverpool,2,4
+2402076,263316,Tottenham,Chelsea,1.0,3.0
+2402077,263316,Arsenal,Liverpool,1.0,1.0
+2402078,263316,Arsenal,Tottenham,2.0,2.0
+2402079,263316,Liverpool,Chelsea,2.0,1.0
+2402080,263316,Chelsea,Arsenal,1.0,2.0
+2402081,263316,Liverpool,Tottenham,1.0,0.0
+2402082,263316,Tottenham,Chelsea,2.0,2.0
+2402083,263316,Arsenal,Liverpool,2.0,4.0
 2402084,263316,Arsenal,Tottenham,,
 2402085,263316,Liverpool,Chelsea,,
 2402086,263316,Chelsea,Arsenal,,
@@ -82882,3 +82882,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2402091,263316,Liverpool,Chelsea,,
 2402092,263316,Chelsea,Arsenal,,
 2402093,263316,Liverpool,Tottenham,,
+2401997,263278,B Dortmund,Stuttgart,4,1
+2401998,263278,Stuttgart,Leipzig,4,2
+2401999,263278,Frankfurt,Bayern Munchen,0,3
+2402000,263278,Bayern Munchen,Stuttgart,3,2
+2402001,263278,Leipzig,B Dortmund,3,1
+2402002,263278,B Dortmund,Bayern Munchen,0,2
+2402003,263278,Stuttgart,Frankfurt,0,2
+2402004,263278,Frankfurt,B Dortmund,2,2
+2402005,263278,Bayern Munchen,Leipzig,1,2
+2402006,263278,Frankfurt,Leipzig,1,0
+2402007,263278,Stuttgart,B Dortmund,0,3
+2402008,263278,Leipzig,Stuttgart,,
+2402009,263278,Bayern Munchen,Frankfurt,,
+2402010,263278,Stuttgart,Bayern Munchen,,
+2402011,263278,B Dortmund,Leipzig,,
+2402012,263278,Bayern Munchen,B Dortmund,,
+2402013,263278,Frankfurt,Stuttgart,,
+2402014,263278,B Dortmund,Frankfurt,,
+2402015,263278,Leipzig,Bayern Munchen,,
+2401996,263278,Leipzig,Frankfurt,,
+2401174,263317,Argentina,Spain,0,1
+2401175,263317,Brazil,England,1,3
+2401176,263317,England,Argentina,4,2
+2401177,263317,Spain,France,1,3
+2401178,263317,France,England,3,2
+2401179,263317,Argentina,Brazil,2,1
+2401180,263317,Brazil,France,1,1
+2401181,263317,England,Spain,1,2
+2401182,263317,Spain,Brazil,,
+2401183,263317,France,Argentina,,
+2401184,263317,Spain,Argentina,,
+2401185,263317,England,Brazil,,
+2401186,263317,Argentina,England,,
+2401187,263317,France,Spain,,
+2401188,263317,England,France,,
+2401189,263317,Brazil,Argentina,,
+2401190,263317,France,Brazil,,
+2401191,263317,Spain,England,,
+2401192,263317,Brazil,Spain,,
+2401193,263317,Argentina,France,,
+2401684,263364,Inter Miami CF,Atlanta United,0,2
+2401685,263364,LA Galaxy,Los Angeles FC,1,1
+2401686,263364,Los Angeles FC,Inter Miami CF,1,3
+2401687,263364,Atlanta United,Seattle Sounders FC,0,4
+2401688,263364,Seattle Sounders FC,Los Angeles FC,1,4
+2401689,263364,Inter Miami CF,LA Galaxy,1,0
+2401690,263364,LA Galaxy,Seattle Sounders FC,0,1
+2401691,263364,Los Angeles FC,Atlanta United,2,1
+2401692,263364,Atlanta United,LA Galaxy,,
+2401693,263364,Seattle Sounders FC,Inter Miami CF,,
+2401694,263364,Atlanta United,Inter Miami CF,,
+2401695,263364,Los Angeles FC,LA Galaxy,,
+2401696,263364,Inter Miami CF,Los Angeles FC,,
+2401697,263364,Seattle Sounders FC,Atlanta United,,
+2401698,263364,Los Angeles FC,Seattle Sounders FC,,
+2401699,263364,LA Galaxy,Inter Miami CF,,
+2401700,263364,Seattle Sounders FC,LA Galaxy,,
+2401701,263364,Atlanta United,Los Angeles FC,,
+2401702,263364,LA Galaxy,Atlanta United,,
+2401703,263364,Inter Miami CF,Seattle Sounders FC,,
