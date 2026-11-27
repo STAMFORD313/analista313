@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Sonderjyske vs Brondby — 27/11 · 19:00
-
-👀 candidata · 🇩🇰 Superliga · **Gana Brondby** @ **1.62** (Bet365) · prob 57% vs casas 57% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.74)  
-1 31% · X 26% · 2 43%  
-1X 57% · X2 69% · 12 74%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 1-2 9% · 0-1 8% · 2-1 7%  
-🔎 **Claves**  
-• Forma: Sonderjyske ✅❌❌➖❌ | Brondby ❌✅✅❌❌  
-• H2H: 33 desde 2012: 12V-5E-16D · 2.7 goles/partido · +2.5 en 52%  
-• Bajas: Sonderjyske: sin bajas; Brondby: sin bajas  
-• Favorito de las casas: Brondby @ 1.62  
+Actualizado 27/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grazer AK vs Altach — 27/11 · 19:30
 
@@ -10017,6 +9999,300 @@ Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.25)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Academico Viseu ✅✅✅✅❌ | Alverca ✅✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Academico Viseu: 0 fuera, 1 duda; Alverca: 2 fuera, 0 duda (Noah Raveyre, Sabit Abdulai)  
+• Favorito de las casas: Academico Viseu @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.3: total +9.5 47% · Academico Viseu +5.5 40% · Alverca +4.5 42%  
+Tarjetas 2.2 - 2.6: total +5.5 34% · Academico Viseu +2.5 36% · Alverca +2.5 48%  
+Faltas 13.0 - 14.1: total +26.5 53% · Academico Viseu +13.5 43% · Alverca +13.5 54%  
+Tiros a puerta 4.3 - 4.1: total +8.5 46% · Academico Viseu +4.5 42% · Alverca +3.5 57%  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 5.5 córners de Academico Viseu + Menos de 4.5 tiros a puerta de Academico Viseu + Menos de 13.5 faltas de Academico Viseu → prob. 15%, cuota justa 6.71  
+
+## Kifisia vs Kalamata — 28/11 · 19:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 8.5 córners** @ **1.90** (Unibet) · prob 51% vs casas 47% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.30)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Kifisia ❌✅❌✅❌ | Kalamata ✅❌➖➖❌  
+• H2H: sin precedentes  
+• Bajas: Kifisia: sin bajas; Kalamata: sin bajas  
+• Favorito de las casas: Kifisia @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.4: total +9.5 43% · Kifisia +4.5 62% · Kalamata +3.5 43%  
+Tarjetas 2.7 - 3.1: total +5.5 50% · Kifisia +2.5 51% · Kalamata +2.5 59%  
+Faltas 16.0 - 14.4: total +30.5 48% · Kifisia +15.5 53% · Kalamata +15.5 38%  
+Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41%  
+🧩 Crear apuesta: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia + Más de 7.5 tiros a puerta + Más de 2.5 tarjetas de Kalamata → prob. 13%, cuota justa 7.62  
+
+## Kifisia vs Kalamata — 28/11 · 19:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.43** (Unibet) · prob 60% vs casas 63% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.30)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Kifisia ❌✅❌✅❌ | Kalamata ✅❌➖➖❌  
+• H2H: sin precedentes  
+• Bajas: Kifisia: sin bajas; Kalamata: sin bajas  
+• Favorito de las casas: Kifisia @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.4: total +9.5 43% · Kifisia +4.5 62% · Kalamata +3.5 43%  
+Tarjetas 2.7 - 3.1: total +5.5 50% · Kifisia +2.5 51% · Kalamata +2.5 59%  
+Faltas 16.0 - 14.4: total +30.5 48% · Kifisia +15.5 53% · Kalamata +15.5 38%  
+Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41%  
+🧩 Crear apuesta: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia + Más de 7.5 tiros a puerta + Más de 2.5 tarjetas de Kalamata → prob. 13%, cuota justa 7.62  
+
+## Kifisia vs Kalamata — 28/11 · 19:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 5.5 córners de Kifisia** @ **2.35** (Unibet) · prob 43% vs casas 38% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.30)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Kifisia ❌✅❌✅❌ | Kalamata ✅❌➖➖❌  
+• H2H: sin precedentes  
+• Bajas: Kifisia: sin bajas; Kalamata: sin bajas  
+• Favorito de las casas: Kifisia @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.4: total +9.5 43% · Kifisia +4.5 62% · Kalamata +3.5 43%  
+Tarjetas 2.7 - 3.1: total +5.5 50% · Kifisia +2.5 51% · Kalamata +2.5 59%  
+Faltas 16.0 - 14.4: total +30.5 48% · Kifisia +15.5 53% · Kalamata +15.5 38%  
+Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41%  
+🧩 Crear apuesta: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia + Más de 7.5 tiros a puerta + Más de 2.5 tarjetas de Kalamata → prob. 13%, cuota justa 7.62  
+
+## Kifisia vs Kalamata — 28/11 · 19:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 5.5 córners de Kifisia** @ **1.45** (Unibet) · prob 57% vs casas 62% · ventaja -17%
+
+- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.30)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Kifisia ❌✅❌✅❌ | Kalamata ✅❌➖➖❌  
+• H2H: sin precedentes  
+• Bajas: Kifisia: sin bajas; Kalamata: sin bajas  
+• Favorito de las casas: Kifisia @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.4: total +9.5 43% · Kifisia +4.5 62% · Kalamata +3.5 43%  
+Tarjetas 2.7 - 3.1: total +5.5 50% · Kifisia +2.5 51% · Kalamata +2.5 59%  
+Faltas 16.0 - 14.4: total +30.5 48% · Kifisia +15.5 53% · Kalamata +15.5 38%  
+Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41%  
+🧩 Crear apuesta: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia + Más de 7.5 tiros a puerta + Más de 2.5 tarjetas de Kalamata → prob. 13%, cuota justa 7.62  
+
+## Kifisia vs Kalamata — 28/11 · 19:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Kalamata** @ **1.92** (Unibet) · prob 45% vs casas 47% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.30)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Kifisia ❌✅❌✅❌ | Kalamata ✅❌➖➖❌  
+• H2H: sin precedentes  
+• Bajas: Kifisia: sin bajas; Kalamata: sin bajas  
+• Favorito de las casas: Kifisia @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.4: total +9.5 43% · Kifisia +4.5 62% · Kalamata +3.5 43%  
+Tarjetas 2.7 - 3.1: total +5.5 50% · Kifisia +2.5 51% · Kalamata +2.5 59%  
+Faltas 16.0 - 14.4: total +30.5 48% · Kifisia +15.5 53% · Kalamata +15.5 38%  
+Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41%  
+🧩 Crear apuesta: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia + Más de 7.5 tiros a puerta + Más de 2.5 tarjetas de Kalamata → prob. 13%, cuota justa 7.62  
+
+## Kifisia vs Kalamata — 28/11 · 19:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de Kalamata** @ **1.68** (Unibet) · prob 55% vs casas 53% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.45 - 1.30)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Kifisia ❌✅❌✅❌ | Kalamata ✅❌➖➖❌  
+• H2H: sin precedentes  
+• Bajas: Kifisia: sin bajas; Kalamata: sin bajas  
+• Favorito de las casas: Kifisia @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.4: total +9.5 43% · Kifisia +4.5 62% · Kalamata +3.5 43%  
+Tarjetas 2.7 - 3.1: total +5.5 50% · Kifisia +2.5 51% · Kalamata +2.5 59%  
+Faltas 16.0 - 14.4: total +30.5 48% · Kifisia +15.5 53% · Kalamata +15.5 38%  
+Tiros a puerta 5.2 - 3.3: total +7.5 59% · Kifisia +4.5 57% · Kalamata +3.5 41%  
+🧩 Crear apuesta: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 15.5 faltas de Kalamata + Más de 4.5 córners de Kifisia + Más de 7.5 tiros a puerta + Más de 2.5 tarjetas de Kalamata → prob. 13%, cuota justa 7.62  
+
+## Academico Viseu vs Alverca — 28/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.66** (Unibet) · prob 57% vs casas 55% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.25)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Academico Viseu ✅✅✅✅❌ | Alverca ✅✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Academico Viseu: 0 fuera, 1 duda; Alverca: 2 fuera, 0 duda (Noah Raveyre, Sabit Abdulai)  
+• Favorito de las casas: Academico Viseu @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.3: total +9.5 47% · Academico Viseu +5.5 40% · Alverca +4.5 42%  
+Tarjetas 2.2 - 2.6: total +5.5 34% · Academico Viseu +2.5 36% · Alverca +2.5 48%  
+Faltas 13.0 - 14.1: total +26.5 53% · Academico Viseu +13.5 43% · Alverca +13.5 54%  
+Tiros a puerta 4.3 - 4.1: total +8.5 46% · Academico Viseu +4.5 42% · Alverca +3.5 57%  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 5.5 córners de Academico Viseu + Menos de 4.5 tiros a puerta de Academico Viseu + Menos de 13.5 faltas de Academico Viseu → prob. 15%, cuota justa 6.71  
+
+## Academico Viseu vs Alverca — 28/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.40** (Unibet) · prob 65% vs casas 65% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.25)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Academico Viseu ✅✅✅✅❌ | Alverca ✅✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Academico Viseu: 0 fuera, 1 duda; Alverca: 2 fuera, 0 duda (Noah Raveyre, Sabit Abdulai)  
+• Favorito de las casas: Academico Viseu @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.3: total +9.5 47% · Academico Viseu +5.5 40% · Alverca +4.5 42%  
+Tarjetas 2.2 - 2.6: total +5.5 34% · Academico Viseu +2.5 36% · Alverca +2.5 48%  
+Faltas 13.0 - 14.1: total +26.5 53% · Academico Viseu +13.5 43% · Alverca +13.5 54%  
+Tiros a puerta 4.3 - 4.1: total +8.5 46% · Academico Viseu +4.5 42% · Alverca +3.5 57%  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 5.5 córners de Academico Viseu + Menos de 4.5 tiros a puerta de Academico Viseu + Menos de 13.5 faltas de Academico Viseu → prob. 15%, cuota justa 6.71  
+
+## Academico Viseu vs Alverca — 28/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 5.5 córners de Academico Viseu** @ **2.80** (Unibet) · prob 36% vs casas 33% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.25)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Academico Viseu ✅✅✅✅❌ | Alverca ✅✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Academico Viseu: 0 fuera, 1 duda; Alverca: 2 fuera, 0 duda (Noah Raveyre, Sabit Abdulai)  
+• Favorito de las casas: Academico Viseu @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.3: total +9.5 47% · Academico Viseu +5.5 40% · Alverca +4.5 42%  
+Tarjetas 2.2 - 2.6: total +5.5 34% · Academico Viseu +2.5 36% · Alverca +2.5 48%  
+Faltas 13.0 - 14.1: total +26.5 53% · Academico Viseu +13.5 43% · Alverca +13.5 54%  
+Tiros a puerta 4.3 - 4.1: total +8.5 46% · Academico Viseu +4.5 42% · Alverca +3.5 57%  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 5.5 córners de Academico Viseu + Menos de 4.5 tiros a puerta de Academico Viseu + Menos de 13.5 faltas de Academico Viseu → prob. 15%, cuota justa 6.71  
+
+## Academico Viseu vs Alverca — 28/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Academico Viseu** @ **1.36** (Unibet) · prob 64% vs casas 67% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.25)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Academico Viseu ✅✅✅✅❌ | Alverca ✅✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Academico Viseu: 0 fuera, 1 duda; Alverca: 2 fuera, 0 duda (Noah Raveyre, Sabit Abdulai)  
+• Favorito de las casas: Academico Viseu @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.3: total +9.5 47% · Academico Viseu +5.5 40% · Alverca +4.5 42%  
+Tarjetas 2.2 - 2.6: total +5.5 34% · Academico Viseu +2.5 36% · Alverca +2.5 48%  
+Faltas 13.0 - 14.1: total +26.5 53% · Academico Viseu +13.5 43% · Alverca +13.5 54%  
+Tiros a puerta 4.3 - 4.1: total +8.5 46% · Academico Viseu +4.5 42% · Alverca +3.5 57%  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 5.5 córners de Academico Viseu + Menos de 4.5 tiros a puerta de Academico Viseu + Menos de 13.5 faltas de Academico Viseu → prob. 15%, cuota justa 6.71  
+
+## Academico Viseu vs Alverca — 28/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Alverca** @ **1.45** (Unibet) · prob 61% vs casas 63% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.25)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Academico Viseu ✅✅✅✅❌ | Alverca ✅✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Academico Viseu: 0 fuera, 1 duda; Alverca: 2 fuera, 0 duda (Noah Raveyre, Sabit Abdulai)  
+• Favorito de las casas: Academico Viseu @ 2.60  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.3: total +9.5 47% · Academico Viseu +5.5 40% · Alverca +4.5 42%  
+Tarjetas 2.2 - 2.6: total +5.5 34% · Academico Viseu +2.5 36% · Alverca +2.5 48%  
+Faltas 13.0 - 14.1: total +26.5 53% · Academico Viseu +13.5 43% · Alverca +13.5 54%  
+Tiros a puerta 4.3 - 4.1: total +8.5 46% · Academico Viseu +4.5 42% · Alverca +3.5 57%  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 5.5 córners de Academico Viseu + Menos de 4.5 tiros a puerta de Academico Viseu + Menos de 13.5 faltas de Academico Viseu → prob. 15%, cuota justa 6.71  
+
+## Academico Viseu vs Alverca — 28/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Alverca** @ **1.80** (Unibet) · prob 54% vs casas 51% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.49 - 1.25)  
 1 39% · X 29% · 2 32%  

@@ -35116,3 +35116,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194034,134398,m80-cs-go-vs-100-thieves-27-11-2026,2026-11-27T12:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,7430,464,M80,100 Thieves,3,de_mirage,464,13.0,5.0
 194035,134398,m80-cs-go-vs-100-thieves-27-11-2026,2026-11-27T12:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,7430,464,M80,100 Thieves,2,de_inferno,7430,13.0,10.0
 194036,134398,m80-cs-go-vs-100-thieves-27-11-2026,2026-11-27T12:10:00.000+00:00,s,3,6269,PGL Major Singapore 2026 Stage 1,7430,464,M80,100 Thieves,1,de_dust2,464,13.0,6.0
+194314,134524,nordic-partners-gaming-vs-xmeta-27-11-2026,2026-11-27T15:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,25002,25571,Nordic Partners,XMETA,3,de_ancient,25571,13.0,10.0
+194315,134524,nordic-partners-gaming-vs-xmeta-27-11-2026,2026-11-27T15:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,25002,25571,Nordic Partners,XMETA,2,de_mirage,25571,13.0,3.0
+194316,134524,nordic-partners-gaming-vs-xmeta-27-11-2026,2026-11-27T15:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,25002,25571,Nordic Partners,XMETA,1,de_cache,25002,13.0,6.0

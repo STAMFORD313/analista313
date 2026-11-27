@@ -1,44 +1,63 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 27/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Jokadinho vs Lx7ss — 27/11 · 18:56
+## Buu vs Lufy — 27/11 · 19:30
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Jokadinho** @ **2.28** (Unibet) · prob 54% vs casas 38% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Buu** @ **2.38** (Unibet) · prob 46% vs casas 37% · ventaja +10%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 83.470 partidos)  
-Goles esperados: Jokadinho 3.73 · Lx7ss 2.99  
-Ganador: Jokadinho 54% · empate 17% · Lx7ss 29%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap Jokadinho: −1.5 38% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 83.499 partidos)  
+Goles esperados: Buu 5.34 · Lufy 5.01  
+Ganador: Buu 46% · empate 14% · Lufy 40%  
+Total: más de 10.5 goles 46% · menos 54%  
+Hándicap Buu: −1.5 35% · −2.5 25%  
 🔎 **Claves**  
-• Forma: Jokadinho ❌✅❌✅❌ | Lx7ss ❌✅❌➖✅  
-• Partidos: Jokadinho 1113 | Lx7ss 1286  
-• Liga: World Cup B  
-• Unibet: 1 2.28 · X 4.90 · 2 2.00 (sin margen 38%/18%/44%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.28 (+22%) · Paf España 2.28 (+22%)  
+• Forma: Buu ❌❌❌✅❌ | Lufy ➖✅✅❌✅  
+• Partidos: Buu 886 | Lufy 973  
+• Liga: Champions League B 2x6  
+• Unibet: 1 2.38 · X 5.40 · 2 1.87 (sin margen 37%/16%/47%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+10%) · Paf España 2.38 (+10%)  
 
-## pikalicaaa vs Firminho — 27/11 · 19:11
+## ramzes vs Gazi — 27/11 · 19:34
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Firminho** @ **2.00** (Unibet) · prob 59% vs casas 44% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.25** (Unibet) · prob 20% vs casas 14% · ventaja +22%
 
-- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.499 partidos)  
+Goles esperados: ramzes 2.96 · Gazi 2.86  
+Ganador: ramzes 46% · empate 19% · Gazi 35%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap ramzes: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: ramzes ❌✅❌❌✅ | Gazi ➖✅✅➖➖  
+• Partidos: ramzes 1296 | Gazi 717  
+• Liga: Copa America  
+• Unibet: 1 2.00 · X 6.25 · 2 2.10 (sin margen 44%/14%/42%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+22%) · Paf España 6.25 (+22%)  
+
+## Gaga vs Jokadinho — 27/11 · 19:40
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Jokadinho** @ **2.70** (Unibet) · prob 49% vs casas 32% · ventaja +33%
+
+- ❌ Valor: ventaja +33% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 83.470 partidos)  
-Goles esperados: pikalicaaa 2.78 · Firminho 3.67  
-Ganador: pikalicaaa 24% · empate 17% · Firminho 59%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap Firminho: −1.5 40% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 83.499 partidos)  
+Goles esperados: Gaga 2.62 · Jokadinho 3.16  
+Ganador: Gaga 32% · empate 19% · Jokadinho 49%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Jokadinho: −1.5 34% · −2.5 20%  
 🔎 **Claves**  
-• Forma: pikalicaaa ➖❌❌✅✅ | Firminho ✅❌✅✅✅  
-• Partidos: pikalicaaa 892 | Firminho 1052  
-• Liga: Champions League A  
-• Unibet: 1 2.16 · X 5.75 · 2 2.00 (sin margen 41%/15%/44%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.00 (+18%) · Paf España 2.00 (+18%)  
+• Forma: Gaga ✅❌❌✅➖ | Jokadinho ❌✅❌❌✅  
+• Partidos: Gaga 1294 | Jokadinho 1115  
+• Liga: Europa League  
+• Unibet: 1 1.82 · X 4.50 · 2 2.70 (sin margen 48%/19%/32%) · ventaja +33%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+33%) · Paf España 2.70 (+33%)  
 
 ## Bosko vs Buu — 27/11 · 19:48
 

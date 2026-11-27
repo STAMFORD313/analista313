@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## BOJONG vs HAVU — 27/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana BOJONG** @ **5.10** (Thunderpick) · prob 26% vs casas 18% · ventaja +30%
-
-- ✅ Valor: ventaja +30% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.304 partidos)  
-Mapa: BOJONG 39% · Serie BO3: BOJONG 33% - 67% HAVU  
-Casas: BOJONG 18% · HAVU 82%  
-🔎 **Claves**  
-• Elo: BOJONG 1461 (66 series) | HAVU 1585 (379 series)  
-• Forma: BOJONG ❌❌✅✅✅ | HAVU ✅✅❌✅❌  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• BOJONG gana 2-1: 16% → cuota justa 6.37  
-• HAVU gana 2-1: 25% → cuota justa 4.01  
+Actualizado 27/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MIBR vs 100 Thieves — 28/11 · 08:00
 
