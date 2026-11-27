@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 13:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 13:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rakow vs Piast Gliwice — 27/11 · 18:00
 
@@ -2851,6 +2851,7 @@ Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%
 Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
 
 ## Lincoln vs Wolves — 28/11 · 13:30
 
@@ -2876,6 +2877,7 @@ Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%
 Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
 
 ## Preston vs Norwich — 28/11 · 13:30
 
@@ -2901,6 +2903,475 @@ Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%
 Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+
+## Blackburn vs Charlton — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.43 - 0.95)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
+• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
+• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
+• Favorito de las casas: Blackburn @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
+Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
+Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
+Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
+
+## Blackburn vs Charlton — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.43 - 0.95)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
+• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
+• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
+• Favorito de las casas: Blackburn @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
+Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
+Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
+Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
+
+## Blackburn vs Charlton — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 4.5 córners de Blackburn** @ **1.35** (Unibet) · prob 69% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.43 - 0.95)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
+• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
+• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
+• Favorito de las casas: Blackburn @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
+Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
+Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
+Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
+
+## Blackburn vs Charlton — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Blackburn** @ **1.38** (Unibet) · prob 66% vs casas 66% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.43 - 0.95)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
+• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
+• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
+• Favorito de las casas: Blackburn @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
+Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
+Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
+Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
+
+## Blackburn vs Charlton — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 2.5 córners de Charlton** @ **1.28** (Unibet) · prob 72% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.43 - 0.95)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
+• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
+• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
+• Favorito de las casas: Blackburn @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
+Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
+Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
+Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
+
+## Blackburn vs Charlton — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Charlton** @ **1.29** (Unibet) · prob 73% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.43 - 0.95)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
+• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
+• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
+• Favorito de las casas: Blackburn @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
+Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
+Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
+Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
+🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
+
+## Lincoln vs Wolves — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 9.5 córners** @ **1.71** (Unibet) · prob 57% vs casas 54% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.12 - 2.16)  
+1 16% · X 22% · 2 62%  
+1X 38% · X2 84% · 12 78%  
++1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
+• H2H: sin precedentes  
+• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
+• Favorito de las casas: Wolves @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
+Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
+Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
+Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Lincoln vs Wolves — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.12 - 2.16)  
+1 16% · X 22% · 2 62%  
+1X 38% · X2 84% · 12 78%  
++1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
+• H2H: sin precedentes  
+• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
+• Favorito de las casas: Wolves @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
+Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
+Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
+Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Lincoln vs Wolves — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 4.5 córners de Lincoln** @ **2.45** (Unibet) · prob 41% vs casas 37% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.12 - 2.16)  
+1 16% · X 22% · 2 62%  
+1X 38% · X2 84% · 12 78%  
++1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
+• H2H: sin precedentes  
+• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
+• Favorito de las casas: Wolves @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
+Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
+Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
+Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Lincoln vs Wolves — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Lincoln** @ **1.24** (Unibet) · prob 72% vs casas 74% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.12 - 2.16)  
+1 16% · X 22% · 2 62%  
+1X 38% · X2 84% · 12 78%  
++1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
+• H2H: sin precedentes  
+• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
+• Favorito de las casas: Wolves @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
+Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
+Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
+Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Lincoln vs Wolves — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 4.5 córners de Wolves** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.12 - 2.16)  
+1 16% · X 22% · 2 62%  
+1X 38% · X2 84% · 12 78%  
++1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
+• H2H: sin precedentes  
+• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
+• Favorito de las casas: Wolves @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
+Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
+Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
+Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Lincoln vs Wolves — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Wolves** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.12 - 2.16)  
+1 16% · X 22% · 2 62%  
+1X 38% · X2 84% · 12 78%  
++1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
+• H2H: sin precedentes  
+• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
+• Favorito de las casas: Wolves @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
+Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
+Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
+Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
+🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+
+## Preston vs Norwich — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 4.5 córners de Norwich** @ **1.40** (Unibet) · prob 64% vs casas 65% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.67)  
+1 21% · X 26% · 2 52%  
+1X 48% · X2 79% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
+• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
+• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
+• Favorito de las casas: Norwich @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
+Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
+Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
+Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+
+## Preston vs Norwich — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Norwich** @ **1.98** (Unibet) · prob 49% vs casas 46% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.67)  
+1 21% · X 26% · 2 52%  
+1X 48% · X2 79% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
+• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
+• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
+• Favorito de las casas: Norwich @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
+Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
+Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
+Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+
+## Preston vs Norwich — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 77% vs casas 74% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.67)  
+1 21% · X 26% · 2 52%  
+1X 48% · X2 79% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
+• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
+• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
+• Favorito de las casas: Norwich @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
+Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
+Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
+Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+
+## Preston vs Norwich — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.67)  
+1 21% · X 26% · 2 52%  
+1X 48% · X2 79% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
+• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
+• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
+• Favorito de las casas: Norwich @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
+Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
+Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
+Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+
+## Preston vs Norwich — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Más de 5.5 córners de Preston** @ **3.35** (Unibet) · prob 31% vs casas 27% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.67)  
+1 21% · X 26% · 2 52%  
+1X 48% · X2 79% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
+• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
+• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
+• Favorito de las casas: Norwich @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
+Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
+Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
+Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+
+## Preston vs Norwich — 28/11 · 13:30
+
+👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Preston** @ **1.26** (Unibet) · prob 69% vs casas 73% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.67)  
+1 21% · X 26% · 2 52%  
+1X 48% · X2 79% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
+• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
+• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
+• Favorito de las casas: Norwich @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
+Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
+Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
+Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
 
 ## Betis vs Vallecano — 28/11 · 14:00
 

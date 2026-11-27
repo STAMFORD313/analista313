@@ -83200,3 +83200,53 @@ id,tournament_id,club1,club2,ht1,ht2
 2401741,263352,Shanghai Shenhua,Shanghai Port,,
 2401742,263352,Shandong Taishan,Shanghai Shenhua,,
 2401743,263352,Chengdu Rongcheng,Beijing Guoan,,
+2402056,263284,Man Utd,Newcastle,2,1
+2402057,263284,Nottm Forest,Brighton,2,2
+2402058,263284,Brighton,Man Utd,2,1
+2402059,263284,Newcastle,Aston Villa,2,4
+2402060,263284,Aston Villa,Brighton,4,2
+2402061,263284,Man Utd,Nottm Forest,4,1
+2402062,263284,Nottm Forest,Aston Villa,2,3
+2402063,263284,Brighton,Newcastle,3,3
+2402064,263284,Newcastle,Nottm Forest,,
+2402065,263284,Aston Villa,Man Utd,,
+2402066,263284,Newcastle,Man Utd,,
+2402067,263284,Brighton,Nottm Forest,,
+2402068,263284,Man Utd,Brighton,,
+2402069,263284,Aston Villa,Newcastle,,
+2402070,263284,Brighton,Aston Villa,,
+2402071,263284,Nottm Forest,Man Utd,,
+2402072,263284,Aston Villa,Nottm Forest,,
+2402073,263284,Newcastle,Brighton,,
+2402074,263284,Nottm Forest,Newcastle,,
+2402075,263284,Man Utd,Aston Villa,,
+2402112,263327,Real Madrid,Paris,3,0
+2402113,263327,Bayern Munchen,Atleti,2,3
+2402114,263327,Bayern Munchen,Real Madrid,1,2
+2402115,263327,Atleti,Paris,6,3
+2402116,263327,Paris,Bayern Munchen,2,3
+2402117,263327,Atleti,Real Madrid,3,2
+2402118,263327,Real Madrid,Paris,2,0
+2402119,263327,Bayern Munchen,Atleti,3,2
+2402120,263327,Bayern Munchen,Real Madrid,,
+2402121,263327,Atleti,Paris,,
+2401154,263334,Bologna,Napoli,3,4
+2401155,263334,Sassuolo,Juventus,0,3
+2401156,263334,Juventus,Bologna,2,2
+2401157,263334,Napoli,Roma,3,1
+2401158,263334,Roma,Juventus,1,4
+2401159,263334,Bologna,Sassuolo,3,1
+2401160,263334,Sassuolo,Roma,1,2
+2401161,263334,Juventus,Napoli,2,3
+2401162,263334,Napoli,Sassuolo,1,2
+2401163,263334,Roma,Bologna,4,5
+2401164,263334,Napoli,Bologna,3,3
+2401165,263334,Juventus,Sassuolo,2,2
+2401166,263334,Bologna,Juventus,,
+2401167,263334,Roma,Napoli,,
+2401168,263334,Juventus,Roma,,
+2401169,263334,Sassuolo,Bologna,,
+2401170,263334,Roma,Sassuolo,,
+2401171,263334,Napoli,Juventus,,
+2401172,263334,Sassuolo,Napoli,,
+2401173,263334,Bologna,Roma,,
