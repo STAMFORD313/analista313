@@ -1,1016 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 20:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gornik Zabrze vs Wisla Plock — 27/11 · 20:30
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Gornik Zabrze** @ **1.48** (Bet365) · prob 65% vs casas 65% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.78 - 0.91)  
-1 59% · X 23% · 2 18%  
-1X 82% · X2 41% · 12 77%  
-+1.5 76% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Gornik Zabrze ➖➖➖✅❌ | Wisla Plock ✅❌➖❌❌  
-• H2H: 2 desde 2025: 1V-1E-0D · 1.5 goles/partido · +2.5 en 0%  
-• Bajas: Gornik Zabrze: sin bajas; Wisla Plock: sin bajas  
-• Favorito de las casas: Gornik Zabrze @ 1.48  
-
-## Werder Bremen vs M'gladbach — 27/11 · 20:30
-
-👀 candidata · 🇩🇪 Bundesliga · **M'gladbach +0.75 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 48% vs casas 48% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.71 - 1.41)  
-1 57% · X 24% · 2 18%  
-1X 82% · X2 43% · 12 76%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Werder Bremen ➖✅✅❌✅ | M'gladbach ❌✅➖❌❌  
-• H2H: 38 desde 2005: 8V-13E-17D · 3.6 goles/partido · +2.5 en 68%  
-• Bajas: Werder Bremen: 2 fuera, 6 duda (Keke Topp, Jens Stage); M'gladbach: 1 fuera, 4 duda (Enzo Leopold)  
-• Favorito de las casas: Werder Bremen @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 39% · Werder Bremen +5.5 50% · M'gladbach +4.5 35%  
-Tarjetas 1.8 - 2.0: total +3.5 53% · Werder Bremen +2.5 27% · M'gladbach +2.5 34%  
-Faltas 10.0 - 11.9: total +21.5 51% · Werder Bremen +10.5 42% · M'gladbach +10.5 63%  
-Tiros a puerta 7.3 - 3.9: total +10.5 55% · Werder Bremen +6.5 57% · M'gladbach +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 tiros a puerta de M'gladbach + Menos de 4.5 córners de M'gladbach → prob. 33%, cuota justa 3.00 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Werder Bremen + Menos de 4.5 tiros a puerta de M'gladbach + Menos de 4.5 córners de M'gladbach + Más de 10.5 faltas de M'gladbach + Más de 2.5 goles → prob. 11%, cuota justa 9.04  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Gana Sabadell** @ **3.25** (Bet365) · prob 30% vs casas 30% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Leganes** @ **2.85** (Unibet) · prob 37% vs casas 32% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Leganes** @ **1.33** (Unibet) · prob 63% vs casas 68% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 9.5 córners** @ **2.20** (Unibet) · prob 45% vs casas 42% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.34** (Unibet) · prob 65% vs casas 68% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Sabadell** @ **1.52** (Unibet) · prob 60% vs casas 60% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Leganes vs Sabadell — 27/11 · 20:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Sabadell** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 0.73)  
-1 41% · X 32% · 2 28%  
-1X 72% · X2 59% · 12 68%  
-+1.5 56% · +2.5 28% · +3.5 12% · Ambos marcan 36%  
-Marcadores: 1-0 17% · 0-0 16% · 1-1 14% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Leganes ➖❌❌✅✅ | Sabadell ➖❌➖❌➖  
-• H2H: 4 desde 2014: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Leganes: sin bajas; Sabadell: sin bajas  
-• Favorito de las casas: Leganes @ 2.38  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +9.5 49% · Leganes +5.5 42% · Sabadell +4.5 44%  
-Tarjetas 2.8 - 3.0: total +6.5 36% · Leganes +2.5 54% · Sabadell +3.5 34%  
-Faltas 12.9 - 16.2: total +26.5 66% · Leganes +13.5 42% · Sabadell +13.5 72%  
-Tiros a puerta 4.6 - 3.3: total +8.5 40% · Leganes +5.5 33% · Sabadell +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles → prob. 43%, cuota justa 2.32 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes → prob. 15%, cuota justa 6.59  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Leganes): cuota Unibet aprox. 2.07 (producto de piernas) · prob. 42% · ventaja -14%  
-
-## Oud-Heverlee Leuven vs Kortrijk — 27/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Gana Oud-Heverlee Leuven** @ **2.00** (Bwin) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.52 - 0.90)  
-1 55% · X 27% · 2 19%  
-1X 81% · X2 45% · 12 73%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 47%  
-Marcadores: 1-0 13% · 1-1 13% · 2-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Oud-Heverlee Leuven ➖➖✅✅❌ | Kortrijk ❌➖❌❌❌  
-• H2H: 18 desde 2011: 6V-6E-6D · 1.9 goles/partido · +2.5 en 33%  
-• Bajas: Oud-Heverlee Leuven: sin bajas; Kortrijk: sin bajas  
-• Favorito de las casas: Oud-Heverlee Leuven @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.5: total +10.5 45% · Oud-Heverlee Leuven +5.5 49% · Kortrijk +4.5 45%  
-Tarjetas 1.9 - 2.3: total +4.5 40% · Oud-Heverlee Leuven +2.5 29% · Kortrijk +2.5 41%  
-Faltas 11.3 - 13.3: total +22.5 64% · Oud-Heverlee Leuven +10.5 56% · Kortrijk +11.5 67%  
-Tiros a puerta 5.1 - 3.7: total +9.5 38% · Oud-Heverlee Leuven +5.5 40% · Kortrijk +4.5 31%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Oud-Heverlee Leuven + Menos de 4.5 tiros a puerta de Kortrijk + Más de 11.5 faltas de Kortrijk → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Oud-Heverlee Leuven + Menos de 4.5 tiros a puerta de Kortrijk + Más de 11.5 faltas de Kortrijk + Menos de 2.5 goles + Menos de 4.5 córners de Kortrijk → prob. 13%, cuota justa 7.84  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Brest +0.25 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 49% vs casas 48% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 3.5 córners de Paris FC** @ **2.85** (Unibet) · prob 37% vs casas 32% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Paris FC** @ **1.14** (Unibet) · prob 78% vs casas 80% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 4.5 córners de Brest** @ **2.30** (Unibet) · prob 43% vs casas 40% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Brest** @ **1.13** (Unibet) · prob 80% vs casas 81% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 10.5 córners** @ **1.41** (Unibet) · prob 68% vs casas 65% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Brest vs Paris FC — 27/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.19** (Unibet) · prob 77% vs casas 77% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 1.12)  
-1 36% · X 30% · 2 34%  
-1X 66% · X2 64% · 12 70%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 9% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Brest ➖❌✅✅✅ | Paris FC ✅❌✅✅✅  
-• H2H: 8 desde 2015: 3V-3E-2D · 2.0 goles/partido · +2.5 en 25%  
-• Bajas: Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)  
-• Favorito de las casas: Paris FC @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 4.3: total +10.5 30% · Brest +5.5 33% · Paris FC +4.5 42%  
-Tarjetas 1.7 - 2.1: total +4.5 34% · Brest +2.5 24% · Paris FC +2.5 36%  
-Faltas 12.5 - 12.1: total +24.5 49% · Brest +11.5 59% · Paris FC +12.5 43%  
-Tiros a puerta 4.7 - 3.8: total +9.5 34% · Brest +5.5 33% · Paris FC +4.5 33%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest → prob. 21%, cuota justa 4.76  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 53% · ventaja -4%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Bologna -0.25 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 48% vs casas 47% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.18** (Unibet) · prob 77% vs casas 78% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners** @ **1.70** (Unibet) · prob 57% vs casas 54% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Venezia** @ **1.05** (Unibet) · prob 88% vs casas 86% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Venezia** @ **1.71** (Unibet) · prob 56% vs casas 54% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Bologna** @ **1.18** (Unibet) · prob 78% vs casas 77% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Venezia vs Bologna — 27/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 8.5 córners de Bologna** @ **1.06** (Unibet) · prob 90% vs casas 87% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.98 - 1.55)  
-1 21% · X 27% · 2 52%  
-1X 48% · X2 79% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌❌❌✅❌ | Bologna ✅✅✅✅➖  
-• H2H: 4 desde 2021: 2V-0E-2D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)  
-• Favorito de las casas: Bologna @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.6: total +9.5 40% · Venezia +5.5 28% · Bologna +4.5 46%  
-Tarjetas 1.8 - 1.8: total +3.5 48% · Venezia +1.5 54% · Bologna +2.5 27%  
-Faltas 12.7 - 11.0: total +22.5 57% · Venezia +11.5 60% · Bologna +11.5 42%  
-Tiros a puerta 3.7 - 4.6: total +9.5 32% · Venezia +5.5 18% · Bologna +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia → prob. 46%, cuota justa 2.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia → prob. 28%, cuota justa 3.53  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 46% · ventaja -2%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 54% · ventaja -1%  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Gana Nott'm Forest** @ **2.50** (Betfred) · prob 39% vs casas 39% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Nott'm Forest** @ **1.15** (Unibet) · prob 81% vs casas 80% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Menos de 6.5 córners de Nott'm Forest** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 68% vs casas 66% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Más de 6.5 córners** @ **1.10** (Unibet) · prob 84% vs casas 83% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Chelsea** @ **1.14** (Unibet) · prob 80% vs casas 80% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Nott'm Forest vs Chelsea — 27/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Chelsea** @ **1.54** (Unibet) · prob 62% vs casas 60% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.26)  
-1 37% · X 29% · 2 33%  
-1X 67% · X2 63% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Nott'm Forest ❌➖❌✅❌ | Chelsea ✅❌✅❌❌  
-• H2H: 8 desde 2023: 2V-3E-3D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)  
-• Favorito de las casas: Nott'm Forest @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.9: total +10.5 40% · Nott'm Forest +5.5 38% · Chelsea +4.5 50%  
-Tarjetas 1.8 - 2.2: total +4.5 37% · Nott'm Forest +2.5 27% · Chelsea +2.5 38%  
-Faltas 12.9 - 10.7: total +22.5 57% · Nott'm Forest +11.5 63% · Chelsea +11.5 38%  
-Tiros a puerta 4.2 - 4.1: total +9.5 32% · Nott'm Forest +5.5 25% · Chelsea +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest → prob. 32%, cuota justa 3.16 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles → prob. 13%, cuota justa 7.51  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles): cuota Unibet aprox. 4.21 (producto de piernas) · prob. 33% · ventaja +40% → 1 u en la banca de simulación  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Southampton +0.25 (hándicap asiático)** @ **1.90** (mejor del mercado) · prob 52% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Middlesbrough** @ **1.26** (Unibet) · prob 70% vs casas 73% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Middlesbrough** @ **2.30** (Unibet) · prob 44% vs casas 40% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 5.5 córners de Southampton** @ **2.28** (Unibet) · prob 42% vs casas 40% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Southampton** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Southampton vs Middlesbrough — 27/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.33** (Unibet) · prob 72% vs casas 69% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 1.19)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Southampton ✅➖❌✅➖ | Middlesbrough ✅❌➖✅✅  
-• H2H: 8 desde 2011: 3V-2E-3D · 2.6 goles/partido · +2.5 en 62%  
-• Bajas: Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda  
-• Favorito de las casas: Middlesbrough @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 5.0: total +10.5 46% · Southampton +5.5 44% · Middlesbrough +4.5 52%  
-Tarjetas 1.7 - 1.9: total +4.5 30% · Southampton +2.5 25% · Middlesbrough +2.5 29%  
-Faltas 9.4 - 10.5: total +22.5 28% · Southampton +11.5 24% · Middlesbrough +11.5 36%  
-Tiros a puerta 4.5 - 4.6: total +8.5 56% · Southampton +4.5 47% · Middlesbrough +3.5 66%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough → prob. 39%, cuota justa 2.53 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton → prob. 15%, cuota justa 6.60  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles): cuota Unibet aprox. 2.14 (producto de piernas) · prob. 45% · ventaja -4%  
-
-## Levante vs Santander — 27/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 2.5 goles** @ **3.00** (Bet365) · prob 33% vs casas 33% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.55 - 1.42)  
-1 49% · X 25% · 2 25%  
-1X 75% · X2 51% · 12 75%  
-+1.5 91% · +2.5 76% · +3.5 56% · Ambos marcan 70%  
-Marcadores: 2-1 9% · 3-1 7% · 1-1 7% · 2-2 6%  
-🔎 **Claves**  
-• Forma: Levante ✅❌❌➖➖ | Santander ❌✅❌✅✅  
-• H2H: 14 desde 2007: 5V-5E-4D · 2.2 goles/partido · +2.5 en 29%  
-• Bajas: Levante: 0 fuera, 1 duda; Santander: 0 fuera, 3 duda  
-• Favorito de las casas: Levante @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Levante +5.5 50% · Santander +4.5 36%  
-Tarjetas 2.3 - 2.4: total +4.5 50% · Levante +2.5 40% · Santander +2.5 43%  
-Faltas 12.0 - 11.4: total +25.5 33% · Levante +12.5 43% · Santander +12.5 35%  
-Tiros a puerta 5.8 - 4.0: total +9.5 50% · Levante +5.5 50% · Santander +3.5 55%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 25.5 faltas + Menos de 4.5 córners de Santander → prob. 32%, cuota justa 3.10 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 25.5 faltas + Menos de 4.5 córners de Santander + Menos de 2.5 tarjetas de Levante → prob. 21%, cuota justa 4.70  
+Actualizado 27/11/2026 21:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maritimo vs Nacional — 27/11 · 21:15
 
@@ -10390,6 +9380,156 @@ Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
 
+## Osnabruck vs Hannover — 28/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Hannover** @ **1.58** (Unibet) · prob 57% vs casas 58% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.58)  
+1 25% · X 28% · 2 48%  
+1X 52% · X2 75% · 12 72%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
+• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Hannover @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
+Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
+Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
+Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+
+## Osnabruck vs Hannover — 28/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Hannover** @ **1.38** (Unibet) · prob 69% vs casas 67% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.58)  
+1 25% · X 28% · 2 48%  
+1X 52% · X2 75% · 12 72%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
+• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Hannover @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
+Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
+Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
+Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+
+## Osnabruck vs Hannover — 28/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.54** (Unibet) · prob 58% vs casas 60% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.58)  
+1 25% · X 28% · 2 48%  
+1X 52% · X2 75% · 12 72%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
+• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Hannover @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
+Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
+Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
+Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+
+## Osnabruck vs Hannover — 28/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.53** (Unibet) · prob 63% vs casas 60% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.58)  
+1 25% · X 28% · 2 48%  
+1X 52% · X2 75% · 12 72%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
+• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Hannover @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
+Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
+Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
+Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+
+## Osnabruck vs Hannover — 28/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Osnabruck** @ **1.67** (Unibet) · prob 54% vs casas 55% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.58)  
+1 25% · X 28% · 2 48%  
+1X 52% · X2 75% · 12 72%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
+• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Hannover @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
+Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
+Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
+Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+
+## Osnabruck vs Hannover — 28/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Osnabruck** @ **1.34** (Unibet) · prob 71% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.58)  
+1 25% · X 28% · 2 48%  
+1X 52% · X2 75% · 12 72%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
+• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Hannover @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
+Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
+Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
+Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+
 ## Charleroi vs Beveren — 28/11 · 20:45
 
 👀 candidata · 🇧🇪 Pro League · **Gana Charleroi** @ **1.53** (Bwin) · prob 63% vs casas 63% · ventaja -3%
@@ -10414,6 +9554,7 @@ Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%
 Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
 
 ## Lommel SK vs Waregem — 28/11 · 20:45
 
@@ -10439,6 +9580,7 @@ Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%
 Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
 
 ## Le Havre vs Strasbourg — 28/11 · 20:45
 
@@ -10464,6 +9606,7 @@ Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68
 Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
 🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
 
 ## Le Mans vs Lille — 28/11 · 20:45
 
@@ -10489,6 +9632,7 @@ Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%
 Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
 🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
 
 ## Nice vs Troyes — 28/11 · 20:45
 
@@ -10514,6 +9658,7 @@ Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%
 Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
 
 ## Paris SG vs Lorient — 28/11 · 20:45
 
@@ -10539,6 +9684,7 @@ Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%
 Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
 
 ## Inter vs Genoa — 28/11 · 20:45
 
@@ -10564,6 +9710,1106 @@ Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%
 Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
+
+## Charleroi vs Beveren — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Charleroi** @ **1.42** (Unibet) · prob 64% vs casas 64% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.38 - 1.04)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
+Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 8%  
+🔎 **Claves**  
+• Forma: Charleroi ✅❌✅✅➖ | Beveren ❌➖❌❌✅  
+• H2H: 4 desde 2005: 2V-2E-0D · 3.2 goles/partido · +2.5 en 75%  
+• Bajas: Charleroi: sin bajas; Beveren: sin bajas  
+• Favorito de las casas: Charleroi @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 41% · Charleroi +5.5 50% · Beveren +4.5 39%  
+Tarjetas 1.7 - 2.1: total +4.5 35% · Charleroi +2.5 25% · Beveren +2.5 36%  
+Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%  
+Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Charleroi vs Beveren — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 7.5 córners de Charleroi** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.38 - 1.04)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
+Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 8%  
+🔎 **Claves**  
+• Forma: Charleroi ✅❌✅✅➖ | Beveren ❌➖❌❌✅  
+• H2H: 4 desde 2005: 2V-2E-0D · 3.2 goles/partido · +2.5 en 75%  
+• Bajas: Charleroi: sin bajas; Beveren: sin bajas  
+• Favorito de las casas: Charleroi @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 41% · Charleroi +5.5 50% · Beveren +4.5 39%  
+Tarjetas 1.7 - 2.1: total +4.5 35% · Charleroi +2.5 25% · Beveren +2.5 36%  
+Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%  
+Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Charleroi vs Beveren — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.25** (Unibet) · prob 75% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.38 - 1.04)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
+Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 8%  
+🔎 **Claves**  
+• Forma: Charleroi ✅❌✅✅➖ | Beveren ❌➖❌❌✅  
+• H2H: 4 desde 2005: 2V-2E-0D · 3.2 goles/partido · +2.5 en 75%  
+• Bajas: Charleroi: sin bajas; Beveren: sin bajas  
+• Favorito de las casas: Charleroi @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 41% · Charleroi +5.5 50% · Beveren +4.5 39%  
+Tarjetas 1.7 - 2.1: total +4.5 35% · Charleroi +2.5 25% · Beveren +2.5 36%  
+Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%  
+Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Charleroi vs Beveren — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 67% vs casas 65% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.38 - 1.04)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
+Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 8%  
+🔎 **Claves**  
+• Forma: Charleroi ✅❌✅✅➖ | Beveren ❌➖❌❌✅  
+• H2H: 4 desde 2005: 2V-2E-0D · 3.2 goles/partido · +2.5 en 75%  
+• Bajas: Charleroi: sin bajas; Beveren: sin bajas  
+• Favorito de las casas: Charleroi @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 41% · Charleroi +5.5 50% · Beveren +4.5 39%  
+Tarjetas 1.7 - 2.1: total +4.5 35% · Charleroi +2.5 25% · Beveren +2.5 36%  
+Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%  
+Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Charleroi vs Beveren — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de Beveren** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.38 - 1.04)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
+Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 8%  
+🔎 **Claves**  
+• Forma: Charleroi ✅❌✅✅➖ | Beveren ❌➖❌❌✅  
+• H2H: 4 desde 2005: 2V-2E-0D · 3.2 goles/partido · +2.5 en 75%  
+• Bajas: Charleroi: sin bajas; Beveren: sin bajas  
+• Favorito de las casas: Charleroi @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 41% · Charleroi +5.5 50% · Beveren +4.5 39%  
+Tarjetas 1.7 - 2.1: total +4.5 35% · Charleroi +2.5 25% · Beveren +2.5 36%  
+Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%  
+Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Charleroi vs Beveren — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Beveren** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.38 - 1.04)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 59%  
+Marcadores: 2-1 10% · 2-0 9% · 1-1 9% · 3-1 8%  
+🔎 **Claves**  
+• Forma: Charleroi ✅❌✅✅➖ | Beveren ❌➖❌❌✅  
+• H2H: 4 desde 2005: 2V-2E-0D · 3.2 goles/partido · +2.5 en 75%  
+• Bajas: Charleroi: sin bajas; Beveren: sin bajas  
+• Favorito de las casas: Charleroi @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 41% · Charleroi +5.5 50% · Beveren +4.5 39%  
+Tarjetas 1.7 - 2.1: total +4.5 35% · Charleroi +2.5 25% · Beveren +2.5 36%  
+Faltas 10.0 - 11.3: total +22.5 39% · Charleroi +10.5 42% · Beveren +11.5 46%  
+Tiros a puerta 6.2 - 3.5: total +9.5 50% · Charleroi +5.5 56% · Beveren +4.5 29%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles → prob. 33%, cuota justa 3.06 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Charleroi + Menos de 4.5 tiros a puerta de Beveren + Más de 2.5 goles + Menos de 4.5 córners de Beveren + Menos de 22.5 faltas → prob. 14%, cuota justa 7.19  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 4.5 córners de Beveren): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Lommel SK vs Waregem — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Lommel SK** @ **1.40** (Unibet) · prob 68% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.57 - 0.97)  
+1 47% · X 28% · 2 24%  
+1X 76% · X2 53% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Lommel SK ✅➖✅➖❌ | Waregem ❌❌❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: Waregem @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +10.5 42% · Lommel SK +5.5 41% · Waregem +4.5 50%  
+Tarjetas 1.6 - 1.9: total +4.5 29% · Lommel SK +2.5 23% · Waregem +2.5 31%  
+Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
+
+## Lommel SK vs Waregem — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Lommel SK** @ **1.28** (Unibet) · prob 72% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.57 - 0.97)  
+1 47% · X 28% · 2 24%  
+1X 76% · X2 53% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Lommel SK ✅➖✅➖❌ | Waregem ❌❌❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: Waregem @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +10.5 42% · Lommel SK +5.5 41% · Waregem +4.5 50%  
+Tarjetas 1.6 - 1.9: total +4.5 29% · Lommel SK +2.5 23% · Waregem +2.5 31%  
+Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
+
+## Lommel SK vs Waregem — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.57 - 0.97)  
+1 47% · X 28% · 2 24%  
+1X 76% · X2 53% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Lommel SK ✅➖✅➖❌ | Waregem ❌❌❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: Waregem @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +10.5 42% · Lommel SK +5.5 41% · Waregem +4.5 50%  
+Tarjetas 1.6 - 1.9: total +4.5 29% · Lommel SK +2.5 23% · Waregem +2.5 31%  
+Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
+
+## Lommel SK vs Waregem — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 11.5 córners** @ **1.41** (Unibet) · prob 67% vs casas 65% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.57 - 0.97)  
+1 47% · X 28% · 2 24%  
+1X 76% · X2 53% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Lommel SK ✅➖✅➖❌ | Waregem ❌❌❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: Waregem @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +10.5 42% · Lommel SK +5.5 41% · Waregem +4.5 50%  
+Tarjetas 1.6 - 1.9: total +4.5 29% · Lommel SK +2.5 23% · Waregem +2.5 31%  
+Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
+
+## Lommel SK vs Waregem — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Waregem** @ **1.34** (Unibet) · prob 67% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.57 - 0.97)  
+1 47% · X 28% · 2 24%  
+1X 76% · X2 53% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Lommel SK ✅➖✅➖❌ | Waregem ❌❌❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: Waregem @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +10.5 42% · Lommel SK +5.5 41% · Waregem +4.5 50%  
+Tarjetas 1.6 - 1.9: total +4.5 29% · Lommel SK +2.5 23% · Waregem +2.5 31%  
+Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
+
+## Lommel SK vs Waregem — 28/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 4.5 córners de Waregem** @ **2.02** (Unibet) · prob 48% vs casas 45% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.57 - 0.97)  
+1 47% · X 28% · 2 24%  
+1X 76% · X2 53% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Lommel SK ✅➖✅➖❌ | Waregem ❌❌❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Lommel SK: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: Waregem @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.8: total +10.5 42% · Lommel SK +5.5 41% · Waregem +4.5 50%  
+Tarjetas 1.6 - 1.9: total +4.5 29% · Lommel SK +2.5 23% · Waregem +2.5 31%  
+Faltas 11.2 - 11.2: total +22.5 47% · Lommel SK +10.5 56% · Waregem +11.5 44%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Lommel SK +5.5 36% · Waregem +4.5 45%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lommel SK + Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK + Menos de 11.5 faltas de Waregem → prob. 18%, cuota justa 5.70  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Lommel SK + Menos de 5.5 córners de Lommel SK): cuota Unibet aprox. 1.94 (producto de piernas) · prob. 42% · ventaja -20%  
+
+## Le Havre vs Strasbourg — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Strasbourg** @ **1.23** (Unibet) · prob 72% vs casas 74% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.04 - 1.69)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Havre ❌❌❌❌❌ | Strasbourg ❌❌✅❌❌  
+• H2H: 12 desde 2006: 4V-2E-6D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Le Havre: 3 fuera, 5 duda (Junior Mwanga, Ayumu Seko, Felix Mambimbi); Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli)  
+• Favorito de las casas: Strasbourg @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 3.8: total +10.5 25% · Le Havre +5.5 34% · Strasbourg +4.5 34%  
+Tarjetas 1.8 - 2.0: total +4.5 33% · Le Havre +2.5 26% · Strasbourg +2.5 32%  
+Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68%  
+Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
+🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
+
+## Le Havre vs Strasbourg — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 3.5 córners de Strasbourg** @ **2.30** (Unibet) · prob 45% vs casas 40% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.04 - 1.69)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Havre ❌❌❌❌❌ | Strasbourg ❌❌✅❌❌  
+• H2H: 12 desde 2006: 4V-2E-6D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Le Havre: 3 fuera, 5 duda (Junior Mwanga, Ayumu Seko, Felix Mambimbi); Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli)  
+• Favorito de las casas: Strasbourg @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 3.8: total +10.5 25% · Le Havre +5.5 34% · Strasbourg +4.5 34%  
+Tarjetas 1.8 - 2.0: total +4.5 33% · Le Havre +2.5 26% · Strasbourg +2.5 32%  
+Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68%  
+Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
+🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
+
+## Le Havre vs Strasbourg — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.20** (Unibet) · prob 75% vs casas 76% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.04 - 1.69)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Havre ❌❌❌❌❌ | Strasbourg ❌❌✅❌❌  
+• H2H: 12 desde 2006: 4V-2E-6D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Le Havre: 3 fuera, 5 duda (Junior Mwanga, Ayumu Seko, Felix Mambimbi); Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli)  
+• Favorito de las casas: Strasbourg @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 3.8: total +10.5 25% · Le Havre +5.5 34% · Strasbourg +4.5 34%  
+Tarjetas 1.8 - 2.0: total +4.5 33% · Le Havre +2.5 26% · Strasbourg +2.5 32%  
+Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68%  
+Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
+🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
+
+## Le Havre vs Strasbourg — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 8.5 córners** @ **2.05** (Unibet) · prob 49% vs casas 45% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.04 - 1.69)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Havre ❌❌❌❌❌ | Strasbourg ❌❌✅❌❌  
+• H2H: 12 desde 2006: 4V-2E-6D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Le Havre: 3 fuera, 5 duda (Junior Mwanga, Ayumu Seko, Felix Mambimbi); Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli)  
+• Favorito de las casas: Strasbourg @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 3.8: total +10.5 25% · Le Havre +5.5 34% · Strasbourg +4.5 34%  
+Tarjetas 1.8 - 2.0: total +4.5 33% · Le Havre +2.5 26% · Strasbourg +2.5 32%  
+Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68%  
+Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
+🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
+
+## Le Havre vs Strasbourg — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Le Havre** @ **1.47** (Unibet) · prob 63% vs casas 62% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.04 - 1.69)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Havre ❌❌❌❌❌ | Strasbourg ❌❌✅❌❌  
+• H2H: 12 desde 2006: 4V-2E-6D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Le Havre: 3 fuera, 5 duda (Junior Mwanga, Ayumu Seko, Felix Mambimbi); Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli)  
+• Favorito de las casas: Strasbourg @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 3.8: total +10.5 25% · Le Havre +5.5 34% · Strasbourg +4.5 34%  
+Tarjetas 1.8 - 2.0: total +4.5 33% · Le Havre +2.5 26% · Strasbourg +2.5 32%  
+Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68%  
+Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
+🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
+
+## Le Havre vs Strasbourg — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 7.5 córners de Le Havre** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.04 - 1.69)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Havre ❌❌❌❌❌ | Strasbourg ❌❌✅❌❌  
+• H2H: 12 desde 2006: 4V-2E-6D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Le Havre: 3 fuera, 5 duda (Junior Mwanga, Ayumu Seko, Felix Mambimbi); Strasbourg: 1 fuera, 5 duda (Joaquin Panichelli)  
+• Favorito de las casas: Strasbourg @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 3.8: total +10.5 25% · Le Havre +5.5 34% · Strasbourg +4.5 34%  
+Tarjetas 1.8 - 2.0: total +4.5 33% · Le Havre +2.5 26% · Strasbourg +2.5 32%  
+Faltas 13.0 - 14.6: total +24.5 70% · Le Havre +11.5 64% · Strasbourg +12.5 68%  
+Tiros a puerta 4.8 - 4.7: total +9.5 47% · Le Havre +5.5 35% · Strasbourg +4.5 50%  
+🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre + Más de 24.5 faltas + Menos de 5.5 tiros a puerta de Le Havre → prob. 25%, cuota justa 3.94  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Le Havre): cuota Unibet aprox. 1.97 (producto de piernas) · prob. 56% · ventaja +10% → 1 u en la banca de simulación  
+
+## Le Mans vs Lille — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.21** (Unibet) · prob 76% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.63)  
+1 20% · X 27% · 2 53%  
+1X 47% · X2 80% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Mans ❌➖❌➖✅ | Lille ➖➖✅✅❌  
+• H2H: 10 desde 2005: 2V-4E-4D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Le Mans: 0 fuera, 1 duda; Lille: 1 fuera, 2 duda (Hamza Igamane)  
+• Favorito de las casas: Lille @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.7: total +10.5 29% · Le Mans +5.5 28% · Lille +4.5 48%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Le Mans +2.5 32% · Lille +2.5 34%  
+Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%  
+Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
+🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Le Mans vs Lille — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 11.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.63)  
+1 20% · X 27% · 2 53%  
+1X 47% · X2 80% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Mans ❌➖❌➖✅ | Lille ➖➖✅✅❌  
+• H2H: 10 desde 2005: 2V-4E-4D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Le Mans: 0 fuera, 1 duda; Lille: 1 fuera, 2 duda (Hamza Igamane)  
+• Favorito de las casas: Lille @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.7: total +10.5 29% · Le Mans +5.5 28% · Lille +4.5 48%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Le Mans +2.5 32% · Lille +2.5 34%  
+Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%  
+Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
+🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Le Mans vs Lille — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Le Mans** @ **1.68** (Unibet) · prob 56% vs casas 55% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.63)  
+1 20% · X 27% · 2 53%  
+1X 47% · X2 80% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Mans ❌➖❌➖✅ | Lille ➖➖✅✅❌  
+• H2H: 10 desde 2005: 2V-4E-4D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Le Mans: 0 fuera, 1 duda; Lille: 1 fuera, 2 duda (Hamza Igamane)  
+• Favorito de las casas: Lille @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.7: total +10.5 29% · Le Mans +5.5 28% · Lille +4.5 48%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Le Mans +2.5 32% · Lille +2.5 34%  
+Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%  
+Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
+🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Le Mans vs Lille — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Le Mans** @ **1.13** (Unibet) · prob 82% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.63)  
+1 20% · X 27% · 2 53%  
+1X 47% · X2 80% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Mans ❌➖❌➖✅ | Lille ➖➖✅✅❌  
+• H2H: 10 desde 2005: 2V-4E-4D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Le Mans: 0 fuera, 1 duda; Lille: 1 fuera, 2 duda (Hamza Igamane)  
+• Favorito de las casas: Lille @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.7: total +10.5 29% · Le Mans +5.5 28% · Lille +4.5 48%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Le Mans +2.5 32% · Lille +2.5 34%  
+Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%  
+Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
+🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Le Mans vs Lille — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Lille** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.63)  
+1 20% · X 27% · 2 53%  
+1X 47% · X2 80% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Mans ❌➖❌➖✅ | Lille ➖➖✅✅❌  
+• H2H: 10 desde 2005: 2V-4E-4D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Le Mans: 0 fuera, 1 duda; Lille: 1 fuera, 2 duda (Hamza Igamane)  
+• Favorito de las casas: Lille @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.7: total +10.5 29% · Le Mans +5.5 28% · Lille +4.5 48%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Le Mans +2.5 32% · Lille +2.5 34%  
+Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%  
+Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
+🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Le Mans vs Lille — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Lille** @ **1.91** (Unibet) · prob 50% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.63)  
+1 20% · X 27% · 2 53%  
+1X 47% · X2 80% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 10% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Le Mans ❌➖❌➖✅ | Lille ➖➖✅✅❌  
+• H2H: 10 desde 2005: 2V-4E-4D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Le Mans: 0 fuera, 1 duda; Lille: 1 fuera, 2 duda (Hamza Igamane)  
+• Favorito de las casas: Lille @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.7: total +10.5 29% · Le Mans +5.5 28% · Lille +4.5 48%  
+Tarjetas 2.0 - 2.1: total +4.5 38% · Le Mans +2.5 32% · Lille +2.5 34%  
+Faltas 14.5 - 11.1: total +24.5 56% · Le Mans +11.5 76% · Lille +12.5 33%  
+Tiros a puerta 4.1 - 4.6: total +9.5 38% · Le Mans +5.5 24% · Lille +4.5 48%  
+🧩 Crear apuesta: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans → prob. 29%, cuota justa 3.49  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Le Mans + Menos de 2.5 tarjetas de Le Mans): cuota Unibet aprox. 1.89 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Nice vs Troyes — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.18** (Unibet) · prob 81% vs casas 78% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.92)  
+1 52% · X 26% · 2 21%  
+1X 79% · X2 48% · 12 74%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Nice ❌✅✅✅❌ | Troyes ❌➖✅❌✅  
+• H2H: 14 desde 2005: 8V-3E-3D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Nice: 2 fuera, 3 duda (Antoine Mendy, Laurent Abergel); Troyes: 1 fuera, 1 duda (Michel Diaz)  
+• Favorito de las casas: Nice @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +10.5 38% · Nice +5.5 48% · Troyes +4.5 37%  
+Tarjetas 1.9 - 1.8: total +4.5 32% · Nice +2.5 30% · Troyes +2.5 27%  
+Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%  
+Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
+
+## Nice vs Troyes — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 12.5 córners** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.92)  
+1 52% · X 26% · 2 21%  
+1X 79% · X2 48% · 12 74%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Nice ❌✅✅✅❌ | Troyes ❌➖✅❌✅  
+• H2H: 14 desde 2005: 8V-3E-3D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Nice: 2 fuera, 3 duda (Antoine Mendy, Laurent Abergel); Troyes: 1 fuera, 1 duda (Michel Diaz)  
+• Favorito de las casas: Nice @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +10.5 38% · Nice +5.5 48% · Troyes +4.5 37%  
+Tarjetas 1.9 - 1.8: total +4.5 32% · Nice +2.5 30% · Troyes +2.5 27%  
+Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%  
+Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
+
+## Nice vs Troyes — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 5.5 córners de Nice** @ **2.14** (Unibet) · prob 45% vs casas 43% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.92)  
+1 52% · X 26% · 2 21%  
+1X 79% · X2 48% · 12 74%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Nice ❌✅✅✅❌ | Troyes ❌➖✅❌✅  
+• H2H: 14 desde 2005: 8V-3E-3D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Nice: 2 fuera, 3 duda (Antoine Mendy, Laurent Abergel); Troyes: 1 fuera, 1 duda (Michel Diaz)  
+• Favorito de las casas: Nice @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +10.5 38% · Nice +5.5 48% · Troyes +4.5 37%  
+Tarjetas 1.9 - 1.8: total +4.5 32% · Nice +2.5 30% · Troyes +2.5 27%  
+Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%  
+Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
+
+## Nice vs Troyes — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 7.5 córners de Nice** @ **1.19** (Unibet) · prob 76% vs casas 77% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.92)  
+1 52% · X 26% · 2 21%  
+1X 79% · X2 48% · 12 74%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Nice ❌✅✅✅❌ | Troyes ❌➖✅❌✅  
+• H2H: 14 desde 2005: 8V-3E-3D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Nice: 2 fuera, 3 duda (Antoine Mendy, Laurent Abergel); Troyes: 1 fuera, 1 duda (Michel Diaz)  
+• Favorito de las casas: Nice @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +10.5 38% · Nice +5.5 48% · Troyes +4.5 37%  
+Tarjetas 1.9 - 1.8: total +4.5 32% · Nice +2.5 30% · Troyes +2.5 27%  
+Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%  
+Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
+
+## Nice vs Troyes — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Troyes** @ **1.28** (Unibet) · prob 72% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.92)  
+1 52% · X 26% · 2 21%  
+1X 79% · X2 48% · 12 74%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Nice ❌✅✅✅❌ | Troyes ❌➖✅❌✅  
+• H2H: 14 desde 2005: 8V-3E-3D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Nice: 2 fuera, 3 duda (Antoine Mendy, Laurent Abergel); Troyes: 1 fuera, 1 duda (Michel Diaz)  
+• Favorito de las casas: Nice @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +10.5 38% · Nice +5.5 48% · Troyes +4.5 37%  
+Tarjetas 1.9 - 1.8: total +4.5 32% · Nice +2.5 30% · Troyes +2.5 27%  
+Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%  
+Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
+
+## Nice vs Troyes — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Troyes** @ **1.14** (Unibet) · prob 83% vs casas 80% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.92)  
+1 52% · X 26% · 2 21%  
+1X 79% · X2 48% · 12 74%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Nice ❌✅✅✅❌ | Troyes ❌➖✅❌✅  
+• H2H: 14 desde 2005: 8V-3E-3D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Nice: 2 fuera, 3 duda (Antoine Mendy, Laurent Abergel); Troyes: 1 fuera, 1 duda (Michel Diaz)  
+• Favorito de las casas: Nice @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +10.5 38% · Nice +5.5 48% · Troyes +4.5 37%  
+Tarjetas 1.9 - 1.8: total +4.5 32% · Nice +2.5 30% · Troyes +2.5 27%  
+Faltas 10.6 - 11.7: total +24.5 32% · Nice +11.5 38% · Troyes +12.5 39%  
+Tiros a puerta 5.4 - 3.3: total +9.5 39% · Nice +5.5 45% · Troyes +4.5 25%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas → prob. 39%, cuota justa 2.58 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Troyes + Menos de 24.5 faltas + Menos de 4.5 córners de Troyes → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Troyes + Menos de 4.5 córners de Troyes): cuota Unibet aprox. 2.11 (producto de piernas) · prob. 45% · ventaja -4%  
+
+## Paris SG vs Lorient — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 13.5 córners** @ **1.11** (Unibet) · prob 83% vs casas 82% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.79)  
+1 77% · X 16% · 2 7%  
+1X 93% · X2 23% · 12 84%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Lorient ✅➖❌✅➖  
+• H2H: 32 desde 2006: 17V-8E-7D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Paris SG: 2 fuera, 0 duda (Desire Doue, K. Kvaratskhelia); Lorient: 1 fuera, 3 duda (Bandiougou Fadiga)  
+• Favorito de las casas: Paris SG @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.4 - 2.8: total +10.5 43% · Paris SG +5.5 67% · Lorient +4.5 17%  
+Tarjetas 1.5 - 1.9: total +4.5 26% · Paris SG +2.5 19% · Lorient +2.5 29%  
+Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%  
+Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
+
+## Paris SG vs Lorient — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 9.5 córners** @ **1.86** (Unibet) · prob 52% vs casas 50% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.79)  
+1 77% · X 16% · 2 7%  
+1X 93% · X2 23% · 12 84%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Lorient ✅➖❌✅➖  
+• H2H: 32 desde 2006: 17V-8E-7D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Paris SG: 2 fuera, 0 duda (Desire Doue, K. Kvaratskhelia); Lorient: 1 fuera, 3 duda (Bandiougou Fadiga)  
+• Favorito de las casas: Paris SG @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.4 - 2.8: total +10.5 43% · Paris SG +5.5 67% · Lorient +4.5 17%  
+Tarjetas 1.5 - 1.9: total +4.5 26% · Paris SG +2.5 19% · Lorient +2.5 29%  
+Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%  
+Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
+
+## Paris SG vs Lorient — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners de Paris SG** @ **2.18** (Unibet) · prob 43% vs casas 42% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.79)  
+1 77% · X 16% · 2 7%  
+1X 93% · X2 23% · 12 84%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Lorient ✅➖❌✅➖  
+• H2H: 32 desde 2006: 17V-8E-7D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Paris SG: 2 fuera, 0 duda (Desire Doue, K. Kvaratskhelia); Lorient: 1 fuera, 3 duda (Bandiougou Fadiga)  
+• Favorito de las casas: Paris SG @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.4 - 2.8: total +10.5 43% · Paris SG +5.5 67% · Lorient +4.5 17%  
+Tarjetas 1.5 - 1.9: total +4.5 26% · Paris SG +2.5 19% · Lorient +2.5 29%  
+Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%  
+Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
+
+## Paris SG vs Lorient — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 11.5 córners de Paris SG** @ **1.06** (Unibet) · prob 87% vs casas 86% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.79)  
+1 77% · X 16% · 2 7%  
+1X 93% · X2 23% · 12 84%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Lorient ✅➖❌✅➖  
+• H2H: 32 desde 2006: 17V-8E-7D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Paris SG: 2 fuera, 0 duda (Desire Doue, K. Kvaratskhelia); Lorient: 1 fuera, 3 duda (Bandiougou Fadiga)  
+• Favorito de las casas: Paris SG @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.4 - 2.8: total +10.5 43% · Paris SG +5.5 67% · Lorient +4.5 17%  
+Tarjetas 1.5 - 1.9: total +4.5 26% · Paris SG +2.5 19% · Lorient +2.5 29%  
+Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%  
+Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
+
+## Paris SG vs Lorient — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Lorient** @ **2.02** (Unibet) · prob 48% vs casas 46% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.79)  
+1 77% · X 16% · 2 7%  
+1X 93% · X2 23% · 12 84%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Lorient ✅➖❌✅➖  
+• H2H: 32 desde 2006: 17V-8E-7D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Paris SG: 2 fuera, 0 duda (Desire Doue, K. Kvaratskhelia); Lorient: 1 fuera, 3 duda (Bandiougou Fadiga)  
+• Favorito de las casas: Paris SG @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.4 - 2.8: total +10.5 43% · Paris SG +5.5 67% · Lorient +4.5 17%  
+Tarjetas 1.5 - 1.9: total +4.5 26% · Paris SG +2.5 19% · Lorient +2.5 29%  
+Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%  
+Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
+
+## Paris SG vs Lorient — 28/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Lorient** @ **1.10** (Unibet) · prob 83% vs casas 83% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.79)  
+1 77% · X 16% · 2 7%  
+1X 93% · X2 23% · 12 84%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 49%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Lorient ✅➖❌✅➖  
+• H2H: 32 desde 2006: 17V-8E-7D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Paris SG: 2 fuera, 0 duda (Desire Doue, K. Kvaratskhelia); Lorient: 1 fuera, 3 duda (Bandiougou Fadiga)  
+• Favorito de las casas: Paris SG @ 1.23  
+📐 **Estadísticas esperadas**  
+Córners 7.4 - 2.8: total +10.5 43% · Paris SG +5.5 67% · Lorient +4.5 17%  
+Tarjetas 1.5 - 1.9: total +4.5 26% · Paris SG +2.5 19% · Lorient +2.5 29%  
+Faltas 9.9 - 9.8: total +24.5 16% · Paris SG +11.5 29% · Lorient +12.5 20%  
+Tiros a puerta 7.6 - 2.5: total +9.5 55% · Paris SG +5.5 74% · Lorient +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient → prob. 62%, cuota justa 1.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Lorient + Menos de 24.5 faltas + Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG + Más de 2.5 goles → prob. 28%, cuota justa 3.53  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lorient + Menos de 2.5 tarjetas de Paris SG): cuota Unibet aprox. 1.26 (producto de piernas) · prob. 68% · ventaja -15%  
+
+## Inter vs Genoa — 28/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 66% vs casas 64% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.69)  
+1 78% · X 16% · 2 7%  
+1X 93% · X2 22% · 12 84%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 44%  
+Marcadores: 2-0 14% · 1-0 12% · 3-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅❌✅➖ | Genoa ✅✅✅❌✅  
+• H2H: 36 desde 2007: 23V-8E-5D · 2.6 goles/partido · +2.5 en 42%  
+• Bajas: Inter: 0 fuera, 3 duda; Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)  
+• Favorito de las casas: Inter @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.8: total +9.5 57% · Inter +5.5 68% · Genoa +4.5 17%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Inter +1.5 40% · Genoa +2.5 26%  
+Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%  
+Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
+
+## Inter vs Genoa — 28/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.14** (Unibet) · prob 82% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.69)  
+1 78% · X 16% · 2 7%  
+1X 93% · X2 22% · 12 84%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 44%  
+Marcadores: 2-0 14% · 1-0 12% · 3-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅❌✅➖ | Genoa ✅✅✅❌✅  
+• H2H: 36 desde 2007: 23V-8E-5D · 2.6 goles/partido · +2.5 en 42%  
+• Bajas: Inter: 0 fuera, 3 duda; Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)  
+• Favorito de las casas: Inter @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.8: total +9.5 57% · Inter +5.5 68% · Genoa +4.5 17%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Inter +1.5 40% · Genoa +2.5 26%  
+Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%  
+Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
+
+## Inter vs Genoa — 28/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 4.5 córners de Inter** @ **1.19** (Unibet) · prob 78% vs casas 77% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.69)  
+1 78% · X 16% · 2 7%  
+1X 93% · X2 22% · 12 84%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 44%  
+Marcadores: 2-0 14% · 1-0 12% · 3-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅❌✅➖ | Genoa ✅✅✅❌✅  
+• H2H: 36 desde 2007: 23V-8E-5D · 2.6 goles/partido · +2.5 en 42%  
+• Bajas: Inter: 0 fuera, 3 duda; Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)  
+• Favorito de las casas: Inter @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.8: total +9.5 57% · Inter +5.5 68% · Genoa +4.5 17%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Inter +1.5 40% · Genoa +2.5 26%  
+Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%  
+Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
+
+## Inter vs Genoa — 28/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 10.5 córners de Inter** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.69)  
+1 78% · X 16% · 2 7%  
+1X 93% · X2 22% · 12 84%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 44%  
+Marcadores: 2-0 14% · 1-0 12% · 3-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅❌✅➖ | Genoa ✅✅✅❌✅  
+• H2H: 36 desde 2007: 23V-8E-5D · 2.6 goles/partido · +2.5 en 42%  
+• Bajas: Inter: 0 fuera, 3 duda; Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)  
+• Favorito de las casas: Inter @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.8: total +9.5 57% · Inter +5.5 68% · Genoa +4.5 17%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Inter +1.5 40% · Genoa +2.5 26%  
+Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%  
+Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
+
+## Inter vs Genoa — 28/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Genoa** @ **1.94** (Unibet) · prob 49% vs casas 47% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.69)  
+1 78% · X 16% · 2 7%  
+1X 93% · X2 22% · 12 84%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 44%  
+Marcadores: 2-0 14% · 1-0 12% · 3-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅❌✅➖ | Genoa ✅✅✅❌✅  
+• H2H: 36 desde 2007: 23V-8E-5D · 2.6 goles/partido · +2.5 en 42%  
+• Bajas: Inter: 0 fuera, 3 duda; Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)  
+• Favorito de las casas: Inter @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.8: total +9.5 57% · Inter +5.5 68% · Genoa +4.5 17%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Inter +1.5 40% · Genoa +2.5 26%  
+Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%  
+Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
+
+## Inter vs Genoa — 28/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Genoa** @ **1.13** (Unibet) · prob 82% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.69)  
+1 78% · X 16% · 2 7%  
+1X 93% · X2 22% · 12 84%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 44%  
+Marcadores: 2-0 14% · 1-0 12% · 3-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅❌✅➖ | Genoa ✅✅✅❌✅  
+• H2H: 36 desde 2007: 23V-8E-5D · 2.6 goles/partido · +2.5 en 42%  
+• Bajas: Inter: 0 fuera, 3 duda; Genoa: 2 fuera, 1 duda (Vitinha, Joi Xheto Nuredini)  
+• Favorito de las casas: Inter @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.8: total +9.5 57% · Inter +5.5 68% · Genoa +4.5 17%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Inter +1.5 40% · Genoa +2.5 26%  
+Faltas 12.6 - 9.7: total +22.5 47% · Inter +11.5 59% · Genoa +11.5 28%  
+Tiros a puerta 7.3 - 2.7: total +9.5 53% · Inter +5.5 70% · Genoa +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa → prob. 53%, cuota justa 1.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genoa + Menos de 4.5 córners de Genoa + Menos de 2.5 tarjetas de Genoa + Menos de 11.5 faltas de Genoa → prob. 41%, cuota justa 2.47  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 53% · ventaja +17% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Genoa + Menos de 2.5 tarjetas de Genoa): cuota Unibet aprox. 1.96 (producto de piernas) · prob. 63% · ventaja +23% → 1 u en la banca de simulación  
 
 ## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
 

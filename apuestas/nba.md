@@ -1,33 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 20:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Baylor Bears vs TCU Horned Frogs — 27/11 · 21:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 154.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **160.0** puntos · línea 154.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Baylor Bears ✅❌✅✅❌ | TCU Horned Frogs ✅✅❌✅❌  
-• H2H: 20 desde 2017: 10-9  
-• Bajas: Baylor Bears: sin bajas; TCU Horned Frogs: sin bajas  
-
-## Baylor Bears vs TCU Horned Frogs — 27/11 · 21:00
-
-👀 candidata · 🏀 NCAA Basketball · **Baylor Bears -4.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Baylor Bears cubre -4.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Baylor Bears ✅❌✅✅❌ | TCU Horned Frogs ✅✅❌✅❌  
-• H2H: 20 desde 2017: 10-9  
-• Bajas: Baylor Bears: sin bajas; TCU Horned Frogs: sin bajas  
+Actualizado 27/11/2026 21:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oregon Ducks vs Maryland Terrapins — 27/11 · 21:30
 
