@@ -83332,3 +83332,32 @@ id,date,tournament_id,league,p1,p2,s1,s2
 2402175,2026-11-27T14:52:00Z,263335,Champions League B,Mbaba,Djape,3.0,0.0
 2402176,2026-11-27T15:04:00Z,263335,Champions League B,Djape,mixes,4.0,0.0
 2402177,2026-11-27T15:04:00Z,263335,Champions League B,Joop,cosske,3.0,2.0
+2402134,2026-11-27T15:18:00Z,263318,International A 2x6,Lufy,steeffant,3.0,5.0
+2402135,2026-11-27T15:18:00Z,263318,International A 2x6,Bosko,Buu,4.0,4.0
+2402136,2026-11-27T15:36:00Z,263318,International A 2x6,steeffant,Bosko,4.0,0.0
+2402137,2026-11-27T15:36:00Z,263318,International A 2x6,Piljar,Lufy,8.0,5.0
+2401770,2026-11-27T15:16:00Z,263358,Eredivisie,ramzes,kanufriev,1.0,5.0
+2401771,2026-11-27T15:16:00Z,263358,Eredivisie,Shinobu,Gazi,1.0,3.0
+2401772,2026-11-27T15:28:00Z,263358,Eredivisie,kanufriev,Shinobu,4.0,4.0
+2401773,2026-11-27T15:28:00Z,263358,Eredivisie,astroboy,ramzes,2.0,5.0
+2402384,2026-11-27T15:22:00Z,263274,Serie A,Gaga,Lx7ss,2.0,6.0
+2402385,2026-11-27T15:22:00Z,263274,Serie A,maggett0,Jokadinho,3.0,3.0
+2402386,2026-11-27T15:34:00Z,263274,Serie A,Lx7ss,maggett0,5.0,3.0
+2402387,2026-11-27T15:34:00Z,263274,Serie A,Int1liGenT,Gaga,3.0,3.0
+2402240,2026-11-27T15:13:00Z,263351,Europa League,pikalicaaa,Lukapaja,1.0,4.0
+2402241,2026-11-27T15:13:00Z,263351,Europa League,Sena,Linox,4.0,2.0
+2402242,2026-11-27T15:25:00Z,263351,Europa League,pikalicaaa,Linox,1.0,2.0
+2402243,2026-11-27T15:25:00Z,263351,Europa League,Firminho,Lukapaja,6.0,2.0
+2402244,2026-11-27T15:37:00Z,263351,Europa League,Linox,Firminho,2.0,4.0
+2402245,2026-11-27T15:37:00Z,263351,Europa League,Sena,pikalicaaa,2.0,3.0
+2402178,2026-11-27T15:16:00Z,263335,Champions League B,cosske,Djape,6.0,4.0
+2402179,2026-11-27T15:16:00Z,263335,Champions League B,mixes,Mbaba,5.0,2.0
+2402180,2026-11-27T15:28:00Z,263335,Champions League B,Mbaba,cosske,2.0,3.0
+2402181,2026-11-27T15:28:00Z,263335,Champions League B,Djape,Joop,3.0,4.0
+2402182,2026-11-27T15:40:00Z,263335,Champions League B,Mbaba,Joop,3.0,4.0
+2401434,2026-11-27T15:20:00Z,263320,Volta Premier League,Bob,Mapiston,5.0,2.0
+2401435,2026-11-27T15:20:00Z,263320,Volta Premier League,Stasyan,Groma,3.0,3.0
+2401436,2026-11-27T15:29:00Z,263320,Volta Premier League,Groma,Bob,2.0,3.0
+2401437,2026-11-27T15:29:00Z,263320,Volta Premier League,Mapiston,Sheva,3.0,6.0
+2401438,2026-11-27T15:38:00Z,263320,Volta Premier League,Sheva,Groma,5.0,2.0
+2401439,2026-11-27T15:38:00Z,263320,Volta Premier League,Bob,Stasyan,2.0,0.0

@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 16:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rakow vs Piast Gliwice — 27/11 · 18:00
 
@@ -8264,6 +8264,7 @@ Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%
 Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
 
 ## Arouca vs Rio Ave — 28/11 · 16:30
 
@@ -8296,6 +8297,462 @@ Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.08)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
+• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
+• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
+• Favorito de las casas: Santa Clara @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
+Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
+Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
+Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+
+## Excelsior vs Telstar — 28/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 6.5 córners de Excelsior** @ **2.70** (Unibet) · prob 36% vs casas 34% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.41)  
+1 34% · X 29% · 2 38%  
+1X 62% · X2 66% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
+• Favorito de las casas: Excelsior @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
+Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
+Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
+Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
+
+## Excelsior vs Telstar — 28/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de Excelsior** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.41)  
+1 34% · X 29% · 2 38%  
+1X 62% · X2 66% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
+• Favorito de las casas: Excelsior @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
+Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
+Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
+Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
+
+## Excelsior vs Telstar — 28/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.27** (Unibet) · prob 74% vs casas 72% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.41)  
+1 34% · X 29% · 2 38%  
+1X 62% · X2 66% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
+• Favorito de las casas: Excelsior @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
+Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
+Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
+Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
+
+## Excelsior vs Telstar — 28/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 12.5 córners** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.41)  
+1 34% · X 29% · 2 38%  
+1X 62% · X2 66% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
+• Favorito de las casas: Excelsior @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
+Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
+Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
+Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
+
+## Excelsior vs Telstar — 28/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Telstar** @ **1.25** (Unibet) · prob 72% vs casas 73% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.41)  
+1 34% · X 29% · 2 38%  
+1X 62% · X2 66% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
+• Favorito de las casas: Excelsior @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
+Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
+Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
+Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
+
+## Excelsior vs Telstar — 28/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Telstar** @ **1.62** (Unibet) · prob 59% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.16 - 1.41)  
+1 34% · X 29% · 2 38%  
+1X 62% · X2 66% · 12 71%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
+• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
+• Favorito de las casas: Excelsior @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
+Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
+Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
+Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
+
+## Arouca vs Rio Ave — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Rio Ave** @ **1.74** (Unibet) · prob 50% vs casas 53% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.04)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
+• Favorito de las casas: Arouca @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
+Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
+Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
+Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
+
+## Arouca vs Rio Ave — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Rio Ave** @ **1.48** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.04)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
+• Favorito de las casas: Arouca @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
+Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
+Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
+Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
+
+## Arouca vs Rio Ave — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 61% vs casas 61% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.04)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
+• Favorito de las casas: Arouca @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
+Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
+Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
+Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
+
+## Arouca vs Rio Ave — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.04)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
+• Favorito de las casas: Arouca @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
+Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
+Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
+Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
+
+## Arouca vs Rio Ave — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 5.5 córners de Arouca** @ **1.90** (Unibet) · prob 50% vs casas 48% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.04)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
+• Favorito de las casas: Arouca @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
+Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
+Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
+Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
+
+## Arouca vs Rio Ave — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Arouca** @ **1.46** (Unibet) · prob 62% vs casas 63% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.04)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
+• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
+• Favorito de las casas: Arouca @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
+Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
+Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
+Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
+
+## Moreirense vs Santa Clara — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Moreirense** @ **1.64** (Unibet) · prob 57% vs casas 56% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.08)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
+• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
+• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
+• Favorito de las casas: Santa Clara @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
+Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
+Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
+Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+
+## Moreirense vs Santa Clara — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Moreirense** @ **1.57** (Unibet) · prob 58% vs casas 58% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.08)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
+• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
+• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
+• Favorito de las casas: Santa Clara @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
+Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
+Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
+Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+
+## Moreirense vs Santa Clara — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Santa Clara** @ **1.44** (Unibet) · prob 62% vs casas 64% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.08)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
+• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
+• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
+• Favorito de las casas: Santa Clara @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
+Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
+Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
+Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+
+## Moreirense vs Santa Clara — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Santa Clara** @ **1.83** (Unibet) · prob 54% vs casas 50% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.08)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
+• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
+• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
+• Favorito de las casas: Santa Clara @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
+Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
+Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
+Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+
+## Moreirense vs Santa Clara — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.41** (Unibet) · prob 64% vs casas 65% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.08)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
+• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
+• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
+• Favorito de las casas: Santa Clara @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
+Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
+Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
+Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+
+## Moreirense vs Santa Clara — 28/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 9.5 córners** @ **1.61** (Unibet) · prob 60% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.14 - 1.08)  
 1 35% · X 31% · 2 34%  
