@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 27/11/2026 03:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 04:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Kray vs OG — 27/11 · 03:40
+## hotShot vs OG — 27/11 · 04:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana OG** @ **4.35** (Unibet) · prob 28% vs casas 20% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana OG** @ **3.70** (Unibet) · prob 29% vs casas 23% · ventaja +9%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.656 partidos)  
-Goles esperados: Kray 3.46 · OG 2.60  
-Ganador: Kray 55% · empate 18% · OG 28%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Kray: −1.5 39% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 82.707 partidos)  
+Goles esperados: hotShot 2.55 · OG 2.10  
+Ganador: hotShot 49% · empate 22% · OG 29%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap hotShot: −1.5 30% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Kray ❌✅✅❌❌ | OG ✅❌❌✅✅  
-• Partidos: Kray 854 | OG 825  
+• Forma: hotShot ❌✅➖➖✅ | OG ✅❌➖➖❌  
+• Partidos: hotShot 825 | OG 829  
 • Liga: Champions League A  
-• Unibet: 1 1.34 · X 5.60 · 2 4.35 (sin margen 65%/15%/20%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.35 (+20%) · Paf España 4.35 (+20%)  
+• Unibet: 1 2.07 · X 2.50 · 2 3.70 (sin margen 42%/35%/23%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.70 (+9%) · Paf España 3.70 (+9%)  
 
-## URIST vs k0mych — 27/11 · 04:02
+## Kavviro vs believer — 27/11 · 04:47
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana k0mych** @ **2.60** (Unibet) · prob 41% vs casas 34% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **5.00** (Unibet) · prob 23% vs casas 18% · ventaja +17%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 82.680 partidos)  
-Goles esperados: URIST 4.26 · k0mych 4.19  
-Ganador: URIST 43% · empate 16% · k0mych 41%  
-Total: más de 8.5 goles 47% · menos 53%  
-Hándicap URIST: −1.5 31% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 82.707 partidos)  
+Goles esperados: Kavviro 1.88 · believer 2.25  
+Ganador: Kavviro 30% · empate 23% · believer 47%  
+Total: más de 4.5 goles 40% · menos 60%  
+Hándicap believer: −1.5 28% · −2.5 14%  
 🔎 **Claves**  
-• Forma: URIST ❌➖✅✅✅ | k0mych ✅❌❌❌❌  
-• Partidos: URIST 197 | k0mych 471  
-• Liga: LaLiga 2x6  
-• Unibet: 1 1.70 · X 6.25 · 2 2.60 (sin margen 52%/14%/34%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+8%) · Paf España 2.60 (+8%)  
+• Forma: Kavviro ➖✅❌✅❌ | believer ❌❌✅✅✅  
+• Partidos: Kavviro 1203 | believer 1420  
+• Liga: Club World Cup  
+• Unibet: 1 2.60 · X 5.00 · 2 1.80 (sin margen 34%/18%/49%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.00 (+17%) · Paf España 5.00 (+17%)  
 
