@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 02:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Club Leon vs Cruz Azul — 27/11 · 04:10
 

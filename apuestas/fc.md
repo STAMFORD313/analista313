@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 27/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 02:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## believer vs kkikus — 27/11 · 02:39
 
@@ -55,6 +55,44 @@ Hándicap Solya: −1.5 57% · −2.5 43%
 • Partidos: k0mych 465 | Solya 415  
 • Liga: LaLiga 2x6  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kavviro vs Nightxx — 27/11 · 02:51
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **2.35** (Unibet) · prob 51% vs casas 37% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.638 partidos)  
+Goles esperados: Kavviro 2.75 · Nightxx 2.21  
+Ganador: Kavviro 51% · empate 21% · Nightxx 28%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Kavviro: −1.5 33% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Kavviro ➖❌❌❌✅ | Nightxx ❌✅✅✅❌  
+• Partidos: Kavviro 1196 | Nightxx 1188  
+• Liga: Champions League B  
+• Unibet: 1 2.35 · X 4.30 · 2 2.04 (sin margen 37%/20%/43%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+20%) · Paf España 2.35 (+20%)  
+
+## kkikus vs Simaponika — 27/11 · 02:51
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 82.638 partidos)  
+Goles esperados: kkikus 2.24 · Simaponika 2.96  
+Ganador: kkikus 26% · empate 20% · Simaponika 54%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Simaponika: −1.5 36% · −2.5 21%  
+🔎 **Claves**  
+• Forma: kkikus ➖❌❌❌❌ | Simaponika ❌❌✅✅❌  
+• Partidos: kkikus 1307 | Simaponika 1481  
+• Liga: Champions League B  
+• Unibet: 1 3.05 · X 5.40 · 2 1.60 (sin margen 29%/16%/55%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+6%) · Paf España 5.40 (+6%)  
 
 ## fantazer vs Dreamer — 27/11 · 02:58
 

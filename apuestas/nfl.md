@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 27/11/2026 02:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Más de 47.5 puntos** @ **1.86** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **47.5** puntos · línea 47.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Buffalo Bills ✅✅✅✅✅ | Kansas City Chiefs ❌❌✅✅✅  
-• H2H: 11 desde 2017: 6-5  
-• Bajas: Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)  
-🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%  
-
-## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Buffalo Bills -3** @ **2.00** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Buffalo Bills cubre -3 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Buffalo Bills ✅✅✅✅✅ | Kansas City Chiefs ❌❌✅✅✅  
-• H2H: 11 desde 2017: 6-5  
-• Bajas: Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)  
-🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%  
-
-## Buffalo Bills vs Kansas City Chiefs — 27/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Gana Buffalo Bills** @ **1.67** (DraftKings) · prob 58% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.300 partidos y bajas)  
-Gana Buffalo Bills 71% · Gana Kansas City Chiefs 29%  
-Casas: Buffalo Bills 58% · Kansas City Chiefs 42%  
-Hándicap BUF -3 · Total puntos 47.5  
-🔎 **Claves**  
-• Forma: Buffalo Bills ✅✅✅✅✅ | Kansas City Chiefs ❌❌✅✅✅  
-• H2H: 11 desde 2017: 6-5  
-• Bajas: Buffalo Bills: 4 fuera, 21 duda (Dalton Kincaid, Dorian Williams, Christian Benford); Kansas City Chiefs: 4 fuera, 21 duda (Kenneth Walker III, Trey Smith, Jaylon Moore)  
-• Favorito de las casas: Buffalo Bills @ 1.67  
-🧩 Combinada: Gana Kansas City Chiefs + Menos de 47.5 puntos → prob. 21%, cuota justa 4.69  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.45 (producto de piernas) · prob. 21% · ventaja -5%  
+Actualizado 27/11/2026 02:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Iowa Hawkeyes vs Nebraska Cornhuskers — 27/11 · 18:00
 
