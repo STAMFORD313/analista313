@@ -12822,9 +12822,10 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Alaves vs La Coruna,Abde Rebbach,To give an assist,0.5,4.9,0.2041,0.1015,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Carles Aleñá,To Get a Card,0.5,3.5,0.2857,0.0352,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Adrià Altimira,To Get a Card,0.5,3.0,0.3333,0.046,0,0.0,0
-2026-11-21,Alaves vs La Coruna,Miguel Rodríguez,Player's shots on target,0.5,1.76,0.5682,0.1195,0,0.0,0
-2026-11-21,Alaves vs La Coruna,Selu Diallo,To Score,0.5,7.5,0.1333,0.0152,0,0.0,0
+2026-11-21,Alaves vs La Coruna,Denis Suárez,To Get a Card,0.5,3.8,0.2632,0.1541,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Riki Rodriguez,To Get a Card,0.5,3.2,0.3125,0.1121,1,0.0,0
+2026-11-21,Alaves vs La Coruna,Mariano Diaz,To Get a Card,0.5,4.7,0.2128,0.0419,0,0.0,0
+2026-11-21,Alaves vs La Coruna,Adrià Altimira,To Score,0.5,13.0,0.0769,0.0199,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Bil Nsongo,To score at least 3 goals,2.5,91.0,0.011,0.0,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Pablo Ibáñez,To Get a Card,0.5,3.3,0.303,0.2,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Mariano Diaz,Player's shots on target,0.5,1.58,0.6329,0.1412,0,0.0,0
@@ -12889,7 +12890,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Alaves vs La Coruna,Lucas Boyé,To score at least 2 goals,1.5,10.0,0.1,0.0399,1,1.0,0
 2026-11-21,Alaves vs La Coruna,Luismi Cruz,To Score,0.5,6.5,0.1538,0.0844,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Hugo Novoa,To give an assist,0.5,7.0,0.1429,0.0266,0,0.0,0
-2026-11-21,Alaves vs La Coruna,Giacomo Quagliata,Player's shots on target,0.5,4.0,0.25,0.1917,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Lorenzo Amatucci,To Get a Card,0.5,3.1,0.3226,0.0553,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Miguel Rodríguez,To score at least 2 goals,1.5,26.0,0.0385,0.0005,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Mariano Diaz,To score at least 2 goals,1.5,19.0,0.0526,0.0013,0,0.0,0
@@ -12912,9 +12912,9 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-21,Alaves vs La Coruna,Miguel Rodríguez,To Score,0.5,4.2,0.2381,0.0303,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Hugo Novoa,To Get a Card,0.5,3.5,0.2857,0.0371,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Yeremay Hernández,Player's shots on target,0.5,1.58,0.6329,0.4915,1,0.0,0
-2026-11-21,Alaves vs La Coruna,David Mella,Player's shots on target,0.5,2.28,0.4386,0.1127,0,0.0,0
 2026-11-21,Alaves vs La Coruna,Luismi Cruz,Player's shots on target,0.5,2.48,0.4032,0.2804,1,0.0,0
-2026-11-21,Alaves vs La Coruna,Bil Nsongo,To Get a Card,0.5,3.3,0.303,0.0273,0,0.0,0
+2026-11-21,Alaves vs La Coruna,Carles Aleñá,Player's shots on target,0.5,2.55,0.3922,0.0624,0,0.0,0
+2026-11-21,Alaves vs La Coruna,Denis Suárez,To give an assist,0.5,7.0,0.1429,0.0757,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Pablo Ibáñez,To score at least 2 goals,1.5,34.0,0.0294,0.0025,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Nahuel Tenaglia,Player's shots on target,0.5,4.6,0.2174,0.1916,1,0.0,0
 2026-11-21,Alaves vs La Coruna,Adama Traore,Player's shots on target,0.5,3.1,0.3226,0.0913,0,0.0,0
@@ -19543,7 +19543,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Ajax vs Den Haag,Juho Kilo,Player's shots on target,0.5,3.1,0.3226,0.3458,1,0.0,0
 2026-11-22,Ajax vs Den Haag,Davy Klaassen,Player's shots on target,2.5,5.5,0.1818,0.0123,1,2.0,0
 2026-11-22,Ajax vs Den Haag,Nigel Thomas,Player's shots on target,1.5,8.5,0.1176,0.0658,1,1.0,0
-2026-11-22,Ajax vs Den Haag,Pascal Mulder,Player's shots on target,0.5,5.5,0.1818,0.1379,1,0.0,0
+2026-11-22,Ajax vs Den Haag,Oscar Gloukh,Player's shots on target,2.5,4.0,0.25,0.0358,1,1.0,0
 2026-11-22,Ajax vs Den Haag,Abdellah Ouazane,Player's shots on target,1.5,2.55,0.3922,0.0143,0,0.0,0
 2026-11-22,Ajax vs Den Haag,Julian Brandt,Player's shots on target,2.5,3.8,0.2632,0.0007,0,0.0,0
 2026-11-22,Ajax vs Den Haag,Davy Klaassen,To give an assist,0.5,3.1,0.3226,0.0783,1,1.0,1
@@ -20840,7 +20840,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Milan vs Frosinone,Strahinja Pavlovic,To score at least 2 goals,1.5,61.0,0.0164,0.0003,0,0.0,0
 2026-11-22,Milan vs Frosinone,Ilario Monterisi,To Score,0.5,11.0,0.0909,0.0389,1,0.0,0
 2026-11-22,Milan vs Frosinone,Gonçalo Ramos,Player's shots on target,3.5,5.2,0.1923,0.0049,1,1.0,0
-2026-11-22,Milan vs Frosinone,Alphadjo Cissè,To score at least 3 goals,2.5,36.0,0.0278,0.0001,0,1.0,0
 2026-11-22,Milan vs Frosinone,Ardon Jashari,To give an assist,0.5,4.2,0.2381,0.0125,0,0.0,0
 2026-11-22,Milan vs Frosinone,Daniel Birligea,To Get a Card,0.5,3.8,0.2632,0.0575,0,0.0,0
 2026-11-22,Milan vs Frosinone,Aleksa Terzic,Player's shots on target,0.5,4.6,0.2174,0.0821,0,0.0,0
@@ -21185,6 +21184,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Lommel SK vs Standard,Nicolas Rommens,To Get a Card,0.5,3.5,0.2857,0.0256,0,0.0,0
 2026-11-22,Lommel SK vs Standard,Lucas Schoofs,To give an assist,0.5,7.5,0.1333,0.0936,1,0.0,0
 2026-11-22,Lommel SK vs Standard,Ibe Hautekiet,To Score,0.5,7.5,0.1333,0.0284,1,0.0,0
+2026-11-22,Lommel SK vs Standard,Nicolas Rommens,To give an assist,0.5,6.0,0.1667,0.042,0,0.0,0
 2026-11-22,Lommel SK vs Standard,Henry Lawrence,To Get a Card,0.5,4.1,0.2439,0.132,1,0.0,0
 2026-11-22,Lommel SK vs Standard,Elijah Odede,To Get a Card,0.5,4.6,0.2174,0.0237,0,0.0,0
 2026-11-22,Lommel SK vs Standard,Alexis Trouillet,To Get a Card,0.5,3.8,0.2632,0.1733,1,0.0,0
@@ -21234,6 +21234,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Marseille vs Le Mans,Lucas Buadés,To score at least 2 goals,1.5,111.0,0.009,0.0062,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Rayan Bamba,To give an assist,0.5,9.5,0.1053,0.0511,1,1.0,1
 2026-11-22,Marseille vs Le Mans,Timothy Weah,To score at least 3 goals,2.5,121.0,0.0083,0.0,1,0.0,0
+2026-11-22,Marseille vs Le Mans,Angel Gomes,Player's shots on target,1.5,4.5,0.2222,0.0036,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Tochukwu Nnadi,To score at least 2 goals,1.5,76.0,0.0132,0.0012,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Harold Voyer,Player's shots on target,0.5,6.0,0.1667,0.1201,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Erwan Colas,To score at least 2 goals,1.5,35.0,0.0286,0.0019,0,1.0,0
@@ -21242,22 +21243,21 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Marseille vs Le Mans,Rayan Bamba,Player's shots on target,0.5,5.8,0.1724,0.1327,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Rayan Bamba,To Score,0.5,16.0,0.0625,0.0398,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Rayan Bamba,To Get a Card,0.5,3.1,0.3226,0.1608,1,1.0,1
-2026-11-22,Marseille vs Le Mans,Daouda Traoré,To Score,0.5,13.0,0.0769,0.0641,1,0.0,0
-2026-11-22,Marseille vs Le Mans,Daouda Traoré,To Get a Card,0.5,3.6,0.2778,0.1108,1,1.0,1
 2026-11-22,Marseille vs Le Mans,Erwan Colas,To Get a Card,0.5,4.1,0.2439,0.0295,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Angel Gomes,Player's shots on target,0.5,1.81,0.5525,0.0837,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Harold Voyer,To Score,0.5,15.0,0.0667,0.0295,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Angel Gomes,To Score,0.5,3.7,0.2703,0.0303,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Angel Gomes,To score at least 2 goals,1.5,20.0,0.05,0.0005,0,0.0,0
-2026-11-22,Marseille vs Le Mans,Jean Vercruysse,To Score,0.5,8.0,0.125,0.0206,0,1.0,1
 2026-11-22,Marseille vs Le Mans,Jean Vercruysse,To score at least 2 goals,1.5,76.0,0.0132,0.0002,0,1.0,0
-2026-11-22,Marseille vs Le Mans,Erwan Colas,Player's shots on target,0.5,2.05,0.4878,0.1874,0,3.0,1
+2026-11-22,Marseille vs Le Mans,Erwan Colas,Player's shots on target,1.5,5.8,0.1724,0.0188,0,3.0,1
+2026-11-22,Marseille vs Le Mans,Angel Gomes,To Get a Card,0.5,4.7,0.2128,0.047,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Lucas Buadés,To give an assist,0.5,9.0,0.1111,0.0676,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Angel Gomes,To give an assist,0.5,5.2,0.1923,0.0146,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Erwan Colas,To give an assist,0.5,6.0,0.1667,0.0208,0,0.0,0
 2026-11-22,Marseille vs Le Mans,Erwan Colas,To Score,0.5,4.9,0.2041,0.0608,0,1.0,1
 2026-11-22,Marseille vs Le Mans,Harold Voyer,To Get a Card,0.5,3.5,0.2857,0.174,1,1.0,1
-2026-11-22,Marseille vs Le Mans,Angel Gomes,To Get a Card,0.5,4.7,0.2128,0.047,0,0.0,0
+2026-11-22,Marseille vs Le Mans,Daouda Traoré,To Score,0.5,13.0,0.0769,0.0641,1,0.0,0
+2026-11-22,Marseille vs Le Mans,Erwan Colas,Player's shots on target,0.5,2.05,0.4878,0.1874,0,3.0,1
 2026-11-22,Marseille vs Le Mans,Himad Abdelli,Player's shots on target,0.5,1.72,0.5814,0.2675,1,0.0,0
 2026-11-22,Marseille vs Le Mans,Dame Gueye,Player's shots on target,0.5,2.04,0.4902,0.5007,1,2.0,1
 2026-11-22,Marseille vs Le Mans,Tochukwu Nnadi,To Score,0.5,8.5,0.1176,0.049,1,0.0,0
@@ -21332,12 +21332,8 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Atalanta vs Inter,Nikola Krstovic,To score at least 3 goals,2.5,76.0,0.0132,0.0074,1,0.0,0
 2026-11-22,Atalanta vs Inter,Djed Spence,To Score,0.5,8.0,0.125,0.0471,1,0.0,0
 2026-11-22,Atalanta vs Inter,Djed Spence,To score at least 2 goals,1.5,76.0,0.0132,0.0011,1,0.0,0
-2026-11-22,Atalanta vs Inter,Nicolò Barella,To give an assist,0.5,2.7,0.3704,0.1493,1,0.0,0
-2026-11-22,Atalanta vs Inter,Djed Spence,To Score,0.5,8.0,0.125,0.0471,1,0.0,0
-2026-11-22,Atalanta vs Inter,Nikola Krstovic,To score at least 3 goals,2.5,76.0,0.0132,0.0074,1,0.0,0
-2026-11-22,Atalanta vs Inter,Nikola Krstovic,To score at least 2 goals,1.5,15.0,0.0667,0.0591,1,0.0,0
-2026-11-22,Atalanta vs Inter,Carlos Augusto,To Get a Card,0.5,3.8,0.2632,0.1788,1,1.0,1
-2026-11-22,Atalanta vs Inter,Hakan Çalhanoglu,Player's shots on target,0.5,1.75,0.5714,0.3643,1,0.0,0
+2026-11-22,Atalanta vs Inter,Eljif Elmas,Player's shots on target,0.5,2.23,0.4484,0.3233,1,1.0,1
+2026-11-22,Atalanta vs Inter,Djed Spence,Player's shots on target,0.5,3.5,0.2857,0.2895,1,0.0,0
 2026-11-22,Atalanta vs Inter,Manuel Akanji,To Get a Card,0.5,3.9,0.2564,0.0427,0,0.0,0
 2026-11-22,Atalanta vs Inter,Gianluca Scamacca,Player's shots on target,0.5,1.5,0.6667,0.1535,0,0.0,0
 2026-11-22,Atalanta vs Inter,Manuel Akanji,Player's shots on target,0.5,3.8,0.2632,0.0713,0,0.0,0
@@ -21417,6 +21413,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Atalanta vs Inter,Sead Kolasinac,Player's shots on target,0.5,4.8,0.2083,0.0626,1,0.0,0
 2026-11-22,Atalanta vs Inter,Kamal-Deen Sulemana,To give an assist,0.5,7.0,0.1429,0.0121,0,0.0,0
 2026-11-22,Atalanta vs Inter,Yann Bisseck,To Get a Card,0.5,4.0,0.25,0.0222,0,0.0,0
+2026-11-22,Atalanta vs Inter,Carlos Augusto,To give an assist,0.5,5.2,0.1923,0.0697,1,0.0,0
 2026-11-22,Atalanta vs Inter,Charles De Ketelaere,To Get a Card,0.5,4.9,0.2041,0.1196,1,0.0,0
 2026-11-22,Atalanta vs Inter,Djed Spence,To give an assist,0.5,7.0,0.1429,0.1132,1,0.0,0
 2026-11-22,Atalanta vs Inter,Eljif Elmas,To Get a Card,0.5,4.3,0.2326,0.1666,1,0.0,0
@@ -21441,7 +21438,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Atalanta vs Inter,Carlos Augusto,To Score,0.5,7.5,0.1333,0.1205,1,0.0,0
 2026-11-22,Atalanta vs Inter,Giacomo Raspadori,To score at least 2 goals,1.5,26.0,0.0385,0.0014,0,0.0,0
 2026-11-22,Atalanta vs Inter,Marcus Thuram,To score at least 2 goals,1.5,6.25,0.16,0.0451,1,0.0,0
-2026-11-22,Atalanta vs Inter,Charles De Ketelaere,To Score,0.5,4.3,0.2326,0.1033,1,2.0,1
 2026-11-22,Atalanta vs Inter,Gianluca Scamacca,To give an assist,0.5,4.8,0.2083,0.0134,0,0.0,0
 2026-11-22,Atalanta vs Inter,Giorgio Scalvini,To Get a Card,0.5,3.7,0.2703,0.1046,1,1.0,1
 2026-11-22,Atalanta vs Inter,Gianluca Scamacca,To Get a Card,0.5,4.1,0.2439,0.0231,0,0.0,0
@@ -21597,7 +21593,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-22,Getafe vs Ath Madrid,Marcos Llorente,Player's shots on target,0.5,4.1,0.2439,0.2682,1,0.0,0
 2026-11-22,Getafe vs Ath Madrid,Borja Mayoral,To Get a Card,0.5,4.8,0.2083,0.0179,0,0.0,0
 2026-11-22,Getafe vs Ath Madrid,Saba Sazonov,To Get a Card,0.5,3.4,0.2941,0.037,0,0.0,0
-2026-11-22,Getafe vs Ath Madrid,Álex Baena,Player's shots on target,0.5,1.57,0.6369,0.3967,1,2.0,1
+2026-11-22,Getafe vs Ath Madrid,Enes Ünal,To Score,0.5,5.2,0.1923,0.1629,1,0.0,0
 2026-11-22,Getafe vs Ath Madrid,Borja Mayoral,To Score,0.5,5.0,0.2,0.0455,0,0.0,0
 2026-11-22,Getafe vs Ath Madrid,Borja Mayoral,To score at least 2 goals,1.5,41.0,0.0244,0.0011,0,0.0,0
 2026-11-22,Getafe vs Ath Madrid,Martín Satriano,To Get a Card,0.5,3.5,0.2857,0.0283,0,0.0,0
@@ -21646,11 +21642,11 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Ceuta vs Almeria,Brian Cipenga,To score at least 2 goals,1.5,17.0,0.0588,0.0152,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Miguel De La Fuente,To score at least 2 goals,1.5,8.5,0.1176,0.051,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Jon Morcillo,To score at least 2 goals,1.5,16.0,0.0625,0.0007,0,0.0,0
-2026-11-23,Ceuta vs Almeria,Álex Muñoz,To Score,0.5,8.5,0.1176,0.056,1,0.0,0
+2026-11-23,Ceuta vs Almeria,Alex Sola,To Score,0.5,3.75,0.2667,0.028,0,0.0,0
 2026-11-23,Ceuta vs Almeria,Leonardo Lelo,To Score,0.5,8.0,0.125,0.019,0,0.0,0
 2026-11-23,Ceuta vs Almeria,Stefan Dzodic,To Score,0.5,8.0,0.125,0.0814,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Kuki Zalazar,To score at least 2 goals,1.5,23.0,0.0435,0.0037,1,0.0,0
-2026-11-23,Ceuta vs Almeria,Alex Sola,To Score,0.5,3.75,0.2667,0.028,0,0.0,0
+2026-11-23,Ceuta vs Almeria,Álex Muñoz,To Score,0.5,8.5,0.1176,0.056,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Jordi Escobar,To score at least 2 goals,1.5,16.0,0.0625,0.0293,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Carlos Hernandez,To Score,0.5,10.5,0.0952,0.1036,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Adri Embarba,To score at least 2 goals,1.5,11.0,0.0909,0.001,0,0.0,0
@@ -21666,9 +21662,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Ceuta vs Almeria,Jordi Escobar,To Score,0.5,3.25,0.3077,0.2321,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Léo Baptistão,To score at least 2 goals,1.5,13.0,0.0769,0.0013,0,0.0,0
 2026-11-23,Ceuta vs Almeria,Yann Bodiger,To Score,0.5,7.5,0.1333,0.055,1,1.0,1
-2026-11-23,Ceuta vs Almeria,Léo Baptistão,To score at least 2 goals,1.5,13.0,0.0769,0.0013,0,0.0,0
-2026-11-23,Ceuta vs Almeria,Sergio Arribas,To Score,0.5,2.25,0.4444,0.2711,1,2.0,1
-2026-11-23,Ceuta vs Almeria,Javi Muñoz,To Score,0.5,6.25,0.16,0.0972,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Miguel De La Fuente,To Score,0.5,2.43,0.4115,0.3018,1,0.0,0
 2026-11-23,Ceuta vs Almeria,Omar Sadik,To score at least 2 goals,1.5,18.0,0.0556,0.0004,0,0.0,0
 2026-11-23,Ceuta vs Almeria,Javi Muñoz,To Score,0.5,6.25,0.16,0.0972,1,0.0,0
@@ -21700,6 +21693,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Monza vs Fiorentina,Gustavo Varela,Player's shots on target,1.5,2.65,0.3774,0.2384,1,2.0,1
 2026-11-23,Monza vs Fiorentina,Gustavo Varela,Player's shots on target,0.5,1.38,0.7246,0.6054,1,2.0,1
 2026-11-23,Monza vs Fiorentina,Gustavo Varela,Player's shots on target,2.5,5.5,0.1818,0.0679,1,2.0,0
+2026-11-23,Monza vs Fiorentina,Ricardo Mangas,Player's shots on target,0.5,2.7,0.3704,0.2513,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Mathis Mout,To give an assist,0.5,5.75,0.1739,0.0211,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,To Get a Card,0.5,4.7,0.2128,0.0236,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Mathis Mout,To Get a Card,0.5,4.2,0.2381,0.0226,0,0.0,0
@@ -21745,13 +21739,14 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Monza vs Fiorentina,Marco Brescianini,To give an assist,0.5,6.25,0.16,0.0255,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To Get a Card,0.5,4.3,0.2326,0.137,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Radu Dragusin,Player's shots on target,0.5,3.3,0.303,0.0741,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Saba Goglichidze,To Get a Card,0.5,4.0,0.25,0.1586,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Franco Mastantuono,Player's shots on target,1.5,2.75,0.3636,0.1487,1,1.0,0
 2026-11-23,Monza vs Fiorentina,Ebenezer Akinsanmiro,To Score,0.5,7.0,0.1429,0.0477,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Eddy Kouadio,To Score,0.5,11.0,0.0909,0.0557,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Dany Mota,To Score,0.5,4.2,0.2381,0.0291,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Alieu Njie,To give an assist,0.5,3.8,0.2632,0.0317,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Pedro Goncalves,To Get a Card,0.5,4.3,0.2326,0.1295,1,0.0,0
-2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To Score,0.5,2.4,0.4167,0.2301,1,0.0,0
+2026-11-23,Monza vs Fiorentina,Franco Mastantuono,Player's shots on target,0.5,1.41,0.7092,0.4931,1,1.0,1
 2026-11-23,Monza vs Fiorentina,Ricardo Mangas,To give an assist,0.5,7.0,0.1429,0.0969,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Alieu Njie,Player's shots on target,0.5,1.62,0.6173,0.1275,0,2.0,1
 2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To Score,0.5,2.8,0.3571,0.1685,1,0.0,0
@@ -21759,25 +21754,24 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,To Score,0.5,5.8,0.1724,0.0668,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Saba Goglichidze,Player's shots on target,0.5,4.9,0.2041,0.1119,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Franco Mastantuono,To give an assist,0.5,4.3,0.2326,0.0501,1,0.0,0
-2026-11-23,Monza vs Fiorentina,Saba Goglichidze,To Get a Card,0.5,4.0,0.25,0.1586,1,0.0,0
-2026-11-23,Monza vs Fiorentina,Franco Mastantuono,Player's shots on target,0.5,1.41,0.7092,0.4931,1,1.0,1
+2026-11-23,Monza vs Fiorentina,Mateo Pellegrino,To Score,0.5,2.4,0.4167,0.2301,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Alieu Njie,To score at least 2 goals,1.5,21.0,0.0476,0.0015,0,0.0,0
-2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,Player's shots on target,0.5,3.0,0.3333,0.0878,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To score at least 3 goals,2.5,121.0,0.0083,0.0,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Victor Valdepenas,To score at least 2 goals,1.5,76.0,0.0132,0.0008,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To Score,0.5,4.4,0.2273,0.0683,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Dany Mota,To give an assist,0.5,6.0,0.1667,0.0277,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To score at least 2 goals,1.5,30.0,0.0333,0.0024,1,0.0,0
-2026-11-23,Monza vs Fiorentina,Dany Mota,To Get a Card,0.5,4.3,0.2326,0.0276,0,0.0,0
-2026-11-23,Monza vs Fiorentina,Jay Robinson,To score at least 2 goals,1.5,17.0,0.0588,0.0127,1,1.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,Player's shots on target,0.5,1.76,0.5682,0.1279,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Nicolò Fagioli,Player's shots on target,0.5,3.0,0.3333,0.0878,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Alieu Njie,To Get a Card,0.5,4.2,0.2381,0.0417,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Leonardo Colombo,To Get a Card,0.5,3.7,0.2703,0.2411,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Pedro Goncalves,To give an assist,0.5,4.2,0.2381,0.2047,1,0.0,0
 2026-11-23,Monza vs Fiorentina,Gustavo Varela,To score at least 2 goals,1.5,11.5,0.087,0.0647,1,2.0,1
 2026-11-23,Monza vs Fiorentina,Lorenzo Lucchesi,To Get a Card,0.5,3.7,0.2703,0.0594,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Leonardo Colombo,Player's shots on target,0.5,1.92,0.5208,0.2848,1,0.0,0
-2026-11-23,Monza vs Fiorentina,Alieu Njie,To score at least 3 goals,2.5,121.0,0.0083,0.0,0,0.0,0
-2026-11-23,Monza vs Fiorentina,Alieu Njie,To Get a Card,0.5,4.2,0.2381,0.0417,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Jay Robinson,To score at least 2 goals,1.5,17.0,0.0588,0.0127,1,1.0,0
 2026-11-23,Monza vs Fiorentina,Christ Inao Oulaï,To Get a Card,0.5,3.8,0.2632,0.2328,1,0.0,0
-2026-11-23,Monza vs Fiorentina,Dany Mota,Player's shots on target,0.5,1.76,0.5682,0.1279,0,0.0,0
+2026-11-23,Monza vs Fiorentina,Dany Mota,To Get a Card,0.5,4.3,0.2326,0.0276,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Marco Brescianini,Player's shots on target,0.5,2.32,0.431,0.0919,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Exequiel Zeballos,Player's shots on target,0.5,2.02,0.495,0.1515,0,0.0,0
 2026-11-23,Monza vs Fiorentina,Alieu Njie,Player's shots on target,1.5,3.6,0.2778,0.0085,0,2.0,1
@@ -21917,7 +21911,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Brentford vs Everton,Jaidon Anthony,Player's shots on target,0.5,1.95,0.5128,0.433,1,0.0,0
 2026-11-23,Brentford vs Everton,Kristoffer Ajer,To Score,0.5,11.0,0.0909,0.0449,1,0.0,0
 2026-11-23,Brentford vs Everton,Jake O'Brien,To Score,0.5,13.0,0.0769,0.0396,1,0.0,0
-2026-11-23,Brentford vs Everton,Mathias Jensen,To Score,0.5,8.0,0.125,0.0242,0,0.0,0
+2026-11-23,Brentford vs Everton,Sepp van den Berg,To Score,0.5,10.5,0.0952,0.0162,1,0.0,0
 2026-11-23,Brentford vs Everton,Kevin Schade,Player's shots on target,0.5,1.54,0.6494,0.1388,0,0.0,0
 2026-11-23,Brentford vs Everton,Tyrique George,Player's shots on target,0.5,1.97,0.5076,0.3623,1,0.0,0
 2026-11-23,Brentford vs Everton,Tyler Dibling,To score at least 2 goals,1.5,51.0,0.0196,0.0003,0,0.0,0
@@ -21998,7 +21992,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Levante vs Elche,Enzo Bardeli,Player's shots on target,1.5,5.3,0.1887,0.0057,0,0.0,0
 2026-11-23,Levante vs Elche,Jorge Cabello,To give an assist,0.5,13.0,0.0769,0.0089,0,0.0,0
 2026-11-23,Levante vs Elche,Pedro Bigas,To give an assist,0.5,12.0,0.0833,0.0184,0,0.0,0
-2026-11-23,Levante vs Elche,Roy Revivo,To give an assist,0.5,8.5,0.1176,0.0793,1,0.0,0
 2026-11-23,Levante vs Elche,Kevin Lomónaco,To give an assist,0.5,12.0,0.0833,0.0108,0,0.0,0
 2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,To give an assist,0.5,10.5,0.0952,0.0105,0,0.0,0
 2026-11-23,Levante vs Elche,Fer Niño,To score at least 3 goals,2.5,46.0,0.0217,0.003,1,0.0,0
@@ -22063,6 +22056,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-23,Levante vs Elche,Thomas Lemar,To Score,0.5,6.1,0.1639,0.0376,0,0.0,0
 2026-11-23,Levante vs Elche,Josan,To give an assist,0.5,7.5,0.1333,0.0401,0,0.0,0
 2026-11-23,Levante vs Elche,Gonzalo Villar,To score at least 2 goals,1.5,56.0,0.0179,0.002,1,0.0,0
+2026-11-23,Levante vs Elche,Germán Valera,To Score,0.5,4.2,0.2381,0.1141,1,0.0,0
 2026-11-23,Levante vs Elche,Germán Valera,To score at least 2 goals,1.5,25.0,0.04,0.0068,1,0.0,0
 2026-11-23,Levante vs Elche,Ifeanyi Ndukwe,To Get a Card,0.5,3.6,0.2778,0.0194,0,0.0,0
 2026-11-23,Levante vs Elche,Fer Niño,To Score,0.5,2.75,0.3636,0.2438,1,0.0,0
@@ -22149,8 +22143,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Bristol City vs Wrexham,George Thomason,To Score,0.5,7.0,0.1429,0.1204,1,0.0,0
 2026-11-24,Bristol City vs Wrexham,Cameron Pring,To Score,0.5,11.0,0.0909,0.0159,1,1.0,1
 2026-11-24,Bristol City vs Wrexham,Scott Twine,To give an assist,0.5,4.8,0.2083,0.0774,1,0.0,0
-2026-11-24,Bristol City vs Wrexham,Cameron Pring,To Score,0.5,11.0,0.0909,0.0159,1,1.0,1
-2026-11-24,Bristol City vs Wrexham,Rio Cardines,To give an assist,0.5,5.1,0.1961,0.0433,0,0.0,0
+2026-11-24,Bristol City vs Wrexham,Luke McNally,To Score,0.5,11.0,0.0909,0.0572,1,0.0,0
 2026-11-24,Bristol City vs Wrexham,Issa Kabore,To Get a Card,0.5,4.4,0.2273,0.1173,1,0.0,0
 2026-11-24,Bristol City vs Wrexham,Lorent Tolaj,Player's shots on target,1.5,2.7,0.3704,0.1015,1,0.0,0
 2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To score at least 2 goals,1.5,10.5,0.0952,0.023,1,0.0,0
@@ -22190,7 +22183,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Bristol City vs Wrexham,Joe Williams,To Get a Card,0.5,4.1,0.2439,0.0469,0,0.0,0
 2026-11-24,Bristol City vs Wrexham,Kieffer Moore,To Get a Card,0.5,5.0,0.2,0.0301,0,0.0,0
 2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To Score,0.5,2.6,0.3846,0.2065,1,0.0,0
-2026-11-24,Bristol City vs Wrexham,Dominic Ballard,To Get a Card,0.5,4.4,0.2273,0.0773,1,0.0,0
 2026-11-24,Bristol City vs Wrexham,Matty James,To Score,0.5,7.5,0.1333,0.021,0,0.0,0
 2026-11-24,Bristol City vs Wrexham,Joe Worrall,To Score,0.5,10.0,0.1,0.0508,1,1.0,1
 2026-11-24,Bristol City vs Wrexham,Scott Twine,Player's shots on target,0.5,1.64,0.6098,0.481,1,0.0,0
@@ -22419,7 +22411,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Middlesbrough vs Swansea,Jeremy Sarmiento,Player's shots on target,1.5,3.4,0.2941,0.0088,0,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Riley McGree,Player's shots on target,0.5,2.0,0.5,0.303,1,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To give an assist,0.5,4.1,0.2439,0.049,1,0.0,0
-2026-11-24,Middlesbrough vs Swansea,David Strelec,To give an assist,0.5,2.85,0.3509,0.0519,1,0.0,0
+2026-11-24,Middlesbrough vs Swansea,Sebastian Berhalter,To Get a Card,0.5,4.0,0.25,0.0487,0,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Adam Idah,To Get a Card,0.5,4.5,0.2222,0.0717,1,1.0,1
 2026-11-24,Middlesbrough vs Swansea,Jenson Seelt,To Score,0.5,10.0,0.1,0.0206,0,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Melker Widell,To score at least 2 goals,1.5,51.0,0.0196,0.0013,1,0.0,0
@@ -22469,6 +22461,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Middlesbrough vs Swansea,Will Lankshear,To Get a Card,0.5,5.5,0.1818,0.103,1,1.0,1
 2026-11-24,Middlesbrough vs Swansea,Neto Borges,To Score,0.5,7.5,0.1333,0.0421,1,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Amario Cozier-Duberry,Player's shots on target,1.5,2.75,0.3636,0.1145,1,1.0,0
+2026-11-24,Middlesbrough vs Swansea,Will Lankshear,Player's shots on target,1.5,1.76,0.5682,0.2731,1,1.0,0
 2026-11-24,Middlesbrough vs Swansea,Adam Idah,To score at least 2 goals,1.5,16.0,0.0625,0.0279,1,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Adam Idah,To Score,0.5,3.4,0.2941,0.2269,1,0.0,0
 2026-11-24,Middlesbrough vs Swansea,Aidan Morris,To score at least 2 goals,1.5,61.0,0.0164,0.0031,1,0.0,0
@@ -22507,28 +22500,30 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,Player's shots on target,0.5,1.46,0.6849,0.2064,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,Player's shots on target,1.5,2.9,0.3448,0.0229,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Abu Kamara,To give an assist,0.5,5.2,0.1923,0.0138,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,To score at least 2 goals,1.5,11.0,0.0909,0.0012,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Joël Piroe,To give an assist,0.5,3.3,0.303,0.1124,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Morato,To Get a Card,0.5,3.5,0.2857,0.0415,0,0.0,0
-2026-11-24,Portsmouth vs West Ham,Divine Mukasa,Player's shots on target,0.5,1.9,0.5263,0.1135,0,0.0,0
-2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,To score at least 2 goals,1.5,36.0,0.0278,0.01,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Valentín Castellanos,To score at least 2 goals,1.5,11.0,0.0909,0.0012,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Konstantinos Mavropanos,To Get a Card,0.5,3.8,0.2632,0.1442,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,Player's shots on target,0.5,2.55,0.3922,0.3518,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Madiodio Dia,To Score,0.5,11.0,0.0909,0.019,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Mohamadou Kante,To score at least 2 goals,1.5,36.0,0.0278,0.01,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To score at least 2 goals,1.5,20.0,0.05,0.0011,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,Player's shots on target,1.5,4.2,0.2381,0.0874,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Marlon Pack,Player's shots on target,0.5,4.5,0.2222,0.0711,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Zak Swanson,Player's shots on target,0.5,4.3,0.2326,0.1895,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Tyrese Shade,To Get a Card,0.5,5.1,0.1961,0.0917,1,1.0,1
 2026-11-24,Portsmouth vs West Ham,Madiodio Dia,To Get a Card,0.5,4.5,0.2222,0.1146,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To score at least 2 goals,1.5,20.0,0.05,0.0011,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,To score at least 2 goals,1.5,81.0,0.0123,0.0017,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Arne Engels,To give an assist,0.5,5.6,0.1786,0.1485,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To Get a Card,0.5,4.7,0.2128,0.0224,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Tyrese Shade,Player's shots on target,0.5,1.9,0.5263,0.3263,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,Player's shots on target,0.5,1.33,0.7519,0.5321,1,1.0,1
-2026-11-24,Portsmouth vs West Ham,Madiodio Dia,To Score,0.5,11.0,0.0909,0.019,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,To Get a Card,0.5,4.7,0.2128,0.1736,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,Player's shots on target,1.5,4.2,0.2381,0.0874,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Regan Poole,To Get a Card,0.5,3.8,0.2632,0.1545,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Manor Solomon,To give an assist,0.5,4.5,0.2222,0.1229,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To score at least 2 goals,1.5,19.0,0.0526,0.0013,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,Player's shots on target,0.5,1.33,0.7519,0.5321,1,1.0,1
+2026-11-24,Portsmouth vs West Ham,Divine Mukasa,Player's shots on target,0.5,1.9,0.5263,0.1135,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Joël Piroe,To score at least 3 goals,2.5,71.0,0.0141,0.0017,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,To give an assist,0.5,3.5,0.2857,0.2572,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Abu Kamara,To Score,0.5,4.3,0.2326,0.0211,0,0.0,0
+2026-11-24,Portsmouth vs West Ham,Iyad Mohamed,To Get a Card,0.5,4.7,0.2128,0.1736,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Joël Veltman,Player's shots on target,0.5,4.2,0.2381,0.1011,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Regan Poole,To Score,0.5,11.0,0.0909,0.0164,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Terry Devlin,To Score,0.5,9.0,0.1111,0.1429,1,0.0,0
@@ -22539,7 +22534,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,Player's shots on target,1.5,2.45,0.4082,0.1767,1,1.0,0
 2026-11-24,Portsmouth vs West Ham,Arne Engels,To Get a Card,0.5,3.5,0.2857,0.184,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Joël Veltman,To Get a Card,0.5,3.6,0.2778,0.1864,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Jarrod Bowen,To give an assist,0.5,3.5,0.2857,0.2572,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Manor Solomon,To give an assist,0.5,4.5,0.2222,0.1229,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Marlon Pack,To Score,0.5,11.0,0.0909,0.0196,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To give an assist,0.5,4.2,0.2381,0.0223,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Morato,To Score,0.5,9.5,0.1053,0.0219,0,0.0,0
@@ -22549,8 +22544,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To give an assist,0.5,5.0,0.2,0.011,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Terry Devlin,To Get a Card,0.5,4.3,0.2326,0.1713,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Regan Poole,Player's shots on target,0.5,4.3,0.2326,0.1424,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Abu Kamara,To Score,0.5,4.3,0.2326,0.0211,0,0.0,0
-2026-11-24,Portsmouth vs West Ham,Joël Piroe,To score at least 3 goals,2.5,71.0,0.0141,0.0017,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Adrian Segecic,To score at least 2 goals,1.5,19.0,0.0526,0.0013,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Arne Engels,To Score,0.5,4.2,0.2381,0.1131,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Arne Engels,To score at least 2 goals,1.5,25.0,0.04,0.0066,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Manor Solomon,To Get a Card,0.5,4.0,0.25,0.1136,1,0.0,0
@@ -22564,7 +22558,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Portsmouth vs West Ham,Ryan Kavuma-McQueen,Player's shots on target,0.5,1.75,0.5714,0.3879,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Joël Piroe,Player's shots on target,1.5,3.6,0.2778,0.1461,1,1.0,0
 2026-11-24,Portsmouth vs West Ham,Konstantinos Mavropanos,To score at least 2 goals,1.5,46.0,0.0217,0.016,1,0.0,0
-2026-11-24,Portsmouth vs West Ham,Joël Piroe,To Get a Card,0.5,4.6,0.2174,0.1119,1,0.0,0
+2026-11-24,Portsmouth vs West Ham,Arne Engels,Player's shots on target,0.5,2.1,0.4762,0.3104,1,1.0,1
 2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To score at least 2 goals,1.5,46.0,0.0217,0.0003,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Joël Piroe,To Score,0.5,3.1,0.3226,0.2044,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Soungoutou Magassa,To Score,0.5,5.75,0.1739,0.0254,0,0.0,0
@@ -22583,7 +22577,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To Get a Card,0.5,4.3,0.2326,0.0292,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Madiodio Dia,Player's shots on target,0.5,4.5,0.2222,0.0738,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Odin Bailey,Player's shots on target,0.5,2.6,0.3846,0.2607,1,1.0,1
-2026-11-24,Portsmouth vs West Ham,Divine Mukasa,To Score,0.5,3.8,0.2632,0.0475,0,0.0,0
 2026-11-24,Portsmouth vs West Ham,Max Kilman,To Score,0.5,9.5,0.1053,0.0648,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Zak Swanson,To Get a Card,0.5,4.1,0.2439,0.1432,1,0.0,0
 2026-11-24,Portsmouth vs West Ham,Joël Piroe,Player's shots on target,0.5,1.63,0.6135,0.4892,1,1.0,1
@@ -22650,7 +22643,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Sheffield United vs Southampton,Ryan Manning,To score at least 2 goals,1.5,36.0,0.0278,0.0005,0,0.0,0
 2026-11-24,Sheffield United vs Southampton,Flynn Downes,To Get a Card,0.5,3.1,0.3226,0.2273,1,0.0,0
 2026-11-24,Sheffield United vs Southampton,Flynn Downes,To Score,0.5,9.0,0.1111,0.0689,1,0.0,0
-2026-11-24,Sheffield United vs Southampton,Thomas Cannon,To score at least 3 goals,2.5,51.0,0.0196,0.0013,1,0.0,0
 2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,To give an assist,0.5,5.3,0.1887,0.0733,1,0.0,0
 2026-11-24,Sheffield United vs Southampton,Jairo Riedewald,Player's shots on target,0.5,4.0,0.25,0.0689,0,0.0,0
 2026-11-24,Sheffield United vs Southampton,Jack Stephens,To score at least 2 goals,1.5,101.0,0.0099,0.0002,0,0.0,0
@@ -22676,8 +22668,9 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Sheffield United vs Southampton,Sydie Peck,To score at least 2 goals,1.5,23.0,0.0435,0.0212,1,1.0,0
 2026-11-24,Sheffield United vs Southampton,Ryan Manning,To Get a Card,0.5,3.6,0.2778,0.0365,0,0.0,0
 2026-11-24,Sheffield United vs Southampton,Cameron Bragg,Player's shots on target,0.5,2.65,0.3774,0.2134,1,0.0,0
+2026-11-24,Sheffield United vs Southampton,Sydie Peck,Player's shots on target,0.5,1.98,0.5051,0.4676,1,2.0,1
 2026-11-24,Sheffield United vs Southampton,Thomas Cannon,Player's shots on target,0.5,1.4,0.7143,0.4389,1,0.0,0
-2026-11-24,Sheffield United vs Southampton,Samuel Edozie,To score at least 2 goals,1.5,17.0,0.0588,0.0006,0,0.0,0
+2026-11-24,Sheffield United vs Southampton,Kalvin Phillips,To score at least 2 goals,1.5,36.0,0.0278,0.0004,0,0.0,0
 2026-11-24,Sheffield United vs Southampton,Tahith Chong,To Get a Card,0.5,4.5,0.2222,0.1202,1,0.0,0
 2026-11-24,Sheffield United vs Southampton,Cameron Bragg,To Score,0.5,5.5,0.1818,0.0919,1,0.0,0
 2026-11-24,Sheffield United vs Southampton,James Ward-Prowse,Player's shots on target,0.5,2.85,0.3509,0.2703,1,0.0,0
@@ -22774,7 +22767,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Hibernian vs Dundee,Joe Newell,To give an assist,0.5,4.9,0.2041,0.1216,1,0.0,0
 2026-11-24,Hibernian vs Dundee,Martin Boyle,Player's shots on target,0.5,1.22,0.8197,0.4187,1,1.0,1
 2026-11-24,Hibernian vs Dundee,Nicky Cadden,To give an assist,0.5,4.2,0.2381,0.1023,1,0.0,0
-2026-11-24,Hibernian vs Dundee,Marko Ivezic,To give an assist,0.5,6.0,0.1667,0.026,1,0.0,0
 2026-11-24,Hibernian vs Dundee,Thibault Klidje,Player's shots on target,0.5,1.21,0.8264,0.429,1,1.0,1
 2026-11-24,Hibernian vs Dundee,Thibault Klidje,Player's shots on target,1.5,2.2,0.4545,0.109,1,1.0,0
 2026-11-24,Hibernian vs Dundee,Alan Forrest,To Score,0.5,6.0,0.1667,0.0193,0,0.0,0
@@ -22812,9 +22804,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Wolves vs Derby,Adam Armstrong,To score at least 2 goals,1.5,6.75,0.1481,0.032,1,2.0,1
 2026-11-24,Wolves vs Derby,Kieran Trippier,To Get a Card,0.5,5.0,0.2,0.1641,1,0.0,0
 2026-11-24,Wolves vs Derby,Adam Armstrong,To Score,0.5,2.2,0.4545,0.2421,1,2.0,1
-2026-11-24,Wolves vs Derby,Hugo Bueno,To Get a Card,0.5,5.2,0.1923,0.1525,1,0.0,0
-2026-11-24,Wolves vs Derby,Kieran Trippier,To Get a Card,0.5,5.0,0.2,0.1641,1,0.0,0
-2026-11-24,Wolves vs Derby,Mateus Mane,Player's shots on target,1.5,2.25,0.4444,0.0883,1,2.0,1
 2026-11-24,Wolves vs Derby,Jackson Tchatchoua,To give an assist,0.5,5.5,0.1818,0.0123,0,0.0,0
 2026-11-24,Wolves vs Derby,Hugo Bueno,To Get a Card,0.5,5.2,0.1923,0.1525,1,0.0,0
 2026-11-24,Wolves vs Derby,Rafiki Said,To Score,0.5,2.45,0.4082,0.1623,1,0.0,0
@@ -22851,18 +22840,17 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Wolves vs Derby,Rafiki Said,Player's shots on target,0.5,1.38,0.7246,0.5228,1,0.0,0
 2026-11-24,Wolves vs Derby,Toti Gomes,To Get a Card,0.5,4.8,0.2083,0.0333,0,0.0,0
 2026-11-24,Wolves vs Derby,Jordan James,To Score,0.5,3.5,0.2857,0.0603,0,0.0,0
-2026-11-24,Wolves vs Derby,Fernando Lopez,Player's shots on target,1.5,2.6,0.3846,0.1103,1,2.0,1
-2026-11-24,Wolves vs Derby,Jordan James,To Get a Card,0.5,4.1,0.2439,0.0405,0,0.0,0
 2026-11-24,Wolves vs Derby,Dion Sanderson,To Score,0.5,15.0,0.0667,0.0186,1,0.0,0
 2026-11-24,Wolves vs Derby,Kieran Trippier,To Score,0.5,6.5,0.1538,0.0163,1,0.0,0
-2026-11-24,Wolves vs Derby,Jordan James,Player's shots on target,0.5,1.8,0.5556,0.1153,0,0.0,0
 2026-11-24,Wolves vs Derby,Ladislav Krejcí,Player's shots on target,0.5,3.1,0.3226,0.2518,1,0.0,0
+2026-11-24,Wolves vs Derby,Carlton Morris,To Get a Card,0.5,3.2,0.3125,0.1212,1,0.0,0
+2026-11-24,Wolves vs Derby,Carlton Morris,Player's shots on target,0.5,1.6,0.625,0.4441,1,1.0,1
 2026-11-24,Wolves vs Derby,Eiran Cashin,To Get a Card,0.5,2.85,0.3509,0.0497,0,0.0,0
 2026-11-24,Wolves vs Derby,Nasser Djiga,To Get a Card,0.5,5.0,0.2,0.1495,1,0.0,0
 2026-11-24,Wolves vs Derby,Fernando Lopez,To Score,0.5,2.45,0.4082,0.1789,1,0.0,0
 2026-11-24,Wolves vs Derby,Eiran Cashin,To Score,0.5,14.0,0.0714,0.0214,0,0.0,0
 2026-11-24,Wolves vs Derby,Dion Sanderson,To Get a Card,0.5,3.7,0.2703,0.1638,1,0.0,0
-2026-11-24,Wolves vs Derby,Carlton Morris,Player's shots on target,0.5,1.6,0.625,0.4441,1,1.0,1
+2026-11-24,Wolves vs Derby,Fernando Lopez,Player's shots on target,1.5,2.6,0.3846,0.1103,1,2.0,1
 2026-11-24,Wolves vs Derby,Mohammed Fuseini,To Score,0.5,6.0,0.1667,0.1288,1,0.0,0
 2026-11-24,Wolves vs Derby,Max Johnston,To Get a Card,0.5,3.2,0.3125,0.0257,0,0.0,0
 2026-11-24,Wolves vs Derby,Marshall Munetsi,To Get a Card,0.5,4.0,0.25,0.0315,0,0.0,0
@@ -22891,8 +22879,9 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Wolves vs Derby,Yerson Mosquera,Player's shots on target,0.5,2.5,0.4,0.0655,0,0.0,0
 2026-11-24,Wolves vs Derby,Fernando Lopez,To give an assist,0.5,3.2,0.3125,0.1134,1,0.0,0
 2026-11-24,Wolves vs Derby,Fernando Lopez,To score at least 2 goals,1.5,8.5,0.1176,0.017,1,0.0,0
-2026-11-24,Wolves vs Derby,Yerson Mosquera,To score at least 2 goals,1.5,35.0,0.0286,0.0002,0,0.0,0
 2026-11-24,Wolves vs Derby,Nasser Djiga,To score at least 2 goals,1.5,51.0,0.0196,0.0001,1,0.0,0
+2026-11-24,Wolves vs Derby,Yerson Mosquera,To Score,0.5,5.2,0.1923,0.0184,0,0.0,0
+2026-11-24,Wolves vs Derby,Yerson Mosquera,To score at least 2 goals,1.5,35.0,0.0286,0.0002,0,0.0,0
 2026-11-24,Wolves vs Derby,Jack Robinson,To Get a Card,0.5,3.1,0.3226,0.0375,0,0.0,0
 2026-11-24,Wolves vs Derby,Alex Mowatt,To Score,0.5,11.0,0.0909,0.0528,1,0.0,0
 2026-11-24,Wolves vs Derby,David Ozoh,To Score,0.5,15.0,0.0667,0.0665,1,0.0,0
@@ -22902,7 +22891,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Wolves vs Derby,David Ozoh,To Get a Card,0.5,2.9,0.3448,0.2078,1,0.0,0
 2026-11-24,Wolves vs Derby,Marshall Munetsi,Player's shots on target,0.5,1.65,0.6061,0.1118,0,0.0,0
 2026-11-24,Wolves vs Derby,Bobby Clark,To score at least 2 goals,1.5,61.0,0.0164,0.0007,0,0.0,0
-2026-11-24,Wolves vs Derby,Yerson Mosquera,To Score,0.5,5.2,0.1923,0.0184,0,0.0,0
 2026-11-24,Wolves vs Derby,Marshall Munetsi,To score at least 2 goals,1.5,14.0,0.0714,0.0007,0,0.0,0
 2026-11-24,Wolves vs Derby,Bobby Clark,To Get a Card,0.5,3.3,0.303,0.0353,0,0.0,0
 2026-11-24,Wolves vs Derby,Mateus Mane,To Get a Card,0.5,5.0,0.2,0.1589,1,0.0,0
@@ -22915,7 +22903,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Wolves vs Derby,Jordan James,To give an assist,0.5,3.8,0.2632,0.0188,0,0.0,0
 2026-11-24,Wolves vs Derby,Carlton Morris,To Score,0.5,3.6,0.2778,0.1657,1,0.0,0
 2026-11-24,Wolves vs Derby,Marshall Munetsi,To Score,0.5,3.0,0.3333,0.0374,0,0.0,0
-2026-11-24,Rangers vs Aberdeen,Emmanuel Fernandez,Player's shots on target,0.5,1.84,0.5435,0.1937,1,0.0,0
+2026-11-24,Rangers vs Aberdeen,Kevin Nisbet,Player's shots on target,1.5,3.6,0.2778,0.192,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Jack Milne,To Get a Card,0.5,3.1,0.3226,0.1578,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Ryan Naderi,Player's shots on target,2.5,3.5,0.2857,0.0682,1,1.0,0
 2026-11-24,Rangers vs Aberdeen,Kevin Kelsy,To score at least 3 goals,2.5,13.0,0.0769,0.0062,1,0.0,0
@@ -22930,18 +22918,17 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Rangers vs Aberdeen,Tuur Rommens,Player's shots on target,0.5,2.6,0.3846,0.0769,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Kevin Nisbet,To score at least 2 goals,1.5,18.0,0.0556,0.0412,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Dujon Sterling,To give an assist,0.5,4.0,0.25,0.0104,0,0.0,0
-2026-11-24,Rangers vs Aberdeen,Lewis Smith,Player's shots on target,0.5,2.35,0.4255,0.0887,0,0.0,0
+2026-11-24,Rangers vs Aberdeen,Nicolas Raskin,To give an assist,0.5,4.1,0.2439,0.0967,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Kevin Kelsy,Player's shots on target,1.5,1.58,0.6329,0.1977,1,0.0,0
-2026-11-24,Rangers vs Aberdeen,Olwethu Makhanya,To give an assist,0.5,8.0,0.125,0.0154,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Emmanuel Fernandez,To give an assist,0.5,9.0,0.1111,0.0157,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Gavin Molloy,Player's shots on target,0.5,6.0,0.1667,0.0826,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Lewis Smith,To give an assist,0.5,8.0,0.125,0.0258,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Emmanuel Fernandez,Player's shots on target,1.5,4.7,0.2128,0.0201,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Tony Yogane,Player's shots on target,0.5,3.7,0.2703,0.0579,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Brad Lyons,To give an assist,0.5,8.5,0.1176,0.0443,1,0.0,0
-2026-11-24,Rangers vs Aberdeen,Nicolas Raskin,To give an assist,0.5,4.1,0.2439,0.0967,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Tony Yogane,To give an assist,0.5,8.0,0.125,0.0251,0,0.0,0
-2026-11-24,Rangers vs Aberdeen,Jack Milne,Player's shots on target,0.5,4.5,0.2222,0.1572,1,0.0,0
+2026-11-24,Rangers vs Aberdeen,Lewis Smith,Player's shots on target,0.5,2.35,0.4255,0.0887,0,0.0,0
+2026-11-24,Rangers vs Aberdeen,Dujon Sterling,Player's shots on target,1.5,7.0,0.1429,0.0029,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Badredine Bouanani,Player's shots on target,1.5,3.5,0.2857,0.1339,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Nicolas Raskin,Player's shots on target,1.5,5.8,0.1724,0.0761,1,1.0,0
 2026-11-24,Rangers vs Aberdeen,Ryan Naderi,Player's shots on target,3.5,7.5,0.1333,0.0151,1,1.0,0
@@ -22952,7 +22939,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Rangers vs Aberdeen,Djeidi Gassama,To give an assist,0.5,2.7,0.3704,0.157,1,1.0,1
 2026-11-24,Rangers vs Aberdeen,James Penrice,To give an assist,0.5,6.0,0.1667,0.0544,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Djeidi Gassama,To Get a Card,0.5,5.2,0.1923,0.0946,1,0.0,0
-2026-11-24,Rangers vs Aberdeen,Dujon Sterling,Player's shots on target,1.5,7.0,0.1429,0.0029,0,0.0,0
+2026-11-24,Rangers vs Aberdeen,Jack Milne,Player's shots on target,0.5,4.5,0.2222,0.1572,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Lewis Smith,To Get a Card,0.5,3.5,0.2857,0.0261,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Brad Lyons,To Get a Card,0.5,3.0,0.3333,0.1966,1,1.0,1
 2026-11-24,Rangers vs Aberdeen,Ryan Naderi,To Get a Card,0.5,5.5,0.1818,0.1175,1,0.0,0
@@ -22987,7 +22974,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-24,Rangers vs Aberdeen,Brad Lyons,To Score,0.5,9.5,0.1053,0.1156,1,1.0,1
 2026-11-24,Rangers vs Aberdeen,Tuur Rommens,To give an assist,0.5,5.0,0.2,0.0209,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Ryan Naderi,To score at least 2 goals,1.5,5.3,0.1887,0.0442,1,1.0,0
-2026-11-24,Rangers vs Aberdeen,Ryan Naderi,To Score,0.5,1.95,0.5128,0.2823,1,1.0,1
+2026-11-24,Rangers vs Aberdeen,Ryan Naderi,Player's shots on target,0.5,1.13,0.885,0.6062,1,1.0,1
 2026-11-24,Rangers vs Aberdeen,Tony Yogane,To Get a Card,0.5,3.6,0.2778,0.0198,0,0.0,0
 2026-11-24,Rangers vs Aberdeen,Kevin Kelsy,To score at least 2 goals,1.5,4.3,0.2326,0.0528,1,0.0,0
 2026-11-24,Rangers vs Aberdeen,Gavin Molloy,To Get a Card,0.5,3.0,0.3333,0.0973,1,0.0,0
@@ -23015,7 +23002,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Bolton vs West Brom,Rabby Nzingoula,To Get a Card,0.5,3.6,0.2778,0.2451,1,1.0,1
 2026-11-25,Bolton vs West Brom,Samuel Iling-Junior,To Score,0.5,5.0,0.2,0.0556,1,0.0,0
 2026-11-25,Bolton vs West Brom,Jimmy Morgan,To Score,0.5,2.23,0.4484,0.0481,0,0.0,0
-2026-11-25,Bolton vs West Brom,Kyliane Dong,To Get a Card,0.5,4.0,0.25,0.0372,0,0.0,0
+2026-11-25,Bolton vs West Brom,Harry Whitwell,To give an assist,0.5,4.9,0.2041,0.0795,1,0.0,0
 2026-11-25,Bolton vs West Brom,Josh Sheehan,To score at least 2 goals,1.5,51.0,0.0196,0.0068,1,0.0,0
 2026-11-25,Bolton vs West Brom,Gaizka Larrazabal,Player's shots on target,0.5,2.7,0.3704,0.3451,1,0.0,0
 2026-11-25,Bolton vs West Brom,Brayann Pereira,To Get a Card,0.5,4.1,0.2439,0.1855,1,1.0,1
@@ -23177,6 +23164,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Burnley vs Birmingham,Luis Vázquez,To score at least 2 goals,1.5,15.0,0.0667,0.0005,0,0.0,0
 2026-11-25,Burnley vs Birmingham,Aaron Ramsey,To score at least 2 goals,1.5,16.0,0.0625,0.008,1,0.0,0
 2026-11-25,Burnley vs Birmingham,Carlos Vicente,Player's shots on target,0.5,1.8,0.5556,0.3572,1,1.0,1
+2026-11-25,Burnley vs Birmingham,Aaron Ramsey,To give an assist,0.5,3.8,0.2632,0.0503,1,0.0,0
 2026-11-25,Burnley vs Birmingham,Andréas Hountondji,To score at least 2 goals,1.5,17.0,0.0588,0.001,0,0.0,0
 2026-11-25,Burnley vs Birmingham,Alex Cochrane,To score at least 2 goals,1.5,71.0,0.0141,0.0035,1,0.0,0
 2026-11-25,Burnley vs Birmingham,Kyle Walker,Player's shots on target,0.5,4.0,0.25,0.0798,1,0.0,0
@@ -23200,6 +23188,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Burnley vs Birmingham,Largie Ramazani,Player's shots on target,0.5,1.53,0.6536,0.5169,1,2.0,1
 2026-11-25,Burnley vs Birmingham,Liam Millar,To score at least 2 goals,1.5,15.0,0.0667,0.0153,1,0.0,0
 2026-11-25,Burnley vs Birmingham,Igor Julio,Player's shots on target,0.5,4.0,0.25,0.085,1,0.0,0
+2026-11-25,Burnley vs Birmingham,Patrick Roberts,Player's shots on target,0.5,2.0,0.5,0.0936,0,0.0,0
 2026-11-25,Burnley vs Birmingham,Igor Julio,To Get a Card,0.5,3.3,0.303,0.1468,1,0.0,0
 2026-11-25,Burnley vs Birmingham,Jay Stansfield,To Get a Card,0.5,3.6,0.2778,0.1856,1,0.0,0
 2026-11-25,Burnley vs Birmingham,Marcus Edwards,To Score,0.5,4.0,0.25,0.0401,0,0.0,0
@@ -23283,7 +23272,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Watford vs Blackburn,Soumaïla Coulibaly,To Get a Card,0.5,3.8,0.2632,0.156,1,0.0,0
 2026-11-25,Watford vs Blackburn,Hector Kyprianou,To score at least 2 goals,1.5,71.0,0.0141,0.0024,1,0.0,0
 2026-11-25,Watford vs Blackburn,Soumaïla Coulibaly,Player's shots on target,0.5,4.0,0.25,0.079,1,0.0,0
-2026-11-25,Watford vs Blackburn,Branimir Mlačić,To Get a Card,0.5,3.3,0.303,0.0602,0,0.0,0
 2026-11-25,Watford vs Blackburn,Mamadou Doumbia,To score at least 2 goals,1.5,18.0,0.0556,0.0095,1,0.0,0
 2026-11-25,Watford vs Blackburn,Andri Gudjohnsen,To Get a Card,0.5,4.0,0.25,0.1093,1,0.0,0
 2026-11-25,Watford vs Blackburn,Yuki Ohashi,Player's shots on target,0.5,1.29,0.7752,0.1453,0,1.0,1
@@ -23338,7 +23326,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Stoke vs Millwall,Jake Cooper,To Get a Card,0.5,3.0,0.3333,0.177,1,0.0,0
 2026-11-25,Stoke vs Millwall,Ben Johnson,Player's shots on target,0.5,3.3,0.303,0.3139,1,1.0,1
 2026-11-25,Stoke vs Millwall,Justin Devenny,Player's shots on target,1.5,4.8,0.2083,0.0477,1,0.0,0
-2026-11-25,Stoke vs Millwall,Ben Johnson,Player's shots on target,0.5,3.3,0.303,0.3139,1,1.0,1
 2026-11-25,Stoke vs Millwall,Ben Wilmot,To score at least 2 goals,1.5,91.0,0.011,0.0076,1,0.0,0
 2026-11-25,Stoke vs Millwall,Jordi Osei-Tutu,To score at least 2 goals,1.5,51.0,0.0196,0.0002,1,0.0,0
 2026-11-25,Stoke vs Millwall,Róbert Bozeník,To score at least 3 goals,2.5,67.0,0.0149,0.0,0,0.0,0
@@ -23348,8 +23335,8 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Stoke vs Millwall,Jenson Metcalfe,To give an assist,0.5,6.5,0.1538,0.0885,1,0.0,0
 2026-11-25,Stoke vs Millwall,Million Manhoef,To score at least 2 goals,1.5,12.5,0.08,0.0072,1,0.0,0
 2026-11-25,Stoke vs Millwall,Mihailo Ivanović,To score at least 2 goals,1.5,20.0,0.05,0.018,1,0.0,0
-2026-11-25,Stoke vs Millwall,Lyndon Dykes,To give an assist,0.5,6.0,0.1667,0.0269,0,0.0,0
 2026-11-25,Stoke vs Millwall,Lyndon Dykes,Player's shots on target,0.5,1.85,0.5405,0.1132,0,0.0,0
+2026-11-25,Stoke vs Millwall,Mihailo Ivanović,To Score,0.5,3.6,0.2778,0.1837,1,0.0,0
 2026-11-25,Stoke vs Millwall,Junior Tchamadeu,To Score,0.5,9.0,0.1111,0.0216,0,0.0,0
 2026-11-25,Stoke vs Millwall,Bosun Lawal,To Score,0.5,9.0,0.1111,0.0212,1,0.0,0
 2026-11-25,Stoke vs Millwall,Derek Mazou-Sacko,Player's shots on target,0.5,2.7,0.3704,0.2697,1,0.0,0
@@ -23405,4 +23392,3 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-25,Stoke vs Millwall,Luke Graham,Player's shots on target,0.5,2.9,0.3448,0.098,1,0.0,0
 2026-11-25,Stoke vs Millwall,Luke Cundle,To Get a Card,0.5,3.6,0.2778,0.0227,0,0.0,0
 2026-11-25,Stoke vs Millwall,Kyrell Lisbie,To give an assist,0.5,4.7,0.2128,0.0101,0,0.0,0
-2026-11-25,Stoke vs Millwall,Luke Cundle,To Get a Card,0.5,3.6,0.2778,0.0227,0,0.0,0
