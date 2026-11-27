@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 27/11/2026 21:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 27/11/2026 21:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MIBR vs 100 Thieves — 28/11 · 08:00
 

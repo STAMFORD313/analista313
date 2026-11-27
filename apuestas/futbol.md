@@ -1,188 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 27/11/2026 21:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Nacional +0.25 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 48% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Nacional** @ **1.79** (Unibet) · prob 53% vs casas 51% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Nacional** @ **1.44** (Unibet) · prob 63% vs casas 64% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Maritimo** @ **1.77** (Unibet) · prob 54% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Maritimo** @ **1.28** (Unibet) · prob 71% vs casas 72% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.78** (Unibet) · prob 55% vs casas 52% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
-
-## Maritimo vs Nacional — 27/11 · 21:15
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 0.90)  
-1 39% · X 31% · 2 30%  
-1X 70% · X2 61% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Maritimo ❌➖❌❌❌ | Nacional ❌❌✅❌✅  
-• H2H: 28 desde 2005: 9V-9E-10D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)  
-• Favorito de las casas: Maritimo @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.0: total +9.5 45% · Maritimo +5.5 42% · Nacional +4.5 38%  
-Tarjetas 2.2 - 2.6: total +5.5 35% · Maritimo +2.5 38% · Nacional +2.5 48%  
-Faltas 14.1 - 14.6: total +26.5 63% · Maritimo +13.5 54% · Nacional +13.5 58%  
-Tiros a puerta 4.7 - 3.7: total +8.5 46% · Maritimo +4.5 49% · Nacional +3.5 50%  
-🧩 Crear apuesta: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas → prob. 24%, cuota justa 4.09 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional → prob. 15%, cuota justa 6.50  
-🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Nacional): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 41% · ventaja -7%  
+Actualizado 27/11/2026 21:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fluminense vs Cruzeiro — 28/11 · 00:00
 
@@ -10835,6 +10653,7 @@ Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.
 Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
 🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
 
 ## Real Madrid vs Alaves — 28/11 · 21:00
 
@@ -10860,6 +10679,7 @@ Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%
 Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
 
 ## Valladolid vs Sociedad B — 28/11 · 21:00
 
@@ -10886,12 +10706,624 @@ Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
 
+## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Sparta Rotterdam** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 2.02)  
+1 43% · X 26% · 2 31%  
+1X 69% · X2 57% · 12 74%  
++1.5 90% · +2.5 74% · +3.5 54% · Ambos marcan 73%  
+Marcadores: 1-1 8% · 1-2 8% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅✅❌✅ | Sparta Rotterdam ✅❌✅❌❌  
+• H2H: 4 desde 2021: 1V-1E-2D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Cambuur: 0 fuera, 1 duda; Sparta Rotterdam: 2 fuera, 4 duda (Bruno Martins Indi, Bruno Martins Indi)  
+• Favorito de las casas: Cambuur @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · Cambuur +5.5 50% · Sparta Rotterdam +4.5 48%  
+Tarjetas 1.4 - 1.8: total +3.5 41% · Cambuur +1.5 41% · Sparta Rotterdam +1.5 55%  
+Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.5 49%  
+Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
+
+## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Sparta Rotterdam** @ **1.49** (Unibet) · prob 63% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 2.02)  
+1 43% · X 26% · 2 31%  
+1X 69% · X2 57% · 12 74%  
++1.5 90% · +2.5 74% · +3.5 54% · Ambos marcan 73%  
+Marcadores: 1-1 8% · 1-2 8% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅✅❌✅ | Sparta Rotterdam ✅❌✅❌❌  
+• H2H: 4 desde 2021: 1V-1E-2D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Cambuur: 0 fuera, 1 duda; Sparta Rotterdam: 2 fuera, 4 duda (Bruno Martins Indi, Bruno Martins Indi)  
+• Favorito de las casas: Cambuur @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · Cambuur +5.5 50% · Sparta Rotterdam +4.5 48%  
+Tarjetas 1.4 - 1.8: total +3.5 41% · Cambuur +1.5 41% · Sparta Rotterdam +1.5 55%  
+Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.5 49%  
+Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
+
+## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.18** (Unibet) · prob 79% vs casas 78% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 2.02)  
+1 43% · X 26% · 2 31%  
+1X 69% · X2 57% · 12 74%  
++1.5 90% · +2.5 74% · +3.5 54% · Ambos marcan 73%  
+Marcadores: 1-1 8% · 1-2 8% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅✅❌✅ | Sparta Rotterdam ✅❌✅❌❌  
+• H2H: 4 desde 2021: 1V-1E-2D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Cambuur: 0 fuera, 1 duda; Sparta Rotterdam: 2 fuera, 4 duda (Bruno Martins Indi, Bruno Martins Indi)  
+• Favorito de las casas: Cambuur @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · Cambuur +5.5 50% · Sparta Rotterdam +4.5 48%  
+Tarjetas 1.4 - 1.8: total +3.5 41% · Cambuur +1.5 41% · Sparta Rotterdam +1.5 55%  
+Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.5 49%  
+Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
+
+## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 79% vs casas 76% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 2.02)  
+1 43% · X 26% · 2 31%  
+1X 69% · X2 57% · 12 74%  
++1.5 90% · +2.5 74% · +3.5 54% · Ambos marcan 73%  
+Marcadores: 1-1 8% · 1-2 8% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅✅❌✅ | Sparta Rotterdam ✅❌✅❌❌  
+• H2H: 4 desde 2021: 1V-1E-2D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Cambuur: 0 fuera, 1 duda; Sparta Rotterdam: 2 fuera, 4 duda (Bruno Martins Indi, Bruno Martins Indi)  
+• Favorito de las casas: Cambuur @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · Cambuur +5.5 50% · Sparta Rotterdam +4.5 48%  
+Tarjetas 1.4 - 1.8: total +3.5 41% · Cambuur +1.5 41% · Sparta Rotterdam +1.5 55%  
+Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.5 49%  
+Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
+
+## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Cambuur** @ **1.19** (Unibet) · prob 77% vs casas 77% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 2.02)  
+1 43% · X 26% · 2 31%  
+1X 69% · X2 57% · 12 74%  
++1.5 90% · +2.5 74% · +3.5 54% · Ambos marcan 73%  
+Marcadores: 1-1 8% · 1-2 8% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅✅❌✅ | Sparta Rotterdam ✅❌✅❌❌  
+• H2H: 4 desde 2021: 1V-1E-2D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Cambuur: 0 fuera, 1 duda; Sparta Rotterdam: 2 fuera, 4 duda (Bruno Martins Indi, Bruno Martins Indi)  
+• Favorito de las casas: Cambuur @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · Cambuur +5.5 50% · Sparta Rotterdam +4.5 48%  
+Tarjetas 1.4 - 1.8: total +3.5 41% · Cambuur +1.5 41% · Sparta Rotterdam +1.5 55%  
+Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.5 49%  
+Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
+
+## Cambuur vs Sparta Rotterdam — 28/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Cambuur** @ **1.56** (Unibet) · prob 61% vs casas 59% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 2.02)  
+1 43% · X 26% · 2 31%  
+1X 69% · X2 57% · 12 74%  
++1.5 90% · +2.5 74% · +3.5 54% · Ambos marcan 73%  
+Marcadores: 1-1 8% · 1-2 8% · 2-2 7% · 2-1 7%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅✅❌✅ | Sparta Rotterdam ✅❌✅❌❌  
+• H2H: 4 desde 2021: 1V-1E-2D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Cambuur: 0 fuera, 1 duda; Sparta Rotterdam: 2 fuera, 4 duda (Bruno Martins Indi, Bruno Martins Indi)  
+• Favorito de las casas: Cambuur @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · Cambuur +5.5 50% · Sparta Rotterdam +4.5 48%  
+Tarjetas 1.4 - 1.8: total +3.5 41% · Cambuur +1.5 41% · Sparta Rotterdam +1.5 55%  
+Faltas 9.8 - 11.6: total +21.5 48% · Cambuur +10.5 40% · Sparta Rotterdam +11.5 49%  
+Tiros a puerta 6.1 - 4.8: total +10.5 52% · Cambuur +5.5 54% · Sparta Rotterdam +5.5 36%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 5.5 tiros a puerta de Sparta Rotterdam + Menos de 10.5 faltas de Cambuur + Menos de 3.5 tarjetas → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 44% · ventaja -2%  
+
+## Real Madrid vs Alaves — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Alaves** @ **1.20** (Unibet) · prob 75% vs casas 76% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.58 - 0.70)  
+1 79% · X 14% · 2 6%  
+1X 94% · X2 21% · 12 86%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 47%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Real Madrid ✅✅✅✅✅ | Alaves ❌➖❌➖✅  
+• H2H: 20 desde 2005: 18V-0E-2D · 3.2 goles/partido · +2.5 en 80%  
+• Bajas: Real Madrid: 1 fuera, 3 duda (Rodrygo); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
+• Favorito de las casas: Real Madrid @ 1.13  
+📐 **Estadísticas esperadas**  
+Córners 7.8 - 2.9: total +10.5 49% · Real Madrid +5.5 71% · Alaves +4.5 18%  
+Tarjetas 1.8 - 2.6: total +4.5 43% · Real Madrid +2.5 26% · Alaves +2.5 47%  
+Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%  
+Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
+
+## Real Madrid vs Alaves — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 2.5 córners de Alaves** @ **2.17** (Unibet) · prob 45% vs casas 42% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.58 - 0.70)  
+1 79% · X 14% · 2 6%  
+1X 94% · X2 21% · 12 86%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 47%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Real Madrid ✅✅✅✅✅ | Alaves ❌➖❌➖✅  
+• H2H: 20 desde 2005: 18V-0E-2D · 3.2 goles/partido · +2.5 en 80%  
+• Bajas: Real Madrid: 1 fuera, 3 duda (Rodrygo); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
+• Favorito de las casas: Real Madrid @ 1.13  
+📐 **Estadísticas esperadas**  
+Córners 7.8 - 2.9: total +10.5 49% · Real Madrid +5.5 71% · Alaves +4.5 18%  
+Tarjetas 1.8 - 2.6: total +4.5 43% · Real Madrid +2.5 26% · Alaves +2.5 47%  
+Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%  
+Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
+
+## Real Madrid vs Alaves — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 8.5 córners de Real Madrid** @ **2.70** (Unibet) · prob 36% vs casas 34% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.58 - 0.70)  
+1 79% · X 14% · 2 6%  
+1X 94% · X2 21% · 12 86%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 47%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Real Madrid ✅✅✅✅✅ | Alaves ❌➖❌➖✅  
+• H2H: 20 desde 2005: 18V-0E-2D · 3.2 goles/partido · +2.5 en 80%  
+• Bajas: Real Madrid: 1 fuera, 3 duda (Rodrygo); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
+• Favorito de las casas: Real Madrid @ 1.13  
+📐 **Estadísticas esperadas**  
+Córners 7.8 - 2.9: total +10.5 49% · Real Madrid +5.5 71% · Alaves +4.5 18%  
+Tarjetas 1.8 - 2.6: total +4.5 43% · Real Madrid +2.5 26% · Alaves +2.5 47%  
+Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%  
+Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
+
+## Real Madrid vs Alaves — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners de Real Madrid** @ **1.09** (Unibet) · prob 85% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.58 - 0.70)  
+1 79% · X 14% · 2 6%  
+1X 94% · X2 21% · 12 86%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 47%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Real Madrid ✅✅✅✅✅ | Alaves ❌➖❌➖✅  
+• H2H: 20 desde 2005: 18V-0E-2D · 3.2 goles/partido · +2.5 en 80%  
+• Bajas: Real Madrid: 1 fuera, 3 duda (Rodrygo); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
+• Favorito de las casas: Real Madrid @ 1.13  
+📐 **Estadísticas esperadas**  
+Córners 7.8 - 2.9: total +10.5 49% · Real Madrid +5.5 71% · Alaves +4.5 18%  
+Tarjetas 1.8 - 2.6: total +4.5 43% · Real Madrid +2.5 26% · Alaves +2.5 47%  
+Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%  
+Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
+
+## Real Madrid vs Alaves — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 14.5 córners** @ **1.10** (Unibet) · prob 84% vs casas 83% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.58 - 0.70)  
+1 79% · X 14% · 2 6%  
+1X 94% · X2 21% · 12 86%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 47%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Real Madrid ✅✅✅✅✅ | Alaves ❌➖❌➖✅  
+• H2H: 20 desde 2005: 18V-0E-2D · 3.2 goles/partido · +2.5 en 80%  
+• Bajas: Real Madrid: 1 fuera, 3 duda (Rodrygo); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
+• Favorito de las casas: Real Madrid @ 1.13  
+📐 **Estadísticas esperadas**  
+Córners 7.8 - 2.9: total +10.5 49% · Real Madrid +5.5 71% · Alaves +4.5 18%  
+Tarjetas 1.8 - 2.6: total +4.5 43% · Real Madrid +2.5 26% · Alaves +2.5 47%  
+Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%  
+Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
+
+## Real Madrid vs Alaves — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 9.5 córners** @ **1.60** (Unibet) · prob 59% vs casas 58% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.58 - 0.70)  
+1 79% · X 14% · 2 6%  
+1X 94% · X2 21% · 12 86%  
++1.5 84% · +2.5 64% · +3.5 42% · Ambos marcan 47%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Real Madrid ✅✅✅✅✅ | Alaves ❌➖❌➖✅  
+• H2H: 20 desde 2005: 18V-0E-2D · 3.2 goles/partido · +2.5 en 80%  
+• Bajas: Real Madrid: 1 fuera, 3 duda (Rodrygo); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
+• Favorito de las casas: Real Madrid @ 1.13  
+📐 **Estadísticas esperadas**  
+Córners 7.8 - 2.9: total +10.5 49% · Real Madrid +5.5 71% · Alaves +4.5 18%  
+Tarjetas 1.8 - 2.6: total +4.5 43% · Real Madrid +2.5 26% · Alaves +2.5 47%  
+Faltas 9.5 - 14.5: total +25.5 37% · Real Madrid +12.5 17% · Alaves +12.5 67%  
+Tiros a puerta 7.9 - 2.9: total +9.5 62% · Real Madrid +5.5 76% · Alaves +3.5 34%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 córners de Alaves + Más de 5.5 tiros a puerta de Real Madrid + Menos de 2.5 tarjetas de Real Madrid + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Alaves + Menos de 2.5 tarjetas de Real Madrid): cuota Unibet aprox. 1.49 (producto de piernas) · prob. 61% · ventaja -10%  
+
+## Valladolid vs Sociedad B — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Sociedad B** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.09)  
+1 52% · X 27% · 2 21%  
+1X 79% · X2 48% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Valladolid ❌✅✅❌➖ | Sociedad B ❌✅➖➖❌  
+• H2H: 4 desde 2021: 2V-0E-2D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Valladolid: 0 fuera, 1 duda; Sociedad B: sin bajas  
+• Favorito de las casas: Valladolid @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.7: total +9.5 54% · Valladolid +5.5 57% · Sociedad B +4.5 31%  
+Tarjetas 2.5 - 3.2: total +6.5 35% · Valladolid +2.5 45% · Sociedad B +3.5 40%  
+Faltas 12.1 - 16.0: total +26.5 60% · Valladolid +13.5 34% · Sociedad B +13.5 71%  
+Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
+
+## Valladolid vs Sociedad B — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Sociedad B** @ **1.41** (Unibet) · prob 67% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.09)  
+1 52% · X 27% · 2 21%  
+1X 79% · X2 48% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Valladolid ❌✅✅❌➖ | Sociedad B ❌✅➖➖❌  
+• H2H: 4 desde 2021: 2V-0E-2D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Valladolid: 0 fuera, 1 duda; Sociedad B: sin bajas  
+• Favorito de las casas: Valladolid @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.7: total +9.5 54% · Valladolid +5.5 57% · Sociedad B +4.5 31%  
+Tarjetas 2.5 - 3.2: total +6.5 35% · Valladolid +2.5 45% · Sociedad B +3.5 40%  
+Faltas 12.1 - 16.0: total +26.5 60% · Valladolid +13.5 34% · Sociedad B +13.5 71%  
+Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
+
+## Valladolid vs Sociedad B — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 9.5 córners** @ **1.85** (Unibet) · prob 52% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.09)  
+1 52% · X 27% · 2 21%  
+1X 79% · X2 48% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Valladolid ❌✅✅❌➖ | Sociedad B ❌✅➖➖❌  
+• H2H: 4 desde 2021: 2V-0E-2D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Valladolid: 0 fuera, 1 duda; Sociedad B: sin bajas  
+• Favorito de las casas: Valladolid @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.7: total +9.5 54% · Valladolid +5.5 57% · Sociedad B +4.5 31%  
+Tarjetas 2.5 - 3.2: total +6.5 35% · Valladolid +2.5 45% · Sociedad B +3.5 40%  
+Faltas 12.1 - 16.0: total +26.5 60% · Valladolid +13.5 34% · Sociedad B +13.5 71%  
+Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
+
+## Valladolid vs Sociedad B — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 69% vs casas 69% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.09)  
+1 52% · X 27% · 2 21%  
+1X 79% · X2 48% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Valladolid ❌✅✅❌➖ | Sociedad B ❌✅➖➖❌  
+• H2H: 4 desde 2021: 2V-0E-2D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Valladolid: 0 fuera, 1 duda; Sociedad B: sin bajas  
+• Favorito de las casas: Valladolid @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.7: total +9.5 54% · Valladolid +5.5 57% · Sociedad B +4.5 31%  
+Tarjetas 2.5 - 3.2: total +6.5 35% · Valladolid +2.5 45% · Sociedad B +3.5 40%  
+Faltas 12.1 - 16.0: total +26.5 60% · Valladolid +13.5 34% · Sociedad B +13.5 71%  
+Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
+
+## Valladolid vs Sociedad B — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 6.5 córners de Valladolid** @ **2.38** (Unibet) · prob 41% vs casas 38% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.09)  
+1 52% · X 27% · 2 21%  
+1X 79% · X2 48% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Valladolid ❌✅✅❌➖ | Sociedad B ❌✅➖➖❌  
+• H2H: 4 desde 2021: 2V-0E-2D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Valladolid: 0 fuera, 1 duda; Sociedad B: sin bajas  
+• Favorito de las casas: Valladolid @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.7: total +9.5 54% · Valladolid +5.5 57% · Sociedad B +4.5 31%  
+Tarjetas 2.5 - 3.2: total +6.5 35% · Valladolid +2.5 45% · Sociedad B +3.5 40%  
+Faltas 12.1 - 16.0: total +26.5 60% · Valladolid +13.5 34% · Sociedad B +13.5 71%  
+Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
+
+## Valladolid vs Sociedad B — 28/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 7.5 córners de Valladolid** @ **1.27** (Unibet) · prob 69% vs casas 71% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 1.09)  
+1 52% · X 27% · 2 21%  
+1X 79% · X2 48% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Valladolid ❌✅✅❌➖ | Sociedad B ❌✅➖➖❌  
+• H2H: 4 desde 2021: 2V-0E-2D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Valladolid: 0 fuera, 1 duda; Sociedad B: sin bajas  
+• Favorito de las casas: Valladolid @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.7: total +9.5 54% · Valladolid +5.5 57% · Sociedad B +4.5 31%  
+Tarjetas 2.5 - 3.2: total +6.5 35% · Valladolid +2.5 45% · Sociedad B +3.5 40%  
+Faltas 12.1 - 16.0: total +26.5 60% · Valladolid +13.5 34% · Sociedad B +13.5 71%  
+Tiros a puerta 6.0 - 3.5: total +8.5 59% · Valladolid +5.5 53% · Sociedad B +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sociedad B + Más de 13.5 faltas de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 6.5 tarjetas → prob. 23%, cuota justa 4.37  
+
 ## Guimaraes vs Estrela — 28/11 · 21:30
 
 👀 candidata · 🇵🇹 Primeira Liga · **Más de 2.5 goles** @ **1.85** (Bet365) · prob 53% vs casas 53% · ventaja -3%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 61% · X 24% · 2 15%  
+1X 85% · X2 39% · 12 76%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
+• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
+• Favorito de las casas: Guimaraes @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
+Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
+Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
+Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+
+## Guimaraes vs Estrela — 28/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.53** (Unibet) · prob 62% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 61% · X 24% · 2 15%  
+1X 85% · X2 39% · 12 76%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
+• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
+• Favorito de las casas: Guimaraes @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
+Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
+Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
+Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+
+## Guimaraes vs Estrela — 28/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 61% vs casas 61% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 61% · X 24% · 2 15%  
+1X 85% · X2 39% · 12 76%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
+• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
+• Favorito de las casas: Guimaraes @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
+Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
+Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
+Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+
+## Guimaraes vs Estrela — 28/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 2.5 córners de Estrela** @ **1.49** (Unibet) · prob 63% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 61% · X 24% · 2 15%  
+1X 85% · X2 39% · 12 76%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
+• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
+• Favorito de las casas: Guimaraes @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
+Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
+Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
+Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+
+## Guimaraes vs Estrela — 28/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Estrela** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 61% · X 24% · 2 15%  
+1X 85% · X2 39% · 12 76%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
+• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
+• Favorito de las casas: Guimaraes @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
+Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
+Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
+Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+
+## Guimaraes vs Estrela — 28/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Guimaraes** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 61% · X 24% · 2 15%  
+1X 85% · X2 39% · 12 76%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
+• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
+• Favorito de las casas: Guimaraes @ 1.70  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
+Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
+Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
+Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+
+## Guimaraes vs Estrela — 28/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Guimaraes** @ **1.60** (Unibet) · prob 57% vs casas 57% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.84 - 0.81)  
 1 61% · X 24% · 2 15%  

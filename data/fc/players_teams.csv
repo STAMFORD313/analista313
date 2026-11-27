@@ -83620,16 +83620,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2401491,263331,Leipzig,B Dortmund,,
 2401492,263331,Bayern Munchen,Leipzig,,
 2401493,263331,Stuttgart,Frankfurt,,
-2402212,263343,Tottenham,Liverpool,1,2
-2402213,263343,Man City,Chelsea,1,0
-2402214,263343,Chelsea,Tottenham,2,1
-2402215,263343,Liverpool,Arsenal,2,2
-2402216,263343,Arsenal,Chelsea,4,2
-2402217,263343,Tottenham,Man City,2,3
-2402218,263343,Man City,Arsenal,0,1
-2402219,263343,Chelsea,Liverpool,1,2
-2402220,263343,Liverpool,Man City,1,3
-2402221,263343,Arsenal,Tottenham,1,1
+2402212,263343,Tottenham,Liverpool,1.0,2.0
+2402213,263343,Man City,Chelsea,1.0,0.0
+2402214,263343,Chelsea,Tottenham,2.0,1.0
+2402215,263343,Liverpool,Arsenal,2.0,2.0
+2402216,263343,Arsenal,Chelsea,4.0,2.0
+2402217,263343,Tottenham,Man City,2.0,3.0
+2402218,263343,Man City,Arsenal,0.0,1.0
+2402219,263343,Chelsea,Liverpool,1.0,2.0
+2402220,263343,Liverpool,Man City,1.0,3.0
+2402221,263343,Arsenal,Tottenham,1.0,1.0
 2402222,263343,Liverpool,Tottenham,,
 2402223,263343,Chelsea,Man City,,
 2402224,263343,Tottenham,Chelsea,,
@@ -83640,18 +83640,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2402229,263343,Liverpool,Chelsea,,
 2402230,263343,Man City,Liverpool,,
 2402231,263343,Tottenham,Arsenal,,
-2402272,263355,Juventus,Bologna,2,1
-2402273,263355,Napoli,Roma,2,1
-2402274,263355,Roma,Juventus,1,2
-2402275,263355,Bologna,Sassuolo,1,2
-2402276,263355,Sassuolo,Roma,1,2
-2402277,263355,Juventus,Napoli,0,0
-2402278,263355,Napoli,Sassuolo,2,2
-2402279,263355,Roma,Bologna,1,3
-2402280,263355,Bologna,Napoli,1,4
-2402281,263355,Sassuolo,Juventus,0,3
-2402282,263355,Bologna,Juventus,1,1
-2402283,263355,Roma,Napoli,4,0
+2402272,263355,Juventus,Bologna,2.0,1.0
+2402273,263355,Napoli,Roma,2.0,1.0
+2402274,263355,Roma,Juventus,1.0,2.0
+2402275,263355,Bologna,Sassuolo,1.0,2.0
+2402276,263355,Sassuolo,Roma,1.0,2.0
+2402277,263355,Juventus,Napoli,0.0,0.0
+2402278,263355,Napoli,Sassuolo,2.0,2.0
+2402279,263355,Roma,Bologna,1.0,3.0
+2402280,263355,Bologna,Napoli,1.0,4.0
+2402281,263355,Sassuolo,Juventus,0.0,3.0
+2402282,263355,Bologna,Juventus,1.0,1.0
+2402283,263355,Roma,Napoli,4.0,0.0
 2402284,263355,Juventus,Roma,,
 2402285,263355,Sassuolo,Bologna,,
 2402286,263355,Roma,Sassuolo,,
