@@ -9,13 +9,13 @@
   "se": 0.00028
  },
  "nfl": {
-  "rho": 0.0487,
-  "sd_margin": 13.55,
-  "sd_total": 13.55,
-  "n_test": 317,
-  "ll_indep": 1.36206,
-  "ll_copula": 1.36242,
-  "se": 0.00173
+  "rho": 0.05,
+  "sd_margin": 13.56,
+  "sd_total": 13.56,
+  "n_test": 320,
+  "ll_indep": 1.36308,
+  "ll_copula": 1.36378,
+  "se": 0.00177
  },
  "nhl": {
   "rho": 0.0397,

@@ -320,19 +320,19 @@
   },
   "hándicap": {
    "n": 948,
-   "ll_modelo": 0.7493,
+   "ll_modelo": 0.7492,
    "ll_mercado": 0.6933,
    "w_opt": 0.1,
    "ll_2a_mitad_w_opt": 0.6955,
    "ll_2a_mitad_mercado": 0.6924,
    "modelo_menos_mercado_2a": [
-    0.0713,
-    0.0142
+    0.0712,
+    0.0141
    ],
    "roi_bot_w05": [
-    -0.062,
-    0.0425,
-    505
+    -0.0639,
+    0.0426,
+    504
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -342,19 +342,19 @@
   },
   "totales": {
    "n": 964,
-   "ll_modelo": 0.7237,
+   "ll_modelo": 0.7238,
    "ll_mercado": 0.6929,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6931,
    "ll_2a_mitad_mercado": 0.6931,
    "modelo_menos_mercado_2a": [
-    0.0233,
+    0.0234,
     0.0114
    ],
    "roi_bot_w05": [
-    -0.0872,
+    -0.0895,
     0.0472,
-    408
+    409
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
