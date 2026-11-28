@@ -1,62 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 02:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Dov1n vs SpeciAL — 28/11 · 02:12
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Dov1n** @ **2.48** (Unibet) · prob 46% vs casas 35% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 83.812 partidos)  
-Goles esperados: Dov1n 3.63 · SpeciAL 3.33  
-Ganador: Dov1n 46% · empate 18% · SpeciAL 37%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Dov1n: −1.5 32% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Dov1n ✅✅✅✅➖ | SpeciAL ❌✅❌✅➖  
-• Partidos: Dov1n 1214 | SpeciAL 1150  
-• Liga: World Cup B  
-• Unibet: 1 2.48 · X 4.30 · 2 1.97 (sin margen 35%/20%/44%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+13%) · Paf España 2.48 (+13%)  
-
-## Simaponika vs reddevil — 28/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Simaponika** @ **1.58** (Unibet) · prob 67% vs casas 56% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 83.812 partidos)  
-Goles esperados: Simaponika 3.48 · reddevil 2.12  
-Ganador: Simaponika 67% · empate 16% · reddevil 17%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Simaponika: −1.5 47% · −2.5 30%  
-🔎 **Claves**  
-• Forma: Simaponika ❌➖✅➖➖ | reddevil ❌❌❌❌✅  
-• Partidos: Simaponika 1512 | reddevil 177  
-• Liga: Champions League B  
-• Unibet: 1 1.58 · X 5.40 · 2 3.15 (sin margen 56%/16%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.58 (+6%) · Paf España 1.58 (+6%)  
-
-## ssstasonn vs believer — 28/11 · 02:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.07** (cuota justa (sin casa)) · prob 93% vs casas 93% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 83.765 partidos)  
-Goles esperados: ssstasonn 1.53 · believer 5.30  
-Ganador: ssstasonn 2% · empate 5% · believer 93%  
-Total: más de 6.5 goles 53% · menos 47%  
-Hándicap believer: −1.5 81% · −2.5 68%  
-🔎 **Claves**  
-• Forma: ssstasonn ✅➖❌❌✅ | believer ✅✅✅✅✅  
-• Partidos: ssstasonn 1370 | believer 1440  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 28/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## believer vs reddevil — 28/11 · 02:39
 
@@ -75,6 +19,44 @@ Hándicap believer: −1.5 77% · −2.5 63%
 • Partidos: believer 1440 | reddevil 173  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kirman vs hrk — 28/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.63** (Unibet) · prob 47% vs casas 33% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.829 partidos)  
+Goles esperados: kirman 3.03 · hrk 2.84  
+Ganador: kirman 47% · empate 19% · hrk 34%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap kirman: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: kirman ❌✅✅❌❌ | hrk ✅❌✅❌➖  
+• Partidos: kirman 879 | hrk 1034  
+• Liga: Champions League A  
+• Unibet: 1 2.63 · X 3.80 · 2 1.98 (sin margen 33%/23%/44%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+24%) · Paf España 2.63 (+24%)  
+
+## vivienne vs SpeciAL — 28/11 · 02:48
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana vivienne** @ **2.35** (Unibet) · prob 48% vs casas 37% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.829 partidos)  
+Goles esperados: vivienne 3.40 · SpeciAL 3.06  
+Ganador: vivienne 48% · empate 18% · SpeciAL 34%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap vivienne: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: vivienne ➖❌❌➖❌ | SpeciAL ❌✅➖✅✅  
+• Partidos: vivienne 1092 | SpeciAL 1152  
+• Liga: World Cup B  
+• Unibet: 1 2.35 · X 4.40 · 2 2.02 (sin margen 37%/20%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+12%) · Paf España 2.35 (+12%)  
 
 ## Yerema vs pimchik — 28/11 · 02:58
 
@@ -111,6 +93,25 @@ Hándicap believer: −1.5 72% · −2.5 56%
 • Partidos: believer 1440 | goldfer 566  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## curuza vs hrk — 28/11 · 03:04
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana curuza** @ **3.55** (Unibet) · prob 43% vs casas 25% · ventaja +51%
+
+- ❌ Valor: ventaja +51% (mín. 21% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.829 partidos)  
+Goles esperados: curuza 3.02 · hrk 3.01  
+Ganador: curuza 43% · empate 19% · hrk 38%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap curuza: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: curuza ➖❌✅✅✅ | hrk ✅❌✅❌➖  
+• Partidos: curuza 1034 | hrk 1034  
+• Liga: Champions League A  
+• Unibet: 1 3.55 · X 3.70 · 2 1.68 (sin margen 25%/24%/52%) · ventaja +51%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+51%) · Paf España 3.55 (+51%)  
 
 ## Uruchi vs pimchik — 28/11 · 03:16
 

@@ -1,33 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 02:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Alabama Crimson Tide vs Miami Hurricanes — 28/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 170.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **165.8** puntos · línea 170.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Alabama Crimson Tide ✅✅✅❌✅ | Miami Hurricanes ✅✅✅❌✅  
-• H2H: 1 desde 2021: 1-0  
-• Bajas: Alabama Crimson Tide: sin bajas; Miami Hurricanes: sin bajas  
-
-## Alabama Crimson Tide vs Miami Hurricanes — 28/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Alabama Crimson Tide +1.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Alabama Crimson Tide cubre +1.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Alabama Crimson Tide ✅✅✅❌✅ | Miami Hurricanes ✅✅✅❌✅  
-• H2H: 1 desde 2021: 1-0  
-• Bajas: Alabama Crimson Tide: sin bajas; Miami Hurricanes: sin bajas  
+Actualizado 28/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisville Cardinals vs Tennessee Volunteers — 28/11 · 03:00
 

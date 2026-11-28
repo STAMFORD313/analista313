@@ -202,7 +202,6 @@ id,date,event,home,away,hs,as,res
 401866470,2026-11-25T00:00Z,Kent State Golden Flashes at Eastern Michigan Eagles,Eastern Michigan Eagles,Kent State Golden Flashes,17,12,1.0
 401866471,2026-11-25T00:00Z,Miami (OH) RedHawks at Western Michigan Broncos,Western Michigan Broncos,Miami (OH) RedHawks,24,28,0.0
 401856879,2026-11-27T01:00Z,TCU Horned Frogs at Texas Tech Red Raiders,Texas Tech Red Raiders,TCU Horned Frogs,48,27,1.0
-401864546,2026-11-27T21:30Z,Air Force Falcons at New Mexico Lobos,New Mexico Lobos,Air Force Falcons,42,19,1.0
 401858536,2026-11-27T17:08Z,Nebraska Cornhuskers at Iowa Hawkeyes,Iowa Hawkeyes,Nebraska Cornhuskers,31,7,1.0
 401856759,2026-11-27T20:30Z,Florida Gators at Florida State Seminoles,Florida State Seminoles,Florida Gators,10,26,0.0
 401856762,2026-11-27T17:00Z,Mississippi State Bulldogs at Ole Miss Rebels,Ole Miss Rebels,Mississippi State Bulldogs,41,17,1.0
@@ -212,3 +211,4 @@ id,date,event,home,away,hs,as,res
 401869930,2026-11-27T20:00Z,App State Mountaineers at South Alabama Jaguars,South Alabama Jaguars,App State Mountaineers,20,13,1.0
 401862838,2026-11-27T20:30Z,Temple Owls at Memphis Tigers,Memphis Tigers,Temple Owls,31,35,0.0
 401864549,2026-11-27T20:30Z,North Dakota State Bison at San José State Spartans,San José State Spartans,North Dakota State Bison,31,38,0.0
+401864546,2026-11-27T21:30Z,Air Force Falcons at New Mexico Lobos,New Mexico Lobos,Air Force Falcons,42,19,1.0
