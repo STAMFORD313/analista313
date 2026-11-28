@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 28/11/2026 09:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ex-Sashi Academy vs Fortress — 28/11 · 10:00
-
-👀 candidata · 🎮 CS2 · European Pro League Series 11 Play-In · **Gana ex-Sashi Academy** @ **1.68** (Thunderpick) · prob 62% vs casas 55% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 77.333 partidos)  
-Mapa: ex-Sashi Academy 63% · Serie BO3: ex-Sashi Academy 69% - 31% Fortress  
-Casas: ex-Sashi Academy 55% · Fortress 45%  
-🔎 **Claves**  
-• Elo: ex-Sashi Academy 1460 (12 series) | Fortress 1322 (79 series)  
-• Forma: ex-Sashi Academy ❌✅❌❌❌ | Fortress ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: European Pro League Series 11 Play-In (nivel C)  
-• Cambios de plantilla: ex-Sashi Academy, Fortress  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ex-Sashi Academy gana 2-1: 25% → cuota justa 4.01  
-• Fortress gana 2-1: 15% → cuota justa 6.73  
+Actualizado 28/11/2026 10:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nemiga vs Lynn Vision — 28/11 · 10:30
 
