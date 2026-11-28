@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 19:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 20:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wisla vs Motor Lublin — 28/11 · 20:15
 
@@ -10075,6 +10075,7 @@ Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%
 Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
 
 ## Arezzo vs Pisa — 29/11 · 19:30
 
@@ -10082,6 +10083,312 @@ Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.68)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 47%  
+Marcadores: 0-1 13% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Arezzo ❌➖❌➖❌ | Pisa ➖❌➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.2: total +9.5 52% · Arezzo +5.5 33% · Pisa +4.5 56%  
+Tarjetas 2.0 - 2.2: total +4.5 41% · Arezzo +2.5 33% · Pisa +2.5 37%  
+Faltas 11.9 - 13.1: total +27.5 31% · Arezzo +13.5 31% · Pisa +13.5 44%  
+Tiros a puerta 3.6 - 4.6: total +8.5 44% · Arezzo +5.5 17% · Pisa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo + Menos de 2.5 tarjetas de Arezzo → prob. 27%, cuota justa 3.64  
+
+## Dortmund vs Leverkusen — 29/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.28** (Unibet) · prob 74% vs casas 72% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.03 - 1.42)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 2-1 9% · 2-2 7% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Dortmund ➖✅➖✅✅ | Leverkusen ✅❌❌✅✅  
+• H2H: 42 desde 2005: 20V-9E-13D · 3.3 goles/partido · +2.5 en 62%  
+• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Leverkusen: 0 fuera, 2 duda  
+• Favorito de las casas: Dortmund @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.1: total +10.5 41% · Dortmund +5.5 50% · Leverkusen +4.5 39%  
+Tarjetas 2.0 - 1.8: total +3.5 53% · Dortmund +2.5 33% · Leverkusen +2.5 28%  
+Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%  
+Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
+
+## Dortmund vs Leverkusen — 29/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 13.5 córners** @ **1.12** (Unibet) · prob 84% vs casas 82% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.03 - 1.42)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 2-1 9% · 2-2 7% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Dortmund ➖✅➖✅✅ | Leverkusen ✅❌❌✅✅  
+• H2H: 42 desde 2005: 20V-9E-13D · 3.3 goles/partido · +2.5 en 62%  
+• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Leverkusen: 0 fuera, 2 duda  
+• Favorito de las casas: Dortmund @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.1: total +10.5 41% · Dortmund +5.5 50% · Leverkusen +4.5 39%  
+Tarjetas 2.0 - 1.8: total +3.5 53% · Dortmund +2.5 33% · Leverkusen +2.5 28%  
+Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%  
+Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
+
+## Dortmund vs Leverkusen — 29/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 6.5 córners de Dortmund** @ **2.75** (Unibet) · prob 35% vs casas 33% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.03 - 1.42)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 2-1 9% · 2-2 7% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Dortmund ➖✅➖✅✅ | Leverkusen ✅❌❌✅✅  
+• H2H: 42 desde 2005: 20V-9E-13D · 3.3 goles/partido · +2.5 en 62%  
+• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Leverkusen: 0 fuera, 2 duda  
+• Favorito de las casas: Dortmund @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.1: total +10.5 41% · Dortmund +5.5 50% · Leverkusen +4.5 39%  
+Tarjetas 2.0 - 1.8: total +3.5 53% · Dortmund +2.5 33% · Leverkusen +2.5 28%  
+Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%  
+Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
+
+## Dortmund vs Leverkusen — 29/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 8.5 córners de Dortmund** @ **1.11** (Unibet) · prob 82% vs casas 82% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.03 - 1.42)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 2-1 9% · 2-2 7% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Dortmund ➖✅➖✅✅ | Leverkusen ✅❌❌✅✅  
+• H2H: 42 desde 2005: 20V-9E-13D · 3.3 goles/partido · +2.5 en 62%  
+• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Leverkusen: 0 fuera, 2 duda  
+• Favorito de las casas: Dortmund @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.1: total +10.5 41% · Dortmund +5.5 50% · Leverkusen +4.5 39%  
+Tarjetas 2.0 - 1.8: total +3.5 53% · Dortmund +2.5 33% · Leverkusen +2.5 28%  
+Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%  
+Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
+
+## Dortmund vs Leverkusen — 29/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Leverkusen** @ **1.25** (Unibet) · prob 73% vs casas 73% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.03 - 1.42)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 2-1 9% · 2-2 7% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Dortmund ➖✅➖✅✅ | Leverkusen ✅❌❌✅✅  
+• H2H: 42 desde 2005: 20V-9E-13D · 3.3 goles/partido · +2.5 en 62%  
+• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Leverkusen: 0 fuera, 2 duda  
+• Favorito de las casas: Dortmund @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.1: total +10.5 41% · Dortmund +5.5 50% · Leverkusen +4.5 39%  
+Tarjetas 2.0 - 1.8: total +3.5 53% · Dortmund +2.5 33% · Leverkusen +2.5 28%  
+Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%  
+Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
+
+## Dortmund vs Leverkusen — 29/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Leverkusen** @ **1.60** (Unibet) · prob 59% vs casas 57% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.03 - 1.42)  
+1 50% · X 26% · 2 24%  
+1X 76% · X2 50% · 12 74%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 2-1 9% · 2-2 7% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Dortmund ➖✅➖✅✅ | Leverkusen ✅❌❌✅✅  
+• H2H: 42 desde 2005: 20V-9E-13D · 3.3 goles/partido · +2.5 en 62%  
+• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Leverkusen: 0 fuera, 2 duda  
+• Favorito de las casas: Dortmund @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.1: total +10.5 41% · Dortmund +5.5 50% · Leverkusen +4.5 39%  
+Tarjetas 2.0 - 1.8: total +3.5 53% · Dortmund +2.5 33% · Leverkusen +2.5 28%  
+Faltas 11.3 - 9.4: total +21.5 42% · Dortmund +10.5 57% · Leverkusen +10.5 35%  
+Tiros a puerta 6.1 - 4.0: total +10.5 43% · Dortmund +6.5 40% · Leverkusen +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 10.5 faltas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen → prob. 12%, cuota justa 8.10  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Leverkusen + Menos de 4.5 tiros a puerta de Leverkusen + Menos de 4.5 córners de Leverkusen): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 29% · ventaja +6% → 1 u en la banca de simulación  
+
+## Arezzo vs Pisa — 29/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **2.20** (Unibet) · prob 46% vs casas 40% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.68)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 47%  
+Marcadores: 0-1 13% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Arezzo ❌➖❌➖❌ | Pisa ➖❌➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.2: total +9.5 52% · Arezzo +5.5 33% · Pisa +4.5 56%  
+Tarjetas 2.0 - 2.2: total +4.5 41% · Arezzo +2.5 33% · Pisa +2.5 37%  
+Faltas 11.9 - 13.1: total +27.5 31% · Arezzo +13.5 31% · Pisa +13.5 44%  
+Tiros a puerta 3.6 - 4.6: total +8.5 44% · Arezzo +5.5 17% · Pisa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo + Menos de 2.5 tarjetas de Arezzo → prob. 27%, cuota justa 3.64  
+
+## Arezzo vs Pisa — 29/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 9.5 córners** @ **1.50** (Unibet) · prob 54% vs casas 60% · ventaja -19%
+
+- ❌ Valor: ventaja -19% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.68)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 47%  
+Marcadores: 0-1 13% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Arezzo ❌➖❌➖❌ | Pisa ➖❌➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.2: total +9.5 52% · Arezzo +5.5 33% · Pisa +4.5 56%  
+Tarjetas 2.0 - 2.2: total +4.5 41% · Arezzo +2.5 33% · Pisa +2.5 37%  
+Faltas 11.9 - 13.1: total +27.5 31% · Arezzo +13.5 31% · Pisa +13.5 44%  
+Tiros a puerta 3.6 - 4.6: total +8.5 44% · Arezzo +5.5 17% · Pisa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo + Menos de 2.5 tarjetas de Arezzo → prob. 27%, cuota justa 3.64  
+
+## Arezzo vs Pisa — 29/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Pisa** @ **1.40** (Unibet) · prob 67% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.68)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 47%  
+Marcadores: 0-1 13% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Arezzo ❌➖❌➖❌ | Pisa ➖❌➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.2: total +9.5 52% · Arezzo +5.5 33% · Pisa +4.5 56%  
+Tarjetas 2.0 - 2.2: total +4.5 41% · Arezzo +2.5 33% · Pisa +2.5 37%  
+Faltas 11.9 - 13.1: total +27.5 31% · Arezzo +13.5 31% · Pisa +13.5 44%  
+Tiros a puerta 3.6 - 4.6: total +8.5 44% · Arezzo +5.5 17% · Pisa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo + Menos de 2.5 tarjetas de Arezzo → prob. 27%, cuota justa 3.64  
+
+## Arezzo vs Pisa — 29/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Pisa** @ **1.82** (Unibet) · prob 47% vs casas 49% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.68)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 47%  
+Marcadores: 0-1 13% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Arezzo ❌➖❌➖❌ | Pisa ➖❌➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.2: total +9.5 52% · Arezzo +5.5 33% · Pisa +4.5 56%  
+Tarjetas 2.0 - 2.2: total +4.5 41% · Arezzo +2.5 33% · Pisa +2.5 37%  
+Faltas 11.9 - 13.1: total +27.5 31% · Arezzo +13.5 31% · Pisa +13.5 44%  
+Tiros a puerta 3.6 - 4.6: total +8.5 44% · Arezzo +5.5 17% · Pisa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo + Menos de 2.5 tarjetas de Arezzo → prob. 27%, cuota justa 3.64  
+
+## Arezzo vs Pisa — 29/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Arezzo** @ **2.30** (Unibet) · prob 43% vs casas 39% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.68)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 47%  
+Marcadores: 0-1 13% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Arezzo ❌➖❌➖❌ | Pisa ➖❌➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Arezzo: sin bajas; Pisa: 1 fuera, 1 duda (Henrik Meister)  
+• Favorito de las casas: Pisa @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 5.2: total +9.5 52% · Arezzo +5.5 33% · Pisa +4.5 56%  
+Tarjetas 2.0 - 2.2: total +4.5 41% · Arezzo +2.5 33% · Pisa +2.5 37%  
+Faltas 11.9 - 13.1: total +27.5 31% · Arezzo +13.5 31% · Pisa +13.5 44%  
+Tiros a puerta 3.6 - 4.6: total +8.5 44% · Arezzo +5.5 17% · Pisa +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Arezzo + Menos de 13.5 faltas de Arezzo + Menos de 5.5 córners de Arezzo + Menos de 2.5 tarjetas de Arezzo → prob. 27%, cuota justa 3.64  
+
+## Arezzo vs Pisa — 29/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Arezzo** @ **1.47** (Unibet) · prob 57% vs casas 61% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 0.84 - 1.68)  
 1 25% · X 26% · 2 49%  
