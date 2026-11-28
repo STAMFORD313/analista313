@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 07:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## A1ose vs RuBIX — 28/11 · 07:21
+## MeLToSik vs DaVa — 28/11 · 07:48
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.75** (Unibet) · prob 46% vs casas 32% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **5.80** (Unibet) · prob 21% vs casas 15% · ventaja +20%
 
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.031 partidos)  
-Goles esperados: A1ose 3.13 · RuBIX 3.44  
-Ganador: A1ose 36% · empate 18% · RuBIX 46%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap RuBIX: −1.5 32% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 84.059 partidos)  
+Goles esperados: MeLToSik 1.87 · DaVa 2.78  
+Ganador: MeLToSik 21% · empate 20% · DaVa 59%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap DaVa: −1.5 38% · −2.5 22%  
 🔎 **Claves**  
-• Forma: A1ose ✅❌❌➖❌ | RuBIX ✅✅✅❌✅  
-• Partidos: A1ose 1271 | RuBIX 481  
+• Forma: MeLToSik ➖✅❌❌✅ | DaVa ✅❌✅➖➖  
+• Partidos: MeLToSik 1512 | DaVa 1575  
+• Liga: Europa League  
+• Unibet: 1 5.80 · X 3.15 · 2 1.55 (sin margen 15%/28%/57%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+20%) · Paf España 5.80 (+20%)  
+
+## RuBIX vs dor1an — 28/11 · 07:57
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.50** (Unibet) · prob 19% vs casas 13% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.059 partidos)  
+Goles esperados: RuBIX 3.18 · dor1an 2.41  
+Ganador: RuBIX 56% · empate 19% · dor1an 25%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap RuBIX: −1.5 37% · −2.5 23%  
+🔎 **Claves**  
+• Forma: RuBIX ❌✅❌✅✅ | dor1an ➖✅❌❌❌  
+• Partidos: RuBIX 484 | dor1an 484  
 • Liga: World Cup A  
-• Unibet: 1 1.93 · X 3.70 · 2 2.75 (sin margen 45%/23%/32%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+26%) · Paf España 2.75 (+26%)  
+• Unibet: 1 1.30 · X 6.50 · 2 4.25 (sin margen 66%/13%/20%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.50 (+21%) · Paf España 6.50 (+21%)  
 
-## Tesla vs Taz — 28/11 · 07:30
+## Artrom vs DaVa — 28/11 · 08:00
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **3.20** (Unibet) · prob 38% vs casas 28% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Artrom** @ **9.00** (Unibet) · prob 12% vs casas 10% · ventaja +12%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.031 partidos)  
-Goles esperados: Tesla 4.26 · Taz 3.86  
-Ganador: Tesla 46% · empate 16% · Taz 38%  
-Total: más de 8.5 goles 42% · menos 58%  
-Hándicap Tesla: −1.5 35% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 84.059 partidos)  
+Goles esperados: Artrom 1.42 · DaVa 2.80  
+Ganador: Artrom 12% · empate 18% · DaVa 70%  
+Total: más de 4.5 goles 41% · menos 59%  
+Hándicap DaVa: −1.5 46% · −2.5 28%  
 🔎 **Claves**  
-• Forma: Tesla ✅✅➖❌✅ | Taz ✅❌✅❌✅  
-• Partidos: Tesla 1291 | Taz 1302  
-• Liga: Bundesliga  
-• Unibet: 1 1.61 · X 4.90 · 2 3.20 (sin margen 55%/18%/27%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.20 (+23%) · Paf España 3.20 (+23%)  
-
-## Pavlinho19 vs Maxa — 28/11 · 07:30
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Pavlinho19** @ **2.00** (Unibet) · prob 55% vs casas 44% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.031 partidos)  
-Goles esperados: Pavlinho19 3.49 · Maxa 2.61  
-Ganador: Pavlinho19 55% · empate 18% · Maxa 27%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Pavlinho19: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Pavlinho19 ✅✅✅✅✅ | Maxa ❌❌❌❌❌  
-• Partidos: Pavlinho19 1225 | Maxa 1241  
-• Liga: Bundesliga  
-• Unibet: 1 2.00 · X 4.80 · 2 2.30 (sin margen 44%/18%/38%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.00 (+10%) · Paf España 2.00 (+10%)  
+• Forma: Artrom ✅❌➖✅✅ | DaVa ✅❌✅➖➖  
+• Partidos: Artrom 749 | DaVa 1575  
+• Liga: Europa League  
+• Unibet: 1 9.00 · X 4.70 · 2 1.21 (sin margen 10%/18%/72%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 9.00 (+12%) · Paf España 9.00 (+12%)  
 

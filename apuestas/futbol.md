@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 07:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kashiwa Reysol vs Sanfrecce Hiroshima — 28/11 · 08:00
 
