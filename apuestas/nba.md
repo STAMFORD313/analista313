@@ -1,33 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 04:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gonzaga Bulldogs vs Creighton Bluejays — 28/11 · 05:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 161.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **150.7** puntos · línea 161.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Gonzaga Bulldogs ✅❌✅✅✅ | Creighton Bluejays ❌✅✅✅✅  
-• H2H: 4 desde 2017: 4-0  
-• Bajas: Gonzaga Bulldogs: sin bajas; Creighton Bluejays: sin bajas  
-
-## Gonzaga Bulldogs vs Creighton Bluejays — 28/11 · 05:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gonzaga Bulldogs -5.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Gonzaga Bulldogs cubre -5.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Gonzaga Bulldogs ✅❌✅✅✅ | Creighton Bluejays ❌✅✅✅✅  
-• H2H: 4 desde 2017: 4-0  
-• Bajas: Gonzaga Bulldogs: sin bajas; Creighton Bluejays: sin bajas  
+Actualizado 28/11/2026 05:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas Tech Red Raiders vs San Diego State Aztecs — 28/11 · 05:30
 
