@@ -1,20 +1,20 @@
 {
  "nba": {
   "ganador": {
-   "n": 1335,
-   "ll_modelo": 0.6086,
-   "ll_mercado": 0.5787,
+   "n": 1346,
+   "ll_modelo": 0.6091,
+   "ll_mercado": 0.579,
    "w_opt": 0.0,
-   "ll_2a_mitad_w_opt": 0.5404,
-   "ll_2a_mitad_mercado": 0.5404,
+   "ll_2a_mitad_w_opt": 0.5418,
+   "ll_2a_mitad_mercado": 0.5418,
    "modelo_menos_mercado_2a": [
-    0.0393,
+    0.0389,
     0.0084
    ],
    "roi_bot_w05": [
-    -0.0357,
+    -0.0325,
     0.07,
-    380
+    383
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -23,20 +23,20 @@
    ]
   },
   "hándicap": {
-   "n": 1335,
-   "ll_modelo": 0.7224,
+   "n": 1346,
+   "ll_modelo": 0.7225,
    "ll_mercado": 0.6928,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6931,
    "ll_2a_mitad_mercado": 0.6931,
    "modelo_menos_mercado_2a": [
-    0.0312,
+    0.0321,
     0.0099
    ],
    "roi_bot_w05": [
     -0.0504,
-    0.0442,
-    467
+    0.0441,
+    469
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -45,20 +45,20 @@
    ]
   },
   "totales": {
-   "n": 1334,
-   "ll_modelo": 0.7206,
+   "n": 1345,
+   "ll_modelo": 0.7207,
    "ll_mercado": 0.6927,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6925,
    "ll_2a_mitad_mercado": 0.6925,
    "modelo_menos_mercado_2a": [
-    0.024,
-    0.0096
+    0.0233,
+    0.0095
    ],
    "roi_bot_w05": [
-    -0.0596,
-    0.0419,
-    520
+    -0.0632,
+    0.0418,
+    522
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -69,14 +69,14 @@
  },
  "nhl": {
   "ganador": {
-   "n": 1374,
-   "ll_modelo": 0.6804,
-   "ll_mercado": 0.6742,
+   "n": 1378,
+   "ll_modelo": 0.681,
+   "ll_mercado": 0.6749,
    "w_opt": 0.0,
-   "ll_2a_mitad_w_opt": 0.6629,
-   "ll_2a_mitad_mercado": 0.6629,
+   "ll_2a_mitad_w_opt": 0.6645,
+   "ll_2a_mitad_mercado": 0.6645,
    "modelo_menos_mercado_2a": [
-    0.008,
+    0.0079,
     0.004
    ],
    "roi_bot_w05": [
@@ -91,20 +91,20 @@
    ]
   },
   "totales": {
-   "n": 1371,
-   "ll_modelo": 0.703,
-   "ll_mercado": 0.6897,
+   "n": 1375,
+   "ll_modelo": 0.7028,
+   "ll_mercado": 0.6895,
    "w_opt": 0.0,
-   "ll_2a_mitad_w_opt": 0.69,
-   "ll_2a_mitad_mercado": 0.69,
+   "ll_2a_mitad_w_opt": 0.6896,
+   "ll_2a_mitad_mercado": 0.6896,
    "modelo_menos_mercado_2a": [
-    0.0197,
+    0.0194,
     0.0047
    ],
    "roi_bot_w05": [
-    -0.1573,
-    0.0851,
-    124
+    -0.1488,
+    0.0849,
+    125
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -252,17 +252,17 @@
   },
   "hándicap": {
    "n": 620,
-   "ll_modelo": 0.7762,
+   "ll_modelo": 0.7748,
    "ll_mercado": 0.692,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6905,
    "ll_2a_mitad_mercado": 0.6905,
    "modelo_menos_mercado_2a": [
-    0.051,
-    0.0184
+    0.0497,
+    0.0185
    ],
    "roi_bot_w05": [
-    -0.1112,
+    -0.0877,
     0.0526,
     320
    ],
@@ -274,14 +274,14 @@
   },
   "totales": {
    "n": 620,
-   "ll_modelo": 0.7251,
+   "ll_modelo": 0.7253,
    "ll_mercado": 0.6947,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6953,
    "ll_2a_mitad_mercado": 0.6953,
    "modelo_menos_mercado_2a": [
-    0.0348,
-    0.0146
+    0.035,
+    0.0147
    ],
    "roi_bot_w05": [
     -0.0319,
@@ -320,19 +320,19 @@
   },
   "hándicap": {
    "n": 948,
-   "ll_modelo": 0.7492,
+   "ll_modelo": 0.7491,
    "ll_mercado": 0.6933,
    "w_opt": 0.1,
    "ll_2a_mitad_w_opt": 0.6955,
    "ll_2a_mitad_mercado": 0.6924,
    "modelo_menos_mercado_2a": [
-    0.0712,
+    0.071,
     0.0141
    ],
    "roi_bot_w05": [
-    -0.0639,
+    -0.062,
     0.0426,
-    504
+    503
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -342,19 +342,19 @@
   },
   "totales": {
    "n": 964,
-   "ll_modelo": 0.7238,
+   "ll_modelo": 0.7237,
    "ll_mercado": 0.6929,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6931,
    "ll_2a_mitad_mercado": 0.6931,
    "modelo_menos_mercado_2a": [
-    0.0234,
+    0.0233,
     0.0114
    ],
    "roi_bot_w05": [
-    -0.0895,
+    -0.0872,
     0.0472,
-    409
+    408
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
