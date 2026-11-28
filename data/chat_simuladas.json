@@ -4493,5 +4493,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261128054658150755",
+  "creada": "2026-11-28 05:46:58.150801+00:00",
+  "titulo": "Barrido · Combinada cuota 7.0",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-28 14:00:00+00:00",
+    "home": "Chennaiyin",
+    "away": "Mumbai City",
+    "txt": "Gana Chennaiyin",
+    "odds": 2.45,
+    "p": 0.4533
+   },
+   {
+    "code": null,
+    "start": "2026-11-28 21:00:00+00:00",
+    "home": "Coquimbo Unido",
+    "away": "Deportes Limache",
+    "txt": "Gana Coquimbo Unido",
+    "odds": 1.82,
+    "p": 0.5797
+   },
+   {
+    "code": null,
+    "start": "2026-11-28 23:00:00+00:00",
+    "home": "Sportivo Trinidense",
+    "away": "Deportivo Recoleta",
+    "txt": "Gana Sportivo Trinidense",
+    "odds": 1.58,
+    "p": 0.6639
+   }
+  ],
+  "odds": 7.05,
+  "p": 0.174458320839,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
