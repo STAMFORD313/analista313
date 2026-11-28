@@ -6,7 +6,7 @@
  "stats": {
   "goles": {
    "ll": 0.2709,
-   "ll_media": 0.3092,
+   "ll_media": 0.3093,
    "ll_propia": 0.283,
    "se_propia": 0.0004
   },
@@ -18,12 +18,12 @@
   },
   "cards": {
    "ll": 0.4148,
-   "ll_media": 0.4245,
-   "ll_propia": 0.4363,
+   "ll_media": 0.4246,
+   "ll_propia": 0.4364,
    "se_propia": 0.0006
   },
   "asist": {
-   "ll": 0.2361,
+   "ll": 0.236,
    "ll_media": 0.2499,
    "ll_propia": 0.2444,
    "se_propia": 0.0004
