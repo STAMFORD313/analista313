@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 08:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 08:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## RuBIX vs A1ose — 28/11 · 08:21
+## Edwardson vs Jekunam — 28/11 · 08:48
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.80** (Unibet) · prob 46% vs casas 31% · ventaja +30%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.50** (Unibet) · prob 24% vs casas 19% · ventaja +7%
 
-- ✅ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.087 partidos)  
-Goles esperados: RuBIX 3.44 · A1ose 3.11  
-Ganador: RuBIX 46% · empate 18% · A1ose 36%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap RuBIX: −1.5 32% · −2.5 19%  
-🔎 **Claves**  
-• Forma: RuBIX ✅❌✅✅❌ | A1ose ❌❌❌✅❌  
-• Partidos: RuBIX 485 | A1ose 1275  
-• Liga: World Cup A  
-• Unibet: 1 2.80 · X 4.00 · 2 1.85 (sin margen 31%/22%/47%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+29%) · Paf España 2.80 (+29%)  
-
-## Artrom vs Jekunam — 28/11 · 08:24
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.10** (Unibet) · prob 23% vs casas 17% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.087 partidos)  
-Goles esperados: Artrom 1.63 · Jekunam 2.25  
-Ganador: Artrom 23% · empate 23% · Jekunam 53%  
-Total: más de 3.5 goles 54% · menos 46%  
-Hándicap Jekunam: −1.5 32% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 84.117 partidos)  
+Goles esperados: Edwardson 1.95 · Jekunam 2.19  
+Ganador: Edwardson 33% · empate 24% · Jekunam 43%  
+Total: más de 4.5 goles 40% · menos 60%  
+Hándicap Jekunam: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Artrom ➖✅✅❌❌ | Jekunam ❌❌❌❌❌  
-• Partidos: Artrom 751 | Jekunam 1405  
+• Forma: Edwardson ➖✅❌✅✅ | Jekunam ❌❌❌✅✅  
+• Partidos: Edwardson 1547 | Jekunam 1407  
 • Liga: Europa League  
-• Unibet: 1 3.25 · X 5.10 · 2 1.58 (sin margen 27%/17%/56%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+18%) · Paf España 5.10 (+18%)  
+• Unibet: 1 2.65 · X 4.50 · 2 1.83 (sin margen 33%/19%/48%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+7%) · Paf España 4.50 (+7%)  
 
-## MeLToSik vs Artrom — 28/11 · 08:36
+## Tesla vs Lumix — 28/11 · 08:52
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **2.55** (Unibet) · prob 50% vs casas 34% · ventaja +28%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Lumix** @ **2.90** (Unibet) · prob 38% vs casas 30% · ventaja +11%
 
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.087 partidos)  
-Goles esperados: MeLToSik 2.13 · Artrom 1.58  
-Ganador: MeLToSik 50% · empate 24% · Artrom 25%  
-Total: más de 3.5 goles 51% · menos 49%  
-Hándicap MeLToSik: −1.5 30% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 84.117 partidos)  
+Goles esperados: Tesla 3.42 · Lumix 3.36  
+Ganador: Tesla 44% · empate 18% · Lumix 38%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Tesla: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: MeLToSik ❌✅✅❌✅ | Artrom ➖✅✅❌❌  
-• Partidos: MeLToSik 1515 | Artrom 751  
-• Liga: Europa League  
-• Unibet: 1 2.55 · X 3.35 · 2 2.17 (sin margen 34%/26%/40%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+29%) · Paf España 2.55 (+29%)  
+• Forma: Tesla ✅❌❌❌➖ | Lumix ➖✅➖❌➖  
+• Partidos: Tesla 1297 | Lumix 1311  
+• Liga: Ligue 1  
+• Unibet: 1 1.81 · X 4.00 · 2 2.90 (sin margen 48%/22%/30%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.90 (+11%) · Paf España 2.90 (+11%)  
+
+## dor1an vs RuBIX — 28/11 · 09:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana dor1an** @ **4.70** (Unibet) · prob 25% vs casas 18% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.117 partidos)  
+Goles esperados: dor1an 2.44 · RuBIX 3.17  
+Ganador: dor1an 25% · empate 19% · RuBIX 56%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap RuBIX: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: dor1an ❌✅✅✅❌ | RuBIX ✅❌✅✅❌  
+• Partidos: dor1an 488 | RuBIX 488  
+• Liga: Serie A  
+• Unibet: 1 4.70 · X 5.50 · 2 1.32 (sin margen 18%/16%/66%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.70 (+17%) · Paf España 4.70 (+17%)  
 
