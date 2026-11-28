@@ -83954,14 +83954,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2401681,263321,Atleti,Barcelona,,
 2401682,263321,Real Madrid,Barcelona,,
 2401683,263321,Real Madrid,Atleti,,
-2404312,263283,Juventus,B Dortmund,3,0
-2404313,263283,Sporting CP,Man City,3,3
-2404314,263283,Sporting CP,Juventus,2,2
-2404315,263283,Man City,B Dortmund,1,0
-2404316,263283,B Dortmund,Sporting CP,2,1
-2404317,263283,Man City,Juventus,2,2
-2404318,263283,Juventus,B Dortmund,4,2
-2404319,263283,Sporting CP,Man City,3,0
+2404312,263283,Juventus,B Dortmund,3.0,0.0
+2404313,263283,Sporting CP,Man City,3.0,3.0
+2404314,263283,Sporting CP,Juventus,2.0,2.0
+2404315,263283,Man City,B Dortmund,1.0,0.0
+2404316,263283,B Dortmund,Sporting CP,2.0,1.0
+2404317,263283,Man City,Juventus,2.0,2.0
+2404318,263283,Juventus,B Dortmund,4.0,2.0
+2404319,263283,Sporting CP,Man City,3.0,0.0
 2402502,263283,Sporting CP,Juventus,,
 2404308,263283,Man City,B Dortmund,,
 2404320,263283,B Dortmund,Sporting CP,,
@@ -83972,18 +83972,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2404325,263283,Man City,B Dortmund,,
 2402510,263283,B Dortmund,Sporting CP,,
 2404326,263283,Man City,Juventus,,
-2401574,263349,Stuttgart,Leipzig,2,1
-2401575,263349,Bayern Munchen,B Dortmund,1,1
-2401576,263349,B Dortmund,Stuttgart,2,1
-2401577,263349,Leipzig,Frankfurt,0,0
-2401578,263349,Frankfurt,B Dortmund,2,1
-2401579,263349,Stuttgart,Bayern Munchen,1,1
-2401580,263349,Bayern Munchen,Frankfurt,0,2
-2401581,263349,B Dortmund,Leipzig,2,1
-2401582,263349,Leipzig,Bayern Munchen,2,4
-2401583,263349,Frankfurt,Stuttgart,4,1
-2401584,263349,Leipzig,Stuttgart,2,2
-2401585,263349,B Dortmund,Bayern Munchen,0,1
+2401574,263349,Stuttgart,Leipzig,2.0,1.0
+2401575,263349,Bayern Munchen,B Dortmund,1.0,1.0
+2401576,263349,B Dortmund,Stuttgart,2.0,1.0
+2401577,263349,Leipzig,Frankfurt,0.0,0.0
+2401578,263349,Frankfurt,B Dortmund,2.0,1.0
+2401579,263349,Stuttgart,Bayern Munchen,1.0,1.0
+2401580,263349,Bayern Munchen,Frankfurt,0.0,2.0
+2401581,263349,B Dortmund,Leipzig,2.0,1.0
+2401582,263349,Leipzig,Bayern Munchen,2.0,4.0
+2401583,263349,Frankfurt,Stuttgart,4.0,1.0
+2401584,263349,Leipzig,Stuttgart,2.0,2.0
+2401585,263349,B Dortmund,Bayern Munchen,0.0,1.0
 2401586,263349,Stuttgart,B Dortmund,,
 2401587,263349,Frankfurt,Leipzig,,
 2401588,263349,B Dortmund,Frankfurt,,
@@ -83992,3 +83992,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2401591,263349,Leipzig,B Dortmund,,
 2401592,263349,Bayern Munchen,Leipzig,,
 2401593,263349,Stuttgart,Frankfurt,,
+2401394,263348,Sassuolo,Roma,2,2
+2401395,263348,Juventus,Napoli,2,1
+2401396,263348,Napoli,Sassuolo,3,2
+2401397,263348,Roma,Bologna,0,2
+2401398,263348,Bologna,Napoli,0,3
+2401399,263348,Sassuolo,Juventus,0,1
+2401400,263348,Juventus,Bologna,,
+2401401,263348,Napoli,Roma,,
+2401402,263348,Roma,Juventus,,
+2401403,263348,Bologna,Sassuolo,,
+2401404,263348,Roma,Sassuolo,,
+2401405,263348,Napoli,Juventus,,
+2401406,263348,Sassuolo,Napoli,,
+2401407,263348,Bologna,Roma,,
+2401408,263348,Napoli,Bologna,,
+2401409,263348,Juventus,Sassuolo,,
+2401410,263348,Bologna,Juventus,,
+2401411,263348,Roma,Napoli,,
+2401412,263348,Juventus,Roma,,
+2401413,263348,Sassuolo,Bologna,,
+2402352,263362,Man City,Real Madrid,3,1
+2402353,263362,Boca Juniors,Paris,1,2
+2402354,263362,Paris,Man City,0,6
+2402355,263362,Real Madrid,River Plate,1,4
+2402356,263362,River Plate,Paris,3,1
+2402357,263362,Man City,Boca Juniors,2,0
+2402358,263362,Boca Juniors,River Plate,1,3
+2402359,263362,Paris,Real Madrid,0,5
+2402360,263362,Real Madrid,Boca Juniors,,
+2402361,263362,River Plate,Man City,,
+2402362,263362,Real Madrid,Man City,,
+2402363,263362,Paris,Boca Juniors,,
+2402364,263362,Man City,Paris,,
+2402365,263362,River Plate,Real Madrid,,
+2402366,263362,Paris,River Plate,,
+2402367,263362,Boca Juniors,Man City,,
+2402368,263362,River Plate,Boca Juniors,,
+2402369,263362,Real Madrid,Paris,,
+2402370,263362,Boca Juniors,Real Madrid,,
+2402371,263362,Man City,River Plate,,

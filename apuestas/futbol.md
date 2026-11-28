@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 05:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 05:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kyoto vs Cerezo Osaka — 28/11 · 06:00
 
