@@ -4451,7 +4451,9 @@
     "away": "Schalke 04",
     "txt": "Menos de 3.5 tarjetas",
     "odds": 2.25,
-    "p": 0.4612772056187747
+    "p": 0.4612772056187747,
+    "ok": true,
+    "por": "hubo 2 tarjetas"
    }
   ],
   "odds": 5.47,
