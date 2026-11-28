@@ -1,12 +1,8 @@
 {
  "nba": {
-  "kambi": 9,
-  "ejemplo_kambi": [
-   "Washington Wizards vs Orlando Magic 2026-11-28 22:00:00+00:00",
-   "Charlotte Hornets vs Brooklyn Nets 2026-11-28 23:00:00+00:00",
-   "Milwaukee Bucks vs Oklahoma City Thunder 2026-11-29 01:00:00+00:00"
-  ],
+  "kambi": 0,
+  "ejemplo_kambi": [],
   "buscado": "Sacramento Kings vs Minnesota Timberwolves 2026-11-30T02:00Z",
-  "hora": "2026-11-28 17:27"
+  "hora": "2026-11-28 17:58"
  }
 }
