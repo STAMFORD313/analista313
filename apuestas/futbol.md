@@ -1,381 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 17:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Angers +0.75 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Cesena -0 (hándicap asiático)** @ **1.90** (mejor del mercado) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Lens** @ **2.80** (Unibet) · prob 36% vs casas 33% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 4.5 córners de Lens** @ **1.37** (Unibet) · prob 64% vs casas 67% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.18** (Unibet) · prob 77% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 9.5 córners** @ **2.23** (Unibet) · prob 44% vs casas 41% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Angers** @ **1.63** (Unibet) · prob 58% vs casas 56% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Angers vs Lens — 28/11 · 17:15
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Angers** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.72)  
-1 15% · X 24% · 2 61%  
-1X 39% · X2 85% · 12 76%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Angers ❌➖❌❌❌ | Lens ✅✅❌❌➖  
-• H2H: 18 desde 2008: 3V-6E-9D · 2.9 goles/partido · +2.5 en 72%  
-• Bajas: Angers: 2 fuera, 1 duda (Yassin Belkhdim, Jordan Lefort); Lens: 1 fuera, 2 duda (Maik Nawrocki)  
-• Favorito de las casas: Lens @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 5.6: total +10.5 42% · Angers +5.5 30% · Lens +4.5 61%  
-Tarjetas 1.9 - 1.9: total +4.5 32% · Angers +2.5 28% · Lens +2.5 30%  
-Faltas 11.5 - 11.7: total +24.5 39% · Angers +11.5 48% · Lens +12.5 39%  
-Tiros a puerta 3.8 - 5.8: total +9.5 48% · Angers +5.5 20% · Lens +4.5 65%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers + Menos de 24.5 faltas → prob. 27%, cuota justa 3.71  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers): cuota Unibet aprox. 1.76 (producto de piernas) · prob. 50% · ventaja -12%  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Cesena** @ **1.53** (Unibet) · prob 57% vs casas 59% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Cesena** @ **1.61** (Unibet) · prob 58% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.73** (Unibet) · prob 50% vs casas 52% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 11.5 córners** @ **1.33** (Unibet) · prob 71% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Vicenza** @ **1.98** (Unibet) · prob 44% vs casas 45% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Vicenza vs Cesena — 28/11 · 17:15
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 6.5 córners de Vicenza** @ **1.36** (Unibet) · prob 67% vs casas 66% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.34)  
-1 29% · X 29% · 2 42%  
-1X 58% · X2 71% · 12 71%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 10% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Vicenza ❌❌❌➖❌ | Cesena ✅➖✅✅✅  
-• H2H: 14 desde 2005: 4V-6E-4D · 2.2 goles/partido · +2.5 en 36%  
-• Bajas: Vicenza: sin bajas; Cesena: 1 fuera, 0 duda (Jonathan Klinsmann)  
-• Favorito de las casas: Cesena @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.1: total +9.5 47% · Vicenza +5.5 44% · Cesena +4.5 39%  
-Tarjetas 2.0 - 2.1: total +4.5 38% · Vicenza +2.5 32% · Cesena +2.5 34%  
-Faltas 13.0 - 13.2: total +27.5 39% · Vicenza +13.5 43% · Cesena +13.5 44%  
-Tiros a puerta 3.7 - 3.9: total +8.5 35% · Vicenza +5.5 18% · Cesena +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 2.5 tarjetas de Vicenza + Menos de 4.5 córners de Cesena + Menos de 27.5 faltas → prob. 21%, cuota justa 4.83  
-
-## Slask Wroclaw vs GKS Katowice — 28/11 · 17:30
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Slask Wroclaw** @ **2.90** (Bet365) · prob 32% vs casas 32% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 1.28)  
-1 36% · X 28% · 2 36%  
-1X 64% · X2 64% · 12 72%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Slask Wroclaw ❌✅❌➖✅ | GKS Katowice ❌❌✅❌❌  
-• H2H: 2 desde 2024: 0V-1E-1D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Slask Wroclaw: sin bajas; GKS Katowice: sin bajas  
-• Favorito de las casas: GKS Katowice @ 2.15  
+Actualizado 28/11/2026 17:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rosenborg vs Molde — 28/11 · 18:00
 
@@ -10620,6 +10245,156 @@ Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
 
+## Fenerbahce vs Erzurumspor — 29/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 córners de Erzurumspor** @ **1.84** (Unibet) · prob 53% vs casas 50% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.48 - 0.98)  
+1 76% · X 16% · 2 8%  
+1X 92% · X2 24% · 12 84%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 58%  
+Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 1-1 8%  
+🔎 **Claves**  
+• Forma: Fenerbahce ✅❌❌✅➖ | Erzurumspor ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Fenerbahce: 2 fuera, 0 duda (Archie Brown, Nathan Ake); Erzurumspor: sin bajas  
+• Favorito de las casas: Fenerbahce @ 1.27  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.1: total +9.5 55% · Fenerbahce +5.5 64% · Erzurumspor +4.5 21%  
+Tarjetas 1.8 - 2.7: total +4.5 47% · Fenerbahce +2.5 28% · Erzurumspor +2.5 51%  
+Faltas 11.1 - 12.4: total +26.5 28% · Fenerbahce +13.5 24% · Erzurumspor +13.5 36%  
+Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
+
+## Fenerbahce vs Erzurumspor — 29/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Erzurumspor** @ **1.36** (Unibet) · prob 66% vs casas 67% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.48 - 0.98)  
+1 76% · X 16% · 2 8%  
+1X 92% · X2 24% · 12 84%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 58%  
+Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 1-1 8%  
+🔎 **Claves**  
+• Forma: Fenerbahce ✅❌❌✅➖ | Erzurumspor ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Fenerbahce: 2 fuera, 0 duda (Archie Brown, Nathan Ake); Erzurumspor: sin bajas  
+• Favorito de las casas: Fenerbahce @ 1.27  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.1: total +9.5 55% · Fenerbahce +5.5 64% · Erzurumspor +4.5 21%  
+Tarjetas 1.8 - 2.7: total +4.5 47% · Fenerbahce +2.5 28% · Erzurumspor +2.5 51%  
+Faltas 11.1 - 12.4: total +26.5 28% · Fenerbahce +13.5 24% · Erzurumspor +13.5 36%  
+Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
+
+## Fenerbahce vs Erzurumspor — 29/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 8.5 córners** @ **1.49** (Unibet) · prob 64% vs casas 62% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.48 - 0.98)  
+1 76% · X 16% · 2 8%  
+1X 92% · X2 24% · 12 84%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 58%  
+Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 1-1 8%  
+🔎 **Claves**  
+• Forma: Fenerbahce ✅❌❌✅➖ | Erzurumspor ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Fenerbahce: 2 fuera, 0 duda (Archie Brown, Nathan Ake); Erzurumspor: sin bajas  
+• Favorito de las casas: Fenerbahce @ 1.27  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.1: total +9.5 55% · Fenerbahce +5.5 64% · Erzurumspor +4.5 21%  
+Tarjetas 1.8 - 2.7: total +4.5 47% · Fenerbahce +2.5 28% · Erzurumspor +2.5 51%  
+Faltas 11.1 - 12.4: total +26.5 28% · Fenerbahce +13.5 24% · Erzurumspor +13.5 36%  
+Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
+
+## Fenerbahce vs Erzurumspor — 29/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.48 - 0.98)  
+1 76% · X 16% · 2 8%  
+1X 92% · X2 24% · 12 84%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 58%  
+Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 1-1 8%  
+🔎 **Claves**  
+• Forma: Fenerbahce ✅❌❌✅➖ | Erzurumspor ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Fenerbahce: 2 fuera, 0 duda (Archie Brown, Nathan Ake); Erzurumspor: sin bajas  
+• Favorito de las casas: Fenerbahce @ 1.27  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.1: total +9.5 55% · Fenerbahce +5.5 64% · Erzurumspor +4.5 21%  
+Tarjetas 1.8 - 2.7: total +4.5 47% · Fenerbahce +2.5 28% · Erzurumspor +2.5 51%  
+Faltas 11.1 - 12.4: total +26.5 28% · Fenerbahce +13.5 24% · Erzurumspor +13.5 36%  
+Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
+
+## Fenerbahce vs Erzurumspor — 29/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Fenerbahce** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.48 - 0.98)  
+1 76% · X 16% · 2 8%  
+1X 92% · X2 24% · 12 84%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 58%  
+Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 1-1 8%  
+🔎 **Claves**  
+• Forma: Fenerbahce ✅❌❌✅➖ | Erzurumspor ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Fenerbahce: 2 fuera, 0 duda (Archie Brown, Nathan Ake); Erzurumspor: sin bajas  
+• Favorito de las casas: Fenerbahce @ 1.27  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.1: total +9.5 55% · Fenerbahce +5.5 64% · Erzurumspor +4.5 21%  
+Tarjetas 1.8 - 2.7: total +4.5 47% · Fenerbahce +2.5 28% · Erzurumspor +2.5 51%  
+Faltas 11.1 - 12.4: total +26.5 28% · Fenerbahce +13.5 24% · Erzurumspor +13.5 36%  
+Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
+
+## Fenerbahce vs Erzurumspor — 29/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 7.5 córners de Fenerbahce** @ **1.58** (Unibet) · prob 59% vs casas 58% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.48 - 0.98)  
+1 76% · X 16% · 2 8%  
+1X 92% · X2 24% · 12 84%  
++1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 58%  
+Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 1-1 8%  
+🔎 **Claves**  
+• Forma: Fenerbahce ✅❌❌✅➖ | Erzurumspor ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Fenerbahce: 2 fuera, 0 duda (Archie Brown, Nathan Ake); Erzurumspor: sin bajas  
+• Favorito de las casas: Fenerbahce @ 1.27  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.1: total +9.5 55% · Fenerbahce +5.5 64% · Erzurumspor +4.5 21%  
+Tarjetas 1.8 - 2.7: total +4.5 47% · Fenerbahce +2.5 28% · Erzurumspor +2.5 51%  
+Faltas 11.1 - 12.4: total +26.5 28% · Fenerbahce +13.5 24% · Erzurumspor +13.5 36%  
+Tiros a puerta 7.5 - 3.0: total +9.5 59% · Fenerbahce +5.5 72% · Erzurumspor +4.5 20%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce → prob. 49%, cuota justa 2.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 4.5 córners de Erzurumspor + Menos de 13.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 24%, cuota justa 4.20  
+
 ## Toulouse vs Rennes — 29/11 · 17:15
 
 👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 goles** @ **1.73** (Bet365) · prob 57% vs casas 57% · ventaja -2%
@@ -10644,6 +10419,7 @@ Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%
 Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
 🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
 
 ## Sampdoria vs Cremonese — 29/11 · 17:15
 
@@ -10651,6 +10427,312 @@ Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.97 - 1.16)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 13% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sampdoria ❌✅✅✅✅ | Cremonese ✅✅✅❌❌  
+• H2H: 6 desde 2022: 1V-3E-2D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Sampdoria: 0 fuera, 3 duda; Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti)  
+• Favorito de las casas: Sampdoria @ 2.63  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 43% · Sampdoria +5.5 36% · Cremonese +4.5 41%  
+Tarjetas 2.5 - 2.7: total +4.5 58% · Sampdoria +2.5 45% · Cremonese +2.5 51%  
+Faltas 13.2 - 14.0: total +27.5 46% · Sampdoria +13.5 45% · Cremonese +13.5 53%  
+Tiros a puerta 4.1 - 3.8: total +8.5 40% · Sampdoria +5.5 24% · Cremonese +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria + Más de 4.5 tarjetas + Menos de 13.5 faltas de Sampdoria → prob. 9%, cuota justa 10.86  
+
+## Toulouse vs Rennes — 29/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.57)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Toulouse ✅➖❌✅➖ | Rennes ❌✅❌❌➖  
+• H2H: 38 desde 2005: 12V-9E-17D · 2.8 goles/partido · +2.5 en 61%  
+• Bajas: Toulouse: 1 fuera, 1 duda (Aron Doennum); Rennes: 2 fuera, 1 duda (Adrien Thomasson, Brice Samba)  
+• Favorito de las casas: Toulouse @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Toulouse +5.5 39% · Rennes +4.5 46%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Toulouse +2.5 37% · Rennes +2.5 36%  
+Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%  
+Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
+🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
+
+## Toulouse vs Rennes — 29/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 11.5 córners** @ **1.34** (Unibet) · prob 71% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.57)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Toulouse ✅➖❌✅➖ | Rennes ❌✅❌❌➖  
+• H2H: 38 desde 2005: 12V-9E-17D · 2.8 goles/partido · +2.5 en 61%  
+• Bajas: Toulouse: 1 fuera, 1 duda (Aron Doennum); Rennes: 2 fuera, 1 duda (Adrien Thomasson, Brice Samba)  
+• Favorito de las casas: Toulouse @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Toulouse +5.5 39% · Rennes +4.5 46%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Toulouse +2.5 37% · Rennes +2.5 36%  
+Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%  
+Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
+🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
+
+## Toulouse vs Rennes — 29/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Rennes** @ **1.19** (Unibet) · prob 77% vs casas 77% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.57)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Toulouse ✅➖❌✅➖ | Rennes ❌✅❌❌➖  
+• H2H: 38 desde 2005: 12V-9E-17D · 2.8 goles/partido · +2.5 en 61%  
+• Bajas: Toulouse: 1 fuera, 1 duda (Aron Doennum); Rennes: 2 fuera, 1 duda (Adrien Thomasson, Brice Samba)  
+• Favorito de las casas: Toulouse @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Toulouse +5.5 39% · Rennes +4.5 46%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Toulouse +2.5 37% · Rennes +2.5 36%  
+Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%  
+Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
+🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
+
+## Toulouse vs Rennes — 29/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 5.5 córners de Rennes** @ **1.42** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.57)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Toulouse ✅➖❌✅➖ | Rennes ❌✅❌❌➖  
+• H2H: 38 desde 2005: 12V-9E-17D · 2.8 goles/partido · +2.5 en 61%  
+• Bajas: Toulouse: 1 fuera, 1 duda (Aron Doennum); Rennes: 2 fuera, 1 duda (Adrien Thomasson, Brice Samba)  
+• Favorito de las casas: Toulouse @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Toulouse +5.5 39% · Rennes +4.5 46%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Toulouse +2.5 37% · Rennes +2.5 36%  
+Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%  
+Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
+🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
+
+## Toulouse vs Rennes — 29/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Toulouse** @ **1.16** (Unibet) · prob 81% vs casas 80% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.57)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Toulouse ✅➖❌✅➖ | Rennes ❌✅❌❌➖  
+• H2H: 38 desde 2005: 12V-9E-17D · 2.8 goles/partido · +2.5 en 61%  
+• Bajas: Toulouse: 1 fuera, 1 duda (Aron Doennum); Rennes: 2 fuera, 1 duda (Adrien Thomasson, Brice Samba)  
+• Favorito de las casas: Toulouse @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Toulouse +5.5 39% · Rennes +4.5 46%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Toulouse +2.5 37% · Rennes +2.5 36%  
+Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%  
+Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
+🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
+
+## Toulouse vs Rennes — 29/11 · 17:15
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 7.5 córners de Toulouse** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.57)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 8% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Toulouse ✅➖❌✅➖ | Rennes ❌✅❌❌➖  
+• H2H: 38 desde 2005: 12V-9E-17D · 2.8 goles/partido · +2.5 en 61%  
+• Bajas: Toulouse: 1 fuera, 1 duda (Aron Doennum); Rennes: 2 fuera, 1 duda (Adrien Thomasson, Brice Samba)  
+• Favorito de las casas: Toulouse @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Toulouse +5.5 39% · Rennes +4.5 46%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Toulouse +2.5 37% · Rennes +2.5 36%  
+Faltas 13.4 - 13.2: total +24.5 64% · Toulouse +11.5 68% · Rennes +12.5 56%  
+Tiros a puerta 5.1 - 4.5: total +9.5 49% · Toulouse +5.5 40% · Rennes +4.5 46%  
+🧩 Crear apuesta: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners → prob. 28%, cuota justa 3.62 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Toulouse + Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Toulouse → prob. 10%, cuota justa 10.41  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Rennes + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Toulouse): cuota Unibet aprox. 4.22 (producto de piernas) · prob. 26% · ventaja +10% → 1 u en la banca de simulación  
+
+## Sampdoria vs Cremonese — 29/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.67** (Unibet) · prob 54% vs casas 54% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.97 - 1.16)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 13% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sampdoria ❌✅✅✅✅ | Cremonese ✅✅✅❌❌  
+• H2H: 6 desde 2022: 1V-3E-2D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Sampdoria: 0 fuera, 3 duda; Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti)  
+• Favorito de las casas: Sampdoria @ 2.63  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 43% · Sampdoria +5.5 36% · Cremonese +4.5 41%  
+Tarjetas 2.5 - 2.7: total +4.5 58% · Sampdoria +2.5 45% · Cremonese +2.5 51%  
+Faltas 13.2 - 14.0: total +27.5 46% · Sampdoria +13.5 45% · Cremonese +13.5 53%  
+Tiros a puerta 4.1 - 3.8: total +8.5 40% · Sampdoria +5.5 24% · Cremonese +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria + Más de 4.5 tarjetas + Menos de 13.5 faltas de Sampdoria → prob. 9%, cuota justa 10.86  
+
+## Sampdoria vs Cremonese — 29/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.35** (Unibet) · prob 68% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.97 - 1.16)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 13% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sampdoria ❌✅✅✅✅ | Cremonese ✅✅✅❌❌  
+• H2H: 6 desde 2022: 1V-3E-2D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Sampdoria: 0 fuera, 3 duda; Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti)  
+• Favorito de las casas: Sampdoria @ 2.63  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 43% · Sampdoria +5.5 36% · Cremonese +4.5 41%  
+Tarjetas 2.5 - 2.7: total +4.5 58% · Sampdoria +2.5 45% · Cremonese +2.5 51%  
+Faltas 13.2 - 14.0: total +27.5 46% · Sampdoria +13.5 45% · Cremonese +13.5 53%  
+Tiros a puerta 4.1 - 3.8: total +8.5 40% · Sampdoria +5.5 24% · Cremonese +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria + Más de 4.5 tarjetas + Menos de 13.5 faltas de Sampdoria → prob. 9%, cuota justa 10.86  
+
+## Sampdoria vs Cremonese — 29/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Sampdoria** @ **1.86** (Unibet) · prob 50% vs casas 48% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.97 - 1.16)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 13% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sampdoria ❌✅✅✅✅ | Cremonese ✅✅✅❌❌  
+• H2H: 6 desde 2022: 1V-3E-2D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Sampdoria: 0 fuera, 3 duda; Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti)  
+• Favorito de las casas: Sampdoria @ 2.63  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 43% · Sampdoria +5.5 36% · Cremonese +4.5 41%  
+Tarjetas 2.5 - 2.7: total +4.5 58% · Sampdoria +2.5 45% · Cremonese +2.5 51%  
+Faltas 13.2 - 14.0: total +27.5 46% · Sampdoria +13.5 45% · Cremonese +13.5 53%  
+Tiros a puerta 4.1 - 3.8: total +8.5 40% · Sampdoria +5.5 24% · Cremonese +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria + Más de 4.5 tarjetas + Menos de 13.5 faltas de Sampdoria → prob. 9%, cuota justa 10.86  
+
+## Sampdoria vs Cremonese — 29/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Sampdoria** @ **1.74** (Unibet) · prob 50% vs casas 52% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.97 - 1.16)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 13% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sampdoria ❌✅✅✅✅ | Cremonese ✅✅✅❌❌  
+• H2H: 6 desde 2022: 1V-3E-2D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Sampdoria: 0 fuera, 3 duda; Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti)  
+• Favorito de las casas: Sampdoria @ 2.63  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 43% · Sampdoria +5.5 36% · Cremonese +4.5 41%  
+Tarjetas 2.5 - 2.7: total +4.5 58% · Sampdoria +2.5 45% · Cremonese +2.5 51%  
+Faltas 13.2 - 14.0: total +27.5 46% · Sampdoria +13.5 45% · Cremonese +13.5 53%  
+Tiros a puerta 4.1 - 3.8: total +8.5 40% · Sampdoria +5.5 24% · Cremonese +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria + Más de 4.5 tarjetas + Menos de 13.5 faltas de Sampdoria → prob. 9%, cuota justa 10.86  
+
+## Sampdoria vs Cremonese — 29/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Cremonese** @ **1.56** (Unibet) · prob 57% vs casas 58% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.97 - 1.16)  
+1 35% · X 31% · 2 34%  
+1X 66% · X2 65% · 12 69%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 13% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sampdoria ❌✅✅✅✅ | Cremonese ✅✅✅❌❌  
+• H2H: 6 desde 2022: 1V-3E-2D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Sampdoria: 0 fuera, 3 duda; Cremonese: 3 fuera, 0 duda (Marco Nasti, Federico Bonazzoli, Matteo Bianchetti)  
+• Favorito de las casas: Sampdoria @ 2.63  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.2: total +9.5 43% · Sampdoria +5.5 36% · Cremonese +4.5 41%  
+Tarjetas 2.5 - 2.7: total +4.5 58% · Sampdoria +2.5 45% · Cremonese +2.5 51%  
+Faltas 13.2 - 14.0: total +27.5 46% · Sampdoria +13.5 45% · Cremonese +13.5 53%  
+Tiros a puerta 4.1 - 3.8: total +8.5 40% · Sampdoria +5.5 24% · Cremonese +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sampdoria + Menos de 2.5 goles + Menos de 5.5 córners de Sampdoria + Más de 4.5 tarjetas + Menos de 13.5 faltas de Sampdoria → prob. 9%, cuota justa 10.86  
+
+## Sampdoria vs Cremonese — 29/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Cremonese** @ **1.58** (Unibet) · prob 58% vs casas 57% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 0.97 - 1.16)  
 1 35% · X 31% · 2 34%  

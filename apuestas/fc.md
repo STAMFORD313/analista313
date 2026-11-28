@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 17:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 17:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Lukapaja vs Mani — 28/11 · 17:13
+## Maslja vs Jokadinho — 28/11 · 17:44
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Jokadinho** @ **2.40** (Unibet) · prob 47% vs casas 37% · ventaja +14%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.563 partidos)  
-Goles esperados: Lukapaja 2.70 · Mani 2.97  
-Ganador: Lukapaja 35% · empate 20% · Mani 45%  
+📊 **Escenarios** (Poisson por jugador, 84.591 partidos)  
+Goles esperados: Maslja 2.92 · Jokadinho 3.30  
+Ganador: Maslja 34% · empate 19% · Jokadinho 47%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Jokadinho: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Maslja ❌❌✅❌✅ | Jokadinho ✅✅❌✅✅  
+• Partidos: Maslja 1147 | Jokadinho 1132  
+• Liga: World Cup B  
+• Unibet: 1 1.85 · X 5.50 · 2 2.40 (sin margen 47%/16%/37%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+14%) · Paf España 2.40 (+14%)  
+
+## Mani vs Firminho — 28/11 · 17:47
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Firminho** @ **2.17** (Unibet) · prob 53% vs casas 40% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.591 partidos)  
+Goles esperados: Mani 3.06 · Firminho 3.56  
+Ganador: Mani 30% · empate 17% · Firminho 53%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Firminho: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Mani ❌✅❌❌❌ | Firminho ❌✅❌❌✅  
+• Partidos: Mani 1182 | Firminho 1071  
+• Liga: Champions League A  
+• Unibet: 1 2.16 · X 4.50 · 2 2.17 (sin margen 40%/19%/40%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.17 (+15%) · Paf España 2.17 (+15%)  
+
+## maggett0 vs Maslja — 28/11 · 17:56
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana maggett0** @ **2.80** (Unibet) · prob 40% vs casas 31% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.591 partidos)  
+Goles esperados: maggett0 2.87 · Maslja 2.82  
+Ganador: maggett0 40% · empate 20% · Maslja 40%  
 Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Mani: −1.5 30% · −2.5 17%  
+Hándicap maggett0: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Lukapaja ➖➖✅✅❌ | Mani ❌❌❌✅❌  
-• Partidos: Lukapaja 196 | Mani 1180  
-• Liga: Europa League  
-• Unibet: 1 2.48 · X 5.50 · 2 1.81 (sin margen 35%/16%/49%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.50 (+8%) · Paf España 5.50 (+8%)  
-
-## Shinobu vs kobak.jk — 28/11 · 17:14
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **6.10** (Unibet) · prob 21% vs casas 14% · ventaja +27%
-
-- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.563 partidos)  
-Goles esperados: Shinobu 2.90 · kobak.jk 2.29  
-Ganador: Shinobu 41% · empate 21% · kobak.jk 39%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap Shinobu: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Shinobu ➖✅✅✅✅ | kobak.jk ➖❌❌❌❌  
-• Partidos: Shinobu 1816 | kobak.jk 400  
-• Liga: A-League  
-• Unibet: 1 2.16 · X 6.10 · 2 1.96 (sin margen 41%/14%/45%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+27%) · Paf España 6.10 (+27%)  
-
-## berg vs Shinobu — 28/11 · 17:26
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana berg** @ **1.74** (Unibet) · prob 64% vs casas 50% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.563 partidos)  
-Goles esperados: berg 3.07 · Shinobu 2.41  
-Ganador: berg 63% · empate 18% · Shinobu 19%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap berg: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: berg ➖❌❌✅✅ | Shinobu ➖✅✅✅✅  
-• Partidos: berg 1244 | Shinobu 1816  
-• Liga: A-League  
-• Unibet: 1 1.74 · X 5.20 · 2 2.70 (sin margen 51%/17%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.74 (+10%) · Paf España 1.74 (+10%)  
+• Forma: maggett0 ❌✅✅➖❌ | Maslja ❌❌✅❌✅  
+• Partidos: maggett0 1198 | Maslja 1147  
+• Liga: World Cup B  
+• Unibet: 1 2.80 · X 4.40 · 2 1.79 (sin margen 31%/20%/49%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+12%) · Paf España 2.80 (+12%)  
 
