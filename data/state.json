@@ -1464,9 +1464,6 @@
   "cbb|2026-12-01|Kansas City Roos|Peru State PERU STATE",
   "cbb|2026-12-01|Evansville Purple Aces|Chicago State Cougars",
   "cbb|2026-12-01|Arizona State Sun Devils|Montana Grizzlies",
-  "cs2|134856",
-  "fc|2393209",
-  "fc|2393753",
   "fc|2393208",
   "fc|2393614",
   "fc|2393211",
@@ -2466,7 +2463,10 @@
   "fc|2402363",
   "fc|2401405",
   "fc|2401402",
-  "fc|2401403"
+  "fc|2401403",
+  "fc|2403808",
+  "fc|2401407",
+  "fc|2401404"
  ],
  "signals": [
   {
@@ -21230,7 +21230,11 @@
    "version": "41239c9",
    "bajas": "Louisville Cardinals: sin bajas; Tennessee Volunteers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "84-64",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -21251,7 +21255,11 @@
    "version": "41239c9",
    "bajas": "Louisville Cardinals: sin bajas; Tennessee Volunteers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "84-64",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-27|Dordrecht|Vitesse Arnhem",
@@ -40335,15 +40343,6 @@
    "pick": "Más de 143.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>142.4</b> puntos · línea 143.5",
-    "Más 49% · Menos 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Texas Tech Red Raiders ✅✅✅❌✅ | San Diego State Aztecs ✅✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Texas Tech Red Raiders: sin bajas; San Diego State Aztecs: sin bajas"
-   ],
    "context": "Texas Tech Red Raiders vs San Diego State Aztecs (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 142.4 frente a línea 143.5. Forma Texas Tech Red Raiders ✅✅✅❌✅, San Diego State Aztecs ✅✅✅❌✅. H2H sin precedentes. Bajas: Texas Tech Red Raiders: sin bajas; San Diego State Aztecs: sin bajas.",
    "captured": "2026-11-27T15:24",
    "version": "17e8d89",
@@ -40365,14 +40364,6 @@
    "pick": "Texas Tech Red Raiders -7.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: Texas Tech Red Raiders cubre -7.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Texas Tech Red Raiders ✅✅✅❌✅ | San Diego State Aztecs ✅✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Texas Tech Red Raiders: sin bajas; San Diego State Aztecs: sin bajas"
-   ],
    "context": "Texas Tech Red Raiders vs San Diego State Aztecs (🏀 NCAA Basketball). Hándicap Texas Tech Red Raiders -7.5: margen esperado desde el Elo (gana Texas Tech Red Raiders 68%). Forma Texas Tech Red Raiders ✅✅✅❌✅, San Diego State Aztecs ✅✅✅❌✅. H2H sin precedentes. Bajas: Texas Tech Red Raiders: sin bajas; San Diego State Aztecs: sin bajas.",
    "captured": "2026-11-27T15:24",
    "version": "17e8d89",
@@ -40393,18 +40384,6 @@
    "start": "2026-11-28T04:30Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 62.294 partidos y bajas)",
-    "Gana Texas Tech Red Raiders 68% · Gana San Diego State Aztecs 32%",
-    "Casas: Texas Tech Red Raiders 74% · San Diego State Aztecs 26%",
-    "Hándicap TTU -7.5 · Total puntos 143.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Texas Tech Red Raiders ✅✅✅❌✅ | San Diego State Aztecs ✅✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Texas Tech Red Raiders: sin bajas; San Diego State Aztecs: sin bajas",
-    "• Favorito de las casas: Texas Tech Red Raiders @ 1.29"
-   ],
    "context": "Texas Tech Red Raiders vs San Diego State Aztecs (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Texas Tech Red Raiders 68%, San Diego State Aztecs 32%. Cuotas DraftKings 1.29/3.75, hándicap TTU -7.5, total 143.5. Forma Texas Tech Red Raiders ✅✅✅❌✅, San Diego State Aztecs ✅✅✅❌✅. H2H sin precedentes. Bajas Texas Tech Red Raiders: ninguna. Bajas San Diego State Aztecs: ninguna.",
    "captured": "2026-11-27T15:24",
    "version": "17e8d89",
@@ -50203,7 +50182,11 @@
    "version": "8d76cc7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -50219,20 +50202,6 @@
    "start": "2026-11-28T04:32:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 83.941 partidos)",
-    "Goles esperados: nicky 5.79 · Kosta 4.51",
-    "Ganador: nicky 62% · empate 13% · Kosta 25%",
-    "Total: más de 10.5 goles 45% · menos 55%",
-    "Hándicap nicky: −1.5 47% · −2.5 35%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: nicky ❌❌❌❌❌ | Kosta ❌✅❌✅❌",
-    "• Partidos: nicky 460 | Kosta 381",
-    "• Liga: LaLiga 2x6",
-    "• Unibet: 1 1.91 · X 6.00 · 2 2.23 (sin margen 46%/15%/39%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.91 (+19%) · Paf España 1.91 (+19%)"
-   ],
    "context": "EA FC Esoccer Battle nicky vs Kosta (LaLiga 2x6): goles esperados 5.79-4.51, 1X2 62%/13%/25%. Sin cuotas de casa.",
    "captured": "2026-11-28T04:17",
    "version": "8d76cc7",
@@ -50254,20 +50223,6 @@
    "start": "2026-11-28T04:35:00+00:00",
    "league": "🎮⚽ FC 27 · Club World Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 83.941 partidos)",
-    "Goles esperados: reddevil 2.15 · Simaponika 3.66",
-    "Ganador: reddevil 14% · empate 15% · Simaponika 72%",
-    "Total: más de 5.5 goles 52% · menos 48%",
-    "Hándicap Simaponika: −1.5 49% · −2.5 33%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: reddevil ❌❌❌❌❌ | Simaponika ✅❌✅✅➖",
-    "• Partidos: reddevil 188 | Simaponika 1523",
-    "• Liga: Club World Cup",
-    "• Unibet: 1 2.95 · X 5.80 · 2 1.60 (sin margen 30%/15%/55%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.60 (+15%) · Paf España 1.60 (+15%)"
-   ],
    "context": "EA FC Esoccer Battle reddevil vs Simaponika (Club World Cup): goles esperados 2.15-3.66, 1X2 14%/15%/72%. Sin cuotas de casa.",
    "captured": "2026-11-28T04:17",
    "version": "8d76cc7",
@@ -50308,6 +50263,36 @@
    "version": "8d76cc7",
    "bajas": "",
    "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-28|Shimizu S-Pulse|Urawa Red Diamonds",
+   "market": "A",
+   "pick": "Urawa Red Diamonds",
+   "odds": 2.29,
+   "book": "Smarkets",
+   "p": 0.4752,
+   "implied": 0.4752,
+   "edge": 0.0902,
+   "match": "Shimizu S-Pulse vs Urawa Red Diamonds",
+   "start": "2026-11-28T05:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Japan - J League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.29 y el precio justo de Pinnacle es 2.10 (ventaja +9.0%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Shimizu S-Pulse vs Urawa Red Diamonds (Japan - J League). Estrategia de valor: Smarkets 2.29 frente a Pinnacle justo 2.10.",
+   "captured": "2026-11-28T04:45",
+   "version": "38415f2",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": null,
+    "confianza": null,
+    "modelo": null
+   },
    "placed": false
   }
  ],
@@ -67279,7 +67264,8 @@
   "nba|2026-11-28|Washington Wizards|Orlando Magic",
   "nba|2026-11-28|Charlotte Hornets|Brooklyn Nets",
   "nba|2026-11-29|Chicago Bulls|Indiana Pacers",
-  "nba|2026-11-29|Milwaukee Bucks|Oklahoma City Thunder"
+  "nba|2026-11-29|Milwaukee Bucks|Oklahoma City Thunder",
+  "nba|2026-11-29|Houston Rockets|Philadelphia 76ers"
  ],
  "radar_date": "2026-11-27",
  "sgp_res_sent": "2026-11-28T00:35:05.658369+00:00"
