@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 12:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 12:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dresden vs St Pauli — 28/11 · 13:00
 
@@ -11657,6 +11657,163 @@ Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%
 Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
 🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
+
+## Den Haag vs Utrecht — 29/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Den Haag** @ **1.32** (Unibet) · prob 70% vs casas 70% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.95)  
+1 24% · X 27% · 2 49%  
+1X 51% · X2 76% · 12 73%  
++1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
+Marcadores: 1-1 9% · 1-2 8% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ✅❌❌✅❌ | Utrecht ✅➖❌❌❌  
+• H2H: 30 desde 2005: 6V-11E-13D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: sin bajas; Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans)  
+• Favorito de las casas: Utrecht @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.5: total +10.5 38% · Den Haag +5.5 41% · Utrecht +4.5 46%  
+Tarjetas 1.3 - 1.8: total +3.5 37% · Den Haag +1.5 37% · Utrecht +1.5 54%  
+Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%  
+Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
+🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
+
+## Den Haag vs Utrecht — 29/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Den Haag** @ **1.36** (Unibet) · prob 70% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.95)  
+1 24% · X 27% · 2 49%  
+1X 51% · X2 76% · 12 73%  
++1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
+Marcadores: 1-1 9% · 1-2 8% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ✅❌❌✅❌ | Utrecht ✅➖❌❌❌  
+• H2H: 30 desde 2005: 6V-11E-13D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: sin bajas; Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans)  
+• Favorito de las casas: Utrecht @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.5: total +10.5 38% · Den Haag +5.5 41% · Utrecht +4.5 46%  
+Tarjetas 1.3 - 1.8: total +3.5 37% · Den Haag +1.5 37% · Utrecht +1.5 54%  
+Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%  
+Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
+🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
+
+## Den Haag vs Utrecht — 29/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Utrecht** @ **1.43** (Unibet) · prob 63% vs casas 64% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.95)  
+1 24% · X 27% · 2 49%  
+1X 51% · X2 76% · 12 73%  
++1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
+Marcadores: 1-1 9% · 1-2 8% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ✅❌❌✅❌ | Utrecht ✅➖❌❌❌  
+• H2H: 30 desde 2005: 6V-11E-13D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: sin bajas; Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans)  
+• Favorito de las casas: Utrecht @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.5: total +10.5 38% · Den Haag +5.5 41% · Utrecht +4.5 46%  
+Tarjetas 1.3 - 1.8: total +3.5 37% · Den Haag +1.5 37% · Utrecht +1.5 54%  
+Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%  
+Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
+🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
+
+## Den Haag vs Utrecht — 29/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Utrecht** @ **1.82** (Unibet) · prob 52% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.95)  
+1 24% · X 27% · 2 49%  
+1X 51% · X2 76% · 12 73%  
++1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
+Marcadores: 1-1 9% · 1-2 8% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ✅❌❌✅❌ | Utrecht ✅➖❌❌❌  
+• H2H: 30 desde 2005: 6V-11E-13D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: sin bajas; Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans)  
+• Favorito de las casas: Utrecht @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.5: total +10.5 38% · Den Haag +5.5 41% · Utrecht +4.5 46%  
+Tarjetas 1.3 - 1.8: total +3.5 37% · Den Haag +1.5 37% · Utrecht +1.5 54%  
+Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%  
+Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
+🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
+
+## Den Haag vs Utrecht — 29/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 69% vs casas 66% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.95)  
+1 24% · X 27% · 2 49%  
+1X 51% · X2 76% · 12 73%  
++1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
+Marcadores: 1-1 9% · 1-2 8% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ✅❌❌✅❌ | Utrecht ✅➖❌❌❌  
+• H2H: 30 desde 2005: 6V-11E-13D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: sin bajas; Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans)  
+• Favorito de las casas: Utrecht @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.5: total +10.5 38% · Den Haag +5.5 41% · Utrecht +4.5 46%  
+Tarjetas 1.3 - 1.8: total +3.5 37% · Den Haag +1.5 37% · Utrecht +1.5 54%  
+Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%  
+Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
+🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
+
+## Den Haag vs Utrecht — 29/11 · 12:15
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.95)  
+1 24% · X 27% · 2 49%  
+1X 51% · X2 76% · 12 73%  
++1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
+Marcadores: 1-1 9% · 1-2 8% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ✅❌❌✅❌ | Utrecht ✅➖❌❌❌  
+• H2H: 30 desde 2005: 6V-11E-13D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: sin bajas; Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans)  
+• Favorito de las casas: Utrecht @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.5: total +10.5 38% · Den Haag +5.5 41% · Utrecht +4.5 46%  
+Tarjetas 1.3 - 1.8: total +3.5 37% · Den Haag +1.5 37% · Utrecht +1.5 54%  
+Faltas 13.5 - 12.3: total +21.5 78% · Den Haag +10.5 77% · Utrecht +11.5 57%  
+Tiros a puerta 5.6 - 5.2: total +10.5 51% · Den Haag +5.5 48% · Utrecht +5.5 41%  
+🧩 Crear apuesta: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 21.5 faltas + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Utrecht → prob. 11%, cuota justa 8.82  
+🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 10.5 córners): cuota Unibet aprox. 4.81 (producto de piernas) · prob. 27% · ventaja +31% → 1 u en la banca de simulación  
 
 ## Udinese vs Fiorentina — 29/11 · 12:30
 
@@ -11682,6 +11839,170 @@ Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%
 Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
+
+## Udinese vs Fiorentina — 29/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Udinese** @ **1.15** (Unibet) · prob 79% vs casas 79% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.47)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Udinese ❌➖❌❌➖ | Fiorentina ❌➖✅➖❌  
+• H2H: 42 desde 2005: 14V-6E-22D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Udinese: 4 fuera, 2 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye); Fiorentina: 2 fuera, 4 duda (Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.6: total +9.5 44% · Udinese +5.5 33% · Fiorentina +4.5 46%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Udinese +1.5 57% · Fiorentina +2.5 29%  
+Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%  
+Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
+
+## Udinese vs Fiorentina — 29/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Udinese** @ **1.52** (Unibet) · prob 64% vs casas 61% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.47)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Udinese ❌➖❌❌➖ | Fiorentina ❌➖✅➖❌  
+• H2H: 42 desde 2005: 14V-6E-22D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Udinese: 4 fuera, 2 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye); Fiorentina: 2 fuera, 4 duda (Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.6: total +9.5 44% · Udinese +5.5 33% · Fiorentina +4.5 46%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Udinese +1.5 57% · Fiorentina +2.5 29%  
+Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%  
+Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
+
+## Udinese vs Fiorentina — 29/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Fiorentina** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.47)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Udinese ❌➖❌❌➖ | Fiorentina ❌➖✅➖❌  
+• H2H: 42 desde 2005: 14V-6E-22D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Udinese: 4 fuera, 2 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye); Fiorentina: 2 fuera, 4 duda (Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.6: total +9.5 44% · Udinese +5.5 33% · Fiorentina +4.5 46%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Udinese +1.5 57% · Fiorentina +2.5 29%  
+Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%  
+Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
+
+## Udinese vs Fiorentina — 29/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Fiorentina** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.47)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Udinese ❌➖❌❌➖ | Fiorentina ❌➖✅➖❌  
+• H2H: 42 desde 2005: 14V-6E-22D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Udinese: 4 fuera, 2 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye); Fiorentina: 2 fuera, 4 duda (Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.6: total +9.5 44% · Udinese +5.5 33% · Fiorentina +4.5 46%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Udinese +1.5 57% · Fiorentina +2.5 29%  
+Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%  
+Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
+
+## Udinese vs Fiorentina — 29/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 79% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.47)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Udinese ❌➖❌❌➖ | Fiorentina ❌➖✅➖❌  
+• H2H: 42 desde 2005: 14V-6E-22D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Udinese: 4 fuera, 2 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye); Fiorentina: 2 fuera, 4 duda (Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.6: total +9.5 44% · Udinese +5.5 33% · Fiorentina +4.5 46%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Udinese +1.5 57% · Fiorentina +2.5 29%  
+Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%  
+Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
+
+## Udinese vs Fiorentina — 29/11 · 12:30
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 8.5 córners** @ **2.30** (Unibet) · prob 42% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 1.47)  
+1 33% · X 29% · 2 38%  
+1X 62% · X2 67% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Udinese ❌➖❌❌➖ | Fiorentina ❌➖✅➖❌  
+• H2H: 42 desde 2005: 14V-6E-22D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Udinese: 4 fuera, 2 duda (Hassane Kamara, Thomas Kristensen, Idrissa Gueye); Fiorentina: 2 fuera, 4 duda (Luca Ranieri, Fabiano Parisi)  
+• Favorito de las casas: Fiorentina @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.6: total +9.5 44% · Udinese +5.5 33% · Fiorentina +4.5 46%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Udinese +1.5 57% · Fiorentina +2.5 29%  
+Faltas 13.2 - 11.6: total +22.5 65% · Udinese +11.5 66% · Fiorentina +11.5 48%  
+Tiros a puerta 4.5 - 4.6: total +9.5 43% · Udinese +5.5 31% · Fiorentina +4.5 48%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 tiros a puerta de Udinese + Menos de 5.5 córners de Udinese + Más de 11.5 faltas de Udinese → prob. 24%, cuota justa 4.12  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.91 (producto de piernas) · prob. 36% · ventaja +5% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fiorentina + Menos de 5.5 córners de Udinese): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 48% · ventaja +6% → 1 u en la banca de simulación  
 
 ## Everton vs Liverpool — 29/11 · 13:00
 

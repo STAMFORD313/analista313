@@ -84312,16 +84312,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2404025,263480,England,France,,
 2404026,263480,Spain,England,,
 2404027,263480,Brazil,Argentina,,
-2403546,263410,Chengdu Rongcheng,Shanghai Shenhua,2,2
-2403547,263410,Shandong Taishan,Shanghai Port,0,0
-2403548,263410,Shanghai Port,Chengdu Rongcheng,2,3
-2403549,263410,Shanghai Shenhua,Beijing Guoan,2,2
-2403550,263410,Beijing Guoan,Shanghai Port,1,5
-2403551,263410,Chengdu Rongcheng,Shandong Taishan,1,1
-2403552,263410,Shandong Taishan,Beijing Guoan,4,0
-2403553,263410,Shanghai Port,Shanghai Shenhua,4,1
-2403554,263410,Shanghai Shenhua,Shandong Taishan,3,0
-2403555,263410,Beijing Guoan,Chengdu Rongcheng,4,1
+2403546,263410,Chengdu Rongcheng,Shanghai Shenhua,2.0,2.0
+2403547,263410,Shandong Taishan,Shanghai Port,0.0,0.0
+2403548,263410,Shanghai Port,Chengdu Rongcheng,2.0,3.0
+2403549,263410,Shanghai Shenhua,Beijing Guoan,2.0,2.0
+2403550,263410,Beijing Guoan,Shanghai Port,1.0,5.0
+2403551,263410,Chengdu Rongcheng,Shandong Taishan,1.0,1.0
+2403552,263410,Shandong Taishan,Beijing Guoan,4.0,0.0
+2403553,263410,Shanghai Port,Shanghai Shenhua,4.0,1.0
+2403554,263410,Shanghai Shenhua,Shandong Taishan,3.0,0.0
+2403555,263410,Beijing Guoan,Chengdu Rongcheng,4.0,1.0
 2403556,263410,Shanghai Shenhua,Chengdu Rongcheng,,
 2403557,263410,Shanghai Port,Shandong Taishan,,
 2403558,263410,Chengdu Rongcheng,Shanghai Port,,
@@ -84332,36 +84332,36 @@ id,tournament_id,club1,club2,ht1,ht2
 2403563,263410,Shanghai Shenhua,Shanghai Port,,
 2403564,263410,Shandong Taishan,Shanghai Shenhua,,
 2403565,263410,Chengdu Rongcheng,Beijing Guoan,,
-2402766,263425,Aston Villa,Fenerbahce,1,4
-2402767,263425,Porto,Roma,1,0
-2402768,263425,Roma,Aston Villa,3,2
-2402769,263425,Fenerbahce,Salzburg,3,4
-2402770,263425,Salzburg,Roma,0,2
-2402771,263425,Aston Villa,Porto,5,3
-2402772,263425,Porto,Salzburg,6,0
-2402773,263425,Roma,Fenerbahce,4,1
-2402774,263425,Fenerbahce,Porto,3,1
-2402775,263425,Salzburg,Aston Villa,1,6
-2402776,263425,Fenerbahce,Aston Villa,5,1
-2402777,263425,Roma,Porto,2,0
-2402778,263425,Aston Villa,Roma,0,0
-2402779,263425,Salzburg,Fenerbahce,0,1
+2402766,263425,Aston Villa,Fenerbahce,1.0,4.0
+2402767,263425,Porto,Roma,1.0,0.0
+2402768,263425,Roma,Aston Villa,3.0,2.0
+2402769,263425,Fenerbahce,Salzburg,3.0,4.0
+2402770,263425,Salzburg,Roma,0.0,2.0
+2402771,263425,Aston Villa,Porto,5.0,3.0
+2402772,263425,Porto,Salzburg,6.0,0.0
+2402773,263425,Roma,Fenerbahce,4.0,1.0
+2402774,263425,Fenerbahce,Porto,3.0,1.0
+2402775,263425,Salzburg,Aston Villa,1.0,6.0
+2402776,263425,Fenerbahce,Aston Villa,5.0,1.0
+2402777,263425,Roma,Porto,2.0,0.0
+2402778,263425,Aston Villa,Roma,0.0,0.0
+2402779,263425,Salzburg,Fenerbahce,0.0,1.0
 2402780,263425,Roma,Salzburg,,
 2402781,263425,Porto,Aston Villa,,
 2402782,263425,Salzburg,Porto,,
 2402783,263425,Fenerbahce,Roma,,
 2402784,263425,Porto,Fenerbahce,,
 2402785,263425,Aston Villa,Salzburg,,
-2403134,263435,Netherlands,Germany,2,2
-2403135,263435,Morocco,Belgium,3,0
-2403136,263435,Belgium,Netherlands,0,2
-2403137,263435,Germany,Portugal,2,1
-2403138,263435,Portugal,Belgium,1,1
-2403139,263435,Netherlands,Morocco,2,1
-2403140,263435,Morocco,Portugal,1,1
-2403141,263435,Belgium,Germany,3,1
-2403142,263435,Germany,Morocco,2,0
-2403143,263435,Portugal,Netherlands,2,1
+2403134,263435,Netherlands,Germany,2.0,2.0
+2403135,263435,Morocco,Belgium,3.0,0.0
+2403136,263435,Belgium,Netherlands,0.0,2.0
+2403137,263435,Germany,Portugal,2.0,1.0
+2403138,263435,Portugal,Belgium,1.0,1.0
+2403139,263435,Netherlands,Morocco,2.0,1.0
+2403140,263435,Morocco,Portugal,1.0,1.0
+2403141,263435,Belgium,Germany,3.0,1.0
+2403142,263435,Germany,Morocco,2.0,0.0
+2403143,263435,Portugal,Netherlands,2.0,1.0
 2403144,263435,Germany,Netherlands,,
 2403145,263435,Belgium,Morocco,,
 2403146,263435,Netherlands,Belgium,,
@@ -84372,14 +84372,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2403151,263435,Germany,Belgium,,
 2403152,263435,Morocco,Germany,,
 2403153,263435,Netherlands,Portugal,,
-2403214,263450,Stuttgart,Leipzig,0,2
-2403215,263450,Frankfurt,Bayern Munchen,2,1
-2403216,263450,Bayern Munchen,Stuttgart,1,1
-2403217,263450,Leipzig,B Dortmund,1,2
-2403218,263450,B Dortmund,Bayern Munchen,3,1
-2403219,263450,Stuttgart,Frankfurt,2,3
-2403220,263450,Frankfurt,B Dortmund,2,0
-2403221,263450,Bayern Munchen,Leipzig,2,2
+2403214,263450,Stuttgart,Leipzig,0.0,2.0
+2403215,263450,Frankfurt,Bayern Munchen,2.0,1.0
+2403216,263450,Bayern Munchen,Stuttgart,1.0,1.0
+2403217,263450,Leipzig,B Dortmund,1.0,2.0
+2403218,263450,B Dortmund,Bayern Munchen,3.0,1.0
+2403219,263450,Stuttgart,Frankfurt,2.0,3.0
+2403220,263450,Frankfurt,B Dortmund,2.0,0.0
+2403221,263450,Bayern Munchen,Leipzig,2.0,2.0
 2403222,263450,Leipzig,Frankfurt,,
 2403223,263450,B Dortmund,Stuttgart,,
 2403224,263450,Leipzig,Stuttgart,,
