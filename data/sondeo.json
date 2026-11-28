@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-27 18:21",
+ "fecha": "2026-11-28 06:42",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -60,12 +60,12 @@
      "European Pro League Season 41"
     ],
     [
-     "cloud-rising-vs-ryvex-esports-28-11-2026",
+     "direborn-vs-7ddc08f9d8-28-11-2026",
      "EPL World Series: Southeast Asia Season 20"
     ],
     [
-     "direborn-vs-b194d619d1-28-11-2026",
-     "EPL World Series: Southeast Asia Season 20"
+     "team-yandex-vs-team-liquid-dota2-28-11-2026",
+     "BLAST Slam IX"
     ]
    ]
   },
@@ -115,20 +115,21 @@
   }
  },
  "kambi_esports": {
-  "Esports / CS2 / PGL Major": 8,
   "Esports / Call of Duty / CDL Stage 1": 8,
   "Esports / CS2 / ROG Journey": 7,
-  "Esports / Valorant / VCT: EMEA Kick-Off EU Qual.": 4,
+  "Esports / CS2 / PGL Major": 4,
+  "Esports / CS2 / European Pro League": 4,
+  "Esports / CS2 / CCT European Series 15": 4,
   "Esports / Valorant / VCT: Americas Kick-Off NA Qual.": 4,
+  "Esports / CS2 / CCT European Series 16": 2,
   "Esports / Dota 2 / BLAST Slam": 2,
-  "Esports / Valorant / VCT: Americas Kick-Off Brazil Qual.": 2,
-  "Esports / CS2 / European Pro League": 2,
+  "Esports / CS2 / United21": 2,
+  "Esports / Valorant / VCT: Americas Kick-Off LAN Qual.": 2,
   "Esports / Valorant / VCT: EMEA Kick-Off Turkey Qual.": 2,
-  "Esports / CS2 / CCT European Series 16": 1,
   "Esports / Valorant / VCT: Pacific Kick-Off Oceania Qual.": 1,
   "Esports / Valorant / China National Tournament Split Omega: Pro Division": 1,
-  "Esports / CS2 / CCT European Series 15": 1,
-  "Esports / Valorant / VCT: Americas Kick-Off LAN Qual.": 1,
+  "Esports / Dota 2 / European Pro League": 1,
+  "Esports / Valorant / VCT: Americas Kick-Off Brazil Qual.": 1,
   "Esports / CS2 / CROSSFIRE": 1
  }
 }
