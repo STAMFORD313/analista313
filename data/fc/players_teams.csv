@@ -84092,16 +84092,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2403985,263476,Leipzig,Stuttgart,,
 2403986,263476,B Dortmund,Leipzig,,
 2403987,263476,Bayern Munchen,Frankfurt,,
-2403506,263416,Inter Miami CF,Atlanta United,0,0
-2403507,263416,LA Galaxy,Los Angeles FC,0,2
-2403508,263416,Los Angeles FC,Inter Miami CF,1,3
-2403509,263416,Atlanta United,Seattle Sounders FC,1,1
-2403510,263416,Seattle Sounders FC,Los Angeles FC,1,1
-2403511,263416,Inter Miami CF,LA Galaxy,1,1
-2403512,263416,LA Galaxy,Seattle Sounders FC,2,0
-2403513,263416,Los Angeles FC,Atlanta United,2,2
-2403514,263416,Atlanta United,LA Galaxy,1,0
-2403515,263416,Seattle Sounders FC,Inter Miami CF,1,1
+2403506,263416,Inter Miami CF,Atlanta United,0.0,0.0
+2403507,263416,LA Galaxy,Los Angeles FC,0.0,2.0
+2403508,263416,Los Angeles FC,Inter Miami CF,1.0,3.0
+2403509,263416,Atlanta United,Seattle Sounders FC,1.0,1.0
+2403510,263416,Seattle Sounders FC,Los Angeles FC,1.0,1.0
+2403511,263416,Inter Miami CF,LA Galaxy,1.0,1.0
+2403512,263416,LA Galaxy,Seattle Sounders FC,2.0,0.0
+2403513,263416,Los Angeles FC,Atlanta United,2.0,2.0
+2403514,263416,Atlanta United,LA Galaxy,1.0,0.0
+2403515,263416,Seattle Sounders FC,Inter Miami CF,1.0,1.0
 2403516,263416,Atlanta United,Inter Miami CF,,
 2403517,263416,Los Angeles FC,LA Galaxy,,
 2403518,263416,Inter Miami CF,Los Angeles FC,,
@@ -84112,16 +84112,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2403523,263416,Atlanta United,Los Angeles FC,,
 2403524,263416,LA Galaxy,Atlanta United,,
 2403525,263416,Inter Miami CF,Seattle Sounders FC,,
-2403094,263433,Argentina,Spain,0,2
-2403095,263433,Brazil,England,0,1
-2403096,263433,England,Argentina,1,1
-2403097,263433,Spain,France,2,0
-2403098,263433,France,England,1,1
-2403099,263433,Argentina,Brazil,3,1
-2403100,263433,Brazil,France,2,2
-2403101,263433,England,Spain,2,2
-2403102,263433,Spain,Brazil,0,3
-2403103,263433,France,Argentina,3,1
+2403094,263433,Argentina,Spain,0.0,2.0
+2403095,263433,Brazil,England,0.0,1.0
+2403096,263433,England,Argentina,1.0,1.0
+2403097,263433,Spain,France,2.0,0.0
+2403098,263433,France,England,1.0,1.0
+2403099,263433,Argentina,Brazil,3.0,1.0
+2403100,263433,Brazil,France,2.0,2.0
+2403101,263433,England,Spain,2.0,2.0
+2403102,263433,Spain,Brazil,0.0,3.0
+2403103,263433,France,Argentina,3.0,1.0
 2403104,263433,Spain,Argentina,,
 2403105,263433,England,Brazil,,
 2403106,263433,Argentina,England,,
@@ -84132,14 +84132,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2403111,263433,Spain,England,,
 2403112,263433,Brazil,Spain,,
 2403113,263433,Argentina,France,,
-2403174,263445,Aston Villa,Salzburg,3,1
-2403175,263445,Roma,Fenerbahce,1,1
-2403176,263445,Fenerbahce,Aston Villa,0,0
-2403177,263445,Salzburg,Porto,4,2
-2403178,263445,Porto,Fenerbahce,0,2
-2403179,263445,Aston Villa,Roma,1,1
-2403180,263445,Roma,Porto,2,0
-2403181,263445,Fenerbahce,Salzburg,0,1
+2403174,263445,Aston Villa,Salzburg,3.0,1.0
+2403175,263445,Roma,Fenerbahce,1.0,1.0
+2403176,263445,Fenerbahce,Aston Villa,0.0,0.0
+2403177,263445,Salzburg,Porto,4.0,2.0
+2403178,263445,Porto,Fenerbahce,0.0,2.0
+2403179,263445,Aston Villa,Roma,1.0,1.0
+2403180,263445,Roma,Porto,2.0,0.0
+2403181,263445,Fenerbahce,Salzburg,0.0,1.0
 2403182,263445,Salzburg,Roma,,
 2403183,263445,Porto,Aston Villa,,
 2403184,263445,Salzburg,Aston Villa,,

@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 07:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kashiwa Reysol vs Sanfrecce Hiroshima — 28/11 · 08:00
-
-👀 candidata · 🇯🇵 J1 League · **Empate** @ **3.70** (Bet365) · prob 25% vs casas 25% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.37)  
-1 36% · X 28% · 2 36%  
-1X 64% · X2 64% · 12 72%  
-+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Kashiwa Reysol ➖✅✅✅❌ | Sanfrecce Hiroshima ✅✅➖➖➖  
-• H2H: 26 desde 2012: 7V-9E-10D · 2.3 goles/partido · +2.5 en 38%  
-• Bajas: Kashiwa Reysol: sin bajas; Sanfrecce Hiroshima: sin bajas  
-• Favorito de las casas: Sanfrecce Hiroshima @ 2.15  
+Actualizado 28/11/2026 08:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dresden vs St Pauli — 28/11 · 13:00
 
