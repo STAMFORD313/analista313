@@ -1,49 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 16:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Austria Vienna vs Wolfsberger AC — 28/11 · 17:00
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana Austria Vienna** @ **1.69** (Bet365) · prob 56% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 1.31)  
-1 48% · X 26% · 2 26%  
-1X 74% · X2 52% · 12 74%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 9% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Austria Vienna ❌❌❌➖✅ | Wolfsberger AC ❌❌➖❌❌  
-• H2H: 52 desde 2012: 23V-10E-19D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Austria Vienna: sin bajas; Wolfsberger AC: sin bajas  
-• Favorito de las casas: Austria Vienna @ 1.69  
-
-## Gaziantep vs Amedspor — 28/11 · 17:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 goles** @ **1.67** (Bet365) · prob 57% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.52 - 1.62)  
-1 28% · X 28% · 2 44%  
-1X 56% · X2 72% · 12 72%  
-+1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Gaziantep ❌❌❌❌❌ | Amedspor ✅✅✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Gaziantep: 0 fuera, 1 duda; Amedspor: 1 fuera, 2 duda (Samuel Ballet)  
-• Favorito de las casas: Amedspor @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +9.5 52% · Gaziantep +5.5 37% · Amedspor +4.5 51%  
-Tarjetas 2.4 - 2.6: total +4.5 55% · Gaziantep +2.5 44% · Amedspor +2.5 48%  
-Faltas 11.5 - 13.6: total +26.5 38% · Gaziantep +13.5 27% · Amedspor +13.5 49%  
-Tiros a puerta 4.4 - 4.6: total +9.5 41% · Gaziantep +5.5 29% · Amedspor +4.5 47%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Gaziantep + Menos de 5.5 tiros a puerta de Gaziantep + Menos de 5.5 córners de Gaziantep → prob. 34%, cuota justa 2.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Gaziantep + Menos de 5.5 tiros a puerta de Gaziantep + Menos de 5.5 córners de Gaziantep + Más de 2.5 goles + Menos de 2.5 tarjetas de Gaziantep → prob. 11%, cuota justa 9.02  
+Actualizado 28/11/2026 17:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Angers vs Lens — 28/11 · 17:15
 
@@ -10254,12 +10211,300 @@ Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 
 Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
 
+## OFI Crete vs Levadeiakos — 29/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de OFI Crete** @ **2.00** (Unibet) · prob 50% vs casas 45% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.14)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ❌✅✅➖❌ | Levadeiakos ➖➖✅❌➖  
+• H2H: 11 desde 2018: 4V-3E-4D · 2.7 goles/partido · +2.5 en 45%  
+• Bajas: OFI Crete: sin bajas; Levadeiakos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · OFI Crete +4.5 54% · Levadeiakos +3.5 53%  
+Tarjetas 2.4 - 2.9: total +5.5 43% · OFI Crete +2.5 43% · Levadeiakos +2.5 55%  
+Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 44%  
+Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
+
+## OFI Crete vs Levadeiakos — 29/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 4.5 córners de OFI Crete** @ **1.63** (Unibet) · prob 50% vs casas 55% · ventaja -18%
+
+- ❌ Valor: ventaja -18% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.14)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ❌✅✅➖❌ | Levadeiakos ➖➖✅❌➖  
+• H2H: 11 desde 2018: 4V-3E-4D · 2.7 goles/partido · +2.5 en 45%  
+• Bajas: OFI Crete: sin bajas; Levadeiakos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · OFI Crete +4.5 54% · Levadeiakos +3.5 53%  
+Tarjetas 2.4 - 2.9: total +5.5 43% · OFI Crete +2.5 43% · Levadeiakos +2.5 55%  
+Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 44%  
+Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
+
+## OFI Crete vs Levadeiakos — 29/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Levadeiakos** @ **1.83** (Unibet) · prob 51% vs casas 49% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.14)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ❌✅✅➖❌ | Levadeiakos ➖➖✅❌➖  
+• H2H: 11 desde 2018: 4V-3E-4D · 2.7 goles/partido · +2.5 en 45%  
+• Bajas: OFI Crete: sin bajas; Levadeiakos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · OFI Crete +4.5 54% · Levadeiakos +3.5 53%  
+Tarjetas 2.4 - 2.9: total +5.5 43% · OFI Crete +2.5 43% · Levadeiakos +2.5 55%  
+Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 44%  
+Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
+
+## OFI Crete vs Levadeiakos — 29/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de Levadeiakos** @ **1.76** (Unibet) · prob 49% vs casas 51% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.14)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ❌✅✅➖❌ | Levadeiakos ➖➖✅❌➖  
+• H2H: 11 desde 2018: 4V-3E-4D · 2.7 goles/partido · +2.5 en 45%  
+• Bajas: OFI Crete: sin bajas; Levadeiakos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · OFI Crete +4.5 54% · Levadeiakos +3.5 53%  
+Tarjetas 2.4 - 2.9: total +5.5 43% · OFI Crete +2.5 43% · Levadeiakos +2.5 55%  
+Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 44%  
+Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
+
+## OFI Crete vs Levadeiakos — 29/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 9.5 córners** @ **2.63** (Unibet) · prob 38% vs casas 34% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.14)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ❌✅✅➖❌ | Levadeiakos ➖➖✅❌➖  
+• H2H: 11 desde 2018: 4V-3E-4D · 2.7 goles/partido · +2.5 en 45%  
+• Bajas: OFI Crete: sin bajas; Levadeiakos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · OFI Crete +4.5 54% · Levadeiakos +3.5 53%  
+Tarjetas 2.4 - 2.9: total +5.5 43% · OFI Crete +2.5 43% · Levadeiakos +2.5 55%  
+Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 44%  
+Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
+
+## OFI Crete vs Levadeiakos — 29/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.36** (Unibet) · prob 62% vs casas 66% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.14)  
+1 40% · X 29% · 2 31%  
+1X 69% · X2 60% · 12 71%  
++1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ❌✅✅➖❌ | Levadeiakos ➖➖✅❌➖  
+• H2H: 11 desde 2018: 4V-3E-4D · 2.7 goles/partido · +2.5 en 45%  
+• Bajas: OFI Crete: sin bajas; Levadeiakos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.0: total +9.5 42% · OFI Crete +4.5 54% · Levadeiakos +3.5 53%  
+Tarjetas 2.4 - 2.9: total +5.5 43% · OFI Crete +2.5 43% · Levadeiakos +2.5 55%  
+Faltas 15.3 - 15.1: total +30.5 47% · OFI Crete +15.5 46% · Levadeiakos +15.5 44%  
+Tiros a puerta 4.2 - 3.4: total +7.5 48% · OFI Crete +4.5 40% · Levadeiakos +3.5 43%  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de OFI Crete + Menos de 9.5 córners + Menos de 5.5 tarjetas + Menos de 15.5 faltas de Levadeiakos → prob. 13%, cuota justa 7.94  
+
 ## Zwolle vs AZ Alkmaar — 29/11 · 16:45
 
 👀 candidata · 🇳🇱 Eredivisie · **Gana AZ Alkmaar** @ **1.57** (Bwin) · prob 62% vs casas 62% · ventaja -2%
 
 - ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.56)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Zwolle ✅➖✅➖✅ | AZ Alkmaar ➖❌❌✅✅  
+• H2H: 26 desde 2012: 3V-9E-14D · 3.0 goles/partido · +2.5 en 58%  
+• Bajas: Zwolle: sin bajas; AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 6.4: total +10.5 52% · Zwolle +5.5 30% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.8 - 1.7: total +3.5 45% · Zwolle +1.5 54% · AZ Alkmaar +1.5 50%  
+Faltas 12.8 - 11.3: total +21.5 68% · Zwolle +10.5 72% · AZ Alkmaar +11.5 46%  
+Tiros a puerta 3.8 - 6.3: total +10.5 42% · Zwolle +5.5 19% · AZ Alkmaar +5.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Zwolle + Más de 10.5 faltas de Zwolle + Menos de 5.5 córners de Zwolle → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+
+## Zwolle vs AZ Alkmaar — 29/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de AZ Alkmaar** @ **1.26** (Unibet) · prob 71% vs casas 73% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.56)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Zwolle ✅➖✅➖✅ | AZ Alkmaar ➖❌❌✅✅  
+• H2H: 26 desde 2012: 3V-9E-14D · 3.0 goles/partido · +2.5 en 58%  
+• Bajas: Zwolle: sin bajas; AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 6.4: total +10.5 52% · Zwolle +5.5 30% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.8 - 1.7: total +3.5 45% · Zwolle +1.5 54% · AZ Alkmaar +1.5 50%  
+Faltas 12.8 - 11.3: total +21.5 68% · Zwolle +10.5 72% · AZ Alkmaar +11.5 46%  
+Tiros a puerta 3.8 - 6.3: total +10.5 42% · Zwolle +5.5 19% · AZ Alkmaar +5.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Zwolle + Más de 10.5 faltas de Zwolle + Menos de 5.5 córners de Zwolle → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+
+## Zwolle vs AZ Alkmaar — 29/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de AZ Alkmaar** @ **2.40** (Unibet) · prob 40% vs casas 38% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.56)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Zwolle ✅➖✅➖✅ | AZ Alkmaar ➖❌❌✅✅  
+• H2H: 26 desde 2012: 3V-9E-14D · 3.0 goles/partido · +2.5 en 58%  
+• Bajas: Zwolle: sin bajas; AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 6.4: total +10.5 52% · Zwolle +5.5 30% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.8 - 1.7: total +3.5 45% · Zwolle +1.5 54% · AZ Alkmaar +1.5 50%  
+Faltas 12.8 - 11.3: total +21.5 68% · Zwolle +10.5 72% · AZ Alkmaar +11.5 46%  
+Tiros a puerta 3.8 - 6.3: total +10.5 42% · Zwolle +5.5 19% · AZ Alkmaar +5.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Zwolle + Más de 10.5 faltas de Zwolle + Menos de 5.5 córners de Zwolle → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+
+## Zwolle vs AZ Alkmaar — 29/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de Zwolle** @ **2.70** (Unibet) · prob 39% vs casas 34% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.56)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Zwolle ✅➖✅➖✅ | AZ Alkmaar ➖❌❌✅✅  
+• H2H: 26 desde 2012: 3V-9E-14D · 3.0 goles/partido · +2.5 en 58%  
+• Bajas: Zwolle: sin bajas; AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 6.4: total +10.5 52% · Zwolle +5.5 30% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.8 - 1.7: total +3.5 45% · Zwolle +1.5 54% · AZ Alkmaar +1.5 50%  
+Faltas 12.8 - 11.3: total +21.5 68% · Zwolle +10.5 72% · AZ Alkmaar +11.5 46%  
+Tiros a puerta 3.8 - 6.3: total +10.5 42% · Zwolle +5.5 19% · AZ Alkmaar +5.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Zwolle + Más de 10.5 faltas de Zwolle + Menos de 5.5 córners de Zwolle → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+
+## Zwolle vs AZ Alkmaar — 29/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de Zwolle** @ **1.19** (Unibet) · prob 74% vs casas 77% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.56)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Zwolle ✅➖✅➖✅ | AZ Alkmaar ➖❌❌✅✅  
+• H2H: 26 desde 2012: 3V-9E-14D · 3.0 goles/partido · +2.5 en 58%  
+• Bajas: Zwolle: sin bajas; AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 6.4: total +10.5 52% · Zwolle +5.5 30% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.8 - 1.7: total +3.5 45% · Zwolle +1.5 54% · AZ Alkmaar +1.5 50%  
+Faltas 12.8 - 11.3: total +21.5 68% · Zwolle +10.5 72% · AZ Alkmaar +11.5 46%  
+Tiros a puerta 3.8 - 6.3: total +10.5 42% · Zwolle +5.5 19% · AZ Alkmaar +5.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Zwolle + Más de 10.5 faltas de Zwolle + Menos de 5.5 córners de Zwolle → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+
+## Zwolle vs AZ Alkmaar — 29/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.19** (Unibet) · prob 80% vs casas 78% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.56)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Zwolle ✅➖✅➖✅ | AZ Alkmaar ➖❌❌✅✅  
+• H2H: 26 desde 2012: 3V-9E-14D · 3.0 goles/partido · +2.5 en 58%  
+• Bajas: Zwolle: sin bajas; AZ Alkmaar: 1 fuera, 6 duda (Stije Resink)  
+• Favorito de las casas: AZ Alkmaar @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 4.4 - 6.4: total +10.5 52% · Zwolle +5.5 30% · AZ Alkmaar +4.5 70%  
+Tarjetas 1.8 - 1.7: total +3.5 45% · Zwolle +1.5 54% · AZ Alkmaar +1.5 50%  
+Faltas 12.8 - 11.3: total +21.5 68% · Zwolle +10.5 72% · AZ Alkmaar +11.5 46%  
+Tiros a puerta 3.8 - 6.3: total +10.5 42% · Zwolle +5.5 19% · AZ Alkmaar +5.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Zwolle + Más de 10.5 faltas de Zwolle + Menos de 5.5 córners de Zwolle → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+
+## Zwolle vs AZ Alkmaar — 29/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.19** (Unibet) · prob 78% vs casas 77% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.01 - 1.56)  
 1 19% · X 27% · 2 54%  

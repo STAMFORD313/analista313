@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 16:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 17:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Syracuse Orange vs Notre Dame Fighting Irish — 28/11 · 18:00
 
