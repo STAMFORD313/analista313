@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 21:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 22:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Philadelphia Union vs New England Revolution — 28/11 · 22:30
 
@@ -9204,6 +9204,150 @@ Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.41 - 1.15)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Porto ✅✅✅✅✅ | Sp Lisbon ➖✅❌✅✅  
+• H2H: 42 desde 2005: 17V-16E-9D · 2.2 goles/partido · +2.5 en 40%  
+• Bajas: Porto: 2 fuera, 2 duda (Nehuen Perez, Dominik Prpic); Sp Lisbon: sin bajas  
+• Favorito de las casas: Porto @ 1.93  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.9: total +9.5 47% · Porto +5.5 45% · Sp Lisbon +4.5 36%  
+Tarjetas 2.2 - 2.7: total +5.5 37% · Porto +2.5 39% · Sp Lisbon +2.5 51%  
+Faltas 13.6 - 11.7: total +26.5 40% · Porto +13.5 49% · Sp Lisbon +13.5 29%  
+Tiros a puerta 4.8 - 3.6: total +8.5 47% · Porto +4.5 51% · Sp Lisbon +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Sp Lisbon + Menos de 4.5 córners de Sp Lisbon + Menos de 5.5 tarjetas → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+
+## Porto vs Sp Lisbon — 29/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 5.5 córners de Porto** @ **2.43** (Unibet) · prob 42% vs casas 38% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.41 - 1.15)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Porto ✅✅✅✅✅ | Sp Lisbon ➖✅❌✅✅  
+• H2H: 42 desde 2005: 17V-16E-9D · 2.2 goles/partido · +2.5 en 40%  
+• Bajas: Porto: 2 fuera, 2 duda (Nehuen Perez, Dominik Prpic); Sp Lisbon: sin bajas  
+• Favorito de las casas: Porto @ 1.93  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.9: total +9.5 47% · Porto +5.5 45% · Sp Lisbon +4.5 36%  
+Tarjetas 2.2 - 2.7: total +5.5 37% · Porto +2.5 39% · Sp Lisbon +2.5 51%  
+Faltas 13.6 - 11.7: total +26.5 40% · Porto +13.5 49% · Sp Lisbon +13.5 29%  
+Tiros a puerta 4.8 - 3.6: total +8.5 47% · Porto +4.5 51% · Sp Lisbon +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Sp Lisbon + Menos de 4.5 córners de Sp Lisbon + Menos de 5.5 tarjetas → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+
+## Porto vs Sp Lisbon — 29/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Porto** @ **1.27** (Unibet) · prob 70% vs casas 72% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.41 - 1.15)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Porto ✅✅✅✅✅ | Sp Lisbon ➖✅❌✅✅  
+• H2H: 42 desde 2005: 17V-16E-9D · 2.2 goles/partido · +2.5 en 40%  
+• Bajas: Porto: 2 fuera, 2 duda (Nehuen Perez, Dominik Prpic); Sp Lisbon: sin bajas  
+• Favorito de las casas: Porto @ 1.93  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.9: total +9.5 47% · Porto +5.5 45% · Sp Lisbon +4.5 36%  
+Tarjetas 2.2 - 2.7: total +5.5 37% · Porto +2.5 39% · Sp Lisbon +2.5 51%  
+Faltas 13.6 - 11.7: total +26.5 40% · Porto +13.5 49% · Sp Lisbon +13.5 29%  
+Tiros a puerta 4.8 - 3.6: total +8.5 47% · Porto +4.5 51% · Sp Lisbon +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Sp Lisbon + Menos de 4.5 córners de Sp Lisbon + Menos de 5.5 tarjetas → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+
+## Porto vs Sp Lisbon — 29/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 2.5 córners de Sp Lisbon** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.41 - 1.15)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Porto ✅✅✅✅✅ | Sp Lisbon ➖✅❌✅✅  
+• H2H: 42 desde 2005: 17V-16E-9D · 2.2 goles/partido · +2.5 en 40%  
+• Bajas: Porto: 2 fuera, 2 duda (Nehuen Perez, Dominik Prpic); Sp Lisbon: sin bajas  
+• Favorito de las casas: Porto @ 1.93  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.9: total +9.5 47% · Porto +5.5 45% · Sp Lisbon +4.5 36%  
+Tarjetas 2.2 - 2.7: total +5.5 37% · Porto +2.5 39% · Sp Lisbon +2.5 51%  
+Faltas 13.6 - 11.7: total +26.5 40% · Porto +13.5 49% · Sp Lisbon +13.5 29%  
+Tiros a puerta 4.8 - 3.6: total +8.5 47% · Porto +4.5 51% · Sp Lisbon +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Sp Lisbon + Menos de 4.5 córners de Sp Lisbon + Menos de 5.5 tarjetas → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+
+## Porto vs Sp Lisbon — 29/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Sp Lisbon** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.41 - 1.15)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Porto ✅✅✅✅✅ | Sp Lisbon ➖✅❌✅✅  
+• H2H: 42 desde 2005: 17V-16E-9D · 2.2 goles/partido · +2.5 en 40%  
+• Bajas: Porto: 2 fuera, 2 duda (Nehuen Perez, Dominik Prpic); Sp Lisbon: sin bajas  
+• Favorito de las casas: Porto @ 1.93  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.9: total +9.5 47% · Porto +5.5 45% · Sp Lisbon +4.5 36%  
+Tarjetas 2.2 - 2.7: total +5.5 37% · Porto +2.5 39% · Sp Lisbon +2.5 51%  
+Faltas 13.6 - 11.7: total +26.5 40% · Porto +13.5 49% · Sp Lisbon +13.5 29%  
+Tiros a puerta 4.8 - 3.6: total +8.5 47% · Porto +4.5 51% · Sp Lisbon +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Sp Lisbon + Menos de 4.5 córners de Sp Lisbon + Menos de 5.5 tarjetas → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+
+## Porto vs Sp Lisbon — 29/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 9.5 córners** @ **2.25** (Unibet) · prob 44% vs casas 41% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.41 - 1.15)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Porto ✅✅✅✅✅ | Sp Lisbon ➖✅❌✅✅  
+• H2H: 42 desde 2005: 17V-16E-9D · 2.2 goles/partido · +2.5 en 40%  
+• Bajas: Porto: 2 fuera, 2 duda (Nehuen Perez, Dominik Prpic); Sp Lisbon: sin bajas  
+• Favorito de las casas: Porto @ 1.93  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.9: total +9.5 47% · Porto +5.5 45% · Sp Lisbon +4.5 36%  
+Tarjetas 2.2 - 2.7: total +5.5 37% · Porto +2.5 39% · Sp Lisbon +2.5 51%  
+Faltas 13.6 - 11.7: total +26.5 40% · Porto +13.5 49% · Sp Lisbon +13.5 29%  
+Tiros a puerta 4.8 - 3.6: total +8.5 47% · Porto +4.5 51% · Sp Lisbon +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Sp Lisbon + Menos de 4.5 córners de Sp Lisbon + Menos de 5.5 tarjetas → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+
+## Porto vs Sp Lisbon — 29/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.33** (Unibet) · prob 67% vs casas 69% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.41 - 1.15)  
 1 43% · X 29% · 2 28%  

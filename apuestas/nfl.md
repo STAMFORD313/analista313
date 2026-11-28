@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 21:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## North Texas Mean Green vs UAB Blazers — 28/11 · 22:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 45.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **64.3** puntos · línea 45.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: North Texas Mean Green ✅✅✅❌❌ | UAB Blazers ✅❌✅✅❌  
-• H2H: 7 desde 2017: 3-4  
-• Bajas: North Texas Mean Green: sin bajas; UAB Blazers: sin bajas  
-
-## North Texas Mean Green vs UAB Blazers — 28/11 · 22:00
-
-👀 candidata · 🏈 NCAA Football · **North Texas Mean Green -3** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: North Texas Mean Green cubre -3 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: North Texas Mean Green ✅✅✅❌❌ | UAB Blazers ✅❌✅✅❌  
-• H2H: 7 desde 2017: 3-4  
-• Bajas: North Texas Mean Green: sin bajas; UAB Blazers: sin bajas  
-
-## North Texas Mean Green vs UAB Blazers — 28/11 · 22:00
-
-👀 candidata · 🏈 NCAA Football · **Gana North Texas Mean Green** @ **1.65** (DraftKings) · prob 58% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.657 partidos y bajas)  
-Gana North Texas Mean Green 77% · Gana UAB Blazers 23%  
-Casas: North Texas Mean Green 58% · UAB Blazers 42%  
-Hándicap UNT -3 · Total puntos 45.5  
-🔎 **Claves**  
-• Forma: North Texas Mean Green ✅✅✅❌❌ | UAB Blazers ✅❌✅✅❌  
-• H2H: 7 desde 2017: 3-4  
-• Bajas: North Texas Mean Green: sin bajas; UAB Blazers: sin bajas  
-• Favorito de las casas: North Texas Mean Green @ 1.65  
+Actualizado 28/11/2026 22:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Missouri Tigers vs Oklahoma Sooners — 28/11 · 22:15
 
