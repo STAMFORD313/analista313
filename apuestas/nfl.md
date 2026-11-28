@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 18:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Northwestern Wildcats vs Illinois Fighting Illini — 28/11 · 18:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 50.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **48.6** puntos · línea 50.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Northwestern Wildcats ✅❌❌❌❌ | Illinois Fighting Illini ✅✅✅❌❌  
-• H2H: 10 desde 2016: 6-4  
-• Bajas: Northwestern Wildcats: sin bajas; Illinois Fighting Illini: sin bajas  
-
-## Northwestern Wildcats vs Illinois Fighting Illini — 28/11 · 18:30
-
-👀 candidata · 🏈 NCAA Football · **Northwestern Wildcats -3** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Northwestern Wildcats cubre -3 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Northwestern Wildcats ✅❌❌❌❌ | Illinois Fighting Illini ✅✅✅❌❌  
-• H2H: 10 desde 2016: 6-4  
-• Bajas: Northwestern Wildcats: sin bajas; Illinois Fighting Illini: sin bajas  
-
-## Northwestern Wildcats vs Illinois Fighting Illini — 28/11 · 18:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Northwestern Wildcats** @ **1.65** (DraftKings) · prob 58% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.657 partidos y bajas)  
-Gana Northwestern Wildcats 54% · Gana Illinois Fighting Illini 46%  
-Casas: Northwestern Wildcats 58% · Illinois Fighting Illini 42%  
-Hándicap NU -3 · Total puntos 50.5  
-🔎 **Claves**  
-• Forma: Northwestern Wildcats ✅❌❌❌❌ | Illinois Fighting Illini ✅✅✅❌❌  
-• H2H: 10 desde 2016: 6-4  
-• Bajas: Northwestern Wildcats: sin bajas; Illinois Fighting Illini: sin bajas  
-• Favorito de las casas: Northwestern Wildcats @ 1.65  
+Actualizado 28/11/2026 18:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arkansas Razorbacks vs LSU Tigers — 28/11 · 18:45
 

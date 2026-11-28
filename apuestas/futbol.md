@@ -1,941 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 18:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Gana Cercle Brugge** @ **2.00** (Bwin) · prob 48% vs casas 48% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de Mechelen** @ **1.22** (Unibet) · prob 76% vs casas 75% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Mechelen** @ **1.38** (Unibet) · prob 68% vs casas 66% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.21** (Unibet) · prob 78% vs casas 76% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.29** (Unibet) · prob 73% vs casas 71% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Cercle Brugge** @ **1.47** (Unibet) · prob 63% vs casas 62% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Cercle Brugge vs Mechelen — 28/11 · 18:15
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 7.5 córners de Cercle Brugge** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.35)  
-1 45% · X 28% · 2 27%  
-1X 73% · X2 55% · 12 72%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Cercle Brugge ❌❌✅✅✅ | Mechelen ✅✅✅❌❌  
-• H2H: 30 desde 2007: 15V-6E-9D · 2.8 goles/partido · +2.5 en 53%  
-• Bajas: Cercle Brugge: sin bajas; Mechelen: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Cercle Brugge +5.5 51% · Mechelen +4.5 44%  
-Tarjetas 1.6 - 2.2: total +4.5 33% · Cercle Brugge +2.5 20% · Mechelen +2.5 38%  
-Faltas 10.9 - 11.9: total +22.5 51% · Cercle Brugge +10.5 52% · Mechelen +11.5 53%  
-Tiros a puerta 5.5 - 4.0: total +9.5 47% · Cercle Brugge +5.5 46% · Mechelen +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen → prob. 51%, cuota justa 1.97 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen + Más de 2.5 goles → prob. 15%, cuota justa 6.61  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Mechelen + Menos de 4.5 córners de Mechelen): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 39% · ventaja -2%  
-
-## Charlotte vs Chicago Fire — 28/11 · 18:30
-
-👀 candidata · 🇺🇸 MLS · **Gana Charlotte** @ **2.60** (Bet365) · prob 36% vs casas 36% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.92 - 1.27)  
-1 49% · X 25% · 2 26%  
-1X 74% · X2 51% · 12 75%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Charlotte ❌✅✅➖✅ | Chicago Fire ✅➖✅❌❌  
-• H2H: 11 desde 2022: 6V-0E-5D · 3.6 goles/partido · +2.5 en 73%  
-• Bajas: Charlotte: sin bajas; Chicago Fire: sin bajas  
-• Favorito de las casas: Chicago Fire @ 2.35  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Stuttgart -0.5 (hándicap asiático)** @ **1.83** (mejor del mercado) · prob 53% vs casas 53% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Aston Villa -0.5 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Gana Ath Madrid** @ **1.49** (Bwin) · prob 66% vs casas 66% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Burgos +0.5 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 5.5 córners de Stuttgart** @ **1.67** (Unibet) · prob 56% vs casas 55% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 7.5 córners de Stuttgart** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 10.5 córners** @ **1.83** (Unibet) · prob 53% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Ein Frankfurt** @ **1.25** (Unibet) · prob 72% vs casas 73% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Stuttgart vs Ein Frankfurt — 28/11 · 18:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Ein Frankfurt** @ **2.18** (Unibet) · prob 45% vs casas 42% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.34)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Stuttgart ❌❌✅✅➖ | Ein Frankfurt ✅❌✅➖✅  
-• H2H: 36 desde 2005: 16V-9E-11D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Stuttgart: 1 fuera, 1 duda (Jeremy Arevalo); Ein Frankfurt: 2 fuera, 2 duda (Elias Baum, Fousseny Doumbia)  
-• Favorito de las casas: Stuttgart @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 4.0: total +10.5 45% · Stuttgart +5.5 56% · Ein Frankfurt +4.5 36%  
-Tarjetas 1.5 - 2.2: total +3.5 48% · Stuttgart +2.5 19% · Ein Frankfurt +2.5 36%  
-Faltas 8.8 - 11.1: total +21.5 35% · Stuttgart +10.5 28% · Ein Frankfurt +10.5 55%  
-Tiros a puerta 6.8 - 4.1: total +10.5 51% · Stuttgart +6.5 50% · Ein Frankfurt +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 2.5 goles + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt → prob. 15%, cuota justa 6.47  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Menos de 4.5 córners de Ein Frankfurt + Menos de 4.5 tiros a puerta de Ein Frankfurt): cuota Unibet aprox. 3.89 (producto de piernas) · prob. 35% · ventaja +36% → 1 u en la banca de simulación  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Más de 1.5 córners de Ipswich** @ **1.05** (Unibet) · prob 88% vs casas 86% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Ipswich** @ **1.37** (Unibet) · prob 69% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Más de 6.5 córners** @ **1.16** (Unibet) · prob 80% vs casas 80% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Menos de 10.5 córners** @ **1.52** (Unibet) · prob 64% vs casas 61% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Aston Villa** @ **1.13** (Unibet) · prob 81% vs casas 81% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Ipswich vs Aston Villa — 28/11 · 18:30
-
-👀 candidata · 🏴 Premier League · **Menos de 4.5 córners de Aston Villa** @ **2.02** (Unibet) · prob 47% vs casas 46% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 1.82)  
-1 22% · X 26% · 2 52%  
-1X 48% · X2 78% · 12 74%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 56%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Ipswich ❌➖➖❌❌ | Aston Villa ✅✅➖➖➖  
-• H2H: 8 desde 2016: 1V-4E-3D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Ipswich: 1 fuera, 2 duda (Jack Taylor); Aston Villa: 2 fuera, 1 duda (Matteo Ruggeri, Amadou Onana)  
-• Favorito de las casas: Aston Villa @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.9: total +10.5 34% · Ipswich +5.5 29% · Aston Villa +4.5 51%  
-Tarjetas 1.9 - 2.0: total +4.5 36% · Ipswich +2.5 29% · Aston Villa +2.5 33%  
-Faltas 10.7 - 11.0: total +22.5 43% · Ipswich +11.5 39% · Aston Villa +11.5 42%  
-Tiros a puerta 4.2 - 4.6: total +9.5 39% · Ipswich +5.5 26% · Aston Villa +4.5 48%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Ipswich + Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich + Menos de 11.5 faltas de Ipswich + Más de 2.5 goles → prob. 12%, cuota justa 8.13  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.58 (producto de piernas) · prob. 38% · ventaja -1%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Ipswich + Menos de 5.5 córners de Ipswich): cuota Unibet aprox. 2.01 (producto de piernas) · prob. 50% · ventaja -0%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 5.5 córners de Ath Madrid** @ **2.15** (Unibet) · prob 43% vs casas 43% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 8.5 córners de Ath Madrid** @ **1.09** (Unibet) · prob 85% vs casas 84% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 8.5 córners** @ **1.61** (Unibet) · prob 59% vs casas 57% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Elche** @ **1.72** (Unibet) · prob 55% vs casas 54% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Elche vs Ath Madrid — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Elche** @ **1.04** (Unibet) · prob 89% vs casas 88% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.64)  
-1 17% · X 25% · 2 58%  
-1X 42% · X2 83% · 12 75%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 0-1 12% · 0-2 10% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Elche ➖✅❌❌➖ | Ath Madrid ✅✅✅❌✅  
-• H2H: 12 desde 2013: 2V-1E-9D · 2.2 goles/partido · +2.5 en 25%  
-• Bajas: Elche: 1 fuera, 4 duda (Adam Boayar); Ath Madrid: 1 fuera, 3 duda (Robin Le Normand)  
-• Favorito de las casas: Ath Madrid @ 1.49  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 5.4: total +10.5 37% · Elche +5.5 27% · Ath Madrid +4.5 58%  
-Tarjetas 2.3 - 2.1: total +4.5 44% · Elche +2.5 40% · Ath Madrid +2.5 35%  
-Faltas 11.6 - 11.5: total +25.5 31% · Elche +12.5 38% · Ath Madrid +12.5 37%  
-Tiros a puerta 3.5 - 5.6: total +9.5 43% · Elche +5.5 16% · Ath Madrid +3.5 78%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas → prob. 43%, cuota justa 2.34 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Elche + Menos de 5.5 córners de Elche + Menos de 25.5 faltas + Menos de 2.5 tarjetas de Ath Madrid → prob. 31%, cuota justa 3.23  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Elche + Menos de 2.5 tarjetas de Ath Madrid): cuota Unibet aprox. 1.86 (producto de piernas) · prob. 48% · ventaja -10%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Burgos** @ **1.35** (Unibet) · prob 66% vs casas 68% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Burgos** @ **1.84** (Unibet) · prob 52% vs casas 50% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Eibar** @ **1.56** (Unibet) · prob 59% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
-
-## Eibar vs Burgos — 28/11 · 18:30
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Eibar** @ **1.68** (Unibet) · prob 54% vs casas 54% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 0.79)  
-1 44% · X 30% · 2 26%  
-1X 74% · X2 56% · 12 70%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 42%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 12% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Eibar ➖❌➖➖❌ | Burgos ✅➖✅❌✅  
-• H2H: 10 desde 2021: 5V-1E-4D · 1.2 goles/partido · +2.5 en 10%  
-• Bajas: Eibar: 0 fuera, 3 duda; Burgos: 0 fuera, 1 duda  
-• Favorito de las casas: Eibar @ 1.82  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.6: total +9.5 43% · Eibar +5.5 46% · Burgos +4.5 30%  
-Tarjetas 2.4 - 3.1: total +6.5 32% · Eibar +2.5 43% · Burgos +3.5 37%  
-Faltas 13.1 - 13.4: total +26.5 49% · Eibar +13.5 44% · Burgos +13.5 47%  
-Tiros a puerta 5.7 - 3.0: total +8.5 51% · Eibar +5.5 50% · Burgos +4.5 20%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Menos de 4.5 córners de Burgos + Menos de 6.5 tarjetas + Menos de 2.5 goles + Menos de 13.5 faltas de Eibar → prob. 15%, cuota justa 6.51  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Burgos + Menos de 2.5 goles): cuota Unibet aprox. 2.37 (producto de piernas) · prob. 43% · ventaja +2%  
+Actualizado 28/11/2026 18:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PSV Eindhoven vs Go Ahead Eagles — 28/11 · 18:45
 
@@ -10807,6 +9872,320 @@ Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%
 Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
 🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
+
+## Aris vs Olympiakos — 29/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de Olympiakos** @ **1.63** (Unibet) · prob 51% vs casas 55% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.26)  
+1 21% · X 29% · 2 50%  
+1X 50% · X2 79% · 12 71%  
++1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
+Marcadores: 0-1 15% · 1-1 14% · 0-0 13% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Aris ✅✅❌✅✅ | Olympiakos ✅✅✅➖✅  
+• H2H: 42 desde 2006: 6V-8E-28D · 2.7 goles/partido · +2.5 en 60%  
+• Bajas: Aris: sin bajas; Olympiakos: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.7: total +9.5 37% · Aris +4.5 36% · Olympiakos +3.5 64%  
+Tarjetas 2.9 - 2.6: total +5.5 47% · Aris +2.5 55% · Olympiakos +2.5 49%  
+Faltas 14.4 - 15.9: total +30.5 47% · Aris +15.5 38% · Olympiakos +15.5 52%  
+Tiros a puerta 3.9 - 4.7: total +7.5 61% · Aris +4.5 35% · Olympiakos +3.5 67%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris → prob. 25%, cuota justa 3.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris + Menos de 15.5 faltas de Aris + Más de 2.5 tarjetas de Aris → prob. 8%, cuota justa 12.75  
+
+## Aris vs Olympiakos — 29/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 4.5 córners de Olympiakos** @ **2.00** (Unibet) · prob 49% vs casas 45% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.26)  
+1 21% · X 29% · 2 50%  
+1X 50% · X2 79% · 12 71%  
++1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
+Marcadores: 0-1 15% · 1-1 14% · 0-0 13% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Aris ✅✅❌✅✅ | Olympiakos ✅✅✅➖✅  
+• H2H: 42 desde 2006: 6V-8E-28D · 2.7 goles/partido · +2.5 en 60%  
+• Bajas: Aris: sin bajas; Olympiakos: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.7: total +9.5 37% · Aris +4.5 36% · Olympiakos +3.5 64%  
+Tarjetas 2.9 - 2.6: total +5.5 47% · Aris +2.5 55% · Olympiakos +2.5 49%  
+Faltas 14.4 - 15.9: total +30.5 47% · Aris +15.5 38% · Olympiakos +15.5 52%  
+Tiros a puerta 3.9 - 4.7: total +7.5 61% · Aris +4.5 35% · Olympiakos +3.5 67%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris → prob. 25%, cuota justa 3.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris + Menos de 15.5 faltas de Aris + Más de 2.5 tarjetas de Aris → prob. 8%, cuota justa 12.75  
+
+## Aris vs Olympiakos — 29/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 7.5 córners** @ **1.46** (Unibet) · prob 62% vs casas 61% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.26)  
+1 21% · X 29% · 2 50%  
+1X 50% · X2 79% · 12 71%  
++1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
+Marcadores: 0-1 15% · 1-1 14% · 0-0 13% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Aris ✅✅❌✅✅ | Olympiakos ✅✅✅➖✅  
+• H2H: 42 desde 2006: 6V-8E-28D · 2.7 goles/partido · +2.5 en 60%  
+• Bajas: Aris: sin bajas; Olympiakos: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.7: total +9.5 37% · Aris +4.5 36% · Olympiakos +3.5 64%  
+Tarjetas 2.9 - 2.6: total +5.5 47% · Aris +2.5 55% · Olympiakos +2.5 49%  
+Faltas 14.4 - 15.9: total +30.5 47% · Aris +15.5 38% · Olympiakos +15.5 52%  
+Tiros a puerta 3.9 - 4.7: total +7.5 61% · Aris +4.5 35% · Olympiakos +3.5 67%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris → prob. 25%, cuota justa 3.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris + Menos de 15.5 faltas de Aris + Más de 2.5 tarjetas de Aris → prob. 8%, cuota justa 12.75  
+
+## Aris vs Olympiakos — 29/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.50** (Unibet) · prob 62% vs casas 60% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.26)  
+1 21% · X 29% · 2 50%  
+1X 50% · X2 79% · 12 71%  
++1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
+Marcadores: 0-1 15% · 1-1 14% · 0-0 13% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Aris ✅✅❌✅✅ | Olympiakos ✅✅✅➖✅  
+• H2H: 42 desde 2006: 6V-8E-28D · 2.7 goles/partido · +2.5 en 60%  
+• Bajas: Aris: sin bajas; Olympiakos: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.7: total +9.5 37% · Aris +4.5 36% · Olympiakos +3.5 64%  
+Tarjetas 2.9 - 2.6: total +5.5 47% · Aris +2.5 55% · Olympiakos +2.5 49%  
+Faltas 14.4 - 15.9: total +30.5 47% · Aris +15.5 38% · Olympiakos +15.5 52%  
+Tiros a puerta 3.9 - 4.7: total +7.5 61% · Aris +4.5 35% · Olympiakos +3.5 67%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris → prob. 25%, cuota justa 3.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris + Menos de 15.5 faltas de Aris + Más de 2.5 tarjetas de Aris → prob. 8%, cuota justa 12.75  
+
+## Aris vs Olympiakos — 29/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Aris** @ **1.97** (Unibet) · prob 49% vs casas 46% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.26)  
+1 21% · X 29% · 2 50%  
+1X 50% · X2 79% · 12 71%  
++1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
+Marcadores: 0-1 15% · 1-1 14% · 0-0 13% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Aris ✅✅❌✅✅ | Olympiakos ✅✅✅➖✅  
+• H2H: 42 desde 2006: 6V-8E-28D · 2.7 goles/partido · +2.5 en 60%  
+• Bajas: Aris: sin bajas; Olympiakos: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.7: total +9.5 37% · Aris +4.5 36% · Olympiakos +3.5 64%  
+Tarjetas 2.9 - 2.6: total +5.5 47% · Aris +2.5 55% · Olympiakos +2.5 49%  
+Faltas 14.4 - 15.9: total +30.5 47% · Aris +15.5 38% · Olympiakos +15.5 52%  
+Tiros a puerta 3.9 - 4.7: total +7.5 61% · Aris +4.5 35% · Olympiakos +3.5 67%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris → prob. 25%, cuota justa 3.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris + Menos de 15.5 faltas de Aris + Más de 2.5 tarjetas de Aris → prob. 8%, cuota justa 12.75  
+
+## Aris vs Olympiakos — 29/11 · 18:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de Aris** @ **1.65** (Unibet) · prob 51% vs casas 54% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.84 - 1.26)  
+1 21% · X 29% · 2 50%  
+1X 50% · X2 79% · 12 71%  
++1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 41%  
+Marcadores: 0-1 15% · 1-1 14% · 0-0 13% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Aris ✅✅❌✅✅ | Olympiakos ✅✅✅➖✅  
+• H2H: 42 desde 2006: 6V-8E-28D · 2.7 goles/partido · +2.5 en 60%  
+• Bajas: Aris: sin bajas; Olympiakos: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.82  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.7: total +9.5 37% · Aris +4.5 36% · Olympiakos +3.5 64%  
+Tarjetas 2.9 - 2.6: total +5.5 47% · Aris +2.5 55% · Olympiakos +2.5 49%  
+Faltas 14.4 - 15.9: total +30.5 47% · Aris +15.5 38% · Olympiakos +15.5 52%  
+Tiros a puerta 3.9 - 4.7: total +7.5 61% · Aris +4.5 35% · Olympiakos +3.5 67%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris → prob. 25%, cuota justa 3.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Olympiakos + Menos de 2.5 goles + Menos de 4.5 córners de Aris + Menos de 15.5 faltas de Aris + Más de 2.5 tarjetas de Aris → prob. 8%, cuota justa 12.75  
+
+## Roma vs Monza — 29/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners de Roma** @ **3.05** (Unibet) · prob 32% vs casas 30% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.50 - 0.71)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 47%  
+Marcadores: 2-0 13% · 3-0 11% · 1-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅✅✅✅ | Monza ❌❌❌❌✅  
+• H2H: 6 desde 2022: 4V-2E-0D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Roma: 2 fuera, 2 duda (Wesley, Lorenzo Pellegrini); Monza: 1 fuera, 1 duda (Ivan Juric)  
+• Favorito de las casas: Roma @ 1.21  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.9: total +9.5 57% · Roma +5.5 68% · Monza +4.5 18%  
+Tarjetas 1.6 - 2.1: total +3.5 51% · Roma +1.5 48% · Monza +2.5 36%  
+Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%  
+Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
+🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
+
+## Roma vs Monza — 29/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 10.5 córners de Roma** @ **1.10** (Unibet) · prob 82% vs casas 83% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.50 - 0.71)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 47%  
+Marcadores: 2-0 13% · 3-0 11% · 1-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅✅✅✅ | Monza ❌❌❌❌✅  
+• H2H: 6 desde 2022: 4V-2E-0D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Roma: 2 fuera, 2 duda (Wesley, Lorenzo Pellegrini); Monza: 1 fuera, 1 duda (Ivan Juric)  
+• Favorito de las casas: Roma @ 1.21  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.9: total +9.5 57% · Roma +5.5 68% · Monza +4.5 18%  
+Tarjetas 1.6 - 2.1: total +3.5 51% · Roma +1.5 48% · Monza +2.5 36%  
+Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%  
+Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
+🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
+
+## Roma vs Monza — 29/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 9.5 córners** @ **1.76** (Unibet) · prob 55% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.50 - 0.71)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 47%  
+Marcadores: 2-0 13% · 3-0 11% · 1-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅✅✅✅ | Monza ❌❌❌❌✅  
+• H2H: 6 desde 2022: 4V-2E-0D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Roma: 2 fuera, 2 duda (Wesley, Lorenzo Pellegrini); Monza: 1 fuera, 1 duda (Ivan Juric)  
+• Favorito de las casas: Roma @ 1.21  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.9: total +9.5 57% · Roma +5.5 68% · Monza +4.5 18%  
+Tarjetas 1.6 - 2.1: total +3.5 51% · Roma +1.5 48% · Monza +2.5 36%  
+Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%  
+Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
+🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
+
+## Roma vs Monza — 29/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.12** (Unibet) · prob 82% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.50 - 0.71)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 47%  
+Marcadores: 2-0 13% · 3-0 11% · 1-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅✅✅✅ | Monza ❌❌❌❌✅  
+• H2H: 6 desde 2022: 4V-2E-0D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Roma: 2 fuera, 2 duda (Wesley, Lorenzo Pellegrini); Monza: 1 fuera, 1 duda (Ivan Juric)  
+• Favorito de las casas: Roma @ 1.21  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.9: total +9.5 57% · Roma +5.5 68% · Monza +4.5 18%  
+Tarjetas 1.6 - 2.1: total +3.5 51% · Roma +1.5 48% · Monza +2.5 36%  
+Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%  
+Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
+🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
+
+## Roma vs Monza — 29/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Monza** @ **1.23** (Unibet) · prob 74% vs casas 74% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.50 - 0.71)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 47%  
+Marcadores: 2-0 13% · 3-0 11% · 1-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅✅✅✅ | Monza ❌❌❌❌✅  
+• H2H: 6 desde 2022: 4V-2E-0D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Roma: 2 fuera, 2 duda (Wesley, Lorenzo Pellegrini); Monza: 1 fuera, 1 duda (Ivan Juric)  
+• Favorito de las casas: Roma @ 1.21  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.9: total +9.5 57% · Roma +5.5 68% · Monza +4.5 18%  
+Tarjetas 1.6 - 2.1: total +3.5 51% · Roma +1.5 48% · Monza +2.5 36%  
+Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%  
+Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
+🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
+
+## Roma vs Monza — 29/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Monza** @ **1.47** (Unibet) · prob 65% vs casas 63% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.50 - 0.71)  
+1 80% · X 14% · 2 6%  
+1X 94% · X2 20% · 12 86%  
++1.5 83% · +2.5 62% · +3.5 40% · Ambos marcan 47%  
+Marcadores: 2-0 13% · 3-0 11% · 1-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅✅✅✅ | Monza ❌❌❌❌✅  
+• H2H: 6 desde 2022: 4V-2E-0D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Roma: 2 fuera, 2 duda (Wesley, Lorenzo Pellegrini); Monza: 1 fuera, 1 duda (Ivan Juric)  
+• Favorito de las casas: Roma @ 1.21  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 2.9: total +9.5 57% · Roma +5.5 68% · Monza +4.5 18%  
+Tarjetas 1.6 - 2.1: total +3.5 51% · Roma +1.5 48% · Monza +2.5 36%  
+Faltas 10.5 - 11.8: total +22.5 47% · Roma +11.5 37% · Monza +11.5 51%  
+Tiros a puerta 7.2 - 3.1: total +9.5 57% · Roma +5.5 69% · Monza +4.5 22%  
+🧩 Crear apuesta: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza + Menos de 2.5 tarjetas de Monza + Menos de 11.5 faltas de Roma + Más de 2.5 goles → prob. 15%, cuota justa 6.58  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 41% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Monza + Menos de 4.5 tiros a puerta de Monza): cuota Unibet aprox. 1.43 (producto de piernas) · prob. 66% · ventaja -6%  
 
 ## Standard vs Club Brugge — 29/11 · 18:30
 
