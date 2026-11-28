@@ -1,33 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Louisville Cardinals vs Tennessee Volunteers — 28/11 · 03:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 150.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **147.5** puntos · línea 150.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Louisville Cardinals ✅❌✅✅✅ | Tennessee Volunteers ✅✅✅✅✅  
-• H2H: 3 desde 2018: 0-3  
-• Bajas: Louisville Cardinals: sin bajas; Tennessee Volunteers: sin bajas  
-
-## Louisville Cardinals vs Tennessee Volunteers — 28/11 · 03:00
-
-👀 candidata · 🏀 NCAA Basketball · **Louisville Cardinals +1.5** @ **2.00** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Louisville Cardinals cubre +1.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: Louisville Cardinals ✅❌✅✅✅ | Tennessee Volunteers ✅✅✅✅✅  
-• H2H: 3 desde 2018: 0-3  
-• Bajas: Louisville Cardinals: sin bajas; Tennessee Volunteers: sin bajas  
+Actualizado 28/11/2026 03:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gonzaga Bulldogs vs Creighton Bluejays — 28/11 · 05:00
 

@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 02:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Utah Utes vs West Virginia Mountaineers — 28/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 68.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **59.9** puntos · línea 68.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Utah Utes ✅✅✅✅✅ | West Virginia Mountaineers ✅✅❌❌❌  
-• H2H: 2 desde 2017: 2-0  
-• Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas  
-
-## Utah Utes vs West Virginia Mountaineers — 28/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Utah Utes -25.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Utah Utes cubre -25.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Utah Utes ✅✅✅✅✅ | West Virginia Mountaineers ✅✅❌❌❌  
-• H2H: 2 desde 2017: 2-0  
-• Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas  
-
-## Utah Utes vs West Virginia Mountaineers — 28/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Utah Utes** @ **1.04** (DraftKings) · prob 93% vs casas 93% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.655 partidos y bajas)  
-Gana Utah Utes 97% · Gana West Virginia Mountaineers 3%  
-Casas: Utah Utes 93% · West Virginia Mountaineers 7%  
-Hándicap UTAH -25.5 · Total puntos 68.5  
-🔎 **Claves**  
-• Forma: Utah Utes ✅✅✅✅✅ | West Virginia Mountaineers ✅✅❌❌❌  
-• H2H: 2 desde 2017: 2-0  
-• Bajas: Utah Utes: sin bajas; West Virginia Mountaineers: sin bajas  
-• Favorito de las casas: Utah Utes @ 1.04  
+Actualizado 28/11/2026 03:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Syracuse Orange vs Notre Dame Fighting Irish — 28/11 · 18:00
 
