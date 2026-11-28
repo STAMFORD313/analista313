@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 03:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Real Salt Lake vs Vancouver Whitecaps — 28/11 · 04:00
-
-👀 candidata · 🇺🇸 MLS · **Gana Real Salt Lake** @ **2.70** (Bet365) · prob 35% vs casas 35% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.37)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
-Marcadores: 1-1 13% · 2-1 8% · 1-2 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Real Salt Lake ✅❌✅➖❌ | Vancouver Whitecaps ❌✅✅✅✅  
-• H2H: 36 desde 2012: 14V-5E-17D · 2.7 goles/partido · +2.5 en 61%  
-• Bajas: Real Salt Lake: 0 fuera, 2 duda; Vancouver Whitecaps: 0 fuera, 2 duda  
-• Favorito de las casas: Vancouver Whitecaps @ 2.30  
+Actualizado 28/11/2026 04:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kyoto vs Cerezo Osaka — 28/11 · 06:00
 

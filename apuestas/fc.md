@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 03:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 04:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## hrk vs kirman — 28/11 · 03:40
+## KravaRK vs hrk — 28/11 · 04:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.38** (Unibet) · prob 48% vs casas 37% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana KravaRK** @ **3.30** (Unibet) · prob 34% vs casas 26% · ventaja +10%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 83.871 partidos)  
-Goles esperados: hrk 2.82 · kirman 3.03  
-Ganador: hrk 33% · empate 19% · kirman 48%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap kirman: −1.5 29% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 83.900 partidos)  
+Goles esperados: KravaRK 2.37 · hrk 2.90  
+Ganador: KravaRK 33% · empate 20% · hrk 46%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap hrk: −1.5 33% · −2.5 19%  
 🔎 **Claves**  
-• Forma: hrk ➖❌✅✅➖ | kirman ❌❌✅✅✅  
-• Partidos: hrk 1038 | kirman 882  
+• Forma: KravaRK ❌➖❌➖❌ | hrk ✅✅➖➖❌  
+• Partidos: KravaRK 603 | hrk 1040  
 • Liga: Champions League A  
-• Unibet: 1 2.07 · X 4.10 · 2 2.38 (sin margen 42%/21%/37%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+13%) · Paf España 2.38 (+13%)  
+• Unibet: 1 3.30 · X 3.75 · 2 1.74 (sin margen 26%/23%/50%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.30 (+10%) · Paf España 3.30 (+10%)  
 
-## SpeciAL vs vivienne — 28/11 · 03:48
+## Simaponika vs reddevil — 28/11 · 04:35
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana vivienne** @ **2.30** (Unibet) · prob 46% vs casas 38% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Simaponika** @ **1.58** (Unibet) · prob 70% vs casas 56% · ventaja +11%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 83.871 partidos)  
-Goles esperados: SpeciAL 3.08 · vivienne 3.35  
-Ganador: SpeciAL 35% · empate 18% · vivienne 46%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap vivienne: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 83.900 partidos)  
+Goles esperados: Simaponika 3.52 · reddevil 2.14  
+Ganador: Simaponika 70% · empate 15% · reddevil 15%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Simaponika: −1.5 47% · −2.5 31%  
 🔎 **Claves**  
-• Forma: SpeciAL ✅✅➖✅✅ | vivienne ❌✅❌➖✅  
-• Partidos: SpeciAL 1156 | vivienne 1096  
-• Liga: World Cup B  
-• Unibet: 1 2.04 · X 4.60 · 2 2.30 (sin margen 43%/19%/38%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.30 (+6%) · Paf España 2.30 (+6%)  
+• Forma: Simaponika ❌✅❌✅❌ | reddevil ❌✅❌❌❌  
+• Partidos: Simaponika 1520 | reddevil 185  
+• Liga: Club World Cup  
+• Unibet: 1 1.58 · X 6.10 · 2 2.95 (sin margen 56%/14%/30%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.58 (+11%) · Paf España 1.58 (+11%)  
 

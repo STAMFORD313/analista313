@@ -1464,9 +1464,6 @@
   "cbb|2026-12-01|Kansas City Roos|Peru State PERU STATE",
   "cbb|2026-12-01|Evansville Purple Aces|Chicago State Cougars",
   "cbb|2026-12-01|Arizona State Sun Devils|Montana Grizzlies",
-  "fc|2393593",
-  "fc|2393730",
-  "fc|2393968",
   "fc|2393597",
   "fc|2393033",
   "cs2|134581",
@@ -2466,7 +2463,11 @@
   "fc|2404301",
   "fc|2401385",
   "fc|2402488",
-  "fc|2402491"
+  "fc|2402491",
+  "dota2|135117",
+  "fc|2402353",
+  "fc|2401391",
+  "fc|2401680"
  ],
  "signals": [
   {
@@ -4397,30 +4398,6 @@
    "logged": true
   },
   {
-   "market": "A",
-   "odds": 3.3,
-   "book": "Bet365",
-   "p": 0.294,
-   "implied": 0.294,
-   "edge": -0.028,
-   "key": "USA|2026-11-25|San Jose Earthquakes|Houston Dynamo",
-   "match": "San Jose Earthquakes vs Houston Dynamo",
-   "pick": "Houston Dynamo",
-   "start": "2026-11-25T03:00:00+00:00",
-   "league": "🇺🇸 MLS",
-   "sport": "⚽",
-   "context": "San Jose Earthquakes vs Houston Dynamo (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 42% X 26% 2 32%, +2.5 60%, ambos marcan 63%. Forma San Jose Earthquakes ➖❌➖✅❌, Houston Dynamo ➖➖✅❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 28 desde 2012: 8V-5E-15D · 2.8 goles/partido · +2.5 en 57%. Bajas San Jose Earthquakes: DeJuan Jones D duda 0 PJ. Bajas Houston Dynamo: Marcelo Saracchi D duda 0 PJ; Jimmy Maurer G duda 0 PJ; Reese Miller D duda 0 PJ.",
-   "captured": "2026-11-24T09:31",
-   "version": "3d8f6c3",
-   "bajas": "San Jose Earthquakes: 0 fuera, 1 duda; Houston Dynamo: 0 fuera, 3 duda",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "2-1",
-   "clv": -0.088,
-   "logged": true
-  },
-  {
    "market": "H",
    "odds": 3.1,
    "book": "Bet365",
@@ -5129,30 +5106,6 @@
    "score": "2-1",
    "result": true,
    "close_p": null,
-   "logged": true
-  },
-  {
-   "key": "vp|2026-11-25|San Jose Earthquakes|Houston Dynamo",
-   "market": "H",
-   "pick": "San Jose Earthquakes",
-   "odds": 2.06,
-   "book": "LeoVegas",
-   "p": 0.5067,
-   "implied": 0.5067,
-   "edge": 0.0438,
-   "match": "San Jose Earthquakes vs Houston Dynamo",
-   "start": "2026-11-25T03:00:00+00:00",
-   "league": "💎 Valor vs Pinnacle · USA - Major League Soccer",
-   "sport": "⚽💎",
-   "context": "San Jose Earthquakes vs Houston Dynamo (USA - Major League Soccer). Estrategia de valor: LeoVegas 2.06 frente a Pinnacle justo 1.97.",
-   "captured": "2026-11-24T14:33",
-   "version": "9931a88",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "2-1",
-   "close_p": 0.4893,
    "logged": true
   },
   {
@@ -22384,19 +22337,6 @@
    "start": "2026-11-28T03:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.37 - 1.37)",
-    "1 32% · X 28% · 2 40%",
-    "1X 60% · X2 68% · 12 72%",
-    "+1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%",
-    "Marcadores: 1-1 13% · 2-1 8% · 1-2 8% · 1-0 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Real Salt Lake ✅❌✅➖❌ | Vancouver Whitecaps ❌✅✅✅✅",
-    "• H2H: 36 desde 2012: 14V-5E-17D · 2.7 goles/partido · +2.5 en 61%",
-    "• Bajas: Real Salt Lake: 0 fuera, 2 duda; Vancouver Whitecaps: 0 fuera, 2 duda",
-    "• Favorito de las casas: Vancouver Whitecaps @ 2.30"
-   ],
    "context": "Real Salt Lake vs Vancouver Whitecaps (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 32% X 28% 2 40%, +2.5 52%, ambos marcan 56%. Forma Real Salt Lake ✅❌✅➖❌, Vancouver Whitecaps ❌✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 36 desde 2012: 14V-5E-17D · 2.7 goles/partido · +2.5 en 61%. Bajas Real Salt Lake: Diego Luna M duda 0 PJ; Emeka Eneli F duda 0 PJ. Bajas Vancouver Whitecaps: Belal Halbouni D duda 0 PJ; Sam Adekugbe D duda 0 PJ.",
    "captured": "2026-11-27T09:53",
    "version": "f152037",
@@ -50019,7 +49959,11 @@
    "version": "b30f999",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -50240,7 +50184,11 @@
    "version": "3a05070",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -50256,26 +50204,16 @@
    "start": "2026-11-28T02:40:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 83.871 partidos)",
-    "Goles esperados: hrk 2.82 · kirman 3.03",
-    "Ganador: hrk 33% · empate 19% · kirman 48%",
-    "Total: más de 5.5 goles 53% · menos 47%",
-    "Hándicap kirman: −1.5 29% · −2.5 17%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hrk ➖❌✅✅➖ | kirman ❌❌✅✅✅",
-    "• Partidos: hrk 1038 | kirman 882",
-    "• Liga: Champions League A",
-    "• Unibet: 1 2.07 · X 4.10 · 2 2.38 (sin margen 42%/21%/37%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.38 (+13%) · Paf España 2.38 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle hrk vs kirman (Champions League A): goles esperados 2.82-3.03, 1X2 33%/19%/48%. Sin cuotas de casa.",
    "captured": "2026-11-28T02:36",
    "version": "49dd127",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -50295,7 +50233,11 @@
    "captured": "2026-11-28T02:36",
    "version": "49dd127",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "6-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -50311,23 +50253,83 @@
    "start": "2026-11-28T02:48:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 83.871 partidos)",
-    "Goles esperados: SpeciAL 3.08 · vivienne 3.35",
-    "Ganador: SpeciAL 35% · empate 18% · vivienne 46%",
-    "Total: más de 6.5 goles 46% · menos 54%",
-    "Hándicap vivienne: −1.5 31% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SpeciAL ✅✅➖✅✅ | vivienne ❌✅❌➖✅",
-    "• Partidos: SpeciAL 1156 | vivienne 1096",
-    "• Liga: World Cup B",
-    "• Unibet: 1 2.04 · X 4.60 · 2 2.30 (sin margen 43%/19%/38%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.30 (+6%) · Paf España 2.30 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle SpeciAL vs vivienne (World Cup B): goles esperados 3.08-3.35, 1X2 35%/18%/46%. Sin cuotas de casa.",
    "captured": "2026-11-28T02:36",
    "version": "49dd127",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "5-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "pick": "Simaponika",
+   "odds": 1.58,
+   "book": "Unibet",
+   "implied": 0.557,
+   "edge": 0.106,
+   "sin_stake": true,
+   "p": 0.7,
+   "key": "fc|2402353",
+   "match": "Simaponika vs reddevil",
+   "start": "2026-11-28T03:35:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.900 partidos)",
+    "Goles esperados: Simaponika 3.52 · reddevil 2.14",
+    "Ganador: Simaponika 70% · empate 15% · reddevil 15%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap Simaponika: −1.5 47% · −2.5 31%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ❌✅❌✅❌ | reddevil ❌✅❌❌❌",
+    "• Partidos: Simaponika 1520 | reddevil 185",
+    "• Liga: Club World Cup",
+    "• Unibet: 1 1.58 · X 6.10 · 2 2.95 (sin margen 56%/14%/30%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.58 (+11%) · Paf España 1.58 (+11%)"
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs reddevil (Club World Cup): goles esperados 3.52-2.14, 1X2 70%/15%/15%. Sin cuotas de casa.",
+   "captured": "2026-11-28T03:14",
+   "version": "e8307bf",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "KravaRK",
+   "odds": 3.3,
+   "book": "Unibet",
+   "implied": 0.265,
+   "edge": 0.105,
+   "sin_stake": true,
+   "p": 0.335,
+   "key": "fc|2401391",
+   "match": "KravaRK vs hrk",
+   "start": "2026-11-28T03:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.900 partidos)",
+    "Goles esperados: KravaRK 2.37 · hrk 2.90",
+    "Ganador: KravaRK 33% · empate 20% · hrk 46%",
+    "Total: más de 5.5 goles 43% · menos 57%",
+    "Hándicap hrk: −1.5 33% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: KravaRK ❌➖❌➖❌ | hrk ✅✅➖➖❌",
+    "• Partidos: KravaRK 603 | hrk 1040",
+    "• Liga: Champions League A",
+    "• Unibet: 1 3.30 · X 3.75 · 2 1.74 (sin margen 26%/23%/50%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.30 (+10%) · Paf España 3.30 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle KravaRK vs hrk (Champions League A): goles esperados 2.37-2.90, 1X2 33%/20%/46%. Sin cuotas de casa.",
+   "captured": "2026-11-28T03:14",
+   "version": "e8307bf",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -59707,7 +59709,8 @@
      "line": 11.5,
      "text": "Menos de 11.5 faltas de Genoa"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "N1|2026-11-28|Cambuur|Sparta Rotterdam": {
    "match": "Cambuur vs Sparta Rotterdam",
@@ -67036,7 +67039,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-28T00:03:56.585502+00:00",
+ "combo_sent": "2026-11-28T03:14:51.578514+00:00",
  "fc_sim_sent": "2026-11-28T01:35:35.570215+00:00",
  "fc_sim_n": 3797,
  "kambi_ok": [
