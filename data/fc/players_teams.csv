@@ -83864,18 +83864,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2401551,263341,River Plate,Man City,,
 2401552,263341,Boca Juniors,River Plate,,
 2401553,263341,Real Madrid,Paris,,
-2402472,263281,Belgium,Netherlands,1,0
-2404296,263281,Morocco,Portugal,2,1
-2404297,263281,Portugal,Belgium,3,2
-2402475,263281,Netherlands,Germany,1,1
-2404298,263281,Germany,Portugal,1,0
-2402477,263281,Belgium,Morocco,3,1
-2402478,263281,Morocco,Germany,1,1
-2404299,263281,Portugal,Netherlands,0,0
-2402480,263281,Netherlands,Morocco,2,1
-2402481,263281,Germany,Belgium,2,2
-2402482,263281,Netherlands,Belgium,0,1
-2404300,263281,Portugal,Morocco,0,1
+2402472,263281,Belgium,Netherlands,1.0,0.0
+2404296,263281,Morocco,Portugal,2.0,1.0
+2404297,263281,Portugal,Belgium,3.0,2.0
+2402475,263281,Netherlands,Germany,1.0,1.0
+2404298,263281,Germany,Portugal,1.0,0.0
+2402477,263281,Belgium,Morocco,3.0,1.0
+2402478,263281,Morocco,Germany,1.0,1.0
+2404299,263281,Portugal,Netherlands,0.0,0.0
+2402480,263281,Netherlands,Morocco,2.0,1.0
+2402481,263281,Germany,Belgium,2.0,2.0
+2402482,263281,Netherlands,Belgium,0.0,1.0
+2404300,263281,Portugal,Morocco,0.0,1.0
 2404301,263281,Belgium,Portugal,,
 2402485,263281,Germany,Netherlands,,
 2404302,263281,Portugal,Germany,,
@@ -83884,14 +83884,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2404303,263281,Netherlands,Portugal,,
 2402490,263281,Morocco,Netherlands,,
 2402491,263281,Belgium,Germany,,
-2402332,263361,Arsenal,Man City,3,0
-2402333,263361,B Dortmund,Sporting CP,2,1
-2402334,263361,Sporting CP,Arsenal,0,1
-2402335,263361,Man City,Juventus,0,2
-2402336,263361,Juventus,Sporting CP,4,1
-2402337,263361,Arsenal,B Dortmund,1,2
-2402338,263361,B Dortmund,Juventus,1,3
-2402339,263361,Sporting CP,Man City,1,0
+2402332,263361,Arsenal,Man City,3.0,0.0
+2402333,263361,B Dortmund,Sporting CP,2.0,1.0
+2402334,263361,Sporting CP,Arsenal,0.0,1.0
+2402335,263361,Man City,Juventus,0.0,2.0
+2402336,263361,Juventus,Sporting CP,4.0,1.0
+2402337,263361,Arsenal,B Dortmund,1.0,2.0
+2402338,263361,B Dortmund,Juventus,1.0,3.0
+2402339,263361,Sporting CP,Man City,1.0,0.0
 2402340,263361,Man City,B Dortmund,,
 2402341,263361,Juventus,Arsenal,,
 2402342,263361,Man City,Arsenal,,
@@ -83904,3 +83904,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2402349,263361,Man City,Sporting CP,,
 2402350,263361,B Dortmund,Man City,,
 2402351,263361,Arsenal,Juventus,,
+2401554,263346,Argentina,England,3,1
+2401555,263346,Spain,Germany,1,0
+2401556,263346,Germany,Argentina,4,0
+2401557,263346,England,France,1,2
+2401558,263346,France,Germany,0,3
+2401559,263346,Argentina,Spain,2,3
+2401560,263346,Spain,France,2,2
+2401561,263346,Germany,England,0,0
+2401562,263346,England,Spain,2,3
+2401563,263346,France,Argentina,3,2
+2401564,263346,England,Argentina,1,1
+2401565,263346,Germany,Spain,0,1
+2401566,263346,Argentina,Germany,,
+2401567,263346,France,England,,
+2401568,263346,Germany,France,,
+2401569,263346,Spain,Argentina,,
+2401570,263346,France,Spain,,
+2401571,263346,England,Germany,,
+2401572,263346,Spain,England,,
+2401573,263346,Argentina,France,,
+2401374,263347,Bayern Munchen,Liverpool,0,3
+2401375,263347,Real Madrid,Paris,4,0
+2401376,263347,Paris,Bayern Munchen,3,0
+2401377,263347,Liverpool,Atleti,1,4
+2401378,263347,Atleti,Paris,2,2
+2401379,263347,Bayern Munchen,Real Madrid,0,1
+2401380,263347,Real Madrid,Atleti,2,2
+2401381,263347,Paris,Liverpool,2,1
+2401382,263347,Liverpool,Real Madrid,0,0
+2401383,263347,Atleti,Bayern Munchen,4,2
+2401384,263347,Liverpool,Bayern Munchen,,
+2401385,263347,Paris,Real Madrid,,
+2401386,263347,Bayern Munchen,Paris,,
+2401387,263347,Atleti,Liverpool,,
+2401388,263347,Paris,Atleti,,
+2401389,263347,Real Madrid,Bayern Munchen,,
+2401390,263347,Atleti,Real Madrid,,
+2401391,263347,Liverpool,Paris,,
+2401392,263347,Real Madrid,Liverpool,,
+2401393,263347,Bayern Munchen,Atleti,,

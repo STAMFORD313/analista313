@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 03:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 03:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gonzaga Bulldogs vs Creighton Bluejays — 28/11 · 05:00
 

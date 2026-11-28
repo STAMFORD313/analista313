@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 03:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 03:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Real Salt Lake vs Vancouver Whitecaps — 28/11 · 04:00
 
