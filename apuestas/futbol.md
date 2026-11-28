@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 11:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 12:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dresden vs St Pauli — 28/11 · 13:00
 

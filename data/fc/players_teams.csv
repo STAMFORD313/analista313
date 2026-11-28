@@ -84292,14 +84292,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2403845,263468,Atleti,Paris,,
 2403846,263468,Real Madrid,Atleti,,
 2403847,263468,Bayern Munchen,Liverpool,,
-2404008,263480,Brazil,England,4,2
-2404009,263480,Spain,France,3,1
-2404010,263480,France,Brazil,2,3
-2404011,263480,England,Argentina,1,0
-2404012,263480,Argentina,France,1,2
-2404013,263480,Brazil,Spain,2,2
-2404014,263480,Spain,Argentina,0,1
-2404015,263480,France,England,1,2
+2404008,263480,Brazil,England,4.0,2.0
+2404009,263480,Spain,France,3.0,1.0
+2404010,263480,France,Brazil,2.0,3.0
+2404011,263480,England,Argentina,1.0,0.0
+2404012,263480,Argentina,France,1.0,2.0
+2404013,263480,Brazil,Spain,2.0,2.0
+2404014,263480,Spain,Argentina,0.0,1.0
+2404015,263480,France,England,1.0,2.0
 2404016,263480,England,Spain,,
 2404017,263480,Argentina,Brazil,,
 2404018,263480,England,Brazil,,
@@ -84312,3 +84312,83 @@ id,tournament_id,club1,club2,ht1,ht2
 2404025,263480,England,France,,
 2404026,263480,Spain,England,,
 2404027,263480,Brazil,Argentina,,
+2403546,263410,Chengdu Rongcheng,Shanghai Shenhua,2,2
+2403547,263410,Shandong Taishan,Shanghai Port,0,0
+2403548,263410,Shanghai Port,Chengdu Rongcheng,2,3
+2403549,263410,Shanghai Shenhua,Beijing Guoan,2,2
+2403550,263410,Beijing Guoan,Shanghai Port,1,5
+2403551,263410,Chengdu Rongcheng,Shandong Taishan,1,1
+2403552,263410,Shandong Taishan,Beijing Guoan,4,0
+2403553,263410,Shanghai Port,Shanghai Shenhua,4,1
+2403554,263410,Shanghai Shenhua,Shandong Taishan,3,0
+2403555,263410,Beijing Guoan,Chengdu Rongcheng,4,1
+2403556,263410,Shanghai Shenhua,Chengdu Rongcheng,,
+2403557,263410,Shanghai Port,Shandong Taishan,,
+2403558,263410,Chengdu Rongcheng,Shanghai Port,,
+2403559,263410,Beijing Guoan,Shanghai Shenhua,,
+2403560,263410,Shanghai Port,Beijing Guoan,,
+2403561,263410,Shandong Taishan,Chengdu Rongcheng,,
+2403562,263410,Beijing Guoan,Shandong Taishan,,
+2403563,263410,Shanghai Shenhua,Shanghai Port,,
+2403564,263410,Shandong Taishan,Shanghai Shenhua,,
+2403565,263410,Chengdu Rongcheng,Beijing Guoan,,
+2402766,263425,Aston Villa,Fenerbahce,1,4
+2402767,263425,Porto,Roma,1,0
+2402768,263425,Roma,Aston Villa,3,2
+2402769,263425,Fenerbahce,Salzburg,3,4
+2402770,263425,Salzburg,Roma,0,2
+2402771,263425,Aston Villa,Porto,5,3
+2402772,263425,Porto,Salzburg,6,0
+2402773,263425,Roma,Fenerbahce,4,1
+2402774,263425,Fenerbahce,Porto,3,1
+2402775,263425,Salzburg,Aston Villa,1,6
+2402776,263425,Fenerbahce,Aston Villa,5,1
+2402777,263425,Roma,Porto,2,0
+2402778,263425,Aston Villa,Roma,0,0
+2402779,263425,Salzburg,Fenerbahce,0,1
+2402780,263425,Roma,Salzburg,,
+2402781,263425,Porto,Aston Villa,,
+2402782,263425,Salzburg,Porto,,
+2402783,263425,Fenerbahce,Roma,,
+2402784,263425,Porto,Fenerbahce,,
+2402785,263425,Aston Villa,Salzburg,,
+2403134,263435,Netherlands,Germany,2,2
+2403135,263435,Morocco,Belgium,3,0
+2403136,263435,Belgium,Netherlands,0,2
+2403137,263435,Germany,Portugal,2,1
+2403138,263435,Portugal,Belgium,1,1
+2403139,263435,Netherlands,Morocco,2,1
+2403140,263435,Morocco,Portugal,1,1
+2403141,263435,Belgium,Germany,3,1
+2403142,263435,Germany,Morocco,2,0
+2403143,263435,Portugal,Netherlands,2,1
+2403144,263435,Germany,Netherlands,,
+2403145,263435,Belgium,Morocco,,
+2403146,263435,Netherlands,Belgium,,
+2403147,263435,Portugal,Germany,,
+2403148,263435,Belgium,Portugal,,
+2403149,263435,Morocco,Netherlands,,
+2403150,263435,Portugal,Morocco,,
+2403151,263435,Germany,Belgium,,
+2403152,263435,Morocco,Germany,,
+2403153,263435,Netherlands,Portugal,,
+2403214,263450,Stuttgart,Leipzig,0,2
+2403215,263450,Frankfurt,Bayern Munchen,2,1
+2403216,263450,Bayern Munchen,Stuttgart,1,1
+2403217,263450,Leipzig,B Dortmund,1,2
+2403218,263450,B Dortmund,Bayern Munchen,3,1
+2403219,263450,Stuttgart,Frankfurt,2,3
+2403220,263450,Frankfurt,B Dortmund,2,0
+2403221,263450,Bayern Munchen,Leipzig,2,2
+2403222,263450,Leipzig,Frankfurt,,
+2403223,263450,B Dortmund,Stuttgart,,
+2403224,263450,Leipzig,Stuttgart,,
+2403225,263450,Bayern Munchen,Frankfurt,,
+2403226,263450,Stuttgart,Bayern Munchen,,
+2403227,263450,B Dortmund,Leipzig,,
+2403228,263450,Bayern Munchen,B Dortmund,,
+2403229,263450,Frankfurt,Stuttgart,,
+2403230,263450,B Dortmund,Frankfurt,,
+2403231,263450,Leipzig,Bayern Munchen,,
+2403232,263450,Frankfurt,Leipzig,,
+2403233,263450,Stuttgart,B Dortmund,,
