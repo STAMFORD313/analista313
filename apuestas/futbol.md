@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 06:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kashima Antlers vs Okayama — 28/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Empate** @ **3.70** (Bet365) · prob 26% vs casas 26% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.65 - 0.88)  
-1 56% · X 25% · 2 19%  
-1X 81% · X2 44% · 12 75%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 48%  
-Marcadores: 1-0 13% · 1-1 12% · 2-0 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Kashima Antlers ➖❌✅❌➖ | Okayama ❌❌➖✅✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 3.0 goles/partido · +2.5 en 100%  
-• Bajas: Kashima Antlers: sin bajas; Okayama: sin bajas  
-• Favorito de las casas: Kashima Antlers @ 1.76  
-
-## Vissel Kobe vs Chiba — 28/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Vissel Kobe** @ **1.57** (Bet365) · prob 60% vs casas 60% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.96 - 0.91)  
-1 58% · X 23% · 2 18%  
-1X 82% · X2 42% · 12 77%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 52%  
-Marcadores: 2-0 11% · 1-1 11% · 1-0 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Vissel Kobe ❌➖✅➖❌ | Chiba ➖✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Vissel Kobe: sin bajas; Chiba: sin bajas  
-• Favorito de las casas: Vissel Kobe @ 1.57  
+Actualizado 28/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kashiwa Reysol vs Sanfrecce Hiroshima — 28/11 · 08:00
 
