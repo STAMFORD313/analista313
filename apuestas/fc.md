@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 13:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## spirtes vs dirowe — 28/11 · 13:54
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana dirowe** @ **1.64** (Unibet) · prob 71% vs casas 54% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.377 partidos)  
-Goles esperados: spirtes 3.08 · dirowe 4.41  
-Ganador: spirtes 16% · empate 13% · dirowe 71%  
-Total: más de 7.5 goles 47% · menos 53%  
-Hándicap dirowe: −1.5 47% · −2.5 33%  
-🔎 **Claves**  
-• Forma: spirtes ✅❌❌❌❌ | dirowe ❌➖✅➖➖  
-• Partidos: spirtes 1524 | dirowe 1189  
-• Liga: CSL  
-• Unibet: 1 2.95 · X 5.25 · 2 1.64 (sin margen 30%/17%/54%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.64 (+16%) · Paf España 1.64 (+16%)  
-
-## kanufriev vs Gazi — 28/11 · 13:54
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Gazi** @ **2.70** (Unibet) · prob 42% vs casas 32% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.377 partidos)  
-Goles esperados: kanufriev 3.08 · Gazi 2.69  
-Ganador: kanufriev 39% · empate 20% · Gazi 42%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap kanufriev: −1.5 32% · −2.5 18%  
-🔎 **Claves**  
-• Forma: kanufriev ❌➖❌✅❌ | Gazi ✅✅✅✅➖  
-• Partidos: kanufriev 221 | Gazi 753  
-• Liga: CSL  
-• Unibet: 1 1.84 · X 4.30 · 2 2.70 (sin margen 47%/20%/32%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+13%) · Paf España 2.70 (+13%)  
+Actualizado 28/11/2026 14:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tesla vs Taz — 28/11 · 14:10
 
@@ -58,4 +20,61 @@ Hándicap Tesla: −1.5 30% · −2.5 19%
 • Liga: FA Cup  
 • Unibet: 1 1.68 · X 4.50 · 2 3.10 (sin margen 52%/19%/28%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.10 (+30%) · Paf España 3.10 (+30%)  
+
+## RuBIX vs cl1vlind — 28/11 · 14:13
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cl1vlind** @ **2.88** (Unibet) · prob 40% vs casas 31% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.397 partidos)  
+Goles esperados: RuBIX 3.14 · cl1vlind 3.10  
+Ganador: RuBIX 41% · empate 19% · cl1vlind 40%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap RuBIX: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: RuBIX ➖✅❌❌❌ | cl1vlind ➖✅❌✅✅  
+• Partidos: RuBIX 506 | cl1vlind 955  
+• Liga: Champions League B  
+• Unibet: 1 1.70 · X 5.00 · 2 2.88 (sin margen 52%/18%/31%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.88 (+15%) · Paf España 2.88 (+15%)  
+
+## dor1an vs cl1vlind — 28/11 · 14:25
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cl1vlind** @ **2.28** (Unibet) · prob 53% vs casas 38% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.397 partidos)  
+Goles esperados: dor1an 2.65 · cl1vlind 3.23  
+Ganador: dor1an 28% · empate 19% · cl1vlind 53%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap cl1vlind: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: dor1an ➖❌❌✅✅ | cl1vlind ➖✅❌✅✅  
+• Partidos: dor1an 506 | cl1vlind 955  
+• Liga: Champions League B  
+• Unibet: 1 2.65 · X 2.95 · 2 2.28 (sin margen 33%/29%/38%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.28 (+21%) · Paf España 2.28 (+21%)  
+
+## v1nn vs A1ose — 28/11 · 14:25
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana A1ose** @ **3.10** (Unibet) · prob 36% vs casas 28% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.397 partidos)  
+Goles esperados: v1nn 3.86 · A1ose 3.46  
+Ganador: v1nn 47% · empate 17% · A1ose 36%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap v1nn: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: v1nn ➖✅➖❌✅ | A1ose ➖❌✅➖❌  
+• Partidos: v1nn 950 | A1ose 1296  
+• Liga: Champions League B  
+• Unibet: 1 1.68 · X 4.40 · 2 3.10 (sin margen 52%/20%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+12%) · Paf España 3.10 (+12%)  
 
