@@ -4477,7 +4477,9 @@
     "away": "Power Rangers",
     "txt": "Gana Power Rangers",
     "odds": 2.57,
-    "p": 0.42590337224383923
+    "p": 0.42590337224383923,
+    "ok": true,
+    "por": "ganó Power Rangers 3-0"
    },
    {
     "src": "espn:nfl",
