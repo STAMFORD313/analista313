@@ -84552,14 +84552,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2403875,263467,Germany,Argentina,,
 2403876,263467,France,Germany,,
 2403877,263467,Spain,England,,
-2404048,263472,Roma,Bologna,2,1
-2404049,263472,Juventus,Sassuolo,3,2
-2404050,263472,Sassuolo,Roma,3,3
-2404051,263472,Bologna,Napoli,2,0
-2404052,263472,Napoli,Sassuolo,2,2
-2404053,263472,Roma,Juventus,2,1
-2404054,263472,Juventus,Napoli,1,1
-2404055,263472,Sassuolo,Bologna,2,0
+2404048,263472,Roma,Bologna,2.0,1.0
+2404049,263472,Juventus,Sassuolo,3.0,2.0
+2404050,263472,Sassuolo,Roma,3.0,3.0
+2404051,263472,Bologna,Napoli,2.0,0.0
+2404052,263472,Napoli,Sassuolo,2.0,2.0
+2404053,263472,Roma,Juventus,2.0,1.0
+2404054,263472,Juventus,Napoli,1.0,1.0
+2404055,263472,Sassuolo,Bologna,2.0,0.0
 2404056,263472,Bologna,Juventus,,
 2404057,263472,Napoli,Roma,,
 2404058,263472,Bologna,Roma,,
@@ -84572,3 +84572,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2404065,263472,Bologna,Sassuolo,,
 2404066,263472,Juventus,Bologna,,
 2404067,263472,Roma,Napoli,,
+2403668,263437,Porto,Salzburg,1,2
+2403669,263437,Roma,Aston Villa,0,0
+2403670,263437,Aston Villa,Porto,1,2
+2403671,263437,Salzburg,Fenerbahce,3,2
+2403672,263437,Fenerbahce,Aston Villa,2,3
+2403673,263437,Porto,Roma,2,1
+2403674,263437,Roma,Fenerbahce,1,3
+2403675,263437,Aston Villa,Salzburg,2,1
+2403676,263437,Salzburg,Roma,1,2
+2403677,263437,Fenerbahce,Porto,1,3
+2403678,263437,Salzburg,Porto,2,0
+2403679,263437,Aston Villa,Roma,1,1
+2403680,263437,Porto,Aston Villa,,
+2403681,263437,Fenerbahce,Salzburg,,
+2403682,263437,Aston Villa,Fenerbahce,,
+2403683,263437,Roma,Porto,,
+2403684,263437,Fenerbahce,Roma,,
+2403685,263437,Salzburg,Aston Villa,,
+2403686,263437,Roma,Salzburg,,
+2403687,263437,Porto,Fenerbahce,,
+2403908,263444,Arsenal,Juventus,5,1
+2403909,263444,Man City,B Dortmund,1,1
+2403910,263444,B Dortmund,Arsenal,0,0
+2403911,263444,Juventus,Sporting CP,0,2
+2403912,263444,Sporting CP,B Dortmund,0,2
+2403913,263444,Arsenal,Man City,3,2
+2403914,263444,Man City,Sporting CP,0,3
+2403915,263444,B Dortmund,Juventus,1,1
+2403916,263444,Juventus,Man City,,
+2403917,263444,Sporting CP,Arsenal,,
+2403918,263444,Juventus,Arsenal,,
+2403919,263444,B Dortmund,Man City,,
+2403920,263444,Arsenal,B Dortmund,,
+2403921,263444,Sporting CP,Juventus,,
+2403922,263444,B Dortmund,Sporting CP,,
+2403923,263444,Man City,Arsenal,,
+2403924,263444,Sporting CP,Man City,,
+2403925,263444,Juventus,B Dortmund,,
+2403926,263444,Man City,Juventus,,
+2403927,263444,Arsenal,Sporting CP,,

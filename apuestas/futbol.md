@@ -1,920 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 16:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Malaga vs Ath Bilbao — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga · **Gana Ath Bilbao** @ **1.75** (Bwin) · prob 56% vs casas 56% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.43)  
-1 28% · X 29% · 2 44%  
-1X 56% · X2 72% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Malaga ❌➖❌❌❌ | Ath Bilbao ❌✅✅➖❌  
-• H2H: 22 desde 2005: 6V-9E-7D · 2.1 goles/partido · +2.5 en 41%  
-• Bajas: Malaga: 1 fuera, 3 duda (Julen Lobete); Ath Bilbao: 4 fuera, 1 duda (Yuri Berchiche, Maroan Sannadi, Gorka Guruzeta)  
-• Favorito de las casas: Ath Bilbao @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 4.6 - 5.2: total +10.5 39% · Malaga +5.5 32% · Ath Bilbao +4.5 56%  
-Tarjetas 2.4 - 2.2: total +4.5 47% · Malaga +2.5 42% · Ath Bilbao +2.5 38%  
-Faltas 11.4 - 11.5: total +25.5 30% · Malaga +12.5 36% · Ath Bilbao +12.5 37%  
-Tiros a puerta 4.1 - 4.5: total +9.5 37% · Malaga +5.5 25% · Ath Bilbao +3.5 64%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Malaga + Menos de 25.5 faltas + Menos de 5.5 córners de Malaga → prob. 37%, cuota justa 2.71 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Malaga + Menos de 25.5 faltas + Menos de 5.5 córners de Malaga + Menos de 2.5 tarjetas de Ath Bilbao → prob. 26%, cuota justa 3.85  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Tenerife +0.25 (hándicap asiático)** @ **2.08** (mejor del mercado) · prob 47% vs casas 47% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 goles** @ **2.05** (Bet365) · prob 47% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Tenerife** @ **1.58** (Unibet) · prob 56% vs casas 58% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Tenerife** @ **2.16** (Unibet) · prob 44% vs casas 42% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Albacete** @ **2.07** (Unibet) · prob 46% vs casas 44% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Albacete vs Tenerife — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Albacete** @ **1.35** (Unibet) · prob 66% vs casas 67% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.04)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Albacete ✅✅✅✅❌ | Tenerife ➖➖➖✅➖  
-• H2H: 28 desde 2006: 6V-9E-13D · 2.4 goles/partido · +2.5 en 39%  
-• Bajas: Albacete: 0 fuera, 1 duda; Tenerife: sin bajas  
-• Favorito de las casas: Albacete @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +9.5 52% · Albacete +5.5 49% · Tenerife +4.5 38%  
-Tarjetas 2.4 - 2.9: total +6.5 30% · Albacete +2.5 43% · Tenerife +3.5 34%  
-Faltas 12.4 - 11.6: total +26.5 31% · Albacete +13.5 36% · Tenerife +13.5 29%  
-Tiros a puerta 4.4 - 3.3: total +8.5 36% · Albacete +5.5 29% · Tenerife +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas → prob. 40%, cuota justa 2.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Tenerife + Menos de 13.5 faltas de Tenerife + Menos de 6.5 tarjetas + Menos de 4.5 córners de Tenerife → prob. 26%, cuota justa 3.87  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Eldense** @ **1.35** (Unibet) · prob 66% vs casas 67% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Eldense** @ **1.53** (Unibet) · prob 62% vs casas 60% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.36** (Unibet) · prob 65% vs casas 67% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 9.5 córners** @ **1.66** (Unibet) · prob 58% vs casas 55% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Girona** @ **1.65** (Unibet) · prob 54% vs casas 55% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Eldense vs Girona — 28/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Girona** @ **1.52** (Unibet) · prob 62% vs casas 60% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 1.35)  
-1 25% · X 30% · 2 46%  
-1X 54% · X2 75% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Eldense ❌❌❌✅❌ | Girona ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Eldense: sin bajas; Girona: sin bajas  
-• Favorito de las casas: Girona @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.0: total +9.5 39% · Eldense +5.5 36% · Girona +4.5 36%  
-Tarjetas 2.8 - 2.9: total +6.5 35% · Eldense +2.5 52% · Girona +3.5 34%  
-Faltas 15.3 - 12.5: total +26.5 57% · Eldense +13.5 65% · Girona +13.5 38%  
-Tiros a puerta 4.6 - 3.9: total +8.5 47% · Eldense +5.5 32% · Girona +4.5 35%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eldense + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Eldense + Menos de 5.5 córners de Eldense + Menos de 2.5 goles → prob. 13%, cuota justa 7.63  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 2.68 (producto de piernas) · prob. 35% · ventaja -6%  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Gana Telstar** @ **3.90** (Bet365) · prob 26% vs casas 26% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Rio Ave +0.75 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Santa Clara -0.25 (hándicap asiático)** @ **2.10** (mejor del mercado) · prob 46% vs casas 47% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 6.5 córners de Excelsior** @ **2.70** (Unibet) · prob 36% vs casas 34% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de Excelsior** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.27** (Unibet) · prob 74% vs casas 72% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 12.5 córners** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Telstar** @ **1.25** (Unibet) · prob 72% vs casas 73% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Excelsior vs Telstar — 28/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Telstar** @ **1.62** (Unibet) · prob 59% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.41)  
-1 34% · X 29% · 2 38%  
-1X 62% · X2 66% · 12 71%  
-+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Excelsior ❌❌❌❌✅ | Telstar ❌❌✅➖❌  
-• H2H: 2 desde 2025: 0V-2E-0D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Excelsior: sin bajas; Telstar: sin bajas  
-• Favorito de las casas: Excelsior @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.1: total +10.5 40% · Excelsior +5.5 50% · Telstar +4.5 38%  
-Tarjetas 1.5 - 1.5: total +3.5 35% · Excelsior +1.5 43% · Telstar +1.5 45%  
-Faltas 10.8 - 9.0: total +21.5 35% · Excelsior +10.5 51% · Telstar +11.5 21%  
-Tiros a puerta 5.2 - 4.5: total +10.5 38% · Excelsior +5.5 41% · Telstar +5.5 30%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Telstar + Menos de 5.5 tiros a puerta de Telstar + Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar → prob. 25%, cuota justa 4.05  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 4.5 córners de Telstar): cuota Unibet aprox. 2.38 (producto de piernas) · prob. 40% · ventaja -4%  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Rio Ave** @ **1.74** (Unibet) · prob 50% vs casas 53% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Rio Ave** @ **1.48** (Unibet) · prob 65% vs casas 62% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 61% vs casas 61% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 5.5 córners de Arouca** @ **1.90** (Unibet) · prob 50% vs casas 48% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Arouca vs Rio Ave — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Arouca** @ **1.46** (Unibet) · prob 62% vs casas 63% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.04)  
-1 57% · X 25% · 2 18%  
-1X 82% · X2 43% · 12 75%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Arouca ➖✅✅✅❌ | Rio Ave ❌✅❌❌❌  
-• H2H: 16 desde 2013: 4V-6E-6D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Arouca: 1 fuera, 1 duda (Jose Fontan); Rio Ave: 3 fuera, 5 duda (Francisco Petrasso, A. Ntoi, Ryan Guilherme)  
-• Favorito de las casas: Arouca @ 1.68  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Arouca +5.5 51% · Rio Ave +4.5 31%  
-Tarjetas 2.4 - 2.8: total +5.5 42% · Arouca +2.5 43% · Rio Ave +2.5 53%  
-Faltas 12.6 - 11.2: total +26.5 29% · Arouca +13.5 39% · Rio Ave +13.5 24%  
-Tiros a puerta 5.4 - 3.2: total +8.5 48% · Arouca +4.5 60% · Rio Ave +3.5 39%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Rio Ave + Menos de 4.5 córners de Rio Ave + Menos de 3.5 tiros a puerta de Rio Ave + Menos de 5.5 tarjetas → prob. 21%, cuota justa 4.83  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Moreirense** @ **1.64** (Unibet) · prob 57% vs casas 56% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Moreirense** @ **1.57** (Unibet) · prob 58% vs casas 58% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Santa Clara** @ **1.44** (Unibet) · prob 62% vs casas 64% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Santa Clara** @ **1.83** (Unibet) · prob 54% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.41** (Unibet) · prob 64% vs casas 65% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
-
-## Moreirense vs Santa Clara — 28/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 9.5 córners** @ **1.61** (Unibet) · prob 60% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.14 - 1.08)  
-1 35% · X 31% · 2 34%  
-1X 66% · X2 65% · 12 69%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 12% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Moreirense ➖❌✅✅❌ | Santa Clara ➖✅❌✅❌  
-• H2H: 12 desde 2018: 5V-4E-3D · 1.7 goles/partido · +2.5 en 17%  
-• Bajas: Moreirense: 0 fuera, 5 duda; Santa Clara: 5 fuera, 2 duda (Pedro Pacheco, Emanuel Moreira, Lucas Franca)  
-• Favorito de las casas: Santa Clara @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.3 - 4.4: total +9.5 37% · Moreirense +5.5 28% · Santa Clara +4.5 43%  
-Tarjetas 2.5 - 2.7: total +5.5 41% · Moreirense +2.5 46% · Santa Clara +2.5 49%  
-Faltas 14.4 - 14.8: total +26.5 67% · Moreirense +13.5 57% · Santa Clara +13.5 61%  
-Tiros a puerta 3.3 - 3.4: total +8.5 24% · Moreirense +4.5 24% · Santa Clara +3.5 44%  
-🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 8.5 tiros a puerta + Menos de 5.5 córners de Moreirense + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 5.5 tarjetas → prob. 14%, cuota justa 7.06  
+Actualizado 28/11/2026 16:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Austria Vienna vs Wolfsberger AC — 28/11 · 17:00
 
@@ -10236,6 +9322,7 @@ Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%
 Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
 🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
 
 ## Atromitos vs Panathinaikos — 29/11 · 16:00
 
@@ -10286,6 +9373,469 @@ Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%
 Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
+
+## Antwerp vs Anderlecht — 29/11 · 16:00
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Antwerp** @ **1.95** (Unibet) · prob 50% vs casas 47% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.33)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Antwerp ❌✅❌➖➖ | Anderlecht ✅❌✅➖✅  
+• H2H: 22 desde 2017: 3V-9E-10D · 1.9 goles/partido · +2.5 en 36%  
+• Bajas: Antwerp: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Anderlecht @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.7: total +10.5 38% · Antwerp +5.5 38% · Anderlecht +4.5 48%  
+Tarjetas 2.1 - 2.5: total +4.5 48% · Antwerp +2.5 35% · Anderlecht +2.5 46%  
+Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%  
+Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
+
+## Antwerp vs Anderlecht — 29/11 · 16:00
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Antwerp** @ **1.21** (Unibet) · prob 75% vs casas 75% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.33)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Antwerp ❌✅❌➖➖ | Anderlecht ✅❌✅➖✅  
+• H2H: 22 desde 2017: 3V-9E-10D · 1.9 goles/partido · +2.5 en 36%  
+• Bajas: Antwerp: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Anderlecht @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.7: total +10.5 38% · Antwerp +5.5 38% · Anderlecht +4.5 48%  
+Tarjetas 2.1 - 2.5: total +4.5 48% · Antwerp +2.5 35% · Anderlecht +2.5 46%  
+Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%  
+Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
+
+## Antwerp vs Anderlecht — 29/11 · 16:00
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Anderlecht** @ **1.27** (Unibet) · prob 68% vs casas 72% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.33)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Antwerp ❌✅❌➖➖ | Anderlecht ✅❌✅➖✅  
+• H2H: 22 desde 2017: 3V-9E-10D · 1.9 goles/partido · +2.5 en 36%  
+• Bajas: Antwerp: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Anderlecht @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.7: total +10.5 38% · Antwerp +5.5 38% · Anderlecht +4.5 48%  
+Tarjetas 2.1 - 2.5: total +4.5 48% · Antwerp +2.5 35% · Anderlecht +2.5 46%  
+Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%  
+Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
+
+## Antwerp vs Anderlecht — 29/11 · 16:00
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 4.5 córners de Anderlecht** @ **2.28** (Unibet) · prob 46% vs casas 40% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.33)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Antwerp ❌✅❌➖➖ | Anderlecht ✅❌✅➖✅  
+• H2H: 22 desde 2017: 3V-9E-10D · 1.9 goles/partido · +2.5 en 36%  
+• Bajas: Antwerp: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Anderlecht @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.7: total +10.5 38% · Antwerp +5.5 38% · Anderlecht +4.5 48%  
+Tarjetas 2.1 - 2.5: total +4.5 48% · Antwerp +2.5 35% · Anderlecht +2.5 46%  
+Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%  
+Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
+
+## Antwerp vs Anderlecht — 29/11 · 16:00
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 74% vs casas 74% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.33)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Antwerp ❌✅❌➖➖ | Anderlecht ✅❌✅➖✅  
+• H2H: 22 desde 2017: 3V-9E-10D · 1.9 goles/partido · +2.5 en 36%  
+• Bajas: Antwerp: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Anderlecht @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.7: total +10.5 38% · Antwerp +5.5 38% · Anderlecht +4.5 48%  
+Tarjetas 2.1 - 2.5: total +4.5 48% · Antwerp +2.5 35% · Anderlecht +2.5 46%  
+Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%  
+Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
+
+## Antwerp vs Anderlecht — 29/11 · 16:00
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 11.5 córners** @ **1.42** (Unibet) · prob 68% vs casas 65% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 1.33)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Antwerp ❌✅❌➖➖ | Anderlecht ✅❌✅➖✅  
+• H2H: 22 desde 2017: 3V-9E-10D · 1.9 goles/partido · +2.5 en 36%  
+• Bajas: Antwerp: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Anderlecht @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.7: total +10.5 38% · Antwerp +5.5 38% · Anderlecht +4.5 48%  
+Tarjetas 2.1 - 2.5: total +4.5 48% · Antwerp +2.5 35% · Anderlecht +2.5 46%  
+Faltas 12.7 - 12.6: total +22.5 68% · Antwerp +10.5 70% · Anderlecht +11.5 60%  
+Tiros a puerta 5.1 - 4.9: total +9.5 53% · Antwerp +5.5 39% · Anderlecht +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp → prob. 27%, cuota justa 3.68 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Antwerp + Menos de 2.5 tarjetas de Antwerp + Menos de 5.5 córners de Antwerp + Menos de 5.5 tiros a puerta de Antwerp + Más de 2.5 goles → prob. 8%, cuota justa 11.89  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Antwerp + Más de 2.5 goles): cuota Unibet aprox. 2.56 (producto de piernas) · prob. 36% · ventaja -8%  
+
+## Atromitos vs Panathinaikos — 29/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 5.5 córners de Panathinaikos** @ **1.76** (Unibet) · prob 46% vs casas 51% · ventaja -18%
+
+- ❌ Valor: ventaja -18% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.34)  
+1 16% · X 27% · 2 57%  
+1X 43% · X2 84% · 12 73%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Atromitos ❌❌✅➖➖ | Panathinaikos ✅✅✅✅✅  
+• H2H: 40 desde 2005: 7V-8E-25D · 2.2 goles/partido · +2.5 en 30%  
+• Bajas: Atromitos: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.44  
+📐 **Estadísticas esperadas**  
+Córners 3.2 - 5.3: total +9.5 35% · Atromitos +4.5 24% · Panathinaikos +3.5 71%  
+Tarjetas 2.7 - 2.8: total +5.5 46% · Atromitos +2.5 49% · Panathinaikos +2.5 53%  
+Faltas 16.2 - 16.9: total +30.5 64% · Atromitos +15.5 54% · Panathinaikos +15.5 60%  
+Tiros a puerta 3.1 - 4.9: total +7.5 53% · Atromitos +4.5 21% · Panathinaikos +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas → prob. 41%, cuota justa 2.42 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas + Menos de 2.5 goles → prob. 27%, cuota justa 3.73  
+
+## Atromitos vs Panathinaikos — 29/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 5.5 córners de Panathinaikos** @ **1.83** (Unibet) · prob 54% vs casas 49% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.34)  
+1 16% · X 27% · 2 57%  
+1X 43% · X2 84% · 12 73%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Atromitos ❌❌✅➖➖ | Panathinaikos ✅✅✅✅✅  
+• H2H: 40 desde 2005: 7V-8E-25D · 2.2 goles/partido · +2.5 en 30%  
+• Bajas: Atromitos: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.44  
+📐 **Estadísticas esperadas**  
+Córners 3.2 - 5.3: total +9.5 35% · Atromitos +4.5 24% · Panathinaikos +3.5 71%  
+Tarjetas 2.7 - 2.8: total +5.5 46% · Atromitos +2.5 49% · Panathinaikos +2.5 53%  
+Faltas 16.2 - 16.9: total +30.5 64% · Atromitos +15.5 54% · Panathinaikos +15.5 60%  
+Tiros a puerta 3.1 - 4.9: total +7.5 53% · Atromitos +4.5 21% · Panathinaikos +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas → prob. 41%, cuota justa 2.42 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas + Menos de 2.5 goles → prob. 27%, cuota justa 3.73  
+
+## Atromitos vs Panathinaikos — 29/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 8.5 córners** @ **1.66** (Unibet) · prob 50% vs casas 54% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.34)  
+1 16% · X 27% · 2 57%  
+1X 43% · X2 84% · 12 73%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Atromitos ❌❌✅➖➖ | Panathinaikos ✅✅✅✅✅  
+• H2H: 40 desde 2005: 7V-8E-25D · 2.2 goles/partido · +2.5 en 30%  
+• Bajas: Atromitos: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.44  
+📐 **Estadísticas esperadas**  
+Córners 3.2 - 5.3: total +9.5 35% · Atromitos +4.5 24% · Panathinaikos +3.5 71%  
+Tarjetas 2.7 - 2.8: total +5.5 46% · Atromitos +2.5 49% · Panathinaikos +2.5 53%  
+Faltas 16.2 - 16.9: total +30.5 64% · Atromitos +15.5 54% · Panathinaikos +15.5 60%  
+Tiros a puerta 3.1 - 4.9: total +7.5 53% · Atromitos +4.5 21% · Panathinaikos +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas → prob. 41%, cuota justa 2.42 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas + Menos de 2.5 goles → prob. 27%, cuota justa 3.73  
+
+## Atromitos vs Panathinaikos — 29/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.60** (Unibet) · prob 61% vs casas 56% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.34)  
+1 16% · X 27% · 2 57%  
+1X 43% · X2 84% · 12 73%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Atromitos ❌❌✅➖➖ | Panathinaikos ✅✅✅✅✅  
+• H2H: 40 desde 2005: 7V-8E-25D · 2.2 goles/partido · +2.5 en 30%  
+• Bajas: Atromitos: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.44  
+📐 **Estadísticas esperadas**  
+Córners 3.2 - 5.3: total +9.5 35% · Atromitos +4.5 24% · Panathinaikos +3.5 71%  
+Tarjetas 2.7 - 2.8: total +5.5 46% · Atromitos +2.5 49% · Panathinaikos +2.5 53%  
+Faltas 16.2 - 16.9: total +30.5 64% · Atromitos +15.5 54% · Panathinaikos +15.5 60%  
+Tiros a puerta 3.1 - 4.9: total +7.5 53% · Atromitos +4.5 21% · Panathinaikos +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas → prob. 41%, cuota justa 2.42 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas + Menos de 2.5 goles → prob. 27%, cuota justa 3.73  
+
+## Atromitos vs Panathinaikos — 29/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 2.5 córners de Atromitos** @ **1.57** (Unibet) · prob 58% vs casas 57% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.34)  
+1 16% · X 27% · 2 57%  
+1X 43% · X2 84% · 12 73%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Atromitos ❌❌✅➖➖ | Panathinaikos ✅✅✅✅✅  
+• H2H: 40 desde 2005: 7V-8E-25D · 2.2 goles/partido · +2.5 en 30%  
+• Bajas: Atromitos: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.44  
+📐 **Estadísticas esperadas**  
+Córners 3.2 - 5.3: total +9.5 35% · Atromitos +4.5 24% · Panathinaikos +3.5 71%  
+Tarjetas 2.7 - 2.8: total +5.5 46% · Atromitos +2.5 49% · Panathinaikos +2.5 53%  
+Faltas 16.2 - 16.9: total +30.5 64% · Atromitos +15.5 54% · Panathinaikos +15.5 60%  
+Tiros a puerta 3.1 - 4.9: total +7.5 53% · Atromitos +4.5 21% · Panathinaikos +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas → prob. 41%, cuota justa 2.42 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas + Menos de 2.5 goles → prob. 27%, cuota justa 3.73  
+
+## Atromitos vs Panathinaikos — 29/11 · 16:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de Atromitos** @ **1.50** (Unibet) · prob 60% vs casas 60% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.34)  
+1 16% · X 27% · 2 57%  
+1X 43% · X2 84% · 12 73%  
++1.5 68% · +2.5 40% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Atromitos ❌❌✅➖➖ | Panathinaikos ✅✅✅✅✅  
+• H2H: 40 desde 2005: 7V-8E-25D · 2.2 goles/partido · +2.5 en 30%  
+• Bajas: Atromitos: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.44  
+📐 **Estadísticas esperadas**  
+Córners 3.2 - 5.3: total +9.5 35% · Atromitos +4.5 24% · Panathinaikos +3.5 71%  
+Tarjetas 2.7 - 2.8: total +5.5 46% · Atromitos +2.5 49% · Panathinaikos +2.5 53%  
+Faltas 16.2 - 16.9: total +30.5 64% · Atromitos +15.5 54% · Panathinaikos +15.5 60%  
+Tiros a puerta 3.1 - 4.9: total +7.5 53% · Atromitos +4.5 21% · Panathinaikos +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas → prob. 41%, cuota justa 2.42 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Atromitos + Menos de 4.5 córners de Atromitos + Más de 30.5 faltas + Menos de 2.5 goles → prob. 27%, cuota justa 3.73  
+
+## Hearts vs Celtic — 29/11 · 16:00
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 6.5 córners de Celtic** @ **2.50** (Unibet) · prob 40% vs casas 37% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.65)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Hearts ❌✅➖❌✅ | Celtic ✅➖❌✅✅  
+• H2H: 72 desde 2005: 13V-8E-51D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Hearts: 5 fuera, 2 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott); Celtic: 0 fuera, 3 duda  
+• Favorito de las casas: Celtic @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.2: total +11.5 42% · Hearts +6.5 23% · Celtic +5.5 55%  
+Tarjetas 1.7 - 2.2: total +4.5 36% · Hearts +2.5 24% · Celtic +2.5 39%  
+Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%  
+Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
+
+## Hearts vs Celtic — 29/11 · 16:00
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 8.5 córners de Celtic** @ **1.16** (Unibet) · prob 79% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.65)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Hearts ❌✅➖❌✅ | Celtic ✅➖❌✅✅  
+• H2H: 72 desde 2005: 13V-8E-51D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Hearts: 5 fuera, 2 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott); Celtic: 0 fuera, 3 duda  
+• Favorito de las casas: Celtic @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.2: total +11.5 42% · Hearts +6.5 23% · Celtic +5.5 55%  
+Tarjetas 1.7 - 2.2: total +4.5 36% · Hearts +2.5 24% · Celtic +2.5 39%  
+Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%  
+Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
+
+## Hearts vs Celtic — 29/11 · 16:00
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 2.5 córners de Hearts** @ **1.22** (Unibet) · prob 78% vs casas 76% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.65)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Hearts ❌✅➖❌✅ | Celtic ✅➖❌✅✅  
+• H2H: 72 desde 2005: 13V-8E-51D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Hearts: 5 fuera, 2 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott); Celtic: 0 fuera, 3 duda  
+• Favorito de las casas: Celtic @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.2: total +11.5 42% · Hearts +6.5 23% · Celtic +5.5 55%  
+Tarjetas 1.7 - 2.2: total +4.5 36% · Hearts +2.5 24% · Celtic +2.5 39%  
+Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%  
+Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
+
+## Hearts vs Celtic — 29/11 · 16:00
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 7.5 córners de Hearts** @ **1.12** (Unibet) · prob 84% vs casas 82% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.65)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Hearts ❌✅➖❌✅ | Celtic ✅➖❌✅✅  
+• H2H: 72 desde 2005: 13V-8E-51D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Hearts: 5 fuera, 2 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott); Celtic: 0 fuera, 3 duda  
+• Favorito de las casas: Celtic @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.2: total +11.5 42% · Hearts +6.5 23% · Celtic +5.5 55%  
+Tarjetas 1.7 - 2.2: total +4.5 36% · Hearts +2.5 24% · Celtic +2.5 39%  
+Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%  
+Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
+
+## Hearts vs Celtic — 29/11 · 16:00
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 10.5 córners** @ **1.96** (Unibet) · prob 50% vs casas 47% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.65)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Hearts ❌✅➖❌✅ | Celtic ✅➖❌✅✅  
+• H2H: 72 desde 2005: 13V-8E-51D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Hearts: 5 fuera, 2 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott); Celtic: 0 fuera, 3 duda  
+• Favorito de las casas: Celtic @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.2: total +11.5 42% · Hearts +6.5 23% · Celtic +5.5 55%  
+Tarjetas 1.7 - 2.2: total +4.5 36% · Hearts +2.5 24% · Celtic +2.5 39%  
+Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%  
+Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
+
+## Hearts vs Celtic — 29/11 · 16:00
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 13.5 córners** @ **1.16** (Unibet) · prob 78% vs casas 79% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.65)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Hearts ❌✅➖❌✅ | Celtic ✅➖❌✅✅  
+• H2H: 72 desde 2005: 13V-8E-51D · 3.2 goles/partido · +2.5 en 67%  
+• Bajas: Hearts: 5 fuera, 2 duda (James Wilson, Stephen Kingsley, M. Fagan-Walcott); Celtic: 0 fuera, 3 duda  
+• Favorito de las casas: Celtic @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.2: total +11.5 42% · Hearts +6.5 23% · Celtic +5.5 55%  
+Tarjetas 1.7 - 2.2: total +4.5 36% · Hearts +2.5 24% · Celtic +2.5 39%  
+Faltas 9.8 - 12.7: total +24.5 34% · Hearts +12.5 20% · Celtic +12.5 50%  
+Tiros a puerta 4.5 - 5.2: total +9.5 50% · Hearts +5.5 30% · Celtic +4.5 57%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hearts + Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts + Menos de 5.5 tiros a puerta de Hearts + Más de 2.5 goles → prob. 17%, cuota justa 5.87  
+🎯 Simulada (con cuota: Menos de 6.5 córners de Hearts + Menos de 2.5 tarjetas de Hearts): cuota Unibet aprox. 1.81 (producto de piernas) · prob. 58% · ventaja +5% → 1 u en la banca de simulación  
 
 ## La Coruna vs Barcelona — 29/11 · 16:15
 
@@ -10311,6 +9861,7 @@ Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%
 Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
 🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
 
 ## Mallorca vs Castellon — 29/11 · 16:15
 
@@ -10318,6 +9869,312 @@ Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.12)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mallorca ➖➖✅➖➖ | Castellon ✅✅➖✅✅  
+• H2H: 2 desde 2020: 1V-0E-1D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Castellon: sin bajas  
+• Favorito de las casas: Mallorca @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.4: total +9.5 50% · Mallorca +5.5 43% · Castellon +4.5 43%  
+Tarjetas 2.8 - 2.8: total +6.5 34% · Mallorca +2.5 53% · Castellon +3.5 32%  
+Faltas 14.0 - 14.4: total +26.5 61% · Mallorca +13.5 53% · Castellon +13.5 57%  
+Tiros a puerta 4.7 - 3.8: total +8.5 46% · Mallorca +5.5 33% · Castellon +4.5 33%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas → prob. 26%, cuota justa 3.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas + Menos de 4.5 córners de Castellon → prob. 16%, cuota justa 6.26  
+
+## La Coruna vs Barcelona — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.09** (Unibet) · prob 85% vs casas 84% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.98)  
+1 9% · X 21% · 2 70%  
+1X 30% · X2 91% · 12 79%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 58%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: La Coruna ➖❌✅➖❌ | Barcelona ✅❌✅✅✅  
+• H2H: 22 desde 2005: 2V-6E-14D · 4.0 goles/partido · +2.5 en 77%  
+• Bajas: La Coruna: 0 fuera, 2 duda; Barcelona: 3 fuera, 2 duda (Fermin Lopez, Rodri, Roony Bardghji)  
+• Favorito de las casas: Barcelona @ 1.25  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.0: total +10.5 42% · La Coruna +5.5 25% · Barcelona +4.5 65%  
+Tarjetas 2.3 - 1.8: total +4.5 40% · La Coruna +2.5 41% · Barcelona +2.5 28%  
+Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%  
+Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
+
+## La Coruna vs Barcelona — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners** @ **1.47** (Unibet) · prob 66% vs casas 63% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.98)  
+1 9% · X 21% · 2 70%  
+1X 30% · X2 91% · 12 79%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 58%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: La Coruna ➖❌✅➖❌ | Barcelona ✅❌✅✅✅  
+• H2H: 22 desde 2005: 2V-6E-14D · 4.0 goles/partido · +2.5 en 77%  
+• Bajas: La Coruna: 0 fuera, 2 duda; Barcelona: 3 fuera, 2 duda (Fermin Lopez, Rodri, Roony Bardghji)  
+• Favorito de las casas: Barcelona @ 1.25  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.0: total +10.5 42% · La Coruna +5.5 25% · Barcelona +4.5 65%  
+Tarjetas 2.3 - 1.8: total +4.5 40% · La Coruna +2.5 41% · Barcelona +2.5 28%  
+Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%  
+Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
+
+## La Coruna vs Barcelona — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 4.5 córners de Barcelona** @ **3.50** (Unibet) · prob 30% vs casas 26% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.98)  
+1 9% · X 21% · 2 70%  
+1X 30% · X2 91% · 12 79%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 58%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: La Coruna ➖❌✅➖❌ | Barcelona ✅❌✅✅✅  
+• H2H: 22 desde 2005: 2V-6E-14D · 4.0 goles/partido · +2.5 en 77%  
+• Bajas: La Coruna: 0 fuera, 2 duda; Barcelona: 3 fuera, 2 duda (Fermin Lopez, Rodri, Roony Bardghji)  
+• Favorito de las casas: Barcelona @ 1.25  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.0: total +10.5 42% · La Coruna +5.5 25% · Barcelona +4.5 65%  
+Tarjetas 2.3 - 1.8: total +4.5 40% · La Coruna +2.5 41% · Barcelona +2.5 28%  
+Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%  
+Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
+
+## La Coruna vs Barcelona — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Barcelona** @ **1.10** (Unibet) · prob 81% vs casas 83% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.98)  
+1 9% · X 21% · 2 70%  
+1X 30% · X2 91% · 12 79%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 58%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: La Coruna ➖❌✅➖❌ | Barcelona ✅❌✅✅✅  
+• H2H: 22 desde 2005: 2V-6E-14D · 4.0 goles/partido · +2.5 en 77%  
+• Bajas: La Coruna: 0 fuera, 2 duda; Barcelona: 3 fuera, 2 duda (Fermin Lopez, Rodri, Roony Bardghji)  
+• Favorito de las casas: Barcelona @ 1.25  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.0: total +10.5 42% · La Coruna +5.5 25% · Barcelona +4.5 65%  
+Tarjetas 2.3 - 1.8: total +4.5 40% · La Coruna +2.5 41% · Barcelona +2.5 28%  
+Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%  
+Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
+
+## La Coruna vs Barcelona — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 4.5 córners de La Coruna** @ **3.05** (Unibet) · prob 34% vs casas 30% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.98)  
+1 9% · X 21% · 2 70%  
+1X 30% · X2 91% · 12 79%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 58%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: La Coruna ➖❌✅➖❌ | Barcelona ✅❌✅✅✅  
+• H2H: 22 desde 2005: 2V-6E-14D · 4.0 goles/partido · +2.5 en 77%  
+• Bajas: La Coruna: 0 fuera, 2 duda; Barcelona: 3 fuera, 2 duda (Fermin Lopez, Rodri, Roony Bardghji)  
+• Favorito de las casas: Barcelona @ 1.25  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.0: total +10.5 42% · La Coruna +5.5 25% · Barcelona +4.5 65%  
+Tarjetas 2.3 - 1.8: total +4.5 40% · La Coruna +2.5 41% · Barcelona +2.5 28%  
+Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%  
+Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
+
+## La Coruna vs Barcelona — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 6.5 córners de La Coruna** @ **1.05** (Unibet) · prob 86% vs casas 86% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.98)  
+1 9% · X 21% · 2 70%  
+1X 30% · X2 91% · 12 79%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 58%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: La Coruna ➖❌✅➖❌ | Barcelona ✅❌✅✅✅  
+• H2H: 22 desde 2005: 2V-6E-14D · 4.0 goles/partido · +2.5 en 77%  
+• Bajas: La Coruna: 0 fuera, 2 duda; Barcelona: 3 fuera, 2 duda (Fermin Lopez, Rodri, Roony Bardghji)  
+• Favorito de las casas: Barcelona @ 1.25  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.0: total +10.5 42% · La Coruna +5.5 25% · Barcelona +4.5 65%  
+Tarjetas 2.3 - 1.8: total +4.5 40% · La Coruna +2.5 41% · Barcelona +2.5 28%  
+Faltas 11.3 - 9.5: total +25.5 17% · La Coruna +12.5 35% · Barcelona +12.5 17%  
+Tiros a puerta 3.9 - 6.6: total +9.5 59% · La Coruna +5.5 21% · Barcelona +3.5 87%  
+🧩 Crear apuesta: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 3.5 tiros a puerta de Barcelona + Menos de 25.5 faltas + Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles → prob. 26%, cuota justa 3.80  
+🎯 No simulada (con cuota: Menos de 5.5 córners de La Coruna + Menos de 2.5 tarjetas de Barcelona): cuota Unibet aprox. 1.46 (producto de piernas) · prob. 55% · ventaja -20%  
+
+## Mallorca vs Castellon — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.54** (Unibet) · prob 61% vs casas 59% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.12)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mallorca ➖➖✅➖➖ | Castellon ✅✅➖✅✅  
+• H2H: 2 desde 2020: 1V-0E-1D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Castellon: sin bajas  
+• Favorito de las casas: Mallorca @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.4: total +9.5 50% · Mallorca +5.5 43% · Castellon +4.5 43%  
+Tarjetas 2.8 - 2.8: total +6.5 34% · Mallorca +2.5 53% · Castellon +3.5 32%  
+Faltas 14.0 - 14.4: total +26.5 61% · Mallorca +13.5 53% · Castellon +13.5 57%  
+Tiros a puerta 4.7 - 3.8: total +8.5 46% · Mallorca +5.5 33% · Castellon +4.5 33%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas → prob. 26%, cuota justa 3.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas + Menos de 4.5 córners de Castellon → prob. 16%, cuota justa 6.26  
+
+## Mallorca vs Castellon — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.30** (Unibet) · prob 71% vs casas 70% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.12)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mallorca ➖➖✅➖➖ | Castellon ✅✅➖✅✅  
+• H2H: 2 desde 2020: 1V-0E-1D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Castellon: sin bajas  
+• Favorito de las casas: Mallorca @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.4: total +9.5 50% · Mallorca +5.5 43% · Castellon +4.5 43%  
+Tarjetas 2.8 - 2.8: total +6.5 34% · Mallorca +2.5 53% · Castellon +3.5 32%  
+Faltas 14.0 - 14.4: total +26.5 61% · Mallorca +13.5 53% · Castellon +13.5 57%  
+Tiros a puerta 4.7 - 3.8: total +8.5 46% · Mallorca +5.5 33% · Castellon +4.5 33%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas → prob. 26%, cuota justa 3.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas + Menos de 4.5 córners de Castellon → prob. 16%, cuota justa 6.26  
+
+## Mallorca vs Castellon — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Mallorca** @ **2.65** (Unibet) · prob 39% vs casas 34% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.12)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mallorca ➖➖✅➖➖ | Castellon ✅✅➖✅✅  
+• H2H: 2 desde 2020: 1V-0E-1D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Castellon: sin bajas  
+• Favorito de las casas: Mallorca @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.4: total +9.5 50% · Mallorca +5.5 43% · Castellon +4.5 43%  
+Tarjetas 2.8 - 2.8: total +6.5 34% · Mallorca +2.5 53% · Castellon +3.5 32%  
+Faltas 14.0 - 14.4: total +26.5 61% · Mallorca +13.5 53% · Castellon +13.5 57%  
+Tiros a puerta 4.7 - 3.8: total +8.5 46% · Mallorca +5.5 33% · Castellon +4.5 33%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas → prob. 26%, cuota justa 3.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas + Menos de 4.5 córners de Castellon → prob. 16%, cuota justa 6.26  
+
+## Mallorca vs Castellon — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Mallorca** @ **1.37** (Unibet) · prob 61% vs casas 66% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.12)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mallorca ➖➖✅➖➖ | Castellon ✅✅➖✅✅  
+• H2H: 2 desde 2020: 1V-0E-1D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Castellon: sin bajas  
+• Favorito de las casas: Mallorca @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.4: total +9.5 50% · Mallorca +5.5 43% · Castellon +4.5 43%  
+Tarjetas 2.8 - 2.8: total +6.5 34% · Mallorca +2.5 53% · Castellon +3.5 32%  
+Faltas 14.0 - 14.4: total +26.5 61% · Mallorca +13.5 53% · Castellon +13.5 57%  
+Tiros a puerta 4.7 - 3.8: total +8.5 46% · Mallorca +5.5 33% · Castellon +4.5 33%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas → prob. 26%, cuota justa 3.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas + Menos de 4.5 córners de Castellon → prob. 16%, cuota justa 6.26  
+
+## Mallorca vs Castellon — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Castellon** @ **1.37** (Unibet) · prob 63% vs casas 66% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.56 - 1.12)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Mallorca ➖➖✅➖➖ | Castellon ✅✅➖✅✅  
+• H2H: 2 desde 2020: 1V-0E-1D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Castellon: sin bajas  
+• Favorito de las casas: Mallorca @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.4: total +9.5 50% · Mallorca +5.5 43% · Castellon +4.5 43%  
+Tarjetas 2.8 - 2.8: total +6.5 34% · Mallorca +2.5 53% · Castellon +3.5 32%  
+Faltas 14.0 - 14.4: total +26.5 61% · Mallorca +13.5 53% · Castellon +13.5 57%  
+Tiros a puerta 4.7 - 3.8: total +8.5 46% · Mallorca +5.5 33% · Castellon +4.5 33%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas → prob. 26%, cuota justa 3.89 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 4.5 tiros a puerta de Castellon + Más de 26.5 faltas + Menos de 4.5 córners de Castellon → prob. 16%, cuota justa 6.26  
+
+## Mallorca vs Castellon — 29/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Castellon** @ **1.89** (Unibet) · prob 52% vs casas 48% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.56 - 1.12)  
 1 43% · X 29% · 2 28%  
