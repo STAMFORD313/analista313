@@ -1,752 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 14:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Widzew Lodz vs Zaglebie — 28/11 · 14:45
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Widzew Lodz** @ **1.83** (Bet365) · prob 51% vs casas 51% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 1.17)  
-1 39% · X 28% · 2 32%  
-1X 68% · X2 61% · 12 72%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Widzew Lodz ➖➖❌✅❌ | Zaglebie ✅➖✅➖✅  
-• H2H: 13 desde 2012: 5V-3E-5D · 2.2 goles/partido · +2.5 en 46%  
-• Bajas: Widzew Lodz: sin bajas; Zaglebie: sin bajas  
-• Favorito de las casas: Widzew Lodz @ 1.83  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Gana Frosinone** @ **1.50** (Bwin) · prob 65% vs casas 65% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Gana Ascoli** @ **1.90** (Bwin) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Gana Juve Stabia** @ **3.70** (Paddy Power) · prob 26% vs casas 26% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Empoli +0.5 (hándicap asiático)** @ **2.00** (mejor del mercado) · prob 48% vs casas 47% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 7.5 córners de Frosinone** @ **2.23** (Unibet) · prob 42% vs casas 41% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 11.5 córners de Frosinone** @ **1.06** (Unibet) · prob 87% vs casas 86% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Parma** @ **1.12** (Unibet) · prob 82% vs casas 81% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Parma** @ **1.80** (Unibet) · prob 53% vs casas 51% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Frosinone vs Parma — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.36** (Unibet) · prob 69% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.89 - 0.95)  
-1 62% · X 24% · 2 15%  
-1X 85% · X2 38% · 12 76%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
-Marcadores: 1-1 11% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Frosinone ➖✅✅❌❌ | Parma ❌➖✅❌❌  
-• H2H: 10 desde 2008: 3V-3E-4D · 3.2 goles/partido · +2.5 en 70%  
-• Bajas: Frosinone: 0 fuera, 1 duda; Parma: 2 fuera, 1 duda (David Romero, Abdoulaye N'Diaye)  
-• Favorito de las casas: Frosinone @ 1.50  
-📐 **Estadísticas esperadas**  
-Córners 7.3 - 3.5: total +9.5 63% · Frosinone +5.5 66% · Parma +4.5 29%  
-Tarjetas 1.3 - 1.8: total +3.5 39% · Frosinone +1.5 39% · Parma +2.5 28%  
-Faltas 12.7 - 11.1: total +22.5 58% · Frosinone +11.5 60% · Parma +11.5 43%  
-Tiros a puerta 6.5 - 3.5: total +9.5 53% · Frosinone +5.5 61% · Parma +4.5 27%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma → prob. 38%, cuota justa 2.62 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma + Más de 11.5 faltas de Frosinone → prob. 23%, cuota justa 4.34  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +8% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Parma + Menos de 4.5 córners de Parma): cuota Unibet aprox. 2.84 (producto de piernas) · prob. 38% · ventaja +9% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Ascoli** @ **2.05** (Unibet) · prob 46% vs casas 44% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Ascoli** @ **1.60** (Unibet) · prob 54% vs casas 56% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.60** (Unibet) · prob 58% vs casas 56% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.40** (Unibet) · prob 64% vs casas 64% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Virtus Entella** @ **1.71** (Unibet) · prob 51% vs casas 52% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Ascoli vs Virtus Entella — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Virtus Entella** @ **1.45** (Unibet) · prob 64% vs casas 62% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 0.65)  
-1 54% · X 28% · 2 18%  
-1X 82% · X2 46% · 12 72%  
-+1.5 60% · +2.5 32% · +3.5 14% · Ambos marcan 36%  
-Marcadores: 1-0 18% · 0-0 14% · 2-0 12% · 1-1 12%  
-🔎 **Claves**  
-• Forma: Ascoli ✅➖➖➖❌ | Virtus Entella ➖❌❌❌✅  
-• H2H: 10 desde 2015: 3V-4E-3D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: Ascoli: sin bajas; Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti)  
-• Favorito de las casas: Ascoli @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 3.8: total +9.5 48% · Ascoli +5.5 49% · Virtus Entella +4.5 33%  
-Tarjetas 1.8 - 2.5: total +4.5 43% · Ascoli +2.5 28% · Virtus Entella +2.5 45%  
-Faltas 10.8 - 13.9: total +27.5 29% · Ascoli +13.5 21% · Virtus Entella +13.5 52%  
-Tiros a puerta 4.9 - 3.1: total +8.5 42% · Ascoli +5.5 37% · Virtus Entella +4.5 22%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli → prob. 47%, cuota justa 2.14 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Ascoli + Menos de 4.5 tiros a puerta de Virtus Entella + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella → prob. 23%, cuota justa 4.27  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Virtus Entella): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 45% · ventaja +15% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.44** (Unibet) · prob 60% vs casas 62% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.54** (Unibet) · prob 62% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Juve Stabia** @ **1.89** (Unibet) · prob 40% vs casas 48% · ventaja -24%
-
-- ❌ Valor: ventaja -24% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Juve Stabia** @ **1.71** (Unibet) · prob 60% vs casas 52% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Carrarese** @ **1.61** (Unibet) · prob 58% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Carrarese vs Juve Stabia — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Carrarese** @ **1.58** (Unibet) · prob 55% vs casas 57% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 0.84)  
-1 44% · X 31% · 2 25%  
-1X 75% · X2 56% · 12 69%  
-+1.5 62% · +2.5 34% · +3.5 16% · Ambos marcan 41%  
-Marcadores: 1-0 15% · 1-1 14% · 0-0 13% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Carrarese ✅❌❌✅✅ | Juve Stabia ❌➖✅❌❌  
-• H2H: 4 desde 2024: 1V-2E-1D · 2.0 goles/partido · +2.5 en 50%  
-• Bajas: Carrarese: sin bajas; Juve Stabia: 0 fuera, 2 duda  
-• Favorito de las casas: Carrarese @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.6 - 3.7: total +9.5 45% · Carrarese +5.5 46% · Juve Stabia +4.5 32%  
-Tarjetas 2.0 - 2.5: total +4.5 48% · Carrarese +2.5 33% · Juve Stabia +2.5 47%  
-Faltas 15.6 - 13.5: total +27.5 59% · Carrarese +13.5 68% · Juve Stabia +13.5 47%  
-Tiros a puerta 4.4 - 3.1: total +8.5 34% · Carrarese +5.5 28% · Juve Stabia +4.5 22%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Juve Stabia + Más de 13.5 faltas de Carrarese + Menos de 4.5 córners de Juve Stabia + Menos de 2.5 tarjetas de Carrarese + Menos de 2.5 goles → prob. 17%, cuota justa 5.91  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Juve Stabia + Menos de 2.5 goles): cuota Unibet aprox. 3.04 (producto de piernas) · prob. 44% · ventaja +34% → 1 u en la banca de simulación  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.55** (Unibet) · prob 61% vs casas 58% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 61% vs casas 62% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Empoli** @ **1.93** (Unibet) · prob 45% vs casas 46% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Empoli** @ **1.67** (Unibet) · prob 55% vs casas 54% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Verona** @ **1.76** (Unibet) · prob 55% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
-
-## Empoli vs Verona — 28/11 · 15:00
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Verona** @ **1.83** (Unibet) · prob 45% vs casas 49% · ventaja -17%
-
-- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.16)  
-1 31% · X 30% · 2 39%  
-1X 61% · X2 69% · 12 70%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Empoli ❌➖➖❌❌ | Verona ✅✅➖❌❌  
-• H2H: 16 desde 2011: 3V-7E-6D · 2.0 goles/partido · +2.5 en 38%  
-• Bajas: Empoli: sin bajas; Verona: 0 fuera, 1 duda  
-• Favorito de las casas: Verona @ 1.80  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 5.4: total +9.5 52% · Empoli +5.5 30% · Verona +4.5 58%  
-Tarjetas 2.2 - 2.1: total +4.5 42% · Empoli +2.5 37% · Verona +2.5 36%  
-Faltas 11.1 - 15.7: total +27.5 44% · Empoli +13.5 24% · Verona +13.5 68%  
-Tiros a puerta 4.2 - 4.4: total +8.5 48% · Empoli +5.5 26% · Verona +4.5 44%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Empoli + Menos de 5.5 tiros a puerta de Empoli + Menos de 5.5 córners de Empoli + Menos de 2.5 tarjetas de Verona → prob. 28%, cuota justa 3.63  
+Actualizado 28/11/2026 15:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FC Koln vs Elversberg — 28/11 · 15:30
 
@@ -12000,6 +11254,7 @@ Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%
 Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
 🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
 
 ## For Sittard vs Heerenveen — 29/11 · 14:30
 
@@ -12025,6 +11280,319 @@ Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5
 Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
+
+## Feyenoord vs Ajax — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners de Feyenoord** @ **3.60** (Unibet) · prob 29% vs casas 26% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 1.54)  
+1 41% · X 28% · 2 32%  
+1X 68% · X2 59% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Feyenoord ✅➖➖❌❌ | Ajax ✅✅✅➖✅  
+• H2H: 41 desde 2005: 7V-10E-24D · 3.3 goles/partido · +2.5 en 63%  
+• Bajas: Feyenoord: 4 fuera, 2 duda (Luciano Valente, Jordan Bos, Bart Nieuwkoop); Ajax: 1 fuera, 4 duda (Anton Gaaei)  
+• Favorito de las casas: Feyenoord @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.1: total +10.5 47% · Feyenoord +5.5 56% · Ajax +4.5 39%  
+Tarjetas 1.2 - 1.9: total +3.5 36% · Feyenoord +1.5 33% · Ajax +1.5 55%  
+Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%  
+Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
+
+## Feyenoord vs Ajax — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners de Feyenoord** @ **1.05** (Unibet) · prob 85% vs casas 86% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 1.54)  
+1 41% · X 28% · 2 32%  
+1X 68% · X2 59% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Feyenoord ✅➖➖❌❌ | Ajax ✅✅✅➖✅  
+• H2H: 41 desde 2005: 7V-10E-24D · 3.3 goles/partido · +2.5 en 63%  
+• Bajas: Feyenoord: 4 fuera, 2 duda (Luciano Valente, Jordan Bos, Bart Nieuwkoop); Ajax: 1 fuera, 4 duda (Anton Gaaei)  
+• Favorito de las casas: Feyenoord @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.1: total +10.5 47% · Feyenoord +5.5 56% · Ajax +4.5 39%  
+Tarjetas 1.2 - 1.9: total +3.5 36% · Feyenoord +1.5 33% · Ajax +1.5 55%  
+Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%  
+Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
+
+## Feyenoord vs Ajax — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Ajax** @ **1.24** (Unibet) · prob 74% vs casas 74% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 1.54)  
+1 41% · X 28% · 2 32%  
+1X 68% · X2 59% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Feyenoord ✅➖➖❌❌ | Ajax ✅✅✅➖✅  
+• H2H: 41 desde 2005: 7V-10E-24D · 3.3 goles/partido · +2.5 en 63%  
+• Bajas: Feyenoord: 4 fuera, 2 duda (Luciano Valente, Jordan Bos, Bart Nieuwkoop); Ajax: 1 fuera, 4 duda (Anton Gaaei)  
+• Favorito de las casas: Feyenoord @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.1: total +10.5 47% · Feyenoord +5.5 56% · Ajax +4.5 39%  
+Tarjetas 1.2 - 1.9: total +3.5 36% · Feyenoord +1.5 33% · Ajax +1.5 55%  
+Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%  
+Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
+
+## Feyenoord vs Ajax — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Ajax** @ **1.68** (Unibet) · prob 58% vs casas 55% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 1.54)  
+1 41% · X 28% · 2 32%  
+1X 68% · X2 59% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Feyenoord ✅➖➖❌❌ | Ajax ✅✅✅➖✅  
+• H2H: 41 desde 2005: 7V-10E-24D · 3.3 goles/partido · +2.5 en 63%  
+• Bajas: Feyenoord: 4 fuera, 2 duda (Luciano Valente, Jordan Bos, Bart Nieuwkoop); Ajax: 1 fuera, 4 duda (Anton Gaaei)  
+• Favorito de las casas: Feyenoord @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.1: total +10.5 47% · Feyenoord +5.5 56% · Ajax +4.5 39%  
+Tarjetas 1.2 - 1.9: total +3.5 36% · Feyenoord +1.5 33% · Ajax +1.5 55%  
+Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%  
+Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
+
+## Feyenoord vs Ajax — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 10.5 córners** @ **2.12** (Unibet) · prob 45% vs casas 44% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 1.54)  
+1 41% · X 28% · 2 32%  
+1X 68% · X2 59% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Feyenoord ✅➖➖❌❌ | Ajax ✅✅✅➖✅  
+• H2H: 41 desde 2005: 7V-10E-24D · 3.3 goles/partido · +2.5 en 63%  
+• Bajas: Feyenoord: 4 fuera, 2 duda (Luciano Valente, Jordan Bos, Bart Nieuwkoop); Ajax: 1 fuera, 4 duda (Anton Gaaei)  
+• Favorito de las casas: Feyenoord @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.1: total +10.5 47% · Feyenoord +5.5 56% · Ajax +4.5 39%  
+Tarjetas 1.2 - 1.9: total +3.5 36% · Feyenoord +1.5 33% · Ajax +1.5 55%  
+Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%  
+Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
+
+## Feyenoord vs Ajax — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.13** (Unibet) · prob 81% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 1.54)  
+1 41% · X 28% · 2 32%  
+1X 68% · X2 59% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Feyenoord ✅➖➖❌❌ | Ajax ✅✅✅➖✅  
+• H2H: 41 desde 2005: 7V-10E-24D · 3.3 goles/partido · +2.5 en 63%  
+• Bajas: Feyenoord: 4 fuera, 2 duda (Luciano Valente, Jordan Bos, Bart Nieuwkoop); Ajax: 1 fuera, 4 duda (Anton Gaaei)  
+• Favorito de las casas: Feyenoord @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.1: total +10.5 47% · Feyenoord +5.5 56% · Ajax +4.5 39%  
+Tarjetas 1.2 - 1.9: total +3.5 36% · Feyenoord +1.5 33% · Ajax +1.5 55%  
+Faltas 8.6 - 11.6: total +21.5 38% · Feyenoord +10.5 25% · Ajax +11.5 48%  
+Tiros a puerta 6.3 - 4.6: total +10.5 52% · Feyenoord +5.5 58% · Ajax +5.5 32%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Feyenoord + Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Más de 2.5 goles + Menos de 4.5 córners de Ajax → prob. 14%, cuota justa 7.26  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Ajax + Menos de 1.5 tarjetas de Feyenoord + Menos de 4.5 córners de Ajax): cuota Unibet aprox. 5.93 (producto de piernas) · prob. 30% · ventaja +80% → 1 u en la banca de simulación  
+
+## For Sittard vs Heerenveen — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 8.5 córners** @ **1.42** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.54)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: For Sittard ➖✅➖➖✅ | Heerenveen ✅✅✅✅✅  
+• H2H: 16 desde 2018: 6V-3E-7D · 3.2 goles/partido · +2.5 en 69%  
+• Bajas: For Sittard: 0 fuera, 2 duda; Heerenveen: sin bajas  
+• Favorito de las casas: Heerenveen @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.6: total +10.5 46% · For Sittard +5.5 35% · Heerenveen +4.5 61%  
+Tarjetas 1.5 - 1.5: total +3.5 34% · For Sittard +1.5 44% · Heerenveen +1.5 43%  
+Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5 39%  
+Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
+
+## For Sittard vs Heerenveen — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.13** (Unibet) · prob 82% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.54)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: For Sittard ➖✅➖➖✅ | Heerenveen ✅✅✅✅✅  
+• H2H: 16 desde 2018: 6V-3E-7D · 3.2 goles/partido · +2.5 en 69%  
+• Bajas: For Sittard: 0 fuera, 2 duda; Heerenveen: sin bajas  
+• Favorito de las casas: Heerenveen @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.6: total +10.5 46% · For Sittard +5.5 35% · Heerenveen +4.5 61%  
+Tarjetas 1.5 - 1.5: total +3.5 34% · For Sittard +1.5 44% · Heerenveen +1.5 43%  
+Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5 39%  
+Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
+
+## For Sittard vs Heerenveen — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de For Sittard** @ **1.08** (Unibet) · prob 85% vs casas 84% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.54)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: For Sittard ➖✅➖➖✅ | Heerenveen ✅✅✅✅✅  
+• H2H: 16 desde 2018: 6V-3E-7D · 3.2 goles/partido · +2.5 en 69%  
+• Bajas: For Sittard: 0 fuera, 2 duda; Heerenveen: sin bajas  
+• Favorito de las casas: Heerenveen @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.6: total +10.5 46% · For Sittard +5.5 35% · Heerenveen +4.5 61%  
+Tarjetas 1.5 - 1.5: total +3.5 34% · For Sittard +1.5 44% · Heerenveen +1.5 43%  
+Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5 39%  
+Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
+
+## For Sittard vs Heerenveen — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de For Sittard** @ **2.04** (Unibet) · prob 47% vs casas 45% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.54)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: For Sittard ➖✅➖➖✅ | Heerenveen ✅✅✅✅✅  
+• H2H: 16 desde 2018: 6V-3E-7D · 3.2 goles/partido · +2.5 en 69%  
+• Bajas: For Sittard: 0 fuera, 2 duda; Heerenveen: sin bajas  
+• Favorito de las casas: Heerenveen @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.6: total +10.5 46% · For Sittard +5.5 35% · Heerenveen +4.5 61%  
+Tarjetas 1.5 - 1.5: total +3.5 34% · For Sittard +1.5 44% · Heerenveen +1.5 43%  
+Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5 39%  
+Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
+
+## For Sittard vs Heerenveen — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Heerenveen** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.54)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: For Sittard ➖✅➖➖✅ | Heerenveen ✅✅✅✅✅  
+• H2H: 16 desde 2018: 6V-3E-7D · 3.2 goles/partido · +2.5 en 69%  
+• Bajas: For Sittard: 0 fuera, 2 duda; Heerenveen: sin bajas  
+• Favorito de las casas: Heerenveen @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.6: total +10.5 46% · For Sittard +5.5 35% · Heerenveen +4.5 61%  
+Tarjetas 1.5 - 1.5: total +3.5 34% · For Sittard +1.5 44% · Heerenveen +1.5 43%  
+Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5 39%  
+Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
+
+## For Sittard vs Heerenveen — 29/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 8.5 córners de Heerenveen** @ **1.12** (Unibet) · prob 83% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.54)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: For Sittard ➖✅➖➖✅ | Heerenveen ✅✅✅✅✅  
+• H2H: 16 desde 2018: 6V-3E-7D · 3.2 goles/partido · +2.5 en 69%  
+• Bajas: For Sittard: 0 fuera, 2 duda; Heerenveen: sin bajas  
+• Favorito de las casas: Heerenveen @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.6: total +10.5 46% · For Sittard +5.5 35% · Heerenveen +4.5 61%  
+Tarjetas 1.5 - 1.5: total +3.5 34% · For Sittard +1.5 44% · Heerenveen +1.5 43%  
+Faltas 11.4 - 10.7: total +21.5 53% · For Sittard +10.5 58% · Heerenveen +11.5 39%  
+Tiros a puerta 4.7 - 5.8: total +10.5 47% · For Sittard +5.5 33% · Heerenveen +5.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de For Sittard + Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard + Menos de 11.5 faltas de Heerenveen + Más de 2.5 goles → prob. 11%, cuota justa 9.22  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de For Sittard): cuota Unibet aprox. 2.15 (producto de piernas) · prob. 43% · ventaja -7%  
 
 ## Lech Poznan vs Pogon Szczecin — 29/11 · 14:45
 

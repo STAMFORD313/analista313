@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 14:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 15:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisville Cardinals vs Creighton Bluejays — 29/11 · 04:30
 

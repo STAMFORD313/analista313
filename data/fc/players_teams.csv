@@ -84472,14 +84472,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2404045,263482,Man Utd,Brighton,,
 2404046,263482,Nottm Forest,Man Utd,,
 2404047,263482,Aston Villa,Newcastle,,
-2403234,263454,Real Madrid,Atleti,3,2
-2403235,263454,Barcelona,Villarreal,2,0
-2403236,263454,Villarreal,Real Madrid,1,2
-2403237,263454,Atleti,Athletic Club,0,0
-2403238,263454,Athletic Club,Villarreal,0,1
-2403239,263454,Real Madrid,Barcelona,1,4
-2403240,263454,Barcelona,Athletic Club,0,1
-2403241,263454,Villarreal,Atleti,0,0
+2403234,263454,Real Madrid,Atleti,3.0,2.0
+2403235,263454,Barcelona,Villarreal,2.0,0.0
+2403236,263454,Villarreal,Real Madrid,1.0,2.0
+2403237,263454,Atleti,Athletic Club,0.0,0.0
+2403238,263454,Athletic Club,Villarreal,0.0,1.0
+2403239,263454,Real Madrid,Barcelona,1.0,4.0
+2403240,263454,Barcelona,Athletic Club,0.0,1.0
+2403241,263454,Villarreal,Atleti,0.0,0.0
 2403242,263454,Atleti,Barcelona,,
 2403243,263454,Athletic Club,Real Madrid,,
 2403244,263454,Atleti,Real Madrid,,
