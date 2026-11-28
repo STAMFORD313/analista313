@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 19:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 19:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado Buffaloes vs UCF Knights — 28/11 · 20:00
 

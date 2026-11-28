@@ -84712,18 +84712,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2403945,263446,Trabzonspor,Besiktas,,
 2403946,263446,Galatasaray,Trabzonspor,,
 2403947,263446,Basaksehir,Fenerbahce,,
-2404204,263423,France,Germany,2,2
-2402867,263423,Argentina,Spain,3,1
-2402868,263423,Spain,France,0,2
-2404205,263423,Germany,England,1,2
-2402870,263423,England,Spain,1,1
-2402871,263423,France,Argentina,1,1
-2402872,263423,Argentina,England,3,0
-2404206,263423,Spain,Germany,3,4
-2404207,263423,Germany,Argentina,1,2
-2402875,263423,England,France,0,2
-2404208,263423,Germany,France,4,3
-2402877,263423,Spain,Argentina,2,0
+2404204,263423,France,Germany,2.0,2.0
+2402867,263423,Argentina,Spain,3.0,1.0
+2402868,263423,Spain,France,0.0,2.0
+2404205,263423,Germany,England,1.0,2.0
+2402870,263423,England,Spain,1.0,1.0
+2402871,263423,France,Argentina,1.0,1.0
+2402872,263423,Argentina,England,3.0,0.0
+2404206,263423,Spain,Germany,3.0,4.0
+2404207,263423,Germany,Argentina,1.0,2.0
+2402875,263423,England,France,0.0,2.0
+2404208,263423,Germany,France,4.0,3.0
+2402877,263423,Spain,Argentina,2.0,0.0
 2402878,263423,France,Spain,,
 2404209,263423,England,Germany,,
 2402880,263423,Spain,England,,
@@ -84732,14 +84732,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2404210,263423,Germany,Spain,,
 2404211,263423,Argentina,Germany,,
 2402885,263423,France,England,,
-2403878,263469,B Dortmund,Arsenal,0,5
-2403879,263469,Sporting CP,Man City,2,1
-2403880,263469,Man City,B Dortmund,3,2
-2403881,263469,Arsenal,Juventus,4,1
-2403882,263469,Juventus,Man City,0,5
-2403883,263469,B Dortmund,Sporting CP,2,3
-2403884,263469,Sporting CP,Juventus,2,2
-2403885,263469,Man City,Arsenal,4,1
+2403878,263469,B Dortmund,Arsenal,0.0,5.0
+2403879,263469,Sporting CP,Man City,2.0,1.0
+2403880,263469,Man City,B Dortmund,3.0,2.0
+2403881,263469,Arsenal,Juventus,4.0,1.0
+2403882,263469,Juventus,Man City,0.0,5.0
+2403883,263469,B Dortmund,Sporting CP,2.0,3.0
+2403884,263469,Sporting CP,Juventus,2.0,2.0
+2403885,263469,Man City,Arsenal,4.0,1.0
 2403886,263469,Arsenal,Sporting CP,,
 2403887,263469,Juventus,B Dortmund,,
 2403888,263469,Arsenal,B Dortmund,,

@@ -1,206 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 19:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## A. Lustenau vs SK Rapid — 28/11 · 19:30
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana SK Rapid** @ **1.30** (Bet365) · prob 72% vs casas 72% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.80)  
-1 23% · X 25% · 2 52%  
-1X 48% · X2 77% · 12 75%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 58%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: A. Lustenau ❌❌❌✅✅ | SK Rapid ✅✅✅✅✅  
-• H2H: 5 desde 2022: 0V-3E-2D · 4.2 goles/partido · +2.5 en 60%  
-• Bajas: A. Lustenau: sin bajas; SK Rapid: sin bajas  
-• Favorito de las casas: SK Rapid @ 1.30  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 2.5 goles** @ **1.67** (Bet365) · prob 57% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Palermo** @ **1.68** (Unibet) · prob 56% vs casas 53% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Palermo** @ **1.50** (Unibet) · prob 57% vs casas 60% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.48** (Unibet) · prob 62% vs casas 61% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.49** (Unibet) · prob 60% vs casas 60% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Benevento** @ **1.48** (Unibet) · prob 60% vs casas 61% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
-
-## Palermo vs Benevento — 28/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Benevento** @ **1.68** (Unibet) · prob 56% vs casas 53% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 0.92)  
-1 54% · X 26% · 2 19%  
-1X 81% · X2 46% · 12 74%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Palermo ➖✅➖❌✅ | Benevento ➖❌➖❌✅  
-• H2H: 4 desde 2018: 2V-2E-0D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Palermo: 1 fuera, 4 duda (D. Toerset Johnsen); Benevento: sin bajas  
-• Favorito de las casas: Palermo @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.3: total +9.5 51% · Palermo +5.5 45% · Benevento +4.5 42%  
-Tarjetas 1.7 - 2.6: total +4.5 42% · Palermo +2.5 25% · Benevento +2.5 47%  
-Faltas 10.6 - 13.5: total +27.5 25% · Palermo +13.5 19% · Benevento +13.5 48%  
-Tiros a puerta 5.3 - 4.0: total +8.5 57% · Palermo +5.5 44% · Benevento +4.5 37%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Palermo + Menos de 2.5 tarjetas de Palermo + Menos de 4.5 tiros a puerta de Benevento + Menos de 4.5 córners de Benevento + Menos de 2.5 goles → prob. 16%, cuota justa 6.42  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Benevento + Menos de 2.5 goles): cuota Unibet aprox. 3.66 (producto de piernas) · prob. 31% · ventaja +15% → 1 u en la banca de simulación  
+Actualizado 28/11/2026 19:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wisla vs Motor Lublin — 28/11 · 20:15
 
@@ -9504,6 +9304,7 @@ Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46
 Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
 
 ## Celta vs Villarreal — 29/11 · 18:30
 
@@ -9529,6 +9330,8 @@ Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%
 Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
 
 ## Cadiz vs Cordoba — 29/11 · 18:30
 
@@ -9554,6 +9357,481 @@ Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%
 Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
+
+## Standard vs Club Brugge — 29/11 · 18:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 5.5 córners de Club Brugge** @ **1.58** (Unibet) · prob 58% vs casas 58% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.81 - 1.57)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 45%  
+Marcadores: 0-1 14% · 1-1 12% · 0-2 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Standard ❌❌➖✅✅ | Club Brugge ✅✅✅➖✅  
+• H2H: 42 desde 2005: 14V-12E-16D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Standard: sin bajas; Club Brugge: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 56% · Standard +5.5 34% · Club Brugge +4.5 71%  
+Tarjetas 2.0 - 1.9: total +4.5 37% · Standard +2.5 34% · Club Brugge +2.5 31%  
+Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46%  
+Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
+
+## Standard vs Club Brugge — 29/11 · 18:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 8.5 córners de Club Brugge** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.81 - 1.57)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 45%  
+Marcadores: 0-1 14% · 1-1 12% · 0-2 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Standard ❌❌➖✅✅ | Club Brugge ✅✅✅➖✅  
+• H2H: 42 desde 2005: 14V-12E-16D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Standard: sin bajas; Club Brugge: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 56% · Standard +5.5 34% · Club Brugge +4.5 71%  
+Tarjetas 2.0 - 1.9: total +4.5 37% · Standard +2.5 34% · Club Brugge +2.5 31%  
+Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46%  
+Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
+
+## Standard vs Club Brugge — 29/11 · 18:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 11.5 córners** @ **2.45** (Unibet) · prob 41% vs casas 38% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.81 - 1.57)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 45%  
+Marcadores: 0-1 14% · 1-1 12% · 0-2 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Standard ❌❌➖✅✅ | Club Brugge ✅✅✅➖✅  
+• H2H: 42 desde 2005: 14V-12E-16D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Standard: sin bajas; Club Brugge: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 56% · Standard +5.5 34% · Club Brugge +4.5 71%  
+Tarjetas 2.0 - 1.9: total +4.5 37% · Standard +2.5 34% · Club Brugge +2.5 31%  
+Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46%  
+Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
+
+## Standard vs Club Brugge — 29/11 · 18:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.30** (Unibet) · prob 68% vs casas 70% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.81 - 1.57)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 45%  
+Marcadores: 0-1 14% · 1-1 12% · 0-2 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Standard ❌❌➖✅✅ | Club Brugge ✅✅✅➖✅  
+• H2H: 42 desde 2005: 14V-12E-16D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Standard: sin bajas; Club Brugge: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 56% · Standard +5.5 34% · Club Brugge +4.5 71%  
+Tarjetas 2.0 - 1.9: total +4.5 37% · Standard +2.5 34% · Club Brugge +2.5 31%  
+Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46%  
+Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
+
+## Standard vs Club Brugge — 29/11 · 18:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 5.5 córners de Standard** @ **3.55** (Unibet) · prob 30% vs casas 26% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.81 - 1.57)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 45%  
+Marcadores: 0-1 14% · 1-1 12% · 0-2 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Standard ❌❌➖✅✅ | Club Brugge ✅✅✅➖✅  
+• H2H: 42 desde 2005: 14V-12E-16D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Standard: sin bajas; Club Brugge: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 56% · Standard +5.5 34% · Club Brugge +4.5 71%  
+Tarjetas 2.0 - 1.9: total +4.5 37% · Standard +2.5 34% · Club Brugge +2.5 31%  
+Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46%  
+Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
+
+## Standard vs Club Brugge — 29/11 · 18:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Standard** @ **1.24** (Unibet) · prob 70% vs casas 74% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.81 - 1.57)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 45%  
+Marcadores: 0-1 14% · 1-1 12% · 0-2 11% · 0-0 10%  
+🔎 **Claves**  
+• Forma: Standard ❌❌➖✅✅ | Club Brugge ✅✅✅➖✅  
+• H2H: 42 desde 2005: 14V-12E-16D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Standard: sin bajas; Club Brugge: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 6.5: total +10.5 56% · Standard +5.5 34% · Club Brugge +4.5 71%  
+Tarjetas 2.0 - 1.9: total +4.5 37% · Standard +2.5 34% · Club Brugge +2.5 31%  
+Faltas 9.5 - 11.3: total +22.5 35% · Standard +10.5 36% · Club Brugge +11.5 46%  
+Tiros a puerta 3.8 - 5.7: total +9.5 47% · Standard +5.5 20% · Club Brugge +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge → prob. 42%, cuota justa 2.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Standard + Más de 4.5 córners de Club Brugge + Menos de 2.5 tarjetas de Club Brugge + Menos de 22.5 faltas + Menos de 2.5 goles → prob. 18%, cuota justa 5.57  
+🎯 Simulada (con cuota: Más de 4.5 córners de Club Brugge + Menos de 2.5 goles): cuota Unibet aprox. 3.71 (producto de piernas) · prob. 41% · ventaja +52% → 1 u en la banca de simulación  
+
+## Celta vs Villarreal — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Celta** @ **1.06** (Unibet) · prob 89% vs casas 87% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.35 - 1.39)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-2 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Celta ✅➖❌➖❌ | Villarreal ➖✅❌✅❌  
+• H2H: 30 desde 2005: 10V-6E-14D · 3.1 goles/partido · +2.5 en 57%  
+• Bajas: Celta: 1 fuera, 3 duda (Yoel Lago); Villarreal: 1 fuera, 5 duda (Pau Navarro)  
+• Favorito de las casas: Villarreal @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 4.2: total +10.5 30% · Celta +5.5 35% · Villarreal +4.5 41%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Celta +2.5 36% · Villarreal +2.5 44%  
+Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%  
+Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
+
+## Celta vs Villarreal — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Celta** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.35 - 1.39)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-2 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Celta ✅➖❌➖❌ | Villarreal ➖✅❌✅❌  
+• H2H: 30 desde 2005: 10V-6E-14D · 3.1 goles/partido · +2.5 en 57%  
+• Bajas: Celta: 1 fuera, 3 duda (Yoel Lago); Villarreal: 1 fuera, 5 duda (Pau Navarro)  
+• Favorito de las casas: Villarreal @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 4.2: total +10.5 30% · Celta +5.5 35% · Villarreal +4.5 41%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Celta +2.5 36% · Villarreal +2.5 44%  
+Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%  
+Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
+
+## Celta vs Villarreal — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 7.5 córners** @ **1.40** (Unibet) · prob 66% vs casas 66% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.35 - 1.39)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-2 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Celta ✅➖❌➖❌ | Villarreal ➖✅❌✅❌  
+• H2H: 30 desde 2005: 10V-6E-14D · 3.1 goles/partido · +2.5 en 57%  
+• Bajas: Celta: 1 fuera, 3 duda (Yoel Lago); Villarreal: 1 fuera, 5 duda (Pau Navarro)  
+• Favorito de las casas: Villarreal @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 4.2: total +10.5 30% · Celta +5.5 35% · Villarreal +4.5 41%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Celta +2.5 36% · Villarreal +2.5 44%  
+Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%  
+Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
+
+## Celta vs Villarreal — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 10.5 córners** @ **1.38** (Unibet) · prob 68% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.35 - 1.39)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-2 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Celta ✅➖❌➖❌ | Villarreal ➖✅❌✅❌  
+• H2H: 30 desde 2005: 10V-6E-14D · 3.1 goles/partido · +2.5 en 57%  
+• Bajas: Celta: 1 fuera, 3 duda (Yoel Lago); Villarreal: 1 fuera, 5 duda (Pau Navarro)  
+• Favorito de las casas: Villarreal @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 4.2: total +10.5 30% · Celta +5.5 35% · Villarreal +4.5 41%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Celta +2.5 36% · Villarreal +2.5 44%  
+Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%  
+Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
+
+## Celta vs Villarreal — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Villarreal** @ **1.06** (Unibet) · prob 87% vs casas 86% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.35 - 1.39)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-2 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Celta ✅➖❌➖❌ | Villarreal ➖✅❌✅❌  
+• H2H: 30 desde 2005: 10V-6E-14D · 3.1 goles/partido · +2.5 en 57%  
+• Bajas: Celta: 1 fuera, 3 duda (Yoel Lago); Villarreal: 1 fuera, 5 duda (Pau Navarro)  
+• Favorito de las casas: Villarreal @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 4.2: total +10.5 30% · Celta +5.5 35% · Villarreal +4.5 41%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Celta +2.5 36% · Villarreal +2.5 44%  
+Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%  
+Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
+
+## Celta vs Villarreal — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Villarreal** @ **1.09** (Unibet) · prob 87% vs casas 85% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.35 - 1.39)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 56%  
+Marcadores: 1-1 13% · 1-2 8% · 0-1 8% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Celta ✅➖❌➖❌ | Villarreal ➖✅❌✅❌  
+• H2H: 30 desde 2005: 10V-6E-14D · 3.1 goles/partido · +2.5 en 57%  
+• Bajas: Celta: 1 fuera, 3 duda (Yoel Lago); Villarreal: 1 fuera, 5 duda (Pau Navarro)  
+• Favorito de las casas: Villarreal @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 4.2: total +10.5 30% · Celta +5.5 35% · Villarreal +4.5 41%  
+Tarjetas 2.1 - 2.4: total +4.5 47% · Celta +2.5 36% · Villarreal +2.5 44%  
+Faltas 11.4 - 12.5: total +25.5 37% · Celta +12.5 36% · Villarreal +12.5 48%  
+Tiros a puerta 4.5 - 3.9: total +9.5 34% · Celta +5.5 30% · Villarreal +3.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta → prob. 31%, cuota justa 3.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Celta + Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta + Menos de 12.5 faltas de Celta → prob. 21%, cuota justa 4.77  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.74 (producto de piernas) · prob. 31% · ventaja -14%  
+🎯 No simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 45% · ventaja -1%  
+
+## Cadiz vs Cordoba — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.38** (Unibet) · prob 66% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.40)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌➖✅ | Cordoba ✅➖✅➖✅  
+• H2H: 14 desde 2007: 6V-4E-4D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Cadiz: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Cordoba @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +9.5 55% · Cadiz +5.5 35% · Cordoba +4.5 58%  
+Tarjetas 2.9 - 2.9: total +6.5 35% · Cadiz +2.5 54% · Cordoba +3.5 32%  
+Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%  
+Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
+
+## Cadiz vs Cordoba — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.40)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌➖✅ | Cordoba ✅➖✅➖✅  
+• H2H: 14 desde 2007: 6V-4E-4D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Cadiz: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Cordoba @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +9.5 55% · Cadiz +5.5 35% · Cordoba +4.5 58%  
+Tarjetas 2.9 - 2.9: total +6.5 35% · Cadiz +2.5 54% · Cordoba +3.5 32%  
+Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%  
+Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
+
+## Cadiz vs Cordoba — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Cadiz** @ **1.50** (Unibet) · prob 63% vs casas 61% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.40)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌➖✅ | Cordoba ✅➖✅➖✅  
+• H2H: 14 desde 2007: 6V-4E-4D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Cadiz: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Cordoba @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +9.5 55% · Cadiz +5.5 35% · Cordoba +4.5 58%  
+Tarjetas 2.9 - 2.9: total +6.5 35% · Cadiz +2.5 54% · Cordoba +3.5 32%  
+Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%  
+Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
+
+## Cadiz vs Cordoba — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Cadiz** @ **1.36** (Unibet) · prob 66% vs casas 66% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.40)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌➖✅ | Cordoba ✅➖✅➖✅  
+• H2H: 14 desde 2007: 6V-4E-4D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Cadiz: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Cordoba @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +9.5 55% · Cadiz +5.5 35% · Cordoba +4.5 58%  
+Tarjetas 2.9 - 2.9: total +6.5 35% · Cadiz +2.5 54% · Cordoba +3.5 32%  
+Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%  
+Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
+
+## Cadiz vs Cordoba — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Cordoba** @ **1.50** (Unibet) · prob 59% vs casas 61% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.40)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌➖✅ | Cordoba ✅➖✅➖✅  
+• H2H: 14 desde 2007: 6V-4E-4D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Cadiz: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Cordoba @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +9.5 55% · Cadiz +5.5 35% · Cordoba +4.5 58%  
+Tarjetas 2.9 - 2.9: total +6.5 35% · Cadiz +2.5 54% · Cordoba +3.5 32%  
+Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%  
+Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
+
+## Cadiz vs Cordoba — 29/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Cordoba** @ **1.75** (Unibet) · prob 54% vs casas 52% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.40)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌➖✅ | Cordoba ✅➖✅➖✅  
+• H2H: 14 desde 2007: 6V-4E-4D · 2.7 goles/partido · +2.5 en 50%  
+• Bajas: Cadiz: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Cordoba @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 4.8 - 5.4: total +9.5 55% · Cadiz +5.5 35% · Cordoba +4.5 58%  
+Tarjetas 2.9 - 2.9: total +6.5 35% · Cadiz +2.5 54% · Cordoba +3.5 32%  
+Faltas 13.5 - 14.7: total +26.5 60% · Cadiz +13.5 48% · Cordoba +13.5 60%  
+Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz → prob. 34%, cuota justa 2.92 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Cordoba + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas + Más de 2.5 goles → prob. 9%, cuota justa 10.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Cadiz + Más de 2.5 goles): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 36% · ventaja -27%  
 
 ## Gil Vicente vs Estoril — 29/11 · 19:00
 
@@ -9561,6 +9839,156 @@ Tiros a puerta 4.5 - 5.0: total +8.5 59% · Cadiz +5.5 30% · Cordoba +4.5 54%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 0.96)  
+1 57% · X 26% · 2 17%  
+1X 83% · X2 43% · 12 74%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Gil Vicente ✅✅❌➖✅ | Estoril ❌❌❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.5 goles/partido · +2.5 en 44%  
+• Bajas: Gil Vicente: 1 fuera, 2 duda (Ricardo Esgaio); Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia)  
+• Favorito de las casas: Gil Vicente @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.6: total +9.5 40% · Gil Vicente +5.5 42% · Estoril +4.5 30%  
+Tarjetas 2.0 - 2.4: total +5.5 29% · Gil Vicente +2.5 33% · Estoril +2.5 43%  
+Faltas 13.8 - 13.6: total +26.5 55% · Gil Vicente +13.5 51% · Estoril +13.5 49%  
+Tiros a puerta 4.9 - 3.2: total +8.5 42% · Gil Vicente +4.5 53% · Estoril +3.5 40%  
+🧩 Crear apuesta: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril → prob. 49%, cuota justa 2.03 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril + Menos de 3.5 tiros a puerta de Estoril → prob. 32%, cuota justa 3.17  
+
+## Gil Vicente vs Estoril — 29/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Estoril** @ **1.84** (Unibet) · prob 48% vs casas 50% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 0.96)  
+1 57% · X 26% · 2 17%  
+1X 83% · X2 43% · 12 74%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Gil Vicente ✅✅❌➖✅ | Estoril ❌❌❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.5 goles/partido · +2.5 en 44%  
+• Bajas: Gil Vicente: 1 fuera, 2 duda (Ricardo Esgaio); Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia)  
+• Favorito de las casas: Gil Vicente @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.6: total +9.5 40% · Gil Vicente +5.5 42% · Estoril +4.5 30%  
+Tarjetas 2.0 - 2.4: total +5.5 29% · Gil Vicente +2.5 33% · Estoril +2.5 43%  
+Faltas 13.8 - 13.6: total +26.5 55% · Gil Vicente +13.5 51% · Estoril +13.5 49%  
+Tiros a puerta 4.9 - 3.2: total +8.5 42% · Gil Vicente +4.5 53% · Estoril +3.5 40%  
+🧩 Crear apuesta: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril → prob. 49%, cuota justa 2.03 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril + Menos de 3.5 tiros a puerta de Estoril → prob. 32%, cuota justa 3.17  
+
+## Gil Vicente vs Estoril — 29/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Estoril** @ **1.41** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 0.96)  
+1 57% · X 26% · 2 17%  
+1X 83% · X2 43% · 12 74%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Gil Vicente ✅✅❌➖✅ | Estoril ❌❌❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.5 goles/partido · +2.5 en 44%  
+• Bajas: Gil Vicente: 1 fuera, 2 duda (Ricardo Esgaio); Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia)  
+• Favorito de las casas: Gil Vicente @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.6: total +9.5 40% · Gil Vicente +5.5 42% · Estoril +4.5 30%  
+Tarjetas 2.0 - 2.4: total +5.5 29% · Gil Vicente +2.5 33% · Estoril +2.5 43%  
+Faltas 13.8 - 13.6: total +26.5 55% · Gil Vicente +13.5 51% · Estoril +13.5 49%  
+Tiros a puerta 4.9 - 3.2: total +8.5 42% · Gil Vicente +4.5 53% · Estoril +3.5 40%  
+🧩 Crear apuesta: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril → prob. 49%, cuota justa 2.03 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril + Menos de 3.5 tiros a puerta de Estoril → prob. 32%, cuota justa 3.17  
+
+## Gil Vicente vs Estoril — 29/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Gil Vicente** @ **1.46** (Unibet) · prob 60% vs casas 63% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 0.96)  
+1 57% · X 26% · 2 17%  
+1X 83% · X2 43% · 12 74%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Gil Vicente ✅✅❌➖✅ | Estoril ❌❌❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.5 goles/partido · +2.5 en 44%  
+• Bajas: Gil Vicente: 1 fuera, 2 duda (Ricardo Esgaio); Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia)  
+• Favorito de las casas: Gil Vicente @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.6: total +9.5 40% · Gil Vicente +5.5 42% · Estoril +4.5 30%  
+Tarjetas 2.0 - 2.4: total +5.5 29% · Gil Vicente +2.5 33% · Estoril +2.5 43%  
+Faltas 13.8 - 13.6: total +26.5 55% · Gil Vicente +13.5 51% · Estoril +13.5 49%  
+Tiros a puerta 4.9 - 3.2: total +8.5 42% · Gil Vicente +4.5 53% · Estoril +3.5 40%  
+🧩 Crear apuesta: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril → prob. 49%, cuota justa 2.03 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril + Menos de 3.5 tiros a puerta de Estoril → prob. 32%, cuota justa 3.17  
+
+## Gil Vicente vs Estoril — 29/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Gil Vicente** @ **1.86** (Unibet) · prob 53% vs casas 49% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 0.96)  
+1 57% · X 26% · 2 17%  
+1X 83% · X2 43% · 12 74%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Gil Vicente ✅✅❌➖✅ | Estoril ❌❌❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.5 goles/partido · +2.5 en 44%  
+• Bajas: Gil Vicente: 1 fuera, 2 duda (Ricardo Esgaio); Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia)  
+• Favorito de las casas: Gil Vicente @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.6: total +9.5 40% · Gil Vicente +5.5 42% · Estoril +4.5 30%  
+Tarjetas 2.0 - 2.4: total +5.5 29% · Gil Vicente +2.5 33% · Estoril +2.5 43%  
+Faltas 13.8 - 13.6: total +26.5 55% · Gil Vicente +13.5 51% · Estoril +13.5 49%  
+Tiros a puerta 4.9 - 3.2: total +8.5 42% · Gil Vicente +4.5 53% · Estoril +3.5 40%  
+🧩 Crear apuesta: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril → prob. 49%, cuota justa 2.03 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril + Menos de 3.5 tiros a puerta de Estoril → prob. 32%, cuota justa 3.17  
+
+## Gil Vicente vs Estoril — 29/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.30** (Unibet) · prob 68% vs casas 70% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.62 - 0.96)  
+1 57% · X 26% · 2 17%  
+1X 83% · X2 43% · 12 74%  
++1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 50%  
+Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Gil Vicente ✅✅❌➖✅ | Estoril ❌❌❌❌❌  
+• H2H: 16 desde 2013: 4V-6E-6D · 2.5 goles/partido · +2.5 en 44%  
+• Bajas: Gil Vicente: 1 fuera, 2 duda (Ricardo Esgaio); Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia)  
+• Favorito de las casas: Gil Vicente @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.6: total +9.5 40% · Gil Vicente +5.5 42% · Estoril +4.5 30%  
+Tarjetas 2.0 - 2.4: total +5.5 29% · Gil Vicente +2.5 33% · Estoril +2.5 43%  
+Faltas 13.8 - 13.6: total +26.5 55% · Gil Vicente +13.5 51% · Estoril +13.5 49%  
+Tiros a puerta 4.9 - 3.2: total +8.5 42% · Gil Vicente +4.5 53% · Estoril +3.5 40%  
+🧩 Crear apuesta: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril → prob. 49%, cuota justa 2.03 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tarjetas + Menos de 4.5 córners de Estoril + Menos de 3.5 tiros a puerta de Estoril → prob. 32%, cuota justa 3.17  
+
+## Gil Vicente vs Estoril — 29/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 9.5 córners** @ **1.83** (Unibet) · prob 55% vs casas 50% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.62 - 0.96)  
 1 57% · X 26% · 2 17%  
