@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Columbus Crew vs Inter Miami — 28/11 · 02:00
-
-👀 candidata · 🇺🇸 MLS · **Gana Inter Miami** @ **2.60** (Bet365) · prob 37% vs casas 37% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.78 - 1.46)  
-1 43% · X 26% · 2 31%  
-1X 69% · X2 57% · 12 74%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Columbus Crew ✅✅✅✅✅ | Inter Miami ❌➖✅➖❌  
-• H2H: 13 desde 2021: 4V-2E-7D · 3.2 goles/partido · +2.5 en 77%  
-• Bajas: Columbus Crew: sin bajas; Inter Miami: sin bajas  
-• Favorito de las casas: Columbus Crew @ 2.33  
+Actualizado 28/11/2026 02:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Real Salt Lake vs Vancouver Whitecaps — 28/11 · 04:00
 

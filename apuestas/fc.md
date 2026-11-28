@@ -1,6 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 02:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Dov1n vs SpeciAL — 28/11 · 02:12
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Dov1n** @ **2.48** (Unibet) · prob 46% vs casas 35% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.812 partidos)  
+Goles esperados: Dov1n 3.63 · SpeciAL 3.33  
+Ganador: Dov1n 46% · empate 18% · SpeciAL 37%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap Dov1n: −1.5 32% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Dov1n ✅✅✅✅➖ | SpeciAL ❌✅❌✅➖  
+• Partidos: Dov1n 1214 | SpeciAL 1150  
+• Liga: World Cup B  
+• Unibet: 1 2.48 · X 4.30 · 2 1.97 (sin margen 35%/20%/44%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+13%) · Paf España 2.48 (+13%)  
+
+## Simaponika vs reddevil — 28/11 · 02:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Simaponika** @ **1.58** (Unibet) · prob 67% vs casas 56% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 83.812 partidos)  
+Goles esperados: Simaponika 3.48 · reddevil 2.12  
+Ganador: Simaponika 67% · empate 16% · reddevil 17%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Simaponika: −1.5 47% · −2.5 30%  
+🔎 **Claves**  
+• Forma: Simaponika ❌➖✅➖➖ | reddevil ❌❌❌❌✅  
+• Partidos: Simaponika 1512 | reddevil 177  
+• Liga: Champions League B  
+• Unibet: 1 1.58 · X 5.40 · 2 3.15 (sin margen 56%/16%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.58 (+6%) · Paf España 1.58 (+6%)  
 
 ## ssstasonn vs believer — 28/11 · 02:27
 
