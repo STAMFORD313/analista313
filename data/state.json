@@ -1485,13 +1485,6 @@
   "wta|2026-11-30|Darya Astakhova|Zhang Shuai",
   "wta|2026-11-30|Anna-Lena Friedsam|Lisa Pigato",
   "wta|2026-11-30|Elena Pridankina|Valentina Ryser",
-  "fc|2394575",
-  "fc|2394792",
-  "fc|2394715",
-  "fc|2394802",
-  "fc|2394722",
-  "fc|2394800",
-  "fc|2394805",
   "fc|2394584",
   "fc|2395314",
   "fc|2395037",
@@ -2491,7 +2484,10 @@
   "dota2|135110",
   "fc|2404117",
   "fc|2403734",
-  "fc|2403732"
+  "fc|2403732",
+  "fc|2403258",
+  "fc|2403260",
+  "fc|2403736"
  ],
  "signals": [
   {
@@ -7055,7 +7051,11 @@
    "version": "a5c5b86",
    "bajas": "Arkansas Razorbacks: sin bajas; LSU Tigers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-25",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7076,7 +7076,11 @@
    "version": "a5c5b86",
    "bajas": "Arkansas Razorbacks: sin bajas; LSU Tigers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-25",
+   "close_p": 0.5115,
+   "logged": true
   },
   {
    "market": "away",
@@ -7096,7 +7100,11 @@
    "version": "a5c5b86",
    "bajas": "Arkansas Razorbacks: sin bajas; LSU Tigers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "10-25",
+   "close_p": 0.8346,
+   "logged": true
   },
   {
    "market": "over",
@@ -7244,7 +7252,11 @@
    "version": "a5c5b86",
    "bajas": "UL Monroe Warhawks: sin bajas; Marshall Thundering Herd: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-27",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7265,7 +7277,11 @@
    "version": "a5c5b86",
    "bajas": "UL Monroe Warhawks: sin bajas; Marshall Thundering Herd: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-27",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7285,7 +7301,11 @@
    "version": "a5c5b86",
    "bajas": "UL Monroe Warhawks: sin bajas; Marshall Thundering Herd: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-27",
+   "close_p": 0.2947,
+   "logged": true
   },
   {
    "market": "over",
@@ -7307,7 +7327,11 @@
    "version": "a5c5b86",
    "bajas": "Old Dominion Monarchs: sin bajas; Southern Miss Golden Eagles: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-27",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7328,7 +7352,11 @@
    "version": "a5c5b86",
    "bajas": "Old Dominion Monarchs: sin bajas; Southern Miss Golden Eagles: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-27",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7348,7 +7376,11 @@
    "version": "a5c5b86",
    "bajas": "Old Dominion Monarchs: sin bajas; Southern Miss Golden Eagles: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-27",
+   "close_p": 0.6405,
+   "logged": true
   },
   {
    "market": "over",
@@ -8751,15 +8783,6 @@
    "pick": "Más de 41.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>46.1</b> puntos · línea 41.5",
-    "Más 48% · Menos 52%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Missouri Tigers ❌✅❌❌✅ | Oklahoma Sooners ✅❌✅✅✅",
-    "• H2H: 2 desde 2024: 1-1",
-    "• Bajas: Missouri Tigers: sin bajas; Oklahoma Sooners: sin bajas"
-   ],
    "context": "Missouri Tigers vs Oklahoma Sooners (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 46.1 frente a línea 41.5. Forma Missouri Tigers ❌✅❌❌✅, Oklahoma Sooners ✅❌✅✅✅. H2H 2 desde 2024: 1-1. Bajas: Missouri Tigers: sin bajas; Oklahoma Sooners: sin bajas.",
    "captured": "2026-11-26T00:17",
    "version": "a5c5b86",
@@ -8781,14 +8804,6 @@
    "pick": "Missouri Tigers -2.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Missouri Tigers cubre -2.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Missouri Tigers ❌✅❌❌✅ | Oklahoma Sooners ✅❌✅✅✅",
-    "• H2H: 2 desde 2024: 1-1",
-    "• Bajas: Missouri Tigers: sin bajas; Oklahoma Sooners: sin bajas"
-   ],
    "context": "Missouri Tigers vs Oklahoma Sooners (🏈 NCAA Football). Hándicap Missouri Tigers -2.5: margen esperado desde el Elo (gana Missouri Tigers 51%). Forma Missouri Tigers ❌✅❌❌✅, Oklahoma Sooners ✅❌✅✅✅. H2H 2 desde 2024: 1-1. Bajas: Missouri Tigers: sin bajas; Oklahoma Sooners: sin bajas.",
    "captured": "2026-11-26T00:17",
    "version": "a5c5b86",
@@ -8809,18 +8824,6 @@
    "start": "2026-11-28T21:15Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.657 partidos y bajas)",
-    "Gana Missouri Tigers 51% · Gana Oklahoma Sooners 49%",
-    "Casas: Missouri Tigers 53% · Oklahoma Sooners 47%",
-    "Hándicap MIZ -2.5 · Total puntos 41.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Missouri Tigers ❌✅❌❌✅ | Oklahoma Sooners ✅❌✅✅✅",
-    "• H2H: 2 desde 2024: 1-1",
-    "• Bajas: Missouri Tigers: sin bajas; Oklahoma Sooners: sin bajas",
-    "• Favorito de las casas: Missouri Tigers @ 1.82"
-   ],
    "context": "Missouri Tigers vs Oklahoma Sooners (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Missouri Tigers 51%, Oklahoma Sooners 49%. Cuotas DraftKings 1.82/2.02, hándicap MIZ -2.5, total 41.5. Forma Missouri Tigers ❌✅❌❌✅, Oklahoma Sooners ✅❌✅✅✅. H2H 2 desde 2024: 1-1. Bajas Missouri Tigers: ninguna. Bajas Oklahoma Sooners: ninguna.",
    "captured": "2026-11-26T00:17",
    "version": "a5c5b86",
@@ -8843,15 +8846,6 @@
    "pick": "Más de 46.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.9</b> puntos · línea 46.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Rutgers Scarlet Knights ❌❌❌❌✅ | Michigan State Spartans ❌❌✅❌❌",
-    "• H2H: 9 desde 2016: 3-6",
-    "• Bajas: Rutgers Scarlet Knights: sin bajas; Michigan State Spartans: sin bajas"
-   ],
    "context": "Rutgers Scarlet Knights vs Michigan State Spartans (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.9 frente a línea 46.5. Forma Rutgers Scarlet Knights ❌❌❌❌✅, Michigan State Spartans ❌❌✅❌❌. H2H 9 desde 2016: 3-6. Bajas: Rutgers Scarlet Knights: sin bajas; Michigan State Spartans: sin bajas.",
    "captured": "2026-11-26T00:17",
    "version": "a5c5b86",
@@ -8873,14 +8867,6 @@
    "pick": "Rutgers Scarlet Knights +3.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Rutgers Scarlet Knights cubre +3.5 con prob. 52% (casas 52%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Rutgers Scarlet Knights ❌❌❌❌✅ | Michigan State Spartans ❌❌✅❌❌",
-    "• H2H: 9 desde 2016: 3-6",
-    "• Bajas: Rutgers Scarlet Knights: sin bajas; Michigan State Spartans: sin bajas"
-   ],
    "context": "Rutgers Scarlet Knights vs Michigan State Spartans (🏈 NCAA Football). Hándicap Rutgers Scarlet Knights +3.5: margen esperado desde el Elo (gana Rutgers Scarlet Knights 48%). Forma Rutgers Scarlet Knights ❌❌❌❌✅, Michigan State Spartans ❌❌✅❌❌. H2H 9 desde 2016: 3-6. Bajas: Rutgers Scarlet Knights: sin bajas; Michigan State Spartans: sin bajas.",
    "captured": "2026-11-26T00:17",
    "version": "a5c5b86",
@@ -8901,18 +8887,6 @@
    "start": "2026-11-28T21:15Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.657 partidos y bajas)",
-    "Gana Rutgers Scarlet Knights 48% · Gana Michigan State Spartans 52%",
-    "Casas: Rutgers Scarlet Knights 40% · Michigan State Spartans 60%",
-    "Hándicap MSU -3.5 · Total puntos 46.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Rutgers Scarlet Knights ❌❌❌❌✅ | Michigan State Spartans ❌❌✅❌❌",
-    "• H2H: 9 desde 2016: 3-6",
-    "• Bajas: Rutgers Scarlet Knights: sin bajas; Michigan State Spartans: sin bajas",
-    "• Favorito de las casas: Michigan State Spartans @ 1.59"
-   ],
    "context": "Rutgers Scarlet Knights vs Michigan State Spartans (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Rutgers Scarlet Knights 48%, Michigan State Spartans 52%. Cuotas DraftKings 2.42/1.588, hándicap MSU -3.5, total 46.5. Forma Rutgers Scarlet Knights ❌❌❌❌✅, Michigan State Spartans ❌❌✅❌❌. H2H 9 desde 2016: 3-6. Bajas Rutgers Scarlet Knights: ninguna. Bajas Michigan State Spartans: ninguna.",
    "captured": "2026-11-26T00:17",
    "version": "a5c5b86",
@@ -16556,19 +16530,6 @@
    "start": "2026-11-28T21:30:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.96 - 1.08)",
-    "1 53% · X 25% · 2 22%",
-    "1X 78% · X2 47% · 12 75%",
-    "+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%",
-    "Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Philadelphia Union ❌➖❌✅❌ | New England Revolution ✅✅❌❌✅",
-    "• H2H: 43 desde 2012: 24V-6E-13D · 2.7 goles/partido · +2.5 en 51%",
-    "• Bajas: Philadelphia Union: sin bajas; New England Revolution: sin bajas",
-    "• Favorito de las casas: Philadelphia Union @ 1.51"
-   ],
    "context": "Philadelphia Union vs New England Revolution (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 53% X 25% 2 22%, +2.5 58%, ambos marcan 57%. Forma Philadelphia Union ❌➖❌✅❌, New England Revolution ✅✅❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 43 desde 2012: 24V-6E-13D · 2.7 goles/partido · +2.5 en 51%. Bajas Philadelphia Union: ninguna. Bajas New England Revolution: ninguna.",
    "captured": "2026-11-27T09:53",
    "version": "f152037",
@@ -50026,7 +49987,11 @@
    "version": "e95edaa",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -50042,20 +50007,6 @@
    "start": "2026-11-28T21:22:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 84.827 partidos)",
-    "Goles esperados: KravaRK 2.66 · curuza 3.20",
-    "Ganador: KravaRK 28% · empate 19% · curuza 53%",
-    "Total: más de 5.5 goles 53% · menos 47%",
-    "Hándicap curuza: −1.5 34% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: KravaRK ➖❌✅✅❌ | curuza ➖❌❌❌✅",
-    "• Partidos: KravaRK 613 | curuza 1050",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 2.33 · X 4.00 · 2 2.12 (sin margen 37%/22%/41%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.12 (+12%) · Paf España 2.12 (+12%)"
-   ],
    "context": "EA FC Esoccer Battle KravaRK vs curuza (Portugal Primera): goles esperados 2.66-3.20, 1X2 28%/19%/53%. Sin cuotas de casa.",
    "captured": "2026-11-28T21:00",
    "version": "e95edaa",
@@ -50077,20 +50028,6 @@
    "start": "2026-11-28T21:28:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 84.834 partidos)",
-    "Goles esperados: marto1505 2.62 · Noltzer 3.39",
-    "Ganador: marto1505 27% · empate 18% · Noltzer 55%",
-    "Total: más de 6.5 goles 40% · menos 60%",
-    "Hándicap Noltzer: −1.5 38% · −2.5 23%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: marto1505 ❌❌❌❌✅ | Noltzer ➖✅✅✅❌",
-    "• Partidos: marto1505 158 | Noltzer 257",
-    "• Liga: LaLiga",
-    "• Unibet: 1 4.70 · X 5.00 · 2 1.35 (sin margen 18%/17%/64%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 4.70 (+26%) · Paf España 4.70 (+26%)"
-   ],
    "context": "EA FC Esoccer Battle marto1505 vs Noltzer (LaLiga): goles esperados 2.62-3.39, 1X2 27%/18%/55%. Sin cuotas de casa.",
    "captured": "2026-11-28T21:08",
    "version": "e95edaa",
@@ -50112,23 +50049,114 @@
    "start": "2026-11-28T21:31:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 84.834 partidos)",
-    "Goles esperados: reddevil 2.17 · Nightxx 5.10",
-    "Ganador: reddevil 6% · empate 8% · Nightxx 86%",
-    "Total: más de 7.5 goles 44% · menos 56%",
-    "Hándicap Nightxx: −1.5 70% · −2.5 55%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: reddevil ❌❌❌➖✅ | Nightxx ❌❌➖❌✅",
-    "• Partidos: reddevil 194 | Nightxx 1203",
-    "• Liga: World Cup A",
-    "• Unibet: 1 4.25 · X 6.10 · 2 1.32 (sin margen 20%/14%/65%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.32 (+13%) · Paf España 1.32 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle reddevil vs Nightxx (World Cup A): goles esperados 2.17-5.10, 1X2 6%/8%/86%. Sin cuotas de casa.",
    "captured": "2026-11-28T21:08",
    "version": "e95edaa",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "curuza",
+   "odds": 2.95,
+   "book": "Unibet",
+   "implied": 0.296,
+   "edge": 0.194,
+   "sin_stake": true,
+   "p": 0.405,
+   "key": "fc|2403258",
+   "match": "curuza vs hrk",
+   "start": "2026-11-28T21:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 84.856 partidos)",
+    "Goles esperados: curuza 3.11 · hrk 3.14",
+    "Ganador: curuza 40% · empate 19% · hrk 41%",
+    "Total: más de 6.5 goles 43% · menos 57%",
+    "Hándicap hrk: −1.5 27% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: curuza ➖❌❌❌✅ | hrk ❌➖✅❌✅",
+    "• Partidos: curuza 1050 | hrk 1051",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 2.95 · X 3.75 · 2 1.85 (sin margen 30%/23%/47%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.95 (+19%) · Paf España 2.95 (+19%)"
+   ],
+   "context": "EA FC Esoccer Battle curuza vs hrk (Portugal Primera): goles esperados 3.11-3.14, 1X2 40%/19%/41%. Sin cuotas de casa.",
+   "captured": "2026-11-28T21:32",
+   "version": "3834508",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 3.35,
+   "book": "Unibet",
+   "implied": 0.263,
+   "edge": 0.18,
+   "sin_stake": true,
+   "p": 0.352,
+   "key": "fc|2403260",
+   "match": "kirman vs curuza",
+   "start": "2026-11-28T21:46:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 84.856 partidos)",
+    "Goles esperados: kirman 3.36 · curuza 3.05",
+    "Ganador: kirman 47% · empate 18% · curuza 35%",
+    "Total: más de 6.5 goles 46% · menos 54%",
+    "Hándicap kirman: −1.5 31% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kirman ✅✅✅✅❌ | curuza ➖❌❌❌✅",
+    "• Partidos: kirman 896 | curuza 1050",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 1.60 · X 4.70 · 2 3.35 (sin margen 55%/19%/26%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.35 (+18%) · Paf España 3.35 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle kirman vs curuza (Portugal Primera): goles esperados 3.36-3.05, 1X2 47%/18%/35%. Sin cuotas de casa.",
+   "captured": "2026-11-28T21:32",
+   "version": "3834508",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "ssstasonn",
+   "odds": 2.95,
+   "book": "Unibet",
+   "implied": 0.297,
+   "edge": 0.126,
+   "sin_stake": true,
+   "p": 0.382,
+   "key": "fc|2403736",
+   "match": "ssstasonn vs reddevil",
+   "start": "2026-11-28T21:43:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 84.856 partidos)",
+    "Goles esperados: ssstasonn 2.92 · reddevil 2.98",
+    "Ganador: ssstasonn 38% · empate 19% · reddevil 43%",
+    "Total: más de 5.5 goles 54% · menos 46%",
+    "Hándicap reddevil: −1.5 27% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌➖✅❌❌ | reddevil ❌❌➖✅❌",
+    "• Partidos: ssstasonn 1393 | reddevil 195",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.95 · X 5.10 · 2 1.65 (sin margen 30%/17%/53%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.95 (+13%) · Paf España 2.95 (+13%)"
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs reddevil (World Cup A): goles esperados 2.92-2.98, 1X2 38%/19%/43%. Sin cuotas de casa.",
+   "captured": "2026-11-28T21:32",
+   "version": "3834508",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -65210,7 +65238,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP1|2026-11-29|Celta|Villarreal": {
    "match": "Celta vs Villarreal",
@@ -65856,7 +65885,8 @@
      "line": 4.5,
      "text": "Menos de 4.5 córners de Leverkusen"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I2|2026-11-29|Arezzo|Pisa": {
    "match": "Arezzo vs Pisa",
@@ -66381,7 +66411,8 @@
      "line": 24.5,
      "text": "Menos de 24.5 faltas"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I1|2026-11-29|Como|Juventus": {
    "match": "Como vs Juventus",
@@ -66542,7 +66573,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP1|2026-11-29|Sociedad|Sevilla": {
    "match": "Sociedad vs Sevilla",
@@ -67875,7 +67907,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-28T18:32:04.762495+00:00",
+ "combo_sent": "2026-11-28T21:32:43.372915+00:00",
  "fc_sim_sent": "2026-11-28T20:03:12.750702+00:00",
  "fc_sim_n": 3910,
  "kambi_ok": [

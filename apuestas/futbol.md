@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 22:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Philadelphia Union vs New England Revolution — 28/11 · 22:30
-
-👀 candidata · 🇺🇸 MLS · **Gana Philadelphia Union** @ **1.51** (Bet365) · prob 63% vs casas 63% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.96 - 1.08)  
-1 53% · X 25% · 2 22%  
-1X 78% · X2 47% · 12 75%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 2-1 10% · 2-0 9% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Philadelphia Union ❌➖❌✅❌ | New England Revolution ✅✅❌❌✅  
-• H2H: 43 desde 2012: 24V-6E-13D · 2.7 goles/partido · +2.5 en 51%  
-• Bajas: Philadelphia Union: sin bajas; New England Revolution: sin bajas  
-• Favorito de las casas: Philadelphia Union @ 1.51  
+Actualizado 28/11/2026 22:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Velez Sarsfield vs Independiente — 29/11 · 00:00
 
