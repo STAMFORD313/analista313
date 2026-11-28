@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 14:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 14:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Widzew Lodz vs Zaglebie — 28/11 · 14:45
 
