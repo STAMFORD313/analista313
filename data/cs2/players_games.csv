@@ -35121,3 +35121,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194316,134524,nordic-partners-gaming-vs-xmeta-27-11-2026,2026-11-27T15:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,25002,25571,Nordic Partners,XMETA,1,de_cache,25002,13.0,6.0
 194318,134525,butterfly-vs-maybe-ukr-27-11-2026,2026-11-27T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,24855,24681,Butterfly,MAYBE,2,de_nuke,24855,13.0,8.0
 194319,134525,butterfly-vs-maybe-ukr-27-11-2026,2026-11-27T18:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,24855,24681,Butterfly,MAYBE,1,de_mirage,24855,13.0,8.0
+194037,134399,fut-cs2-vs-flyquest-28-11-2026,2026-11-28T04:00:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,20832,10398,FUT,FlyQuest,1,de_cache,20832,13.0,10.0
+194043,134405,the-mongolz-vs-lynn-vision-28-11-2026,2026-11-28T04:00:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,736,476,The MongolZ,Lynn Vision,1,de_inferno,736,13.0,9.0

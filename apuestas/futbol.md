@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 05:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kyoto vs Cerezo Osaka — 28/11 · 06:00
-
-👀 candidata · 🇯🇵 J1 League · **Empate** @ **3.50** (Bet365) · prob 27% vs casas 27% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.30)  
-1 48% · X 26% · 2 26%  
-1X 74% · X2 52% · 12 74%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: Kyoto ➖➖✅✅✅ | Cerezo Osaka ➖❌✅❌➖  
-• H2H: 8 desde 2022: 3V-3E-2D · 2.8 goles/partido · +2.5 en 38%  
-• Bajas: Kyoto: sin bajas; Cerezo Osaka: sin bajas  
-• Favorito de las casas: Kyoto @ 2.40  
-
-## Shimizu S-Pulse vs Urawa Reds — 28/11 · 06:00
-
-👀 candidata · 🇯🇵 J1 League · **Empate** @ **3.60** (Bet365) · prob 26% vs casas 26% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.29)  
-1 33% · X 28% · 2 39%  
-1X 61% · X2 67% · 12 72%  
-+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Shimizu S-Pulse ❌❌❌➖❌ | Urawa Reds ✅❌➖❌➖  
-• H2H: 22 desde 2012: 2V-6E-14D · 2.6 goles/partido · +2.5 en 45%  
-• Bajas: Shimizu S-Pulse: sin bajas; Urawa Reds: sin bajas  
-• Favorito de las casas: Urawa Reds @ 1.79  
+Actualizado 28/11/2026 06:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kashima Antlers vs Okayama — 28/11 · 07:00
 
