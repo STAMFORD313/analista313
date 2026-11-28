@@ -84172,3 +84172,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2402743,263421,Newcastle,Brighton,,
 2402744,263421,Aston Villa,Newcastle,,
 2402745,263421,Nottm Forest,Man Utd,,
+2403526,263411,Middlesbrough,Wolves,1,1
+2403527,263411,West Ham,Burnley,1,1
+2403528,263411,Burnley,Middlesbrough,4,2
+2403529,263411,Wolves,Southampton,4,1
+2403530,263411,Southampton,Burnley,2,1
+2403531,263411,Middlesbrough,West Ham,1,0
+2403532,263411,West Ham,Southampton,1,3
+2403533,263411,Burnley,Wolves,3,2
+2403534,263411,Wolves,West Ham,,
+2403535,263411,Southampton,Middlesbrough,,
+2403536,263411,Wolves,Middlesbrough,,
+2403537,263411,Burnley,West Ham,,
+2403538,263411,Middlesbrough,Burnley,,
+2403539,263411,Southampton,Wolves,,
+2403540,263411,Burnley,Southampton,,
+2403541,263411,West Ham,Middlesbrough,,
+2403542,263411,Southampton,West Ham,,
+2403543,263411,Wolves,Burnley,,
+2403544,263411,West Ham,Wolves,,
+2403545,263411,Middlesbrough,Southampton,,
+2403114,263434,Sassuolo,Roma,2,1
+2403115,263434,Juventus,Napoli,2,1
+2403116,263434,Napoli,Sassuolo,4,3
+2403117,263434,Roma,Bologna,1,1
+2403118,263434,Bologna,Napoli,1,1
+2403119,263434,Sassuolo,Juventus,1,1
+2403120,263434,Juventus,Bologna,3,0
+2403121,263434,Napoli,Roma,2,1
+2403122,263434,Roma,Juventus,0,0
+2403123,263434,Bologna,Sassuolo,1,0
+2403124,263434,Roma,Sassuolo,,
+2403125,263434,Napoli,Juventus,,
+2403126,263434,Sassuolo,Napoli,,
+2403127,263434,Bologna,Roma,,
+2403128,263434,Napoli,Bologna,,
+2403129,263434,Juventus,Sassuolo,,
+2403130,263434,Bologna,Juventus,,
+2403131,263434,Roma,Napoli,,
+2403132,263434,Juventus,Roma,,
+2403133,263434,Sassuolo,Bologna,,
+2403988,263478,Marseille,Lyon,2,2
+2403989,263478,Nice,Paris,0,1
+2403990,263478,Paris,Marseille,2,1
+2403991,263478,Lyon,Monaco,2,0
+2403992,263478,Monaco,Paris,0,0
+2403993,263478,Marseille,Nice,3,1
+2403994,263478,Nice,Monaco,0,3
+2403995,263478,Paris,Lyon,0,1
+2403996,263478,Lyon,Nice,4,0
+2403997,263478,Monaco,Marseille,1,3
+2403998,263478,Lyon,Marseille,0,1
+2403999,263478,Paris,Nice,1,2
+2404000,263478,Marseille,Paris,,
+2404001,263478,Monaco,Lyon,,
+2404002,263478,Paris,Monaco,,
+2404003,263478,Nice,Marseille,,
+2404004,263478,Monaco,Nice,,
+2404005,263478,Lyon,Paris,,
+2404006,263478,Nice,Lyon,,
+2404007,263478,Marseille,Monaco,,

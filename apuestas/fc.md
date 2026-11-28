@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 09:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 09:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs A1ose — 28/11 · 09:19
+## ramzes vs Gazi — 28/11 · 09:48
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana cl1vlind** @ **3.30** (Unibet) · prob 37% vs casas 26% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Empate** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +17%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.165 partidos)  
+Goles esperados: ramzes 2.81 · Gazi 2.69  
+Ganador: ramzes 37% · empate 20% · Gazi 43%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap ramzes: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: ramzes ❌❌✅❌✅ | Gazi ➖✅❌➖❌  
+• Partidos: ramzes 1318 | Gazi 738  
+• Liga: EFL Championship  
+• Unibet: 1 1.68 · X 5.80 · 2 2.70 (sin margen 52%/15%/33%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+17%) · Paf España 5.80 (+17%)  
+
+## Lumix vs Tesla — 28/11 · 09:52
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Lumix** @ **3.00** (Unibet) · prob 40% vs casas 29% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.140 partidos)  
-Goles esperados: cl1vlind 3.28 · A1ose 3.44  
-Ganador: cl1vlind 37% · empate 18% · A1ose 45%  
+📊 **Escenarios** (Poisson por jugador, 84.165 partidos)  
+Goles esperados: Lumix 3.36 · Tesla 3.35  
+Ganador: Lumix 39% · empate 18% · Tesla 42%  
 Total: más de 6.5 goles 51% · menos 49%  
-Hándicap A1ose: −1.5 30% · −2.5 18%  
+Hándicap Lumix: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: cl1vlind ❌➖➖✅✅ | A1ose ❌➖❌✅➖  
-• Partidos: cl1vlind 937 | A1ose 1279  
-• Liga: Serie A  
-• Unibet: 1 3.30 · X 3.35 · 2 1.83 (sin margen 26%/26%/48%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.30 (+22%) · Paf España 3.30 (+22%)  
+• Forma: Lumix ➖✅✅✅➖ | Tesla ➖✅❌✅✅  
+• Partidos: Lumix 1315 | Tesla 1301  
+• Liga: Ligue 1  
+• Unibet: 1 3.00 · X 4.40 · 2 1.71 (sin margen 29%/20%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+18%) · Paf España 3.00 (+18%)  
 
-## A1ose vs RuBIX — 28/11 · 09:31
+## dor1an vs cl1vlind — 28/11 · 09:55
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.65** (Unibet) · prob 46% vs casas 33% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana cl1vlind** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +12%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.140 partidos)  
-Goles esperados: A1ose 3.09 · RuBIX 3.41  
-Ganador: A1ose 35% · empate 18% · RuBIX 47%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap RuBIX: −1.5 32% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 84.165 partidos)  
+Goles esperados: dor1an 2.72 · cl1vlind 3.09  
+Ganador: dor1an 34% · empate 19% · cl1vlind 47%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap cl1vlind: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: A1ose ❌➖❌✅➖ | RuBIX ✅❌✅✅❌  
-• Partidos: A1ose 1279 | RuBIX 488  
+• Forma: dor1an ✅❌❌➖❌ | cl1vlind ➖✅✅❌✅  
+• Partidos: dor1an 491 | cl1vlind 939  
 • Liga: Serie A  
-• Unibet: 1 1.84 · X 4.40 · 2 2.65 (sin margen 47%/20%/33%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.65 (+23%) · Paf España 2.65 (+23%)  
-
-## Edwardson vs DaVa — 28/11 · 09:34
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Edwardson** @ **6.40** (Unibet) · prob 20% vs casas 14% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.140 partidos)  
-Goles esperados: Edwardson 1.65 · DaVa 2.60  
-Ganador: Edwardson 20% · empate 21% · DaVa 59%  
-Total: más de 4.5 goles 42% · menos 58%  
-Hándicap DaVa: −1.5 38% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Edwardson ✅❌✅✅✅ | DaVa ✅✅❌✅✅  
-• Partidos: Edwardson 1548 | DaVa 1581  
-• Liga: Champions League AFC  
-• Unibet: 1 6.40 · X 4.60 · 2 1.28 (sin margen 14%/19%/68%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.40 (+28%) · Paf España 6.40 (+28%)  
+• Unibet: 1 2.75 · X 2.70 · 2 2.38 (sin margen 32%/32%/36%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+12%) · Paf España 2.38 (+12%)  
 
