@@ -1,538 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 12:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Dresden +0 (hándicap asiático)** @ **2.00** (mejor del mercado) · prob 48% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Gana Hertha** @ **1.44** (Bwin) · prob 68% vs casas 68% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Holstein Kiel -0.25 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 47% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Dresden** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Dresden** @ **1.67** (Unibet) · prob 57% vs casas 55% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.50** (Unibet) · prob 63% vs casas 61% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de St Pauli** @ **1.68** (Unibet) · prob 54% vs casas 55% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Dresden vs St Pauli — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de St Pauli** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 1.22)  
-1 36% · X 30% · 2 35%  
-1X 65% · X2 64% · 12 70%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Dresden ✅❌❌✅➖ | St Pauli ➖➖❌❌✅  
-• H2H: 16 desde 2011: 4V-5E-7D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Dresden: 0 fuera, 3 duda; St Pauli: 1 fuera, 0 duda (Louis Oppie)  
-• Favorito de las casas: St Pauli @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 5.1: total +10.5 45% · Dresden +5.5 41% · St Pauli +5.5 39%  
-Tarjetas 2.0 - 2.7: total +4.5 49% · Dresden +2.5 32% · St Pauli +2.5 50%  
-Faltas 10.8 - 12.8: total +22.5 57% · Dresden +11.5 40% · St Pauli +11.5 62%  
-Tiros a puerta 4.6 - 4.7: total +10.5 34% · Dresden +5.5 32% · St Pauli +4.5 50%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli → prob. 27%, cuota justa 3.65 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Dresden + Menos de 2.5 tarjetas de Dresden + Más de 11.5 faltas de St Pauli + Menos de 5.5 córners de St Pauli → prob. 16%, cuota justa 6.16  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Hertha** @ **1.64** (Unibet) · prob 57% vs casas 56% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Hertha** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Karlsruhe** @ **1.60** (Unibet) · prob 58% vs casas 57% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Karlsruhe** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Hertha vs Karlsruhe — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.73 - 1.19)  
-1 62% · X 23% · 2 15%  
-1X 85% · X2 38% · 12 77%  
-+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Hertha ➖✅✅✅✅ | Karlsruhe ✅❌✅❌➖  
-• H2H: 12 desde 2007: 6V-3E-3D · 4.0 goles/partido · +2.5 en 92%  
-• Bajas: Hertha: 1 fuera, 0 duda (Linus Gechter); Karlsruhe: 0 fuera, 1 duda  
-• Favorito de las casas: Hertha @ 1.44  
-📐 **Estadísticas esperadas**  
-Córners 6.4 - 4.3: total +10.5 51% · Hertha +5.5 57% · Karlsruhe +5.5 29%  
-Tarjetas 1.7 - 2.3: total +4.5 37% · Hertha +2.5 25% · Karlsruhe +2.5 40%  
-Faltas 10.2 - 11.3: total +22.5 41% · Hertha +11.5 33% · Karlsruhe +11.5 46%  
-Tiros a puerta 7.2 - 3.7: total +10.5 52% · Hertha +5.5 69% · Karlsruhe +4.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha → prob. 39%, cuota justa 2.55 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 5.5 córners de Karlsruhe + Más de 5.5 tiros a puerta de Hertha + Menos de 11.5 faltas de Hertha + Más de 2.5 goles → prob. 17%, cuota justa 5.75  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 1.77 (producto de piernas) · prob. 40% · ventaja -29%  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 6.5 córners de Holstein Kiel** @ **2.48** (Unibet) · prob 40% vs casas 37% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Holstein Kiel** @ **1.46** (Unibet) · prob 60% vs casas 63% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Kaiserslautern** @ **1.42** (Unibet) · prob 63% vs casas 65% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
-
-## Holstein Kiel vs Kaiserslautern — 28/11 · 13:00
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Kaiserslautern** @ **1.49** (Unibet) · prob 65% vs casas 62% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.06)  
-1 37% · X 31% · 2 33%  
-1X 67% · X2 63% · 12 69%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Holstein Kiel ➖✅❌❌❌ | Kaiserslautern ✅✅❌✅➖  
-• H2H: 8 desde 2017: 3V-1E-4D · 3.6 goles/partido · +2.5 en 100%  
-• Bajas: Holstein Kiel: 1 fuera, 1 duda (Patrick Erras); Kaiserslautern: 2 fuera, 2 duda (Kenny-Prince Redondo, Hendrick Zuck)  
-• Favorito de las casas: Holstein Kiel @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.6: total +10.5 51% · Holstein Kiel +5.5 55% · Kaiserslautern +5.5 32%  
-Tarjetas 2.0 - 2.4: total +4.5 45% · Holstein Kiel +2.5 33% · Kaiserslautern +2.5 44%  
-Faltas 12.9 - 12.2: total +22.5 67% · Holstein Kiel +11.5 63% · Kaiserslautern +11.5 56%  
-Tiros a puerta 5.1 - 4.3: total +10.5 35% · Holstein Kiel +5.5 40% · Kaiserslautern +4.5 43%  
-🧩 Crear apuesta: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel → prob. 30%, cuota justa 3.39 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 córners de Kaiserslautern + Más de 22.5 faltas + Menos de 2.5 tarjetas de Holstein Kiel + Menos de 10.5 tiros a puerta → prob. 20%, cuota justa 4.99  
+Actualizado 28/11/2026 13:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Blackburn vs Charlton — 28/11 · 13:30
 
@@ -12028,6 +11496,7 @@ Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%
 Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
 
 ## Swansea vs Cardiff — 29/11 · 13:00
 
@@ -12052,6 +11521,313 @@ Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%
 Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
 Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
+
+## Everton vs Liverpool — 29/11 · 13:00
+
+👀 candidata · 🏴 Premier League · **Más de 7.5 córners** @ **1.19** (Unibet) · prob 77% vs casas 78% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.23 - 1.76)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Everton ❌❌✅✅❌ | Liverpool ✅✅❌✅✅  
+• H2H: 42 desde 2005: 4V-16E-22D · 2.4 goles/partido · +2.5 en 40%  
+• Bajas: Everton: 1 fuera, 0 duda (James Tarkowski); Liverpool: 4 fuera, 2 duda (Conor Bradley, Giovanni Leoni, Hugo Ekitike)  
+• Favorito de las casas: Liverpool @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.9: total +10.5 41% · Everton +5.5 25% · Liverpool +4.5 64%  
+Tarjetas 2.2 - 2.0: total +4.5 40% · Everton +2.5 37% · Liverpool +2.5 32%  
+Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%  
+Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
+
+## Everton vs Liverpool — 29/11 · 13:00
+
+👀 candidata · 🏴 Premier League · **Menos de 9.5 córners** @ **2.25** (Unibet) · prob 44% vs casas 41% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.23 - 1.76)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Everton ❌❌✅✅❌ | Liverpool ✅✅❌✅✅  
+• H2H: 42 desde 2005: 4V-16E-22D · 2.4 goles/partido · +2.5 en 40%  
+• Bajas: Everton: 1 fuera, 0 duda (James Tarkowski); Liverpool: 4 fuera, 2 duda (Conor Bradley, Giovanni Leoni, Hugo Ekitike)  
+• Favorito de las casas: Liverpool @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.9: total +10.5 41% · Everton +5.5 25% · Liverpool +4.5 64%  
+Tarjetas 2.2 - 2.0: total +4.5 40% · Everton +2.5 37% · Liverpool +2.5 32%  
+Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%  
+Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
+
+## Everton vs Liverpool — 29/11 · 13:00
+
+👀 candidata · 🏴 Premier League · **Más de 1.5 córners de Everton** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.23 - 1.76)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Everton ❌❌✅✅❌ | Liverpool ✅✅❌✅✅  
+• H2H: 42 desde 2005: 4V-16E-22D · 2.4 goles/partido · +2.5 en 40%  
+• Bajas: Everton: 1 fuera, 0 duda (James Tarkowski); Liverpool: 4 fuera, 2 duda (Conor Bradley, Giovanni Leoni, Hugo Ekitike)  
+• Favorito de las casas: Liverpool @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.9: total +10.5 41% · Everton +5.5 25% · Liverpool +4.5 64%  
+Tarjetas 2.2 - 2.0: total +4.5 40% · Everton +2.5 37% · Liverpool +2.5 32%  
+Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%  
+Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
+
+## Everton vs Liverpool — 29/11 · 13:00
+
+👀 candidata · 🏴 Premier League · **Menos de 4.5 córners de Everton** @ **1.62** (Unibet) · prob 59% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.23 - 1.76)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Everton ❌❌✅✅❌ | Liverpool ✅✅❌✅✅  
+• H2H: 42 desde 2005: 4V-16E-22D · 2.4 goles/partido · +2.5 en 40%  
+• Bajas: Everton: 1 fuera, 0 duda (James Tarkowski); Liverpool: 4 fuera, 2 duda (Conor Bradley, Giovanni Leoni, Hugo Ekitike)  
+• Favorito de las casas: Liverpool @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.9: total +10.5 41% · Everton +5.5 25% · Liverpool +4.5 64%  
+Tarjetas 2.2 - 2.0: total +4.5 40% · Everton +2.5 37% · Liverpool +2.5 32%  
+Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%  
+Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
+
+## Everton vs Liverpool — 29/11 · 13:00
+
+👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Liverpool** @ **1.05** (Unibet) · prob 87% vs casas 86% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.23 - 1.76)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Everton ❌❌✅✅❌ | Liverpool ✅✅❌✅✅  
+• H2H: 42 desde 2005: 4V-16E-22D · 2.4 goles/partido · +2.5 en 40%  
+• Bajas: Everton: 1 fuera, 0 duda (James Tarkowski); Liverpool: 4 fuera, 2 duda (Conor Bradley, Giovanni Leoni, Hugo Ekitike)  
+• Favorito de las casas: Liverpool @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.9: total +10.5 41% · Everton +5.5 25% · Liverpool +4.5 64%  
+Tarjetas 2.2 - 2.0: total +4.5 40% · Everton +2.5 37% · Liverpool +2.5 32%  
+Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%  
+Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
+
+## Everton vs Liverpool — 29/11 · 13:00
+
+👀 candidata · 🏴 Premier League · **Menos de 4.5 córners de Liverpool** @ **2.80** (Unibet) · prob 34% vs casas 33% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.23 - 1.76)  
+1 25% · X 27% · 2 48%  
+1X 52% · X2 75% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 59%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 8% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Everton ❌❌✅✅❌ | Liverpool ✅✅❌✅✅  
+• H2H: 42 desde 2005: 4V-16E-22D · 2.4 goles/partido · +2.5 en 40%  
+• Bajas: Everton: 1 fuera, 0 duda (James Tarkowski); Liverpool: 4 fuera, 2 duda (Conor Bradley, Giovanni Leoni, Hugo Ekitike)  
+• Favorito de las casas: Liverpool @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.9: total +10.5 41% · Everton +5.5 25% · Liverpool +4.5 64%  
+Tarjetas 2.2 - 2.0: total +4.5 40% · Everton +2.5 37% · Liverpool +2.5 32%  
+Faltas 9.2 - 11.5: total +22.5 34% · Everton +11.5 23% · Liverpool +11.5 48%  
+Tiros a puerta 4.2 - 5.2: total +9.5 47% · Everton +5.5 26% · Liverpool +4.5 58%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Everton + Menos de 5.5 córners de Everton + Menos de 5.5 tiros a puerta de Everton + Menos de 2.5 tarjetas de Liverpool + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Everton + Menos de 2.5 tarjetas de Liverpool): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 52% · ventaja -1%  
+
+## Swansea vs Cardiff — 29/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Más de 3.5 córners de Cardiff** @ **1.40** (Unibet) · prob 62% vs casas 65% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.99)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Swansea ✅❌❌➖❌ | Cardiff ❌➖✅❌❌  
+• H2H: 20 desde 2008: 10V-4E-6D · 2.5 goles/partido · +2.5 en 45%  
+• Bajas: Swansea: 0 fuera, 1 duda; Cardiff: sin bajas  
+• Favorito de las casas: Swansea @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 39% · Swansea +5.5 45% · Cardiff +4.5 42%  
+Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%  
+Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
+Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
+
+## Swansea vs Cardiff — 29/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Cardiff** @ **1.90** (Unibet) · prob 53% vs casas 48% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.99)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Swansea ✅❌❌➖❌ | Cardiff ❌➖✅❌❌  
+• H2H: 20 desde 2008: 10V-4E-6D · 2.5 goles/partido · +2.5 en 45%  
+• Bajas: Swansea: 0 fuera, 1 duda; Cardiff: sin bajas  
+• Favorito de las casas: Swansea @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 39% · Swansea +5.5 45% · Cardiff +4.5 42%  
+Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%  
+Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
+Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
+
+## Swansea vs Cardiff — 29/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.38** (Unibet) · prob 65% vs casas 66% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.99)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Swansea ✅❌❌➖❌ | Cardiff ❌➖✅❌❌  
+• H2H: 20 desde 2008: 10V-4E-6D · 2.5 goles/partido · +2.5 en 45%  
+• Bajas: Swansea: 0 fuera, 1 duda; Cardiff: sin bajas  
+• Favorito de las casas: Swansea @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 39% · Swansea +5.5 45% · Cardiff +4.5 42%  
+Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%  
+Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
+Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
+
+## Swansea vs Cardiff — 29/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Menos de 11.5 córners** @ **1.42** (Unibet) · prob 68% vs casas 65% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.99)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Swansea ✅❌❌➖❌ | Cardiff ❌➖✅❌❌  
+• H2H: 20 desde 2008: 10V-4E-6D · 2.5 goles/partido · +2.5 en 45%  
+• Bajas: Swansea: 0 fuera, 1 duda; Cardiff: sin bajas  
+• Favorito de las casas: Swansea @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 39% · Swansea +5.5 45% · Cardiff +4.5 42%  
+Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%  
+Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
+Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
+
+## Swansea vs Cardiff — 29/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Más de 3.5 córners de Swansea** @ **1.34** (Unibet) · prob 71% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.99)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Swansea ✅❌❌➖❌ | Cardiff ❌➖✅❌❌  
+• H2H: 20 desde 2008: 10V-4E-6D · 2.5 goles/partido · +2.5 en 45%  
+• Bajas: Swansea: 0 fuera, 1 duda; Cardiff: sin bajas  
+• Favorito de las casas: Swansea @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 39% · Swansea +5.5 45% · Cardiff +4.5 42%  
+Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%  
+Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
+Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
+
+## Swansea vs Cardiff — 29/11 · 13:00
+
+👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Swansea** @ **1.34** (Unibet) · prob 68% vs casas 68% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.75 - 0.99)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 76% · +2.5 52% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Swansea ✅❌❌➖❌ | Cardiff ❌➖✅❌❌  
+• H2H: 20 desde 2008: 10V-4E-6D · 2.5 goles/partido · +2.5 en 45%  
+• Bajas: Swansea: 0 fuera, 1 duda; Cardiff: sin bajas  
+• Favorito de las casas: Swansea @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.3: total +10.5 39% · Swansea +5.5 45% · Cardiff +4.5 42%  
+Tarjetas 1.7 - 2.0: total +4.5 32% · Swansea +2.5 24% · Cardiff +2.5 33%  
+Faltas 10.8 - 11.3: total +22.5 45% · Swansea +11.5 40% · Cardiff +11.5 46%  
+Tiros a puerta 5.0 - 4.0: total +8.5 53% · Swansea +4.5 55% · Cardiff +3.5 54%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners + Menos de 11.5 faltas de Swansea → prob. 28%, cuota justa 3.52 (solo vale si la casa paga más)  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Swansea + Menos de 10.5 córners): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 46% · ventaja +17% → 1 u en la banca de simulación  
 
 ## St Truiden vs Genk — 29/11 · 13:30
 

@@ -35129,6 +35129,9 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 194040,134402,1win-vs-eternal-fire-28-11-2026,2026-11-28T06:15:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,238,1527,1win,Eternal Fire,1,de_cache,238,13.0,10.0
 194042,134404,natus-vincere-vs-parivision-28-11-2026,2026-11-28T07:15:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,787,8171,Natus Vincere,PARIVISION,1,de_ancient,787,13.0,10.0
 194044,134406,mibr-vs-100-thieves-28-11-2026,2026-11-28T07:25:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,755,464,MIBR,100 Thieves,1,de_cache,464,13.0,11.0
+194320,134526,forze-reload-vs-l-g-28-11-2026,2026-11-28T09:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10703,5933,FORZE Reload,Leo,3,de_ancient,5933,13.0,11.0
+194321,134526,forze-reload-vs-l-g-28-11-2026,2026-11-28T09:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10703,5933,FORZE Reload,Leo,2,de_nuke,5933,13.0,8.0
+194322,134526,forze-reload-vs-l-g-28-11-2026,2026-11-28T09:00:00.000+00:00,b,3,5630, CCT Europe 2026 Series 15,10703,5933,FORZE Reload,Leo,1,de_cache,10703,13.0,8.0
 194045,134407,nemiga-vs-lynn-vision-28-11-2026,2026-11-28T09:20:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,655,476,Nemiga,Lynn Vision,1,de_ancient,655,13.0,1.0
 194046,134408,g2-vs-nip-28-11-2026,2026-11-28T09:20:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,793,785,G2,Ninjas in Pyjamas,1,de_ancient,793,13.0,10.0
 194047,134409,liquid-vs-eternal-fire-28-11-2026,2026-11-28T10:10:00.000+00:00,s,1,6268,PGL Major Singapore 2026 Stage 2,790,1527,Liquid,Eternal Fire,1,de_anubis,790,19.0,17.0
