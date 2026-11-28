@@ -84852,13 +84852,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2403965,263449,Chelsea,Tottenham,,
 2403966,263449,Liverpool,Chelsea,,
 2403967,263449,Man City,Arsenal,,
-2404284,263414,Ecuador,Argentina,1,3
-2403637,263414,Colombia,Brazil,3,2
-2403638,263414,Brazil,Ecuador,2,3
-2404285,263414,Argentina,Uruguay,1,3
-2403640,263414,Uruguay,Brazil,1,0
-2403641,263414,Ecuador,Colombia,1,1
-2403642,263414,Colombia,Uruguay,0,0
-2404286,263414,Brazil,Argentina,0,1
+2404284,263414,Ecuador,Argentina,1.0,3.0
+2403637,263414,Colombia,Brazil,3.0,2.0
+2403638,263414,Brazil,Ecuador,2.0,3.0
+2404285,263414,Argentina,Uruguay,1.0,3.0
+2403640,263414,Uruguay,Brazil,1.0,0.0
+2403641,263414,Ecuador,Colombia,1.0,1.0
+2403642,263414,Colombia,Uruguay,0.0,0.0
+2404286,263414,Brazil,Argentina,0.0,1.0
 2404287,263414,Argentina,Colombia,,
 2403645,263414,Uruguay,Ecuador,,
+2402906,263427,Bayern Munchen,Liverpool,2,1
+2404220,263427,Atleti,Real Madrid,0,0
+2404221,263427,Real Madrid,Bayern Munchen,0,0
+2402912,263427,Liverpool,Paris,1,0
+2404222,263427,Paris,Real Madrid,1,0
+2402916,263427,Bayern Munchen,Atleti,1,1
+2402918,263427,Atleti,Paris,3,2
+2404223,263427,Real Madrid,Liverpool,3,0
+2402921,263427,Liverpool,Atleti,,
+2402923,263427,Paris,Bayern Munchen,,
+2402925,263427,Liverpool,Bayern Munchen,,
+2404224,263427,Real Madrid,Atleti,,
+2404225,263427,Bayern Munchen,Real Madrid,,
+2402931,263427,Paris,Liverpool,,
+2404226,263427,Real Madrid,Paris,,
+2402935,263427,Atleti,Bayern Munchen,,
+2402937,263427,Paris,Atleti,,
+2404227,263427,Liverpool,Real Madrid,,
+2402941,263427,Atleti,Liverpool,,
+2402943,263427,Bayern Munchen,Paris,,
+2403898,263471,B Dortmund,Arsenal,0,2
+2403899,263471,Sporting CP,Man City,2,0
+2403900,263471,Man City,B Dortmund,0,0
+2403901,263471,Arsenal,Juventus,2,0
+2403902,263471,Juventus,Man City,4,3
+2403903,263471,B Dortmund,Sporting CP,2,1
+2403904,263471,Sporting CP,Juventus,,
+2403905,263471,Man City,Arsenal,,
+2403906,263471,Arsenal,Sporting CP,,
+2403907,263471,Juventus,B Dortmund,,
+2404108,263475,Atleti,Barcelona,1,0
+2404109,263475,Athletic Club,Villarreal,2,1
+2404110,263475,Villarreal,Atleti,2,0
+2404111,263475,Barcelona,Real Madrid,3,0
+2404112,263475,Real Madrid,Villarreal,,
+2404113,263475,Atleti,Athletic Club,0,0
+2404114,263475,Athletic Club,Real Madrid,,
+2404115,263475,Villarreal,Barcelona,,
+2404116,263475,Barcelona,Athletic Club,,
+2404117,263475,Real Madrid,Atleti,,
+2404118,263475,Barcelona,Atleti,,
+2404119,263475,Villarreal,Athletic Club,,
+2404120,263475,Atleti,Villarreal,,
+2404121,263475,Real Madrid,Barcelona,,
+2404122,263475,Villarreal,Real Madrid,,
+2404123,263475,Athletic Club,Atleti,,
+2404124,263475,Real Madrid,Athletic Club,,
+2404125,263475,Barcelona,Villarreal,,
+2404126,263475,Athletic Club,Barcelona,,
+2404127,263475,Atleti,Real Madrid,,
