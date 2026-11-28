@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 20:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 20:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Clemson Tigers vs South Carolina Gamecocks — 28/11 · 21:00
 

@@ -1,235 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 20:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Wisla vs Motor Lublin — 28/11 · 20:15
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Wisla** @ **1.80** (Bet365) · prob 51% vs casas 51% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.01 - 1.17)  
-1 47% · X 26% · 2 27%  
-1X 73% · X2 53% · 12 74%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 60%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 8% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Wisla ➖✅❌✅➖ | Motor Lublin ✅➖✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Wisla: sin bajas; Motor Lublin: sin bajas  
-• Favorito de las casas: Wisla @ 1.80  
-
-## Servette vs Lausanne — 28/11 · 20:30
-
-👀 candidata · 🇨🇭 Super League · **Empate** @ **3.70** (Bet365) · prob 26% vs casas 26% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.61 - 0.93)  
-1 57% · X 24% · 2 19%  
-1X 81% · X2 43% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 49%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Servette ✅✅❌➖❌ | Lausanne ❌❌❌➖➖  
-• H2H: 24 desde 2012: 10V-5E-9D · 2.8 goles/partido · +2.5 en 50%  
-• Bajas: Servette: sin bajas; Lausanne: sin bajas  
-• Favorito de las casas: Servette @ 1.96  
-
-## Houston Dynamo vs San Jose Earthquakes — 28/11 · 20:30
-
-👀 candidata · 🇺🇸 MLS · **Gana San Jose Earthquakes** @ **3.60** (Bet365) · prob 27% vs casas 27% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 1.14)  
-1 43% · X 28% · 2 30%  
-1X 70% · X2 57% · 12 72%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-0 8%  
-🔎 **Claves**  
-• Forma: Houston Dynamo ➖✅❌❌❌ | San Jose Earthquakes ❌➖✅❌✅  
-• H2H: 29 desde 2012: 15V-5E-9D · 2.8 goles/partido · +2.5 en 59%  
-• Bajas: Houston Dynamo: 0 fuera, 2 duda; San Jose Earthquakes: 0 fuera, 1 duda  
-• Favorito de las casas: Houston Dynamo @ 1.96  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Hannover -0.25 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 49% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Hannover** @ **1.58** (Unibet) · prob 57% vs casas 58% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Hannover** @ **1.38** (Unibet) · prob 69% vs casas 67% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.54** (Unibet) · prob 58% vs casas 60% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.53** (Unibet) · prob 63% vs casas 60% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Osnabruck** @ **1.67** (Unibet) · prob 54% vs casas 55% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
-
-## Osnabruck vs Hannover — 28/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Osnabruck** @ **1.34** (Unibet) · prob 71% vs casas 68% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.58)  
-1 25% · X 28% · 2 48%  
-1X 52% · X2 75% · 12 72%  
-+1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Osnabruck ❌✅❌❌➖ | Hannover ➖❌✅➖✅  
-• H2H: 6 desde 2019: 2V-1E-3D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Osnabruck: sin bajas; Hannover: 0 fuera, 1 duda  
-• Favorito de las casas: Hannover @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.2: total +10.5 45% · Osnabruck +5.5 39% · Hannover +5.5 41%  
-Tarjetas 1.9 - 2.2: total +4.5 41% · Osnabruck +2.5 31% · Hannover +2.5 39%  
-Faltas 10.8 - 11.2: total +22.5 44% · Osnabruck +11.5 39% · Hannover +11.5 44%  
-Tiros a puerta 5.2 - 5.1: total +10.5 45% · Osnabruck +5.5 41% · Hannover +4.5 56%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck → prob. 27%, cuota justa 3.74 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Osnabruck + Menos de 5.5 córners de Osnabruck + Menos de 11.5 faltas de Osnabruck + Menos de 5.5 tiros a puerta de Osnabruck → prob. 17%, cuota justa 5.97  
+Actualizado 28/11/2026 20:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Charleroi vs Beveren — 28/11 · 20:45
 
@@ -10493,6 +10264,313 @@ Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%
 Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
 🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## AEK vs PAOK — 29/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de AEK** @ **1.49** (Unibet) · prob 61% vs casas 60% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.88 - 0.97)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
+Marcadores: 1-1 11% · 1-0 10% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: AEK ✅✅❌✅✅ | PAOK ✅❌✅➖✅  
+• H2H: 52 desde 2005: 18V-15E-19D · 2.2 goles/partido · +2.5 en 37%  
+• Bajas: AEK: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: AEK @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.3: total +9.5 42% · AEK +4.5 63% · PAOK +3.5 41%  
+Tarjetas 2.3 - 2.6: total +5.5 36% · AEK +2.5 40% · PAOK +2.5 47%  
+Faltas 15.2 - 14.2: total +30.5 41% · AEK +15.5 45% · PAOK +15.5 35%  
+Tiros a puerta 5.8 - 3.0: total +7.5 64% · AEK +4.5 67% · PAOK +3.5 35%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas + Más de 4.5 córners de AEK → prob. 21%, cuota justa 4.76  
+
+## AEK vs PAOK — 29/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 5.5 córners de AEK** @ **1.74** (Unibet) · prob 51% vs casas 52% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.88 - 0.97)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
+Marcadores: 1-1 11% · 1-0 10% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: AEK ✅✅❌✅✅ | PAOK ✅❌✅➖✅  
+• H2H: 52 desde 2005: 18V-15E-19D · 2.2 goles/partido · +2.5 en 37%  
+• Bajas: AEK: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: AEK @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.3: total +9.5 42% · AEK +4.5 63% · PAOK +3.5 41%  
+Tarjetas 2.3 - 2.6: total +5.5 36% · AEK +2.5 40% · PAOK +2.5 47%  
+Faltas 15.2 - 14.2: total +30.5 41% · AEK +15.5 45% · PAOK +15.5 35%  
+Tiros a puerta 5.8 - 3.0: total +7.5 64% · AEK +4.5 67% · PAOK +3.5 35%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas + Más de 4.5 córners de AEK → prob. 21%, cuota justa 4.76  
+
+## AEK vs PAOK — 29/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 7.5 córners** @ **1.38** (Unibet) · prob 66% vs casas 65% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.88 - 0.97)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
+Marcadores: 1-1 11% · 1-0 10% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: AEK ✅✅❌✅✅ | PAOK ✅❌✅➖✅  
+• H2H: 52 desde 2005: 18V-15E-19D · 2.2 goles/partido · +2.5 en 37%  
+• Bajas: AEK: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: AEK @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.3: total +9.5 42% · AEK +4.5 63% · PAOK +3.5 41%  
+Tarjetas 2.3 - 2.6: total +5.5 36% · AEK +2.5 40% · PAOK +2.5 47%  
+Faltas 15.2 - 14.2: total +30.5 41% · AEK +15.5 45% · PAOK +15.5 35%  
+Tiros a puerta 5.8 - 3.0: total +7.5 64% · AEK +4.5 67% · PAOK +3.5 35%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas + Más de 4.5 córners de AEK → prob. 21%, cuota justa 4.76  
+
+## AEK vs PAOK — 29/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.60** (Unibet) · prob 57% vs casas 56% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.88 - 0.97)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
+Marcadores: 1-1 11% · 1-0 10% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: AEK ✅✅❌✅✅ | PAOK ✅❌✅➖✅  
+• H2H: 52 desde 2005: 18V-15E-19D · 2.2 goles/partido · +2.5 en 37%  
+• Bajas: AEK: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: AEK @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.3: total +9.5 42% · AEK +4.5 63% · PAOK +3.5 41%  
+Tarjetas 2.3 - 2.6: total +5.5 36% · AEK +2.5 40% · PAOK +2.5 47%  
+Faltas 15.2 - 14.2: total +30.5 41% · AEK +15.5 45% · PAOK +15.5 35%  
+Tiros a puerta 5.8 - 3.0: total +7.5 64% · AEK +4.5 67% · PAOK +3.5 35%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas + Más de 4.5 córners de AEK → prob. 21%, cuota justa 4.76  
+
+## AEK vs PAOK — 29/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de PAOK** @ **2.04** (Unibet) · prob 42% vs casas 44% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.88 - 0.97)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
+Marcadores: 1-1 11% · 1-0 10% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: AEK ✅✅❌✅✅ | PAOK ✅❌✅➖✅  
+• H2H: 52 desde 2005: 18V-15E-19D · 2.2 goles/partido · +2.5 en 37%  
+• Bajas: AEK: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: AEK @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.3: total +9.5 42% · AEK +4.5 63% · PAOK +3.5 41%  
+Tarjetas 2.3 - 2.6: total +5.5 36% · AEK +2.5 40% · PAOK +2.5 47%  
+Faltas 15.2 - 14.2: total +30.5 41% · AEK +15.5 45% · PAOK +15.5 35%  
+Tiros a puerta 5.8 - 3.0: total +7.5 64% · AEK +4.5 67% · PAOK +3.5 35%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas + Más de 4.5 córners de AEK → prob. 21%, cuota justa 4.76  
+
+## AEK vs PAOK — 29/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de PAOK** @ **1.60** (Unibet) · prob 58% vs casas 56% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.88 - 0.97)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 53%  
+Marcadores: 1-1 11% · 1-0 10% · 2-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: AEK ✅✅❌✅✅ | PAOK ✅❌✅➖✅  
+• H2H: 52 desde 2005: 18V-15E-19D · 2.2 goles/partido · +2.5 en 37%  
+• Bajas: AEK: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: AEK @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.3: total +9.5 42% · AEK +4.5 63% · PAOK +3.5 41%  
+Tarjetas 2.3 - 2.6: total +5.5 36% · AEK +2.5 40% · PAOK +2.5 47%  
+Faltas 15.2 - 14.2: total +30.5 41% · AEK +15.5 45% · PAOK +15.5 35%  
+Tiros a puerta 5.8 - 3.0: total +7.5 64% · AEK +4.5 67% · PAOK +3.5 35%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas → prob. 31%, cuota justa 3.20 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de AEK + Menos de 15.5 faltas de PAOK + Menos de 5.5 tarjetas + Más de 4.5 córners de AEK → prob. 21%, cuota justa 4.76  
+
+## Nijmegen vs Twente — 29/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 5.5 córners de Nijmegen** @ **2.80** (Unibet) · prob 36% vs casas 33% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.91)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 86% · +2.5 66% · +3.5 45% · Ambos marcan 67%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖❌✅❌ | Twente ❌✅✅➖✅  
+• H2H: 32 desde 2005: 6V-8E-18D · 3.4 goles/partido · +2.5 en 62%  
+• Bajas: Nijmegen: 1 fuera, 3 duda (Emre Mor); Twente: 0 fuera, 5 duda  
+• Favorito de las casas: Twente @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.3: total +10.5 47% · Nijmegen +5.5 40% · Twente +4.5 57%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Nijmegen +1.5 40% · Twente +1.5 53%  
+Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%  
+Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Nijmegen vs Twente — 29/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de Nijmegen** @ **1.09** (Unibet) · prob 83% vs casas 84% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.91)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 86% · +2.5 66% · +3.5 45% · Ambos marcan 67%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖❌✅❌ | Twente ❌✅✅➖✅  
+• H2H: 32 desde 2005: 6V-8E-18D · 3.4 goles/partido · +2.5 en 62%  
+• Bajas: Nijmegen: 1 fuera, 3 duda (Emre Mor); Twente: 0 fuera, 5 duda  
+• Favorito de las casas: Twente @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.3: total +10.5 47% · Nijmegen +5.5 40% · Twente +4.5 57%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Nijmegen +1.5 40% · Twente +1.5 53%  
+Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%  
+Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Nijmegen vs Twente — 29/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Twente** @ **1.11** (Unibet) · prob 83% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.91)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 86% · +2.5 66% · +3.5 45% · Ambos marcan 67%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖❌✅❌ | Twente ❌✅✅➖✅  
+• H2H: 32 desde 2005: 6V-8E-18D · 3.4 goles/partido · +2.5 en 62%  
+• Bajas: Nijmegen: 1 fuera, 3 duda (Emre Mor); Twente: 0 fuera, 5 duda  
+• Favorito de las casas: Twente @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.3: total +10.5 47% · Nijmegen +5.5 40% · Twente +4.5 57%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Nijmegen +1.5 40% · Twente +1.5 53%  
+Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%  
+Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Nijmegen vs Twente — 29/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Twente** @ **1.36** (Unibet) · prob 69% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.91)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 86% · +2.5 66% · +3.5 45% · Ambos marcan 67%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖❌✅❌ | Twente ❌✅✅➖✅  
+• H2H: 32 desde 2005: 6V-8E-18D · 3.4 goles/partido · +2.5 en 62%  
+• Bajas: Nijmegen: 1 fuera, 3 duda (Emre Mor); Twente: 0 fuera, 5 duda  
+• Favorito de las casas: Twente @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.3: total +10.5 47% · Nijmegen +5.5 40% · Twente +4.5 57%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Nijmegen +1.5 40% · Twente +1.5 53%  
+Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%  
+Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Nijmegen vs Twente — 29/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 11.5 córners** @ **2.88** (Unibet) · prob 34% vs casas 32% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.91)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 86% · +2.5 66% · +3.5 45% · Ambos marcan 67%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖❌✅❌ | Twente ❌✅✅➖✅  
+• H2H: 32 desde 2005: 6V-8E-18D · 3.4 goles/partido · +2.5 en 62%  
+• Bajas: Nijmegen: 1 fuera, 3 duda (Emre Mor); Twente: 0 fuera, 5 duda  
+• Favorito de las casas: Twente @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.3: total +10.5 47% · Nijmegen +5.5 40% · Twente +4.5 57%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Nijmegen +1.5 40% · Twente +1.5 53%  
+Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%  
+Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
+
+## Nijmegen vs Twente — 29/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 75% vs casas 76% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.91)  
+1 25% · X 26% · 2 49%  
+1X 51% · X2 75% · 12 74%  
++1.5 86% · +2.5 66% · +3.5 45% · Ambos marcan 67%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Nijmegen ➖➖❌✅❌ | Twente ❌✅✅➖✅  
+• H2H: 32 desde 2005: 6V-8E-18D · 3.4 goles/partido · +2.5 en 62%  
+• Bajas: Nijmegen: 1 fuera, 3 duda (Emre Mor); Twente: 0 fuera, 5 duda  
+• Favorito de las casas: Twente @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.3: total +10.5 47% · Nijmegen +5.5 40% · Twente +4.5 57%  
+Tarjetas 1.4 - 1.8: total +3.5 38% · Nijmegen +1.5 40% · Twente +1.5 53%  
+Faltas 8.8 - 11.8: total +21.5 41% · Nijmegen +10.5 27% · Twente +11.5 52%  
+Tiros a puerta 4.6 - 5.9: total +10.5 48% · Nijmegen +5.5 32% · Twente +5.5 53%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Nijmegen + Menos de 5.5 tiros a puerta de Nijmegen + Más de 2.5 goles + Menos de 3.5 tarjetas + Menos de 5.5 córners de Nijmegen → prob. 13%, cuota justa 7.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 3.5 tarjetas): cuota Unibet aprox. 2.39 (producto de piernas) · prob. 41% · ventaja -3%  
 
 ## Jagiellonia vs Radomiak Radom — 29/11 · 20:15
 
