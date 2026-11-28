@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 21:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Buffalo Bulls vs Towson Tigers — 28/11 · 21:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 138.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **142.8** puntos · línea 138.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Buffalo Bulls ❌❌✅❌✅ | Towson Tigers ✅✅❌❌✅  
-• H2H: 2 desde 2019: 2-0  
-• Bajas: Buffalo Bulls: sin bajas; Towson Tigers: sin bajas  
-
-## Buffalo Bulls vs Towson Tigers — 28/11 · 21:30
-
-👀 candidata · 🏀 NCAA Basketball · **Buffalo Bulls +3.5** @ **1.94** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Buffalo Bulls cubre +3.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Buffalo Bulls ❌❌✅❌✅ | Towson Tigers ✅✅❌❌✅  
-• H2H: 2 desde 2019: 2-0  
-• Bajas: Buffalo Bulls: sin bajas; Towson Tigers: sin bajas  
-
-## Buffalo Bulls vs Towson Tigers — 28/11 · 21:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Buffalo Bulls** @ **2.40** (DraftKings) · prob 40% vs casas 40% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 62.299 partidos y bajas)  
-Gana Buffalo Bulls 45% · Gana Towson Tigers 55%  
-Casas: Buffalo Bulls 40% · Towson Tigers 60%  
-Hándicap TOW -3.5 · Total puntos 138.5  
-🔎 **Claves**  
-• Forma: Buffalo Bulls ❌❌✅❌✅ | Towson Tigers ✅✅❌❌✅  
-• H2H: 2 desde 2019: 2-0  
-• Bajas: Buffalo Bulls: sin bajas; Towson Tigers: sin bajas  
-• Favorito de las casas: Towson Tigers @ 1.60  
+Actualizado 28/11/2026 21:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisville Cardinals vs Creighton Bluejays — 29/11 · 04:30
 

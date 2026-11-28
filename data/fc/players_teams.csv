@@ -84812,18 +84812,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2404105,263474,Aston Villa,Roma,,
 2404106,263474,Fenerbahce,Aston Villa,,
 2404107,263474,Porto,Salzburg,,
-2403708,263439,Roma,Napoli,2,2
-2403709,263439,Sassuolo,Bologna,0,1
-2403710,263439,Bologna,Roma,1,2
-2403711,263439,Napoli,Juventus,0,3
-2403712,263439,Juventus,Bologna,2,3
-2403713,263439,Roma,Sassuolo,3,1
-2403714,263439,Sassuolo,Juventus,0,3
-2403715,263439,Bologna,Napoli,2,3
-2403716,263439,Napoli,Sassuolo,1,2
-2403717,263439,Juventus,Roma,3,1
-2403718,263439,Napoli,Roma,2,1
-2403719,263439,Bologna,Sassuolo,1,0
+2403708,263439,Roma,Napoli,2.0,2.0
+2403709,263439,Sassuolo,Bologna,0.0,1.0
+2403710,263439,Bologna,Roma,1.0,2.0
+2403711,263439,Napoli,Juventus,0.0,3.0
+2403712,263439,Juventus,Bologna,2.0,3.0
+2403713,263439,Roma,Sassuolo,3.0,1.0
+2403714,263439,Sassuolo,Juventus,0.0,3.0
+2403715,263439,Bologna,Napoli,2.0,3.0
+2403716,263439,Napoli,Sassuolo,1.0,2.0
+2403717,263439,Juventus,Roma,3.0,1.0
+2403718,263439,Napoli,Roma,2.0,1.0
+2403719,263439,Bologna,Sassuolo,1.0,0.0
 2403720,263439,Roma,Bologna,,
 2403721,263439,Juventus,Napoli,,
 2403722,263439,Bologna,Juventus,,
@@ -84832,16 +84832,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2403725,263439,Napoli,Bologna,,
 2403726,263439,Sassuolo,Napoli,,
 2403727,263439,Roma,Juventus,,
-2403948,263449,Man City,Chelsea,0,4
-2403949,263449,Liverpool,Tottenham,0,0
-2403950,263449,Tottenham,Man City,1,1
-2403951,263449,Chelsea,Arsenal,2,2
-2403952,263449,Arsenal,Tottenham,5,1
-2403953,263449,Man City,Liverpool,2,3
-2403954,263449,Liverpool,Arsenal,1,2
-2403955,263449,Tottenham,Chelsea,1,1
-2403956,263449,Chelsea,Liverpool,1,0
-2403957,263449,Arsenal,Man City,0,1
+2403948,263449,Man City,Chelsea,0.0,4.0
+2403949,263449,Liverpool,Tottenham,0.0,0.0
+2403950,263449,Tottenham,Man City,1.0,1.0
+2403951,263449,Chelsea,Arsenal,2.0,2.0
+2403952,263449,Arsenal,Tottenham,5.0,1.0
+2403953,263449,Man City,Liverpool,2.0,3.0
+2403954,263449,Liverpool,Arsenal,1.0,2.0
+2403955,263449,Tottenham,Chelsea,1.0,1.0
+2403956,263449,Chelsea,Liverpool,1.0,0.0
+2403957,263449,Arsenal,Man City,0.0,1.0
 2403958,263449,Chelsea,Man City,,
 2403959,263449,Tottenham,Liverpool,,
 2403960,263449,Man City,Tottenham,,

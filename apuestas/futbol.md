@@ -1,181 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 21:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 2.5 goles** @ **1.85** (Bet365) · prob 53% vs casas 53% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.53** (Unibet) · prob 62% vs casas 60% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 61% vs casas 61% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 2.5 córners de Estrela** @ **1.49** (Unibet) · prob 63% vs casas 62% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Estrela** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Guimaraes** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
-
-## Guimaraes vs Estrela — 28/11 · 21:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Guimaraes** @ **1.60** (Unibet) · prob 57% vs casas 57% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.84 - 0.81)  
-1 61% · X 24% · 2 15%  
-1X 85% · X2 39% · 12 76%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
-Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Guimaraes ➖❌✅➖❌ | Estrela ❌❌❌❌❌  
-• H2H: 6 desde 2023: 5V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Guimaraes: sin bajas; Estrela: 0 fuera, 2 duda  
-• Favorito de las casas: Guimaraes @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 6.3 - 3.5: total +9.5 51% · Guimaraes +5.5 55% · Estrela +4.5 29%  
-Tarjetas 2.3 - 2.8: total +5.5 39% · Guimaraes +2.5 41% · Estrela +2.5 52%  
-Faltas 14.3 - 12.1: total +26.5 48% · Guimaraes +13.5 56% · Estrela +13.5 33%  
-Tiros a puerta 5.3 - 3.1: total +8.5 46% · Guimaraes +4.5 59% · Estrela +3.5 37%  
-🧩 Crear apuesta: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela → prob. 31%, cuota justa 3.26 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Estrela + Menos de 13.5 faltas de Estrela + Menos de 3.5 tiros a puerta de Estrela + Menos de 5.5 tarjetas → prob. 20%, cuota justa 4.91  
+Actualizado 28/11/2026 21:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Philadelphia Union vs New England Revolution — 28/11 · 22:30
 
@@ -9183,6 +9008,8 @@ Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%
 Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
 🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
 
 ## Almeria vs Sp Gijon — 29/11 · 21:00
 
@@ -9208,6 +9035,168 @@ Faltas 12.0 - 12.1: total +26.5 31% · Almeria +13.5 32% · Sp Gijon +13.5 33%
 Tiros a puerta 6.0 - 3.4: total +8.5 58% · Almeria +5.5 53% · Sp Gijon +4.5 27%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sp Gijon + Menos de 6.5 tarjetas + Menos de 26.5 faltas → prob. 38%, cuota justa 2.65 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Sp Gijon + Menos de 6.5 tarjetas + Menos de 26.5 faltas + Menos de 4.5 córners de Sp Gijon + Más de 2.5 goles → prob. 15%, cuota justa 6.65  
+
+## Sociedad vs Sevilla — 29/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Sevilla** @ **1.10** (Unibet) · prob 85% vs casas 83% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.24)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Sociedad ✅✅❌✅❌ | Sevilla ❌✅❌➖➖  
+• H2H: 36 desde 2005: 12V-7E-17D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Sociedad: 1 fuera, 3 duda (Alvaro Odriozola); Sevilla: 1 fuera, 4 duda (Isaac Romero)  
+• Favorito de las casas: Sociedad @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.9: total +10.5 41% · Sociedad +5.5 52% · Sevilla +4.5 36%  
+Tarjetas 2.1 - 2.8: total +4.5 54% · Sociedad +2.5 36% · Sevilla +2.5 54%  
+Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%  
+Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
+🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
+
+## Sociedad vs Sevilla — 29/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 6.5 córners de Sevilla** @ **1.10** (Unibet) · prob 85% vs casas 83% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.24)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Sociedad ✅✅❌✅❌ | Sevilla ❌✅❌➖➖  
+• H2H: 36 desde 2005: 12V-7E-17D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Sociedad: 1 fuera, 3 duda (Alvaro Odriozola); Sevilla: 1 fuera, 4 duda (Isaac Romero)  
+• Favorito de las casas: Sociedad @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.9: total +10.5 41% · Sociedad +5.5 52% · Sevilla +4.5 36%  
+Tarjetas 2.1 - 2.8: total +4.5 54% · Sociedad +2.5 36% · Sevilla +2.5 54%  
+Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%  
+Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
+🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
+
+## Sociedad vs Sevilla — 29/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 4.5 córners de Sociedad** @ **1.50** (Unibet) · prob 64% vs casas 62% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.24)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Sociedad ✅✅❌✅❌ | Sevilla ❌✅❌➖➖  
+• H2H: 36 desde 2005: 12V-7E-17D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Sociedad: 1 fuera, 3 duda (Alvaro Odriozola); Sevilla: 1 fuera, 4 duda (Isaac Romero)  
+• Favorito de las casas: Sociedad @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.9: total +10.5 41% · Sociedad +5.5 52% · Sevilla +4.5 36%  
+Tarjetas 2.1 - 2.8: total +4.5 54% · Sociedad +2.5 36% · Sevilla +2.5 54%  
+Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%  
+Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
+🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
+
+## Sociedad vs Sevilla — 29/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 8.5 córners de Sociedad** @ **1.14** (Unibet) · prob 80% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.24)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Sociedad ✅✅❌✅❌ | Sevilla ❌✅❌➖➖  
+• H2H: 36 desde 2005: 12V-7E-17D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Sociedad: 1 fuera, 3 duda (Alvaro Odriozola); Sevilla: 1 fuera, 4 duda (Isaac Romero)  
+• Favorito de las casas: Sociedad @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.9: total +10.5 41% · Sociedad +5.5 52% · Sevilla +4.5 36%  
+Tarjetas 2.1 - 2.8: total +4.5 54% · Sociedad +2.5 36% · Sevilla +2.5 54%  
+Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%  
+Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
+🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
+
+## Sociedad vs Sevilla — 29/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.16** (Unibet) · prob 82% vs casas 80% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.24)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Sociedad ✅✅❌✅❌ | Sevilla ❌✅❌➖➖  
+• H2H: 36 desde 2005: 12V-7E-17D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Sociedad: 1 fuera, 3 duda (Alvaro Odriozola); Sevilla: 1 fuera, 4 duda (Isaac Romero)  
+• Favorito de las casas: Sociedad @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.9: total +10.5 41% · Sociedad +5.5 52% · Sevilla +4.5 36%  
+Tarjetas 2.1 - 2.8: total +4.5 54% · Sociedad +2.5 36% · Sevilla +2.5 54%  
+Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%  
+Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
+🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
+
+## Sociedad vs Sevilla — 29/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.18** (Unibet) · prob 78% vs casas 78% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.24)  
+1 45% · X 28% · 2 27%  
+1X 73% · X2 55% · 12 72%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Sociedad ✅✅❌✅❌ | Sevilla ❌✅❌➖➖  
+• H2H: 36 desde 2005: 12V-7E-17D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Sociedad: 1 fuera, 3 duda (Alvaro Odriozola); Sevilla: 1 fuera, 4 duda (Isaac Romero)  
+• Favorito de las casas: Sociedad @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.9: total +10.5 41% · Sociedad +5.5 52% · Sevilla +4.5 36%  
+Tarjetas 2.1 - 2.8: total +4.5 54% · Sociedad +2.5 36% · Sevilla +2.5 54%  
+Faltas 12.9 - 13.7: total +25.5 57% · Sociedad +12.5 52% · Sevilla +12.5 60%  
+Tiros a puerta 5.2 - 3.6: total +9.5 39% · Sociedad +5.5 41% · Sevilla +3.5 49%  
+🧩 Crear apuesta: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta → prob. 25%, cuota justa 3.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Sevilla + Menos de 2.5 tarjetas de Sociedad + Menos de 9.5 tiros a puerta + Más de 12.5 faltas de Sevilla → prob. 16%, cuota justa 6.31  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.05 (producto de piernas) · prob. 25% · ventaja -22%  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Sevilla + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.29 (producto de piernas) · prob. 40% · ventaja -8%  
 
 ## Porto vs Sp Lisbon — 29/11 · 21:30
 
