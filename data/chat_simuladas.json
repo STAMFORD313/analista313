@@ -4458,5 +4458,40 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261128024641966601",
+  "creada": "2026-11-28 02:46:41.966643+00:00",
+  "titulo": "Barrido · Combinada cuota 5.1",
+  "legs": [
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-28 14:00:00+00:00",
+    "home": "Inner Circle x Insanity",
+    "away": "Power Rangers",
+    "txt": "Gana Power Rangers",
+    "odds": 2.57,
+    "p": 0.42590337224383923
+   },
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-29 21:25:00+00:00",
+    "home": "San Francisco 49ers",
+    "away": "Seattle Seahawks",
+    "txt": "Gana San Francisco 49ers",
+    "odds": 2.0,
+    "p": 0.5443199999999999
+   }
+  ],
+  "odds": 5.14,
+  "p": 0.23182772357976653,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
