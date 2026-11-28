@@ -84632,14 +84632,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2404202,263422,Man City,Tottenham,,
 2404203,263422,Liverpool,Man City,,
 2402865,263422,Arsenal,Chelsea,,
-2404268,263415,Adelaide United,Melbourne City,2,1
-2403597,263415,Sydney FC,Melbourne Victory,4,0
-2403598,263415,Melbourne Victory,Adelaide United,2,2
-2404269,263415,Melbourne City,Western Sydney Wanderers,1,2
-2403600,263415,Western Sydney Wanderers,Melbourne Victory,2,2
-2403601,263415,Adelaide United,Sydney FC,1,0
-2403602,263415,Sydney FC,Western Sydney Wanderers,0,1
-2404270,263415,Melbourne Victory,Melbourne City,1,1
+2404268,263415,Adelaide United,Melbourne City,2.0,1.0
+2403597,263415,Sydney FC,Melbourne Victory,4.0,0.0
+2403598,263415,Melbourne Victory,Adelaide United,2.0,2.0
+2404269,263415,Melbourne City,Western Sydney Wanderers,1.0,2.0
+2403600,263415,Western Sydney Wanderers,Melbourne Victory,2.0,2.0
+2403601,263415,Adelaide United,Sydney FC,1.0,0.0
+2403602,263415,Sydney FC,Western Sydney Wanderers,0.0,1.0
+2404270,263415,Melbourne Victory,Melbourne City,1.0,1.0
 2404271,263415,Melbourne City,Sydney FC,,
 2403605,263415,Western Sydney Wanderers,Adelaide United,,
 2404272,263415,Melbourne City,Adelaide United,,
@@ -84652,3 +84652,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2404274,263415,Melbourne City,Melbourne Victory,,
 2404275,263415,Sydney FC,Melbourne City,,
 2403615,263415,Adelaide United,Western Sydney Wanderers,,
+2404068,263473,Germany,Portugal,2,0
+2404069,263473,Morocco,Netherlands,5,3
+2404070,263473,Netherlands,Germany,2,1
+2404071,263473,Portugal,Belgium,1,4
+2404072,263473,Belgium,Netherlands,1,3
+2404073,263473,Germany,Morocco,3,1
+2404074,263473,Morocco,Belgium,2,1
+2404075,263473,Netherlands,Portugal,1,0
+2404076,263473,Portugal,Morocco,,
+2404077,263473,Belgium,Germany,,
+2404078,263473,Portugal,Germany,,
+2404079,263473,Netherlands,Morocco,,
+2404080,263473,Germany,Netherlands,,
+2404081,263473,Belgium,Portugal,,
+2404082,263473,Netherlands,Belgium,,
+2404083,263473,Morocco,Germany,,
+2404084,263473,Belgium,Morocco,,
+2404085,263473,Portugal,Netherlands,,
+2404086,263473,Morocco,Portugal,,
+2404087,263473,Germany,Belgium,,

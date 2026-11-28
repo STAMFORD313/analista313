@@ -1,242 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 17:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Rosenborg vs Molde — 28/11 · 18:00
-
-👀 candidata · 🇳🇴 Eliteserien · **Gana Molde** @ **3.30** (Bet365) · prob 29% vs casas 29% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.93 - 1.38)  
-1 50% · X 25% · 2 26%  
-1X 74% · X2 50% · 12 75%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 64%  
-Marcadores: 1-1 10% · 2-1 9% · 2-0 7% · 1-2 7%  
-🔎 **Claves**  
-• Forma: Rosenborg ✅✅✅✅➖ | Molde ✅✅❌➖❌  
-• H2H: 29 desde 2012: 10V-6E-13D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Rosenborg: sin bajas; Molde: sin bajas  
-• Favorito de las casas: Rosenborg @ 1.91  
-
-## Grasshoppers vs Basel — 28/11 · 18:00
-
-👀 candidata · 🇨🇭 Super League · **Gana Basel** @ **2.15** (Bet365) · prob 43% vs casas 43% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.87)  
-1 33% · X 26% · 2 42%  
-1X 58% · X2 67% · 12 74%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 7% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Grasshoppers ❌➖➖➖❌ | Basel ❌➖❌➖❌  
-• H2H: 47 desde 2012: 10V-12E-25D · 2.7 goles/partido · +2.5 en 49%  
-• Bajas: Grasshoppers: sin bajas; Basel: sin bajas  
-• Favorito de las casas: Basel @ 2.15  
-
-## Vaduz vs Zurich — 28/11 · 18:00
-
-👀 candidata · 🇨🇭 Super League · **Gana Vaduz** @ **2.25** (Bet365) · prob 42% vs casas 42% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.91 - 1.60)  
-1 39% · X 26% · 2 35%  
-1X 65% · X2 61% · 12 74%  
-+1.5 87% · +2.5 68% · +3.5 47% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 2-1 9% · 1-2 7% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Vaduz ✅❌➖❌➖ | Zurich ✅✅✅➖➖  
-• H2H: 13 desde 2014: 2V-4E-7D · 3.7 goles/partido · +2.5 en 85%  
-• Bajas: Vaduz: sin bajas; Zurich: sin bajas  
-• Favorito de las casas: Vaduz @ 2.25  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 2.5 goles** @ **1.91** (Bet365) · prob 51% vs casas 51% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Lazio** @ **1.04** (Unibet) · prob 89% vs casas 88% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Lazio** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Torino** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Torino vs Lazio — 28/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 7.5 córners de Torino** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 1.35)  
-1 21% · X 28% · 2 51%  
-1X 49% · X2 79% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 0-1 13% · 0-0 11% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Torino ✅❌❌➖❌ | Lazio ✅✅✅➖✅  
-• H2H: 34 desde 2006: 6V-14E-14D · 2.7 goles/partido · +2.5 en 44%  
-• Bajas: Torino: 1 fuera, 2 duda (Franco Israel); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nuno Tavares)  
-• Favorito de las casas: Lazio @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 4.6: total +9.5 43% · Torino +5.5 32% · Lazio +4.5 47%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Torino +1.5 61% · Lazio +2.5 24%  
-Faltas 11.9 - 9.8: total +22.5 42% · Torino +11.5 52% · Lazio +11.5 29%  
-Tiros a puerta 3.7 - 4.4: total +9.5 30% · Torino +5.5 18% · Lazio +4.5 45%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio → prob. 47%, cuota justa 2.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 5.5 córners de Torino + Menos de 2.5 goles → prob. 21%, cuota justa 4.77  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Torino + Menos de 2.5 goles): cuota Unibet aprox. 2.17 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
+Actualizado 28/11/2026 18:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cercle Brugge vs Mechelen — 28/11 · 18:15
 
@@ -10794,6 +10558,7 @@ Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%
 Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
 
 ## Arsenal vs Man City — 29/11 · 17:30
 
@@ -10818,6 +10583,162 @@ Tarjetas 1.6 - 2.3: total +4.5 36% · Arsenal +2.5 22% · Man City +2.5 40%
 Faltas 11.3 - 11.5: total +22.5 51% · Arsenal +11.5 46% · Man City +11.5 48%  
 Tiros a puerta 4.8 - 3.5: total +9.5 33% · Arsenal +5.5 35% · Man City +4.5 29%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Arsenal + Menos de 4.5 tiros a puerta de Man City + Menos de 10.5 córners → prob. 35%, cuota justa 2.88 (solo vale si la casa paga más)  
+
+## Hoffenheim vs Augsburg — 29/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Augsburg** @ **1.27** (Unibet) · prob 71% vs casas 72% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.19 - 1.53)  
+1 47% · X 26% · 2 27%  
+1X 73% · X2 53% · 12 74%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 70%  
+Marcadores: 2-1 9% · 1-1 9% · 2-2 7% · 3-1 6%  
+🔎 **Claves**  
+• Forma: Hoffenheim ✅✅❌✅❌ | Augsburg ❌➖❌❌✅  
+• H2H: 32 desde 2007: 17V-9E-6D · 2.8 goles/partido · +2.5 en 56%  
+• Bajas: Hoffenheim: 2 fuera, 3 duda (Ozan Kabak, Valentin Gendrey); Augsburg: 3 fuera, 6 duda (Manuel Baum, Kristijan Jakic, Kristijan Jakic)  
+• Favorito de las casas: Hoffenheim @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 4.0: total +10.5 48% · Hoffenheim +5.5 59% · Augsburg +4.5 37%  
+Tarjetas 1.7 - 2.0: total +3.5 49% · Hoffenheim +2.5 24% · Augsburg +2.5 32%  
+Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%  
+Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Augsburg — 29/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Augsburg** @ **1.55** (Unibet) · prob 61% vs casas 59% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.19 - 1.53)  
+1 47% · X 26% · 2 27%  
+1X 73% · X2 53% · 12 74%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 70%  
+Marcadores: 2-1 9% · 1-1 9% · 2-2 7% · 3-1 6%  
+🔎 **Claves**  
+• Forma: Hoffenheim ✅✅❌✅❌ | Augsburg ❌➖❌❌✅  
+• H2H: 32 desde 2007: 17V-9E-6D · 2.8 goles/partido · +2.5 en 56%  
+• Bajas: Hoffenheim: 2 fuera, 3 duda (Ozan Kabak, Valentin Gendrey); Augsburg: 3 fuera, 6 duda (Manuel Baum, Kristijan Jakic, Kristijan Jakic)  
+• Favorito de las casas: Hoffenheim @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 4.0: total +10.5 48% · Hoffenheim +5.5 59% · Augsburg +4.5 37%  
+Tarjetas 1.7 - 2.0: total +3.5 49% · Hoffenheim +2.5 24% · Augsburg +2.5 32%  
+Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%  
+Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Augsburg — 29/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 11.5 córners** @ **1.60** (Unibet) · prob 60% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.19 - 1.53)  
+1 47% · X 26% · 2 27%  
+1X 73% · X2 53% · 12 74%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 70%  
+Marcadores: 2-1 9% · 1-1 9% · 2-2 7% · 3-1 6%  
+🔎 **Claves**  
+• Forma: Hoffenheim ✅✅❌✅❌ | Augsburg ❌➖❌❌✅  
+• H2H: 32 desde 2007: 17V-9E-6D · 2.8 goles/partido · +2.5 en 56%  
+• Bajas: Hoffenheim: 2 fuera, 3 duda (Ozan Kabak, Valentin Gendrey); Augsburg: 3 fuera, 6 duda (Manuel Baum, Kristijan Jakic, Kristijan Jakic)  
+• Favorito de las casas: Hoffenheim @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 4.0: total +10.5 48% · Hoffenheim +5.5 59% · Augsburg +4.5 37%  
+Tarjetas 1.7 - 2.0: total +3.5 49% · Hoffenheim +2.5 24% · Augsburg +2.5 32%  
+Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%  
+Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Augsburg — 29/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 8.5 córners** @ **1.27** (Unibet) · prob 72% vs casas 72% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.19 - 1.53)  
+1 47% · X 26% · 2 27%  
+1X 73% · X2 53% · 12 74%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 70%  
+Marcadores: 2-1 9% · 1-1 9% · 2-2 7% · 3-1 6%  
+🔎 **Claves**  
+• Forma: Hoffenheim ✅✅❌✅❌ | Augsburg ❌➖❌❌✅  
+• H2H: 32 desde 2007: 17V-9E-6D · 2.8 goles/partido · +2.5 en 56%  
+• Bajas: Hoffenheim: 2 fuera, 3 duda (Ozan Kabak, Valentin Gendrey); Augsburg: 3 fuera, 6 duda (Manuel Baum, Kristijan Jakic, Kristijan Jakic)  
+• Favorito de las casas: Hoffenheim @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 4.0: total +10.5 48% · Hoffenheim +5.5 59% · Augsburg +4.5 37%  
+Tarjetas 1.7 - 2.0: total +3.5 49% · Hoffenheim +2.5 24% · Augsburg +2.5 32%  
+Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%  
+Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Augsburg — 29/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Hoffenheim** @ **1.28** (Unibet) · prob 72% vs casas 72% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.19 - 1.53)  
+1 47% · X 26% · 2 27%  
+1X 73% · X2 53% · 12 74%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 70%  
+Marcadores: 2-1 9% · 1-1 9% · 2-2 7% · 3-1 6%  
+🔎 **Claves**  
+• Forma: Hoffenheim ✅✅❌✅❌ | Augsburg ❌➖❌❌✅  
+• H2H: 32 desde 2007: 17V-9E-6D · 2.8 goles/partido · +2.5 en 56%  
+• Bajas: Hoffenheim: 2 fuera, 3 duda (Ozan Kabak, Valentin Gendrey); Augsburg: 3 fuera, 6 duda (Manuel Baum, Kristijan Jakic, Kristijan Jakic)  
+• Favorito de las casas: Hoffenheim @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 4.0: total +10.5 48% · Hoffenheim +5.5 59% · Augsburg +4.5 37%  
+Tarjetas 1.7 - 2.0: total +3.5 49% · Hoffenheim +2.5 24% · Augsburg +2.5 32%  
+Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%  
+Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Augsburg — 29/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 8.5 córners de Hoffenheim** @ **1.30** (Unibet) · prob 73% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.19 - 1.53)  
+1 47% · X 26% · 2 27%  
+1X 73% · X2 53% · 12 74%  
++1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 70%  
+Marcadores: 2-1 9% · 1-1 9% · 2-2 7% · 3-1 6%  
+🔎 **Claves**  
+• Forma: Hoffenheim ✅✅❌✅❌ | Augsburg ❌➖❌❌✅  
+• H2H: 32 desde 2007: 17V-9E-6D · 2.8 goles/partido · +2.5 en 56%  
+• Bajas: Hoffenheim: 2 fuera, 3 duda (Ozan Kabak, Valentin Gendrey); Augsburg: 3 fuera, 6 duda (Manuel Baum, Kristijan Jakic, Kristijan Jakic)  
+• Favorito de las casas: Hoffenheim @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 6.6 - 4.0: total +10.5 48% · Hoffenheim +5.5 59% · Augsburg +4.5 37%  
+Tarjetas 1.7 - 2.0: total +3.5 49% · Hoffenheim +2.5 24% · Augsburg +2.5 32%  
+Faltas 11.3 - 9.0: total +21.5 38% · Hoffenheim +10.5 57% · Augsburg +10.5 29%  
+Tiros a puerta 6.9 - 4.5: total +10.5 57% · Hoffenheim +6.5 52% · Augsburg +4.5 46%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Menos de 10.5 faltas de Augsburg + Menos de 4.5 córners de Augsburg + Más de 10.5 tiros a puerta → prob. 17%, cuota justa 5.91  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Hoffenheim + Más de 2.5 goles + Más de 10.5 tiros a puerta): cuota Unibet aprox. 3.09 (producto de piernas) · prob. 36% · ventaja +12% → 1 u en la banca de simulación  
 
 ## Silkeborg vs Aarhus — 29/11 · 18:00
 
