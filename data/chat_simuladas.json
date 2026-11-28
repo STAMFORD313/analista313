@@ -4122,7 +4122,9 @@
     "away": "Al-Qadisiyah",
     "txt": "Gana Al-Qadisiyah",
     "odds": 2.3,
-    "p": 0.503
+    "p": 0.503,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
@@ -4153,9 +4155,9 @@
   "odds": 6.97,
   "p": 0.1789502448291607,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261124204718636822",
