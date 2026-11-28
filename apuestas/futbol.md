@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 11:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 11:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dresden vs St Pauli — 28/11 · 13:00
 
@@ -11475,6 +11475,163 @@ Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%
 Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
+
+## Corum vs Kocaelispor — 29/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Corum** @ **1.58** (Unibet) · prob 59% vs casas 58% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.14)  
+1 38% · X 30% · 2 33%  
+1X 67% · X2 62% · 12 70%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Corum ✅❌✅❌❌ | Kocaelispor ❌✅➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 2 duda (Berat Ozdemir); Kocaelispor: 0 fuera, 2 duda  
+• Favorito de las casas: Corum @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Corum +5.5 46% · Kocaelispor +4.5 33%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Corum +2.5 32% · Kocaelispor +2.5 44%  
+Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%  
+Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
+
+## Corum vs Kocaelispor — 29/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 6.5 córners de Corum** @ **1.38** (Unibet) · prob 66% vs casas 66% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.14)  
+1 38% · X 30% · 2 33%  
+1X 67% · X2 62% · 12 70%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Corum ✅❌✅❌❌ | Kocaelispor ❌✅➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 2 duda (Berat Ozdemir); Kocaelispor: 0 fuera, 2 duda  
+• Favorito de las casas: Corum @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Corum +5.5 46% · Kocaelispor +4.5 33%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Corum +2.5 32% · Kocaelispor +2.5 44%  
+Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%  
+Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
+
+## Corum vs Kocaelispor — 29/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.41** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.14)  
+1 38% · X 30% · 2 33%  
+1X 67% · X2 62% · 12 70%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Corum ✅❌✅❌❌ | Kocaelispor ❌✅➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 2 duda (Berat Ozdemir); Kocaelispor: 0 fuera, 2 duda  
+• Favorito de las casas: Corum @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Corum +5.5 46% · Kocaelispor +4.5 33%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Corum +2.5 32% · Kocaelispor +2.5 44%  
+Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%  
+Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
+
+## Corum vs Kocaelispor — 29/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.38** (Unibet) · prob 66% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.14)  
+1 38% · X 30% · 2 33%  
+1X 67% · X2 62% · 12 70%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Corum ✅❌✅❌❌ | Kocaelispor ❌✅➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 2 duda (Berat Ozdemir); Kocaelispor: 0 fuera, 2 duda  
+• Favorito de las casas: Corum @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Corum +5.5 46% · Kocaelispor +4.5 33%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Corum +2.5 32% · Kocaelispor +2.5 44%  
+Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%  
+Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
+
+## Corum vs Kocaelispor — 29/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 córners de Kocaelispor** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.14)  
+1 38% · X 30% · 2 33%  
+1X 67% · X2 62% · 12 70%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Corum ✅❌✅❌❌ | Kocaelispor ❌✅➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 2 duda (Berat Ozdemir); Kocaelispor: 0 fuera, 2 duda  
+• Favorito de las casas: Corum @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Corum +5.5 46% · Kocaelispor +4.5 33%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Corum +2.5 32% · Kocaelispor +2.5 44%  
+Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%  
+Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
+
+## Corum vs Kocaelispor — 29/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Kocaelispor** @ **1.37** (Unibet) · prob 67% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.18 - 1.14)  
+1 38% · X 30% · 2 33%  
+1X 67% · X2 62% · 12 70%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 11% · 0-1 11% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Corum ✅❌✅❌❌ | Kocaelispor ❌✅➖✅➖  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 2 duda (Berat Ozdemir); Kocaelispor: 0 fuera, 2 duda  
+• Favorito de las casas: Corum @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Corum +5.5 46% · Kocaelispor +4.5 33%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Corum +2.5 32% · Kocaelispor +2.5 44%  
+Faltas 15.2 - 12.6: total +26.5 57% · Corum +13.5 64% · Kocaelispor +13.5 39%  
+Tiros a puerta 5.0 - 3.6: total +9.5 37% · Corum +5.5 39% · Kocaelispor +4.5 31%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor → prob. 34%, cuota justa 2.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Kocaelispor + Menos de 2.5 tarjetas de Corum + Menos de 4.5 córners de Kocaelispor + Más de 13.5 faltas de Corum + Menos de 2.5 goles → prob. 14%, cuota justa 7.35  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Kocaelispor + Menos de 2.5 goles): cuota Unibet aprox. 2.52 (producto de piernas) · prob. 40% · ventaja -0%  
 
 ## Den Haag vs Utrecht — 29/11 · 12:15
 

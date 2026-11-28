@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 28/11/2026 11:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 11:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MASONIC vs DONSTU — 28/11 · 12:30
 
