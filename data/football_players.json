@@ -2,7 +2,7 @@
  "alpha": 0.05,
  "k": 12.0,
  "sub_w": 0.25,
- "n_test": 177710,
+ "n_test": 177754,
  "stats": {
   "goles": {
    "ll": 0.2708,
@@ -17,14 +17,14 @@
    "se_propia": 0.0008
   },
   "cards": {
-   "ll": 0.4148,
+   "ll": 0.4147,
    "ll_media": 0.4245,
    "ll_propia": 0.4363,
    "se_propia": 0.0006
   },
   "asist": {
-   "ll": 0.2359,
-   "ll_media": 0.2497,
+   "ll": 0.236,
+   "ll_media": 0.2498,
    "ll_propia": 0.2442,
    "se_propia": 0.0004
   }
