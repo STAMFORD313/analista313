@@ -1,57 +1,5 @@
 {
  "analyzed": [
-  "nba|2026-11-20|Memphis Grizzlies|Golden State Warriors",
-  "nba|2026-11-20|Milwaukee Bucks|Portland Trail Blazers",
-  "nba|2026-11-20|Minnesota Timberwolves|New York Knicks",
-  "nba|2026-11-20|San Antonio Spurs|LA Clippers",
-  "nfl|2026-11-20|Houston Texans|Indianapolis Colts",
-  "nhl|2026-11-20|Toronto Maple Leafs|Los Angeles Kings",
-  "nhl|2026-11-20|Ottawa Senators|Philadelphia Flyers",
-  "nhl|2026-11-20|Pittsburgh Penguins|St. Louis Blues",
-  "nhl|2026-11-20|Washington Capitals|Buffalo Sabres",
-  "nhl|2026-11-20|Carolina Hurricanes|Montreal Canadiens",
-  "nhl|2026-11-20|Winnipeg Jets|New York Islanders",
-  "nhl|2026-11-20|Tampa Bay Lightning|Edmonton Oilers",
-  "nhl|2026-11-20|Chicago Blackhawks|Columbus Blue Jackets",
-  "nhl|2026-11-20|Calgary Flames|Minnesota Wild",
-  "nhl|2026-11-20|Colorado Avalanche|Anaheim Ducks",
-  "nhl|2026-11-20|Seattle Kraken|Vancouver Canucks",
-  "nhl|2026-11-20|Vegas Golden Knights|Dallas Stars",
-  "cfb|2026-11-20|Temple Owls|Rice Owls",
-  "cbb|2026-11-20|Toledo Rockets|Robert Morris Colonials",
-  "cbb|2026-11-20|Northern Kentucky Norse|Berea Mountaineers",
-  "cbb|2026-11-20|Grambling Tigers|Southern Miss Golden Eagles",
-  "cbb|2026-11-20|SIU Edwardsville Cougars|North Park Vikings",
-  "cbb|2026-11-20|Quinnipiac Bobcats|Maine Black Bears",
-  "cbb|2026-11-20|Jacksonville Dolphins|Little Rock Trojans",
-  "cbb|2026-11-20|High Point Panthers|Montana State Bobcats",
-  "cbb|2026-11-20|Ohio State Buckeyes|UMBC Retrievers",
-  "cbb|2026-11-20|American University Eagles|Mary Baldwin Fighting Squirrels",
-  "cbb|2026-11-20|St. Bonaventure Bonnies|Buffalo Bulls",
-  "cbb|2026-11-20|Butler Bulldogs|Northeastern Huskies",
-  "cbb|2026-11-20|North Alabama Lions|Tusculum Pioneers",
-  "cbb|2026-11-20|Drake Bulldogs|Charleston Cougars",
-  "cbb|2026-11-20|Louisiana Tech Bulldogs|Tulane Green Wave",
-  "cbb|2026-11-20|Texas Longhorns|Southern Utah Thunderbirds",
-  "cbb|2026-11-20|Louisville Cardinals|Stetson Hatters",
-  "cbb|2026-11-20|North Dakota Fighting Hawks|Mayville State Comets",
-  "cbb|2026-11-20|Illinois State Redbirds|Eureka Red Devils",
-  "cbb|2026-11-20|Houston Christian Huskies|Georgia Southern Eagles",
-  "cbb|2026-11-20|St. Thomas Tommies|Southeast Missouri State Redhawks",
-  "cbb|2026-11-20|TCU Horned Frogs|Texas A&M Aggies",
-  "cbb|2026-11-20|Wisconsin Badgers|Seton Hall Pirates",
-  "cbb|2026-11-20|Oregon Ducks|Oregon State Beavers",
-  "cbb|2026-11-20|Pepperdine Waves|UC Santa Barbara Gauchos",
-  "cbb|2026-11-20|Washington Huskies|Utah Tech Trailblazers",
-  "cbb|2026-11-20|New Mexico State Aggies|UTEP Miners",
-  "cbb|2026-11-20|Portland State Vikings|Northwest Indian RedHawks",
-  "cbb|2026-11-20|Stanford Cardinal|Sacramento State Hornets",
-  "cbb|2026-11-20|California Golden Bears|East Texas A&M Lions",
-  "cbb|2026-11-20|Santa Clara Broncos|VCU Rams",
-  "cbb|2026-11-20|USC Trojans|Tarleton State Texans",
-  "atp|2026-11-20|Daniil Medvedev|Frances Tiafoe",
-  "atp|2026-11-20|Carlos Alcaraz|Flavio Cobolli",
-  "BRA|2026-11-20|Sao Paulo|Fluminense",
   "nba|2026-11-21|Atlanta Hawks|Charlotte Hornets",
   "nba|2026-11-21|Brooklyn Nets|Orlando Magic",
   "nba|2026-11-21|Cleveland Cavaliers|Indiana Pacers",
@@ -61,32 +9,11 @@
   "nba|2026-11-21|Utah Jazz|Phoenix Suns",
   "nba|2026-11-21|Denver Nuggets|Houston Rockets",
   "nba|2026-11-21|Los Angeles Lakers|Sacramento Kings",
-  "cfb|2026-11-20|UCF Knights|Iowa State Cyclones",
   "cfb|2026-11-21|Duke Blue Devils|Clemson Tigers",
   "cfb|2026-11-21|Toledo Rockets|Bowling Green Falcons",
   "cfb|2026-11-21|Michigan State Spartans|Oregon Ducks",
   "cfb|2026-11-21|Air Force Falcons|UTEP Miners",
   "cfb|2026-11-21|Wyoming Cowboys|New Mexico Lobos",
-  "cbb|2026-11-20|William & Mary Tribe|Averett Cougars",
-  "cbb|2026-11-20|Maryland Eastern Shore Hawks|Bloomfield Deacons",
-  "cbb|2026-11-20|Florida State Seminoles|Green Bay Phoenix",
-  "cbb|2026-11-20|Minnesota Golden Gophers|Oklahoma State Cowboys",
-  "cbb|2026-11-20|Middle Tennessee Blue Raiders|Temple Owls",
-  "cbb|2026-11-20|UAB Blazers|George Washington Revolutionaries",
-  "cbb|2026-11-20|Virginia Tech Hokies|Northwestern Wildcats",
-  "cbb|2026-11-20|UAlbany Great Danes|Western Illinois Leathernecks",
-  "cbb|2026-11-20|Stephen F. Austin Lumberjacks|Indiana State Sycamores",
-  "cbb|2026-11-20|Idaho State Bengals|South Dakota State Jackrabbits",
-  "cbb|2026-11-20|Liberty Flames|Rhode Island Rams",
-  "cbb|2026-11-20|Miami Hurricanes|Manhattan Jaspers",
-  "cbb|2026-11-20|Utah Utes|Dayton Flyers",
-  "cbb|2026-11-20|Canisius Golden Griffins|Mercyhurst Lakers",
-  "cbb|2026-11-20|Southern Illinois Salukis|UT Martin Skyhawks",
-  "cbb|2026-11-20|Bryant Bulldogs|Worcester State Lancers",
-  "cbb|2026-11-20|Incarnate Word Cardinals|Central Baptist Mustangs",
-  "cbb|2026-11-20|Akron Zips|WVU Tech Golden Bears",
-  "cbb|2026-11-20|Cal State Northridge Matadors|Delaware Blue Hens",
-  "cbb|2026-11-20|App State Mountaineers|North Texas Mean Green",
   "cbb|2026-11-21|Virginia Cavaliers|Loyola Maryland Greyhounds",
   "cbb|2026-11-21|Tennessee Volunteers|Coastal Carolina Chanticleers",
   "cbb|2026-11-21|Western Kentucky Hilltoppers|Richmond Spiders",
@@ -267,14 +194,8 @@
   "cbb|2026-11-22|Texas Southern Tigers|LSU New Orleans Privateers",
   "cbb|2026-11-22|Pacific Tigers|Bradley Braves",
   "cbb|2026-11-22|Duke Blue Devils|Washington State Cougars",
-  "wta|2026-11-20|Rebeka Masarova|Laura Samson",
   "cbb|2026-11-21|Pepperdine Waves|West Coast Baptist Eagles",
-  "cbb|2026-11-20|Kansas Jayhawks|Houston Cougars",
-  "cbb|2026-11-20|UNLV Rebels|Rutgers Scarlet Knights",
-  "cbb|2026-11-20|George Washington Revolutionaries|UAB Blazers",
   "ufc|2026-11-21|Shoaib Yousaf|John Mitchell",
-  "wta|2026-11-20|Lucia Bronzetti|Valeriya Strakhova",
-  "wta|2026-11-20|Leyre Romero Gormaz|Irene Burillo",
   "nba|2026-11-22|Atlanta Hawks|Detroit Pistons",
   "nba|2026-11-22|Miami Heat|Oklahoma City Thunder",
   "nba|2026-11-23|Washington Wizards|Orlando Magic",
@@ -338,17 +259,8 @@
   "cbb|2026-11-23|Saint Mary's Gaels|Menlo Oaks",
   "cbb|2026-11-23|UC San Diego Tritons|Seattle U Redhawks",
   "cbb|2026-11-23|Loyola Chicago Ramblers|San José State Spartans",
-  "wta|2026-11-20|Guiomar Maristany Zuleta De Reales|Andrea Lazaro Garcia",
   "cbb|2026-11-21|Murray State Racers|Wisconsin Badgers",
   "cbb|2026-11-21|NC State Wolfpack|Seton Hall Pirates",
-  "JPN|2026-11-20|Kashima Antlers|Shimizu S-Pulse",
-  "JPN|2026-11-20|Kashiwa Reysol|Chiba",
-  "JPN|2026-11-20|Vissel Kobe|Mito",
-  "POL|2026-11-20|Piast Gliwice|Korona Kielce",
-  "DNK|2026-11-20|Aarhus|Lyngby",
-  "NOR|2026-11-20|Molde|Bodo/Glimt",
-  "POL|2026-11-20|Pogon Szczecin|Slask Wroclaw",
-  "ARG|2026-11-20|Velez Sarsfield|Belgrano",
   "MEX|2026-11-21|Puebla|Atl. San Luis",
   "MEX|2026-11-21|Juarez|Atlas",
   "MEX|2026-11-21|Club Tijuana|Atlante",
@@ -414,19 +326,6 @@
   "BRA|2026-11-22|Bragantino|Vasco",
   "MEX|2026-11-22|Guadalajara Chivas|Cruz Azul",
   "USA|2026-11-22|Chicago Fire|Charlotte",
-  "D2|2026-11-20|Bielefeld|Magdeburg",
-  "D2|2026-11-20|Darmstadt|Heidenheim",
-  "F2|2026-11-20|Annecy|Clermont",
-  "F2|2026-11-20|Guingamp|Rodez",
-  "F2|2026-11-20|Metz|Boulogne",
-  "F2|2026-11-20|Nancy|Dijon",
-  "F2|2026-11-20|Red Star|Pau FC",
-  "D1|2026-11-20|Bayern Munich|FC Koln",
-  "I2|2026-11-20|Verona|Cesena",
-  "SP2|2026-11-20|Andorra|Leganes",
-  "B1|2026-11-20|Cercle Brugge|Westerlo",
-  "F1|2026-11-20|Troyes|Le Havre",
-  "SP1|2026-11-20|Ath Bilbao|Espanol",
   "T1|2026-11-21|Genclerbirligi|Gaziantep",
   "D2|2026-11-21|Hannover|Greuther Furth",
   "D2|2026-11-21|Nurnberg|Braunschweig",
@@ -1521,10 +1420,7 @@
   "cbb|2026-11-27|Vermont Catamounts|Merrimack Warriors",
   "cbb|2026-11-27|Hampton Pirates|UMass Lowell River Hawks",
   "wta|2026-11-28|Guiomar Maristany Zuleta De Reales|Varvara Lepchenko",
-  "fc|2393723",
-  "fc|2393585",
-  "fc|2393955",
-  "cs2|133418",
+  "wta|2026-11-28|Veronika Erjavec|Julia Riera",
   "cs2|133417",
   "dota2|134337",
   "fc|2393957",
@@ -2521,11 +2417,56 @@
   "fc|2401358",
   "fc|2401668",
   "fc|2402461",
-  "wta|2026-11-28|Veronika Erjavec|Julia Riera",
   "cs2|135039",
   "fc|2402335",
   "fc|2402336",
-  "fc|2402341"
+  "fc|2402341",
+  "MEX|2026-11-30|Guadalajara Chivas|Pachuca",
+  "MEX|2026-11-30|Cruz Azul|Club Leon",
+  "T1|2026-11-30|Goztep|Trabzonspor",
+  "I1|2026-11-30|Lecce|Atalanta",
+  "T1|2026-11-30|Besiktas|Galatasaray",
+  "DNK|2026-11-30|Odense|Nordsjaelland",
+  "NOR|2026-11-30|Lillestrom|HamKam",
+  "POL|2026-11-30|Korona Kielce|Cracovia",
+  "I2|2026-11-30|Catanzaro|Avellino",
+  "SP2|2026-11-30|Oviedo|Celta B",
+  "I1|2026-11-30|Cagliari|Milan",
+  "SP1|2026-11-30|Espanol|Getafe",
+  "P1|2026-11-30|Benfica|Famalicao",
+  "P1|2026-11-30|Casa Pia|Sp Braga",
+  "nba|2026-12-01|Charlotte Hornets|Washington Wizards",
+  "nba|2026-12-01|Detroit Pistons|Denver Nuggets",
+  "nba|2026-12-01|Brooklyn Nets|Oklahoma City Thunder",
+  "nba|2026-12-01|Houston Rockets|Los Angeles Lakers",
+  "nba|2026-12-01|Dallas Mavericks|Boston Celtics",
+  "nba|2026-12-01|Milwaukee Bucks|San Antonio Spurs",
+  "nba|2026-12-01|Sacramento Kings|New Orleans Pelicans",
+  "nfl|2026-12-01|Tampa Bay Buccaneers|Carolina Panthers",
+  "nhl|2026-11-30|Nashville Predators|Ottawa Senators",
+  "nhl|2026-12-01|New York Rangers|Carolina Hurricanes",
+  "nhl|2026-12-01|Pittsburgh Penguins|Columbus Blue Jackets",
+  "nhl|2026-12-01|Toronto Maple Leafs|Philadelphia Flyers",
+  "nhl|2026-12-01|Winnipeg Jets|Chicago Blackhawks",
+  "nhl|2026-12-01|Utah Mammoth|Montreal Canadiens",
+  "cbb|2026-11-30|Texas A&M-Corpus Christi Islanders|Southwestern Adventist Knights",
+  "cbb|2026-11-30|UConn Huskies|Rider Broncs",
+  "cbb|2026-12-01|Kennesaw State Owls|Florida A&M Rattlers",
+  "cbb|2026-12-01|Coppin State Eagles|Central Penn Knights",
+  "cbb|2026-12-01|Loyola Maryland Greyhounds|Hartwick Hawks",
+  "cbb|2026-12-01|Fairleigh Dickinson Knights|Binghamton Bearcats",
+  "cbb|2026-12-01|McNeese Cowboys|Champion Christian Tigers",
+  "cbb|2026-12-01|Wichita State Shockers|Southeast Missouri State Redhawks",
+  "cbb|2026-12-01|Missouri State Bears|Lindenwood Lions",
+  "cbb|2026-12-01|Murray State Racers|Washington State Cougars",
+  "cbb|2026-12-01|South Dakota Coyotes|Montana State Bobcats",
+  "cbb|2026-12-01|Houston Christian Huskies|Western Illinois Leathernecks",
+  "cbb|2026-12-01|Kansas City Roos|Peru State PERU STATE",
+  "cbb|2026-12-01|Evansville Purple Aces|Chicago State Cougars",
+  "cbb|2026-12-01|Arizona State Sun Devils|Montana Grizzlies",
+  "fc|2402345",
+  "fc|2401559",
+  "fc|2401562"
  ],
  "signals": [
   {
@@ -6514,81 +6455,6 @@
   },
   {
    "market": "over",
-   "line": 141.5,
-   "odds": 1.926,
-   "book": "DraftKings",
-   "p": 0.496,
-   "implied": 0.496,
-   "edge": -0.045,
-   "expected": 147.6,
-   "key": "cbb|2026-11-25|High Point Panthers|Duquesne Dukes",
-   "match": "High Point Panthers vs Duquesne Dukes",
-   "start": "2026-11-25T00:30Z",
-   "pick": "Más de 141.5 puntos",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "High Point Panthers vs Duquesne Dukes (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 147.6 frente a línea 141.5. Forma High Point Panthers ✅✅✅✅✅, Duquesne Dukes ✅✅✅✅❌. H2H sin precedentes. Bajas: High Point Panthers: sin bajas; Duquesne Dukes: sin bajas.",
-   "captured": "2026-11-24T23:25",
-   "version": "3526677",
-   "bajas": "High Point Panthers: sin bajas; Duquesne Dukes: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "75-70",
-   "close_p": 0.5,
-   "logged": true
-  },
-  {
-   "market": "sph",
-   "odds": 1.926,
-   "book": "DraftKings",
-   "p": 0.496,
-   "implied": 0.496,
-   "edge": -0.045,
-   "line": -10.5,
-   "key": "cbb|2026-11-25|High Point Panthers|Duquesne Dukes",
-   "match": "High Point Panthers vs Duquesne Dukes",
-   "start": "2026-11-25T00:30Z",
-   "pick": "High Point Panthers -10.5",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "High Point Panthers vs Duquesne Dukes (🏀 NCAA Basketball). Hándicap High Point Panthers -10.5: margen esperado desde el Elo (gana High Point Panthers 90%). Forma High Point Panthers ✅✅✅✅✅, Duquesne Dukes ✅✅✅✅❌. H2H sin precedentes. Bajas: High Point Panthers: sin bajas; Duquesne Dukes: sin bajas.",
-   "captured": "2026-11-24T23:25",
-   "version": "3526677",
-   "bajas": "High Point Panthers: sin bajas; Duquesne Dukes: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": false,
-   "score": "75-70",
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.182,
-   "book": "DraftKings",
-   "p": 0.812,
-   "implied": 0.812,
-   "edge": -0.04,
-   "key": "cbb|2026-11-25|High Point Panthers|Duquesne Dukes",
-   "match": "High Point Panthers vs Duquesne Dukes",
-   "pick": "High Point Panthers",
-   "start": "2026-11-25T00:30Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "High Point Panthers vs Duquesne Dukes (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: High Point Panthers 90%, Duquesne Dukes 10%. Cuotas DraftKings 1.182/5.1, hándicap HPU -10.5, total 141.5. Forma High Point Panthers ✅✅✅✅✅, Duquesne Dukes ✅✅✅✅❌. H2H sin precedentes. Bajas High Point Panthers: ninguna. Bajas Duquesne Dukes: ninguna.",
-   "captured": "2026-11-24T23:25",
-   "version": "3526677",
-   "bajas": "High Point Panthers: sin bajas; Duquesne Dukes: sin bajas",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "75-70",
-   "close_p": 0.821,
-   "logged": true
-  },
-  {
-   "market": "over",
    "line": 149.5,
    "odds": 1.893,
    "book": "DraftKings",
@@ -7428,7 +7294,11 @@
    "version": "de7eb2c",
    "bajas": "Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-26",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7449,7 +7319,11 @@
    "version": "de7eb2c",
    "bajas": "Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-26",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7469,7 +7343,11 @@
    "version": "de7eb2c",
    "bajas": "Florida State Seminoles: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-26",
+   "close_p": 0.3137,
+   "logged": true
   },
   {
    "market": "over",
@@ -7566,7 +7444,11 @@
    "version": "de7eb2c",
    "bajas": "San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-38",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7587,7 +7469,11 @@
    "version": "de7eb2c",
    "bajas": "San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-38",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -7607,7 +7493,11 @@
    "version": "de7eb2c",
    "bajas": "San José State Spartans: sin bajas; North Dakota State Bison: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-38",
+   "close_p": 0.7733,
+   "logged": true
   },
   {
    "market": "over",
@@ -7687,15 +7577,6 @@
    "pick": "Más de 40.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>44.1</b> puntos · línea 40.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅",
-    "• H2H: 2 desde 2024: 0-2",
-    "• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas"
-   ],
    "context": "Texas A&M Aggies vs Texas Longhorns (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 44.1 frente a línea 40.5. Forma Texas A&M Aggies ✅❌❌❌❌, Texas Longhorns ✅✅✅✅✅. H2H 2 desde 2024: 0-2. Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas.",
    "captured": "2026-11-25T00:26",
    "version": "de7eb2c",
@@ -7717,14 +7598,6 @@
    "pick": "Texas A&M Aggies +11.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Texas A&amp;M Aggies cubre +11.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅",
-    "• H2H: 2 desde 2024: 0-2",
-    "• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas"
-   ],
    "context": "Texas A&M Aggies vs Texas Longhorns (🏈 NCAA Football). Hándicap Texas A&M Aggies +11.5: margen esperado desde el Elo (gana Texas A&M Aggies 13%). Forma Texas A&M Aggies ✅❌❌❌❌, Texas Longhorns ✅✅✅✅✅. H2H 2 desde 2024: 0-2. Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas.",
    "captured": "2026-11-25T00:26",
    "version": "de7eb2c",
@@ -7745,18 +7618,6 @@
    "start": "2026-11-28T00:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
-    "Gana Texas A&amp;M Aggies 13% · Gana Texas Longhorns 87%",
-    "Casas: Texas A&amp;M Aggies 21% · Texas Longhorns 79%",
-    "Hándicap TEX -11.5 · Total puntos 40.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅",
-    "• H2H: 2 desde 2024: 0-2",
-    "• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas",
-    "• Favorito de las casas: Texas Longhorns @ 1.22"
-   ],
    "context": "Texas A&M Aggies vs Texas Longhorns (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Texas A&M Aggies 13%, Texas Longhorns 87%. Cuotas DraftKings 4.5/1.22, hándicap TEX -11.5, total 40.5. Forma Texas A&M Aggies ✅❌❌❌❌, Texas Longhorns ✅✅✅✅✅. H2H 2 desde 2024: 0-2. Bajas Texas A&M Aggies: ninguna. Bajas Texas Longhorns: ninguna.",
    "captured": "2026-11-25T00:26",
    "version": "de7eb2c",
@@ -7779,15 +7640,6 @@
    "pick": "Más de 37.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>41.8</b> puntos · línea 37.5",
-    "Más 49% · Menos 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅",
-    "• H2H: 10 desde 2016: 5-5",
-    "• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas"
-   ],
    "context": "Wisconsin Badgers vs Minnesota Golden Gophers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 41.8 frente a línea 37.5. Forma Wisconsin Badgers ✅❌✅❌✅, Minnesota Golden Gophers ✅❌❌❌✅. H2H 10 desde 2016: 5-5. Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas.",
    "captured": "2026-11-25T00:26",
    "version": "de7eb2c",
@@ -7809,14 +7661,6 @@
    "pick": "Wisconsin Badgers -7.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Wisconsin Badgers cubre -7.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅",
-    "• H2H: 10 desde 2016: 5-5",
-    "• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas"
-   ],
    "context": "Wisconsin Badgers vs Minnesota Golden Gophers (🏈 NCAA Football). Hándicap Wisconsin Badgers -7.5: margen esperado desde el Elo (gana Wisconsin Badgers 67%). Forma Wisconsin Badgers ✅❌✅❌✅, Minnesota Golden Gophers ✅❌❌❌✅. H2H 10 desde 2016: 5-5. Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas.",
    "captured": "2026-11-25T00:26",
    "version": "de7eb2c",
@@ -7837,18 +7681,6 @@
    "start": "2026-11-28T00:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.655 partidos y bajas)",
-    "Gana Wisconsin Badgers 67% · Gana Minnesota Golden Gophers 33%",
-    "Casas: Wisconsin Badgers 72% · Minnesota Golden Gophers 28%",
-    "Hándicap WIS -7.5 · Total puntos 37.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅",
-    "• H2H: 10 desde 2016: 5-5",
-    "• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas",
-    "• Favorito de las casas: Wisconsin Badgers @ 1.33"
-   ],
    "context": "Wisconsin Badgers vs Minnesota Golden Gophers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Wisconsin Badgers 67%, Minnesota Golden Gophers 33%. Cuotas DraftKings 1.328/3.45, hándicap WIS -7.5, total 37.5. Forma Wisconsin Badgers ✅❌✅❌✅, Minnesota Golden Gophers ✅❌❌❌✅. H2H 10 desde 2016: 5-5. Bajas Wisconsin Badgers: ninguna. Bajas Minnesota Golden Gophers: ninguna.",
    "captured": "2026-11-25T00:26",
    "version": "de7eb2c",
@@ -25269,7 +25101,12 @@
    "version": "5de5f80",
    "bajas": "Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25290,7 +25127,12 @@
    "version": "5de5f80",
    "bajas": "Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25311,7 +25153,12 @@
    "version": "5de5f80",
    "bajas": "Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25332,7 +25179,12 @@
    "version": "5de5f80",
    "bajas": "Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25353,7 +25205,12 @@
    "version": "5de5f80",
    "bajas": "Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25374,7 +25231,12 @@
    "version": "5de5f80",
    "bajas": "Alanyaspor: 2 fuera, 0 duda (Nuno Lima, Fatih Aksoy); Konyaspor: 1 fuera, 1 duda (Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -25416,7 +25278,12 @@
    "version": "5de5f80",
    "bajas": "Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25437,7 +25304,12 @@
    "version": "5de5f80",
    "bajas": "Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25458,7 +25330,12 @@
    "version": "5de5f80",
    "bajas": "Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25479,7 +25356,12 @@
    "version": "5de5f80",
    "bajas": "Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25500,7 +25382,12 @@
    "version": "5de5f80",
    "bajas": "Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25521,7 +25408,12 @@
    "version": "5de5f80",
    "bajas": "Rizespor: 0 fuera, 4 duda; Kasimpasa: 2 fuera, 1 duda (Ayberk Karapo, Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25562,7 +25454,12 @@
    "version": "5de5f80",
    "bajas": "Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25583,7 +25480,12 @@
    "version": "5de5f80",
    "bajas": "Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25604,7 +25506,12 @@
    "version": "5de5f80",
    "bajas": "Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25625,7 +25532,12 @@
    "version": "5de5f80",
    "bajas": "Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25646,7 +25558,12 @@
    "version": "5de5f80",
    "bajas": "Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25667,7 +25584,12 @@
    "version": "5de5f80",
    "bajas": "Bochum: 1 fuera, 4 duda (Tom Meyer); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -25708,7 +25630,12 @@
    "version": "5de5f80",
    "bajas": "Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25729,7 +25656,12 @@
    "version": "5de5f80",
    "bajas": "Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25750,7 +25682,12 @@
    "version": "5de5f80",
    "bajas": "Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25771,7 +25708,12 @@
    "version": "5de5f80",
    "bajas": "Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25792,7 +25734,12 @@
    "version": "5de5f80",
    "bajas": "Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25813,7 +25760,12 @@
    "version": "5de5f80",
    "bajas": "Heidenheim: 0 fuera, 2 duda; Nurnberg: 2 fuera, 3 duda (Rafael Lubach, Mohamed Ali Zoma)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25854,7 +25806,12 @@
    "version": "5de5f80",
    "bajas": "Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25875,7 +25832,12 @@
    "version": "5de5f80",
    "bajas": "Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25896,7 +25858,12 @@
    "version": "5de5f80",
    "bajas": "Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25917,7 +25884,12 @@
    "version": "5de5f80",
    "bajas": "Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25938,7 +25910,12 @@
    "version": "5de5f80",
    "bajas": "Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25959,7 +25936,12 @@
    "version": "5de5f80",
    "bajas": "Groningen: 2 fuera, 0 duda (Etienne Vaessen, Rijk Janse); Willem II: 2 fuera, 3 duda (Nathan Tjoe-A-On, Amine Lachkar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26021,7 +26003,12 @@
    "version": "5de5f80",
    "bajas": "Leganes: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26042,7 +26029,12 @@
    "version": "5de5f80",
    "bajas": "Leganes: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26063,7 +26055,12 @@
    "version": "5de5f80",
    "bajas": "Leganes: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26084,7 +26081,12 @@
    "version": "5de5f80",
    "bajas": "Leganes: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26105,7 +26107,12 @@
    "version": "5de5f80",
    "bajas": "Leganes: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26126,7 +26133,12 @@
    "version": "5de5f80",
    "bajas": "Leganes: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26188,7 +26200,12 @@
    "version": "5de5f80",
    "bajas": "Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26209,7 +26226,12 @@
    "version": "5de5f80",
    "bajas": "Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26230,7 +26252,12 @@
    "version": "5de5f80",
    "bajas": "Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26251,7 +26278,12 @@
    "version": "5de5f80",
    "bajas": "Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26272,7 +26304,12 @@
    "version": "5de5f80",
    "bajas": "Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26293,7 +26330,12 @@
    "version": "5de5f80",
    "bajas": "Brest: 0 fuera, 3 duda; Paris FC: 1 fuera, 0 duda (Mamadou Mbow)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26335,7 +26377,12 @@
    "version": "5de5f80",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26356,7 +26403,12 @@
    "version": "5de5f80",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26377,7 +26429,12 @@
    "version": "5de5f80",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26398,7 +26455,12 @@
    "version": "5de5f80",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26419,7 +26481,12 @@
    "version": "5de5f80",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26440,7 +26507,12 @@
    "version": "5de5f80",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Marin Sverko, Daniel Fila); Bologna: 4 fuera, 3 duda (Antonio Raimondo, Emil Holm, Riccardo Stivanello)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26481,7 +26553,12 @@
    "version": "5de5f80",
    "bajas": "Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26502,7 +26579,12 @@
    "version": "5de5f80",
    "bajas": "Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26523,7 +26605,12 @@
    "version": "5de5f80",
    "bajas": "Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26544,7 +26631,12 @@
    "version": "5de5f80",
    "bajas": "Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26565,7 +26657,12 @@
    "version": "5de5f80",
    "bajas": "Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26586,7 +26683,12 @@
    "version": "5de5f80",
    "bajas": "Nott'm Forest: 1 fuera, 0 duda (Nicolas Dominguez); Chelsea: 6 fuera, 1 duda (Maxence Lacroix, Jorrel Hato, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -26628,7 +26730,12 @@
    "version": "5de5f80",
    "bajas": "Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26649,7 +26756,12 @@
    "version": "5de5f80",
    "bajas": "Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26670,7 +26782,12 @@
    "version": "5de5f80",
    "bajas": "Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26691,7 +26808,12 @@
    "version": "5de5f80",
    "bajas": "Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26712,7 +26834,12 @@
    "version": "5de5f80",
    "bajas": "Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26733,7 +26860,12 @@
    "version": "5de5f80",
    "bajas": "Southampton: 0 fuera, 1 duda; Middlesbrough: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "U25",
@@ -26795,7 +26927,12 @@
    "version": "5de5f80",
    "bajas": "Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26816,7 +26953,12 @@
    "version": "5de5f80",
    "bajas": "Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26837,7 +26979,12 @@
    "version": "5de5f80",
    "bajas": "Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26858,7 +27005,12 @@
    "version": "5de5f80",
    "bajas": "Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26879,7 +27031,12 @@
    "version": "5de5f80",
    "bajas": "Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26900,7 +27057,12 @@
    "version": "5de5f80",
    "bajas": "Maritimo: sin bajas; Nacional: 2 fuera, 0 duda (Filipe Soares, Ulisses Rocha)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -49485,7 +49647,11 @@
    "version": "1673dea",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-9",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -49582,6 +49748,743 @@
    "context": "EA FC Esoccer Battle believer vs goldfer (Champions League B): goles esperados 4.54-1.58, 1X2 88%/8%/5%. Sin cuotas de casa.",
    "captured": "2026-11-28T00:03",
    "version": "2856b64",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.66,
+   "book": "mejor del mercado",
+   "p": 0.572,
+   "implied": 0.572,
+   "edge": -0.05,
+   "key": "MEX|2026-11-30|Guadalajara Chivas|Pachuca",
+   "match": "Guadalajara Chivas vs Pachuca",
+   "pick": "Guadalajara Chivas",
+   "start": "2026-11-30T01:07:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.40 - 1.12)",
+    "1 44% · X 27% · 2 28%",
+    "1X 72% · X2 56% · 12 73%",
+    "+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 52%",
+    "Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Guadalajara Chivas ✅✅➖✅❌ | Pachuca ✅✅✅✅✅",
+    "• H2H: 31 desde 2012: 10V-11E-10D · 2.4 goles/partido · +2.5 en 42%",
+    "• Bajas: Guadalajara Chivas: sin bajas; Pachuca: sin bajas",
+    "• Favorito de las casas: Guadalajara Chivas @ 1.66"
+   ],
+   "context": "Guadalajara Chivas vs Pachuca (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 44% X 27% 2 28%, +2.5 46%, ambos marcan 52%. Forma Guadalajara Chivas ✅✅➖✅❌, Pachuca ✅✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 31 desde 2012: 10V-11E-10D · 2.4 goles/partido · +2.5 en 42%. Bajas Guadalajara Chivas: ninguna. Bajas Pachuca: ninguna.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Guadalajara Chivas: sin bajas; Pachuca: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 3.8,
+   "book": "mejor del mercado",
+   "p": 0.251,
+   "implied": 0.251,
+   "edge": -0.047,
+   "key": "MEX|2026-11-30|Cruz Azul|Club Leon",
+   "match": "Cruz Azul vs Club Leon",
+   "pick": "Club Leon",
+   "start": "2026-11-30T03:00:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.90 - 0.99)",
+    "1 63% · X 22% · 2 16%",
+    "1X 84% · X2 37% · 12 78%",
+    "+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 54%",
+    "Marcadores: 1-1 11% · 2-0 10% · 1-0 10% · 2-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Cruz Azul ✅✅✅❌✅ | Club Leon ➖❌➖✅❌",
+    "• H2H: 36 desde 2012: 21V-9E-6D · 2.6 goles/partido · +2.5 en 56%",
+    "• Bajas: Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez); Club Leon: 0 fuera, 1 duda",
+    "• Favorito de las casas: Cruz Azul @ 1.84"
+   ],
+   "context": "Cruz Azul vs Club Leon (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 63% X 22% 2 16%, +2.5 55%, ambos marcan 54%. Forma Cruz Azul ✅✅✅❌✅, Club Leon ➖❌➖✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 36 desde 2012: 21V-9E-6D · 2.6 goles/partido · +2.5 en 56%. Bajas Cruz Azul: Cristian Jimenez M lesionado 0 PJ. Bajas Club Leon: Valentin Gauthier D duda 0 PJ.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez); Club Leon: 0 fuera, 1 duda",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHH",
+   "line": 0.5,
+   "odds": 1.8,
+   "book": "mejor del mercado",
+   "p": 0.534,
+   "implied": 0.53,
+   "edge": -0.039,
+   "key": "T1|2026-11-30|Goztep|Trabzonspor",
+   "match": "Goztep vs Trabzonspor",
+   "pick": "Goztep +0.5 (hándicap asiático)",
+   "start": "2026-11-30T16:00:00+00:00",
+   "league": "🇹🇷 Süper Lig",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.28 - 1.38)",
+    "1 27% · X 29% · 2 43%",
+    "1X 57% · X2 73% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Goztep ✅✅✅❌✅ | Trabzonspor ✅✅✅✅✅",
+    "• H2H: 14 desde 2017: 4V-4E-6D · 2.6 goles/partido · +2.5 en 50%",
+    "• Bajas: Goztep: 0 fuera, 2 duda; Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy)",
+    "• Favorito de las casas: Trabzonspor @ 2.00",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.9 - 4.7: total +9.5 49% · Goztep +5.5 36% · Trabzonspor +4.5 48%",
+    "Tarjetas 2.4 - 1.9: total +4.5 43% · Goztep +2.5 43% · Trabzonspor +2.5 31%",
+    "Faltas 16.6 - 9.1: total +26.5 43% · Goztep +13.5 75% · Trabzonspor +13.5 9%",
+    "Tiros a puerta 5.0 - 4.6: total +9.5 48% · Goztep +5.5 38% · Trabzonspor +4.5 47%",
+    "🧩 Crear apuesta: Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Goztep → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Goztep + Menos de 5.5 tiros a puerta de Goztep → prob. 29%, cuota justa 3.47"
+   ],
+   "context": "Goztep vs Trabzonspor (🇹🇷 Süper Lig). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 29% 2 43%, +2.5 50%, ambos marcan 55%. Forma Goztep ✅✅✅❌✅, Trabzonspor ✅✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 14 desde 2017: 4V-4E-6D · 2.6 goles/partido · +2.5 en 50%. Bajas Goztep: Andre F duda 12 PJ; Furkan Bayir D duda 0 PJ. Bajas Trabzonspor: Chibuike Nwaiwu M sancionado 11 PJ; Muhammed Cham M sancionado 0 PJ; Batista Mendy M sancionado 0 PJ; Ruslan Malinovsky M duda 2 PJ; Arseniy Batagov D duda 0 PJ; Franculino F duda 6 PJ; Tim Jabol-Folcarelli M duda 4 PJ; Okay Yokuslu M duda 0 PJ. Estadísticas del modelo: Córners 4.9 - 4.7: total +9.5 49% · Goztep +5.5 36% · Trabzonspor +4.5 48% | Tarjetas 2.4 - 1.9: total +4.5 43% · Goztep +2.5 43% · Trabzonspor +2.5 31% | Faltas 16.6 - 9.1: total +26.5 43% · Goztep +13.5 75% · Trabzonspor +13.5 9% | Tiros a puerta 5.0 - 4.6: total +9.5 48% · Goztep +5.5 38% · Trabzonspor +4.5 47% | 🧩 Crear apuesta: Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Goztep → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Goztep + Menos de 5.5 tiros a puerta de Goztep → prob. 29%, cuota justa 3.47.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Goztep: 0 fuera, 2 duda; Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHA",
+   "line": -0.5,
+   "odds": 1.91,
+   "book": "mejor del mercado",
+   "p": 0.522,
+   "implied": 0.515,
+   "edge": -0.003,
+   "key": "I1|2026-11-30|Lecce|Atalanta",
+   "match": "Lecce vs Atalanta",
+   "pick": "Atalanta -0.5 (hándicap asiático)",
+   "start": "2026-11-30T17:30:00+00:00",
+   "league": "🇮🇹 Serie A",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 0.72 - 1.93)",
+    "1 20% · X 23% · 2 56%",
+    "1X 44% · X2 80% · 12 77%",
+    "+1.5 75% · +2.5 49% · +3.5 28% · Ambos marcan 44%",
+    "Marcadores: 0-2 13% · 0-1 13% · 1-1 10% · 1-2 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Lecce ❌❌❌➖❌ | Atalanta ➖➖❌✅➖",
+    "• H2H: 14 desde 2008: 2V-4E-8D · 3.1 goles/partido · +2.5 en 64%",
+    "• Bajas: Lecce: 2 fuera, 1 duda (Santiago Pierotti, Filip Marchwinski); Atalanta: 1 fuera, 2 duda (Isak Hien)",
+    "• Favorito de las casas: Atalanta @ 1.85",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.5 - 4.5: total +9.5 42% · Lecce +5.5 31% · Atalanta +4.5 46%",
+    "Tarjetas 1.8 - 1.8: total +3.5 46% · Lecce +1.5 53% · Atalanta +2.5 26%",
+    "Faltas 10.6 - 11.9: total +22.5 48% · Lecce +11.5 37% · Atalanta +11.5 52%",
+    "Tiros a puerta 4.2 - 5.1: total +9.5 45% · Lecce +5.5 26% · Atalanta +4.5 55%",
+    "🧩 Crear apuesta: Menos de 2.5 tarjetas de Atalanta + Menos de 5.5 tiros a puerta de Lecce + Menos de 5.5 córners de Lecce → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 2.5 tarjetas de Atalanta + Menos de 5.5 tiros a puerta de Lecce + Menos de 5.5 córners de Lecce + Menos de 11.5 faltas de Lecce → prob. 25%, cuota justa 3.96"
+   ],
+   "context": "Lecce vs Atalanta (🇮🇹 Serie A). Modelo Poisson con historial desde 2005 y bajas: 1 20% X 23% 2 56%, +2.5 49%, ambos marcan 44%. Forma Lecce ❌❌❌➖❌, Atalanta ➖➖❌✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 14 desde 2008: 2V-4E-8D · 3.1 goles/partido · +2.5 en 64%. Bajas Lecce: Mohamed Kaba M duda 8 PJ; Filip Marchwinski M lesionado 0 PJ; Santiago Pierotti F lesionado 7 PJ. Bajas Atalanta: Odilon Kossounou D duda 4 PJ; Isak Hien D lesionado 0 PJ; Marco Carnesecchi G duda 11 PJ. Estadísticas del modelo: Córners 4.5 - 4.5: total +9.5 42% · Lecce +5.5 31% · Atalanta +4.5 46% | Tarjetas 1.8 - 1.8: total +3.5 46% · Lecce +1.5 53% · Atalanta +2.5 26% | Faltas 10.6 - 11.9: total +22.5 48% · Lecce +11.5 37% · Atalanta +11.5 52% | Tiros a puerta 4.2 - 5.1: total +9.5 45% · Lecce +5.5 26% · Atalanta +4.5 55% | 🧩 Crear apuesta: Menos de 2.5 tarjetas de Atalanta + Menos de 5.5 tiros a puerta de Lecce + Menos de 5.5 córners de Lecce → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 2.5 tarjetas de Atalanta + Menos de 5.5 tiros a puerta de Lecce + Menos de 5.5 córners de Lecce + Menos de 11.5 faltas de Lecce → prob. 25%, cuota justa 3.96.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Lecce: 2 fuera, 1 duda (Santiago Pierotti, Filip Marchwinski); Atalanta: 1 fuera, 2 duda (Isak Hien)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHA",
+   "line": 0.5,
+   "odds": 1.8,
+   "book": "mejor del mercado",
+   "p": 0.537,
+   "implied": 0.53,
+   "edge": -0.033,
+   "key": "T1|2026-11-30|Besiktas|Galatasaray",
+   "match": "Besiktas vs Galatasaray",
+   "pick": "Galatasaray +0.5 (hándicap asiático)",
+   "start": "2026-11-30T18:00:00+00:00",
+   "league": "🇹🇷 Süper Lig",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.28 - 1.54)",
+    "1 28% · X 29% · 2 43%",
+    "1X 57% · X2 72% · 12 71%",
+    "+1.5 78% · +2.5 54% · +3.5 31% · Ambos marcan 57%",
+    "Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Besiktas ❌✅➖✅✅ | Galatasaray ✅✅✅✅✅",
+    "• H2H: 42 desde 2005: 15V-6E-21D · 2.5 goles/partido · +2.5 en 55%",
+    "• Bajas: Besiktas: 1 fuera, 1 duda (Orkun Kokcu); Galatasaray: 1 fuera, 5 duda (Metehan Baltaci)",
+    "• Favorito de las casas: Besiktas @ 2.00",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.5: total +9.5 54% · Besiktas +5.5 46% · Galatasaray +4.5 45%",
+    "Tarjetas 2.0 - 2.5: total +4.5 47% · Besiktas +2.5 32% · Galatasaray +2.5 46%",
+    "Faltas 11.8 - 13.0: total +26.5 37% · Besiktas +13.5 31% · Galatasaray +13.5 43%",
+    "Tiros a puerta 5.7 - 4.1: total +9.5 50% · Besiktas +5.5 49% · Galatasaray +4.5 38%",
+    "🧩 Crear apuesta: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 4.5 tiros a puerta de Galatasaray → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)"
+   ],
+   "context": "Besiktas vs Galatasaray (🇹🇷 Süper Lig). Modelo Poisson con historial desde 2005 y bajas: 1 28% X 29% 2 43%, +2.5 54%, ambos marcan 57%. Forma Besiktas ❌✅➖✅✅, Galatasaray ✅✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 42 desde 2005: 15V-6E-21D · 2.5 goles/partido · +2.5 en 55%. Bajas Besiktas: Orkun Kokcu M sancionado 8 PJ; Emmanuel Agbadou D duda 12 PJ. Bajas Galatasaray: Metehan Baltaci D sancionado 9 PJ; Deniz Gul F duda 8 PJ; Roland Sallai F duda 10 PJ; Victor Osimhen F duda 8 PJ; Rafael Leao F duda 8 PJ; Carlos Cuesta D duda 0 PJ. Estadísticas del modelo: Córners 5.6 - 4.5: total +9.5 54% · Besiktas +5.5 46% · Galatasaray +4.5 45% | Tarjetas 2.0 - 2.5: total +4.5 47% · Besiktas +2.5 32% · Galatasaray +2.5 46% | Faltas 11.8 - 13.0: total +26.5 37% · Besiktas +13.5 31% · Galatasaray +13.5 43% | Tiros a puerta 5.7 - 4.1: total +9.5 50% · Besiktas +5.5 49% · Galatasaray +4.5 38% | 🧩 Crear apuesta: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 4.5 tiros a puerta de Galatasaray → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más).",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Besiktas: 1 fuera, 1 duda (Orkun Kokcu); Galatasaray: 1 fuera, 5 duda (Metehan Baltaci)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 3.6,
+   "book": "Bet365",
+   "p": 0.262,
+   "implied": 0.262,
+   "edge": -0.056,
+   "key": "DNK|2026-11-30|Odense|Nordsjaelland",
+   "match": "Odense vs Nordsjaelland",
+   "pick": "Odense",
+   "start": "2026-11-30T18:00:00+00:00",
+   "league": "🇩🇰 Superliga",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.59 - 1.67)",
+    "1 33% · X 27% · 2 41%",
+    "1X 59% · X2 67% · 12 73%",
+    "+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%",
+    "Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Odense ✅➖✅❌✅ | Nordsjaelland ➖➖❌✅✅",
+    "• H2H: 35 desde 2012: 16V-8E-11D · 2.7 goles/partido · +2.5 en 51%",
+    "• Bajas: Odense: sin bajas; Nordsjaelland: sin bajas",
+    "• Favorito de las casas: Nordsjaelland @ 1.81"
+   ],
+   "context": "Odense vs Nordsjaelland (🇩🇰 Superliga). Modelo Poisson con historial desde 2005 y bajas: 1 33% X 27% 2 41%, +2.5 63%, ambos marcan 65%. Forma Odense ✅➖✅❌✅, Nordsjaelland ➖➖❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 35 desde 2012: 16V-8E-11D · 2.7 goles/partido · +2.5 en 51%. Bajas Odense: ninguna. Bajas Nordsjaelland: ninguna.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Odense: sin bajas; Nordsjaelland: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.6,
+   "book": "Bet365",
+   "p": 0.58,
+   "implied": 0.58,
+   "edge": -0.072,
+   "key": "NOR|2026-11-30|Lillestrom|HamKam",
+   "match": "Lillestrom vs HamKam",
+   "pick": "Lillestrom",
+   "start": "2026-11-30T18:00:00+00:00",
+   "league": "🇳🇴 Eliteserien",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.79 - 1.39)",
+    "1 49% · X 25% · 2 26%",
+    "1X 74% · X2 51% · 12 75%",
+    "+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%",
+    "Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Lillestrom ✅✅✅✅✅ | HamKam ❌❌➖✅➖",
+    "• H2H: 3 desde 2024: 0V-1E-2D · 3.0 goles/partido · +2.5 en 33%",
+    "• Bajas: Lillestrom: sin bajas; HamKam: sin bajas",
+    "• Favorito de las casas: Lillestrom @ 1.60"
+   ],
+   "context": "Lillestrom vs HamKam (🇳🇴 Eliteserien). Modelo Poisson con historial desde 2005 y bajas: 1 49% X 25% 2 26%, +2.5 62%, ambos marcan 63%. Forma Lillestrom ✅✅✅✅✅, HamKam ❌❌➖✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 3 desde 2024: 0V-1E-2D · 3.0 goles/partido · +2.5 en 33%. Bajas Lillestrom: ninguna. Bajas HamKam: ninguna.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Lillestrom: sin bajas; HamKam: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 2.1,
+   "book": "Bet365",
+   "p": 0.459,
+   "implied": 0.459,
+   "edge": -0.036,
+   "key": "POL|2026-11-30|Korona Kielce|Cracovia",
+   "match": "Korona Kielce vs Cracovia",
+   "pick": "Korona Kielce",
+   "start": "2026-11-30T18:00:00+00:00",
+   "league": "🇵🇱 Ekstraklasa",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.27 - 1.05)",
+    "1 43% · X 28% · 2 29%",
+    "1X 71% · X2 57% · 12 72%",
+    "+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%",
+    "Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Korona Kielce ❌✅❌❌❌ | Cracovia ➖❌❌❌✅",
+    "• H2H: 24 desde 2013: 6V-8E-10D · 2.5 goles/partido · +2.5 en 46%",
+    "• Bajas: Korona Kielce: sin bajas; Cracovia: sin bajas",
+    "• Favorito de las casas: Korona Kielce @ 2.10"
+   ],
+   "context": "Korona Kielce vs Cracovia (🇵🇱 Ekstraklasa). Modelo Poisson con historial desde 2005 y bajas: 1 43% X 28% 2 29%, +2.5 41%, ambos marcan 47%. Forma Korona Kielce ❌✅❌❌❌, Cracovia ➖❌❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 24 desde 2013: 6V-8E-10D · 2.5 goles/partido · +2.5 en 46%. Bajas Korona Kielce: ninguna. Bajas Cracovia: ninguna.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Korona Kielce: sin bajas; Cracovia: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "odds": 3.4,
+   "book": "BetVictor",
+   "p": 0.284,
+   "implied": 0.284,
+   "edge": -0.033,
+   "key": "I2|2026-11-30|Catanzaro|Avellino",
+   "match": "Catanzaro vs Avellino",
+   "pick": "Empate",
+   "start": "2026-11-30T19:30:00+00:00",
+   "league": "🇮🇹 Serie B",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.66 - 1.11)",
+    "1 39% · X 29% · 2 31%",
+    "1X 69% · X2 61% · 12 71%",
+    "+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%",
+    "Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Catanzaro ➖➖❌✅✅ | Avellino ➖✅➖✅✅",
+    "• H2H: 4 desde 2005: 1V-1E-2D · 2.0 goles/partido · +2.5 en 25%",
+    "• Bajas: Catanzaro: sin bajas; Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",
+    "• Favorito de las casas: Catanzaro @ 2.50",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.4 - 4.2: total +9.5 48% · Catanzaro +5.5 43% · Avellino +4.5 40%",
+    "Tarjetas 2.0 - 2.4: total +4.5 44% · Catanzaro +2.5 32% · Avellino +2.5 43%",
+    "Faltas 12.7 - 13.6: total +27.5 40% · Catanzaro +13.5 40% · Avellino +13.5 49%",
+    "Tiros a puerta 4.8 - 3.5: total +8.5 44% · Catanzaro +5.5 34% · Avellino +4.5 28%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Avellino + Menos de 2.5 tarjetas de Catanzaro + Menos de 4.5 córners de Avellino → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Avellino + Menos de 2.5 tarjetas de Catanzaro + Menos de 4.5 córners de Avellino + Menos de 13.5 faltas de Catanzaro → prob. 20%, cuota justa 4.94"
+   ],
+   "context": "Catanzaro vs Avellino (🇮🇹 Serie B). Modelo Poisson con historial desde 2005 y bajas: 1 39% X 29% 2 31%, +2.5 52%, ambos marcan 55%. Forma Catanzaro ➖➖❌✅✅, Avellino ➖✅➖✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 4 desde 2005: 1V-1E-2D · 2.0 goles/partido · +2.5 en 25%. Bajas Catanzaro: ninguna. Bajas Avellino: Andrea Favilli F lesionado 8 PJ; Luca Di Maggio M lesionado 10 PJ; Antony Iannarilli G lesionado 0 PJ; Lorenco Simic D lesionado 3 PJ. Estadísticas del modelo: Córners 5.4 - 4.2: total +9.5 48% · Catanzaro +5.5 43% · Avellino +4.5 40% | Tarjetas 2.0 - 2.4: total +4.5 44% · Catanzaro +2.5 32% · Avellino +2.5 43% | Faltas 12.7 - 13.6: total +27.5 40% · Catanzaro +13.5 40% · Avellino +13.5 49% | Tiros a puerta 4.8 - 3.5: total +8.5 44% · Catanzaro +5.5 34% · Avellino +4.5 28% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Avellino + Menos de 2.5 tarjetas de Catanzaro + Menos de 4.5 córners de Avellino → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Avellino + Menos de 2.5 tarjetas de Catanzaro + Menos de 4.5 córners de Avellino + Menos de 13.5 faltas de Catanzaro → prob. 20%, cuota justa 4.94.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Catanzaro: sin bajas; Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.5,
+   "book": "Betfred",
+   "p": 0.641,
+   "implied": 0.641,
+   "edge": -0.039,
+   "key": "SP2|2026-11-30|Oviedo|Celta B",
+   "match": "Oviedo vs Celta B",
+   "pick": "Oviedo",
+   "start": "2026-11-30T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.69 - 0.80)",
+    "1 54% · X 27% · 2 19%",
+    "1X 81% · X2 46% · 12 73%",
+    "+1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 46%",
+    "Marcadores: 1-0 13% · 2-0 12% · 1-1 12% · 2-1 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Oviedo ➖❌✅❌❌ | Celta B ❌➖❌❌➖",
+    "• H2H: sin precedentes",
+    "• Bajas: Oviedo: sin bajas; Celta B: sin bajas",
+    "• Favorito de las casas: Oviedo @ 1.50",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 7.0 - 3.5: total +9.5 59% · Oviedo +5.5 63% · Celta B +4.5 29%",
+    "Tarjetas 2.4 - 3.2: total +6.5 34% · Oviedo +2.5 44% · Celta B +3.5 40%",
+    "Faltas 13.4 - 13.2: total +26.5 49% · Oviedo +13.5 47% · Celta B +13.5 44%",
+    "Tiros a puerta 6.2 - 3.1: total +8.5 57% · Oviedo +5.5 56% · Celta B +4.5 21%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 6.5 tarjetas → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 6.5 tarjetas + Menos de 13.5 faltas de Celta B → prob. 23%, cuota justa 4.30"
+   ],
+   "context": "Oviedo vs Celta B (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 54% X 27% 2 19%, +2.5 45%, ambos marcan 46%. Forma Oviedo ➖❌✅❌❌, Celta B ❌➖❌❌➖ (✅ victoria ➖ empate ❌ derrota). H2H sin precedentes. Bajas Oviedo: ninguna. Bajas Celta B: ninguna. Estadísticas del modelo: Córners 7.0 - 3.5: total +9.5 59% · Oviedo +5.5 63% · Celta B +4.5 29% | Tarjetas 2.4 - 3.2: total +6.5 34% · Oviedo +2.5 44% · Celta B +3.5 40% | Faltas 13.4 - 13.2: total +26.5 49% · Oviedo +13.5 47% · Celta B +13.5 44% | Tiros a puerta 6.2 - 3.1: total +8.5 57% · Oviedo +5.5 56% · Celta B +4.5 21% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 6.5 tarjetas → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 6.5 tarjetas + Menos de 13.5 faltas de Celta B → prob. 23%, cuota justa 4.30.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Oviedo: sin bajas; Celta B: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "O25",
+   "odds": 1.91,
+   "book": "Bet365",
+   "p": 0.513,
+   "implied": 0.513,
+   "edge": -0.019,
+   "key": "I1|2026-11-30|Cagliari|Milan",
+   "match": "Cagliari vs Milan",
+   "pick": "Más de 2.5 goles",
+   "start": "2026-11-30T19:45:00+00:00",
+   "league": "🇮🇹 Serie A",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 0.96 - 1.58)",
+    "1 19% · X 27% · 2 54%",
+    "1X 46% · X2 81% · 12 73%",
+    "+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%",
+    "Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Cagliari ❌❌❌✅❌ | Milan ✅❌✅✅✅",
+    "• H2H: 38 desde 2005: 2V-8E-28D · 2.9 goles/partido · +2.5 en 55%",
+    "• Bajas: Cagliari: 3 fuera, 3 duda (Roberto Gagliardini, Mattia Felici, Kingstone Mutandwa); Milan: 5 fuera, 4 duda (Ruben Loftus-Cheek, Samuel Chukwueze, Alexis Saelemaekers)",
+    "• Favorito de las casas: Milan @ 1.73",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.1 - 4.9: total +9.5 40% · Cagliari +5.5 25% · Milan +4.5 50%",
+    "Tarjetas 1.8 - 1.8: total +3.5 47% · Cagliari +1.5 53% · Milan +2.5 26%",
+    "Faltas 12.8 - 11.8: total +22.5 64% · Cagliari +11.5 61% · Milan +11.5 52%",
+    "Tiros a puerta 3.5 - 5.1: total +9.5 36% · Cagliari +5.5 15% · Milan +4.5 56%",
+    "🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cagliari + Menos de 5.5 córners de Cagliari + Menos de 2.5 tarjetas de Milan → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cagliari + Menos de 5.5 córners de Cagliari + Menos de 2.5 tarjetas de Milan + Más de 22.5 faltas → prob. 30%, cuota justa 3.32"
+   ],
+   "context": "Cagliari vs Milan (🇮🇹 Serie A). Modelo Poisson con historial desde 2005 y bajas: 1 19% X 27% 2 54%, +2.5 47%, ambos marcan 50%. Forma Cagliari ❌❌❌✅❌, Milan ✅❌✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 38 desde 2005: 2V-8E-28D · 2.9 goles/partido · +2.5 en 55%. Bajas Cagliari: Roberto Gagliardini M sancionado 3 PJ; Yerry Mina D duda 4 PJ; Michel Ndary Adopo M duda 12 PJ; Harry Winks M duda 8 PJ; Kingstone Mutandwa F lesionado 1 PJ; Mattia Felici M lesionado 2 PJ. Bajas Milan: Santiago Gimenez F sancionado 0 PJ; Davide Bartesaghi D duda 7 PJ; Luka Modric M duda 12 PJ; Ruben Loftus-Cheek M lesionado 7 PJ; Samuel Chukwueze F lesionado 7 PJ; Warren Bondo M duda 0 PJ; Matteo Gabbia D lesionado 3 PJ; Alexis Saelemaekers M lesionado 4 PJ; Pietro Terracciano G duda 0 PJ. Estadísticas del modelo: Córners 4.1 - 4.9: total +9.5 40% · Cagliari +5.5 25% · Milan +4.5 50% | Tarjetas 1.8 - 1.8: total +3.5 47% · Cagliari +1.5 53% · Milan +2.5 26% | Faltas 12.8 - 11.8: total +22.5 64% · Cagliari +11.5 61% · Milan +11.5 52% | Tiros a puerta 3.5 - 5.1: total +9.5 36% · Cagliari +5.5 15% · Milan +4.5 56% | 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cagliari + Menos de 5.5 córners de Cagliari + Menos de 2.5 tarjetas de Milan → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cagliari + Menos de 5.5 córners de Cagliari + Menos de 2.5 tarjetas de Milan + Más de 22.5 faltas → prob. 30%, cuota justa 3.32.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Cagliari: 3 fuera, 3 duda (Roberto Gagliardini, Mattia Felici, Kingstone Mutandwa); Milan: 5 fuera, 4 duda (Ruben Loftus-Cheek, Samuel Chukwueze, Alexis Saelemaekers)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "O25",
+   "odds": 2.5,
+   "book": "Bet365",
+   "p": 0.387,
+   "implied": 0.387,
+   "edge": -0.033,
+   "key": "SP1|2026-11-30|Espanol|Getafe",
+   "match": "Espanol vs Getafe",
+   "pick": "Más de 2.5 goles",
+   "start": "2026-11-30T20:00:00+00:00",
+   "league": "🇪🇸 LaLiga",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.09 - 0.79)",
+    "1 45% · X 31% · 2 24%",
+    "1X 76% · X2 55% · 12 69%",
+    "+1.5 57% · +2.5 29% · +3.5 12% · Ambos marcan 37%",
+    "Marcadores: 1-0 16% · 0-0 16% · 1-1 14% · 0-1 11%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Espanol ❌❌✅➖✅ | Getafe ➖❌✅❌❌",
+    "• H2H: 36 desde 2005: 15V-8E-13D · 2.1 goles/partido · +2.5 en 28%",
+    "• Bajas: Espanol: 3 fuera, 3 duda (Clemens Riedel, Pol Lozano, Kike Garcia); Getafe: 6 fuera, 2 duda (Martin Satriano, Djene, Djene)",
+    "• Favorito de las casas: Espanol @ 2.05",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.2 - 4.0: total +10.5 32% · Espanol +5.5 41% · Getafe +4.5 37%",
+    "Tarjetas 2.5 - 3.2: total +4.5 65% · Espanol +2.5 45% · Getafe +2.5 62%",
+    "Faltas 14.5 - 14.8: total +25.5 73% · Espanol +12.5 67% · Getafe +12.5 70%",
+    "Tiros a puerta 4.5 - 3.0: total +9.5 24% · Espanol +5.5 31% · Getafe +3.5 36%",
+    "🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 25.5 faltas + Menos de 2.5 goles → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 25.5 faltas + Menos de 2.5 goles + Menos de 10.5 córners + Más de 4.5 tarjetas → prob. 22%, cuota justa 4.56"
+   ],
+   "context": "Espanol vs Getafe (🇪🇸 LaLiga). Modelo Poisson con historial desde 2005 y bajas: 1 45% X 31% 2 24%, +2.5 29%, ambos marcan 37%. Forma Espanol ❌❌✅➖✅, Getafe ➖❌✅❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 36 desde 2005: 15V-8E-13D · 2.1 goles/partido · +2.5 en 28%. Bajas Espanol: Clemens Riedel D sancionado 9 PJ; Pol Lozano M sancionado 9 PJ; Edu Exposito M duda 12 PJ; U. Gonzalez de M duda 9 PJ; Alex Calatrava F duda 11 PJ; Kike Garcia F lesionado 0 PJ. Bajas Getafe: Djene D sancionado 12 PJ; Nemanja Gudelj M sancionado 10 PJ; Martin Satriano F sancionado 13 PJ; Djene D sancionado 12 PJ; Abdelkabir Abqar D duda 4 PJ; Sebastian Boselli D duda 9 PJ; Juanmi F lesionado 0 PJ; Christantus Uche M lesionado 0 PJ. Estadísticas del modelo: Córners 5.2 - 4.0: total +10.5 32% · Espanol +5.5 41% · Getafe +4.5 37% | Tarjetas 2.5 - 3.2: total +4.5 65% · Espanol +2.5 45% · Getafe +2.5 62% | Faltas 14.5 - 14.8: total +25.5 73% · Espanol +12.5 67% · Getafe +12.5 70% | Tiros a puerta 4.5 - 3.0: total +9.5 24% · Espanol +5.5 31% · Getafe +3.5 36% | 🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 25.5 faltas + Menos de 2.5 goles → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 25.5 faltas + Menos de 2.5 goles + Menos de 10.5 córners + Más de 4.5 tarjetas → prob. 22%, cuota justa 4.56.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Espanol: 3 fuera, 3 duda (Clemens Riedel, Pol Lozano, Kike Garcia); Getafe: 6 fuera, 2 duda (Martin Satriano, Djene, Djene)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 1.19,
+   "book": "Bwin",
+   "p": 0.819,
+   "implied": 0.819,
+   "edge": -0.025,
+   "key": "P1|2026-11-30|Benfica|Famalicao",
+   "match": "Benfica vs Famalicao",
+   "pick": "Benfica",
+   "start": "2026-11-30T20:15:00+00:00",
+   "league": "🇵🇹 Primeira Liga",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 2.17 - 0.78)",
+    "1 74% · X 18% · 2 9%",
+    "1X 91% · X2 26% · 12 82%",
+    "+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 48%",
+    "Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Benfica ❌✅✅✅✅ | Famalicao ✅❌✅❌✅",
+    "• H2H: 14 desde 2019: 9V-3E-2D · 2.7 goles/partido · +2.5 en 43%",
+    "• Bajas: Benfica: 1 fuera, 0 duda (Leandro Barreiro); Famalicao: 1 fuera, 1 duda (Rodrigo Pinheiro)",
+    "• Favorito de las casas: Benfica @ 1.19",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 8.1 - 3.1: total +9.5 66% · Benfica +5.5 74% · Famalicao +4.5 22%",
+    "Tarjetas 1.9 - 2.9: total +5.5 35% · Benfica +2.5 29% · Famalicao +2.5 55%",
+    "Faltas 13.5 - 14.4: total +26.5 58% · Benfica +13.5 48% · Famalicao +13.5 57%",
+    "Tiros a puerta 6.9 - 2.6: total +8.5 60% · Benfica +4.5 78% · Famalicao +3.5 28%",
+    "🧩 Crear apuesta: Menos de 4.5 córners de Famalicao + Más de 4.5 tiros a puerta de Benfica + Menos de 2.5 tarjetas de Benfica → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 córners de Famalicao + Más de 4.5 tiros a puerta de Benfica + Menos de 2.5 tarjetas de Benfica + Más de 26.5 faltas + Más de 2.5 goles → prob. 14%, cuota justa 6.98"
+   ],
+   "context": "Benfica vs Famalicao (🇵🇹 Primeira Liga). Modelo Poisson con historial desde 2005 y bajas: 1 74% X 18% 2 9%, +2.5 56%, ambos marcan 48%. Forma Benfica ❌✅✅✅✅, Famalicao ✅❌✅❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 14 desde 2019: 9V-3E-2D · 2.7 goles/partido · +2.5 en 43%. Bajas Benfica: Leandro Barreiro M lesionado 8 PJ. Bajas Famalicao: Rodrigo Pinheiro - sancionado 10 PJ; Otar Mamageishvili M duda 0 PJ. Estadísticas del modelo: Córners 8.1 - 3.1: total +9.5 66% · Benfica +5.5 74% · Famalicao +4.5 22% | Tarjetas 1.9 - 2.9: total +5.5 35% · Benfica +2.5 29% · Famalicao +2.5 55% | Faltas 13.5 - 14.4: total +26.5 58% · Benfica +13.5 48% · Famalicao +13.5 57% | Tiros a puerta 6.9 - 2.6: total +8.5 60% · Benfica +4.5 78% · Famalicao +3.5 28% | 🧩 Crear apuesta: Menos de 4.5 córners de Famalicao + Más de 4.5 tiros a puerta de Benfica + Menos de 2.5 tarjetas de Benfica → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 córners de Famalicao + Más de 4.5 tiros a puerta de Benfica + Menos de 2.5 tarjetas de Benfica + Más de 26.5 faltas + Más de 2.5 goles → prob. 14%, cuota justa 6.98.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Benfica: 1 fuera, 0 duda (Leandro Barreiro); Famalicao: 1 fuera, 1 duda (Rodrigo Pinheiro)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHH",
+   "line": 1.0,
+   "odds": 2.03,
+   "book": "mejor del mercado",
+   "p": 0.476,
+   "implied": 0.475,
+   "edge": -0.034,
+   "key": "P1|2026-11-30|Casa Pia|Sp Braga",
+   "match": "Casa Pia vs Sp Braga",
+   "pick": "Casa Pia +1 (hándicap asiático)",
+   "start": "2026-11-30T20:15:00+00:00",
+   "league": "🇵🇹 Primeira Liga",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 0.77 - 1.85)",
+    "1 16% · X 23% · 2 62%",
+    "1X 38% · X2 84% · 12 77%",
+    "+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 46%",
+    "Marcadores: 0-1 13% · 0-2 12% · 1-1 11% · 1-2 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Casa Pia ✅❌✅❌➖ | Sp Braga ❌❌❌✅✅",
+    "• H2H: 8 desde 2022: 3V-0E-5D · 3.0 goles/partido · +2.5 en 62%",
+    "• Bajas: Casa Pia: 0 fuera, 2 duda; Sp Braga: 1 fuera, 1 duda (Carvalho)",
+    "• Favorito de las casas: Sp Braga @ 1.46",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 3.5 - 5.9: total +9.5 46% · Casa Pia +5.5 17% · Sp Braga +4.5 64%",
+    "Tarjetas 2.8 - 2.2: total +5.5 39% · Casa Pia +2.5 54% · Sp Braga +2.5 39%",
+    "Faltas 14.0 - 13.7: total +26.5 57% · Casa Pia +13.5 53% · Sp Braga +13.5 50%",
+    "Tiros a puerta 2.8 - 5.2: total +8.5 40% · Casa Pia +4.5 16% · Sp Braga +3.5 73%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Casa Pia + Menos de 5.5 córners de Casa Pia + Menos de 2.5 tarjetas de Sp Braga → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Casa Pia + Menos de 5.5 córners de Casa Pia + Menos de 2.5 tarjetas de Sp Braga + Más de 26.5 faltas → prob. 23%, cuota justa 4.37"
+   ],
+   "context": "Casa Pia vs Sp Braga (🇵🇹 Primeira Liga). Modelo Poisson con historial desde 2005 y bajas: 1 16% X 23% 2 62%, +2.5 49%, ambos marcan 46%. Forma Casa Pia ✅❌✅❌➖, Sp Braga ❌❌❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2022: 3V-0E-5D · 3.0 goles/partido · +2.5 en 62%. Bajas Casa Pia: Ricardo Batista G duda 0 PJ; Andre Gomes G duda 5 PJ. Bajas Sp Braga: Carvalho M sancionado 10 PJ; Sikou Niakate D duda 0 PJ. Estadísticas del modelo: Córners 3.5 - 5.9: total +9.5 46% · Casa Pia +5.5 17% · Sp Braga +4.5 64% | Tarjetas 2.8 - 2.2: total +5.5 39% · Casa Pia +2.5 54% · Sp Braga +2.5 39% | Faltas 14.0 - 13.7: total +26.5 57% · Casa Pia +13.5 53% · Sp Braga +13.5 50% | Tiros a puerta 2.8 - 5.2: total +8.5 40% · Casa Pia +4.5 16% · Sp Braga +3.5 73% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Casa Pia + Menos de 5.5 córners de Casa Pia + Menos de 2.5 tarjetas de Sp Braga → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Casa Pia + Menos de 5.5 córners de Casa Pia + Menos de 2.5 tarjetas de Sp Braga + Más de 26.5 faltas → prob. 23%, cuota justa 4.37.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Casa Pia: 0 fuera, 2 duda; Sp Braga: 1 fuera, 1 duda (Carvalho)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 43.5,
+   "odds": 1.909,
+   "book": "DraftKings",
+   "p": 0.501,
+   "implied": 0.501,
+   "edge": -0.044,
+   "expected": 40.7,
+   "key": "nfl|2026-12-01|Tampa Bay Buccaneers|Carolina Panthers",
+   "match": "Tampa Bay Buccaneers vs Carolina Panthers",
+   "start": "2026-12-01T01:15Z",
+   "pick": "Más de 43.5 puntos",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>40.7</b> puntos · línea 43.5",
+    "Más 50% · Menos 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Tampa Bay Buccaneers ❌✅✅❌❌ | Carolina Panthers ❌❌❌✅✅",
+    "• H2H: 20 desde 2017: 14-6",
+    "• Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)",
+    "",
+    "🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%"
+   ],
+   "context": "Tampa Bay Buccaneers vs Carolina Panthers (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 40.7 frente a línea 43.5. Forma Tampa Bay Buccaneers ❌✅✅❌❌, Carolina Panthers ❌❌❌✅✅. H2H 20 desde 2017: 14-6. Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen).",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.935,
+   "book": "DraftKings",
+   "p": 0.495,
+   "implied": 0.495,
+   "edge": -0.043,
+   "line": -3.0,
+   "key": "nfl|2026-12-01|Tampa Bay Buccaneers|Carolina Panthers",
+   "match": "Tampa Bay Buccaneers vs Carolina Panthers",
+   "start": "2026-12-01T01:15Z",
+   "pick": "Tampa Bay Buccaneers -3",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Tampa Bay Buccaneers cubre -3 con prob. 50% (casas 50%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Tampa Bay Buccaneers ❌✅✅❌❌ | Carolina Panthers ❌❌❌✅✅",
+    "• H2H: 20 desde 2017: 14-6",
+    "• Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)",
+    "",
+    "🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%"
+   ],
+   "context": "Tampa Bay Buccaneers vs Carolina Panthers (🏈 NFL). Hándicap Tampa Bay Buccaneers -3: margen esperado desde el Elo (gana Tampa Bay Buccaneers 55%). Forma Tampa Bay Buccaneers ❌✅✅❌❌, Carolina Panthers ❌❌❌✅✅. H2H 20 desde 2017: 14-6. Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen).",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 1.629,
+   "book": "DraftKings",
+   "p": 0.59,
+   "implied": 0.59,
+   "edge": -0.04,
+   "key": "nfl|2026-12-01|Tampa Bay Buccaneers|Carolina Panthers",
+   "match": "Tampa Bay Buccaneers vs Carolina Panthers",
+   "pick": "Tampa Bay Buccaneers",
+   "start": "2026-12-01T01:15Z",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 3.306 partidos y bajas)",
+    "Gana Tampa Bay Buccaneers 55% · Gana Carolina Panthers 45%",
+    "Casas: Tampa Bay Buccaneers 59% · Carolina Panthers 41%",
+    "Hándicap TB -3 · Total puntos 43.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Tampa Bay Buccaneers ❌✅✅❌❌ | Carolina Panthers ❌❌❌✅✅",
+    "• H2H: 20 desde 2017: 14-6",
+    "• Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)",
+    "• Favorito de las casas: Tampa Bay Buccaneers @ 1.63",
+    "",
+    "🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%"
+   ],
+   "context": "Tampa Bay Buccaneers vs Carolina Panthers (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Tampa Bay Buccaneers 55%, Carolina Panthers 45%. Cuotas DraftKings 1.629/2.34, hándicap TB -3, total 43.5. Forma Tampa Bay Buccaneers ❌✅✅❌❌, Carolina Panthers ❌❌❌✅✅. H2H 20 desde 2017: 14-6. Bajas Tampa Bay Buccaneers: Jalen McMillan lesionado; Tez Johnson duda; SirVocea Dennis duda; Jacob Parrish duda; Antoine Winfield Jr. duda; Josiah Trotter duda; Christian Rozeboom lesionado; Ko Kieft duda; Bauer Sharp duda; Payne Durham duda; Tykee Smith duda; Elijah Simmons duda; Benjamin Morrison duda; Chase McLaughlin duda; Ayden Garnes duda; Trevor Keegan duda; Billy Schrauth duda; DeMonte Capehart duda; Sean Tucker duda; Cade Otton duda; Chris Godwin Jr. duda; Ted Hurst III duda; Kenny Gainwell duda; Emeka Egbuka duda; Baker Mayfield duda. Bajas Carolina Panthers: Feleipe Franks duda; Bobby Okereke duda; Mitchell Evans duda; Tommy Tremble duda; Jonathon Brooks lesionado; Darren Waller duda; Tetairoa McMillan duda; Jaelan Phillips duda; Jackson Kuwatch duda; Patrick Jones II duda; Thomas Incoom lesionado; Tyrel Dodson duda; Brady Christensen lesionado; Devin Lloyd duda; Xavier Legette duda; John Metchie III duda; Trevor Etienne duda; Ryan Fitzgerald duda; Jaycee Horn lesionado; Jalen Coker duda; TeRah Edwards duda; Marco Wilson duda; Sam Hecht duda; AJ Dillon duda; Bryce Young duda.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "believer",
+   "odds": 1.07,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.934,
+   "edge": 0.0,
+   "p": 0.934,
+   "key": "fc|2402345",
+   "match": "believer vs ssstasonn",
+   "start": "2026-11-28T02:27:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.791 partidos)",
+    "Goles esperados: believer 5.35 · ssstasonn 1.54",
+    "Ganador: believer 93% · empate 4% · ssstasonn 2%",
+    "Total: más de 6.5 goles 53% · menos 47%",
+    "Hándicap believer: −1.5 81% · −2.5 68%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: believer ✅✅✅✅✅ | ssstasonn ❌✅➖➖❌",
+    "• Partidos: believer 1442 | ssstasonn 1373",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle believer vs ssstasonn (Champions League B): goles esperados 5.35-1.54, 1X2 93%/4%/2%. Sin cuotas de casa.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "pimchik",
+   "odds": 1.29,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.778,
+   "edge": 0.0,
+   "p": 0.778,
+   "key": "fc|2401559",
+   "match": "Yerema vs pimchik",
+   "start": "2026-11-28T01:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Volta International A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.791 partidos)",
+    "Goles esperados: Yerema 2.26 · pimchik 4.35",
+    "Ganador: Yerema 11% · empate 12% · pimchik 78%",
+    "Total: más de 6.5 goles 49% · menos 51%",
+    "Hándicap pimchik: −1.5 58% · −2.5 43%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Yerema ❌➖❌❌❌ | pimchik ✅➖✅➖✅",
+    "• Partidos: Yerema 892 | pimchik 1428",
+    "• Liga: Volta International A",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Yerema vs pimchik (Volta International A): goles esperados 2.26-4.35, 1X2 11%/12%/78%. Sin cuotas de casa.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "pimchik",
+   "odds": 1.29,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.772,
+   "edge": 0.0,
+   "p": 0.772,
+   "key": "fc|2401562",
+   "match": "Uruchi vs pimchik",
+   "start": "2026-11-28T02:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Volta International A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 83.791 partidos)",
+    "Goles esperados: Uruchi 1.44 · pimchik 3.20",
+    "Ganador: Uruchi 9% · empate 14% · pimchik 77%",
+    "Total: más de 4.5 goles 49% · menos 51%",
+    "Hándicap pimchik: −1.5 54% · −2.5 35%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Uruchi ❌➖❌➖❌ | pimchik ✅➖✅➖✅",
+    "• Partidos: Uruchi 1580 | pimchik 1428",
+    "• Liga: Volta International A",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Uruchi vs pimchik (Volta International A): goles esperados 1.44-3.20, 1X2 9%/14%/77%. Sin cuotas de casa.",
+   "captured": "2026-11-28T00:35",
+   "version": "b30f999",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -50337,723 +51240,6 @@
     "🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%"
    ]
   },
-  "T1|2026-11-27|Alanyaspor|Konyaspor": {
-   "match": "Alanyaspor vs Konyaspor",
-   "start": "2026-11-27T17:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.326,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7027,
-       "text": "Menos de 4.5 tiros a puerta de Konyaspor",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6698,
-       "text": "Menos de 4.5 córners de Konyaspor",
-       "odds": 1.44
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6429,
-       "text": "Menos de 2.5 tarjetas de Alanyaspor",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1863,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7027,
-       "text": "Menos de 4.5 tiros a puerta de Konyaspor",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6698,
-       "text": "Menos de 4.5 córners de Konyaspor",
-       "odds": 1.44
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6429,
-       "text": "Menos de 2.5 tarjetas de Alanyaspor",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.5679,
-       "text": "Menos de 13.5 faltas de Konyaspor",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7027233375310753,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Konyaspor"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6697898398992721,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Konyaspor"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6428916650149454,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Alanyaspor"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.5678944910999897,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Konyaspor"
-    }
-   ]
-  },
-  "T1|2026-11-27|Rizespor|Kasimpasa": {
-   "match": "Rizespor vs Kasimpasa",
-   "start": "2026-11-27T17:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3754,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.7413,
-       "text": "Menos de 13.5 faltas de Rizespor",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6972,
-       "text": "Menos de 2.5 tarjetas de Rizespor",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6891,
-       "text": "Menos de 4.5 tiros a puerta de Kasimpasa",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1396,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.7413,
-       "text": "Menos de 13.5 faltas de Rizespor",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6972,
-       "text": "Menos de 2.5 tarjetas de Rizespor",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6891,
-       "text": "Menos de 4.5 tiros a puerta de Kasimpasa",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.654,
-       "text": "Menos de 4.5 córners de Kasimpasa",
-       "odds": 1.55
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.592,
-       "text": "Más de 2.5 goles",
-       "odds": 1.64
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3905,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6540374235743449,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Kasimpasa",
-       "odds": 1.55
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.5919579711030061,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.64
-      }
-     ],
-     "odds": 2.54,
-     "edge": -0.007,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7413481202225731,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Rizespor"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6971547645554528,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Rizespor"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6891111172384974,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Kasimpasa"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6540374235743449,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Kasimpasa"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5919579711030061,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "D2|2026-11-27|Bochum|Darmstadt": {
-   "match": "Bochum vs Darmstadt",
-   "start": "2026-11-27T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4027,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7665,
-       "text": "Menos de 4.5 tiros a puerta de Darmstadt",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7553,
-       "text": "Menos de 5.5 córners de Darmstadt",
-       "odds": 1.35
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.685,
-       "text": "Menos de 11.5 faltas de Darmstadt",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1498,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7665,
-       "text": "Menos de 4.5 tiros a puerta de Darmstadt",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7553,
-       "text": "Menos de 5.5 córners de Darmstadt",
-       "odds": 1.35
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.685,
-       "text": "Menos de 11.5 faltas de Darmstadt",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6648,
-       "text": "Menos de 2.5 tarjetas de Bochum",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5695,
-       "text": "Más de 2.5 goles",
-       "odds": 1.63
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.433,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.755257368548968,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Darmstadt",
-       "odds": 1.35
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.5694841831213201,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.63
-      }
-     ],
-     "odds": 2.2,
-     "edge": -0.047,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7665332799637784,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Darmstadt"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.755257368548968,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Darmstadt"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6850188161113036,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Darmstadt"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6648224092574229,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Bochum"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5694841831213201,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "D2|2026-11-27|Heidenheim|Nurnberg": {
-   "match": "Heidenheim vs Nurnberg",
-   "start": "2026-11-27T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.345,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7286,
-       "text": "Menos de 2.5 tarjetas de Heidenheim",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 22.5,
-       "p": 0.6966,
-       "text": "Menos de 22.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6336,
-       "text": "Más de 2.5 goles",
-       "odds": 1.39
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1512,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7286,
-       "text": "Menos de 2.5 tarjetas de Heidenheim",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 22.5,
-       "p": 0.6966,
-       "text": "Menos de 22.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6336,
-       "text": "Más de 2.5 goles",
-       "odds": 1.39
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6138,
-       "text": "Menos de 5.5 córners de Nurnberg",
-       "odds": 1.5
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 5.5,
-       "p": 0.5663,
-       "text": "Más de 5.5 tiros a puerta de Heidenheim",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3923,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6336054552359924,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.39
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6137984936032072,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Nurnberg",
-       "odds": 1.5
-      }
-     ],
-     "odds": 2.08,
-     "edge": -0.182,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7285919436027719,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Heidenheim"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.6966126869836289,
-     "line": 22.5,
-     "text": "Menos de 22.5 faltas"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6336054552359924,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6137984936032072,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Nurnberg"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": 1,
-     "p": 0.5662922056924291,
-     "line": 5.5,
-     "text": "Más de 5.5 tiros a puerta de Heidenheim"
-    }
-   ]
-  },
-  "N1|2026-11-27|Groningen|Willem II": {
-   "match": "Groningen vs Willem II",
-   "start": "2026-11-27T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.5032,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8917,
-       "text": "Menos de 5.5 tiros a puerta de Willem II",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 21.5,
-       "p": 0.7573,
-       "text": "Menos de 21.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7406,
-       "text": "Menos de 4.5 córners de Willem II",
-       "odds": 1.34
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.237,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8917,
-       "text": "Menos de 5.5 tiros a puerta de Willem II",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 21.5,
-       "p": 0.7573,
-       "text": "Menos de 21.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7406,
-       "text": "Menos de 4.5 córners de Willem II",
-       "odds": 1.34
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 1.5,
-       "p": 0.6926,
-       "text": "Menos de 1.5 tarjetas de Groningen",
-       "odds": 1.36
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6497,
-       "text": "Más de 2.5 goles",
-       "odds": 1.42
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5148,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.740614832560966,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Willem II",
-       "odds": 1.34
-      },
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.6925900518619345,
-       "line": 1.5,
-       "text": "Menos de 1.5 tarjetas de Groningen",
-       "odds": 1.36
-      }
-     ],
-     "odds": 1.82,
-     "edge": -0.062,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8917132636916486,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Willem II"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.7573492019377673,
-     "line": 21.5,
-     "text": "Menos de 21.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.740614832560966,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Willem II"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6925900518619345,
-     "line": 1.5,
-     "text": "Menos de 1.5 tarjetas de Groningen"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6497102954832916,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
   "D1|2026-11-27|Werder Bremen|M'gladbach": {
    "match": "Werder Bremen vs M'gladbach",
    "start": "2026-11-27T19:30:00+00:00",
@@ -51176,158 +51362,6 @@
      "p": 0.6032793940941087,
      "line": 2.5,
      "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "SP2|2026-11-27|Leganes|Sabadell": {
-   "match": "Leganes vs Sabadell",
-   "start": "2026-11-27T19:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4313,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7593,
-       "text": "Menos de 4.5 tiros a puerta de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7217,
-       "text": "Más de 13.5 faltas de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7153,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.56
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1517,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7593,
-       "text": "Menos de 4.5 tiros a puerta de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7217,
-       "text": "Más de 13.5 faltas de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7153,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.56
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6576,
-       "text": "Menos de 3.5 tarjetas de Sabadell",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5845,
-       "text": "Menos de 5.5 córners de Leganes",
-       "odds": 1.33
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4163,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.7152892146263288,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.56
-      },
-      {
-       "stat": "corners",
-       "var": "corners_h",
-       "sign": -1,
-       "p": 0.584499015048705,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Leganes",
-       "odds": 1.33
-      }
-     ],
-     "odds": 2.07,
-     "edge": -0.136,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7593401207895247,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Sabadell"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": 1,
-     "p": 0.7217444075439577,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Sabadell"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.7152892146263288,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6576045313484495,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Sabadell"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.584499015048705,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Leganes"
     }
    ]
   },
@@ -51456,595 +51490,6 @@
     }
    ]
   },
-  "F1|2026-11-27|Brest|Paris FC": {
-   "match": "Brest vs Paris FC",
-   "start": "2026-11-27T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3617,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7559,
-       "text": "Menos de 2.5 tarjetas de Brest",
-       "odds": 1.28
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.7044,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.41
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6702,
-       "text": "Menos de 5.5 tiros a puerta de Brest",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2103,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7559,
-       "text": "Menos de 2.5 tarjetas de Brest",
-       "odds": 1.28
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.7044,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.41
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6702,
-       "text": "Menos de 5.5 tiros a puerta de Brest",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.5899,
-       "text": "Más de 11.5 faltas de Brest",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.533,
-     "legs": [
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.755946234365144,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Brest",
-       "odds": 1.28
-      },
-      {
-       "stat": "corners",
-       "var": "corners_t",
-       "sign": -1,
-       "p": 0.7044043911966156,
-       "line": 10.5,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.41
-      }
-     ],
-     "odds": 1.8,
-     "edge": -0.038,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.755946234365144,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Brest"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_t",
-     "sign": -1,
-     "p": 0.7044043911966156,
-     "line": 10.5,
-     "text": "Menos de 10.5 córners"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6701681127722079,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Brest"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.5898645027866587,
-     "line": 11.5,
-     "text": "Más de 11.5 faltas de Brest"
-    }
-   ]
-  },
-  "I1|2026-11-27|Venezia|Bologna": {
-   "match": "Venezia vs Bologna",
-   "start": "2026-11-27T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4623,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8231,
-       "text": "Menos de 5.5 tiros a puerta de Venezia",
-       "odds": 1.15
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7336,
-       "text": "Menos de 2.5 tarjetas de Bologna",
-       "odds": 1.34
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7226,
-       "text": "Menos de 5.5 córners de Venezia",
-       "odds": 1.38
-      }
-     ],
-     "odds": 2.13,
-     "edge": -0.015,
-     "sim": false
-    },
-    {
-     "kind": "larga",
-     "p": 0.2832,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8231,
-       "text": "Menos de 5.5 tiros a puerta de Venezia",
-       "odds": 1.15
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7336,
-       "text": "Menos de 2.5 tarjetas de Bologna",
-       "odds": 1.34
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7226,
-       "text": "Menos de 5.5 córners de Venezia",
-       "odds": 1.38
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6045,
-       "text": "Más de 11.5 faltas de Venezia",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5368,
-     "legs": [
-      {
-       "stat": "cards",
-       "var": "cards_a",
-       "sign": -1,
-       "p": 0.7335791536747209,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Bologna",
-       "odds": 1.34
-      },
-      {
-       "stat": "corners",
-       "var": "corners_h",
-       "sign": -1,
-       "p": 0.7225682846019063,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Venezia",
-       "odds": 1.38
-      }
-     ],
-     "odds": 1.85,
-     "edge": -0.007,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.8231364850699658,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Venezia"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.7335791536747209,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Bologna"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.7225682846019063,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Venezia"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.6045076745228717,
-     "line": 11.5,
-     "text": "Más de 11.5 faltas de Venezia"
-    }
-   ]
-  },
-  "E0|2026-11-27|Nott'm Forest|Chelsea": {
-   "match": "Nott'm Forest vs Chelsea",
-   "start": "2026-11-27T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.317,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7457,
-       "text": "Menos de 5.5 tiros a puerta de Nott'm Forest",
-       "odds": 1.47
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7263,
-       "text": "Menos de 2.5 tarjetas de Nott'm Forest",
-       "odds": 1.53
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6295,
-       "text": "Más de 11.5 faltas de Nott'm Forest",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1332,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7457,
-       "text": "Menos de 5.5 tiros a puerta de Nott'm Forest",
-       "odds": 1.47
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7263,
-       "text": "Menos de 2.5 tarjetas de Nott'm Forest",
-       "odds": 1.53
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6295,
-       "text": "Más de 11.5 faltas de Nott'm Forest",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6169,
-       "text": "Menos de 5.5 córners de Nott'm Forest",
-       "odds": 1.53
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5592,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.87
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3333,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_h",
-       "sign": -1,
-       "p": 0.7456811633074942,
-       "line": 5.5,
-       "text": "Menos de 5.5 tiros a puerta de Nott'm Forest",
-       "odds": 1.47
-      },
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.7263260587915534,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Nott'm Forest",
-       "odds": 1.53
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5592283441874615,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.87
-      }
-     ],
-     "odds": 4.21,
-     "edge": 0.402,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7456811633074942,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Nott'm Forest"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7263260587915534,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Nott'm Forest"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.6295123013703834,
-     "line": 11.5,
-     "text": "Más de 11.5 faltas de Nott'm Forest"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6168793878239902,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Nott'm Forest"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5592283441874615,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
-  },
-  "E1|2026-11-27|Southampton|Middlesbrough": {
-   "match": "Southampton vs Middlesbrough",
-   "start": "2026-11-27T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3945,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.757,
-       "text": "Menos de 11.5 faltas de Southampton",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7534,
-       "text": "Menos de 2.5 tarjetas de Southampton",
-       "odds": 1.38
-      },
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.6579,
-       "text": "Más de 3.5 tiros a puerta de Middlesbrough",
-       "odds": 1.28
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1514,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.757,
-       "text": "Menos de 11.5 faltas de Southampton",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7534,
-       "text": "Menos de 2.5 tarjetas de Southampton",
-       "odds": 1.38
-      },
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.6579,
-       "text": "Más de 3.5 tiros a puerta de Middlesbrough",
-       "odds": 1.28
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5962,
-       "text": "Más de 2.5 goles",
-       "odds": 1.55
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5647,
-       "text": "Menos de 5.5 córners de Southampton",
-       "odds": 1.54
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4474,
-     "legs": [
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.7534472858859858,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Southampton",
-       "odds": 1.38
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.5961686627150509,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.55
-      }
-     ],
-     "odds": 2.14,
-     "edge": -0.043,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7570332610957431,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Southampton"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7534472858859858,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Southampton"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": 1,
-     "p": 0.6578960754777545,
-     "line": 3.5,
-     "text": "Más de 3.5 tiros a puerta de Middlesbrough"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5961686627150509,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.564670877805771,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Southampton"
-    }
-   ]
-  },
   "SP1|2026-11-27|Levante|Santander": {
    "match": "Levante vs Santander",
    "start": "2026-11-27T20:00:00+00:00",
@@ -52151,142 +51596,6 @@
      "p": 0.5995904924666444,
      "line": 2.5,
      "text": "Menos de 2.5 tarjetas de Levante"
-    }
-   ]
-  },
-  "P1|2026-11-27|Maritimo|Nacional": {
-   "match": "Maritimo vs Nacional",
-   "start": "2026-11-27T20:15:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2442,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6577,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.58
-      },
-      {
-       "var": "cards_t",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6493,
-       "text": "Menos de 5.5 tarjetas",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 26.5,
-       "p": 0.6317,
-       "text": "Más de 26.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1538,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6577,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.58
-      },
-      {
-       "var": "cards_t",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6493,
-       "text": "Menos de 5.5 tarjetas",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 26.5,
-       "p": 0.6317,
-       "text": "Más de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6242,
-       "text": "Menos de 4.5 córners de Nacional",
-       "odds": 1.44
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4073,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.657692076783921,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.58
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6242312843798797,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Nacional",
-       "odds": 1.44
-      }
-     ],
-     "odds": 2.28,
-     "edge": -0.073,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.657692076783921,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_t",
-     "sign": -1,
-     "p": 0.6493163164664282,
-     "line": 5.5,
-     "text": "Menos de 5.5 tarjetas"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.6316642364386502,
-     "line": 26.5,
-     "text": "Más de 26.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6242312843798797,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Nacional"
     }
    ]
   },
@@ -66879,27 +66188,1015 @@
      "text": "Menos de 5.5 tarjetas"
     }
    ]
+  },
+  "T1|2026-11-30|Goztep|Trabzonspor": {
+   "match": "Goztep vs Trabzonspor",
+   "start": "2026-11-30T16:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.4214,
+     "legs": [
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.9118,
+       "text": "Menos de 13.5 faltas de Trabzonspor",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6924,
+       "text": "Menos de 2.5 tarjetas de Trabzonspor",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6354,
+       "text": "Menos de 5.5 córners de Goztep",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2882,
+     "legs": [
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.9118,
+       "text": "Menos de 13.5 faltas de Trabzonspor",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6924,
+       "text": "Menos de 2.5 tarjetas de Trabzonspor",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6354,
+       "text": "Menos de 5.5 córners de Goztep",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.62,
+       "text": "Menos de 5.5 tiros a puerta de Goztep",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.9117975521714747,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Trabzonspor"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6924350858117643,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Trabzonspor"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_h",
+     "sign": -1,
+     "p": 0.6353524225797863,
+     "line": 5.5,
+     "text": "Menos de 5.5 córners de Goztep"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.6199898333206957,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Goztep"
+    }
+   ]
+  },
+  "I1|2026-11-30|Lecce|Atalanta": {
+   "match": "Lecce vs Atalanta",
+   "start": "2026-11-30T17:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.4075,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7394,
+       "text": "Menos de 2.5 tarjetas de Atalanta",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7389,
+       "text": "Menos de 5.5 tiros a puerta de Lecce",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6882,
+       "text": "Menos de 5.5 córners de Lecce",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2524,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7394,
+       "text": "Menos de 2.5 tarjetas de Atalanta",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7389,
+       "text": "Menos de 5.5 tiros a puerta de Lecce",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6882,
+       "text": "Menos de 5.5 córners de Lecce",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": -1,
+       "line": 11.5,
+       "p": 0.6303,
+       "text": "Menos de 11.5 faltas de Lecce",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.7393784429118646,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Atalanta"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.7389323121619435,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Lecce"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_h",
+     "sign": -1,
+     "p": 0.6881851953235448,
+     "line": 5.5,
+     "text": "Menos de 5.5 córners de Lecce"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": -1,
+     "p": 0.6303130309454378,
+     "line": 11.5,
+     "text": "Menos de 11.5 faltas de Lecce"
+    }
+   ]
+  },
+  "T1|2026-11-30|Besiktas|Galatasaray": {
+   "match": "Besiktas vs Galatasaray",
+   "start": "2026-11-30T18:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3085,
+     "legs": [
+      {
+       "var": "fouls_h",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.694,
+       "text": "Menos de 13.5 faltas de Besiktas",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6773,
+       "text": "Menos de 2.5 tarjetas de Besiktas",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6173,
+       "text": "Menos de 4.5 tiros a puerta de Galatasaray",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": -1,
+     "p": 0.6939543073461103,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Besiktas"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.6772753659446047,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Besiktas"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.6172639259173146,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Galatasaray"
+    }
+   ]
+  },
+  "I2|2026-11-30|Catanzaro|Avellino": {
+   "match": "Catanzaro vs Avellino",
+   "start": "2026-11-30T19:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3181,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7205,
+       "text": "Menos de 4.5 tiros a puerta de Avellino",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6751,
+       "text": "Menos de 2.5 tarjetas de Catanzaro",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.604,
+       "text": "Menos de 4.5 córners de Avellino",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2022,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7205,
+       "text": "Menos de 4.5 tiros a puerta de Avellino",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6751,
+       "text": "Menos de 2.5 tarjetas de Catanzaro",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.604,
+       "text": "Menos de 4.5 córners de Avellino",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.603,
+       "text": "Menos de 13.5 faltas de Catanzaro",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7204910600636674,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Avellino"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.6750887010512603,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Catanzaro"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6039693333276158,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Avellino"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": -1,
+     "p": 0.6029881110246689,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Catanzaro"
+    }
+   ]
+  },
+  "SP2|2026-11-30|Oviedo|Celta B": {
+   "match": "Oviedo vs Celta B",
+   "start": "2026-11-30T19:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3837,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7935,
+       "text": "Menos de 4.5 tiros a puerta de Celta B",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7149,
+       "text": "Menos de 4.5 córners de Celta B",
+       "odds": null
+      },
+      {
+       "var": "cards_t",
+       "sign": -1,
+       "line": 6.5,
+       "p": 0.6568,
+       "text": "Menos de 6.5 tarjetas",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2324,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7935,
+       "text": "Menos de 4.5 tiros a puerta de Celta B",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7149,
+       "text": "Menos de 4.5 córners de Celta B",
+       "odds": null
+      },
+      {
+       "var": "cards_t",
+       "sign": -1,
+       "line": 6.5,
+       "p": 0.6568,
+       "text": "Menos de 6.5 tarjetas",
+       "odds": null
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.5569,
+       "text": "Menos de 13.5 faltas de Celta B",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7934537279868586,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Celta B"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.7149186395921097,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Celta B"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_t",
+     "sign": -1,
+     "p": 0.6568065774334496,
+     "line": 6.5,
+     "text": "Menos de 6.5 tarjetas"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.5569026391701202,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Celta B"
+    }
+   ]
+  },
+  "I1|2026-11-30|Cagliari|Milan": {
+   "match": "Cagliari vs Milan",
+   "start": "2026-11-30T19:45:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.4944,
+     "legs": [
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.8481,
+       "text": "Menos de 5.5 tiros a puerta de Cagliari",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7529,
+       "text": "Menos de 5.5 córners de Cagliari",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7376,
+       "text": "Menos de 2.5 tarjetas de Milan",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.3012,
+     "legs": [
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.8481,
+       "text": "Menos de 5.5 tiros a puerta de Cagliari",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7529,
+       "text": "Menos de 5.5 córners de Cagliari",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7376,
+       "text": "Menos de 2.5 tarjetas de Milan",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 22.5,
+       "p": 0.6378,
+       "text": "Más de 22.5 faltas",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.8481339339401223,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Cagliari"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_h",
+     "sign": -1,
+     "p": 0.7529359414662188,
+     "line": 5.5,
+     "text": "Menos de 5.5 córners de Cagliari"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.7375889081106821,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Milan"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.6377862689949702,
+     "line": 22.5,
+     "text": "Más de 22.5 faltas"
+    }
+   ]
+  },
+  "SP1|2026-11-30|Espanol|Getafe": {
+   "match": "Espanol vs Getafe",
+   "start": "2026-11-30T20:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.443,
+     "legs": [
+      {
+       "var": "sot_t",
+       "sign": -1,
+       "line": 9.5,
+       "p": 0.76,
+       "text": "Menos de 9.5 tiros a puerta",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 25.5,
+       "p": 0.7253,
+       "text": "Más de 25.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7097,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.52
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2193,
+     "legs": [
+      {
+       "var": "sot_t",
+       "sign": -1,
+       "line": 9.5,
+       "p": 0.76,
+       "text": "Menos de 9.5 tiros a puerta",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 25.5,
+       "p": 0.7253,
+       "text": "Más de 25.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7097,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.52
+      },
+      {
+       "var": "corners_t",
+       "sign": -1,
+       "line": 10.5,
+       "p": 0.6803,
+       "text": "Menos de 10.5 córners",
+       "odds": null
+      },
+      {
+       "var": "cards_t",
+       "sign": 1,
+       "line": 4.5,
+       "p": 0.6492,
+       "text": "Más de 4.5 tarjetas",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_t",
+     "sign": -1,
+     "p": 0.75996308046219,
+     "line": 9.5,
+     "text": "Menos de 9.5 tiros a puerta"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.7252773119134575,
+     "line": 25.5,
+     "text": "Más de 25.5 faltas"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.7096772559013391,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_t",
+     "sign": -1,
+     "p": 0.6802939340128675,
+     "line": 10.5,
+     "text": "Menos de 10.5 córners"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_t",
+     "sign": 1,
+     "p": 0.6492229664787554,
+     "line": 4.5,
+     "text": "Más de 4.5 tarjetas"
+    }
+   ]
+  },
+  "P1|2026-11-30|Benfica|Famalicao": {
+   "match": "Benfica vs Famalicao",
+   "start": "2026-11-30T20:15:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.4503,
+     "legs": [
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7822,
+       "text": "Menos de 4.5 córners de Famalicao",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": 1,
+       "line": 4.5,
+       "p": 0.7799,
+       "text": "Más de 4.5 tiros a puerta de Benfica",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7075,
+       "text": "Menos de 2.5 tarjetas de Benfica",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1433,
+     "legs": [
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7822,
+       "text": "Menos de 4.5 córners de Famalicao",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": 1,
+       "line": 4.5,
+       "p": 0.7799,
+       "text": "Más de 4.5 tiros a puerta de Benfica",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.7075,
+       "text": "Menos de 2.5 tarjetas de Benfica",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.5801,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.5644,
+       "text": "Más de 2.5 goles",
+       "odds": 1.41
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.7822236796687485,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Famalicao"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": 1,
+     "p": 0.7799020860411623,
+     "line": 4.5,
+     "text": "Más de 4.5 tiros a puerta de Benfica"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.7075120799947985,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Benfica"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.5801375351723952,
+     "line": 26.5,
+     "text": "Más de 26.5 faltas"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": 1,
+     "p": 0.564366284852778,
+     "line": 2.5,
+     "text": "Más de 2.5 goles"
+    }
+   ]
+  },
+  "P1|2026-11-30|Casa Pia|Sp Braga": {
+   "match": "Casa Pia vs Sp Braga",
+   "start": "2026-11-30T20:15:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.4471,
+     "legs": [
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.8412,
+       "text": "Menos de 4.5 tiros a puerta de Casa Pia",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.8264,
+       "text": "Menos de 5.5 córners de Casa Pia",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6146,
+       "text": "Menos de 2.5 tarjetas de Sp Braga",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2289,
+     "legs": [
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.8412,
+       "text": "Menos de 4.5 tiros a puerta de Casa Pia",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.8264,
+       "text": "Menos de 5.5 córners de Casa Pia",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6146,
+       "text": "Menos de 2.5 tarjetas de Sp Braga",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.566,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.8411976454222287,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Casa Pia"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_h",
+     "sign": -1,
+     "p": 0.8263747956249288,
+     "line": 5.5,
+     "text": "Menos de 5.5 córners de Casa Pia"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6145508121271637,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Sp Braga"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.5660056974461283,
+     "line": 26.5,
+     "text": "Más de 26.5 faltas"
+    }
+   ]
+  },
+  "nfl|2026-12-01|Tampa Bay Buccaneers|Carolina Panthers": {
+   "match": "Tampa Bay Buccaneers vs Carolina Panthers",
+   "start": "2026-12-01T01:15Z",
+   "combos": [
+    {
+     "kind": "nfl",
+     "p": 0.2123,
+     "odds": 4.49,
+     "edge": -0.047,
+     "legs": [
+      {
+       "var": "win_away",
+       "sign": 1,
+       "line": 0.0,
+       "p": 0.41,
+       "odds": 2.34,
+       "text": "Gana Carolina Panthers"
+      },
+      {
+       "var": "total_t",
+       "sign": -1,
+       "line": 43.5,
+       "p": 0.499,
+       "odds": 1.917,
+       "text": "Menos de 43.5 puntos"
+      }
+     ],
+     "sim": false
+    }
+   ],
+   "priced": true,
+   "lines": [
+    "🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%"
+   ]
   }
  },
  "combo_sent": "2026-11-28T00:03:56.585502+00:00",
  "fc_sim_sent": "2026-11-27T19:26:47.027570+00:00",
  "fc_sim_n": 3761,
  "kambi_ok": [
-  "I2|2026-11-24|Juve Stabia|Catanzaro",
-  "I2|2026-11-24|Benevento|Empoli",
-  "I2|2026-11-24|Cesena|Ascoli",
-  "I2|2026-11-24|Palermo|Sudtirol",
-  "I2|2026-11-24|Vicenza|Carrarese",
-  "I2|2026-11-24|Virtus Entella|Verona",
-  "E1|2026-11-24|Bristol City|Wrexham",
-  "E1|2026-11-24|Cardiff|Preston",
-  "E1|2026-11-24|Charlton|Lincoln",
-  "E1|2026-11-24|Middlesbrough|Swansea",
-  "E1|2026-11-24|Portsmouth|West Ham",
-  "E1|2026-11-24|Sheffield United|Southampton",
-  "SC0|2026-11-24|Hibernian|Dundee",
-  "E1|2026-11-24|Wolves|Derby",
-  "SC0|2026-11-24|Rangers|Aberdeen",
   "I2|2026-11-25|Cremonese|Avellino",
   "I2|2026-11-25|Mantova|Arezzo",
   "I2|2026-11-25|Padova|Sampdoria",
@@ -66981,7 +67278,7 @@
   "P1|2026-11-28|Guimaraes|Estrela"
  ],
  "paper_sent": "2026-11-27T21:06:44.532703+00:00",
- "sgp_res_n": 942,
+ "sgp_res_n": 974,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
@@ -67157,8 +67454,9 @@
   "nba|2026-11-28|Phoenix Suns|Dallas Mavericks",
   "nba|2026-11-28|LA Clippers|New Orleans Pelicans",
   "nba|2026-11-28|Portland Trail Blazers|Golden State Warriors",
-  "nba|2026-11-28|Washington Wizards|Orlando Magic"
+  "nba|2026-11-28|Washington Wizards|Orlando Magic",
+  "nba|2026-11-28|Charlotte Hornets|Brooklyn Nets"
  ],
  "radar_date": "2026-11-27",
- "sgp_res_sent": "2026-11-26T00:17:28.371403+00:00"
+ "sgp_res_sent": "2026-11-28T00:35:05.658369+00:00"
 }

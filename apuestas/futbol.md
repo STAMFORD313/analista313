@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 01:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Columbus Crew vs Inter Miami — 28/11 · 02:00
 
@@ -13458,4 +13458,318 @@ Marcadores: 1-0 19% · 0-0 14% · 2-0 14% · 1-1 12%
 • H2H: 13 desde 2013: 7V-3E-3D · 2.5 goles/partido · +2.5 en 54%  
 • Bajas: Boca Juniors: sin bajas; Gimnasia L.P.: sin bajas  
 • Favorito de las casas: Boca Juniors @ 1.42  
+
+## Guadalajara Chivas vs Pachuca — 30/11 · 02:07
+
+👀 candidata · 🇲🇽 Liga MX · **Gana Guadalajara Chivas** @ **1.66** (mejor del mercado) · prob 57% vs casas 57% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.40 - 1.12)  
+1 44% · X 27% · 2 28%  
+1X 72% · X2 56% · 12 73%  
++1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Guadalajara Chivas ✅✅➖✅❌ | Pachuca ✅✅✅✅✅  
+• H2H: 31 desde 2012: 10V-11E-10D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Guadalajara Chivas: sin bajas; Pachuca: sin bajas  
+• Favorito de las casas: Guadalajara Chivas @ 1.66  
+
+## Cruz Azul vs Club Leon — 30/11 · 04:00
+
+👀 candidata · 🇲🇽 Liga MX · **Gana Club Leon** @ **3.80** (mejor del mercado) · prob 25% vs casas 25% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 0.99)  
+1 63% · X 22% · 2 16%  
+1X 84% · X2 37% · 12 78%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 2-0 10% · 1-0 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Cruz Azul ✅✅✅❌✅ | Club Leon ➖❌➖✅❌  
+• H2H: 36 desde 2012: 21V-9E-6D · 2.6 goles/partido · +2.5 en 56%  
+• Bajas: Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez); Club Leon: 0 fuera, 1 duda  
+• Favorito de las casas: Cruz Azul @ 1.84  
+
+## Goztep vs Trabzonspor — 30/11 · 17:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Goztep +0.5 (hándicap asiático)** @ **1.80** (mejor del mercado) · prob 53% vs casas 53% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.38)  
+1 27% · X 29% · 2 43%  
+1X 57% · X2 73% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Goztep ✅✅✅❌✅ | Trabzonspor ✅✅✅✅✅  
+• H2H: 14 desde 2017: 4V-4E-6D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Goztep: 0 fuera, 2 duda; Trabzonspor: 3 fuera, 5 duda (Chibuike Nwaiwu, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.7: total +9.5 49% · Goztep +5.5 36% · Trabzonspor +4.5 48%  
+Tarjetas 2.4 - 1.9: total +4.5 43% · Goztep +2.5 43% · Trabzonspor +2.5 31%  
+Faltas 16.6 - 9.1: total +26.5 43% · Goztep +13.5 75% · Trabzonspor +13.5 9%  
+Tiros a puerta 5.0 - 4.6: total +9.5 48% · Goztep +5.5 38% · Trabzonspor +4.5 47%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Goztep → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Goztep + Menos de 5.5 tiros a puerta de Goztep → prob. 29%, cuota justa 3.47  
+
+## Lecce vs Atalanta — 30/11 · 18:30
+
+👀 candidata · 🇮🇹 Serie A · **Atalanta -0.5 (hándicap asiático)** @ **1.91** (mejor del mercado) · prob 52% vs casas 52% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.72 - 1.93)  
+1 20% · X 23% · 2 56%  
+1X 44% · X2 80% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 28% · Ambos marcan 44%  
+Marcadores: 0-2 13% · 0-1 13% · 1-1 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Lecce ❌❌❌➖❌ | Atalanta ➖➖❌✅➖  
+• H2H: 14 desde 2008: 2V-4E-8D · 3.1 goles/partido · +2.5 en 64%  
+• Bajas: Lecce: 2 fuera, 1 duda (Santiago Pierotti, Filip Marchwinski); Atalanta: 1 fuera, 2 duda (Isak Hien)  
+• Favorito de las casas: Atalanta @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 4.5: total +9.5 42% · Lecce +5.5 31% · Atalanta +4.5 46%  
+Tarjetas 1.8 - 1.8: total +3.5 46% · Lecce +1.5 53% · Atalanta +2.5 26%  
+Faltas 10.6 - 11.9: total +22.5 48% · Lecce +11.5 37% · Atalanta +11.5 52%  
+Tiros a puerta 4.2 - 5.1: total +9.5 45% · Lecce +5.5 26% · Atalanta +4.5 55%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Atalanta + Menos de 5.5 tiros a puerta de Lecce + Menos de 5.5 córners de Lecce → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Atalanta + Menos de 5.5 tiros a puerta de Lecce + Menos de 5.5 córners de Lecce + Menos de 11.5 faltas de Lecce → prob. 25%, cuota justa 3.96  
+
+## Besiktas vs Galatasaray — 30/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Galatasaray +0.5 (hándicap asiático)** @ **1.80** (mejor del mercado) · prob 54% vs casas 53% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.28 - 1.54)  
+1 28% · X 29% · 2 43%  
+1X 57% · X2 72% · 12 71%  
++1.5 78% · +2.5 54% · +3.5 31% · Ambos marcan 57%  
+Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅➖✅✅ | Galatasaray ✅✅✅✅✅  
+• H2H: 42 desde 2005: 15V-6E-21D · 2.5 goles/partido · +2.5 en 55%  
+• Bajas: Besiktas: 1 fuera, 1 duda (Orkun Kokcu); Galatasaray: 1 fuera, 5 duda (Metehan Baltaci)  
+• Favorito de las casas: Besiktas @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 4.5: total +9.5 54% · Besiktas +5.5 46% · Galatasaray +4.5 45%  
+Tarjetas 2.0 - 2.5: total +4.5 47% · Besiktas +2.5 32% · Galatasaray +2.5 46%  
+Faltas 11.8 - 13.0: total +26.5 37% · Besiktas +13.5 31% · Galatasaray +13.5 43%  
+Tiros a puerta 5.7 - 4.1: total +9.5 50% · Besiktas +5.5 49% · Galatasaray +4.5 38%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Besiktas + Menos de 4.5 tiros a puerta de Galatasaray → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+
+## Odense vs Nordsjaelland — 30/11 · 19:00
+
+👀 candidata · 🇩🇰 Superliga · **Gana Odense** @ **3.60** (Bet365) · prob 26% vs casas 26% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.59 - 1.67)  
+1 33% · X 27% · 2 41%  
+1X 59% · X2 67% · 12 73%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 65%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Odense ✅➖✅❌✅ | Nordsjaelland ➖➖❌✅✅  
+• H2H: 35 desde 2012: 16V-8E-11D · 2.7 goles/partido · +2.5 en 51%  
+• Bajas: Odense: sin bajas; Nordsjaelland: sin bajas  
+• Favorito de las casas: Nordsjaelland @ 1.81  
+
+## Lillestrom vs HamKam — 30/11 · 19:00
+
+👀 candidata · 🇳🇴 Eliteserien · **Gana Lillestrom** @ **1.60** (Bet365) · prob 58% vs casas 58% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.79 - 1.39)  
+1 49% · X 25% · 2 26%  
+1X 74% · X2 51% · 12 75%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Lillestrom ✅✅✅✅✅ | HamKam ❌❌➖✅➖  
+• H2H: 3 desde 2024: 0V-1E-2D · 3.0 goles/partido · +2.5 en 33%  
+• Bajas: Lillestrom: sin bajas; HamKam: sin bajas  
+• Favorito de las casas: Lillestrom @ 1.60  
+
+## Korona Kielce vs Cracovia — 30/11 · 19:00
+
+👀 candidata · 🇵🇱 Ekstraklasa · **Gana Korona Kielce** @ **2.10** (Bet365) · prob 46% vs casas 46% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 43% · X 28% · 2 29%  
+1X 71% · X2 57% · 12 72%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Korona Kielce ❌✅❌❌❌ | Cracovia ➖❌❌❌✅  
+• H2H: 24 desde 2013: 6V-8E-10D · 2.5 goles/partido · +2.5 en 46%  
+• Bajas: Korona Kielce: sin bajas; Cracovia: sin bajas  
+• Favorito de las casas: Korona Kielce @ 2.10  
+
+## Catanzaro vs Avellino — 30/11 · 20:30
+
+👀 candidata · 🇮🇹 Serie B · **Empate** @ **3.40** (BetVictor) · prob 28% vs casas 28% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.11)  
+1 39% · X 29% · 2 31%  
+1X 69% · X2 61% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Catanzaro ➖➖❌✅✅ | Avellino ➖✅➖✅✅  
+• H2H: 4 desde 2005: 1V-1E-2D · 2.0 goles/partido · +2.5 en 25%  
+• Bajas: Catanzaro: sin bajas; Avellino: 4 fuera, 0 duda (Luca Di Maggio, Andrea Favilli, Lorenco Simic)  
+• Favorito de las casas: Catanzaro @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.2: total +9.5 48% · Catanzaro +5.5 43% · Avellino +4.5 40%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Catanzaro +2.5 32% · Avellino +2.5 43%  
+Faltas 12.7 - 13.6: total +27.5 40% · Catanzaro +13.5 40% · Avellino +13.5 49%  
+Tiros a puerta 4.8 - 3.5: total +8.5 44% · Catanzaro +5.5 34% · Avellino +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Avellino + Menos de 2.5 tarjetas de Catanzaro + Menos de 4.5 córners de Avellino → prob. 32%, cuota justa 3.14 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Avellino + Menos de 2.5 tarjetas de Catanzaro + Menos de 4.5 córners de Avellino + Menos de 13.5 faltas de Catanzaro → prob. 20%, cuota justa 4.94  
+
+## Oviedo vs Celta B — 30/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Gana Oviedo** @ **1.50** (Betfred) · prob 64% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.69 - 0.80)  
+1 54% · X 27% · 2 19%  
+1X 81% · X2 46% · 12 73%  
++1.5 72% · +2.5 45% · +3.5 24% · Ambos marcan 46%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Oviedo ➖❌✅❌❌ | Celta B ❌➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Oviedo: sin bajas; Celta B: sin bajas  
+• Favorito de las casas: Oviedo @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.5: total +9.5 59% · Oviedo +5.5 63% · Celta B +4.5 29%  
+Tarjetas 2.4 - 3.2: total +6.5 34% · Oviedo +2.5 44% · Celta B +3.5 40%  
+Faltas 13.4 - 13.2: total +26.5 49% · Oviedo +13.5 47% · Celta B +13.5 44%  
+Tiros a puerta 6.2 - 3.1: total +8.5 57% · Oviedo +5.5 56% · Celta B +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 6.5 tarjetas → prob. 38%, cuota justa 2.61 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 6.5 tarjetas + Menos de 13.5 faltas de Celta B → prob. 23%, cuota justa 4.30  
+
+## Cagliari vs Milan — 30/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 goles** @ **1.91** (Bet365) · prob 51% vs casas 51% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.96 - 1.58)  
+1 19% · X 27% · 2 54%  
+1X 46% · X2 81% · 12 73%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Cagliari ❌❌❌✅❌ | Milan ✅❌✅✅✅  
+• H2H: 38 desde 2005: 2V-8E-28D · 2.9 goles/partido · +2.5 en 55%  
+• Bajas: Cagliari: 3 fuera, 3 duda (Roberto Gagliardini, Mattia Felici, Kingstone Mutandwa); Milan: 5 fuera, 4 duda (Ruben Loftus-Cheek, Samuel Chukwueze, Alexis Saelemaekers)  
+• Favorito de las casas: Milan @ 1.73  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 4.9: total +9.5 40% · Cagliari +5.5 25% · Milan +4.5 50%  
+Tarjetas 1.8 - 1.8: total +3.5 47% · Cagliari +1.5 53% · Milan +2.5 26%  
+Faltas 12.8 - 11.8: total +22.5 64% · Cagliari +11.5 61% · Milan +11.5 52%  
+Tiros a puerta 3.5 - 5.1: total +9.5 36% · Cagliari +5.5 15% · Milan +4.5 56%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cagliari + Menos de 5.5 córners de Cagliari + Menos de 2.5 tarjetas de Milan → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cagliari + Menos de 5.5 córners de Cagliari + Menos de 2.5 tarjetas de Milan + Más de 22.5 faltas → prob. 30%, cuota justa 3.32  
+
+## Espanol vs Getafe — 30/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 goles** @ **2.50** (Bet365) · prob 39% vs casas 39% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 0.79)  
+1 45% · X 31% · 2 24%  
+1X 76% · X2 55% · 12 69%  
++1.5 57% · +2.5 29% · +3.5 12% · Ambos marcan 37%  
+Marcadores: 1-0 16% · 0-0 16% · 1-1 14% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Espanol ❌❌✅➖✅ | Getafe ➖❌✅❌❌  
+• H2H: 36 desde 2005: 15V-8E-13D · 2.1 goles/partido · +2.5 en 28%  
+• Bajas: Espanol: 3 fuera, 3 duda (Clemens Riedel, Pol Lozano, Kike Garcia); Getafe: 6 fuera, 2 duda (Martin Satriano, Djene, Djene)  
+• Favorito de las casas: Espanol @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.0: total +10.5 32% · Espanol +5.5 41% · Getafe +4.5 37%  
+Tarjetas 2.5 - 3.2: total +4.5 65% · Espanol +2.5 45% · Getafe +2.5 62%  
+Faltas 14.5 - 14.8: total +25.5 73% · Espanol +12.5 67% · Getafe +12.5 70%  
+Tiros a puerta 4.5 - 3.0: total +9.5 24% · Espanol +5.5 31% · Getafe +3.5 36%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Más de 25.5 faltas + Menos de 2.5 goles → prob. 44%, cuota justa 2.26 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Más de 25.5 faltas + Menos de 2.5 goles + Menos de 10.5 córners + Más de 4.5 tarjetas → prob. 22%, cuota justa 4.56  
+
+## Benfica vs Famalicao — 30/11 · 21:15
+
+👀 candidata · 🇵🇹 Primeira Liga · **Gana Benfica** @ **1.19** (Bwin) · prob 82% vs casas 82% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.17 - 0.78)  
+1 74% · X 18% · 2 9%  
+1X 91% · X2 26% · 12 82%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Benfica ❌✅✅✅✅ | Famalicao ✅❌✅❌✅  
+• H2H: 14 desde 2019: 9V-3E-2D · 2.7 goles/partido · +2.5 en 43%  
+• Bajas: Benfica: 1 fuera, 0 duda (Leandro Barreiro); Famalicao: 1 fuera, 1 duda (Rodrigo Pinheiro)  
+• Favorito de las casas: Benfica @ 1.19  
+📐 **Estadísticas esperadas**  
+Córners 8.1 - 3.1: total +9.5 66% · Benfica +5.5 74% · Famalicao +4.5 22%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Benfica +2.5 29% · Famalicao +2.5 55%  
+Faltas 13.5 - 14.4: total +26.5 58% · Benfica +13.5 48% · Famalicao +13.5 57%  
+Tiros a puerta 6.9 - 2.6: total +8.5 60% · Benfica +4.5 78% · Famalicao +3.5 28%  
+🧩 Crear apuesta: Menos de 4.5 córners de Famalicao + Más de 4.5 tiros a puerta de Benfica + Menos de 2.5 tarjetas de Benfica → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Famalicao + Más de 4.5 tiros a puerta de Benfica + Menos de 2.5 tarjetas de Benfica + Más de 26.5 faltas + Más de 2.5 goles → prob. 14%, cuota justa 6.98  
+
+## Casa Pia vs Sp Braga — 30/11 · 21:15
+
+👀 candidata · 🇵🇹 Primeira Liga · **Casa Pia +1 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 48% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.77 - 1.85)  
+1 16% · X 23% · 2 62%  
+1X 38% · X2 84% · 12 77%  
++1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 46%  
+Marcadores: 0-1 13% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Casa Pia ✅❌✅❌➖ | Sp Braga ❌❌❌✅✅  
+• H2H: 8 desde 2022: 3V-0E-5D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Casa Pia: 0 fuera, 2 duda; Sp Braga: 1 fuera, 1 duda (Carvalho)  
+• Favorito de las casas: Sp Braga @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 3.5 - 5.9: total +9.5 46% · Casa Pia +5.5 17% · Sp Braga +4.5 64%  
+Tarjetas 2.8 - 2.2: total +5.5 39% · Casa Pia +2.5 54% · Sp Braga +2.5 39%  
+Faltas 14.0 - 13.7: total +26.5 57% · Casa Pia +13.5 53% · Sp Braga +13.5 50%  
+Tiros a puerta 2.8 - 5.2: total +8.5 40% · Casa Pia +4.5 16% · Sp Braga +3.5 73%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Casa Pia + Menos de 5.5 córners de Casa Pia + Menos de 2.5 tarjetas de Sp Braga → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Casa Pia + Menos de 5.5 córners de Casa Pia + Menos de 2.5 tarjetas de Sp Braga + Más de 26.5 faltas → prob. 23%, cuota justa 4.37  
 

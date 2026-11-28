@@ -941,3 +941,35 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-26,Torreense vs Celtic,larga,4,0.2138,0,3,0.6775,,,0,,Más de 13.5 faltas de Anderlecht + Menos de 5.5 tiros a puerta de OFI Crete + Menos de 10.5 córners + Menos de 2.5 tarjetas de OFI Crete,1110
 2026-11-27,Buffalo Bills vs Kansas City Chiefs,nfl,2,0.2134,0,1,0.455,4.45,-0.05,0,,Gana Kansas City Chiefs + Menos de 47.5 puntos,1
 2026-11-27,Pittsburgh Steelers vs Denver Broncos,nfl,2,0.208,0,1,0.4495,4.57,-0.049,0,,Gana Pittsburgh Steelers + Más de 38.5 puntos,10
+2026-11-27,Alanyaspor vs Konyaspor,corta,3,0.326,0,2,0.6718,,,0,,Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor,110
+2026-11-27,Alanyaspor vs Konyaspor,larga,4,0.1863,0,3,0.6458,,,0,,Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Alanyaspor + Menos de 13.5 faltas de Konyaspor,1101
+2026-11-27,Rizespor vs Kasimpasa,corta,3,0.3754,0,2,0.7092,,,0,,Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa,110
+2026-11-27,Rizespor vs Kasimpasa,larga,5,0.1396,0,4,0.6747,,,0,,Menos de 13.5 faltas de Rizespor + Menos de 2.5 tarjetas de Rizespor + Menos de 4.5 tiros a puerta de Kasimpasa + Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles,11011
+2026-11-27,Rizespor vs Kasimpasa,valor,2,0.3905,1,2,0.623,2.54,-0.007,0,,Menos de 4.5 córners de Kasimpasa + Más de 2.5 goles,11
+2026-11-27,Bochum vs Darmstadt,corta,3,0.4027,0,2,0.7356,,,0,,Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt,101
+2026-11-27,Bochum vs Darmstadt,larga,5,0.1498,0,3,0.6882,,,0,,Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 11.5 faltas de Darmstadt + Menos de 2.5 tarjetas de Bochum + Más de 2.5 goles,10110
+2026-11-27,Bochum vs Darmstadt,valor,2,0.433,0,0,0.6624,2.2,-0.047,0,,Menos de 5.5 córners de Darmstadt + Más de 2.5 goles,00
+2026-11-27,Heidenheim vs Nurnberg,corta,3,0.345,0,2,0.6863,,,0,,Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles,101
+2026-11-27,Heidenheim vs Nurnberg,larga,5,0.1512,0,4,0.6478,,,0,,Menos de 2.5 tarjetas de Heidenheim + Menos de 22.5 faltas + Más de 2.5 goles + Menos de 5.5 córners de Nurnberg + Más de 5.5 tiros a puerta de Heidenheim,10111
+2026-11-27,Heidenheim vs Nurnberg,valor,2,0.3923,1,2,0.6237,2.08,-0.182,0,,Más de 2.5 goles + Menos de 5.5 córners de Nurnberg,11
+2026-11-27,Groningen vs Willem II,corta,3,0.5032,0,2,0.7965,,,0,,Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II,101
+2026-11-27,Groningen vs Willem II,larga,5,0.237,0,3,0.7464,,,0,,Menos de 5.5 tiros a puerta de Willem II + Menos de 21.5 faltas + Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen + Más de 2.5 goles,10110
+2026-11-27,Groningen vs Willem II,valor,2,0.5148,1,2,0.7166,1.82,-0.062,0,,Menos de 4.5 córners de Willem II + Menos de 1.5 tarjetas de Groningen,11
+2026-11-27,Leganes vs Sabadell,corta,3,0.4313,1,3,0.7321,,,0,,Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles,111
+2026-11-27,Leganes vs Sabadell,larga,5,0.1517,1,5,0.6877,,,0,,Menos de 4.5 tiros a puerta de Sabadell + Más de 13.5 faltas de Sabadell + Menos de 2.5 goles + Menos de 3.5 tarjetas de Sabadell + Menos de 5.5 córners de Leganes,11111
+2026-11-27,Leganes vs Sabadell,valor,2,0.4163,1,2,0.6499,2.07,-0.136,0,,Menos de 2.5 goles + Menos de 5.5 córners de Leganes,11
+2026-11-27,Brest vs Paris FC,corta,3,0.3617,1,3,0.7102,,,0,,Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest,111
+2026-11-27,Brest vs Paris FC,larga,4,0.2103,0,3,0.6801,,,0,,Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners + Menos de 5.5 tiros a puerta de Brest + Más de 11.5 faltas de Brest,1110
+2026-11-27,Brest vs Paris FC,valor,2,0.533,1,2,0.7302,1.8,-0.038,0,,Menos de 2.5 tarjetas de Brest + Menos de 10.5 córners,11
+2026-11-27,Venezia vs Bologna,corta,3,0.4623,0,2,0.7598,2.13,-0.015,0,,Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia,101
+2026-11-27,Venezia vs Bologna,larga,4,0.2832,0,2,0.7209,,,0,,Menos de 5.5 tiros a puerta de Venezia + Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia + Más de 11.5 faltas de Venezia,1010
+2026-11-27,Venezia vs Bologna,valor,2,0.5368,0,1,0.7281,1.85,-0.007,0,,Menos de 2.5 tarjetas de Bologna + Menos de 5.5 córners de Venezia,01
+2026-11-27,Nott'm Forest vs Chelsea,corta,3,0.317,0,2,0.7005,,,0,,Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest,011
+2026-11-27,Nott'm Forest vs Chelsea,larga,5,0.1332,0,3,0.6555,,,0,,Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Más de 11.5 faltas de Nott'm Forest + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles,01110
+2026-11-27,Nott'm Forest vs Chelsea,valor,3,0.3333,0,1,0.6771,4.21,0.402,1,-1.0,Menos de 5.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Nott'm Forest + Menos de 2.5 goles,010
+2026-11-27,Southampton vs Middlesbrough,corta,3,0.3945,0,2,0.7228,,,0,,Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough,101
+2026-11-27,Southampton vs Middlesbrough,larga,5,0.1514,0,2,0.6658,,,0,,Menos de 11.5 faltas de Southampton + Menos de 2.5 tarjetas de Southampton + Más de 3.5 tiros a puerta de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Southampton,10100
+2026-11-27,Southampton vs Middlesbrough,valor,2,0.4474,0,0,0.6748,2.14,-0.043,0,,Menos de 2.5 tarjetas de Southampton + Más de 2.5 goles,00
+2026-11-27,Maritimo vs Nacional,corta,3,0.2442,0,1,0.6462,,,0,,Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas,001
+2026-11-27,Maritimo vs Nacional,larga,4,0.1538,0,2,0.6407,,,0,,Menos de 2.5 goles + Menos de 5.5 tarjetas + Más de 26.5 faltas + Menos de 4.5 córners de Nacional,0011
+2026-11-27,Maritimo vs Nacional,valor,2,0.4073,0,1,0.641,2.28,-0.073,0,,Menos de 2.5 goles + Menos de 4.5 córners de Nacional,01

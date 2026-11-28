@@ -83804,14 +83804,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2404295,263279,Arsenal,Liverpool,,
 2402470,263279,Tottenham,Arsenal,,
 2402471,263279,Chelsea,Man City,,
-2401354,263345,Argentina,Spain,1,0
-2401355,263345,Brazil,England,0,3
-2401356,263345,England,Argentina,1,2
-2401357,263345,Spain,France,1,2
-2401358,263345,France,England,0,1
-2401359,263345,Argentina,Brazil,4,0
-2401360,263345,Brazil,France,3,4
-2401361,263345,England,Spain,3,1
+2401354,263345,Argentina,Spain,1.0,0.0
+2401355,263345,Brazil,England,0.0,3.0
+2401356,263345,England,Argentina,1.0,2.0
+2401357,263345,Spain,France,1.0,2.0
+2401358,263345,France,England,0.0,1.0
+2401359,263345,Argentina,Brazil,4.0,0.0
+2401360,263345,Brazil,France,3.0,4.0
+2401361,263345,England,Spain,3.0,1.0
 2401362,263345,Spain,Brazil,,
 2401363,263345,France,Argentina,,
 2401364,263345,Spain,Argentina,,
@@ -83824,16 +83824,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2401371,263345,Spain,England,,
 2401372,263345,Brazil,Spain,,
 2401373,263345,Argentina,France,,
-2402312,263359,Roma,Bologna,0,0
-2402313,263359,Juventus,Sassuolo,2,1
-2402314,263359,Sassuolo,Roma,2,1
-2402315,263359,Bologna,Napoli,0,3
-2402316,263359,Napoli,Sassuolo,3,0
-2402317,263359,Roma,Juventus,1,1
-2402318,263359,Juventus,Napoli,0,2
-2402319,263359,Sassuolo,Bologna,1,2
-2402320,263359,Bologna,Juventus,0,3
-2402321,263359,Napoli,Roma,4,1
+2402312,263359,Roma,Bologna,0.0,0.0
+2402313,263359,Juventus,Sassuolo,2.0,1.0
+2402314,263359,Sassuolo,Roma,2.0,1.0
+2402315,263359,Bologna,Napoli,0.0,3.0
+2402316,263359,Napoli,Sassuolo,3.0,0.0
+2402317,263359,Roma,Juventus,1.0,1.0
+2402318,263359,Juventus,Napoli,0.0,2.0
+2402319,263359,Sassuolo,Bologna,1.0,2.0
+2402320,263359,Bologna,Juventus,0.0,3.0
+2402321,263359,Napoli,Roma,4.0,1.0
 2402322,263359,Bologna,Roma,,
 2402323,263359,Sassuolo,Juventus,,
 2402324,263359,Roma,Sassuolo,,
@@ -83844,3 +83844,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2402329,263359,Bologna,Sassuolo,,
 2402330,263359,Juventus,Bologna,,
 2402331,263359,Roma,Napoli,,
+2401534,263341,Real Madrid,River Plate,2,0
+2401535,263341,Boca Juniors,Man City,1,3
+2401536,263341,Man City,Real Madrid,2,1
+2401537,263341,River Plate,Paris,1,1
+2401538,263341,Paris,Man City,0,3
+2401539,263341,Real Madrid,Boca Juniors,1,4
+2401540,263341,Boca Juniors,Paris,2,1
+2401541,263341,Man City,River Plate,1,1
+2401542,263341,River Plate,Boca Juniors,0,2
+2401543,263341,Paris,Real Madrid,2,1
+2401544,263341,River Plate,Real Madrid,,
+2401545,263341,Man City,Boca Juniors,,
+2401546,263341,Real Madrid,Man City,,
+2401547,263341,Paris,River Plate,,
+2401548,263341,Man City,Paris,,
+2401549,263341,Boca Juniors,Real Madrid,,
+2401550,263341,Paris,Boca Juniors,,
+2401551,263341,River Plate,Man City,,
+2401552,263341,Boca Juniors,River Plate,,
+2401553,263341,Real Madrid,Paris,,

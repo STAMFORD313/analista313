@@ -1,94 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 28/11/2026 01:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Texas A&M Aggies vs Texas Longhorns — 28/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 40.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **44.1** puntos · línea 40.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅  
-• H2H: 2 desde 2024: 0-2  
-• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas  
-
-## Texas A&M Aggies vs Texas Longhorns — 28/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Texas A&M Aggies +11.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Texas A&amp;M Aggies cubre +11.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅  
-• H2H: 2 desde 2024: 0-2  
-• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas  
-
-## Texas A&M Aggies vs Texas Longhorns — 28/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Texas Longhorns** @ **1.22** (DraftKings) · prob 79% vs casas 79% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.655 partidos y bajas)  
-Gana Texas A&amp;M Aggies 13% · Gana Texas Longhorns 87%  
-Casas: Texas A&amp;M Aggies 21% · Texas Longhorns 79%  
-Hándicap TEX -11.5 · Total puntos 40.5  
-🔎 **Claves**  
-• Forma: Texas A&amp;M Aggies ✅❌❌❌❌ | Texas Longhorns ✅✅✅✅✅  
-• H2H: 2 desde 2024: 0-2  
-• Bajas: Texas A&amp;M Aggies: sin bajas; Texas Longhorns: sin bajas  
-• Favorito de las casas: Texas Longhorns @ 1.22  
-
-## Wisconsin Badgers vs Minnesota Golden Gophers — 28/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 37.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **41.8** puntos · línea 37.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅  
-• H2H: 10 desde 2016: 5-5  
-• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas  
-
-## Wisconsin Badgers vs Minnesota Golden Gophers — 28/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Wisconsin Badgers -7.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Wisconsin Badgers cubre -7.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅  
-• H2H: 10 desde 2016: 5-5  
-• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas  
-
-## Wisconsin Badgers vs Minnesota Golden Gophers — 28/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Wisconsin Badgers** @ **1.33** (DraftKings) · prob 72% vs casas 72% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.655 partidos y bajas)  
-Gana Wisconsin Badgers 67% · Gana Minnesota Golden Gophers 33%  
-Casas: Wisconsin Badgers 72% · Minnesota Golden Gophers 28%  
-Hándicap WIS -7.5 · Total puntos 37.5  
-🔎 **Claves**  
-• Forma: Wisconsin Badgers ✅❌✅❌✅ | Minnesota Golden Gophers ✅❌❌❌✅  
-• H2H: 10 desde 2016: 5-5  
-• Bajas: Wisconsin Badgers: sin bajas; Minnesota Golden Gophers: sin bajas  
-• Favorito de las casas: Wisconsin Badgers @ 1.33  
+Actualizado 28/11/2026 01:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Utah Utes vs West Virginia Mountaineers — 28/11 · 03:00
 
@@ -2953,4 +2865,54 @@ Hándicap CLE -4.5 · Total puntos 40.5
 • Favorito de las casas: Cleveland Browns @ 1.41  
 🧩 Combinada: Gana Las Vegas Raiders + Menos de 40.5 puntos → prob. 17%, cuota justa 5.84  
 🎯 No simulada (NFL): cuota DraftKings aprox. 5.58 (producto de piernas) · prob. 17% · ventaja -4%  
+
+## Tampa Bay Buccaneers vs Carolina Panthers — 01/12 · 02:15
+
+👀 candidata · 🏈 NFL · **Más de 43.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **40.7** puntos · línea 43.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Tampa Bay Buccaneers ❌✅✅❌❌ | Carolina Panthers ❌❌❌✅✅  
+• H2H: 20 desde 2017: 14-6  
+• Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)  
+🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%  
+
+## Tampa Bay Buccaneers vs Carolina Panthers — 01/12 · 02:15
+
+👀 candidata · 🏈 NFL · **Tampa Bay Buccaneers -3** @ **1.94** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Tampa Bay Buccaneers cubre -3 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Tampa Bay Buccaneers ❌✅✅❌❌ | Carolina Panthers ❌❌❌✅✅  
+• H2H: 20 desde 2017: 14-6  
+• Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)  
+🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%  
+
+## Tampa Bay Buccaneers vs Carolina Panthers — 01/12 · 02:15
+
+👀 candidata · 🏈 NFL · **Gana Tampa Bay Buccaneers** @ **1.63** (DraftKings) · prob 59% vs casas 59% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.306 partidos y bajas)  
+Gana Tampa Bay Buccaneers 55% · Gana Carolina Panthers 45%  
+Casas: Tampa Bay Buccaneers 59% · Carolina Panthers 41%  
+Hándicap TB -3 · Total puntos 43.5  
+🔎 **Claves**  
+• Forma: Tampa Bay Buccaneers ❌✅✅❌❌ | Carolina Panthers ❌❌❌✅✅  
+• H2H: 20 desde 2017: 14-6  
+• Bajas: Tampa Bay Buccaneers: 2 fuera, 23 duda (Jalen McMillan, Christian Rozeboom); Carolina Panthers: 4 fuera, 21 duda (Jonathon Brooks, Thomas Incoom, Brady Christensen)  
+• Favorito de las casas: Tampa Bay Buccaneers @ 1.63  
+🧩 Combinada: Gana Carolina Panthers + Menos de 43.5 puntos → prob. 21%, cuota justa 4.71  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.49 (producto de piernas) · prob. 21% · ventaja -5%  
 
