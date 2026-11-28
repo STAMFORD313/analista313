@@ -84492,3 +84492,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2403251,263454,Atleti,Villarreal,,
 2403252,263454,Barcelona,Atleti,,
 2403253,263454,Real Madrid,Athletic Club,,
+2404260,263413,PSV,Ajax,3,0
+2403577,263413,Feyenoord,Twente,2,3
+2403578,263413,Twente,PSV,1,2
+2404261,263413,Ajax,AZ Alkmaar,1,3
+2403580,263413,AZ Alkmaar,Twente,0,1
+2403581,263413,PSV,Feyenoord,2,1
+2403582,263413,Feyenoord,AZ Alkmaar,2,2
+2404262,263413,Twente,Ajax,0,0
+2404263,263413,Ajax,Feyenoord,0,0
+2403585,263413,AZ Alkmaar,PSV,0,0
+2404264,263413,Ajax,PSV,,
+2403587,263413,Twente,Feyenoord,,
+2403588,263413,PSV,Twente,,
+2404265,263413,AZ Alkmaar,Ajax,,
+2403590,263413,Twente,AZ Alkmaar,,
+2403591,263413,Feyenoord,PSV,,
+2403592,263413,AZ Alkmaar,Feyenoord,,
+2404266,263413,Ajax,Twente,,
+2404267,263413,Feyenoord,Ajax,,
+2403595,263413,PSV,AZ Alkmaar,,
+2404188,263420,Bayern Munchen,Liverpool,3,1
+2402810,263420,Atleti,Real Madrid,2,0
+2402812,263420,Real Madrid,Bayern Munchen,1,1
+2404189,263420,Liverpool,Paris,4,1
+2402816,263420,Paris,Real Madrid,2,1
+2402818,263420,Bayern Munchen,Atleti,2,3
+2402820,263420,Atleti,Paris,1,1
+2404190,263420,Real Madrid,Liverpool,1,3
+2404191,263420,Liverpool,Atleti,0,2
+2402826,263420,Paris,Bayern Munchen,3,1
+2404192,263420,Liverpool,Bayern Munchen,1,0
+2402830,263420,Real Madrid,Atleti,0,1
+2402832,263420,Bayern Munchen,Real Madrid,,
+2404193,263420,Paris,Liverpool,,
+2402836,263420,Real Madrid,Paris,,
+2402838,263420,Atleti,Bayern Munchen,,
+2402840,263420,Paris,Atleti,,
+2404194,263420,Liverpool,Real Madrid,,
+2404195,263420,Atleti,Liverpool,,
+2402845,263420,Bayern Munchen,Paris,,
+2403858,263467,Spain,Germany,2,1
+2403859,263467,France,Argentina,1,2
+2403860,263467,Argentina,Spain,1,2
+2403861,263467,Germany,England,0,1
+2403862,263467,England,Argentina,3,4
+2403863,263467,Spain,France,1,2
+2403864,263467,France,England,3,1
+2403865,263467,Argentina,Germany,2,2
+2403866,263467,Germany,France,,
+2403867,263467,England,Spain,,
+2403868,263467,Germany,Spain,,
+2403869,263467,Argentina,France,,
+2403870,263467,Spain,Argentina,,
+2403871,263467,England,Germany,,
+2403872,263467,Argentina,England,,
+2403873,263467,France,Spain,,
+2403874,263467,England,France,,
+2403875,263467,Germany,Argentina,,
+2403876,263467,France,Germany,,
+2403877,263467,Spain,England,,

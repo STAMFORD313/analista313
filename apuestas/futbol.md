@@ -1,741 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 15:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Elversberg +0.5 (hándicap asiático)** @ **1.85** (mejor del mercado) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Gana Bayern Munich** @ **1.27** (Bwin) · prob 77% vs casas 77% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Union Berlin +1.25 (hándicap asiático)** @ **1.80** (mejor del mercado) · prob 55% vs casas 54% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Gana Paderborn** @ **2.60** (Bet365) · prob 38% vs casas 38% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.18** (Unibet) · prob 77% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 11.5 córners** @ **1.48** (Unibet) · prob 65% vs casas 62% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de FC Koln** @ **1.45** (Unibet) · prob 64% vs casas 63% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 7.5 córners de FC Koln** @ **1.30** (Unibet) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Elversberg** @ **1.20** (Unibet) · prob 74% vs casas 76% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## FC Koln vs Elversberg — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Elversberg** @ **2.35** (Unibet) · prob 42% vs casas 39% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 1.30)  
-1 42% · X 29% · 2 30%  
-1X 70% · X2 58% · 12 71%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: FC Koln ❌➖➖❌➖ | Elversberg ✅❌✅❌❌  
-• H2H: 2 desde 2024: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: FC Koln: 2 fuera, 3 duda (Jusuf Gazibegovic, Timo Huebers); Elversberg: 1 fuera, 1 duda (Nicholas Mickelson)  
-• Favorito de las casas: FC Koln @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.1: total +10.5 43% · FC Koln +5.5 51% · Elversberg +4.5 39%  
-Tarjetas 1.8 - 2.1: total +3.5 55% · FC Koln +2.5 28% · Elversberg +2.5 36%  
-Faltas 10.6 - 11.8: total +21.5 56% · FC Koln +10.5 49% · Elversberg +10.5 63%  
-Tiros a puerta 5.8 - 4.0: total +10.5 40% · FC Koln +6.5 36% · Elversberg +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg → prob. 28%, cuota justa 3.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de FC Koln + Menos de 6.5 tiros a puerta de FC Koln + Más de 10.5 faltas de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 8%, cuota justa 13.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de FC Koln + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +7% → 1 u en la banca de simulación  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Hamburg** @ **4.10** (Unibet) · prob 27% vs casas 22% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Hamburg** @ **1.18** (Unibet) · prob 73% vs casas 78% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 9.5 córners** @ **1.65** (Unibet) · prob 58% vs casas 56% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 13.5 córners** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 7.5 córners de Bayern Munich** @ **1.64** (Unibet) · prob 58% vs casas 56% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Hamburg vs Bayern Munich — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Bayern Munich** @ **1.19** (Unibet) · prob 76% vs casas 77% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 2.27)  
-1 7% · X 17% · 2 76%  
-1X 24% · X2 93% · 12 83%  
-+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Hamburg ✅❌❌✅❌ | Bayern Munich ✅✅➖✅➖  
-• H2H: 28 desde 2005: 5V-7E-16D · 3.5 goles/partido · +2.5 en 61%  
-• Bajas: Hamburg: 1 fuera, 6 duda (Nicolai Remberg); Bayern Munich: 3 fuera, 4 duda (Harry Kane, Manuel Neuer, Serge Gnabry)  
-• Favorito de las casas: Bayern Munich @ 1.27  
-📐 **Estadísticas esperadas**  
-Córners 3.6 - 7.0: total +10.5 50% · Hamburg +5.5 19% · Bayern Munich +4.5 76%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Hamburg +2.5 34% · Bayern Munich +2.5 25%  
-Faltas 10.1 - 10.4: total +21.5 40% · Hamburg +10.5 43% · Bayern Munich +10.5 46%  
-Tiros a puerta 3.3 - 7.6: total +10.5 52% · Hamburg +6.5 6% · Bayern Munich +4.5 84%  
-🧩 Crear apuesta: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich → prob. 59%, cuota justa 1.70 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 6.5 tiros a puerta de Hamburg + Menos de 5.5 córners de Hamburg + Menos de 2.5 tarjetas de Bayern Munich + Más de 2.5 goles + Menos de 21.5 faltas → prob. 24%, cuota justa 4.12  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 1.5 córners de Union Berlin** @ **1.12** (Unibet) · prob 81% vs casas 81% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Union Berlin** @ **1.80** (Unibet) · prob 54% vs casas 51% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 11.5 córners** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners de Mainz** @ **2.70** (Unibet) · prob 36% vs casas 34% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Mainz vs Union Berlin — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 9.5 córners de Mainz** @ **1.13** (Unibet) · prob 80% vs casas 81% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.63 - 0.98)  
-1 53% · X 27% · 2 21%  
-1X 79% · X2 47% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 51%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌❌❌❌ | Union Berlin ➖➖➖❌❌  
-• H2H: 14 desde 2019: 1V-5E-8D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: Mainz: 1 fuera, 2 duda (Silas Katompa Mvumpa); Union Berlin: 4 fuera, 4 duda (Zeno Van Den Bosch, Derrick Koehn, Stanley N'Soki)  
-• Favorito de las casas: Mainz @ 1.51  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.4: total +10.5 44% · Mainz +5.5 62% · Union Berlin +4.5 26%  
-Tarjetas 1.7 - 2.1: total +3.5 51% · Mainz +2.5 24% · Union Berlin +2.5 34%  
-Faltas 9.7 - 10.8: total +21.5 40% · Mainz +10.5 38% · Union Berlin +10.5 51%  
-Tiros a puerta 6.1 - 3.3: total +10.5 35% · Mainz +6.5 41% · Union Berlin +4.5 25%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin → prob. 45%, cuota justa 2.24 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin + Menos de 10.5 faltas de Mainz → prob. 29%, cuota justa 3.50  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Mainz + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 2.51 (producto de piernas) · prob. 45% · ventaja +12% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.27** (Unibet) · prob 72% vs casas 72% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 10.5 córners** @ **1.55** (Unibet) · prob 61% vs casas 60% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Schalke 04** @ **1.21** (Unibet) · prob 74% vs casas 75% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Schalke 04** @ **2.35** (Unibet) · prob 42% vs casas 39% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 5.5 córners de Paderborn** @ **2.17** (Unibet) · prob 44% vs casas 42% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
-
-## Paderborn vs Schalke 04 — 28/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 7.5 córners de Paderborn** @ **1.18** (Unibet) · prob 77% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 1.07)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 74% · +2.5 48% · +3.5 26% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Paderborn ➖✅➖➖❌ | Schalke 04 ❌➖❌❌➖  
-• H2H: 12 desde 2014: 2V-2E-8D · 3.4 goles/partido · +2.5 en 58%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Schalke 04: 0 fuera, 5 duda  
-• Favorito de las casas: Paderborn @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 4.1: total +10.5 37% · Paderborn +5.5 45% · Schalke 04 +4.5 38%  
-Tarjetas 1.6 - 1.8: total +3.5 45% · Paderborn +2.5 22% · Schalke 04 +2.5 28%  
-Faltas 10.1 - 11.1: total +21.5 46% · Paderborn +10.5 43% · Schalke 04 +10.5 55%  
-Tiros a puerta 5.2 - 4.0: total +10.5 33% · Paderborn +6.5 28% · Schalke 04 +4.5 37%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners → prob. 36%, cuota justa 2.79 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 6.5 tiros a puerta de Paderborn + Menos de 10.5 córners + Menos de 10.5 faltas de Paderborn → prob. 21%, cuota justa 4.86  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.76 (producto de piernas) · prob. 36% · ventaja -1%  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.26 (producto de piernas) · prob. 49% · ventaja +11% → 1 u en la banca de simulación  
+Actualizado 28/11/2026 15:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bodo/Glimt vs KFUM Oslo — 28/11 · 16:00
 
@@ -11780,6 +11045,7 @@ Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%
 Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
 
 ## Sassuolo vs Napoli — 29/11 · 15:00
 
@@ -11805,6 +11071,8 @@ Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%
 Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
 
 ## Modena vs Padova — 29/11 · 15:00
 
@@ -11856,6 +11124,624 @@ Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
 
+## Auxerre vs Marseille — 29/11 · 15:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Marseille** @ **1.35** (Unibet) · prob 68% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.30)  
+1 30% · X 30% · 2 40%  
+1X 60% · X2 70% · 12 70%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Auxerre ✅➖❌❌➖ | Marseille ✅✅✅✅❌  
+• H2H: 20 desde 2005: 4V-4E-12D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Auxerre: 2 fuera, 2 duda (Assane Diousse, Bryan Okoh); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Marseille @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.1: total +10.5 34% · Auxerre +5.5 28% · Marseille +4.5 53%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Auxerre +2.5 29% · Marseille +2.5 34%  
+Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%  
+Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
+
+## Auxerre vs Marseille — 29/11 · 15:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 7.5 córners de Marseille** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.30)  
+1 30% · X 30% · 2 40%  
+1X 60% · X2 70% · 12 70%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Auxerre ✅➖❌❌➖ | Marseille ✅✅✅✅❌  
+• H2H: 20 desde 2005: 4V-4E-12D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Auxerre: 2 fuera, 2 duda (Assane Diousse, Bryan Okoh); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Marseille @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.1: total +10.5 34% · Auxerre +5.5 28% · Marseille +4.5 53%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Auxerre +2.5 29% · Marseille +2.5 34%  
+Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%  
+Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
+
+## Auxerre vs Marseille — 29/11 · 15:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Auxerre** @ **1.65** (Unibet) · prob 57% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.30)  
+1 30% · X 30% · 2 40%  
+1X 60% · X2 70% · 12 70%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Auxerre ✅➖❌❌➖ | Marseille ✅✅✅✅❌  
+• H2H: 20 desde 2005: 4V-4E-12D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Auxerre: 2 fuera, 2 duda (Assane Diousse, Bryan Okoh); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Marseille @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.1: total +10.5 34% · Auxerre +5.5 28% · Marseille +4.5 53%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Auxerre +2.5 29% · Marseille +2.5 34%  
+Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%  
+Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
+
+## Auxerre vs Marseille — 29/11 · 15:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Auxerre** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.30)  
+1 30% · X 30% · 2 40%  
+1X 60% · X2 70% · 12 70%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Auxerre ✅➖❌❌➖ | Marseille ✅✅✅✅❌  
+• H2H: 20 desde 2005: 4V-4E-12D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Auxerre: 2 fuera, 2 duda (Assane Diousse, Bryan Okoh); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Marseille @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.1: total +10.5 34% · Auxerre +5.5 28% · Marseille +4.5 53%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Auxerre +2.5 29% · Marseille +2.5 34%  
+Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%  
+Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
+
+## Auxerre vs Marseille — 29/11 · 15:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.19** (Unibet) · prob 79% vs casas 78% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.30)  
+1 30% · X 30% · 2 40%  
+1X 60% · X2 70% · 12 70%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Auxerre ✅➖❌❌➖ | Marseille ✅✅✅✅❌  
+• H2H: 20 desde 2005: 4V-4E-12D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Auxerre: 2 fuera, 2 duda (Assane Diousse, Bryan Okoh); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Marseille @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.1: total +10.5 34% · Auxerre +5.5 28% · Marseille +4.5 53%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Auxerre +2.5 29% · Marseille +2.5 34%  
+Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%  
+Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
+
+## Auxerre vs Marseille — 29/11 · 15:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 10.5 córners** @ **1.43** (Unibet) · prob 65% vs casas 64% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.30)  
+1 30% · X 30% · 2 40%  
+1X 60% · X2 70% · 12 70%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Auxerre ✅➖❌❌➖ | Marseille ✅✅✅✅❌  
+• H2H: 20 desde 2005: 4V-4E-12D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Auxerre: 2 fuera, 2 duda (Assane Diousse, Bryan Okoh); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Marseille @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.1: total +10.5 34% · Auxerre +5.5 28% · Marseille +4.5 53%  
+Tarjetas 1.9 - 2.0: total +4.5 36% · Auxerre +2.5 29% · Marseille +2.5 34%  
+Faltas 13.8 - 11.6: total +24.5 55% · Auxerre +11.5 71% · Marseille +12.5 38%  
+Tiros a puerta 4.1 - 4.6: total +9.5 37% · Auxerre +5.5 24% · Marseille +4.5 48%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Auxerre + Menos de 5.5 córners de Auxerre + Más de 11.5 faltas de Auxerre + Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles → prob. 18%, cuota justa 5.62  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 41% · ventaja +36% → 1 u en la banca de simulación  
+
+## Sassuolo vs Napoli — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.13** (Unibet) · prob 80% vs casas 81% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.87)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 0-1 10% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Sassuolo ❌❌❌❌❌ | Napoli ➖✅❌➖✅  
+• H2H: 24 desde 2013: 2V-7E-15D · 3.0 goles/partido · +2.5 en 42%  
+• Bajas: Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Napoli: 1 fuera, 6 duda (Stanislav Lobotka)  
+• Favorito de las casas: Napoli @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 3.8 - 5.4: total +9.5 44% · Sassuolo +5.5 22% · Napoli +4.5 57%  
+Tarjetas 2.0 - 1.7: total +3.5 50% · Sassuolo +1.5 60% · Napoli +2.5 24%  
+Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%  
+Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
+
+## Sassuolo vs Napoli — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners** @ **1.91** (Unibet) · prob 52% vs casas 48% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.87)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 0-1 10% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Sassuolo ❌❌❌❌❌ | Napoli ➖✅❌➖✅  
+• H2H: 24 desde 2013: 2V-7E-15D · 3.0 goles/partido · +2.5 en 42%  
+• Bajas: Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Napoli: 1 fuera, 6 duda (Stanislav Lobotka)  
+• Favorito de las casas: Napoli @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 3.8 - 5.4: total +9.5 44% · Sassuolo +5.5 22% · Napoli +4.5 57%  
+Tarjetas 2.0 - 1.7: total +3.5 50% · Sassuolo +1.5 60% · Napoli +2.5 24%  
+Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%  
+Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
+
+## Sassuolo vs Napoli — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Sassuolo** @ **1.09** (Unibet) · prob 85% vs casas 85% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.87)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 0-1 10% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Sassuolo ❌❌❌❌❌ | Napoli ➖✅❌➖✅  
+• H2H: 24 desde 2013: 2V-7E-15D · 3.0 goles/partido · +2.5 en 42%  
+• Bajas: Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Napoli: 1 fuera, 6 duda (Stanislav Lobotka)  
+• Favorito de las casas: Napoli @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 3.8 - 5.4: total +9.5 44% · Sassuolo +5.5 22% · Napoli +4.5 57%  
+Tarjetas 2.0 - 1.7: total +3.5 50% · Sassuolo +1.5 60% · Napoli +2.5 24%  
+Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%  
+Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
+
+## Sassuolo vs Napoli — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Sassuolo** @ **2.12** (Unibet) · prob 46% vs casas 44% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.87)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 0-1 10% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Sassuolo ❌❌❌❌❌ | Napoli ➖✅❌➖✅  
+• H2H: 24 desde 2013: 2V-7E-15D · 3.0 goles/partido · +2.5 en 42%  
+• Bajas: Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Napoli: 1 fuera, 6 duda (Stanislav Lobotka)  
+• Favorito de las casas: Napoli @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 3.8 - 5.4: total +9.5 44% · Sassuolo +5.5 22% · Napoli +4.5 57%  
+Tarjetas 2.0 - 1.7: total +3.5 50% · Sassuolo +1.5 60% · Napoli +2.5 24%  
+Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%  
+Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
+
+## Sassuolo vs Napoli — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Napoli** @ **1.09** (Unibet) · prob 84% vs casas 84% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.87)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 0-1 10% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Sassuolo ❌❌❌❌❌ | Napoli ➖✅❌➖✅  
+• H2H: 24 desde 2013: 2V-7E-15D · 3.0 goles/partido · +2.5 en 42%  
+• Bajas: Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Napoli: 1 fuera, 6 duda (Stanislav Lobotka)  
+• Favorito de las casas: Napoli @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 3.8 - 5.4: total +9.5 44% · Sassuolo +5.5 22% · Napoli +4.5 57%  
+Tarjetas 2.0 - 1.7: total +3.5 50% · Sassuolo +1.5 60% · Napoli +2.5 24%  
+Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%  
+Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
+
+## Sassuolo vs Napoli — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Napoli** @ **2.32** (Unibet) · prob 41% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.87)  
+1 15% · X 23% · 2 62%  
+1X 38% · X2 85% · 12 77%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 54%  
+Marcadores: 1-1 11% · 0-1 10% · 0-2 10% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Sassuolo ❌❌❌❌❌ | Napoli ➖✅❌➖✅  
+• H2H: 24 desde 2013: 2V-7E-15D · 3.0 goles/partido · +2.5 en 42%  
+• Bajas: Sassuolo: 3 fuera, 4 duda (Jay Idzes, Yeferson Paz, Ismael Kone); Napoli: 1 fuera, 6 duda (Stanislav Lobotka)  
+• Favorito de las casas: Napoli @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 3.8 - 5.4: total +9.5 44% · Sassuolo +5.5 22% · Napoli +4.5 57%  
+Tarjetas 2.0 - 1.7: total +3.5 50% · Sassuolo +1.5 60% · Napoli +2.5 24%  
+Faltas 10.7 - 10.2: total +22.5 36% · Sassuolo +11.5 39% · Napoli +11.5 33%  
+Tiros a puerta 3.4 - 5.7: total +9.5 42% · Sassuolo +5.5 14% · Napoli +4.5 65%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli → prob. 54%, cuota justa 1.86 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo + Menos de 2.5 tarjetas de Napoli + Menos de 11.5 faltas de Napoli → prob. 38%, cuota justa 2.61  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 54% · ventaja +1%  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sassuolo + Menos de 5.5 córners de Sassuolo): cuota Unibet aprox. 1.55 (producto de piernas) · prob. 70% · ventaja +8% → 1 u en la banca de simulación  
+
+## Modena vs Padova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.66** (Unibet) · prob 52% vs casas 54% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 0.92)  
+1 60% · X 25% · 2 15%  
+1X 85% · X2 40% · 12 75%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Modena ✅➖✅✅➖ | Padova ✅➖➖➖❌  
+• H2H: 12 desde 2009: 4V-4E-4D · 1.9 goles/partido · +2.5 en 33%  
+• Bajas: Modena: 0 fuera, 4 duda; Padova: 0 fuera, 2 duda  
+• Favorito de las casas: Modena @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.4: total +9.5 50% · Modena +5.5 56% · Padova +4.5 27%  
+Tarjetas 1.8 - 2.6: total +4.5 44% · Modena +2.5 27% · Padova +2.5 47%  
+Faltas 10.8 - 13.4: total +27.5 26% · Modena +13.5 21% · Padova +13.5 47%  
+Tiros a puerta 6.2 - 2.9: total +8.5 56% · Modena +5.5 57% · Padova +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova → prob. 48%, cuota justa 2.08 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova + Menos de 2.5 tarjetas de Modena + Menos de 2.5 goles → prob. 23%, cuota justa 4.26  
+
+## Modena vs Padova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.61** (Unibet) · prob 59% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 0.92)  
+1 60% · X 25% · 2 15%  
+1X 85% · X2 40% · 12 75%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Modena ✅➖✅✅➖ | Padova ✅➖➖➖❌  
+• H2H: 12 desde 2009: 4V-4E-4D · 1.9 goles/partido · +2.5 en 33%  
+• Bajas: Modena: 0 fuera, 4 duda; Padova: 0 fuera, 2 duda  
+• Favorito de las casas: Modena @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.4: total +9.5 50% · Modena +5.5 56% · Padova +4.5 27%  
+Tarjetas 1.8 - 2.6: total +4.5 44% · Modena +2.5 27% · Padova +2.5 47%  
+Faltas 10.8 - 13.4: total +27.5 26% · Modena +13.5 21% · Padova +13.5 47%  
+Tiros a puerta 6.2 - 2.9: total +8.5 56% · Modena +5.5 57% · Padova +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova → prob. 48%, cuota justa 2.08 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova + Menos de 2.5 tarjetas de Modena + Menos de 2.5 goles → prob. 23%, cuota justa 4.26  
+
+## Modena vs Padova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Modena** @ **1.53** (Unibet) · prob 57% vs casas 59% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 0.92)  
+1 60% · X 25% · 2 15%  
+1X 85% · X2 40% · 12 75%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Modena ✅➖✅✅➖ | Padova ✅➖➖➖❌  
+• H2H: 12 desde 2009: 4V-4E-4D · 1.9 goles/partido · +2.5 en 33%  
+• Bajas: Modena: 0 fuera, 4 duda; Padova: 0 fuera, 2 duda  
+• Favorito de las casas: Modena @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.4: total +9.5 50% · Modena +5.5 56% · Padova +4.5 27%  
+Tarjetas 1.8 - 2.6: total +4.5 44% · Modena +2.5 27% · Padova +2.5 47%  
+Faltas 10.8 - 13.4: total +27.5 26% · Modena +13.5 21% · Padova +13.5 47%  
+Tiros a puerta 6.2 - 2.9: total +8.5 56% · Modena +5.5 57% · Padova +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova → prob. 48%, cuota justa 2.08 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova + Menos de 2.5 tarjetas de Modena + Menos de 2.5 goles → prob. 23%, cuota justa 4.26  
+
+## Modena vs Padova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 6.5 córners de Modena** @ **1.71** (Unibet) · prob 55% vs casas 52% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 0.92)  
+1 60% · X 25% · 2 15%  
+1X 85% · X2 40% · 12 75%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Modena ✅➖✅✅➖ | Padova ✅➖➖➖❌  
+• H2H: 12 desde 2009: 4V-4E-4D · 1.9 goles/partido · +2.5 en 33%  
+• Bajas: Modena: 0 fuera, 4 duda; Padova: 0 fuera, 2 duda  
+• Favorito de las casas: Modena @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.4: total +9.5 50% · Modena +5.5 56% · Padova +4.5 27%  
+Tarjetas 1.8 - 2.6: total +4.5 44% · Modena +2.5 27% · Padova +2.5 47%  
+Faltas 10.8 - 13.4: total +27.5 26% · Modena +13.5 21% · Padova +13.5 47%  
+Tiros a puerta 6.2 - 2.9: total +8.5 56% · Modena +5.5 57% · Padova +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova → prob. 48%, cuota justa 2.08 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova + Menos de 2.5 tarjetas de Modena + Menos de 2.5 goles → prob. 23%, cuota justa 4.26  
+
+## Modena vs Padova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Padova** @ **2.00** (Unibet) · prob 44% vs casas 45% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 0.92)  
+1 60% · X 25% · 2 15%  
+1X 85% · X2 40% · 12 75%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Modena ✅➖✅✅➖ | Padova ✅➖➖➖❌  
+• H2H: 12 desde 2009: 4V-4E-4D · 1.9 goles/partido · +2.5 en 33%  
+• Bajas: Modena: 0 fuera, 4 duda; Padova: 0 fuera, 2 duda  
+• Favorito de las casas: Modena @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.4: total +9.5 50% · Modena +5.5 56% · Padova +4.5 27%  
+Tarjetas 1.8 - 2.6: total +4.5 44% · Modena +2.5 27% · Padova +2.5 47%  
+Faltas 10.8 - 13.4: total +27.5 26% · Modena +13.5 21% · Padova +13.5 47%  
+Tiros a puerta 6.2 - 2.9: total +8.5 56% · Modena +5.5 57% · Padova +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova → prob. 48%, cuota justa 2.08 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova + Menos de 2.5 tarjetas de Modena + Menos de 2.5 goles → prob. 23%, cuota justa 4.26  
+
+## Modena vs Padova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Padova** @ **1.63** (Unibet) · prob 56% vs casas 55% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 0.92)  
+1 60% · X 25% · 2 15%  
+1X 85% · X2 40% · 12 75%  
++1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 46%  
+Marcadores: 1-1 13% · 1-0 13% · 0-0 11% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Modena ✅➖✅✅➖ | Padova ✅➖➖➖❌  
+• H2H: 12 desde 2009: 4V-4E-4D · 1.9 goles/partido · +2.5 en 33%  
+• Bajas: Modena: 0 fuera, 4 duda; Padova: 0 fuera, 2 duda  
+• Favorito de las casas: Modena @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.4: total +9.5 50% · Modena +5.5 56% · Padova +4.5 27%  
+Tarjetas 1.8 - 2.6: total +4.5 44% · Modena +2.5 27% · Padova +2.5 47%  
+Faltas 10.8 - 13.4: total +27.5 26% · Modena +13.5 21% · Padova +13.5 47%  
+Tiros a puerta 6.2 - 2.9: total +8.5 56% · Modena +5.5 57% · Padova +4.5 19%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova → prob. 48%, cuota justa 2.08 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Padova + Menos de 13.5 faltas de Modena + Menos de 4.5 córners de Padova + Menos de 2.5 tarjetas de Modena + Menos de 2.5 goles → prob. 23%, cuota justa 4.26  
+
+## Sudtirol vs Mantova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Sudtirol** @ **1.91** (Unibet) · prob 46% vs casas 47% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Sudtirol ❌➖➖✅❌ | Mantova ❌➖➖❌✅  
+• H2H: 4 desde 2024: 0V-2E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Sudtirol: 0 fuera, 1 duda; Mantova: sin bajas  
+• Favorito de las casas: Mantova @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.5: total +9.5 42% · Sudtirol +5.5 32% · Mantova +4.5 45%  
+Tarjetas 2.3 - 2.2: total +4.5 47% · Sudtirol +2.5 41% · Mantova +2.5 39%  
+Faltas 14.6 - 14.5: total +27.5 60% · Sudtirol +13.5 59% · Mantova +13.5 58%  
+Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
+
+## Sudtirol vs Mantova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Sudtirol** @ **1.68** (Unibet) · prob 54% vs casas 53% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Sudtirol ❌➖➖✅❌ | Mantova ❌➖➖❌✅  
+• H2H: 4 desde 2024: 0V-2E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Sudtirol: 0 fuera, 1 duda; Mantova: sin bajas  
+• Favorito de las casas: Mantova @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.5: total +9.5 42% · Sudtirol +5.5 32% · Mantova +4.5 45%  
+Tarjetas 2.3 - 2.2: total +4.5 47% · Sudtirol +2.5 41% · Mantova +2.5 39%  
+Faltas 14.6 - 14.5: total +27.5 60% · Sudtirol +13.5 59% · Mantova +13.5 58%  
+Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
+
+## Sudtirol vs Mantova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.67** (Unibet) · prob 54% vs casas 54% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Sudtirol ❌➖➖✅❌ | Mantova ❌➖➖❌✅  
+• H2H: 4 desde 2024: 0V-2E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Sudtirol: 0 fuera, 1 duda; Mantova: sin bajas  
+• Favorito de las casas: Mantova @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.5: total +9.5 42% · Sudtirol +5.5 32% · Mantova +4.5 45%  
+Tarjetas 2.3 - 2.2: total +4.5 47% · Sudtirol +2.5 41% · Mantova +2.5 39%  
+Faltas 14.6 - 14.5: total +27.5 60% · Sudtirol +13.5 59% · Mantova +13.5 58%  
+Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
+
+## Sudtirol vs Mantova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.35** (Unibet) · prob 68% vs casas 66% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Sudtirol ❌➖➖✅❌ | Mantova ❌➖➖❌✅  
+• H2H: 4 desde 2024: 0V-2E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Sudtirol: 0 fuera, 1 duda; Mantova: sin bajas  
+• Favorito de las casas: Mantova @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.5: total +9.5 42% · Sudtirol +5.5 32% · Mantova +4.5 45%  
+Tarjetas 2.3 - 2.2: total +4.5 47% · Sudtirol +2.5 41% · Mantova +2.5 39%  
+Faltas 14.6 - 14.5: total +27.5 60% · Sudtirol +13.5 59% · Mantova +13.5 58%  
+Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
+
+## Sudtirol vs Mantova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Mantova** @ **2.00** (Unibet) · prob 45% vs casas 45% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Sudtirol ❌➖➖✅❌ | Mantova ❌➖➖❌✅  
+• H2H: 4 desde 2024: 0V-2E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Sudtirol: 0 fuera, 1 duda; Mantova: sin bajas  
+• Favorito de las casas: Mantova @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.5: total +9.5 42% · Sudtirol +5.5 32% · Mantova +4.5 45%  
+Tarjetas 2.3 - 2.2: total +4.5 47% · Sudtirol +2.5 41% · Mantova +2.5 39%  
+Faltas 14.6 - 14.5: total +27.5 60% · Sudtirol +13.5 59% · Mantova +13.5 58%  
+Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
+
+## Sudtirol vs Mantova — 29/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Mantova** @ **1.63** (Unibet) · prob 55% vs casas 55% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.27 - 1.05)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 10% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Sudtirol ❌➖➖✅❌ | Mantova ❌➖➖❌✅  
+• H2H: 4 desde 2024: 0V-2E-2D · 2.8 goles/partido · +2.5 en 50%  
+• Bajas: Sudtirol: 0 fuera, 1 duda; Mantova: sin bajas  
+• Favorito de las casas: Mantova @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.5: total +9.5 42% · Sudtirol +5.5 32% · Mantova +4.5 45%  
+Tarjetas 2.3 - 2.2: total +4.5 47% · Sudtirol +2.5 41% · Mantova +2.5 39%  
+Faltas 14.6 - 14.5: total +27.5 60% · Sudtirol +13.5 59% · Mantova +13.5 58%  
+Tiros a puerta 4.3 - 4.1: total +8.5 47% · Sudtirol +5.5 28% · Mantova +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sudtirol + Menos de 5.5 córners de Sudtirol + Menos de 2.5 tarjetas de Mantova + Más de 27.5 faltas + Menos de 2.5 goles → prob. 12%, cuota justa 8.38  
+
 ## Brighton vs Newcastle — 29/11 · 15:05
 
 👀 candidata · 🏴 Premier League · **Newcastle +1 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 50% vs casas 50% · ventaja -2%
@@ -11880,6 +11766,7 @@ Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%
 Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
 
 ## Crystal Palace vs Hull — 29/11 · 15:05
 
@@ -11905,6 +11792,7 @@ Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%
 Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
 
 ## Fulham vs Bournemouth — 29/11 · 15:05
 
@@ -11930,6 +11818,7 @@ Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%
 Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
 
 ## Sunderland vs Tottenham — 29/11 · 15:05
 
@@ -11955,6 +11844,631 @@ Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 6
 Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Brighton vs Newcastle — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 3.5 córners de Brighton** @ **1.18** (Unibet) · prob 79% vs casas 78% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.13)  
+1 58% · X 25% · 2 17%  
+1X 83% · X2 42% · 12 75%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Brighton ✅❌✅✅❌ | Newcastle ❌✅❌➖➖  
+• H2H: 20 desde 2016: 7V-8E-5D · 2.0 goles/partido · +2.5 en 40%  
+• Bajas: Brighton: 5 fuera, 2 duda (Costinha, Zadok Yohanna, Kaoru Mitoma); Newcastle: 2 fuera, 1 duda (Joelinton, Ewen Jaouen)  
+• Favorito de las casas: Brighton @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.9: total +10.5 44% · Brighton +5.5 55% · Newcastle +4.5 36%  
+Tarjetas 1.7 - 2.3: total +4.5 38% · Brighton +2.5 25% · Newcastle +2.5 41%  
+Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%  
+Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Brighton vs Newcastle — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 10.5 córners de Brighton** @ **1.05** (Unibet) · prob 88% vs casas 87% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.13)  
+1 58% · X 25% · 2 17%  
+1X 83% · X2 42% · 12 75%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Brighton ✅❌✅✅❌ | Newcastle ❌✅❌➖➖  
+• H2H: 20 desde 2016: 7V-8E-5D · 2.0 goles/partido · +2.5 en 40%  
+• Bajas: Brighton: 5 fuera, 2 duda (Costinha, Zadok Yohanna, Kaoru Mitoma); Newcastle: 2 fuera, 1 duda (Joelinton, Ewen Jaouen)  
+• Favorito de las casas: Brighton @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.9: total +10.5 44% · Brighton +5.5 55% · Newcastle +4.5 36%  
+Tarjetas 1.7 - 2.3: total +4.5 38% · Brighton +2.5 25% · Newcastle +2.5 41%  
+Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%  
+Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Brighton vs Newcastle — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 7.5 córners** @ **1.19** (Unibet) · prob 78% vs casas 77% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.13)  
+1 58% · X 25% · 2 17%  
+1X 83% · X2 42% · 12 75%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Brighton ✅❌✅✅❌ | Newcastle ❌✅❌➖➖  
+• H2H: 20 desde 2016: 7V-8E-5D · 2.0 goles/partido · +2.5 en 40%  
+• Bajas: Brighton: 5 fuera, 2 duda (Costinha, Zadok Yohanna, Kaoru Mitoma); Newcastle: 2 fuera, 1 duda (Joelinton, Ewen Jaouen)  
+• Favorito de las casas: Brighton @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.9: total +10.5 44% · Brighton +5.5 55% · Newcastle +4.5 36%  
+Tarjetas 1.7 - 2.3: total +4.5 38% · Brighton +2.5 25% · Newcastle +2.5 41%  
+Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%  
+Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Brighton vs Newcastle — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 13.5 córners** @ **1.19** (Unibet) · prob 80% vs casas 78% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.13)  
+1 58% · X 25% · 2 17%  
+1X 83% · X2 42% · 12 75%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Brighton ✅❌✅✅❌ | Newcastle ❌✅❌➖➖  
+• H2H: 20 desde 2016: 7V-8E-5D · 2.0 goles/partido · +2.5 en 40%  
+• Bajas: Brighton: 5 fuera, 2 duda (Costinha, Zadok Yohanna, Kaoru Mitoma); Newcastle: 2 fuera, 1 duda (Joelinton, Ewen Jaouen)  
+• Favorito de las casas: Brighton @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.9: total +10.5 44% · Brighton +5.5 55% · Newcastle +4.5 36%  
+Tarjetas 1.7 - 2.3: total +4.5 38% · Brighton +2.5 25% · Newcastle +2.5 41%  
+Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%  
+Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Brighton vs Newcastle — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 1.5 córners de Newcastle** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.13)  
+1 58% · X 25% · 2 17%  
+1X 83% · X2 42% · 12 75%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Brighton ✅❌✅✅❌ | Newcastle ❌✅❌➖➖  
+• H2H: 20 desde 2016: 7V-8E-5D · 2.0 goles/partido · +2.5 en 40%  
+• Bajas: Brighton: 5 fuera, 2 duda (Costinha, Zadok Yohanna, Kaoru Mitoma); Newcastle: 2 fuera, 1 duda (Joelinton, Ewen Jaouen)  
+• Favorito de las casas: Brighton @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.9: total +10.5 44% · Brighton +5.5 55% · Newcastle +4.5 36%  
+Tarjetas 1.7 - 2.3: total +4.5 38% · Brighton +2.5 25% · Newcastle +2.5 41%  
+Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%  
+Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Brighton vs Newcastle — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 4.5 córners de Newcastle** @ **1.58** (Unibet) · prob 61% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.13)  
+1 58% · X 25% · 2 17%  
+1X 83% · X2 42% · 12 75%  
++1.5 77% · +2.5 53% · +3.5 31% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Brighton ✅❌✅✅❌ | Newcastle ❌✅❌➖➖  
+• H2H: 20 desde 2016: 7V-8E-5D · 2.0 goles/partido · +2.5 en 40%  
+• Bajas: Brighton: 5 fuera, 2 duda (Costinha, Zadok Yohanna, Kaoru Mitoma); Newcastle: 2 fuera, 1 duda (Joelinton, Ewen Jaouen)  
+• Favorito de las casas: Brighton @ 1.57  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 3.9: total +10.5 44% · Brighton +5.5 55% · Newcastle +4.5 36%  
+Tarjetas 1.7 - 2.3: total +4.5 38% · Brighton +2.5 25% · Newcastle +2.5 41%  
+Faltas 10.9 - 10.2: total +22.5 38% · Brighton +11.5 41% · Newcastle +11.5 33%  
+Tiros a puerta 5.9 - 3.1: total +9.5 42% · Brighton +5.5 53% · Newcastle +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 11.5 faltas de Newcastle + Menos de 4.5 córners de Newcastle → prob. 27%, cuota justa 3.71  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Newcastle + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Newcastle): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Crystal Palace vs Hull — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 7.5 córners** @ **1.22** (Unibet) · prob 76% vs casas 75% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.11)  
+1 48% · X 28% · 2 24%  
+1X 76% · X2 52% · 12 72%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 0-0 12% · 1-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Crystal Palace ❌❌❌❌❌ | Hull ❌➖➖❌✅  
+• H2H: 18 desde 2005: 7V-8E-3D · 2.2 goles/partido · +2.5 en 28%  
+• Bajas: Crystal Palace: 5 fuera, 0 duda (Yeremy Pino, Jean-Philippe Mateta, Takehiro Tomiyasu); Hull: 4 fuera, 4 duda (Hidemasa Morita, Matt Targett, Ilyas Ansah)  
+• Favorito de las casas: Crystal Palace @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.2: total +10.5 42% · Crystal Palace +5.5 49% · Hull +4.5 41%  
+Tarjetas 1.7 - 2.6: total +4.5 43% · Crystal Palace +2.5 25% · Hull +2.5 48%  
+Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%  
+Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
+
+## Crystal Palace vs Hull — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 12.5 córners** @ **1.25** (Unibet) · prob 75% vs casas 73% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.11)  
+1 48% · X 28% · 2 24%  
+1X 76% · X2 52% · 12 72%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 0-0 12% · 1-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Crystal Palace ❌❌❌❌❌ | Hull ❌➖➖❌✅  
+• H2H: 18 desde 2005: 7V-8E-3D · 2.2 goles/partido · +2.5 en 28%  
+• Bajas: Crystal Palace: 5 fuera, 0 duda (Yeremy Pino, Jean-Philippe Mateta, Takehiro Tomiyasu); Hull: 4 fuera, 4 duda (Hidemasa Morita, Matt Targett, Ilyas Ansah)  
+• Favorito de las casas: Crystal Palace @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.2: total +10.5 42% · Crystal Palace +5.5 49% · Hull +4.5 41%  
+Tarjetas 1.7 - 2.6: total +4.5 43% · Crystal Palace +2.5 25% · Hull +2.5 48%  
+Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%  
+Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
+
+## Crystal Palace vs Hull — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Crystal Palace** @ **1.06** (Unibet) · prob 87% vs casas 86% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.11)  
+1 48% · X 28% · 2 24%  
+1X 76% · X2 52% · 12 72%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 0-0 12% · 1-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Crystal Palace ❌❌❌❌❌ | Hull ❌➖➖❌✅  
+• H2H: 18 desde 2005: 7V-8E-3D · 2.2 goles/partido · +2.5 en 28%  
+• Bajas: Crystal Palace: 5 fuera, 0 duda (Yeremy Pino, Jean-Philippe Mateta, Takehiro Tomiyasu); Hull: 4 fuera, 4 duda (Hidemasa Morita, Matt Targett, Ilyas Ansah)  
+• Favorito de las casas: Crystal Palace @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.2: total +10.5 42% · Crystal Palace +5.5 49% · Hull +4.5 41%  
+Tarjetas 1.7 - 2.6: total +4.5 43% · Crystal Palace +2.5 25% · Hull +2.5 48%  
+Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%  
+Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
+
+## Crystal Palace vs Hull — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 8.5 córners de Crystal Palace** @ **1.19** (Unibet) · prob 80% vs casas 78% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.11)  
+1 48% · X 28% · 2 24%  
+1X 76% · X2 52% · 12 72%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 0-0 12% · 1-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Crystal Palace ❌❌❌❌❌ | Hull ❌➖➖❌✅  
+• H2H: 18 desde 2005: 7V-8E-3D · 2.2 goles/partido · +2.5 en 28%  
+• Bajas: Crystal Palace: 5 fuera, 0 duda (Yeremy Pino, Jean-Philippe Mateta, Takehiro Tomiyasu); Hull: 4 fuera, 4 duda (Hidemasa Morita, Matt Targett, Ilyas Ansah)  
+• Favorito de las casas: Crystal Palace @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.2: total +10.5 42% · Crystal Palace +5.5 49% · Hull +4.5 41%  
+Tarjetas 1.7 - 2.6: total +4.5 43% · Crystal Palace +2.5 25% · Hull +2.5 48%  
+Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%  
+Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
+
+## Crystal Palace vs Hull — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 1.5 córners de Hull** @ **1.08** (Unibet) · prob 87% vs casas 85% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.11)  
+1 48% · X 28% · 2 24%  
+1X 76% · X2 52% · 12 72%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 0-0 12% · 1-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Crystal Palace ❌❌❌❌❌ | Hull ❌➖➖❌✅  
+• H2H: 18 desde 2005: 7V-8E-3D · 2.2 goles/partido · +2.5 en 28%  
+• Bajas: Crystal Palace: 5 fuera, 0 duda (Yeremy Pino, Jean-Philippe Mateta, Takehiro Tomiyasu); Hull: 4 fuera, 4 duda (Hidemasa Morita, Matt Targett, Ilyas Ansah)  
+• Favorito de las casas: Crystal Palace @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.2: total +10.5 42% · Crystal Palace +5.5 49% · Hull +4.5 41%  
+Tarjetas 1.7 - 2.6: total +4.5 43% · Crystal Palace +2.5 25% · Hull +2.5 48%  
+Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%  
+Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
+
+## Crystal Palace vs Hull — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 6.5 córners de Hull** @ **1.14** (Unibet) · prob 82% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.11)  
+1 48% · X 28% · 2 24%  
+1X 76% · X2 52% · 12 72%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 0-0 12% · 1-0 11% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Crystal Palace ❌❌❌❌❌ | Hull ❌➖➖❌✅  
+• H2H: 18 desde 2005: 7V-8E-3D · 2.2 goles/partido · +2.5 en 28%  
+• Bajas: Crystal Palace: 5 fuera, 0 duda (Yeremy Pino, Jean-Philippe Mateta, Takehiro Tomiyasu); Hull: 4 fuera, 4 duda (Hidemasa Morita, Matt Targett, Ilyas Ansah)  
+• Favorito de las casas: Crystal Palace @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.2: total +10.5 42% · Crystal Palace +5.5 49% · Hull +4.5 41%  
+Tarjetas 1.7 - 2.6: total +4.5 43% · Crystal Palace +2.5 25% · Hull +2.5 48%  
+Faltas 9.1 - 11.5: total +22.5 34% · Crystal Palace +11.5 22% · Hull +11.5 47%  
+Tiros a puerta 5.1 - 3.6: total +9.5 38% · Crystal Palace +5.5 40% · Hull +4.5 30%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull → prob. 43%, cuota justa 2.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Crystal Palace + Menos de 2.5 tarjetas de Crystal Palace + Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles + Menos de 4.5 córners de Hull → prob. 18%, cuota justa 5.47  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Hull + Menos de 2.5 goles): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 48% · ventaja +39% → 1 u en la banca de simulación  
+
+## Fulham vs Bournemouth — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 10.5 córners** @ **2.08** (Unibet) · prob 47% vs casas 44% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.54)  
+1 32% · X 29% · 2 39%  
+1X 61% · X2 68% · 12 71%  
++1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Fulham ✅✅➖➖➖ | Bournemouth ✅✅✅✅✅  
+• H2H: 14 desde 2014: 2V-4E-8D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: Fulham: 1 fuera, 1 duda (Benjamin Lecomte); Bournemouth: 1 fuera, 3 duda (Alex Toth)  
+• Favorito de las casas: Bournemouth @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 5.0: total +10.5 49% · Fulham +5.5 47% · Bournemouth +4.5 52%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Fulham +2.5 29% · Bournemouth +2.5 41%  
+Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
+
+## Fulham vs Bournemouth — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 14.5 córners** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.54)  
+1 32% · X 29% · 2 39%  
+1X 61% · X2 68% · 12 71%  
++1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Fulham ✅✅➖➖➖ | Bournemouth ✅✅✅✅✅  
+• H2H: 14 desde 2014: 2V-4E-8D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: Fulham: 1 fuera, 1 duda (Benjamin Lecomte); Bournemouth: 1 fuera, 3 duda (Alex Toth)  
+• Favorito de las casas: Bournemouth @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 5.0: total +10.5 49% · Fulham +5.5 47% · Bournemouth +4.5 52%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Fulham +2.5 29% · Bournemouth +2.5 41%  
+Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
+
+## Fulham vs Bournemouth — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 4.5 córners de Fulham** @ **1.61** (Unibet) · prob 59% vs casas 57% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.54)  
+1 32% · X 29% · 2 39%  
+1X 61% · X2 68% · 12 71%  
++1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Fulham ✅✅➖➖➖ | Bournemouth ✅✅✅✅✅  
+• H2H: 14 desde 2014: 2V-4E-8D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: Fulham: 1 fuera, 1 duda (Benjamin Lecomte); Bournemouth: 1 fuera, 3 duda (Alex Toth)  
+• Favorito de las casas: Bournemouth @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 5.0: total +10.5 49% · Fulham +5.5 47% · Bournemouth +4.5 52%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Fulham +2.5 29% · Bournemouth +2.5 41%  
+Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
+
+## Fulham vs Bournemouth — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 9.5 córners de Fulham** @ **1.06** (Unibet) · prob 88% vs casas 87% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.54)  
+1 32% · X 29% · 2 39%  
+1X 61% · X2 68% · 12 71%  
++1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Fulham ✅✅➖➖➖ | Bournemouth ✅✅✅✅✅  
+• H2H: 14 desde 2014: 2V-4E-8D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: Fulham: 1 fuera, 1 duda (Benjamin Lecomte); Bournemouth: 1 fuera, 3 duda (Alex Toth)  
+• Favorito de las casas: Bournemouth @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 5.0: total +10.5 49% · Fulham +5.5 47% · Bournemouth +4.5 52%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Fulham +2.5 29% · Bournemouth +2.5 41%  
+Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
+
+## Fulham vs Bournemouth — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 4.5 córners de Bournemouth** @ **1.87** (Unibet) · prob 51% vs casas 49% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.54)  
+1 32% · X 29% · 2 39%  
+1X 61% · X2 68% · 12 71%  
++1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Fulham ✅✅➖➖➖ | Bournemouth ✅✅✅✅✅  
+• H2H: 14 desde 2014: 2V-4E-8D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: Fulham: 1 fuera, 1 duda (Benjamin Lecomte); Bournemouth: 1 fuera, 3 duda (Alex Toth)  
+• Favorito de las casas: Bournemouth @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 5.0: total +10.5 49% · Fulham +5.5 47% · Bournemouth +4.5 52%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Fulham +2.5 29% · Bournemouth +2.5 41%  
+Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
+
+## Fulham vs Bournemouth — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 7.5 córners de Bournemouth** @ **1.13** (Unibet) · prob 82% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 1.54)  
+1 32% · X 29% · 2 39%  
+1X 61% · X2 68% · 12 71%  
++1.5 84% · +2.5 62% · +3.5 40% · Ambos marcan 64%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Fulham ✅✅➖➖➖ | Bournemouth ✅✅✅✅✅  
+• H2H: 14 desde 2014: 2V-4E-8D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: Fulham: 1 fuera, 1 duda (Benjamin Lecomte); Bournemouth: 1 fuera, 3 duda (Alex Toth)  
+• Favorito de las casas: Bournemouth @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 5.0: total +10.5 49% · Fulham +5.5 47% · Bournemouth +4.5 52%  
+Tarjetas 1.9 - 2.3: total +4.5 41% · Fulham +2.5 29% · Bournemouth +2.5 41%  
+Faltas 10.3 - 12.0: total +22.5 47% · Fulham +11.5 35% · Bournemouth +11.5 53%  
+Tiros a puerta 4.9 - 4.4: total +9.5 45% · Fulham +5.5 37% · Bournemouth +4.5 44%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham → prob. 30%, cuota justa 3.33 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Fulham + Menos de 11.5 faltas de Fulham + Menos de 5.5 tiros a puerta de Fulham + Más de 2.5 goles → prob. 16%, cuota justa 6.20  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Fulham + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 44% · ventaja +20% → 1 u en la banca de simulación  
+
+## Sunderland vs Tottenham — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 7.5 córners** @ **1.29** (Unibet) · prob 73% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.12)  
+1 27% · X 30% · 2 42%  
+1X 58% · X2 73% · 12 70%  
++1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 44%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 12% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sunderland ❌➖❌✅➖ | Tottenham ✅✅✅❌✅  
+• H2H: 24 desde 2005: 4V-7E-13D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Sunderland: 5 fuera, 2 duda (Granit Xhaka, Brian Brobbey, Daniel Ballard); Tottenham: 3 fuera, 3 duda (Mathys Tel, Wilson Odobert, Xavi Simons)  
+• Favorito de las casas: Tottenham @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 5.4: total +10.5 40% · Sunderland +5.5 31% · Tottenham +4.5 58%  
+Tarjetas 2.2 - 2.3: total +4.5 46% · Sunderland +2.5 38% · Tottenham +2.5 41%  
+Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 66%  
+Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Sunderland vs Tottenham — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 13.5 córners** @ **1.10** (Unibet) · prob 84% vs casas 83% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.12)  
+1 27% · X 30% · 2 42%  
+1X 58% · X2 73% · 12 70%  
++1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 44%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 12% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sunderland ❌➖❌✅➖ | Tottenham ✅✅✅❌✅  
+• H2H: 24 desde 2005: 4V-7E-13D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Sunderland: 5 fuera, 2 duda (Granit Xhaka, Brian Brobbey, Daniel Ballard); Tottenham: 3 fuera, 3 duda (Mathys Tel, Wilson Odobert, Xavi Simons)  
+• Favorito de las casas: Tottenham @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 5.4: total +10.5 40% · Sunderland +5.5 31% · Tottenham +4.5 58%  
+Tarjetas 2.2 - 2.3: total +4.5 46% · Sunderland +2.5 38% · Tottenham +2.5 41%  
+Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 66%  
+Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Sunderland vs Tottenham — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 1.5 córners de Sunderland** @ **1.05** (Unibet) · prob 88% vs casas 87% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.12)  
+1 27% · X 30% · 2 42%  
+1X 58% · X2 73% · 12 70%  
++1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 44%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 12% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sunderland ❌➖❌✅➖ | Tottenham ✅✅✅❌✅  
+• H2H: 24 desde 2005: 4V-7E-13D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Sunderland: 5 fuera, 2 duda (Granit Xhaka, Brian Brobbey, Daniel Ballard); Tottenham: 3 fuera, 3 duda (Mathys Tel, Wilson Odobert, Xavi Simons)  
+• Favorito de las casas: Tottenham @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 5.4: total +10.5 40% · Sunderland +5.5 31% · Tottenham +4.5 58%  
+Tarjetas 2.2 - 2.3: total +4.5 46% · Sunderland +2.5 38% · Tottenham +2.5 41%  
+Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 66%  
+Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Sunderland vs Tottenham — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Sunderland** @ **1.40** (Unibet) · prob 68% vs casas 66% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.12)  
+1 27% · X 30% · 2 42%  
+1X 58% · X2 73% · 12 70%  
++1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 44%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 12% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sunderland ❌➖❌✅➖ | Tottenham ✅✅✅❌✅  
+• H2H: 24 desde 2005: 4V-7E-13D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Sunderland: 5 fuera, 2 duda (Granit Xhaka, Brian Brobbey, Daniel Ballard); Tottenham: 3 fuera, 3 duda (Mathys Tel, Wilson Odobert, Xavi Simons)  
+• Favorito de las casas: Tottenham @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 5.4: total +10.5 40% · Sunderland +5.5 31% · Tottenham +4.5 58%  
+Tarjetas 2.2 - 2.3: total +4.5 46% · Sunderland +2.5 38% · Tottenham +2.5 41%  
+Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 66%  
+Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Sunderland vs Tottenham — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Más de 5.5 córners de Tottenham** @ **2.30** (Unibet) · prob 42% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.12)  
+1 27% · X 30% · 2 42%  
+1X 58% · X2 73% · 12 70%  
++1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 44%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 12% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sunderland ❌➖❌✅➖ | Tottenham ✅✅✅❌✅  
+• H2H: 24 desde 2005: 4V-7E-13D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Sunderland: 5 fuera, 2 duda (Granit Xhaka, Brian Brobbey, Daniel Ballard); Tottenham: 3 fuera, 3 duda (Mathys Tel, Wilson Odobert, Xavi Simons)  
+• Favorito de las casas: Tottenham @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 5.4: total +10.5 40% · Sunderland +5.5 31% · Tottenham +4.5 58%  
+Tarjetas 2.2 - 2.3: total +4.5 46% · Sunderland +2.5 38% · Tottenham +2.5 41%  
+Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 66%  
+Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
+
+## Sunderland vs Tottenham — 29/11 · 15:05
+
+👀 candidata · 🏴 Premier League · **Menos de 8.5 córners de Tottenham** @ **1.07** (Unibet) · prob 86% vs casas 85% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.01 - 1.12)  
+1 27% · X 30% · 2 42%  
+1X 58% · X2 73% · 12 70%  
++1.5 64% · +2.5 36% · +3.5 17% · Ambos marcan 44%  
+Marcadores: 1-1 14% · 0-1 13% · 0-0 12% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Sunderland ❌➖❌✅➖ | Tottenham ✅✅✅❌✅  
+• H2H: 24 desde 2005: 4V-7E-13D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Sunderland: 5 fuera, 2 duda (Granit Xhaka, Brian Brobbey, Daniel Ballard); Tottenham: 3 fuera, 3 duda (Mathys Tel, Wilson Odobert, Xavi Simons)  
+• Favorito de las casas: Tottenham @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.5 - 5.4: total +10.5 40% · Sunderland +5.5 31% · Tottenham +4.5 58%  
+Tarjetas 2.2 - 2.3: total +4.5 46% · Sunderland +2.5 38% · Tottenham +2.5 41%  
+Faltas 12.5 - 13.3: total +22.5 71% · Sunderland +11.5 59% · Tottenham +11.5 66%  
+Tiros a puerta 3.6 - 4.1: total +9.5 26% · Sunderland +5.5 17% · Tottenham +4.5 39%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sunderland + Más de 22.5 faltas + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles + Menos de 2.5 tarjetas de Sunderland → prob. 17%, cuota justa 5.85  
+🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Sunderland + Menos de 5.5 córners de Sunderland + Menos de 2.5 goles): cuota Unibet aprox. 2.89 (producto de piernas) · prob. 40% · ventaja +16% → 1 u en la banca de simulación  
 
 ## Freiburg vs RB Leipzig — 29/11 · 15:30
 
