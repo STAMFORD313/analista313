@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 28/11/2026 13:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 28/11/2026 13:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs dor1an — 28/11 · 13:25
+## spirtes vs dirowe — 28/11 · 13:54
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cl1vlind** @ **2.15** (Unibet) · prob 53% vs casas 40% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana dirowe** @ **1.64** (Unibet) · prob 71% vs casas 54% · ventaja +16%
 
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 84.352 partidos)  
-Goles esperados: cl1vlind 3.22 · dor1an 2.66  
-Ganador: cl1vlind 53% · empate 19% · dor1an 29%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap cl1vlind: −1.5 34% · −2.5 21%  
-🔎 **Claves**  
-• Forma: cl1vlind ❌✅✅➖✅ | dor1an ✅❌➖❌❌  
-• Partidos: cl1vlind 952 | dor1an 504  
-• Liga: Champions League B  
-• Unibet: 1 2.15 · X 2.85 · 2 2.95 (sin margen 40%/30%/29%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+13%) · Paf España 2.15 (+13%)  
-
-## TikitakaMaster vs flamez — 28/11 · 13:26
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **1.83** (Unibet) · prob 69% vs casas 48% · ventaja +26%
-
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.352 partidos)  
-Goles esperados: TikitakaMaster 4.84 · flamez 3.40  
-Ganador: TikitakaMaster 69% · empate 13% · flamez 18%  
-Total: más de 8.5 goles 44% · menos 56%  
-Hándicap TikitakaMaster: −1.5 49% · −2.5 35%  
+📊 **Escenarios** (Poisson por jugador, 84.377 partidos)  
+Goles esperados: spirtes 3.08 · dirowe 4.41  
+Ganador: spirtes 16% · empate 13% · dirowe 71%  
+Total: más de 7.5 goles 47% · menos 53%  
+Hándicap dirowe: −1.5 47% · −2.5 33%  
 🔎 **Claves**  
-• Forma: TikitakaMaster ✅✅✅✅✅ | flamez ➖✅❌❌✅  
-• Partidos: TikitakaMaster 935 | flamez 1015  
-• Liga: Champions League A 2x6  
-• Unibet: 1 1.83 · X 5.25 · 2 2.48 (sin margen 48%/17%/35%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.83 (+26%) · Paf España 1.83 (+26%)  
+• Forma: spirtes ✅❌❌❌❌ | dirowe ❌➖✅➖➖  
+• Partidos: spirtes 1524 | dirowe 1189  
+• Liga: CSL  
+• Unibet: 1 2.95 · X 5.25 · 2 1.64 (sin margen 30%/17%/54%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.64 (+16%) · Paf España 1.64 (+16%)  
 
-## ramzes vs spirtes — 28/11 · 13:42
+## kanufriev vs Gazi — 28/11 · 13:54
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana ramzes** @ **2.04** (Unibet) · prob 57% vs casas 43% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Gazi** @ **2.70** (Unibet) · prob 42% vs casas 32% · ventaja +13%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 84.352 partidos)  
-Goles esperados: ramzes 3.57 · spirtes 3.37  
-Ganador: ramzes 57% · empate 17% · spirtes 26%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap ramzes: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 84.377 partidos)  
+Goles esperados: kanufriev 3.08 · Gazi 2.69  
+Ganador: kanufriev 39% · empate 20% · Gazi 42%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap kanufriev: −1.5 32% · −2.5 18%  
 🔎 **Claves**  
-• Forma: ramzes ❌✅✅✅➖ | spirtes ❌✅❌❌❌  
-• Partidos: ramzes 1331 | spirtes 1523  
+• Forma: kanufriev ❌➖❌✅❌ | Gazi ✅✅✅✅➖  
+• Partidos: kanufriev 221 | Gazi 753  
 • Liga: CSL  
-• Unibet: 1 2.04 · X 5.10 · 2 2.20 (sin margen 43%/17%/40%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.04 (+17%) · Paf España 2.04 (+17%)  
+• Unibet: 1 1.84 · X 4.30 · 2 2.70 (sin margen 47%/20%/32%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+13%) · Paf España 2.70 (+13%)  
+
+## Tesla vs Taz — 28/11 · 14:10
+
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Taz** @ **3.10** (Unibet) · prob 42% vs casas 28% · ventaja +30%
+
+- ❌ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 84.377 partidos)  
+Goles esperados: Tesla 3.97 · Taz 3.88  
+Ganador: Tesla 42% · empate 16% · Taz 42%  
+Total: más de 7.5 goles 53% · menos 47%  
+Hándicap Tesla: −1.5 30% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Tesla ➖❌➖✅✅ | Taz ✅✅❌❌✅  
+• Partidos: Tesla 1315 | Taz 1326  
+• Liga: FA Cup  
+• Unibet: 1 1.68 · X 4.50 · 2 3.10 (sin margen 52%/19%/28%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+30%) · Paf España 3.10 (+30%)  
 

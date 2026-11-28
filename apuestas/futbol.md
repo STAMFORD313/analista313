@@ -1,552 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 28/11/2026 13:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Blackburn -0.5 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 47% vs casas 47% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Gana Wolves** @ **1.57** (Bwin) · prob 62% vs casas 62% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 2.5 goles** @ **1.62** (Bet365) · prob 60% vs casas 60% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 8.5 córners** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Blackburn** @ **1.35** (Unibet) · prob 69% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Blackburn** @ **1.38** (Unibet) · prob 66% vs casas 66% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 2.5 córners de Charlton** @ **1.28** (Unibet) · prob 72% vs casas 71% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Blackburn vs Charlton — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Charlton** @ **1.29** (Unibet) · prob 73% vs casas 71% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.43 - 0.95)  
-1 49% · X 28% · 2 23%  
-1X 77% · X2 51% · 12 72%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Blackburn ❌❌✅➖✅ | Charlton ❌❌✅❌✅  
-• H2H: 16 desde 2005: 8V-3E-5D · 2.9 goles/partido · +2.5 en 56%  
-• Bajas: Blackburn: 0 fuera, 1 duda; Charlton: 1 fuera, 0 duda (Zach Mitchell)  
-• Favorito de las casas: Blackburn @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 4.1: total +10.5 49% · Blackburn +5.5 58% · Charlton +4.5 39%  
-Tarjetas 2.0 - 2.2: total +4.5 40% · Blackburn +2.5 31% · Charlton +2.5 37%  
-Faltas 9.9 - 13.0: total +22.5 51% · Blackburn +11.5 29% · Charlton +11.5 64%  
-Tiros a puerta 4.8 - 3.0: total +8.5 39% · Blackburn +4.5 51% · Charlton +3.5 36%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton → prob. 33%, cuota justa 3.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles → prob. 14%, cuota justa 7.17  
-🎯 Simulada (con cuota: Menos de 3.5 tiros a puerta de Charlton + Menos de 4.5 córners de Charlton + Menos de 2.5 goles): cuota Unibet aprox. 4.63 (producto de piernas) · prob. 27% · ventaja +26% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 9.5 córners** @ **1.71** (Unibet) · prob 57% vs casas 54% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Lincoln** @ **2.45** (Unibet) · prob 41% vs casas 37% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Lincoln** @ **1.24** (Unibet) · prob 72% vs casas 74% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Wolves** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Lincoln vs Wolves — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Wolves** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.12 - 2.16)  
-1 16% · X 22% · 2 62%  
-1X 38% · X2 84% · 12 78%  
-+1.5 84% · +2.5 64% · +3.5 41% · Ambos marcan 60%  
-Marcadores: 1-2 10% · 1-1 10% · 0-2 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Lincoln ❌❌❌❌❌ | Wolves ✅✅➖✅✅  
-• H2H: sin precedentes  
-• Bajas: Lincoln: 1 fuera, 1 duda (Tendayi Darikwa); Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 1.57  
-📐 **Estadísticas esperadas**  
-Córners 4.5 - 6.1: total +10.5 49% · Lincoln +5.5 31% · Wolves +4.5 67%  
-Tarjetas 2.2 - 1.7: total +4.5 34% · Lincoln +2.5 36% · Wolves +2.5 24%  
-Faltas 12.0 - 10.7: total +22.5 50% · Lincoln +11.5 54% · Wolves +11.5 39%  
-Tiros a puerta 3.7 - 5.3: total +8.5 54% · Lincoln +4.5 32% · Wolves +3.5 74%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Wolves + Más de 3.5 tiros a puerta de Wolves + Menos de 5.5 córners de Lincoln + Más de 2.5 goles + Menos de 11.5 faltas de Wolves → prob. 19%, cuota justa 5.14  
-🎯 Simulada (con cuota: Más de 3.5 tiros a puerta de Wolves + Más de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 52% · ventaja +14% → 1 u en la banca de simulación  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Norwich** @ **1.40** (Unibet) · prob 64% vs casas 65% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Norwich** @ **1.98** (Unibet) · prob 49% vs casas 46% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 77% vs casas 74% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 5.5 córners de Preston** @ **3.35** (Unibet) · prob 31% vs casas 27% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
-
-## Preston vs Norwich — 28/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Preston** @ **1.26** (Unibet) · prob 69% vs casas 73% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.16 - 1.67)  
-1 21% · X 26% · 2 52%  
-1X 48% · X2 79% · 12 74%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 1-2 10% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Preston ❌❌✅➖✅ | Norwich ✅✅✅✅➖  
-• H2H: 26 desde 2006: 8V-10E-8D · 2.2 goles/partido · +2.5 en 35%  
-• Bajas: Preston: 0 fuera, 2 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.7: total +10.5 47% · Preston +5.5 34% · Norwich +4.5 62%  
-Tarjetas 2.1 - 1.6: total +4.5 30% · Preston +2.5 34% · Norwich +2.5 21%  
-Faltas 11.4 - 8.8: total +22.5 30% · Preston +11.5 46% · Norwich +11.5 18%  
-Tiros a puerta 3.2 - 5.1: total +8.5 44% · Preston +4.5 22% · Norwich +3.5 72%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston → prob. 53%, cuota justa 1.89 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Norwich + Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston → prob. 37%, cuota justa 2.70  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Preston + Menos de 5.5 córners de Preston): cuota Unibet aprox. 1.74 (producto de piernas) · prob. 54% · ventaja -6%  
+Actualizado 28/11/2026 13:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Betis vs Vallecano — 28/11 · 14:00
 
@@ -11853,6 +11307,7 @@ Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%
 Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
 
 ## Braunschweig vs Wolfsburg — 29/11 · 13:30
 
@@ -11878,6 +11333,7 @@ Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5
 Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
 
 ## Greuther Furth vs Bielefeld — 29/11 · 13:30
 
@@ -11903,6 +11359,7 @@ Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11
 Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
 🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
 
 ## Magdeburg vs Cottbus — 29/11 · 13:30
 
@@ -11928,6 +11385,631 @@ Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%
 Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
+
+## St Truiden vs Genk — 29/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌✅➖ | Genk ✅✅❌❌✅  
+• H2H: 34 desde 2005: 5V-11E-18D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: St Truiden: sin bajas; Genk: sin bajas  
+• Favorito de las casas: St Truiden @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +10.5 41% · St Truiden +5.5 48% · Genk +4.5 41%  
+Tarjetas 1.6 - 2.1: total +4.5 32% · St Truiden +2.5 21% · Genk +2.5 36%  
+Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%  
+Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
+
+## St Truiden vs Genk — 29/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌✅➖ | Genk ✅✅❌❌✅  
+• H2H: 34 desde 2005: 5V-11E-18D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: St Truiden: sin bajas; Genk: sin bajas  
+• Favorito de las casas: St Truiden @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +10.5 41% · St Truiden +5.5 48% · Genk +4.5 41%  
+Tarjetas 1.6 - 2.1: total +4.5 32% · St Truiden +2.5 21% · Genk +2.5 36%  
+Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%  
+Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
+
+## St Truiden vs Genk — 29/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Genk** @ **1.47** (Unibet) · prob 60% vs casas 62% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌✅➖ | Genk ✅✅❌❌✅  
+• H2H: 34 desde 2005: 5V-11E-18D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: St Truiden: sin bajas; Genk: sin bajas  
+• Favorito de las casas: St Truiden @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +10.5 41% · St Truiden +5.5 48% · Genk +4.5 41%  
+Tarjetas 1.6 - 2.1: total +4.5 32% · St Truiden +2.5 21% · Genk +2.5 36%  
+Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%  
+Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
+
+## St Truiden vs Genk — 29/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 3.5 córners de Genk** @ **2.45** (Unibet) · prob 40% vs casas 38% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌✅➖ | Genk ✅✅❌❌✅  
+• H2H: 34 desde 2005: 5V-11E-18D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: St Truiden: sin bajas; Genk: sin bajas  
+• Favorito de las casas: St Truiden @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +10.5 41% · St Truiden +5.5 48% · Genk +4.5 41%  
+Tarjetas 1.6 - 2.1: total +4.5 32% · St Truiden +2.5 21% · Genk +2.5 36%  
+Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%  
+Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
+
+## St Truiden vs Genk — 29/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de St Truiden** @ **1.60** (Unibet) · prob 60% vs casas 57% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌✅➖ | Genk ✅✅❌❌✅  
+• H2H: 34 desde 2005: 5V-11E-18D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: St Truiden: sin bajas; Genk: sin bajas  
+• Favorito de las casas: St Truiden @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +10.5 41% · St Truiden +5.5 48% · Genk +4.5 41%  
+Tarjetas 1.6 - 2.1: total +4.5 32% · St Truiden +2.5 21% · Genk +2.5 36%  
+Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%  
+Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
+
+## St Truiden vs Genk — 29/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de St Truiden** @ **1.37** (Unibet) · prob 66% vs casas 67% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌✅➖ | Genk ✅✅❌❌✅  
+• H2H: 34 desde 2005: 5V-11E-18D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: St Truiden: sin bajas; Genk: sin bajas  
+• Favorito de las casas: St Truiden @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +10.5 41% · St Truiden +5.5 48% · Genk +4.5 41%  
+Tarjetas 1.6 - 2.1: total +4.5 32% · St Truiden +2.5 21% · Genk +2.5 36%  
+Faltas 10.3 - 11.0: total +22.5 38% · St Truiden +10.5 45% · Genk +11.5 42%  
+Tiros a puerta 5.1 - 4.2: total +9.5 46% · St Truiden +5.5 41% · Genk +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas → prob. 52%, cuota justa 1.93 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Truiden + Menos de 22.5 faltas + Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners + Más de 2.5 goles → prob. 8%, cuota justa 11.91  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de St Truiden + Menos de 10.5 córners): cuota Unibet aprox. 2.28 (producto de piernas) · prob. 37% · ventaja -16%  
+
+## Braunschweig vs Wolfsburg — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Wolfsburg** @ **1.46** (Unibet) · prob 63% vs casas 63% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.79)  
+1 22% · X 27% · 2 52%  
+1X 48% · X2 78% · 12 73%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 1-2 9% · 0-1 7% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Braunschweig ❌✅❌➖✅ | Wolfsburg ✅➖✅❌✅  
+• H2H: 2 desde 2013: 1V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
+• Bajas: Braunschweig: 0 fuera, 4 duda; Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara)  
+• Favorito de las casas: Wolfsburg @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 5.8: total +10.5 53% · Braunschweig +5.5 41% · Wolfsburg +5.5 49%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Braunschweig +2.5 31% · Wolfsburg +2.5 44%  
+Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5 66%  
+Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
+
+## Braunschweig vs Wolfsburg — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Wolfsburg** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.79)  
+1 22% · X 27% · 2 52%  
+1X 48% · X2 78% · 12 73%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 1-2 9% · 0-1 7% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Braunschweig ❌✅❌➖✅ | Wolfsburg ✅➖✅❌✅  
+• H2H: 2 desde 2013: 1V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
+• Bajas: Braunschweig: 0 fuera, 4 duda; Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara)  
+• Favorito de las casas: Wolfsburg @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 5.8: total +10.5 53% · Braunschweig +5.5 41% · Wolfsburg +5.5 49%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Braunschweig +2.5 31% · Wolfsburg +2.5 44%  
+Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5 66%  
+Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
+
+## Braunschweig vs Wolfsburg — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Braunschweig** @ **1.75** (Unibet) · prob 54% vs casas 52% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.79)  
+1 22% · X 27% · 2 52%  
+1X 48% · X2 78% · 12 73%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 1-2 9% · 0-1 7% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Braunschweig ❌✅❌➖✅ | Wolfsburg ✅➖✅❌✅  
+• H2H: 2 desde 2013: 1V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
+• Bajas: Braunschweig: 0 fuera, 4 duda; Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara)  
+• Favorito de las casas: Wolfsburg @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 5.8: total +10.5 53% · Braunschweig +5.5 41% · Wolfsburg +5.5 49%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Braunschweig +2.5 31% · Wolfsburg +2.5 44%  
+Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5 66%  
+Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
+
+## Braunschweig vs Wolfsburg — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Braunschweig** @ **1.30** (Unibet) · prob 71% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.79)  
+1 22% · X 27% · 2 52%  
+1X 48% · X2 78% · 12 73%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 1-2 9% · 0-1 7% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Braunschweig ❌✅❌➖✅ | Wolfsburg ✅➖✅❌✅  
+• H2H: 2 desde 2013: 1V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
+• Bajas: Braunschweig: 0 fuera, 4 duda; Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara)  
+• Favorito de las casas: Wolfsburg @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 5.8: total +10.5 53% · Braunschweig +5.5 41% · Wolfsburg +5.5 49%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Braunschweig +2.5 31% · Wolfsburg +2.5 44%  
+Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5 66%  
+Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
+
+## Braunschweig vs Wolfsburg — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.49** (Unibet) · prob 63% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.79)  
+1 22% · X 27% · 2 52%  
+1X 48% · X2 78% · 12 73%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 1-2 9% · 0-1 7% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Braunschweig ❌✅❌➖✅ | Wolfsburg ✅➖✅❌✅  
+• H2H: 2 desde 2013: 1V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
+• Bajas: Braunschweig: 0 fuera, 4 duda; Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara)  
+• Favorito de las casas: Wolfsburg @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 5.8: total +10.5 53% · Braunschweig +5.5 41% · Wolfsburg +5.5 49%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Braunschweig +2.5 31% · Wolfsburg +2.5 44%  
+Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5 66%  
+Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
+
+## Braunschweig vs Wolfsburg — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.32 - 1.79)  
+1 22% · X 27% · 2 52%  
+1X 48% · X2 78% · 12 73%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 1-2 9% · 0-1 7% · 0-2 7%  
+🔎 **Claves**  
+• Forma: Braunschweig ❌✅❌➖✅ | Wolfsburg ✅➖✅❌✅  
+• H2H: 2 desde 2013: 1V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
+• Bajas: Braunschweig: 0 fuera, 4 duda; Wolfsburg: 2 fuera, 0 duda (Cleiton Santos, Kamil Grabara)  
+• Favorito de las casas: Wolfsburg @ 1.87  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 5.8: total +10.5 53% · Braunschweig +5.5 41% · Wolfsburg +5.5 49%  
+Tarjetas 2.0 - 2.4: total +4.5 44% · Braunschweig +2.5 31% · Wolfsburg +2.5 44%  
+Faltas 12.0 - 13.3: total +22.5 68% · Braunschweig +11.5 53% · Wolfsburg +11.5 66%  
+Tiros a puerta 4.6 - 5.5: total +10.5 43% · Braunschweig +5.5 33% · Wolfsburg +4.5 62%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig → prob. 29%, cuota justa 3.41 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Braunschweig + Más de 22.5 faltas + Menos de 5.5 tiros a puerta de Braunschweig + Más de 2.5 goles + Menos de 5.5 córners de Braunschweig → prob. 10%, cuota justa 9.91  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Braunschweig): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 36% · ventaja -24%  
+
+## Greuther Furth vs Bielefeld — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Greuther Furth** @ **2.60** (Unibet) · prob 39% vs casas 35% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.63 - 1.33)  
+1 36% · X 29% · 2 35%  
+1X 65% · X2 64% · 12 71%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Greuther Furth ✅❌✅❌❌ | Bielefeld ✅❌✅✅❌  
+• H2H: 22 desde 2009: 8V-8E-6D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Greuther Furth: 0 fuera, 6 duda; Bielefeld: 0 fuera, 1 duda  
+• Favorito de las casas: Bielefeld @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.2: total +10.5 48% · Greuther Furth +5.5 42% · Bielefeld +5.5 42%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Greuther Furth +2.5 31% · Bielefeld +2.5 37%  
+Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11.5 55%  
+Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
+
+## Greuther Furth vs Bielefeld — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Greuther Furth** @ **1.42** (Unibet) · prob 61% vs casas 65% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.63 - 1.33)  
+1 36% · X 29% · 2 35%  
+1X 65% · X2 64% · 12 71%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Greuther Furth ✅❌✅❌❌ | Bielefeld ✅❌✅✅❌  
+• H2H: 22 desde 2009: 8V-8E-6D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Greuther Furth: 0 fuera, 6 duda; Bielefeld: 0 fuera, 1 duda  
+• Favorito de las casas: Bielefeld @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.2: total +10.5 48% · Greuther Furth +5.5 42% · Bielefeld +5.5 42%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Greuther Furth +2.5 31% · Bielefeld +2.5 37%  
+Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11.5 55%  
+Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
+
+## Greuther Furth vs Bielefeld — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.37** (Unibet) · prob 69% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.63 - 1.33)  
+1 36% · X 29% · 2 35%  
+1X 65% · X2 64% · 12 71%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Greuther Furth ✅❌✅❌❌ | Bielefeld ✅❌✅✅❌  
+• H2H: 22 desde 2009: 8V-8E-6D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Greuther Furth: 0 fuera, 6 duda; Bielefeld: 0 fuera, 1 duda  
+• Favorito de las casas: Bielefeld @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.2: total +10.5 48% · Greuther Furth +5.5 42% · Bielefeld +5.5 42%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Greuther Furth +2.5 31% · Bielefeld +2.5 37%  
+Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11.5 55%  
+Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
+
+## Greuther Furth vs Bielefeld — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.45** (Unibet) · prob 63% vs casas 63% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.63 - 1.33)  
+1 36% · X 29% · 2 35%  
+1X 65% · X2 64% · 12 71%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Greuther Furth ✅❌✅❌❌ | Bielefeld ✅❌✅✅❌  
+• H2H: 22 desde 2009: 8V-8E-6D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Greuther Furth: 0 fuera, 6 duda; Bielefeld: 0 fuera, 1 duda  
+• Favorito de las casas: Bielefeld @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.2: total +10.5 48% · Greuther Furth +5.5 42% · Bielefeld +5.5 42%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Greuther Furth +2.5 31% · Bielefeld +2.5 37%  
+Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11.5 55%  
+Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
+
+## Greuther Furth vs Bielefeld — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Bielefeld** @ **1.52** (Unibet) · prob 58% vs casas 60% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.63 - 1.33)  
+1 36% · X 29% · 2 35%  
+1X 65% · X2 64% · 12 71%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Greuther Furth ✅❌✅❌❌ | Bielefeld ✅❌✅✅❌  
+• H2H: 22 desde 2009: 8V-8E-6D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Greuther Furth: 0 fuera, 6 duda; Bielefeld: 0 fuera, 1 duda  
+• Favorito de las casas: Bielefeld @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.2: total +10.5 48% · Greuther Furth +5.5 42% · Bielefeld +5.5 42%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Greuther Furth +2.5 31% · Bielefeld +2.5 37%  
+Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11.5 55%  
+Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
+
+## Greuther Furth vs Bielefeld — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Bielefeld** @ **1.78** (Unibet) · prob 55% vs casas 52% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.63 - 1.33)  
+1 36% · X 29% · 2 35%  
+1X 65% · X2 64% · 12 71%  
++1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 60%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Greuther Furth ✅❌✅❌❌ | Bielefeld ✅❌✅✅❌  
+• H2H: 22 desde 2009: 8V-8E-6D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Greuther Furth: 0 fuera, 6 duda; Bielefeld: 0 fuera, 1 duda  
+• Favorito de las casas: Bielefeld @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 5.2: total +10.5 48% · Greuther Furth +5.5 42% · Bielefeld +5.5 42%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Greuther Furth +2.5 31% · Bielefeld +2.5 37%  
+Faltas 11.0 - 12.2: total +22.5 53% · Greuther Furth +11.5 42% · Bielefeld +11.5 55%  
+Tiros a puerta 4.6 - 4.1: total +10.5 28% · Greuther Furth +5.5 33% · Bielefeld +4.5 39%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Menos de 2.5 tarjetas de Greuther Furth + Menos de 11.5 faltas de Greuther Furth + Menos de 5.5 córners de Bielefeld + Más de 2.5 goles → prob. 9%, cuota justa 11.27  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Bielefeld + Más de 2.5 goles): cuota Unibet aprox. 3.03 (producto de piernas) · prob. 33% · ventaja +1%  
+
+## Magdeburg vs Cottbus — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Cottbus** @ **1.52** (Unibet) · prob 61% vs casas 60% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.93 - 1.60)  
+1 59% · X 23% · 2 18%  
+1X 82% · X2 41% · 12 77%  
++1.5 87% · +2.5 69% · +3.5 47% · Ambos marcan 69%  
+Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ❌✅➖✅✅ | Cottbus ➖➖❌➖❌  
+• H2H: sin precedentes  
+• Bajas: Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty); Cottbus: 1 fuera, 0 duda (King Manu)  
+• Favorito de las casas: Magdeburg @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.6: total +10.5 52% · Magdeburg +5.5 56% · Cottbus +5.5 32%  
+Tarjetas 1.9 - 2.5: total +4.5 45% · Magdeburg +2.5 31% · Cottbus +2.5 46%  
+Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%  
+Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
+
+## Magdeburg vs Cottbus — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Cottbus** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.93 - 1.60)  
+1 59% · X 23% · 2 18%  
+1X 82% · X2 41% · 12 77%  
++1.5 87% · +2.5 69% · +3.5 47% · Ambos marcan 69%  
+Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ❌✅➖✅✅ | Cottbus ➖➖❌➖❌  
+• H2H: sin precedentes  
+• Bajas: Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty); Cottbus: 1 fuera, 0 duda (King Manu)  
+• Favorito de las casas: Magdeburg @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.6: total +10.5 52% · Magdeburg +5.5 56% · Cottbus +5.5 32%  
+Tarjetas 1.9 - 2.5: total +4.5 45% · Magdeburg +2.5 31% · Cottbus +2.5 46%  
+Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%  
+Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
+
+## Magdeburg vs Cottbus — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Magdeburg** @ **1.60** (Unibet) · prob 56% vs casas 57% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.93 - 1.60)  
+1 59% · X 23% · 2 18%  
+1X 82% · X2 41% · 12 77%  
++1.5 87% · +2.5 69% · +3.5 47% · Ambos marcan 69%  
+Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ❌✅➖✅✅ | Cottbus ➖➖❌➖❌  
+• H2H: sin precedentes  
+• Bajas: Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty); Cottbus: 1 fuera, 0 duda (King Manu)  
+• Favorito de las casas: Magdeburg @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.6: total +10.5 52% · Magdeburg +5.5 56% · Cottbus +5.5 32%  
+Tarjetas 1.9 - 2.5: total +4.5 45% · Magdeburg +2.5 31% · Cottbus +2.5 46%  
+Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%  
+Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
+
+## Magdeburg vs Cottbus — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Magdeburg** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.93 - 1.60)  
+1 59% · X 23% · 2 18%  
+1X 82% · X2 41% · 12 77%  
++1.5 87% · +2.5 69% · +3.5 47% · Ambos marcan 69%  
+Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ❌✅➖✅✅ | Cottbus ➖➖❌➖❌  
+• H2H: sin precedentes  
+• Bajas: Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty); Cottbus: 1 fuera, 0 duda (King Manu)  
+• Favorito de las casas: Magdeburg @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.6: total +10.5 52% · Magdeburg +5.5 56% · Cottbus +5.5 32%  
+Tarjetas 1.9 - 2.5: total +4.5 45% · Magdeburg +2.5 31% · Cottbus +2.5 46%  
+Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%  
+Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
+
+## Magdeburg vs Cottbus — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.45** (Unibet) · prob 63% vs casas 63% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.93 - 1.60)  
+1 59% · X 23% · 2 18%  
+1X 82% · X2 41% · 12 77%  
++1.5 87% · +2.5 69% · +3.5 47% · Ambos marcan 69%  
+Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ❌✅➖✅✅ | Cottbus ➖➖❌➖❌  
+• H2H: sin precedentes  
+• Bajas: Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty); Cottbus: 1 fuera, 0 duda (King Manu)  
+• Favorito de las casas: Magdeburg @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.6: total +10.5 52% · Magdeburg +5.5 56% · Cottbus +5.5 32%  
+Tarjetas 1.9 - 2.5: total +4.5 45% · Magdeburg +2.5 31% · Cottbus +2.5 46%  
+Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%  
+Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
+
+## Magdeburg vs Cottbus — 29/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.41** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.93 - 1.60)  
+1 59% · X 23% · 2 18%  
+1X 82% · X2 41% · 12 77%  
++1.5 87% · +2.5 69% · +3.5 47% · Ambos marcan 69%  
+Marcadores: 1-1 9% · 2-1 9% · 1-2 7% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ❌✅➖✅✅ | Cottbus ➖➖❌➖❌  
+• H2H: sin precedentes  
+• Bajas: Magdeburg: 1 fuera, 3 duda (A. Garcia MacNulty); Cottbus: 1 fuera, 0 duda (King Manu)  
+• Favorito de las casas: Magdeburg @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.6: total +10.5 52% · Magdeburg +5.5 56% · Cottbus +5.5 32%  
+Tarjetas 1.9 - 2.5: total +4.5 45% · Magdeburg +2.5 31% · Cottbus +2.5 46%  
+Faltas 9.8 - 11.6: total +22.5 39% · Magdeburg +11.5 28% · Cottbus +11.5 49%  
+Tiros a puerta 6.2 - 4.6: total +10.5 51% · Magdeburg +5.5 57% · Cottbus +4.5 48%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles → prob. 36%, cuota justa 2.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Más de 2.5 goles + Menos de 5.5 córners de Cottbus + Más de 5.5 tiros a puerta de Magdeburg → prob. 17%, cuota justa 5.83  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cottbus): cuota Unibet aprox. 1.85 (producto de piernas) · prob. 47% · ventaja -13%  
 
 ## Lyngby vs Viborg — 29/11 · 14:00
 
